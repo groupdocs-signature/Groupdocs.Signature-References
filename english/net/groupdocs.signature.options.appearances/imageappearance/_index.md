@@ -3,7 +3,7 @@ title: ImageAppearance
 second_title: GroupDocs.Signature for .NET API Reference
 description: Describes extended appearance features for Image Signature.
 type: docs
-weight: 680
+weight: 1120
 url: /net/groupdocs.signature.options.appearances/imageappearance/
 ---
 ## ImageAppearance class
@@ -28,12 +28,6 @@ public class ImageAppearance : SignatureAppearance
 | [Contrast](../../groupdocs.signature.options.appearances/imageappearance/contrast) { get; set; } | Gets or sets image contrast. Default value is 1 it corresponds to original contrast of image. |
 | [GammaCorrection](../../groupdocs.signature.options.appearances/imageappearance/gammacorrection) { get; set; } | Gets or sets image gamma. Default value is 1 it corresponds to original gamma of image. |
 | [Grayscale](../../groupdocs.signature.options.appearances/imageappearance/grayscale) { get; set; } | Setup this flag to true if gray-scale filter is required. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| override [ToString](../../groupdocs.signature.options.appearances/signatureappearance/tostring)() | Override string conversion. |
 
 ### See Also
 

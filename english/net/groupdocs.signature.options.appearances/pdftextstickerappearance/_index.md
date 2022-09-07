@@ -3,7 +3,7 @@ title: PdfTextStickerAppearance
 second_title: GroupDocs.Signature for .NET API Reference
 description: Describes appearance of PDF text annotation sticker object and popup window of sticker.
 type: docs
-weight: 710
+weight: 1150
 url: /net/groupdocs.signature.options.appearances/pdftextstickerappearance/
 ---
 ## PdfTextStickerAppearance class
@@ -35,7 +35,6 @@ public sealed class PdfTextStickerAppearance : SignatureAppearance
 
 | Name | Description |
 | --- | --- |
-| override [ToString](../../groupdocs.signature.options.appearances/pdftextstickerappearance/tostring)() | Override string conversion. |
 | static [ResetDefaultAppearance](../../groupdocs.signature.options.appearances/pdftextstickerappearance/resetdefaultappearance)() | Clears values of default appearance for sticker. |
 
 ### See Also

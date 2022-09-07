@@ -3,7 +3,7 @@ title: FormFieldSearchOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents search options for Formfield signatures.
 type: docs
-weight: 440
+weight: 1280
 url: /net/groupdocs.signature.options/formfieldsearchoptions/
 ---
 ## FormFieldSearchOptions class
@@ -31,12 +31,6 @@ public class FormFieldSearchOptions : SearchOptions
 | [SkipExternal](../../groupdocs.signature.options/searchoptions/skipexternal) { get; set; } | Flag to return only signatures marked as IsSignature. By default value is false that indicates to return all signatures that match specified criteria. |
 | [Type](../../groupdocs.signature.options/formfieldsearchoptions/type) { get; set; } | Specifies type of form field signature if it should be searched. Default value is null. |
 | [Value](../../groupdocs.signature.options/formfieldsearchoptions/value) { get; set; } | Specifies value of form field signature if it should be searched. Default value is null. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| override [ToString](../../groupdocs.signature.options/searchoptions/tostring)() | Override string conversion. |
 
 ### Remarks
 

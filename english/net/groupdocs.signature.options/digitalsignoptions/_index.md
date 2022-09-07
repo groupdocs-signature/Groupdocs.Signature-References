@@ -3,7 +3,7 @@ title: DigitalSignOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents the Digital signature options.
 type: docs
-weight: 510
+weight: 1250
 url: /net/groupdocs.signature.options/digitalsignoptions/
 ---
 ## DigitalSignOptions class
@@ -70,7 +70,6 @@ public class DigitalSignOptions : ImageSignOptions
 | Name | Description |
 | --- | --- |
 | [Dispose](../../groupdocs.signature.options/imagesignoptions/dispose)() | Clears internal resources |
-| override [ToString](../../groupdocs.signature.options/digitalsignoptions/tostring)() | Override string conversion. |
 
 ### Remarks
 

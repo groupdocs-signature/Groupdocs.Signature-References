@@ -3,7 +3,7 @@ title: PagesSetup
 second_title: GroupDocs.Signature for .NET API Reference
 description: Describes special document pages to work with.
 type: docs
-weight: 160
+weight: 1410
 url: /net/groupdocs.signature.options/pagessetup/
 ---
 ## PagesSetup class
@@ -29,12 +29,6 @@ public class PagesSetup
 | [LastPage](../../groupdocs.signature.options/pagessetup/lastpage) { get; set; } | Gets or sets flag to use last document page. |
 | [OddPages](../../groupdocs.signature.options/pagessetup/oddpages) { get; set; } | Gets or sets flag to use odd pages of document. |
 | [PageNumbers](../../groupdocs.signature.options/pagessetup/pagenumbers) { get; set; } | Set arbitrary pages of document to use. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| override [ToString](../../groupdocs.signature.options/pagessetup/tostring)() | Overrides conversion to string. |
 
 ### See Also
 

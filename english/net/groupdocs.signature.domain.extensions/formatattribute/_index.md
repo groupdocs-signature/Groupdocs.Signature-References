@@ -3,7 +3,7 @@ title: FormatAttribute
 second_title: GroupDocs.Signature for .NET API Reference
 description: Instructs objects serialization to serialize the member with the specified name and format
 type: docs
-weight: 1670
+weight: 240
 url: /net/groupdocs.signature.domain.extensions/formatattribute/
 ---
 ## FormatAttribute class

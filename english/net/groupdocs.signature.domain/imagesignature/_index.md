@@ -3,7 +3,7 @@ title: ImageSignature
 second_title: GroupDocs.Signature for .NET API Reference
 description: Contains Image signature properties.
 type: docs
-weight: 1310
+weight: 560
 url: /net/groupdocs.signature.domain/imagesignature/
 ---
 ## ImageSignature class
@@ -46,7 +46,6 @@ public class ImageSignature : BaseSignature
 | override [Clone](../../groupdocs.signature.domain/imagesignature/clone)() | Clone Barcode Signature instance. |
 | override [Equals](../../groupdocs.signature.domain/imagesignature/equals)(object) | Overwrites Equals method to compare signature properties |
 | override [GetHashCode](../../groupdocs.signature.domain/imagesignature/gethashcode)() | Overrides GetHashCode method |
-| override [ToString](../../groupdocs.signature.domain/basesignature/tostring)() |  |
 
 ### See Also
 

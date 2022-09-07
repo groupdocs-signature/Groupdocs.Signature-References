@@ -3,7 +3,7 @@ title: DigitalSignatureAppearance
 second_title: GroupDocs.Signature for .NET API Reference
 description: Describes appearance of Signature Line for Digital Signature. One Signature Line could be applied for only one Digital Signature. Signature Line always is on the first page. This feature may be useful for .docx .doc .odt and .xlsx file formats.
 type: docs
-weight: 670
+weight: 1110
 url: /net/groupdocs.signature.options.appearances/digitalsignatureappearance/
 ---
 ## DigitalSignatureAppearance class
@@ -28,12 +28,6 @@ public sealed class DigitalSignatureAppearance : SignatureAppearance
 | [Email](../../groupdocs.signature.options.appearances/digitalsignatureappearance/email) { get; set; } | Gets or sets a email that will be displayed in signature line. |
 | [Signer](../../groupdocs.signature.options.appearances/digitalsignatureappearance/signer) { get; set; } | Gets or sets signer name for signature line. |
 | [Title](../../groupdocs.signature.options.appearances/digitalsignatureappearance/title) { get; set; } | Gets or sets a title for signature line. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| override [ToString](../../groupdocs.signature.options.appearances/digitalsignatureappearance/tostring)() | Override string conversion. |
 
 ### See Also
 

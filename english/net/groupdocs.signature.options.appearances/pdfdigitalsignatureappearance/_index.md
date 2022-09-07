@@ -3,7 +3,7 @@ title: PdfDigitalSignatureAppearance
 second_title: GroupDocs.Signature for .NET API Reference
 description: Describes appearance of Digital Signature are on PDF documents.
 type: docs
-weight: 690
+weight: 1130
 url: /net/groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/
 ---
 ## PdfDigitalSignatureAppearance class
@@ -33,12 +33,6 @@ public sealed class PdfDigitalSignatureAppearance : SignatureAppearance
 | [Foreground](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/foreground) { get; set; } | Get or set foreground text color of signature appearance. By default the value is Color.FromArgb(76, 100, 255) |
 | [LocationLabel](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/locationlabel) { get; set; } | Gets or sets location label. Default value: "Location". if this value is empty then no location label will appear on digital signature area. |
 | [ReasonLabel](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/reasonlabel) { get; set; } | Gets or sets reason label. Default value: "Reason". if this value is empty then no reason label will appear on digital signature area. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| override [ToString](../../groupdocs.signature.options.appearances/signatureappearance/tostring)() | Override string conversion. |
 
 ### Remarks
 

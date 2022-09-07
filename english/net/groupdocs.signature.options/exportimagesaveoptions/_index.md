@@ -3,7 +3,7 @@ title: ExportImageSaveOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Save options for exporting documents to image.
 type: docs
-weight: 230
+weight: 1270
 url: /net/groupdocs.signature.options/exportimagesaveoptions/
 ---
 ## ExportImageSaveOptions class
@@ -36,12 +36,6 @@ public class ExportImageSaveOptions : ImageSaveOptions
 | [Password](../../groupdocs.signature.options/saveoptions/password) { get; set; } | Gets or sets password to save signed document with password protection. This property is not supported for Image documents. |
 | [TiffMultipage](../../groupdocs.signature.options/exportimagesaveoptions/tiffmultipage) { get; set; } | Put document pages on different frames in Tiff image. |
 | [UseOriginalPassword](../../groupdocs.signature.options/saveoptions/useoriginalpassword) { get; set; } | Gets or sets whether to use password from LoadOptions to save signed document as protected. Default value is true. This property is not supported for Image documents. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| override [ToString](../../groupdocs.signature.options/exportimagesaveoptions/tostring)() | Override string conversion. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: ResetDefaultAppearance
 second_title: GroupDocs.Signature for .NET API Reference
 description: Clears values of default appearance for sticker.
 type: docs
-weight: 90
+weight: 80
 url: /net/groupdocs.signature.options.appearances/pdftextstickerappearance/resetdefaultappearance/
 ---
 ## PdfTextStickerAppearance.ResetDefaultAppearance method

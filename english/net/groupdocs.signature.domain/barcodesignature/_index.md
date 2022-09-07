@@ -3,7 +3,7 @@ title: BarcodeSignature
 second_title: GroupDocs.Signature for .NET API Reference
 description: Contains Barcode Signature properties.
 type: docs
-weight: 1220
+weight: 20
 url: /net/groupdocs.signature.domain/barcodesignature/
 ---
 ## BarcodeSignature class
@@ -47,7 +47,6 @@ public class BarcodeSignature : BaseSignature
 | override [Clone](../../groupdocs.signature.domain/barcodesignature/clone)() | Clone Barcode Signature instance. |
 | override [Equals](../../groupdocs.signature.domain/barcodesignature/equals)(object) | Overwrites Equals method to compare signature properties |
 | override [GetHashCode](../../groupdocs.signature.domain/barcodesignature/gethashcode)() | Overrides GetHashCode method |
-| override [ToString](../../groupdocs.signature.domain/basesignature/tostring)() |  |
 
 ### See Also
 

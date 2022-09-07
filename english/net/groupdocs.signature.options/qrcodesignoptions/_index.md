@@ -3,7 +3,7 @@ title: QrCodeSignOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents the QRCode signature options.
 type: docs
-weight: 550
+weight: 1540
 url: /net/groupdocs.signature.options/qrcodesignoptions/
 ---
 ## QrCodeSignOptions class
@@ -69,12 +69,6 @@ public class QrCodeSignOptions : TextSignOptions
 | [VerticalAlignment](../../groupdocs.signature.options/textsignoptions/verticalalignment) { get; set; } | Vertical alignment of signature on document page. |
 | [Width](../../groupdocs.signature.options/textsignoptions/width) { get; set; } | Width of Signature on Document Page in Measure values (pixels, percents or millimeters see [`MeasureType`](../../groupdocs.signature.domain/measuretype) SizeMeasureType property). |
 | [ZOrder](../../groupdocs.signature.options/signoptions/zorder) { get; set; } | Gets or sets the Z-order position of text signature. Determines the display order of overlapping signatures. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| override [ToString](../../groupdocs.signature.options/qrcodesignoptions/tostring)() | Override string conversion. |
 
 ### Remarks
 

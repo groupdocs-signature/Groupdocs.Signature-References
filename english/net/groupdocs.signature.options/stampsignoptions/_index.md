@@ -3,7 +3,7 @@ title: StampSignOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents the Stamp signature options.
 type: docs
-weight: 570
+weight: 1620
 url: /net/groupdocs.signature.options/stampsignoptions/
 ---
 ## StampSignOptions class
@@ -62,7 +62,6 @@ public class StampSignOptions : ImageSignOptions
 | Name | Description |
 | --- | --- |
 | [Dispose](../../groupdocs.signature.options/imagesignoptions/dispose)() | Clears internal resources |
-| override [ToString](../../groupdocs.signature.options/stampsignoptions/tostring)() | Override string conversion |
 
 ### Remarks
 

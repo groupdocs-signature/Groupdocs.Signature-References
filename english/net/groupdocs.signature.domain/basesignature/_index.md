@@ -3,7 +3,7 @@ title: BaseSignature
 second_title: GroupDocs.Signature for .NET API Reference
 description: Describes base class for signatures.
 type: docs
-weight: 1230
+weight: 50
 url: /net/groupdocs.signature.domain/basesignature/
 ---
 ## BaseSignature class
@@ -37,7 +37,6 @@ public abstract class BaseSignature : ICloneable
 | virtual [Clone](../../groupdocs.signature.domain/basesignature/clone)() | Clone signature instance. |
 | override [Equals](../../groupdocs.signature.domain/basesignature/equals)(object) | Overwrites Equals method to compare signature properties |
 | override [GetHashCode](../../groupdocs.signature.domain/basesignature/gethashcode)() | Overrides GetHashCode method |
-| override [ToString](../../groupdocs.signature.domain/basesignature/tostring)() |  |
 
 ### See Also
 

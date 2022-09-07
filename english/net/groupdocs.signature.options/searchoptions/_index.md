@@ -3,7 +3,7 @@ title: SearchOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents the extract signatures from document options.
 type: docs
-weight: 480
+weight: 1590
 url: /net/groupdocs.signature.options/searchoptions/
 ---
 ## SearchOptions class
@@ -22,12 +22,6 @@ public abstract class SearchOptions
 | [PageNumber](../../groupdocs.signature.options/searchoptions/pagenumber) { get; set; } | Gets or sets Document page number for searching. Value is optional. |
 | [PagesSetup](../../groupdocs.signature.options/searchoptions/pagessetup) { get; set; } | Options to specify pages for Signature searching. |
 | [SkipExternal](../../groupdocs.signature.options/searchoptions/skipexternal) { get; set; } | Flag to return only signatures marked as IsSignature. By default value is false that indicates to return all signatures that match specified criteria. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| override [ToString](../../groupdocs.signature.options/searchoptions/tostring)() | Override string conversion. |
 
 ### Remarks
 

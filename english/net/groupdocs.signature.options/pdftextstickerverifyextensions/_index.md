@@ -3,7 +3,7 @@ title: PdfTextStickerVerifyExtensions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Describes extensions of verification of PDF sticker object.
 type: docs
-weight: 600
+weight: 1440
 url: /net/groupdocs.signature.options/pdftextstickerverifyextensions/
 ---
 ## PdfTextStickerVerifyExtensions class
@@ -28,12 +28,6 @@ public sealed class PdfTextStickerVerifyExtensions : VerifyExtensions
 | [Icon](../../groupdocs.signature.options/pdftextstickerverifyextensions/icon) { get; set; } | Icon of sticker to be verified. Value will not be verified if equals null. |
 | [Subject](../../groupdocs.signature.options/pdftextstickerverifyextensions/subject) { get; set; } | Subject of sticker to be verified. Value will not be verified if equals empty string or null. |
 | [Title](../../groupdocs.signature.options/pdftextstickerverifyextensions/title) { get; set; } | Title of sticker to be verified. Value will not be verified if equals empty string or null. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| override [ToString](../../groupdocs.signature.options/pdftextstickerverifyextensions/tostring)() | Override string conversion |
 
 ### See Also
 

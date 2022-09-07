@@ -3,7 +3,7 @@ title: PdfDigitalSignature
 second_title: GroupDocs.Signature for .NET API Reference
 description: Contains Pdf Digital signature properties.
 type: docs
-weight: 1400
+weight: 620
 url: /net/groupdocs.signature.domain/pdfdigitalsignature/
 ---
 ## PdfDigitalSignature class
@@ -60,7 +60,6 @@ public class PdfDigitalSignature : DigitalSignature
 | override [Clone](../../groupdocs.signature.domain/pdfdigitalsignature/clone)() | Clone Barcode Signature instance. |
 | override [Equals](../../groupdocs.signature.domain/pdfdigitalsignature/equals)(object) | Overwrites Equals method to compare signature properties |
 | override [GetHashCode](../../groupdocs.signature.domain/pdfdigitalsignature/gethashcode)() | Overrides GetHashCode method |
-| override [ToString](../../groupdocs.signature.domain/basesignature/tostring)() |  |
 
 ### See Also
 

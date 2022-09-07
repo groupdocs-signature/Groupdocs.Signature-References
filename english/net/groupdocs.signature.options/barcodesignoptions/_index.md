@@ -3,7 +3,7 @@ title: BarcodeSignOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents the Barcode signature options.
 type: docs
-weight: 500
+weight: 1180
 url: /net/groupdocs.signature.options/barcodesignoptions/
 ---
 ## BarcodeSignOptions class
@@ -65,12 +65,6 @@ public class BarcodeSignOptions : TextSignOptions
 | [VerticalAlignment](../../groupdocs.signature.options/textsignoptions/verticalalignment) { get; set; } | Vertical alignment of signature on document page. |
 | [Width](../../groupdocs.signature.options/textsignoptions/width) { get; set; } | Width of Signature on Document Page in Measure values (pixels, percents or millimeters see [`MeasureType`](../../groupdocs.signature.domain/measuretype) SizeMeasureType property). |
 | [ZOrder](../../groupdocs.signature.options/signoptions/zorder) { get; set; } | Gets or sets the Z-order position of text signature. Determines the display order of overlapping signatures. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| override [ToString](../../groupdocs.signature.options/barcodesignoptions/tostring)() | Override string conversion. |
 
 ### Remarks
 

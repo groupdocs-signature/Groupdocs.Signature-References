@@ -3,7 +3,7 @@ title: QrCodeType
 second_title: GroupDocs.Signature for .NET API Reference
 description: Specify QRCode type properties.
 type: docs
-weight: 1180
+weight: 760
 url: /net/groupdocs.signature.domain/qrcodetype/
 ---
 ## QrCodeType class
@@ -28,7 +28,6 @@ public sealed class QrCodeType : IEquatable<QrCodeType>
 | override [Equals](../../groupdocs.signature.domain/qrcodetype/equals#equals_1)(object) | Overridden method determines whether the specified System.Object is equal to the current System.Object. |
 | [Equals](../../groupdocs.signature.domain/qrcodetype/equals#equals)(QrCodeType) | Determines whether the specified QRCode is equal to the current object. |
 | override [GetHashCode](../../groupdocs.signature.domain/qrcodetype/gethashcode)() | Overridden method serves as a hash function for a particular type. |
-| override [ToString](../../groupdocs.signature.domain/qrcodetype/tostring)() | Overridden method serves as conversion to string type. |
 
 ### See Also
 

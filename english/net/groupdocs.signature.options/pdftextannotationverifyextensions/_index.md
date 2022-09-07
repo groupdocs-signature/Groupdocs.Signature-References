@@ -3,7 +3,7 @@ title: PdfTextAnnotationVerifyExtensions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Describes extensions of verification of PDF text annotation object
 type: docs
-weight: 590
+weight: 1430
 url: /net/groupdocs.signature.options/pdftextannotationverifyextensions/
 ---
 ## PdfTextAnnotationVerifyExtensions class
@@ -27,12 +27,6 @@ public class PdfTextAnnotationVerifyExtensions : VerifyExtensions
 | [Contents](../../groupdocs.signature.options/pdftextannotationverifyextensions/contents) { get; set; } | Contents of text annotation to be verified. Not be verified if equals empty string or null. |
 | [Subject](../../groupdocs.signature.options/pdftextannotationverifyextensions/subject) { get; set; } | Subject of text annotation to be verified. Not be verified if equals empty string or null. |
 | [Title](../../groupdocs.signature.options/pdftextannotationverifyextensions/title) { get; set; } | Title of text annotation to be verified. Not be verified if equals empty string or null. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| override [ToString](../../groupdocs.signature.options/pdftextannotationverifyextensions/tostring)() | Override string conversion. |
 
 ### See Also
 

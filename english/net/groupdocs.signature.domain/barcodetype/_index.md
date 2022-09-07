@@ -3,7 +3,7 @@ title: BarcodeType
 second_title: GroupDocs.Signature for .NET API Reference
 description: Specifies Barcode type properties.
 type: docs
-weight: 740
+weight: 30
 url: /net/groupdocs.signature.domain/barcodetype/
 ---
 ## BarcodeType class
@@ -28,7 +28,6 @@ public sealed class BarcodeType : IEquatable<BarcodeType>
 | [Equals](../../groupdocs.signature.domain/barcodetype/equals#equals)(BarcodeType) | Determines whether the specified BarcodeType is equal to the current object. |
 | override [Equals](../../groupdocs.signature.domain/barcodetype/equals#equals_1)(object) | Overridden method determines whether the specified System.Object is equal to the current System.Object. |
 | override [GetHashCode](../../groupdocs.signature.domain/barcodetype/gethashcode)() | Overridden method serves as a hash function for a particular type. |
-| override [ToString](../../groupdocs.signature.domain/barcodetype/tostring)() | Overridden method serves as conversion to string type. |
 
 ### See Also
 

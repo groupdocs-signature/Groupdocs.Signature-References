@@ -3,7 +3,7 @@ title: TextSearchOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents search options for Text signatures.
 type: docs
-weight: 490
+weight: 1630
 url: /net/groupdocs.signature.options/textsearchoptions/
 ---
 ## TextSearchOptions class
@@ -32,12 +32,6 @@ public class TextSearchOptions : SearchOptions
 | [SignatureImplementation](../../groupdocs.signature.options/textsearchoptions/signatureimplementation) { get; set; } | Specifies text signature implementation to search. |
 | [SkipExternal](../../groupdocs.signature.options/searchoptions/skipexternal) { get; set; } | Flag to return only signatures marked as IsSignature. By default value is false that indicates to return all signatures that match specified criteria. |
 | [Text](../../groupdocs.signature.options/textsearchoptions/text) { get; set; } | Specifies signature text to match on searching. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| override [ToString](../../groupdocs.signature.options/searchoptions/tostring)() | Override string conversion. |
 
 ### Remarks
 

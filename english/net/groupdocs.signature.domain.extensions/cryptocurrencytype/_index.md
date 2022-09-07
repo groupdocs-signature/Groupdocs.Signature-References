@@ -3,7 +3,7 @@ title: CryptoCurrencyType
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents Crypto currency type.
 type: docs
-weight: 1630
+weight: 200
 url: /net/groupdocs.signature.domain.extensions/cryptocurrencytype/
 ---
 ## CryptoCurrencyType enumeration

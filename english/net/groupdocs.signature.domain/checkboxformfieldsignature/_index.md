@@ -3,7 +3,7 @@ title: CheckboxFormFieldSignature
 second_title: GroupDocs.Signature for .NET API Reference
 description: Contains checkbox input form field signature properties.
 type: docs
-weight: 1250
+weight: 70
 url: /net/groupdocs.signature.domain/checkboxformfieldsignature/
 ---
 ## CheckboxFormFieldSignature class
@@ -48,7 +48,6 @@ public sealed class CheckboxFormFieldSignature : FormFieldSignature
 | override [Clone](../../groupdocs.signature.domain/checkboxformfieldsignature/clone)() | Clone FormField Signature instance. |
 | override [Equals](../../groupdocs.signature.domain/checkboxformfieldsignature/equals)(object) | Overwrites Equals method to compare signature properties |
 | override [GetHashCode](../../groupdocs.signature.domain/checkboxformfieldsignature/gethashcode)() | Overrides GetHashCode method |
-| override [ToString](../../groupdocs.signature.domain/basesignature/tostring)() |  |
 
 ### See Also
 

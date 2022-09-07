@@ -3,7 +3,7 @@ title: RadioButtonFormFieldSignature
 second_title: GroupDocs.Signature for .NET API Reference
 description: Contains radiobutton input form field signature properties.
 type: docs
-weight: 1290
+weight: 780
 url: /net/groupdocs.signature.domain/radiobuttonformfieldsignature/
 ---
 ## RadioButtonFormFieldSignature class
@@ -50,7 +50,6 @@ public sealed class RadioButtonFormFieldSignature : FormFieldSignature
 | override [Clone](../../groupdocs.signature.domain/radiobuttonformfieldsignature/clone)() | Clone FormField Signature instance. |
 | override [Equals](../../groupdocs.signature.domain/radiobuttonformfieldsignature/equals)(object) | Overwrites Equals method to compare signature properties |
 | override [GetHashCode](../../groupdocs.signature.domain/radiobuttonformfieldsignature/gethashcode)() | Overrides GetHashCode method |
-| override [ToString](../../groupdocs.signature.domain/basesignature/tostring)() |  |
 
 ### See Also
 

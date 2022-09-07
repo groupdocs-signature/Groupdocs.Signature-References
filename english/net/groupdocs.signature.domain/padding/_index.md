@@ -3,7 +3,7 @@ title: Padding
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents padding or margin information associated with element.
 type: docs
-weight: 1150
+weight: 600
 url: /net/groupdocs.signature.domain/padding/
 ---
 ## Padding class
@@ -39,7 +39,6 @@ public class Padding : ICloneable
 | Name | Description |
 | --- | --- |
 | [Clone](../../groupdocs.signature.domain/padding/clone)() | Gets a copy of this object. |
-| override [ToString](../../groupdocs.signature.domain/padding/tostring)() | Overrides conversion to string |
 
 ## Fields
 

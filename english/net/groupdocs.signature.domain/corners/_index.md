@@ -3,7 +3,7 @@ title: Corners
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents corners of a square graphical object.
 type: docs
-weight: 1440
+weight: 100
 url: /net/groupdocs.signature.domain/corners/
 ---
 ## Corners class
@@ -39,7 +39,6 @@ public class Corners : ICloneable
 | [Clone](../../groupdocs.signature.domain/corners/clone)() | Gets a copy of this object. |
 | override [Equals](../../groupdocs.signature.domain/corners/equals)(object) | Override equals method |
 | override [GetHashCode](../../groupdocs.signature.domain/corners/gethashcode)() | Overrides obtaining unique hash code value |
-| override [ToString](../../groupdocs.signature.domain/corners/tostring)() | Overrides conversion to string. |
 
 ## Fields
 

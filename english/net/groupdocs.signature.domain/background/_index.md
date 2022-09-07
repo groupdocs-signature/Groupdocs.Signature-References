@@ -3,7 +3,7 @@ title: Background
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents background appearance
 type: docs
-weight: 730
+weight: 10
 url: /net/groupdocs.signature.domain/background/
 ---
 ## Background class

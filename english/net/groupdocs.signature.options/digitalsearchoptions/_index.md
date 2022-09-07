@@ -3,7 +3,7 @@ title: DigitalSearchOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents search options for Digital signatures.
 type: docs
-weight: 430
+weight: 1240
 url: /net/groupdocs.signature.options/digitalsearchoptions/
 ---
 ## DigitalSearchOptions class
@@ -33,12 +33,6 @@ public class DigitalSearchOptions : SearchOptions
 | [SignDateTimeTo](../../groupdocs.signature.options/digitalsearchoptions/signdatetimeto) { get; set; } | Date and time range of Digital signature to search. Nullable value will be ignored. |
 | [SkipExternal](../../groupdocs.signature.options/searchoptions/skipexternal) { get; set; } | Flag to return only signatures marked as IsSignature. By default value is false that indicates to return all signatures that match specified criteria. |
 | [SubjectName](../../groupdocs.signature.options/digitalsearchoptions/subjectname) { get; set; } | For non empty values specifies distinguished subject name of the certificate to search. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| override [ToString](../../groupdocs.signature.options/searchoptions/tostring)() | Override string conversion. |
 
 ### Remarks
 

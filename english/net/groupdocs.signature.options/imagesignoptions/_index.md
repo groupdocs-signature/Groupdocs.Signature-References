@@ -3,7 +3,7 @@ title: ImageSignOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents the Image signature options.
 type: docs
-weight: 530
+weight: 1330
 url: /net/groupdocs.signature.options/imagesignoptions/
 ---
 ## ImageSignOptions class
@@ -59,7 +59,6 @@ public class ImageSignOptions : SignOptions, IAlignment, IDisposable, IRectangle
 | --- | --- |
 | static [FromBase64](../../groupdocs.signature.options/imagesignoptions/frombase64)(string) | Creates a new instance of the ImageSignOptions class with predefined Image from Base64. |
 | [Dispose](../../groupdocs.signature.options/imagesignoptions/dispose)() | Clears internal resources |
-| override [ToString](../../groupdocs.signature.options/imagesignoptions/tostring)() | Override string conversion. |
 
 ### Remarks
 

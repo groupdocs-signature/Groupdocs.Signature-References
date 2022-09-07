@@ -3,7 +3,7 @@ title: SolidBrush
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents solid brush. It could be used instead background color property.
 type: docs
-weight: 1750
+weight: 320
 url: /net/groupdocs.signature.domain.extensions/solidbrush/
 ---
 ## SolidBrush class

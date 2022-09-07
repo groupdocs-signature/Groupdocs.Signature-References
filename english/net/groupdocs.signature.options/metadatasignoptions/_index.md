@@ -3,7 +3,7 @@ title: MetadataSignOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents Metadata signature options.
 type: docs
-weight: 540
+weight: 1400
 url: /net/groupdocs.signature.options/metadatasignoptions/
 ---
 ## MetadataSignOptions class
@@ -43,7 +43,6 @@ public class MetadataSignOptions : SignOptions
 | [Add](../../groupdocs.signature.options/metadatasignoptions/add)(MetadataSignature) | Add existing MetadataSignature instance to collection. |
 | [AddImageSignature](../../groupdocs.signature.options/metadatasignoptions/addimagesignature)(ushort, object) | Creates new ImageMetadataSignature with passed arguments and adds it to collection. |
 | [AddPdfSignature](../../groupdocs.signature.options/metadatasignoptions/addpdfsignature)(string, object, string) | Creates new PdfMetadataSignature with passed arguments and adds it to collection. |
-| override [ToString](../../groupdocs.signature.options/metadatasignoptions/tostring)() | Override string conversion. |
 
 ### Remarks
 

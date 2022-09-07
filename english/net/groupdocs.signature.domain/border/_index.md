@@ -3,7 +3,7 @@ title: Border
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents border appearance
 type: docs
-weight: 760
+weight: 60
 url: /net/groupdocs.signature.domain/border/
 ---
 ## Border class

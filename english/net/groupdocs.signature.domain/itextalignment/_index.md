@@ -3,7 +3,7 @@ title: ITextAlignment
 second_title: GroupDocs.Signature for .NET API Reference
 description: Defines alignment properties for text on text signatures.
 type: docs
-weight: 1120
+weight: 520
 url: /net/groupdocs.signature.domain/itextalignment/
 ---
 ## ITextAlignment interface

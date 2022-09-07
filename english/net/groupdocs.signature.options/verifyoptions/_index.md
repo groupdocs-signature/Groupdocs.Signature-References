@@ -3,7 +3,7 @@ title: VerifyOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Keeps options to verify document.
 type: docs
-weight: 660
+weight: 1690
 url: /net/groupdocs.signature.options/verifyoptions/
 ---
 ## VerifyOptions class
@@ -23,12 +23,6 @@ public abstract class VerifyOptions
 | [IsValid](../../groupdocs.signature.options/verifyoptions/isvalid) { get; } | Valid property flag. |
 | virtual [PageNumber](../../groupdocs.signature.options/verifyoptions/pagenumber) { get; set; } | Document Page Number to be verified. If property is not set - all Pages of Document will be verified for first occurrence. Minimal value is 1. |
 | virtual [PagesSetup](../../groupdocs.signature.options/verifyoptions/pagessetup) { get; set; } | Page Options to specify pages to be verified. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| override [ToString](../../groupdocs.signature.options/verifyoptions/tostring)() | Override string conversion. |
 
 ### See Also
 

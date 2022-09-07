@@ -3,7 +3,7 @@ title: DigitalVerifyOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Keeps options to verify document Digital signature.
 type: docs
-weight: 630
+weight: 1260
 url: /net/groupdocs.signature.options/digitalverifyoptions/
 ---
 ## DigitalVerifyOptions class
@@ -43,12 +43,6 @@ public class DigitalVerifyOptions : VerifyOptions
 | [SignDateTimeFrom](../../groupdocs.signature.options/digitalverifyoptions/signdatetimefrom) { get; set; } | Date and time range of Digital Signature to validate. Nullable value will be ignored. |
 | [SignDateTimeTo](../../groupdocs.signature.options/digitalverifyoptions/signdatetimeto) { get; set; } | Date and time range of Digital Signature to validate. Nullable value will be ignored. |
 | [SubjectName](../../groupdocs.signature.options/digitalverifyoptions/subjectname) { get; set; } | Subject distinguished name of the certificate to validate. Value is case sensitive. If this property is set verification will check if Signature subject name contains or equals passed value |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| override [ToString](../../groupdocs.signature.options/verifyoptions/tostring)() | Override string conversion. |
 
 ### Remarks
 

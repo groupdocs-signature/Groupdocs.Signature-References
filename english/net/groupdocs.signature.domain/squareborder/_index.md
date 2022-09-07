@@ -3,7 +3,7 @@ title: SquareBorder
 second_title: GroupDocs.Signature for .NET API Reference
 description: Instance to keep Border line properties for square stamp line.
 type: docs
-weight: 1450
+weight: 850
 url: /net/groupdocs.signature.domain/squareborder/
 ---
 ## SquareBorder class

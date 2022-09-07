@@ -3,7 +3,7 @@ title: PdfTextAnnotationAppearance
 second_title: GroupDocs.Signature for .NET API Reference
 description: Describes appearance of PDF text annotation object Title Subject Content.
 type: docs
-weight: 700
+weight: 1140
 url: /net/groupdocs.signature.options.appearances/pdftextannotationappearance/
 ---
 ## PdfTextAnnotationAppearance class
@@ -33,12 +33,6 @@ public class PdfTextAnnotationAppearance : SignatureAppearance
 | [Subject](../../groupdocs.signature.options.appearances/pdftextannotationappearance/subject) { get; set; } | Gets or sets Subject representing description of the object. |
 | [Title](../../groupdocs.signature.options.appearances/pdftextannotationappearance/title) { get; set; } | Gets or sets a Title that will be displayed in title bar of annotation object. |
 | [VCornerRadius](../../groupdocs.signature.options.appearances/pdftextannotationappearance/vcornerradius) { get; set; } | Gets or sets vertical corner radius. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| override [ToString](../../groupdocs.signature.options.appearances/pdftextannotationappearance/tostring)() | Override string conversion. |
 
 ### See Also
 

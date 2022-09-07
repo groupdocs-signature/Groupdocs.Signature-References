@@ -3,7 +3,7 @@ title: WiFi
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents WiFi network connection details.
 type: docs
-weight: 1720
+weight: 400
 url: /net/groupdocs.signature.domain.extensions/wifi/
 ---
 ## WiFi class

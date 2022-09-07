@@ -3,7 +3,7 @@ title: DigitalFormFieldSignature
 second_title: GroupDocs.Signature for .NET API Reference
 description: Contains digital signature input form field properties for Pdf Documents.
 type: docs
-weight: 1270
+weight: 130
 url: /net/groupdocs.signature.domain/digitalformfieldsignature/
 ---
 ## DigitalFormFieldSignature class
@@ -47,7 +47,6 @@ public sealed class DigitalFormFieldSignature : FormFieldSignature
 | override [Clone](../../groupdocs.signature.domain/digitalformfieldsignature/clone)() | Clone FormField Signature instance. |
 | override [Equals](../../groupdocs.signature.domain/digitalformfieldsignature/equals)(object) | Overwrites Equals method to compare signature properties |
 | override [GetHashCode](../../groupdocs.signature.domain/digitalformfieldsignature/gethashcode)() | Overrides GetHashCode method |
-| override [ToString](../../groupdocs.signature.domain/basesignature/tostring)() |  |
 
 ### See Also
 

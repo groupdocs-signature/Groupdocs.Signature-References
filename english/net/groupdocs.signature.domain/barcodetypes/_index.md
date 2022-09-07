@@ -3,7 +3,7 @@ title: BarcodeTypes
 second_title: GroupDocs.Signature for .NET API Reference
 description: Barcode Types container.
 type: docs
-weight: 750
+weight: 40
 url: /net/groupdocs.signature.domain/barcodetypes/
 ---
 ## BarcodeTypes class

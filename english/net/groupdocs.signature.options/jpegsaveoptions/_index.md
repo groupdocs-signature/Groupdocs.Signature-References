@@ -3,7 +3,7 @@ title: JpegSaveOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Jpeg Save options for image documents.
 type: docs
-weight: 310
+weight: 1370
 url: /net/groupdocs.signature.options/jpegsaveoptions/
 ---
 ## JpegSaveOptions class
@@ -29,17 +29,12 @@ public sealed class JpegSaveOptions : ImageSaveOptions
 | [ColorType](../../groupdocs.signature.options/jpegsaveoptions/colortype) { get; set; } | Gets or sets the color type for jpeg image. |
 | [Comment](../../groupdocs.signature.options/jpegsaveoptions/comment) { get; set; } | Gets or sets the jpeg file comment. |
 | [CompressionType](../../groupdocs.signature.options/jpegsaveoptions/compressiontype) { get; set; } | Gets or sets the compression type. |
+| [FileFormat](../../groupdocs.signature.options/imagesaveoptions/fileformat) { get; set; } | Gets or sets file format of signed document. |
 | [OverwriteExistingFiles](../../groupdocs.signature.options/saveoptions/overwriteexistingfiles) { get; set; } | Gets or sets whether to overwrite existing file with new output file. Otherwise new file will be created with number as suffix. By default this value set to true that means file will be overwritten. |
 | [Password](../../groupdocs.signature.options/saveoptions/password) { get; set; } | Gets or sets password to save signed document with password protection. This property is not supported for Image documents. |
 | [Quality](../../groupdocs.signature.options/jpegsaveoptions/quality) { get; set; } | Gets or sets image quality. |
 | [SampleRoundingMode](../../groupdocs.signature.options/jpegsaveoptions/sampleroundingmode) { get; set; } | Gets or sets the sample rounding mode to fit an 8-bit value to an n-bit value JpegOptions.BitsPerChannel. |
 | [UseOriginalPassword](../../groupdocs.signature.options/saveoptions/useoriginalpassword) { get; set; } | Gets or sets whether to use password from LoadOptions to save signed document as protected. Default value is true. This property is not supported for Image documents. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| override [ToString](../../groupdocs.signature.options/imagesaveoptions/tostring)() | Override string conversion |
 
 ### See Also
 

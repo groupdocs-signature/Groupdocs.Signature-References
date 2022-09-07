@@ -3,7 +3,7 @@ title: BarcodeSearchOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents search options for Barcode signatures.
 type: docs
-weight: 420
+weight: 1170
 url: /net/groupdocs.signature.options/barcodesearchoptions/
 ---
 ## BarcodeSearchOptions class
@@ -35,12 +35,6 @@ public class BarcodeSearchOptions : SearchOptions
 | [ReturnContentType](../../groupdocs.signature.options/barcodesearchoptions/returncontenttype) { get; set; } | Specifies file type of returned image content of the Barcode signature when ReturnContent property is enabled. By default it set to Null. That means to return Barcode image content in original format. This image format is specified at [`Format`](../../groupdocs.signature.domain/barcodesignature/format) Possible supported values are: FileType.JPEG, FileType.PNG, FileType.BMP. If provided format is not supported than Barcode image content in .png format will be returned. |
 | [SkipExternal](../../groupdocs.signature.options/searchoptions/skipexternal) { get; set; } | Flag to return only signatures marked as IsSignature. By default value is false that indicates to return all signatures that match specified criteria. |
 | [Text](../../groupdocs.signature.options/barcodesearchoptions/text) { get; set; } | Specifies Barcode Signature text if it should be searched and matched. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| override [ToString](../../groupdocs.signature.options/searchoptions/tostring)() | Override string conversion. |
 
 ### Remarks
 

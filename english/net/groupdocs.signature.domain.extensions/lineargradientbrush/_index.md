@@ -3,7 +3,7 @@ title: LinearGradientBrush
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents linear gradient brush.
 type: docs
-weight: 1590
+weight: 270
 url: /net/groupdocs.signature.domain.extensions/lineargradientbrush/
 ---
 ## LinearGradientBrush class

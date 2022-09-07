@@ -3,7 +3,7 @@ title: DocumentType
 second_title: GroupDocs.Signature for .NET API Reference
 description: Defines the Document type.
 type: docs
-weight: 830
+weight: 160
 url: /net/groupdocs.signature.domain/documenttype/
 ---
 ## DocumentType enumeration

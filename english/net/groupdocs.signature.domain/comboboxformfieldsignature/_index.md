@@ -3,7 +3,7 @@ title: ComboboxFormFieldSignature
 second_title: GroupDocs.Signature for .NET API Reference
 description: Contains combobox input form field signature properties.
 type: docs
-weight: 1260
+weight: 90
 url: /net/groupdocs.signature.domain/comboboxformfieldsignature/
 ---
 ## ComboboxFormFieldSignature class
@@ -50,7 +50,6 @@ public sealed class ComboboxFormFieldSignature : FormFieldSignature
 | override [Clone](../../groupdocs.signature.domain/comboboxformfieldsignature/clone)() | Clone FormField Signature instance. |
 | override [Equals](../../groupdocs.signature.domain/comboboxformfieldsignature/equals)(object) | Overwrites Equals method to compare signature properties |
 | override [GetHashCode](../../groupdocs.signature.domain/comboboxformfieldsignature/gethashcode)() | Overrides GetHashCode method |
-| override [ToString](../../groupdocs.signature.domain/basesignature/tostring)() |  |
 
 ### See Also
 

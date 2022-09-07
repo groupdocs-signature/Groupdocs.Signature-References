@@ -3,7 +3,7 @@ title: QrCodeSignature
 second_title: GroupDocs.Signature for .NET API Reference
 description: Contains QRcode signature properties.
 type: docs
-weight: 1410
+weight: 750
 url: /net/groupdocs.signature.domain/qrcodesignature/
 ---
 ## QrCodeSignature class
@@ -49,7 +49,6 @@ public class QrCodeSignature : BaseSignature
 | [GetData&lt;T&gt;](../../groupdocs.signature.domain/qrcodesignature/getdata#getdata)() | Obtain object from QR-Code Signature Text over deserialization. |
 | [GetData&lt;T&gt;](../../groupdocs.signature.domain/qrcodesignature/getdata#getdata_1)(IDataEncryption) | Obtain object from QR-Code Signature Text over deserialization. |
 | override [GetHashCode](../../groupdocs.signature.domain/qrcodesignature/gethashcode)() | Overrides GetHashCode method |
-| override [ToString](../../groupdocs.signature.domain/basesignature/tostring)() |  |
 
 ### See Also
 

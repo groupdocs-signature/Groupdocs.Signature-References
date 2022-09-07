@@ -3,7 +3,7 @@ title: TextMatchType
 second_title: GroupDocs.Signature for .NET API Reference
 description: Specifies text match type in string.
 type: docs
-weight: 1010
+weight: 940
 url: /net/groupdocs.signature.domain/textmatchtype/
 ---
 ## TextMatchType enumeration

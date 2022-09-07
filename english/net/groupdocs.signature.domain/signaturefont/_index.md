@@ -3,7 +3,7 @@ title: SignatureFont
 second_title: GroupDocs.Signature for .NET API Reference
 description: Creates instance of SignatureFont class to specify Font properties.
 type: docs
-weight: 1210
+weight: 810
 url: /net/groupdocs.signature.domain/signaturefont/
 ---
 ## SignatureFont class
@@ -35,7 +35,6 @@ public class SignatureFont
 
 | Name | Description |
 | --- | --- |
-| override [ToString](../../groupdocs.signature.domain/signaturefont/tostring)() | Override conversion to string |
 | [implicit operator](../../groupdocs.signature.domain/signaturefont/op_implicit) | Convert System.Drawing.Font to SignatureFont. |
 
 ### See Also

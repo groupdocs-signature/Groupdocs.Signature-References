@@ -3,7 +3,7 @@ title: ImageSaveOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Save options for image documents.
 type: docs
-weight: 270
+weight: 1310
 url: /net/groupdocs.signature.options/imagesaveoptions/
 ---
 ## ImageSaveOptions class
@@ -31,12 +31,6 @@ public class ImageSaveOptions : SaveOptions
 | [OverwriteExistingFiles](../../groupdocs.signature.options/saveoptions/overwriteexistingfiles) { get; set; } | Gets or sets whether to overwrite existing file with new output file. Otherwise new file will be created with number as suffix. By default this value set to true that means file will be overwritten. |
 | [Password](../../groupdocs.signature.options/saveoptions/password) { get; set; } | Gets or sets password to save signed document with password protection. This property is not supported for Image documents. |
 | [UseOriginalPassword](../../groupdocs.signature.options/saveoptions/useoriginalpassword) { get; set; } | Gets or sets whether to use password from LoadOptions to save signed document as protected. Default value is true. This property is not supported for Image documents. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| override [ToString](../../groupdocs.signature.options/imagesaveoptions/tostring)() | Override string conversion |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: SymmetricAlgorithmType
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents symmetric encryption algorithm type.
 type: docs
-weight: 1560
+weight: 340
 url: /net/groupdocs.signature.domain.extensions/symmetricalgorithmtype/
 ---
 ## SymmetricAlgorithmType enumeration

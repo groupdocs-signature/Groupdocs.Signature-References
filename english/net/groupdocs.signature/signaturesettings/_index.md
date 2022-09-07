@@ -3,7 +3,7 @@ title: SignatureSettings
 second_title: GroupDocs.Signature for .NET API Reference
 description: Defines settings for customizing Signature./signature behavior.
 type: docs
-weight: 140
+weight: 1800
 url: /net/groupdocs.signature/signaturesettings/
 ---
 ## SignatureSettings class

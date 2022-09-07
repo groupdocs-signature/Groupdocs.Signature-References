@@ -3,7 +3,7 @@ title: BarcodeVerifyOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents the Barcode verify options.
 type: docs
-weight: 620
+weight: 1190
 url: /net/groupdocs.signature.options/barcodeverifyoptions/
 ---
 ## BarcodeVerifyOptions class
@@ -39,12 +39,6 @@ public class BarcodeVerifyOptions : TextVerifyOptions
 | [SignatureID](../../groupdocs.signature.options/textverifyoptions/signatureid) { get; set; } | Specify Text Signature ID more than zero if it should be verified. This property is supported only for Pdf documents |
 | [SignatureImplementation](../../groupdocs.signature.options/textverifyoptions/signatureimplementation) { get; set; } | Type of Signature to be verified. |
 | [Text](../../groupdocs.signature.options/textverifyoptions/text) { get; set; } | Specify Signature Text if it should be verified. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| override [ToString](../../groupdocs.signature.options/barcodeverifyoptions/tostring)() | Overrides conversion to string. |
 
 ### Remarks
 

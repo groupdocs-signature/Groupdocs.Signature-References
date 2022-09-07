@@ -3,7 +3,7 @@ title: GifSaveOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Gif format save options for image documents.
 type: docs
-weight: 260
+weight: 1300
 url: /net/groupdocs.signature.options/gifsaveoptions/
 ---
 ## GifSaveOptions class
@@ -28,6 +28,7 @@ public sealed class GifSaveOptions : ImageSaveOptions
 | [BackgroundColorIndex](../../groupdocs.signature.options/gifsaveoptions/backgroundcolorindex) { get; set; } | Gets or sets the GIF background color index. |
 | [ColorResolution](../../groupdocs.signature.options/gifsaveoptions/colorresolution) { get; set; } | Gets or sets the GIF color resolution. |
 | [DoPaletteCorrection](../../groupdocs.signature.options/gifsaveoptions/dopalettecorrection) { get; set; } | Gets or sets a value indicating whether palette correction is applied. |
+| [FileFormat](../../groupdocs.signature.options/imagesaveoptions/fileformat) { get; set; } | Gets or sets file format of signed document. |
 | [HasTrailer](../../groupdocs.signature.options/gifsaveoptions/hastrailer) { get; set; } | Gets or sets a value indicating whether GIF has trailer. |
 | [Interlaced](../../groupdocs.signature.options/gifsaveoptions/interlaced) { get; set; } | True if image should be interlaced. |
 | [IsPaletteSorted](../../groupdocs.signature.options/gifsaveoptions/ispalettesorted) { get; set; } | Gets or sets a value indicating whether palette entries are sorted. |
@@ -35,12 +36,6 @@ public sealed class GifSaveOptions : ImageSaveOptions
 | [Password](../../groupdocs.signature.options/saveoptions/password) { get; set; } | Gets or sets password to save signed document with password protection. This property is not supported for Image documents. |
 | [PixelAspectRatio](../../groupdocs.signature.options/gifsaveoptions/pixelaspectratio) { get; set; } | Gets or sets the GIF pixel aspect ratio. |
 | [UseOriginalPassword](../../groupdocs.signature.options/saveoptions/useoriginalpassword) { get; set; } | Gets or sets whether to use password from LoadOptions to save signed document as protected. Default value is true. This property is not supported for Image documents. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| override [ToString](../../groupdocs.signature.options/imagesaveoptions/tostring)() | Override string conversion |
 
 ### See Also
 

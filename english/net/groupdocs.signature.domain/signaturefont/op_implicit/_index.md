@@ -3,7 +3,7 @@ title: op_Implicit
 second_title: GroupDocs.Signature for .NET API Reference
 description: Convert System.Drawing.Font to SignatureFont.
 type: docs
-weight: 90
+weight: 80
 url: /net/groupdocs.signature.domain/signaturefont/op_implicit/
 ---
 ## SignatureFont Implicit operator

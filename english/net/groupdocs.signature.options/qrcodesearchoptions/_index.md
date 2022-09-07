@@ -3,7 +3,7 @@ title: QrCodeSearchOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents search options for QRCode signatures.
 type: docs
-weight: 470
+weight: 1530
 url: /net/groupdocs.signature.options/qrcodesearchoptions/
 ---
 ## QrCodeSearchOptions class
@@ -36,12 +36,6 @@ public class QrCodeSearchOptions : SearchOptions
 | [ReturnContentType](../../groupdocs.signature.options/qrcodesearchoptions/returncontenttype) { get; set; } | Specifies file type of returned image content of the QR-Code signature when ReturnContent property is enabled. By default it set to Null. That means to return QR-Code image content in original format. This image format is specified at [`Format`](../../groupdocs.signature.domain/qrcodesignature/format) Possible supported values are: FileType.JPEG, FileType.PNG, FileType.BMP. If provided format is not supported than QR-Code image content in original .png will be returned. |
 | [SkipExternal](../../groupdocs.signature.options/searchoptions/skipexternal) { get; set; } | Flag to return only signatures marked as IsSignature. By default value is false that indicates to return all signatures that match specified criteria. |
 | [Text](../../groupdocs.signature.options/qrcodesearchoptions/text) { get; set; } | Specifies QR-Code Signature Text if it should be searched and matched. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| override [ToString](../../groupdocs.signature.options/searchoptions/tostring)() | Override string conversion. |
 
 ### Remarks
 

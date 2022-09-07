@@ -3,7 +3,7 @@ title: PngSaveOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Png Save options for image documents.
 type: docs
-weight: 340
+weight: 1470
 url: /net/groupdocs.signature.options/pngsaveoptions/
 ---
 ## PngSaveOptions class
@@ -28,17 +28,12 @@ public sealed class PngSaveOptions : ImageSaveOptions
 | [BitDepth](../../groupdocs.signature.options/pngsaveoptions/bitdepth) { get; set; } | The bit depth. |
 | [ColorType](../../groupdocs.signature.options/pngsaveoptions/colortype) { get; set; } | Gets or sets the type of the [`PngColorType`](../pngcolortype). |
 | [CompressionLevel](../../groupdocs.signature.options/pngsaveoptions/compressionlevel) { get; set; } | The png image compression level in the 0-9 range, where 9 is maximum compression and 0 is store mode. |
+| [FileFormat](../../groupdocs.signature.options/imagesaveoptions/fileformat) { get; set; } | Gets or sets file format of signed document. |
 | [FilterType](../../groupdocs.signature.options/pngsaveoptions/filtertype) { get; set; } | Gets or sets the filter type [`PngFilterType`](../pngfiltertype) used during png file save process. |
 | [OverwriteExistingFiles](../../groupdocs.signature.options/saveoptions/overwriteexistingfiles) { get; set; } | Gets or sets whether to overwrite existing file with new output file. Otherwise new file will be created with number as suffix. By default this value set to true that means file will be overwritten. |
 | [Password](../../groupdocs.signature.options/saveoptions/password) { get; set; } | Gets or sets password to save signed document with password protection. This property is not supported for Image documents. |
 | [Progressive](../../groupdocs.signature.options/pngsaveoptions/progressive) { get; set; } | Gets or sets a value indicating whether this PngSaveOptions is progressive. |
 | [UseOriginalPassword](../../groupdocs.signature.options/saveoptions/useoriginalpassword) { get; set; } | Gets or sets whether to use password from LoadOptions to save signed document as protected. Default value is true. This property is not supported for Image documents. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| override [ToString](../../groupdocs.signature.options/imagesaveoptions/tostring)() | Override string conversion |
 
 ### See Also
 

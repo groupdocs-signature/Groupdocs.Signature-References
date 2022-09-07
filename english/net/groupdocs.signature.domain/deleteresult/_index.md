@@ -3,7 +3,7 @@ title: DeleteResult
 second_title: GroupDocs.Signature for .NET API Reference
 description: Result of signatures deletion from the document.
 type: docs
-weight: 770
+weight: 120
 url: /net/groupdocs.signature.domain/deleteresult/
 ---
 ## DeleteResult class

@@ -3,7 +3,7 @@ title: FormFieldSignOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents class of the FormField signature options for Pdf documents.
 type: docs
-weight: 520
+weight: 1290
 url: /net/groupdocs.signature.options/formfieldsignoptions/
 ---
 ## FormFieldSignOptions class
@@ -60,12 +60,6 @@ public sealed class FormFieldSignOptions : TextSignOptions
 | [VerticalAlignment](../../groupdocs.signature.options/textsignoptions/verticalalignment) { get; set; } | Vertical alignment of signature on document page. |
 | [Width](../../groupdocs.signature.options/textsignoptions/width) { get; set; } | Width of Signature on Document Page in Measure values (pixels, percents or millimeters see [`MeasureType`](../../groupdocs.signature.domain/measuretype) SizeMeasureType property). |
 | [ZOrder](../../groupdocs.signature.options/signoptions/zorder) { get; set; } | Gets or sets the Z-order position of text signature. Determines the display order of overlapping signatures. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| override [ToString](../../groupdocs.signature.options/textsignoptions/tostring)() | Override string conversion. |
 
 ### Remarks
 

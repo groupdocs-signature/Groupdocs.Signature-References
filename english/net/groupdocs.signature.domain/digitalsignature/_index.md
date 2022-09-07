@@ -3,7 +3,7 @@ title: DigitalSignature
 second_title: GroupDocs.Signature for .NET API Reference
 description: Contains Digital signature properties.
 type: docs
-weight: 1240
+weight: 140
 url: /net/groupdocs.signature.domain/digitalsignature/
 ---
 ## DigitalSignature class
@@ -55,7 +55,6 @@ public class DigitalSignature : BaseSignature
 | override [Clone](../../groupdocs.signature.domain/digitalsignature/clone)() | Clone Barcode Signature instance. |
 | override [Equals](../../groupdocs.signature.domain/digitalsignature/equals)(object) | Overwrites Equals method to compare signature properties |
 | override [GetHashCode](../../groupdocs.signature.domain/digitalsignature/gethashcode)() | Overrides GetHashCode method |
-| override [ToString](../../groupdocs.signature.domain/basesignature/tostring)() |  |
 | static [LoadDigitalSignatures](../../groupdocs.signature.domain/digitalsignature/loaddigitalsignatures#loaddigitalsignatures)() | Load Digital signature from all system X509 Certificates Stores. |
 | static [LoadDigitalSignatures](../../groupdocs.signature.domain/digitalsignature/loaddigitalsignatures#loaddigitalsignatures_1)(StoreName) | Load Digital signature from passed X509 Certificates Store. |
 | static [LoadDigitalSignatures](../../groupdocs.signature.domain/digitalsignature/loaddigitalsignatures#loaddigitalsignatures_2)(StoreName, StoreLocation) | Load Digital signature from passed X509 Certificates Store. |

@@ -3,7 +3,7 @@ title: SignatureAppearance
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents the signature appearance  additional options for alternative implementations of sign on document page.
 type: docs
-weight: 720
+weight: 1160
 url: /net/groupdocs.signature.options.appearances/signatureappearance/
 ---
 ## SignatureAppearance class
@@ -13,12 +13,6 @@ Represents the signature appearance - additional options for alternative impleme
 ```csharp
 public abstract class SignatureAppearance
 ```
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| override [ToString](../../groupdocs.signature.options.appearances/signatureappearance/tostring)() | Override string conversion. |
 
 ### See Also
 

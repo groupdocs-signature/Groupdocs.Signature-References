@@ -3,7 +3,7 @@ title: IDocumentInfo
 second_title: GroupDocs.Signature for .NET API Reference
 description: Defines document description properties.
 type: docs
-weight: 800
+weight: 480
 url: /net/groupdocs.signature.domain/idocumentinfo/
 ---
 ## IDocumentInfo interface

@@ -3,7 +3,7 @@ title: FormFieldSignature
 second_title: GroupDocs.Signature for .NET API Reference
 description: Contains Form field signature properties.
 type: docs
-weight: 1280
+weight: 430
 url: /net/groupdocs.signature.domain/formfieldsignature/
 ---
 ## FormFieldSignature class
@@ -40,7 +40,6 @@ public abstract class FormFieldSignature : BaseSignature
 | override [Clone](../../groupdocs.signature.domain/formfieldsignature/clone)() | Clone FormField Signature instance. |
 | override [Equals](../../groupdocs.signature.domain/formfieldsignature/equals)(object) | Overwrites Equals method to compare signature properties |
 | override [GetHashCode](../../groupdocs.signature.domain/formfieldsignature/gethashcode)() | Overrides GetHashCode method |
-| override [ToString](../../groupdocs.signature.domain/basesignature/tostring)() |  |
 
 ### See Also
 

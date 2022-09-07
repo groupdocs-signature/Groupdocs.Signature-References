@@ -3,7 +3,7 @@ title: SignOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents the signature options.
 type: docs
-weight: 560
+weight: 1600
 url: /net/groupdocs.signature.options/signoptions/
 ---
 ## SignOptions class
@@ -26,12 +26,6 @@ public abstract class SignOptions
 | virtual [PagesSetup](../../groupdocs.signature.options/signoptions/pagessetup) { get; set; } | Options to specify pages to be signed. |
 | [SignatureType](../../groupdocs.signature.options/signoptions/signaturetype) { get; } | Get the Signature Type [`SignatureType`](../../groupdocs.signature.domain/signaturetype) |
 | [ZOrder](../../groupdocs.signature.options/signoptions/zorder) { get; set; } | Gets or sets the Z-order position of text signature. Determines the display order of overlapping signatures. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| override [ToString](../../groupdocs.signature.options/signoptions/tostring)() | Override string conversion. |
 
 ### Remarks
 

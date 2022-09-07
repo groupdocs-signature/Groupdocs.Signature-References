@@ -3,7 +3,7 @@ title: TextFormFieldSignature
 second_title: GroupDocs.Signature for .NET API Reference
 description: Contains text input form field signature properties for Pdf Document
 type: docs
-weight: 1300
+weight: 920
 url: /net/groupdocs.signature.domain/textformfieldsignature/
 ---
 ## TextFormFieldSignature class
@@ -48,7 +48,6 @@ public sealed class TextFormFieldSignature : FormFieldSignature
 | override [Clone](../../groupdocs.signature.domain/textformfieldsignature/clone)() | Clone FormField Signature instance. |
 | override [Equals](../../groupdocs.signature.domain/textformfieldsignature/equals)(object) | Overwrites Equals method to compare signature properties |
 | override [GetHashCode](../../groupdocs.signature.domain/textformfieldsignature/gethashcode)() | Overrides GetHashCode method |
-| override [ToString](../../groupdocs.signature.domain/basesignature/tostring)() |  |
 
 ### See Also
 

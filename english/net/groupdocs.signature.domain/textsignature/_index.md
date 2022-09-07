@@ -3,7 +3,7 @@ title: TextSignature
 second_title: GroupDocs.Signature for .NET API Reference
 description: Contains Text signature properties.
 type: docs
-weight: 1420
+weight: 960
 url: /net/groupdocs.signature.domain/textsignature/
 ---
 ## TextSignature class
@@ -46,7 +46,6 @@ public class TextSignature : BaseSignature
 | override [Clone](../../groupdocs.signature.domain/textsignature/clone)() | Clone Text Signature instance. |
 | override [Equals](../../groupdocs.signature.domain/textsignature/equals)(object) | Overwrites Equals method to compare signature properties |
 | override [GetHashCode](../../groupdocs.signature.domain/textsignature/gethashcode)() | Overrides GetHashCode method |
-| override [ToString](../../groupdocs.signature.domain/basesignature/tostring)() |  |
 
 ### See Also
 
