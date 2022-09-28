@@ -3,7 +3,7 @@ title: WiFi
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents WiFi network connection details.
 type: docs
-weight: 400
+weight: 410
 url: /net/groupdocs.signature.domain.extensions/wifi/
 ---
 ## WiFi class
@@ -18,7 +18,7 @@ public class WiFi
 
 | Name | Description |
 | --- | --- |
-| [WiFi](wifi)() | Creates VCard instance with default values. |
+| [WiFi](wifi)() | Creates WiFi instance with default values. |
 
 ## Properties
 
@@ -33,7 +33,7 @@ public class WiFi
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../groupdocs.signature.domain.extensions/wifi/equals)(object) | Overwrites Equals method to compare VCard properties |
+| override [Equals](../../groupdocs.signature.domain.extensions/wifi/equals)(object) | Overwrites Equals method to compare WiFi properties |
 | override [GetHashCode](../../groupdocs.signature.domain.extensions/wifi/gethashcode)() | Overrides GetHashCode method |
 
 ### See Also

@@ -3,7 +3,7 @@ title: QrCodeType
 second_title: GroupDocs.Signature for .NET API Reference
 description: Specify QRCode type properties.
 type: docs
-weight: 760
+weight: 770
 url: /net/groupdocs.signature.domain/qrcodetype/
 ---
 ## QrCodeType class

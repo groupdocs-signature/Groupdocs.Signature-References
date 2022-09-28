@@ -1,14 +1,14 @@
 ---
 title: WiFi
 second_title: GroupDocs.Signature for .NET API Reference
-description: Creates VCard instance with default values.
+description: Creates WiFi instance with default values.
 type: docs
 weight: 10
 url: /net/groupdocs.signature.domain.extensions/wifi/wifi/
 ---
 ## WiFi constructor
 
-Creates VCard instance with default values.
+Creates WiFi instance with default values.
 
 ```csharp
 public WiFi()

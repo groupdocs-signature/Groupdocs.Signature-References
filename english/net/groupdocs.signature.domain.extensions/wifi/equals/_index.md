@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: GroupDocs.Signature for .NET API Reference
-description: Overwrites Equals method to compare VCard properties
+description: Overwrites Equals method to compare WiFi properties
 type: docs
 weight: 60
 url: /net/groupdocs.signature.domain.extensions/wifi/equals/
 ---
 ## WiFi.Equals method
 
-Overwrites Equals method to compare VCard properties
+Overwrites Equals method to compare WiFi properties
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,11 +16,11 @@ public override bool Equals(object obj)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| obj | Object | VCard object to compare with. |
+| obj | Object | WiFi object to compare with. |
 
 ### Return Value
 
-Returns true if passed VCard object has same type and all its properties are equal to this instance properties.
+Returns true if passed WiFi object has same type and all its properties are equal to this instance properties.
 
 ### See Also
 

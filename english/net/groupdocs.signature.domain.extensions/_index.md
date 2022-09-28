@@ -24,6 +24,7 @@ The namespace provides extensions for signature appearances and additional funct
 | [RadialGradientBrush](./radialgradientbrush) | Represents radial gradient brush. |
 | [SignatureExtension](./signatureextension) | Represents base class for signatures extensions. |
 | [SkipSerializationAttribute](./skipserializationattribute) | Instructs the serialization to skip the member. |
+| [SMS](./sms) | Represents SMS short message service details. |
 | [SolidBrush](./solidbrush) | Represents solid brush. It could be used instead background color property. |
 | [SpreadsheetPosition](./spreadsheetposition) | Defines signature position for Spreadsheet documents. |
 | [SymmetricEncryption](./symmetricencryption) | Implements standard symmetric algorithms for data encryption with single key and passphrase (salt). |
