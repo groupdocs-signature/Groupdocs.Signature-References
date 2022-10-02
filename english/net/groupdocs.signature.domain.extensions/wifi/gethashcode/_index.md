@@ -16,7 +16,7 @@ public override int GetHashCode()
 
 ### Return Value
 
-VCard hash code
+WiFi hash code
 
 ### See Also
 

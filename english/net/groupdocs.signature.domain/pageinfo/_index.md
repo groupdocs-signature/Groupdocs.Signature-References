@@ -3,7 +3,7 @@ title: PageInfo
 second_title: GroupDocs.Signature for .NET API Reference
 description: Document page description class
 type: docs
-weight: 610
+weight: 620
 url: /net/groupdocs.signature.domain/pageinfo/
 ---
 ## PageInfo class

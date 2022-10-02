@@ -3,7 +3,7 @@ title: ProcessType
 second_title: GroupDocs.Signature for .NET API Reference
 description: Defines supported process with documents like Info Preview Sign Verify Search Update Delete
 type: docs
-weight: 740
+weight: 750
 url: /net/groupdocs.signature.domain/processtype/
 ---
 ## ProcessType enumeration

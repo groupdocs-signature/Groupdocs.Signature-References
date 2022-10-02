@@ -3,7 +3,7 @@ title: TextSearchOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents search options for Text signatures.
 type: docs
-weight: 1630
+weight: 1640
 url: /net/groupdocs.signature.options/textsearchoptions/
 ---
 ## TextSearchOptions class
