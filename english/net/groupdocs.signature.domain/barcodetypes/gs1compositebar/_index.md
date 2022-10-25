@@ -1,17 +1,17 @@
 ---
-title: Planet
+title: GS1CompositeBar
 second_title: GroupDocs.Signature for .NET API Reference
-description: Planet Barcode Type object.
+description: GS1 Composite Barcode Type object.
 type: docs
-weight: 510
-url: /net/groupdocs.signature.domain/barcodetypes/planet/
+weight: 310
+url: /net/groupdocs.signature.domain/barcodetypes/gs1compositebar/
 ---
-## BarcodeTypes.Planet field
+## BarcodeTypes.GS1CompositeBar field
 
-Planet Barcode Type object.
+GS1 Composite Barcode Type object.
 
 ```csharp
-public static readonly BarcodeType Planet;
+public static readonly BarcodeType GS1CompositeBar;
 ```
 
 ### See Also

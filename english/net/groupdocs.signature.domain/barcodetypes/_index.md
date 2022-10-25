@@ -60,6 +60,7 @@ public static class BarcodeTypes
 | static readonly [EAN8](../../groupdocs.signature.domain/barcodetypes/ean8) | EAN8 Barcode Type object. |
 | static readonly [GS1CodablockF](../../groupdocs.signature.domain/barcodetypes/gs1codablockf) | GS1CodablockF Barcode Type object. |
 | static readonly [GS1Code128](../../groupdocs.signature.domain/barcodetypes/gs1code128) | GS1 Code128 Barcode Type object. |
+| static readonly [GS1CompositeBar](../../groupdocs.signature.domain/barcodetypes/gs1compositebar) | GS1 Composite Barcode Type object. |
 | static readonly [IATA2of5](../../groupdocs.signature.domain/barcodetypes/iata2of5) | IATA2of5 Barcode Type object. |
 | static readonly [Interleaved2of5](../../groupdocs.signature.domain/barcodetypes/interleaved2of5) | Interleaved2of5 Barcode Type object. |
 | static readonly [ISBN](../../groupdocs.signature.domain/barcodetypes/isbn) | ISBN Barcode Type object. |

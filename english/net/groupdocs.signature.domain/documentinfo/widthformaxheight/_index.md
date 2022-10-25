@@ -3,7 +3,7 @@ title: WidthForMaxHeight
 second_title: GroupDocs.Signature for .NET API Reference
 description: Specifies width for max page height.
 type: docs
-weight: 160
+weight: 170
 url: /net/groupdocs.signature.domain/documentinfo/widthformaxheight/
 ---
 ## DocumentInfo.WidthForMaxHeight property
