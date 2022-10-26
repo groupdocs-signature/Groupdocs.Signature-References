@@ -3,7 +3,7 @@ title: UPCA
 second_title: GroupDocs.Signature for .NET API Reference
 description: UPCA Barcode Type object.
 type: docs
-weight: 590
+weight: 600
 url: /net/groupdocs.signature.domain/barcodetypes/upca/
 ---
 ## BarcodeTypes.UPCA field

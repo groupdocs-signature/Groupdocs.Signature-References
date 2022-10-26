@@ -3,7 +3,7 @@ title: TryParse
 second_title: GroupDocs.Signature for .NET API Reference
 description: Returns Barcode type with pasringType name. If name of Barcode is unknown  no Exception will be thrown but method will return null value.
 type: docs
-weight: 650
+weight: 660
 url: /net/groupdocs.signature.domain/barcodetypes/tryparse/
 ---
 ## BarcodeTypes.TryParse method

@@ -25,6 +25,7 @@ public interface IDocumentInfo
 | [FormFieldSignatures](../../groupdocs.signature.domain/idocumentinfo/formfieldsignatures) { get; } | Collection of document Form Field signatures added or updated by [`Signature`](../../groupdocs.signature/signature) methods. |
 | [ImageSignatures](../../groupdocs.signature.domain/idocumentinfo/imagesignatures) { get; } | Collection of document image signatures added or updated by [`Signature`](../../groupdocs.signature/signature) methods. |
 | [MaxPageHeight](../../groupdocs.signature.domain/idocumentinfo/maxpageheight) { get; set; } | Specifies max page height. |
+| [MetadataSignatures](../../groupdocs.signature.domain/idocumentinfo/metadatasignatures) { get; } | Collection of document Metadata signatures. |
 | [PageCount](../../groupdocs.signature.domain/idocumentinfo/pagecount) { get; set; } | Document pages count. |
 | [Pages](../../groupdocs.signature.domain/idocumentinfo/pages) { get; set; } | Collection of document pages descriptions. |
 | [ProcessLogs](../../groupdocs.signature.domain/idocumentinfo/processlogs) { get; } | Collection of document history process logs. |
