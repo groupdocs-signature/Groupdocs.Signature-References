@@ -1,0 +1,60 @@
+---
+title: DigitalVerifyOptions
+second_title: GroupDocs.Signature für .NET-API-Referenz
+description: Behält Optionen zur Überprüfung der digitalen Signatur des Dokuments bei.
+type: docs
+weight: 1270
+url: /de/net/groupdocs.signature.options/digitalverifyoptions/
+---
+## DigitalVerifyOptions class
+
+Behält Optionen zur Überprüfung der digitalen Signatur des Dokuments bei.
+
+```csharp
+public class DigitalVerifyOptions : VerifyOptions
+```
+
+## Konstrukteure
+
+| Name | Beschreibung |
+| --- | --- |
+| [DigitalVerifyOptions](digitalverifyoptions#constructor)() | Erstellt die digitale Überprüfungsoption mit Standardwerten. |
+| [DigitalVerifyOptions](digitalverifyoptions#constructor_1)(Stream) | Erstellt eine digitale Verifizierungsoption mit dem angegebenen Zertifikatsstrom. |
+| [DigitalVerifyOptions](digitalverifyoptions#constructor_2)(string) | Erstellt die digitale Verifizierungsoption mit dem angegebenen Dateipfad des digitalen Zertifikats. |
+
+## Eigenschaften
+
+| Name | Beschreibung |
+| --- | --- |
+| [AllPages](../../groupdocs.signature.options/verifyoptions/allpages) { get; set; } | Flag zum Verifizieren jeder Dokumentseite. Standardmäßig ist der Wert true. |
+| [Certificate](../../groupdocs.signature.options/digitalverifyoptions/certificate) { get; } | Holen Sie sich das X509Certificate2-Zertifikat von Certificate FilePath oder Stream. |
+| [CertificateFilePath](../../groupdocs.signature.options/digitalverifyoptions/certificatefilepath) { get; set; } | Dateipfad des digitalen Zertifikats. |
+| [CertificateStream](../../groupdocs.signature.options/digitalverifyoptions/certificatestream) { get; set; } | Stream des digitalen Zertifikats. |
+| [Comments](../../groupdocs.signature.options/digitalverifyoptions/comments) { get; set; } | Kommentare der zu validierenden digitalen Signatur. |
+| [Contact](../../groupdocs.signature.options/digitalverifyoptions/contact) { get; set; } | Signaturkontakt zur Validierung. |
+| [Extensions](../../groupdocs.signature.options/verifyoptions/extensions) { get; set; } | Zusätzliche Erweiterungen für die Überprüfung alternativer Signaturoptionen. |
+| [IssuerName](../../groupdocs.signature.options/digitalverifyoptions/issuername) { get; set; } | Ausstellername des zu validierenden Zertifikats. Beim Wert wird zwischen Groß- und Kleinschreibung unterschieden. Wenn diese Eigenschaft festgelegt ist, prüft die Überprüfung, ob der Name des Ausstellers der Signatur den übergebenen Wert enthält oder diesem entspricht |
+| [IsValid](../../groupdocs.signature.options/verifyoptions/isvalid) { get; } | Gültiges Eigenschaftsflag. |
+| [Location](../../groupdocs.signature.options/digitalverifyoptions/location) { get; set; } | Zu validierender Signaturspeicherort. |
+| virtual [PageNumber](../../groupdocs.signature.options/verifyoptions/pagenumber) { get; set; } | Zu prüfende Seitenzahl des Dokuments. Wenn die Eigenschaft nicht festgelegt ist, werden alle Seiten des Dokuments auf das erste Auftreten überprüft. Der Mindestwert ist 1. |
+| virtual [PagesSetup](../../groupdocs.signature.options/verifyoptions/pagessetup) { get; set; } | Seitenoptionen zum Festlegen von Seiten, die überprüft werden sollen. |
+| [Password](../../groupdocs.signature.options/digitalverifyoptions/password) { get; set; } | Passwort des digitalen Zertifikats, falls erforderlich. |
+| [Reason](../../groupdocs.signature.options/digitalverifyoptions/reason) { get; set; } | Grund der zu validierenden digitalen Signatur. |
+| [SignDateTimeFrom](../../groupdocs.signature.options/digitalverifyoptions/signdatetimefrom) { get; set; } | Datums- und Zeitbereich der zu validierenden digitalen Signatur. Nullable-Werte werden ignoriert. |
+| [SignDateTimeTo](../../groupdocs.signature.options/digitalverifyoptions/signdatetimeto) { get; set; } | Datums- und Zeitbereich der zu validierenden digitalen Signatur. Nullable-Werte werden ignoriert. |
+| [SubjectName](../../groupdocs.signature.options/digitalverifyoptions/subjectname) { get; set; } | Distinguished Name des Antragstellers des zu validierenden Zertifikats. Beim Wert wird zwischen Groß- und Kleinschreibung unterschieden. Wenn diese Eigenschaft festgelegt ist, prüft die Überprüfung, ob der Name des Signatursubjekts den übergebenen Wert enthält oder gleich ist |
+
+### Bemerkungen
+
+**Mehr erfahren**
+
+* Grundlegende Verwendung der Überprüfung für die digitale elektronische Signatur von GroupDocs.Signatur: [ Wie man digitale Signaturen in einem Dokument eVerifiziert](https://docs.groupdocs.com/display/signaturenet/Verify+Digital+signatures+in+the+document)
+* Erweiterte Verwendung der Überprüfungseinstellungen für die digitale elektronische Signatur mit GroupDocs.Signature: [Erweiterte Verwendung von eVerification Digitale Signaturen in einem Dokument und zusätzliche Einstellungen]()
+
+### Siehe auch
+
+* class [VerifyOptions](../verifyoptions)
+* namensraum [GroupDocs.Signature.Options](../../groupdocs.signature.options)
+* Montage [GroupDocs.Signature](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.Signature.dll -->
