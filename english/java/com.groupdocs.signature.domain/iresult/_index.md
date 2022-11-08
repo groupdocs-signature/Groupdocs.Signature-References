@@ -1,6 +1,6 @@
 ---
 title: IResult
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Common interface for signature process result.
 type: docs
 weight: 21

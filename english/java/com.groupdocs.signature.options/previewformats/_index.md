@@ -1,6 +1,6 @@
 ---
 title: PreviewFormats
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Document preview supported formats
 type: docs
 weight: 11

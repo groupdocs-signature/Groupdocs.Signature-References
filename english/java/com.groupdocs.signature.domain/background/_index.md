@@ -1,6 +1,6 @@
 ---
 title: Background
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents background appearance
 type: docs
 weight: 10

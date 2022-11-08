@@ -1,6 +1,6 @@
 ---
 title: ProcessStartEventHandler
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents a method delegate which will handle processes on start events for signing verification and search.
 type: docs
 weight: 16

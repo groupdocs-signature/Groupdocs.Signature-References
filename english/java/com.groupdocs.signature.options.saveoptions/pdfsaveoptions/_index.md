@@ -1,6 +1,6 @@
 ---
 title: PdfSaveOptions
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Save options for PDF documents.
 type: docs
 weight: 11

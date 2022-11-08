@@ -1,6 +1,6 @@
 ---
 title: com.groupdocs.signature.domain.qrcodes
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: The GroupDocs.Signature.Domain.QRCodes namespace provides classes for working with QRCodes
 type: docs
 weight: 19

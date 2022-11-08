@@ -1,6 +1,6 @@
 ---
 title: TextShadow
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents text shadow properties for text signatures.
 type: docs
 weight: 16

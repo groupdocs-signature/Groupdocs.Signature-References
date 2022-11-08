@@ -1,6 +1,6 @@
 ---
 title: com.groupdocs.signature.options.sign
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: The GroupDocs.Signature.Options.Sign namespace provides classes for working with Signature options
 type: docs
 weight: 35

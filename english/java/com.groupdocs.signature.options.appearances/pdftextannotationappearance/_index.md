@@ -1,6 +1,6 @@
 ---
 title: PdfTextAnnotationAppearance
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Describes appearance of PDF text annotation object Title Subject Content.
 type: docs
 weight: 13

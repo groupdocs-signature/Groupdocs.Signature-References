@@ -1,6 +1,6 @@
 ---
 title: QrCodeVerifyOptions
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Keeps options to verify document QR-code signature.
 type: docs
 weight: 12

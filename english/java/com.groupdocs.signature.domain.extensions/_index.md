@@ -1,6 +1,6 @@
 ---
 title: com.groupdocs.signature.domain.extensions
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: The GroupDocs.Signature.Domain.Extensions namespace provides extensions for signature appearances and additional functionality.
 type: docs
 weight: 15

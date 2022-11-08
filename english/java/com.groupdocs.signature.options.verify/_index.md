@@ -1,6 +1,6 @@
 ---
 title: com.groupdocs.signature.options.verify
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: The GroupDocs.Signature.Options.Verify namespace provides classes for working with Verification options
 type: docs
 weight: 36

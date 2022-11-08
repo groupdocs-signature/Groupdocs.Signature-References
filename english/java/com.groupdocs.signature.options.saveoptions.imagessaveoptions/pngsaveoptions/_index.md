@@ -1,6 +1,6 @@
 ---
 title: PngSaveOptions
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Png Save options for Image Documents.
 type: docs
 weight: 19

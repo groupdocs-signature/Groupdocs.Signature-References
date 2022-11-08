@@ -1,6 +1,6 @@
 ---
 title: IDataSerializer
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Serialization interface to provide object serialization and deserialization methods.
 type: docs
 weight: 21

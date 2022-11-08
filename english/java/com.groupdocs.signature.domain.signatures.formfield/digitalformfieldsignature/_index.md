@@ -1,6 +1,6 @@
 ---
 title: DigitalFormFieldSignature
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Contains digital signature input form field properties for Pdf Documents.
 type: docs
 weight: 12

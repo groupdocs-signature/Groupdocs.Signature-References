@@ -1,6 +1,6 @@
 ---
 title: ImageAppearance
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Describes extended appearance features for Image Signature.
 type: docs
 weight: 11

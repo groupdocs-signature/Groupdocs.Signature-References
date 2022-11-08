@@ -1,6 +1,6 @@
 ---
 title: SMS
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents SMS short message service details.
 type: docs
 weight: 17

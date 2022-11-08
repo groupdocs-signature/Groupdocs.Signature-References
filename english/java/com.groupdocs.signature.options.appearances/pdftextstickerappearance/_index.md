@@ -1,6 +1,6 @@
 ---
 title: PdfTextStickerAppearance
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Describes appearance of PDF text annotation sticker object and pop-up window of sticker.
 type: docs
 weight: 14

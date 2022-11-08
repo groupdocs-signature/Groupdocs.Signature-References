@@ -1,6 +1,6 @@
 ---
 title: TextShapeType
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Specifies types of text shapes.
 type: docs
 weight: 30

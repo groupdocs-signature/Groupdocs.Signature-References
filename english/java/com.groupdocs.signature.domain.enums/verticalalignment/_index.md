@@ -1,6 +1,6 @@
 ---
 title: VerticalAlignment
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Specifies vertical alignment of element on Document Page.
 type: docs
 weight: 33

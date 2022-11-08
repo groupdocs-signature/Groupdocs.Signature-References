@@ -1,6 +1,6 @@
 ---
 title: ProcessStartEventArgs
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Provides data for Start event of signing verification and search process
 type: docs
 weight: 15

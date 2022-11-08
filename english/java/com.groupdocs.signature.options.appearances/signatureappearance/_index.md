@@ -1,6 +1,6 @@
 ---
 title: SignatureAppearance
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents the signature appearance - additional options for alternative implementations of sign on document page.
 type: docs
 weight: 15

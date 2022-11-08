@@ -1,6 +1,6 @@
 ---
 title: PdfTextAnnotationVerifyExtensions
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Describes extensions of verification of PDF text annotation object
 type: docs
 weight: 10

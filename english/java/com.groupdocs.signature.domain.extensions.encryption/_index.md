@@ -1,6 +1,6 @@
 ---
 title: com.groupdocs.signature.domain.extensions.encryption
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: The GroupDocs.Signature.Domain.Extensions.Encryption namespace provides classes for working with Encryption
 type: docs
 weight: 16

@@ -1,6 +1,6 @@
 ---
 title: TextFormFieldSignature
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Contains text input form field signature properties for Pdf Document
 type: docs
 weight: 15

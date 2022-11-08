@@ -1,6 +1,6 @@
 ---
 title: com.groupdocs.signature.domain.barcodes
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: The GroupDocs.Signature.Domain.Barcodes namespace provides classes for working with Barcodes
 type: docs
 weight: 12

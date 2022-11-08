@@ -1,6 +1,6 @@
 ---
 title: VCard
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents VCard standard contact details.
 type: docs
 weight: 18

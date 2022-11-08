@@ -1,6 +1,6 @@
 ---
 title: TextVerticalAlignment
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Specifies text vertical alignment inside a Signature.
 type: docs
 weight: 32

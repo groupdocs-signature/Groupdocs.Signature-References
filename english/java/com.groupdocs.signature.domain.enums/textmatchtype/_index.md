@@ -1,6 +1,6 @@
 ---
 title: TextMatchType
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Specifies Text Match type in string - Exact StartsWith EndsWith Contains.
 type: docs
 weight: 29

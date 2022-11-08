@@ -1,6 +1,6 @@
 ---
 title: PageInfo
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Document page description class
 type: docs
 weight: 14

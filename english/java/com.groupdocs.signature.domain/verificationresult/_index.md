@@ -1,6 +1,6 @@
 ---
 title: VerificationResult
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Instance to keep results of verification process.
 type: docs
 weight: 20

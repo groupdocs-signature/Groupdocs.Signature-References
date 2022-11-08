@@ -1,6 +1,6 @@
 ---
 title: PdfTextStickerIcon
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Describes enumeration of PDF Text Annotation Sticker Icon appearance.
 type: docs
 weight: 20

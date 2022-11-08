@@ -1,6 +1,6 @@
 ---
 title: Signature
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents main class that controls document signing process.
 type: docs
 weight: 10

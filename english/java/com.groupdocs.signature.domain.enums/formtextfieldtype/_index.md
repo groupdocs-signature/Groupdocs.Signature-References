@@ -1,6 +1,6 @@
 ---
 title: FormTextFieldType
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Defines types of text for WordsProcessing document form fields.
 type: docs
 weight: 14

@@ -1,6 +1,6 @@
 ---
 title: com.groupdocs.signature.licensing
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: The GroupDocs.Signature.Licensing namespace provides classes for licensing the Signature library.
 type: docs
 weight: 27

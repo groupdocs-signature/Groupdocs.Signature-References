@@ -1,6 +1,6 @@
 ---
 title: SignatureType
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Signature Type define the method to sign.
 type: docs
 weight: 25

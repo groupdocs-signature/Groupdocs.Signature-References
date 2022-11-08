@@ -1,6 +1,6 @@
 ---
 title: SignResult
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Result of signing process for document with newly created signatures.
 type: docs
 weight: 17

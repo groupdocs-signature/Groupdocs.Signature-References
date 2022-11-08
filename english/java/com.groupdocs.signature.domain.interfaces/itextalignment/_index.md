@@ -1,6 +1,6 @@
 ---
 title: ITextAlignment
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Interface defines Alignment properties for text on Text Signatures.
 type: docs
 weight: 13

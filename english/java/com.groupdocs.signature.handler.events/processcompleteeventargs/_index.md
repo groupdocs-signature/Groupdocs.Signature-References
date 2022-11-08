@@ -1,6 +1,6 @@
 ---
 title: ProcessCompleteEventArgs
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Provides data on complete event of signing verification and search processes.
 type: docs
 weight: 10

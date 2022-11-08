@@ -1,6 +1,6 @@
 ---
 title: DeleteResult
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Result of signatures deletion from the document.
 type: docs
 weight: 12

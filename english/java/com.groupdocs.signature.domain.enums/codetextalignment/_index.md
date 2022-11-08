@@ -1,6 +1,6 @@
 ---
 title: CodeTextAlignment
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Alignment of code text for Bar-codes and QR-codes.
 type: docs
 weight: 10

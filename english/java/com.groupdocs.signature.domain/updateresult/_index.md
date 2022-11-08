@@ -1,6 +1,6 @@
 ---
 title: UpdateResult
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Result of modification of signatures in the document.
 type: docs
 weight: 19

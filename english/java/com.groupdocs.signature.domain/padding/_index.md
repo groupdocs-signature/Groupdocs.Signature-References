@@ -1,6 +1,6 @@
 ---
 title: Padding
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents padding or margin information associated with element.
 type: docs
 weight: 13

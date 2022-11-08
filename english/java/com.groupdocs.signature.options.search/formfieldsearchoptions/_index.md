@@ -1,6 +1,6 @@
 ---
 title: FormFieldSearchOptions
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents abstract search Options for Form-field signatures.
 type: docs
 weight: 12

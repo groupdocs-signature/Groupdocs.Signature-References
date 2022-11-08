@@ -1,6 +1,6 @@
 ---
 title: PdfTextAnnotationBorderEffect
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Describes effect which should be applied to the border of the PDF Text Annotations.
 type: docs
 weight: 19

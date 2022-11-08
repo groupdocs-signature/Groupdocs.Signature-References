@@ -1,6 +1,6 @@
 ---
 title: DigitalSearchOptions
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents base options for Digital signatures search
 type: docs
 weight: 11

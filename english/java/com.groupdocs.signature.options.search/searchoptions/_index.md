@@ -1,6 +1,6 @@
 ---
 title: SearchOptions
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents the extract signatures from document options.
 type: docs
 weight: 16

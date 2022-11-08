@@ -1,6 +1,6 @@
 ---
 title: CryptoCurrencyTransfer
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents Crypto currency transfer reciever or transfer for QR-Code.
 type: docs
 weight: 11

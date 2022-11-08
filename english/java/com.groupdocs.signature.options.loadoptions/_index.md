@@ -1,6 +1,6 @@
 ---
 title: com.groupdocs.signature.options.loadoptions
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: The GroupDocs.Signature.Options.LoadOptions namespace provides classes for working with LoadOptions options.
 type: docs
 weight: 31

@@ -1,6 +1,6 @@
 ---
 title: QrCodeSearchOptions
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents abstract search Options for QR-Code signatures.
 type: docs
 weight: 15

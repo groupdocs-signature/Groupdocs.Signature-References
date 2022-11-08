@@ -1,6 +1,6 @@
 ---
 title: StampBackgroundCropType
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Specifies crop type of background layer on Stamp elements.
 type: docs
 weight: 12

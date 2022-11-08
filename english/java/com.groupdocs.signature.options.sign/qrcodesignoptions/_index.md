@@ -1,6 +1,6 @@
 ---
 title: QrCodeSignOptions
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents the QR-Code signature options.
 type: docs
 weight: 15

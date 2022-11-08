@@ -1,6 +1,6 @@
 ---
 title: com.groupdocs.signature.domain.documentpreview
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: The GroupDocs.Signature.Domain.DocumentPreview namespace provides classes for working with document representation.
 type: docs
 weight: 13

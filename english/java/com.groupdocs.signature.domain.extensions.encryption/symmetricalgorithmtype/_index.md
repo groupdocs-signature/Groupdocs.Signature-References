@@ -1,6 +1,6 @@
 ---
 title: SymmetricAlgorithmType
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents symmetric encryption algorithm type.
 type: docs
 weight: 10

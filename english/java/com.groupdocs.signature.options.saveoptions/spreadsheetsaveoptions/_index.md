@@ -1,6 +1,6 @@
 ---
 title: SpreadsheetSaveOptions
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Save options for Spreadsheet Documents.
 type: docs
 weight: 14

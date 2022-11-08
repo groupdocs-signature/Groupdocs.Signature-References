@@ -1,6 +1,6 @@
 ---
 title: VerifyExtensions
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Keeps additional verification options for alternative implementations of signature on a document page.
 type: docs
 weight: 12

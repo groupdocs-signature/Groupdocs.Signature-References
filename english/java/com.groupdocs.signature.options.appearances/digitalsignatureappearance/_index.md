@@ -1,6 +1,6 @@
 ---
 title: DigitalSignatureAppearance
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Describes appearance of Signature Line for Digital Signature.
 type: docs
 weight: 10

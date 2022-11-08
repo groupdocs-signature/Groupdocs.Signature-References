@@ -1,6 +1,6 @@
 ---
 title: SignatureSettings
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Defines settings for customizing  behavior.
 type: docs
 weight: 11

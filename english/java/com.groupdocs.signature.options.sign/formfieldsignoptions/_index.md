@@ -1,6 +1,6 @@
 ---
 title: FormFieldSignOptions
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents class of the FormField signature options for Pdf documents.
 type: docs
 weight: 12

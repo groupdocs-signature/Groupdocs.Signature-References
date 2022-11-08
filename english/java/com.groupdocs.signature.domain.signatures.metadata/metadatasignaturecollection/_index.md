@@ -1,6 +1,6 @@
 ---
 title: MetadataSignatureCollection
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Collection of Metadata signature objects.
 type: docs
 weight: 12

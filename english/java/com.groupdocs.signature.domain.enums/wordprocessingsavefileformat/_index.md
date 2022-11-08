@@ -1,6 +1,6 @@
 ---
 title: WordProcessingSaveFileFormat
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Defines different save file formats for WordProcessing documents.
 type: docs
 weight: 34

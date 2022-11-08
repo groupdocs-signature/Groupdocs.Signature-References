@@ -1,6 +1,6 @@
 ---
 title: TextSignature
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Contains Text signature properties.
 type: docs
 weight: 16

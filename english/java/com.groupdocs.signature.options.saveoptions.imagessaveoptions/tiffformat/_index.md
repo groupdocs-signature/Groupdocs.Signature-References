@@ -1,6 +1,6 @@
 ---
 title: TiffFormat
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Specifies different tiff formats.
 type: docs
 weight: 20

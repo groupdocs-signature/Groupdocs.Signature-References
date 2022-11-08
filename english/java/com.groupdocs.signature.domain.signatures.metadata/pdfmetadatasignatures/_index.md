@@ -1,6 +1,6 @@
 ---
 title: PdfMetadataSignatures
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Contains standard Metadata signatures to be used for Pdf document Metadata Signature Options.
 type: docs
 weight: 14

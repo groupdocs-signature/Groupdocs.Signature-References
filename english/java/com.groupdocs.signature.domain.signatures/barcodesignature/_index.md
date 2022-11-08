@@ -1,6 +1,6 @@
 ---
 title: BarcodeSignature
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Contains Barcode Signature properties.
 type: docs
 weight: 10

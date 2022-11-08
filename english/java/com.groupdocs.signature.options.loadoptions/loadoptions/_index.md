@@ -1,6 +1,6 @@
 ---
 title: LoadOptions
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Allows to specify additional options such as password when opening a document to sign.
 type: docs
 weight: 10

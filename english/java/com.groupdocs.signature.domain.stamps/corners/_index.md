@@ -1,6 +1,6 @@
 ---
 title: Corners
-second_title: GroupDocs.Editor for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents corners of a square graphical object.
 type: docs
 weight: 10
