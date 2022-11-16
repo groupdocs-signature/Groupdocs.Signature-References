@@ -3,7 +3,7 @@ title: GroupDocs.Signature for .NET
 type: docs
 weight: 10
 url: /ar/net/
-description: GroupDocs: يحتوي التوقيع الخاص بمراجع .NET API على أمثلة ومقتطفات التعليمات البرمجية ووثائق API. يوفر مساحات الأسماء والفئات والواجهات وتفاصيل API الأخرى.
+description: GroupDocs يحتوي التوقيع الخاص بمراجع .NET API على أمثلة ومقتطفات التعليمات البرمجية ووثائق API. يوفر مساحات الأسماء والفئات والواجهات وتفاصيل API الأخرى.
 is_root: true
 ---
 ## مساحات الأسماء
