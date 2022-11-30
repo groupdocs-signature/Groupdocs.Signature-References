@@ -3,7 +3,7 @@ title: BarcodeVerifyOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents the Barcode verify options.
 type: docs
-weight: 1250
+weight: 1240
 url: /net/groupdocs.signature.options/barcodeverifyoptions/
 ---
 ## BarcodeVerifyOptions class

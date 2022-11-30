@@ -30,27 +30,13 @@ Creates default SignatureSettings instance with the Logger implementation.
 public SignatureSettings(ILogger logger)
 ```
 
-### See Also
-
-* interface [ILogger](../../../groupdocs.signature.logging/ilogger)
-* class [SignatureSettings](../../signaturesettings)
-* namespace [GroupDocs.Signature](../../signaturesettings)
-* assembly [GroupDocs.Signature](../../../)
-
----
-
-## SignatureSettings(ILogger, LogLevel) {#constructor_2}
-
-Creates default SignatureSettings instance with the Logger implementation.
-
-```csharp
-public SignatureSettings(ILogger logger, LogLevel logLevel)
-```
+| Parameter | Type | Description |
+| --- | --- | --- |
+| logger | ILogger |  |
 
 ### See Also
 
 * interface [ILogger](../../../groupdocs.signature.logging/ilogger)
-* enum [LogLevel](../../../groupdocs.signature.logging/loglevel)
 * class [SignatureSettings](../../signaturesettings)
 * namespace [GroupDocs.Signature](../../signaturesettings)
 * assembly [GroupDocs.Signature](../../../)
