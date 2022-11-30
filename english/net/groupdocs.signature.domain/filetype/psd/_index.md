@@ -3,7 +3,7 @@ title: PSD
 second_title: GroupDocs.Signature for .NET API Reference
 description: Adobe Photoshop Document .psd represents Adobe Photoshops native file format used for graphics designing and development. Learn more about this file format herehttps//wiki.fileformat.com/image/psd.
 type: docs
-weight: 390
+weight: 400
 url: /net/groupdocs.signature.domain/filetype/psd/
 ---
 ## FileType.PSD field

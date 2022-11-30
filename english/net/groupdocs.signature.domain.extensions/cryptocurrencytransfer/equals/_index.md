@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: GroupDocs.Signature for .NET API Reference
-description: Overwrites Equals method to compare Crypto currency transfer properties
+description: Overwrites Equals method to compare Cryptocurrency transfer properties
 type: docs
 weight: 70
 url: /net/groupdocs.signature.domain.extensions/cryptocurrencytransfer/equals/
 ---
 ## CryptoCurrencyTransfer.Equals method
 
-Overwrites Equals method to compare Crypto currency transfer properties
+Overwrites Equals method to compare Cryptocurrency transfer properties
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,11 +16,11 @@ public override bool Equals(object obj)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| obj | Object | Crypto currency transfer object to compare with. |
+| obj | Object | Cryptocurrency transfer object to compare with. |
 
 ### Return Value
 
-Returns true if passed Crypto currency transfer object has same type and all its properties are equal to this instance properties.
+Returns true if passed Cryptocurrency transfer object has same type and all its properties are equal to this instance properties.
 
 ### See Also
 

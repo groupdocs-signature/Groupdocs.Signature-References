@@ -3,7 +3,7 @@ title: CheckboxFormFieldSignature
 second_title: GroupDocs.Signature for .NET API Reference
 description: Contains checkbox input form field signature properties.
 type: docs
-weight: 70
+weight: 80
 url: /net/groupdocs.signature.domain/checkboxformfieldsignature/
 ---
 ## CheckboxFormFieldSignature class

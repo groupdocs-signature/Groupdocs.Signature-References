@@ -3,12 +3,12 @@ title: SaveDocumentOnEmptyUpdate
 second_title: GroupDocs.Signature for .NET API Reference
 description: Gets or sets flag to resave source document when Update method has no signatures to update. If this flag is set to true by default document will be saving with corresponding history process log date and operation type even if Update method has no signatures to update. When this flat is set to false source document will not be modified at all.
 type: docs
-weight: 50
+weight: 70
 url: /net/groupdocs.signature/signaturesettings/savedocumentonemptyupdate/
 ---
 ## SignatureSettings.SaveDocumentOnEmptyUpdate property
 
-Gets or sets flag to resave source document when Update method has no signatures to update. If this flag is set to true (by default) document will be saving with corresponding history process log (date and operation type) even if Update method has no signatures to update. When this flat is set to false source document will not be modified at all.
+Gets or sets flag to re-save source document when Update method has no signatures to update. If this flag is set to true (by default) document will be saving with corresponding history process log (date and operation type) even if Update method has no signatures to update. When this flat is set to false source document will not be modified at all.
 
 ```csharp
 public bool SaveDocumentOnEmptyUpdate { get; set; }

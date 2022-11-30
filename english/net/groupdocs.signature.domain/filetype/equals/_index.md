@@ -3,7 +3,7 @@ title: Equals
 second_title: GroupDocs.Signature for .NET API Reference
 description: Determines whether the current FileTypegroupdocs.signature.domain/filetype is the same as specified FileTypegroupdocs.signature.domain/filetype object.
 type: docs
-weight: 600
+weight: 610
 url: /net/groupdocs.signature.domain/filetype/equals/
 ---
 ## Equals(FileType) {#equals}

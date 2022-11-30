@@ -1,14 +1,14 @@
 ---
 title: Number
 second_title: GroupDocs.Signature for .NET API Reference
-description: Gets or sets SMS receipient phone number.
+description: Gets or sets SMS recipient phone number.
 type: docs
 weight: 30
 url: /net/groupdocs.signature.domain.extensions/sms/number/
 ---
 ## SMS.Number property
 
-Gets or sets SMS receipient phone number.
+Gets or sets SMS recipient phone number.
 
 ```csharp
 public string Number { get; set; }

@@ -3,7 +3,7 @@ title: SignatureSettings
 second_title: GroupDocs.Signature for .NET API Reference
 description: Defines settings for customizing Signature./signature behavior.
 type: docs
-weight: 1810
+weight: 1860
 url: /net/groupdocs.signature/signaturesettings/
 ---
 ## SignatureSettings class
@@ -18,7 +18,9 @@ public class SignatureSettings
 
 | Name | Description |
 | --- | --- |
-| [SignatureSettings](signaturesettings)() | The default constructor. |
+| [SignatureSettings](signaturesettings#constructor)() | Creates default SignatureSettings instance with default values. |
+| [SignatureSettings](signaturesettings#constructor_1)(ILogger) | Creates default SignatureSettings instance with the Logger implementation. |
+| [SignatureSettings](signaturesettings#constructor_2)(ILogger, LogLevel) | Creates default SignatureSettings instance with the Logger implementation. |
 
 ## Properties
 
@@ -26,8 +28,10 @@ public class SignatureSettings
 | --- | --- |
 | [DefaultCulture](../../groupdocs.signature/signaturesettings/defaultculture) { get; set; } | Gets or sets default culture to be used during document processing. Default value is "en-US". |
 | [IncludeStandardMetadataSignatures](../../groupdocs.signature/signaturesettings/includestandardmetadatasignatures) { get; set; } | Gets or sets flag to include into the Metadata List the embedded standard document metadata signatures like Author, Owner, document creation date, modified date, etc. If this flag is set to false (by default) the GetDocumentInfo will not include these metadata signatures. When this flag is set to true the document information will include these standard metadata signatures. |
-| [SaveDocumentOnEmptyDelete](../../groupdocs.signature/signaturesettings/savedocumentonemptydelete) { get; set; } | Gets or sets flag to resave source document when Delete method has no affected signatures to remove. If this flag is set to true (by default) document will be saving with corresponding history process log (date and operation type) even if Delete method has no signatures to remove. When this flat is set to false source document will not be modified at all. |
-| [SaveDocumentOnEmptyUpdate](../../groupdocs.signature/signaturesettings/savedocumentonemptyupdate) { get; set; } | Gets or sets flag to resave source document when Update method has no signatures to update. If this flag is set to true (by default) document will be saving with corresponding history process log (date and operation type) even if Update method has no signatures to update. When this flat is set to false source document will not be modified at all. |
+| [Logger](../../groupdocs.signature/signaturesettings/logger) { get; } | The logger implementation used for logging (Errors, Warnings, Traces). [`ILogger`](../../groupdocs.signature.logging/ilogger). |
+| [LogLevel](../../groupdocs.signature/signaturesettings/loglevel) { get; set; } | The level of the logging to limit the messages (All, Traces, Warnings, Errors). [`LogLevel`](./loglevel). BY default the All level type is set. |
+| [SaveDocumentOnEmptyDelete](../../groupdocs.signature/signaturesettings/savedocumentonemptydelete) { get; set; } | Gets or sets flag to re-save source document when Delete method has no affected signatures to remove. If this flag is set to true (by default) document will be saving with corresponding history process log (date and operation type) even if Delete method has no signatures to remove. When this flat is set to false source document will not be modified at all. |
+| [SaveDocumentOnEmptyUpdate](../../groupdocs.signature/signaturesettings/savedocumentonemptyupdate) { get; set; } | Gets or sets flag to re-save source document when Update method has no signatures to update. If this flag is set to true (by default) document will be saving with corresponding history process log (date and operation type) even if Update method has no signatures to update. When this flat is set to false source document will not be modified at all. |
 | [ShowDeletedSignaturesInfo](../../groupdocs.signature/signaturesettings/showdeletedsignaturesinfo) { get; set; } | Gets or sets flag that includes deleted signatures into Document Info result. Each Signature [`BaseSignature`](../../groupdocs.signature.domain/basesignature) has Deleted flag [`Deleted`](../../groupdocs.signature.domain/basesignature/deleted) to detect if it was deleted. |
 
 ### See Also

@@ -1,14 +1,14 @@
 ---
 title: CryptoCurrencyTransfer
 second_title: GroupDocs.Signature for .NET API Reference
-description: Represents Crypto currency transfer receive or send for QRCode.
+description: Represents Cryptocurrency transfer receive or send for QRCode.
 type: docs
-weight: 190
+weight: 200
 url: /net/groupdocs.signature.domain.extensions/cryptocurrencytransfer/
 ---
 ## CryptoCurrencyTransfer class
 
-Represents Crypto currency transfer (receive or send) for QR-Code.
+Represents Cryptocurrency transfer (receive or send) for QR-Code.
 
 ```csharp
 public class CryptoCurrencyTransfer
@@ -24,17 +24,17 @@ public class CryptoCurrencyTransfer
 
 | Name | Description |
 | --- | --- |
-| [Address](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/address) { get; set; } | Gets or sets crypto currency public address. |
+| [Address](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/address) { get; set; } | Gets or sets cryptocurrency public address. |
 | [Amount](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/amount) { get; set; } | Gets or sets transfer amount. |
 | [CustomType](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/customtype) { get; set; } | Gets or sets optional transfer message. |
 | [Message](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/message) { get; set; } | Gets or sets optional transfer message. |
-| [Type](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/type) { get; set; } | Gets or sets one of supported crypto currency type. |
+| [Type](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/type) { get; set; } | Gets or sets one of supported cryptocurrency type. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/equals)(object) | Overwrites Equals method to compare Crypto currency transfer properties |
+| override [Equals](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/equals)(object) | Overwrites Equals method to compare Cryptocurrency transfer properties |
 | override [GetHashCode](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/gethashcode)() | Overrides GetHashCode method |
 
 ### See Also

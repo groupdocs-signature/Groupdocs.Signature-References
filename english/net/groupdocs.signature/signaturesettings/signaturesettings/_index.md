@@ -1,14 +1,14 @@
 ---
 title: SignatureSettings
 second_title: GroupDocs.Signature for .NET API Reference
-description: The default constructor.
+description: Creates default SignatureSettings instance with default values.
 type: docs
 weight: 10
 url: /net/groupdocs.signature/signaturesettings/signaturesettings/
 ---
-## SignatureSettings constructor
+## SignatureSettings() {#constructor}
 
-The default constructor.
+Creates default SignatureSettings instance with default values.
 
 ```csharp
 public SignatureSettings()
@@ -16,6 +16,41 @@ public SignatureSettings()
 
 ### See Also
 
+* class [SignatureSettings](../../signaturesettings)
+* namespace [GroupDocs.Signature](../../signaturesettings)
+* assembly [GroupDocs.Signature](../../../)
+
+---
+
+## SignatureSettings(ILogger) {#constructor_1}
+
+Creates default SignatureSettings instance with the Logger implementation.
+
+```csharp
+public SignatureSettings(ILogger logger)
+```
+
+### See Also
+
+* interface [ILogger](../../../groupdocs.signature.logging/ilogger)
+* class [SignatureSettings](../../signaturesettings)
+* namespace [GroupDocs.Signature](../../signaturesettings)
+* assembly [GroupDocs.Signature](../../../)
+
+---
+
+## SignatureSettings(ILogger, LogLevel) {#constructor_2}
+
+Creates default SignatureSettings instance with the Logger implementation.
+
+```csharp
+public SignatureSettings(ILogger logger, LogLevel logLevel)
+```
+
+### See Also
+
+* interface [ILogger](../../../groupdocs.signature.logging/ilogger)
+* enum [LogLevel](../../../groupdocs.signature.logging/loglevel)
 * class [SignatureSettings](../../signaturesettings)
 * namespace [GroupDocs.Signature](../../signaturesettings)
 * assembly [GroupDocs.Signature](../../../)

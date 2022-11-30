@@ -1,14 +1,14 @@
 ---
 title: Type
 second_title: GroupDocs.Signature for .NET API Reference
-description: Gets or sets one of supported crypto currency type.
+description: Gets or sets one of supported cryptocurrency type.
 type: docs
 weight: 60
 url: /net/groupdocs.signature.domain.extensions/cryptocurrencytransfer/type/
 ---
 ## CryptoCurrencyTransfer.Type property
 
-Gets or sets one of supported crypto currency type.
+Gets or sets one of supported cryptocurrency type.
 
 ```csharp
 public CryptoCurrencyType Type { get; set; }

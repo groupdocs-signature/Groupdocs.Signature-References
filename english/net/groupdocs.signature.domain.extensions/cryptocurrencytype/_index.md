@@ -1,14 +1,14 @@
 ---
 title: CryptoCurrencyType
 second_title: GroupDocs.Signature for .NET API Reference
-description: Represents Crypto currency type.
+description: Represents Cryptocurrency type.
 type: docs
-weight: 200
+weight: 210
 url: /net/groupdocs.signature.domain.extensions/cryptocurrencytype/
 ---
 ## CryptoCurrencyType enumeration
 
-Represents Crypto currency type.
+Represents Cryptocurrency type.
 
 ```csharp
 public enum CryptoCurrencyType
@@ -18,12 +18,12 @@ public enum CryptoCurrencyType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Custom | `0` | Represents custom crypto currency type. |
-| Bitcoin | `1` | Represents Bitcoin crypto currency type. |
-| BitcoinCash | `2` | Represents Bitcoin Cash crypto currency type. |
-| Litecoin | `3` | Represents Litecoin crypto currency type. |
-| Ethereum | `4` | Represents Ethereum crypto currency type. |
-| Dash | `5` | Represents Dash crypto currency type. |
+| Custom | `0` | Represents custom cryptocurrency type. |
+| Bitcoin | `1` | Represents Bitcoin cryptocurrency type. |
+| BitcoinCash | `2` | Represents Bitcoin Cash cryptocurrency type. |
+| Litecoin | `3` | Represents Litecoin cryptocurrency type. |
+| Ethereum | `4` | Represents Ethereum cryptocurrency type. |
+| Dash | `5` | Represents Dash cryptocurrency type. |
 
 ### See Also
 

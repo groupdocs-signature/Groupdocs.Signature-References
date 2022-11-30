@@ -1,14 +1,14 @@
 ---
 title: Address
 second_title: GroupDocs.Signature for .NET API Reference
-description: Gets or sets crypto currency public address.
+description: Gets or sets cryptocurrency public address.
 type: docs
 weight: 20
 url: /net/groupdocs.signature.domain.extensions/cryptocurrencytransfer/address/
 ---
 ## CryptoCurrencyTransfer.Address property
 
-Gets or sets crypto currency public address.
+Gets or sets cryptocurrency public address.
 
 ```csharp
 public string Address { get; set; }

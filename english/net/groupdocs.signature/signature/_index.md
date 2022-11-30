@@ -3,7 +3,7 @@ title: Signature
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents main class that controls document signing process.
 type: docs
-weight: 1800
+weight: 1850
 url: /net/groupdocs.signature/signature/
 ---
 ## Signature class
@@ -57,6 +57,20 @@ public class Signature : IDisposable
 | [Verify](../../groupdocs.signature/signature/verify#verify_1)(List&lt;VerifyOptions&gt;) | Verifies the document signatures with list of VerifyOptions data. |
 | [Verify](../../groupdocs.signature/signature/verify#verify)(VerifyOptions) | Verifies the document signatures with given VerifyOptions data. |
 | static [GenerateSignaturePreview](../../groupdocs.signature/signature/generatesignaturepreview)(PreviewSignatureOptions) | Generates Signature preview based on given SignOptions. [`SignOptions`](../../groupdocs.signature.options/signoptions) |
+
+## Events
+
+| Name | Description |
+| --- | --- |
+| event [SearchCompleted](../../groupdocs.signature/signature/searchcompleted) | Occurs when signature search process completed. |
+| event [SearchProgress](../../groupdocs.signature/signature/searchprogress) | Occurs when signature search process progress changed. |
+| event [SearchStarted](../../groupdocs.signature/signature/searchstarted) | Occurs when signature search process started. |
+| event [SignCompleted](../../groupdocs.signature/signature/signcompleted) | Occurs when document signing process completed. |
+| event [SignProgress](../../groupdocs.signature/signature/signprogress) | Occurs when document signing process progress changed. |
+| event [SignStarted](../../groupdocs.signature/signature/signstarted) | Occurs when document signing process started. |
+| event [VerifyCompleted](../../groupdocs.signature/signature/verifycompleted) | Occurs when signature verification process completed. |
+| event [VerifyProgress](../../groupdocs.signature/signature/verifyprogress) | Occurs when signature verification process progress changed. |
+| event [VerifyStarted](../../groupdocs.signature/signature/verifystarted) | Occurs when signature verification process started. |
 
 ### Remarks
 

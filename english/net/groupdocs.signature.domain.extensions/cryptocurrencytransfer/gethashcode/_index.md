@@ -16,7 +16,7 @@ public override int GetHashCode()
 
 ### Return Value
 
-Crypto currency transfer hash code
+Cryptocurrency transfer hash code
 
 ### See Also
 

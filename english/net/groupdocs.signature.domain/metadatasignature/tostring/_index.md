@@ -30,34 +30,6 @@ Converts a boolean property into "True" or "False". For another data type the de
 
 ---
 
-## ToString(string) {#tostring_1}
-
-Converts to String with specified format
-
-```csharp
-public virtual string ToString(string format)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| format | String | Data format string. |
-
-### Return Value
-
-Returns the Metadata Signature value as String.
-
-### Remarks
-
-Converts a boolean property into "True" or "False". Default culture property info will be used from SignatureSettings properties [`DefaultCulture`](../../../groupdocs.signature/signaturesettings/defaultculture)
-
-### See Also
-
-* class [MetadataSignature](../../metadatasignature)
-* namespace [GroupDocs.Signature.Domain](../../metadatasignature)
-* assembly [GroupDocs.Signature](../../../)
-
----
-
 ## ToString(string, IFormatProvider) {#tostring_2}
 
 Converts to String with specified format
@@ -78,6 +50,34 @@ Returns the Metadata Signature value as String.
 ### Remarks
 
 Converts a boolean property into "True" or "False".
+
+### See Also
+
+* class [MetadataSignature](../../metadatasignature)
+* namespace [GroupDocs.Signature.Domain](../../metadatasignature)
+* assembly [GroupDocs.Signature](../../../)
+
+---
+
+## ToString(string) {#tostring_1}
+
+Converts to String with specified format
+
+```csharp
+public virtual string ToString(string format)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| format | String | Data format string. |
+
+### Return Value
+
+Returns the Metadata Signature value as String.
+
+### Remarks
+
+Converts a boolean property into "True" or "False". Default culture property info will be used from SignatureSettings properties [`DefaultCulture`](../../../groupdocs.signature/signaturesettings/defaultculture)
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: ProcessStartEventHandler
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents a method delegate which will handle processes on start events for signing verification and search.
 type: docs
-weight: 1790
+weight: 1840
 url: /net/groupdocs.signature/processstarteventhandler/
 ---
 ## ProcessStartEventHandler delegate

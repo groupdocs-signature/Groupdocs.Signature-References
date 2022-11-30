@@ -3,7 +3,7 @@ title: PresentationMetadataSignature
 second_title: GroupDocs.Signature for .NET API Reference
 description: Contains Presentation metadata signature properties.
 type: docs
-weight: 710
+weight: 720
 url: /net/groupdocs.signature.domain/presentationmetadatasignature/
 ---
 ## PresentationMetadataSignature class
