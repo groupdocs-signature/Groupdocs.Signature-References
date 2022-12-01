@@ -3,7 +3,7 @@ title: SymmetricEncryptionAttribute
 second_title: GroupDocs.Signature for .NET API Reference
 description: Instructs instances serialization to encrypt / decrypt object serialization string.
 type: docs
-weight: 370
+weight: 380
 url: /net/groupdocs.signature.domain.extensions/symmetricencryptionattribute/
 ---
 ## SymmetricEncryptionAttribute class

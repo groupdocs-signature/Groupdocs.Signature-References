@@ -3,7 +3,7 @@ title: UpdateResult
 second_title: GroupDocs.Signature for .NET API Reference
 description: Result of modification of signatures in the document.
 type: docs
-weight: 1010
+weight: 1020
 url: /net/groupdocs.signature.domain/updateresult/
 ---
 ## UpdateResult class

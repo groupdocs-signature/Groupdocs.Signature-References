@@ -3,7 +3,7 @@ title: GroupDocs.Signature.Options.Appearances
 second_title: GroupDocs.Signature for .NET API Reference
 description: The namespace provides classes for additional signature appearances.
 type: docs
-weight: 50
+weight: 60
 url: /net/groupdocs.signature.options.appearances/
 ---
 The namespace provides classes for additional signature appearances.

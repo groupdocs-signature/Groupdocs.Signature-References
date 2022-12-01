@@ -5,6 +5,7 @@ weight: 10
 url: /net/
 description: GroupDocs.Signature for .NET API References contain examples, code snippets, and API documentation. It provides namespaces, classes, interfaces, and other API details.
 is_root: true
+version: "22.11"
 ---
 
 ## Namespaces
@@ -14,6 +15,7 @@ is_root: true
 | [GroupDocs.Signature](./groupdocs.signature) | The namespace provides classes for signing documents of different formats with stamps, barcodes, QR-codes, text, image, metadata, form field and digital signatures. |
 | [GroupDocs.Signature.Domain](./groupdocs.signature.domain) | The namespace provides classes for working with document representation. |
 | [GroupDocs.Signature.Domain.Extensions](./groupdocs.signature.domain.extensions) | The namespace provides extensions for signature appearances and additional functionality. |
+| [GroupDocs.Signature.Logging](./groupdocs.signature.logging) | The namespace provides classes for logging purposes. |
 | [GroupDocs.Signature.Options](./groupdocs.signature.options) | The namespace provides classes to specify additional options when loading, signing, verifying, searching and saving documents. |
 | [GroupDocs.Signature.Options.Appearances](./groupdocs.signature.options.appearances) | The namespace provides classes for additional signature appearances. |
 

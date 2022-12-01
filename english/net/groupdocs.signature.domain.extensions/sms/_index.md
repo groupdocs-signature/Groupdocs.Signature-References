@@ -3,7 +3,7 @@ title: SMS
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents SMS short message service details.
 type: docs
-weight: 300
+weight: 310
 url: /net/groupdocs.signature.domain.extensions/sms/
 ---
 ## SMS class
@@ -25,7 +25,7 @@ public class SMS
 | Name | Description |
 | --- | --- |
 | [Message](../../groupdocs.signature.domain.extensions/sms/message) { get; set; } | Gets or sets SMS message content. |
-| [Number](../../groupdocs.signature.domain.extensions/sms/number) { get; set; } | Gets or sets SMS receipient phone number. |
+| [Number](../../groupdocs.signature.domain.extensions/sms/number) { get; set; } | Gets or sets SMS recipient phone number. |
 
 ## Methods
 

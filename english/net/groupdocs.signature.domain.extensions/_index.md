@@ -14,7 +14,7 @@ The namespace provides extensions for signature appearances and additional funct
 | --- | --- |
 | [Address](./address) | Represents address for contact. |
 | [Brush](./brush) | Represents base class for various brushes. |
-| [CryptoCurrencyTransfer](./cryptocurrencytransfer) | Represents Crypto currency transfer (receive or send) for QR-Code. |
+| [CryptoCurrencyTransfer](./cryptocurrencytransfer) | Represents Cryptocurrency transfer (receive or send) for QR-Code. |
 | [Email](./email) | Represents Email format for QR-Code. |
 | [EPC](./epc) | Represents European Payments Council Quick Response Code. |
 | [Event](./event) | Represents standard QR-Code Event details. |
@@ -43,7 +43,7 @@ The namespace provides extensions for signature appearances and additional funct
 
 | Enumeration | Description |
 | --- | --- |
-| [CryptoCurrencyType](./cryptocurrencytype) | Represents Crypto currency type. |
+| [CryptoCurrencyType](./cryptocurrencytype) | Represents Cryptocurrency type. |
 | [SymmetricAlgorithmType](./symmetricalgorithmtype) | Represents symmetric encryption algorithm type. |
 | [WiFiEncryptionType](./wifiencryptiontype) | Represents WiFi Encryption type. |
 

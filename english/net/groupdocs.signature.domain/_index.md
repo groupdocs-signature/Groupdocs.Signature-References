@@ -18,6 +18,7 @@ The namespace provides classes for working with document representation.
 | [BarcodeTypes](./barcodetypes) | Barcode Types container. |
 | [BaseSignature](./basesignature) | Describes base class for signatures. |
 | [Border](./border) | Represents border appearance |
+| [CertificateMetadataSignature](./certificatemetadatasignature) | Contains Certificate Metadata Signature properties. |
 | [CheckboxFormFieldSignature](./checkboxformfieldsignature) | Contains check-box input form field signature properties. |
 | [ComboboxFormFieldSignature](./comboboxformfieldsignature) | Contains combo-box input form field signature properties. |
 | [Corners](./corners) | Represents corners of a square graphical object. |
@@ -55,6 +56,11 @@ The namespace provides classes for working with document representation.
 | [UpdateResult](./updateresult) | Result of modification of signatures in the document. |
 | [VerificationResult](./verificationresult) | Instance to keep results of verification process. |
 | [WordProcessingMetadataSignature](./wordprocessingmetadatasignature) | Contains WordProcessing Metadata Signature properties. |
+## Structures
+
+| Structure | Description |
+| --- | --- |
+| [TimeStamp](./timestamp) | Represents data to get time stamp from third-party site. |
 ## Interfaces
 
 | Interface | Description |

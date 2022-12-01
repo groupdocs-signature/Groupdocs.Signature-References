@@ -3,12 +3,12 @@ title: SaveDocumentOnEmptyDelete
 second_title: GroupDocs.Signature for .NET API Reference
 description: Gets or sets flag to resave source document when Delete method has no affected signatures to remove. If this flag is set to true by default document will be saving with corresponding history process log date and operation type even if Delete method has no signatures to remove. When this flat is set to false source document will not be modified at all.
 type: docs
-weight: 40
+weight: 50
 url: /net/groupdocs.signature/signaturesettings/savedocumentonemptydelete/
 ---
 ## SignatureSettings.SaveDocumentOnEmptyDelete property
 
-Gets or sets flag to resave source document when Delete method has no affected signatures to remove. If this flag is set to true (by default) document will be saving with corresponding history process log (date and operation type) even if Delete method has no signatures to remove. When this flat is set to false source document will not be modified at all.
+Gets or sets flag to re-save source document when Delete method has no affected signatures to remove. If this flag is set to true (by default) document will be saving with corresponding history process log (date and operation type) even if Delete method has no signatures to remove. When this flat is set to false source document will not be modified at all.
 
 ```csharp
 public bool SaveDocumentOnEmptyDelete { get; set; }
