@@ -1,14 +1,14 @@
 ---
 title: Progress
 second_title: GroupDocs.Signature for .NET API Reference
-description: Represents progress in percents. Value range is from 0 to 100.
+description: Represents the progress in percents. Value range is from 0 to 100.
 type: docs
 weight: 40
 url: /net/groupdocs.signature/processprogresseventargs/progress/
 ---
 ## ProcessProgressEventArgs.Progress property
 
-Represents progress in percents. Value range is from 0 to 100.
+Represents the progress in percents. Value range is from 0 to 100.
 
 ```csharp
 public int Progress { get; set; }

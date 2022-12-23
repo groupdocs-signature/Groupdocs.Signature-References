@@ -1,23 +1,30 @@
 ---
 title: Error
 second_title: GroupDocs.Signature for .NET API Reference
-description: Writes an error message to the file. Error log messages provide information about unrecoverable events in application flow.
+description: Writes an error message to the console. Error log messages provide information about unrecoverable events in application flow.
 type: docs
 weight: 20
 url: /net/groupdocs.signature.logging/filelogger/error/
 ---
 ## FileLogger.Error method
 
-Writes an error message to the file. Error log messages provide information about unrecoverable events in application flow.
+Writes an error message to the console. Error log messages provide information about unrecoverable events in application flow.
 
 ```csharp
-public void Error(string message, Exception ex)
+public void Error(string message, Exception exception)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| message | String |  |
-| ex | Exception |  |
+| message | String | The error message. |
+| exception | Exception | The exception. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentNullException | Thrown when *message* is null. |
+| ArgumentNullException | Thrown when *exception* is null. |
 
 ### See Also
 

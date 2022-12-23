@@ -3,7 +3,7 @@ title: ConsoleLogger
 second_title: GroupDocs.Signature for .NET API Reference
 description: Writes log messages to the file.
 type: docs
-weight: 1120
+weight: 1130
 url: /net/groupdocs.signature.logging/consolelogger/
 ---
 ## ConsoleLogger class
@@ -25,8 +25,8 @@ public class ConsoleLogger : ILogger
 | Name | Description |
 | --- | --- |
 | [Error](../../groupdocs.signature.logging/consolelogger/error)(string, Exception) | Writes an error message to the console. Error log messages provide information about unrecoverable events in application flow. |
-| [Trace](../../groupdocs.signature.logging/consolelogger/trace)(string) | Writes a trace message to the console. Trace log messages provide generally useful information about application flow. |
-| [Warning](../../groupdocs.signature.logging/consolelogger/warning)(string) | Writes a warning message to the console. Warning log messages provide information about unexpected and recoverable events in application flow. |
+| [Trace](../../groupdocs.signature.logging/consolelogger/trace)(string) | Writes trace message to the console. Trace log messages provide generally useful information about application flow. |
+| [Warning](../../groupdocs.signature.logging/consolelogger/warning)(string) | Writes warning message to the console; Warning log messages provide information about the unexpected and recoverable event in application flow. |
 
 ### See Also
 

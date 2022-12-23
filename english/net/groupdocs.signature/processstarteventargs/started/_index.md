@@ -1,14 +1,14 @@
 ---
 title: Started
 second_title: GroupDocs.Signature for .NET API Reference
-description: Represents time mark of process start.
+description: Represents the time mark of process start.
 type: docs
 weight: 20
 url: /net/groupdocs.signature/processstarteventargs/started/
 ---
 ## ProcessStartEventArgs.Started property
 
-Represents time mark of process start.
+Represents the time mark of process start.
 
 ```csharp
 public DateTime Started { get; set; }

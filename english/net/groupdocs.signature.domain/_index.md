@@ -84,6 +84,7 @@ The namespace provides classes for working with document representation.
 | [HorizontalAlignment](./horizontalalignment) | Specifies horizontal alignment of element on a document page. |
 | [ImageSaveFileFormat](./imagesavefileformat) | Defines different save file formats. |
 | [MeasureType](./measuretype) | Specifies measure units of signature on a document page. |
+| [MetadataType](./metadatatype) | Specifies the supported Metadata signature data type of the value. |
 | [PdfDigitalSignatureType](./pdfdigitalsignaturetype) | Describes enumeration of PDF digital signature type. |
 | [PdfSaveFileFormat](./pdfsavefileformat) | Defines different save file formats. |
 | [PdfTextAnnotationBorderEffect](./pdftextannotationbordereffect) | Describes effect which should be applied to the border of the PDF text annotations. |

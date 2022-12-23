@@ -3,7 +3,7 @@ title: CreatePageStream
 second_title: GroupDocs.Signature for .NET API Reference
 description: Delegate that defines method to create output page preview stream.
 type: docs
-weight: 1270
+weight: 1290
 url: /net/groupdocs.signature.options/createpagestream/
 ---
 ## CreatePageStream delegate

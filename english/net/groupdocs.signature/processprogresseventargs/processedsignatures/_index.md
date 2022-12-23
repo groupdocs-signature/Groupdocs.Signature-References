@@ -1,14 +1,14 @@
 ---
 title: ProcessedSignatures
 second_title: GroupDocs.Signature for .NET API Reference
-description: Represents quantity of processed signatures.
+description: Represents the quantity of processed signatures.
 type: docs
 weight: 30
 url: /net/groupdocs.signature/processprogresseventargs/processedsignatures/
 ---
 ## ProcessProgressEventArgs.ProcessedSignatures property
 
-Represents quantity of processed signatures.
+Represents the quantity of processed signatures.
 
 ```csharp
 public int ProcessedSignatures { get; set; }
