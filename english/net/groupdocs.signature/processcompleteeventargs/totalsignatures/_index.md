@@ -1,14 +1,14 @@
 ---
 title: TotalSignatures
 second_title: GroupDocs.Signature for .NET API Reference
-description: Represents total quantity of processed signatures.
+description: Represents the total quantity of processed signatures.
 type: docs
 weight: 40
 url: /net/groupdocs.signature/processcompleteeventargs/totalsignatures/
 ---
 ## ProcessCompleteEventArgs.TotalSignatures property
 
-Represents total quantity of processed signatures.
+Represents the total quantity of processed signatures.
 
 ```csharp
 public int TotalSignatures { get; set; }

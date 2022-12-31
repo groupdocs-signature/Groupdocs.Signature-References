@@ -3,7 +3,7 @@ title: PdfMetadataSignature
 second_title: GroupDocs.Signature for .NET API Reference
 description: Contains Pdf Metadata signature properties.
 type: docs
-weight: 660
+weight: 670
 url: /net/groupdocs.signature.domain/pdfmetadatasignature/
 ---
 ## PdfMetadataSignature class
@@ -39,6 +39,7 @@ public sealed class PdfMetadataSignature : MetadataSignature
 | [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | Specifies the type of signature. |
 | [TagPrefix](../../groupdocs.signature.domain/pdfmetadatasignature/tagprefix) { get; set; } | The prefix tag of Pdf Metadata signature name. By default this property is set to "xmp". Possible values are |
 | [Top](../../groupdocs.signature.domain/basesignature/top) { get; set; } | Specifies top position of signature. |
+| [Type](../../groupdocs.signature.domain/metadatasignature/type) { get; } | Specifies metadata value type. |
 | [Value](../../groupdocs.signature.domain/metadatasignature/value) { get; set; } | Specifies metadata object. |
 | [Width](../../groupdocs.signature.domain/basesignature/width) { get; set; } | Specifies width of signature. |
 

@@ -1,14 +1,14 @@
 ---
 title: Trace
 second_title: GroupDocs.Signature for .NET API Reference
-description: Writes a trace message to the console. Trace log messages provide generally useful information about application flow.
+description: Writes trace message to the console. Trace log messages provide generally useful information about application flow.
 type: docs
 weight: 30
 url: /net/groupdocs.signature.logging/consolelogger/trace/
 ---
 ## ConsoleLogger.Trace method
 
-Writes a trace message to the console. Trace log messages provide generally useful information about application flow.
+Writes trace message to the console. Trace log messages provide generally useful information about application flow.
 
 ```csharp
 public void Trace(string message)
@@ -16,7 +16,13 @@ public void Trace(string message)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| message | String |  |
+| message | String | The trace message. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentNullException | Thrown when *message* is null. |
 
 ### See Also
 

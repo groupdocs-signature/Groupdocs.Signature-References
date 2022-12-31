@@ -3,7 +3,7 @@ title: ProcessProgressEventArgs
 second_title: GroupDocs.Signature for .NET API Reference
 description: Provides data for OnProgress event of signing verification and search processes.
 type: docs
-weight: 1800
+weight: 1820
 url: /net/groupdocs.signature/processprogresseventargs/
 ---
 ## ProcessProgressEventArgs class
@@ -25,10 +25,10 @@ public class ProcessProgressEventArgs : ProcessEventArgs
 | Name | Description |
 | --- | --- |
 | [Cancel](../../groupdocs.signature/processprogresseventargs/cancel) { get; set; } | Indicates whether process should be canceled. |
-| [ProcessedSignatures](../../groupdocs.signature/processprogresseventargs/processedsignatures) { get; set; } | Represents quantity of processed signatures. |
-| [Progress](../../groupdocs.signature/processprogresseventargs/progress) { get; set; } | Represents progress in percents. Value range is from 0 to 100. |
+| [ProcessedSignatures](../../groupdocs.signature/processprogresseventargs/processedsignatures) { get; set; } | Represents the quantity of processed signatures. |
+| [Progress](../../groupdocs.signature/processprogresseventargs/progress) { get; set; } | Represents the progress in percents. Value range is from 0 to 100. |
 | [Status](../../groupdocs.signature/processeventargs/status) { get; set; } | Indicates current process state. |
-| [Ticks](../../groupdocs.signature/processprogresseventargs/ticks) { get; set; } | Represents time spent in milliseconds since process Start event. |
+| [Ticks](../../groupdocs.signature/processprogresseventargs/ticks) { get; set; } | Represents the time spent in milliseconds since process Start event. |
 
 ### See Also
 

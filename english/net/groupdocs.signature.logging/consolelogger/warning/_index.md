@@ -1,14 +1,14 @@
 ---
 title: Warning
 second_title: GroupDocs.Signature for .NET API Reference
-description: Writes a warning message to the console. Warning log messages provide information about unexpected and recoverable events in application flow.
+description: Writes warning message to the console Warning log messages provide information about the unexpected and recoverable event in application flow.
 type: docs
 weight: 40
 url: /net/groupdocs.signature.logging/consolelogger/warning/
 ---
 ## ConsoleLogger.Warning method
 
-Writes a warning message to the console. Warning log messages provide information about unexpected and recoverable events in application flow.
+Writes warning message to the console; Warning log messages provide information about the unexpected and recoverable event in application flow.
 
 ```csharp
 public void Warning(string message)
@@ -16,7 +16,13 @@ public void Warning(string message)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| message | String |  |
+| message | String | The warning message. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentNullException | Thrown when *message* is null. |
 
 ### See Also
 

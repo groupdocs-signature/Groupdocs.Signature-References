@@ -30,6 +30,7 @@ public abstract class MetadataSignature : BaseSignature
 | [SignatureId](../../groupdocs.signature.domain/basesignature/signatureid) { get; } | Unique signature identifier to modify signature in the document over Update or Delete methods. This property will be set automatically after Sign or Search method being called. If this property was saved before it can be set manually to manipulate the signature. |
 | [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | Specifies the type of signature. |
 | [Top](../../groupdocs.signature.domain/basesignature/top) { get; set; } | Specifies top position of signature. |
+| [Type](../../groupdocs.signature.domain/metadatasignature/type) { get; } | Specifies metadata value type. |
 | [Value](../../groupdocs.signature.domain/metadatasignature/value) { get; set; } | Specifies metadata object. |
 | [Width](../../groupdocs.signature.domain/basesignature/width) { get; set; } | Specifies width of signature. |
 

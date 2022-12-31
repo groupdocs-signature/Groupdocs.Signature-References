@@ -1,14 +1,14 @@
 ---
 title: Ticks
 second_title: GroupDocs.Signature for .NET API Reference
-description: Represents time spent in milliseconds since process Start event.
+description: Represents the time spent in milliseconds since process Start event.
 type: docs
 weight: 50
 url: /net/groupdocs.signature/processprogresseventargs/ticks/
 ---
 ## ProcessProgressEventArgs.Ticks property
 
-Represents time spent in milliseconds since process Start event.
+Represents the time spent in milliseconds since process Start event.
 
 ```csharp
 public long Ticks { get; set; }

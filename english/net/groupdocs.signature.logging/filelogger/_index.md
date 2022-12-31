@@ -3,7 +3,7 @@ title: FileLogger
 second_title: GroupDocs.Signature for .NET API Reference
 description: Writes log messages to the file.
 type: docs
-weight: 1130
+weight: 1140
 url: /net/groupdocs.signature.logging/filelogger/
 ---
 ## FileLogger class
@@ -24,9 +24,9 @@ public class FileLogger : ILogger
 
 | Name | Description |
 | --- | --- |
-| [Error](../../groupdocs.signature.logging/filelogger/error)(string, Exception) | Writes an error message to the file. Error log messages provide information about unrecoverable events in application flow. |
-| [Trace](../../groupdocs.signature.logging/filelogger/trace)(string) | Writes a trace message to the file. Trace log messages provide generally useful information about application flow. |
-| [Warning](../../groupdocs.signature.logging/filelogger/warning)(string) | Writes a warning message to the file. Warning log messages provide information about unexpected and recoverable events in application flow. |
+| [Error](../../groupdocs.signature.logging/filelogger/error)(string, Exception) | Writes an error message to the console. Error log messages provide information about unrecoverable events in application flow. |
+| [Trace](../../groupdocs.signature.logging/filelogger/trace)(string) | Writes trace message to the console. Trace log messages provide generally useful information about application flow. |
+| [Warning](../../groupdocs.signature.logging/filelogger/warning)(string) | Writes warning message to the console; Warning log messages provide information about the unexpected and recoverable event in application flow. |
 
 ### See Also
 

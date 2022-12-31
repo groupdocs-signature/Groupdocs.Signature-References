@@ -3,7 +3,7 @@ title: ProcessCompleteEventArgs
 second_title: GroupDocs.Signature for .NET API Reference
 description: Provides data on complete event of signing verification and search processes.
 type: docs
-weight: 1770
+weight: 1790
 url: /net/groupdocs.signature/processcompleteeventargs/
 ---
 ## ProcessCompleteEventArgs class
@@ -19,10 +19,10 @@ public class ProcessCompleteEventArgs : ProcessEventArgs
 | Name | Description |
 | --- | --- |
 | [Canceled](../../groupdocs.signature/processcompleteeventargs/canceled) { get; } | Indicates whether process was canceled. |
-| [Completed](../../groupdocs.signature/processcompleteeventargs/completed) { get; set; } | Represents time mark of process completion. |
+| [Completed](../../groupdocs.signature/processcompleteeventargs/completed) { get; set; } | Represents the time mark of process completion. |
 | [Status](../../groupdocs.signature/processeventargs/status) { get; set; } | Indicates current process state. |
-| [Ticks](../../groupdocs.signature/processcompleteeventargs/ticks) { get; set; } | Represents time in milliseconds spent since process Start event. |
-| [TotalSignatures](../../groupdocs.signature/processcompleteeventargs/totalsignatures) { get; set; } | Represents total quantity of processed signatures. |
+| [Ticks](../../groupdocs.signature/processcompleteeventargs/ticks) { get; set; } | Represents the time in milliseconds spent since process Start event. |
+| [TotalSignatures](../../groupdocs.signature/processcompleteeventargs/totalsignatures) { get; set; } | Represents the total quantity of processed signatures. |
 
 ### See Also
 

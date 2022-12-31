@@ -3,7 +3,7 @@ title: DigitalSearchOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents search options for Digital signatures.
 type: docs
-weight: 1290
+weight: 1310
 url: /net/groupdocs.signature.options/digitalsearchoptions/
 ---
 ## DigitalSearchOptions class
