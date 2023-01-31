@@ -18,8 +18,12 @@ public class SignResult : IResult
 
 | Name | Description |
 | --- | --- |
+| [DestinDocumentSize](../../groupdocs.signature.domain/signresult/destindocumentsize) { get; } | Returns destination document size |
 | [Failed](../../groupdocs.signature.domain/signresult/failed) { get; } | List of signatures that were failed to create. |
+| [ProcessingTime](../../groupdocs.signature.domain/signresult/processingtime) { get; } | Returns the execution time of the process in milliseconds |
+| [SourceDocumentSize](../../groupdocs.signature.domain/signresult/sourcedocumentsize) { get; } | Returns source document size |
 | [Succeeded](../../groupdocs.signature.domain/signresult/succeeded) { get; } | List of newly created signatures [`BaseSignature`](../basesignature). |
+| [TotalSignatures](../../groupdocs.signature.domain/signresult/totalsignatures) { get; } | Returns the total processed signatures |
 
 ### See Also
 

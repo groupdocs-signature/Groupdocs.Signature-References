@@ -18,8 +18,12 @@ public interface IResult
 
 | Name | Description |
 | --- | --- |
+| [DestinDocumentSize](../../groupdocs.signature.domain/iresult/destindocumentsize) { get; } | Returns destination document size |
 | [Failed](../../groupdocs.signature.domain/iresult/failed) { get; } | List of signatures that were not processed [`BaseSignature`](../basesignature). |
+| [ProcessingTime](../../groupdocs.signature.domain/iresult/processingtime) { get; } | Returns the execution time of the process in milliseconds |
+| [SourceDocumentSize](../../groupdocs.signature.domain/iresult/sourcedocumentsize) { get; } | Returns source document size |
 | [Succeeded](../../groupdocs.signature.domain/iresult/succeeded) { get; } | List of successfully processed signatures [`BaseSignature`](../basesignature). |
+| [TotalSignatures](../../groupdocs.signature.domain/iresult/totalsignatures) { get; } | Returns the total processed signatures |
 
 ### See Also
 

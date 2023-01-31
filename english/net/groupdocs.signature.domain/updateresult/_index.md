@@ -18,8 +18,12 @@ public class UpdateResult : IResult
 
 | Name | Description |
 | --- | --- |
+| [DestinDocumentSize](../../groupdocs.signature.domain/updateresult/destindocumentsize) { get; } | Returns destination document size |
 | [Failed](../../groupdocs.signature.domain/updateresult/failed) { get; } | List of signatures that were not updated [`BaseSignature`](../basesignature). |
+| [ProcessingTime](../../groupdocs.signature.domain/updateresult/processingtime) { get; } | Returns the execution time of the process in milliseconds |
+| [SourceDocumentSize](../../groupdocs.signature.domain/updateresult/sourcedocumentsize) { get; } | Returns source document size |
 | [Succeeded](../../groupdocs.signature.domain/updateresult/succeeded) { get; } | List of successfully modified signatures [`BaseSignature`](../basesignature). |
+| [TotalSignatures](../../groupdocs.signature.domain/updateresult/totalsignatures) { get; } | Returns the total processed signatures |
 
 ### See Also
 

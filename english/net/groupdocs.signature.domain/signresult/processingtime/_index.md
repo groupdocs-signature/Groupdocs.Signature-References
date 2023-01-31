@@ -1,22 +1,21 @@
 ---
-title: Failed
+title: ProcessingTime
 second_title: GroupDocs.Signature for .NET API Reference
-description: List of signatures that were failed to create.
+description: Returns the execution time of the process in milliseconds
 type: docs
-weight: 20
-url: /net/groupdocs.signature.domain/signresult/failed/
+weight: 30
+url: /net/groupdocs.signature.domain/signresult/processingtime/
 ---
-## SignResult.Failed property
+## SignResult.ProcessingTime property
 
-List of signatures that were failed to create.
+Returns the execution time of the process in milliseconds
 
 ```csharp
-public List<BaseSignature> Failed { get; }
+public long ProcessingTime { get; }
 ```
 
 ### See Also
 
-* class [BaseSignature](../../basesignature)
 * class [SignResult](../../signresult)
 * namespace [GroupDocs.Signature.Domain](../../signresult)
 * assembly [GroupDocs.Signature](../../../)
