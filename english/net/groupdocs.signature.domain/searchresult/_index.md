@@ -11,14 +11,19 @@ url: /net/groupdocs.signature.domain/searchresult/
 Result of searching for signatures in specified document.
 
 ```csharp
-public class SearchResult : IEnumerable<BaseSignature>
+public class SearchResult : IEnumerable<BaseSignature>, IResult
 ```
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Signatures](../../groupdocs.signature.domain/searchresult/signatures) { get; } | List of detected signatures [`BaseSignature`](../basesignature). |
+| [DestinDocumentSize](../../groupdocs.signature.domain/searchresult/destindocumentsize) { get; } | Returns destination document size. For Search method it always returns 0. |
+| [ProcessingTime](../../groupdocs.signature.domain/searchresult/processingtime) { get; } | Returns the execution time of the search process in milliseconds. |
+| [Signatures](../../groupdocs.signature.domain/searchresult/signatures) { get; } | List of found signatures [`BaseSignature`](../basesignature). |
+| [SourceDocumentSize](../../groupdocs.signature.domain/searchresult/sourcedocumentsize) { get; } | Returns source document size |
+| [Succeeded](../../groupdocs.signature.domain/searchresult/succeeded) { get; } | List of found signatures [`BaseSignature`](../basesignature). This list will be always equal to [`Signatures`](./signatures) property. |
+| [TotalSignatures](../../groupdocs.signature.domain/searchresult/totalsignatures) { get; } | Returns the total processed signatures by the search process |
 
 ## Methods
 
@@ -30,6 +35,7 @@ public class SearchResult : IEnumerable<BaseSignature>
 ### See Also
 
 * class [BaseSignature](../basesignature)
+* interface [IResult](../iresult)
 * namespace [GroupDocs.Signature.Domain](../../groupdocs.signature.domain)
 * assembly [GroupDocs.Signature](../../)
 

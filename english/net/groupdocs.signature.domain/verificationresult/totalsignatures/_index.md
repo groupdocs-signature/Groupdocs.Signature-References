@@ -1,17 +1,17 @@
 ---
-title: VerificationResult
+title: TotalSignatures
 second_title: GroupDocs.Signature for .NET API Reference
-description: The default constructor.
+description: Returns the total processed signatures
 type: docs
-weight: 10
-url: /net/groupdocs.signature.domain/verificationresult/verificationresult/
+weight: 50
+url: /net/groupdocs.signature.domain/verificationresult/totalsignatures/
 ---
-## VerificationResult constructor
+## VerificationResult.TotalSignatures property
 
-The default constructor.
+Returns the total processed signatures
 
 ```csharp
-public VerificationResult()
+public int TotalSignatures { get; }
 ```
 
 ### See Also

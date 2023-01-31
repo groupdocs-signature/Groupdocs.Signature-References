@@ -11,23 +11,22 @@ url: /net/groupdocs.signature.domain/verificationresult/
 Instance to keep results of verification process.
 
 ```csharp
-public class VerificationResult
+public class VerificationResult : IResult
 ```
-
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [VerificationResult](verificationresult)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
+| [DestinDocumentSize](../../groupdocs.signature.domain/verificationresult/destindocumentsize) { get; } | Returns the destination document size. For verification this variable always contains zero. |
 | [IsValid](../../groupdocs.signature.domain/verificationresult/isvalid) { get; } | Returns true if Verification process was successful otherwise false. |
+| [ProcessingTime](../../groupdocs.signature.domain/verificationresult/processingtime) { get; } | Returns the execution time of the process in milliseconds. |
+| [SourceDocumentSize](../../groupdocs.signature.domain/verificationresult/sourcedocumentsize) { get; } | Returns source document size in bytes |
+| [TotalSignatures](../../groupdocs.signature.domain/verificationresult/totalsignatures) { get; } | Returns the total processed signatures |
 
 ### See Also
 
+* interface [IResult](../iresult)
 * namespace [GroupDocs.Signature.Domain](../../groupdocs.signature.domain)
 * assembly [GroupDocs.Signature](../../)
 

@@ -18,8 +18,12 @@ public class DeleteResult : IResult
 
 | Name | Description |
 | --- | --- |
+| [DestinDocumentSize](../../groupdocs.signature.domain/deleteresult/destindocumentsize) { get; } | Returns updated document size. |
 | [Failed](../../groupdocs.signature.domain/deleteresult/failed) { get; } | List of signatures that were not deleted [`BaseSignature`](../basesignature). |
+| [ProcessingTime](../../groupdocs.signature.domain/deleteresult/processingtime) { get; } | Returns the execution time of the process in milliseconds. |
+| [SourceDocumentSize](../../groupdocs.signature.domain/deleteresult/sourcedocumentsize) { get; } | Returns source document size. |
 | [Succeeded](../../groupdocs.signature.domain/deleteresult/succeeded) { get; } | List of successfully deleted signatures [`BaseSignature`](../basesignature). |
+| [TotalSignatures](../../groupdocs.signature.domain/deleteresult/totalsignatures) { get; } | Returns the total processed signatures. |
 
 ### See Also
 

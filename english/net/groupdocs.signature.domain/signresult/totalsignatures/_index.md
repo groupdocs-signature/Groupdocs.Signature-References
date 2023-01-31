@@ -1,22 +1,21 @@
 ---
-title: Failed
+title: TotalSignatures
 second_title: GroupDocs.Signature for .NET API Reference
-description: List of signatures that were failed to create.
+description: Returns the total processed signatures
 type: docs
-weight: 20
-url: /net/groupdocs.signature.domain/signresult/failed/
+weight: 60
+url: /net/groupdocs.signature.domain/signresult/totalsignatures/
 ---
-## SignResult.Failed property
+## SignResult.TotalSignatures property
 
-List of signatures that were failed to create.
+Returns the total processed signatures
 
 ```csharp
-public List<BaseSignature> Failed { get; }
+public int TotalSignatures { get; }
 ```
 
 ### See Also
 
-* class [BaseSignature](../../basesignature)
 * class [SignResult](../../signresult)
 * namespace [GroupDocs.Signature.Domain](../../signresult)
 * assembly [GroupDocs.Signature](../../../)

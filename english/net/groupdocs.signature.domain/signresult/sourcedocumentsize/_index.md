@@ -1,22 +1,21 @@
 ---
-title: Failed
+title: SourceDocumentSize
 second_title: GroupDocs.Signature for .NET API Reference
-description: List of signatures that were failed to create.
+description: Returns source document size
 type: docs
-weight: 20
-url: /net/groupdocs.signature.domain/signresult/failed/
+weight: 40
+url: /net/groupdocs.signature.domain/signresult/sourcedocumentsize/
 ---
-## SignResult.Failed property
+## SignResult.SourceDocumentSize property
 
-List of signatures that were failed to create.
+Returns source document size
 
 ```csharp
-public List<BaseSignature> Failed { get; }
+public long SourceDocumentSize { get; }
 ```
 
 ### See Also
 
-* class [BaseSignature](../../basesignature)
 * class [SignResult](../../signresult)
 * namespace [GroupDocs.Signature.Domain](../../signresult)
 * assembly [GroupDocs.Signature](../../../)
