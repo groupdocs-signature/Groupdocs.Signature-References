@@ -26,13 +26,14 @@ public class CertificateVerifyOptions : VerifyOptions
 | Name | Description |
 | --- | --- |
 | [AllPages](../../groupdocs.signature.options/verifyoptions/allpages) { get; set; } | Flag to verify each document page. By default value is true. |
-| [Expired](../../groupdocs.signature.options/certificateverifyoptions/expired) { get; } | Indicates if certificate is expired date due validation result |
+| [Expired](../../groupdocs.signature.options/certificateverifyoptions/expired) { get; } | Indicates if certificate is expired date due validation result. Property is read-only. |
 | [Extensions](../../groupdocs.signature.options/verifyoptions/extensions) { get; set; } | Additional extensions for alternative signature options verification. |
 | [Issuer](../../groupdocs.signature.options/certificateverifyoptions/issuer) { get; set; } | Specify Certificate Issuer if it should be verified. |
 | [IsValid](../../groupdocs.signature.options/verifyoptions/isvalid) { get; } | Valid property flag. |
 | [MatchType](../../groupdocs.signature.options/certificateverifyoptions/matchtype) { get; set; } | Gets or sets Text Match Type verification. |
 | virtual [PageNumber](../../groupdocs.signature.options/verifyoptions/pagenumber) { get; set; } | Document Page Number to be verified. If property is not set - all Pages of Document will be verified for first occurrence. Minimal value is 1. |
 | virtual [PagesSetup](../../groupdocs.signature.options/verifyoptions/pagessetup) { get; set; } | Page Options to specify pages to be verified. |
+| [PerformChainValidation](../../groupdocs.signature.options/certificateverifyoptions/performchainvalidation) { get; set; } | Get or set if verification process should provide X.509 chain validation using basic validation policy. By default this value is true. |
 | [SerialNumber](../../groupdocs.signature.options/certificateverifyoptions/serialnumber) { get; set; } | Specify Certificate Serial Number if it should be verified. |
 | [Subject](../../groupdocs.signature.options/certificateverifyoptions/subject) { get; set; } | Specify Certificate subject if it should be verified. |
 | [Thumbprint](../../groupdocs.signature.options/certificateverifyoptions/thumbprint) { get; set; } | Specify Certificate Thumbprint if it should be verified. |

@@ -3,7 +3,7 @@ title: SerialNumber
 second_title: GroupDocs.Signature for .NET API Reference
 description: Specify Certificate Serial Number if it should be verified.
 type: docs
-weight: 50
+weight: 60
 url: /net/groupdocs.signature.options/certificateverifyoptions/serialnumber/
 ---
 ## CertificateVerifyOptions.SerialNumber property

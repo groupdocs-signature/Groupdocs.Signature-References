@@ -3,7 +3,7 @@ title: Thumbprint
 second_title: GroupDocs.Signature for .NET API Reference
 description: Specify Certificate Thumbprint if it should be verified.
 type: docs
-weight: 70
+weight: 80
 url: /net/groupdocs.signature.options/certificateverifyoptions/thumbprint/
 ---
 ## CertificateVerifyOptions.Thumbprint property

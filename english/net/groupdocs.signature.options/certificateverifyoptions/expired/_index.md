@@ -1,14 +1,14 @@
 ---
 title: Expired
 second_title: GroupDocs.Signature for .NET API Reference
-description: Indicates if certificate is expired date due validation result
+description: Indicates if certificate is expired date due validation result. Property is readonly.
 type: docs
 weight: 20
 url: /net/groupdocs.signature.options/certificateverifyoptions/expired/
 ---
 ## CertificateVerifyOptions.Expired property
 
-Indicates if certificate is expired date due validation result
+Indicates if certificate is expired date due validation result. Property is read-only.
 
 ```csharp
 public bool Expired { get; }

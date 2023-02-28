@@ -3,7 +3,7 @@ title: Subject
 second_title: GroupDocs.Signature for .NET API Reference
 description: Specify Certificate subject if it should be verified.
 type: docs
-weight: 60
+weight: 70
 url: /net/groupdocs.signature.options/certificateverifyoptions/subject/
 ---
 ## CertificateVerifyOptions.Subject property
