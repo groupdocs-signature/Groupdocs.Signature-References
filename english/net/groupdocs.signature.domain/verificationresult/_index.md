@@ -3,7 +3,7 @@ title: VerificationResult
 second_title: GroupDocs.Signature for .NET API Reference
 description: Instance to keep results of verification process.
 type: docs
-weight: 1040
+weight: 1050
 url: /net/groupdocs.signature.domain/verificationresult/
 ---
 ## VerificationResult class
@@ -22,6 +22,7 @@ public class VerificationResult : IResult
 | [IsValid](../../groupdocs.signature.domain/verificationresult/isvalid) { get; } | Returns true if Verification process was successful otherwise false. |
 | [ProcessingTime](../../groupdocs.signature.domain/verificationresult/processingtime) { get; } | Returns the execution time of the process in milliseconds. |
 | [SourceDocumentSize](../../groupdocs.signature.domain/verificationresult/sourcedocumentsize) { get; } | Returns source document size in bytes |
+| [Succeeded](../../groupdocs.signature.domain/verificationresult/succeeded) { get; } | List of successfully verified signatures [`BaseSignature`](../basesignature). |
 | [TotalSignatures](../../groupdocs.signature.domain/verificationresult/totalsignatures) { get; } | Returns the total processed signatures |
 
 ### See Also

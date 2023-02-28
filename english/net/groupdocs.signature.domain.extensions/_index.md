@@ -44,6 +44,7 @@ The namespace provides extensions for signature appearances and additional funct
 | Enumeration | Description |
 | --- | --- |
 | [CryptoCurrencyType](./cryptocurrencytype) | Represents Cryptocurrency type. |
+| [DataMatrixEncodeMode](./datamatrixencodemode) | DataMatrix encoder's encoding mode, default to Auto |
 | [SymmetricAlgorithmType](./symmetricalgorithmtype) | Represents symmetric encryption algorithm type. |
 | [WiFiEncryptionType](./wifiencryptiontype) | Represents WiFi Encryption type. |
 

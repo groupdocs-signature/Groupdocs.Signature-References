@@ -3,7 +3,7 @@ title: QR
 second_title: GroupDocs.Signature for .NET API Reference
 description: QR QRCode Type object.
 type: docs
-weight: 60
+weight: 90
 url: /net/groupdocs.signature.domain/qrcodetypes/qr/
 ---
 ## QrCodeTypes.QR field
