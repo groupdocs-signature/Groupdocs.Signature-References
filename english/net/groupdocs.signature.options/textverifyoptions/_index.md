@@ -3,7 +3,7 @@ title: TextVerifyOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Keeps options to verify document Text signature.
 type: docs
-weight: 1720
+weight: 1740
 url: /net/groupdocs.signature.options/textverifyoptions/
 ---
 ## TextVerifyOptions class

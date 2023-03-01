@@ -3,7 +3,7 @@ title: ImageMetadataSignature
 second_title: GroupDocs.Signature for .NET API Reference
 description: Contains Image Metadata signature properties.
 type: docs
-weight: 560
+weight: 570
 url: /net/groupdocs.signature.domain/imagemetadatasignature/
 ---
 ## ImageMetadataSignature class

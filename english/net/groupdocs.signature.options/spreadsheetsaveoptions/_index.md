@@ -3,7 +3,7 @@ title: SpreadsheetSaveOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Save options for Spreadsheet Documents.
 type: docs
-weight: 1680
+weight: 1700
 url: /net/groupdocs.signature.options/spreadsheetsaveoptions/
 ---
 ## SpreadsheetSaveOptions class
