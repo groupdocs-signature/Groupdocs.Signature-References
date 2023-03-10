@@ -3,7 +3,7 @@ title: StampSignOptions
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Repräsentiert die Stempelsignaturoptionen.
 type: docs
-weight: 1630
+weight: 1710
 url: /de/net/groupdocs.signature.options/stampsignoptions/
 ---
 ## StampSignOptions class
@@ -34,7 +34,7 @@ public class StampSignOptions : ImageSignOptions
 | [DocumentType](../../groupdocs.signature.options/signoptions/documenttype) { get; set; } | Abrufen oder Festlegen des Dokumenttyps der Signaturoptionen[`DocumentType`](../../groupdocs.signature.domain/documenttype) |
 | [Extensions](../../groupdocs.signature.options/signoptions/extensions) { get; } | Signaturerweiterungen. |
 | [Height](../../groupdocs.signature.options/imagesignoptions/height) { get; set; } | Höhe der Unterschrift auf Dokumentseite in Messwerte (Pixel, Prozent oder Millimeter s[`MeasureType`](../../groupdocs.signature.domain/measuretype) SizeMeasureType). |
-| [HorizontalAlignment](../../groupdocs.signature.options/imagesignoptions/horizontalalignment) { get; set; } | Horizontale Ausrichtung der Signatur auf der Dokumentenseite. |
+| [HorizontalAlignment](../../groupdocs.signature.options/imagesignoptions/horizontalalignment) { get; set; } | Horizontale Ausrichtung der Signatur auf der Dokumentseite. |
 | [ImageFilePath](../../groupdocs.signature.options/imagesignoptions/imagefilepath) { get; set; } | Ruft den Pfad der Signaturbilddatei ab oder legt ihn fest. Diese Eigenschaft wird nur verwendet, wenn ImageStream nicht angegeben ist. |
 | [ImageStream](../../groupdocs.signature.options/imagesignoptions/imagestream) { get; set; } | Holt oder setzt den Signaturbildstream. Wenn diese Eigenschaft angegeben ist, wird sie immer stattdessen verwendet ImageFilePath. |
 | [InnerLines](../../groupdocs.signature.options/stampsignoptions/innerlines) { get; } | Liste der inneren Linien, die als Satz von Rechtecken gerendert werden. |
@@ -65,7 +65,7 @@ public class StampSignOptions : ImageSignOptions
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Grundlegende Verwendung zum Erstellen einer elektronischen Stempelsignatur durch GroupDocs.Signature: [So signieren Sie ein Dokument mit einer Stempelsignatur](https://docs.groupdocs.com/display/signaturenet/eSign+document+with+Stamp+signature)
 * Erweiterte Verwendung der Einstellungen der elektronischen Stempelsignatur mit GroupDocs.Signature: [Erweiterte Nutzung zum eSignieren von Dokumenten mit Stempelsignatur und zusätzlichen Einstellungen](https://docs.groupdocs.com/display/signaturenet/Sign+document+with+Stamp+signature+-+advanced)

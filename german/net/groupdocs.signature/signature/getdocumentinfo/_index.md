@@ -20,7 +20,7 @@ Informationen zum Dokument.
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Erfahren Sie mehr über signierte Dokumente – Dateityp, Seitenzahl und viele andere formatspezifische Eigenschaften: [So erhalten Sie Dokumenteigenschaften in C#](https://docs.groupdocs.com/display/signaturenet/Get+document+information)
 

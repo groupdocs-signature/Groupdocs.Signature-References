@@ -3,7 +3,7 @@ title: UPCE
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: UPCEBarcodeTypobjekt.
 type: docs
-weight: 620
+weight: 650
 url: /de/net/groupdocs.signature.domain/barcodetypes/upce/
 ---
 ## BarcodeTypes.UPCE field

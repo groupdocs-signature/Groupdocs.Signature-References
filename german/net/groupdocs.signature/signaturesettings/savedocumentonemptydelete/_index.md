@@ -1,14 +1,14 @@
 ---
 title: SaveDocumentOnEmptyDelete
 second_title: GroupDocs.Signature für .NET-API-Referenz
-description: Erhält oder setzt das Flag zum erneuten Speichern des Quelldokuments wenn die DeleteMethode keine zu entfernenden betroffenen Signaturen hat. Wenn dieses Flag auf true gesetzt ist standardmäßig wird das Dokument mit dem entsprechenden Verlaufsprozessprotokoll Datum und Vorgangstyp gespeichert selbst wenn die DeleteMethode verwendet wird hat keine zu entfernenden Signaturen. Wenn diese Flat auf false gesetzt ist wird das Quelldokument überhaupt nicht geändert.
+description: Erhält oder setzt das Flag zum erneuten Speichern des Quelldokuments wenn die DeleteMethode keine zu entfernenden betroffenen Signaturen hat. Wenn dieses Flag standardmäßig auf true gesetzt ist wird das Dokument mit dem entsprechenden Verlaufsprozessprotokoll Datum und Vorgangstyp gespeichert selbst wenn Die Methode Löschen hat keine zu entfernenden Signaturen. Wenn diese Flat auf false gesetzt ist wird das Quelldokument überhaupt nicht geändert.
 type: docs
-weight: 30
+weight: 60
 url: /de/net/groupdocs.signature/signaturesettings/savedocumentonemptydelete/
 ---
 ## SignatureSettings.SaveDocumentOnEmptyDelete property
 
-Erhält oder setzt das Flag zum erneuten Speichern des Quelldokuments, wenn die Delete-Methode keine zu entfernenden betroffenen Signaturen hat. Wenn dieses Flag auf true gesetzt ist (standardmäßig), wird das Dokument mit dem entsprechenden Verlaufsprozessprotokoll (Datum und Vorgangstyp) gespeichert, selbst wenn die Delete-Methode verwendet wird hat keine zu entfernenden Signaturen. Wenn diese Flat auf "false" gesetzt ist, wird das Quelldokument überhaupt nicht geändert.
+Erhält oder setzt das Flag zum erneuten Speichern des Quelldokuments, wenn die Delete-Methode keine zu entfernenden betroffenen Signaturen hat. Wenn dieses Flag (standardmäßig) auf „true“ gesetzt ist, wird das Dokument mit dem entsprechenden Verlaufsprozessprotokoll (Datum und Vorgangstyp) gespeichert, selbst wenn Die Methode "Löschen" hat keine zu entfernenden Signaturen. Wenn diese Flat auf "false" gesetzt ist, wird das Quelldokument überhaupt nicht geändert.
 
 ```csharp
 public bool SaveDocumentOnEmptyDelete { get; set; }

@@ -3,7 +3,7 @@ title: op_Equality
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Bestimmt ob zweiFileTypegroupdocs.signature.domain/filetype Objekte sind gleich.
 type: docs
-weight: 640
+weight: 650
 url: /de/net/groupdocs.signature.domain/filetype/op_equality/
 ---
 ## FileType Equality operator
@@ -17,11 +17,11 @@ public static bool operator ==(FileType left, FileType right)
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | left | FileType | Links[`FileType`](../../filetype) Objekt. |
-| right | FileType | Recht[`FileType`](../../filetype) Objekt. |
+| right | FileType | Rechts[`FileType`](../../filetype) Objekt. |
 
 ### Rückgabewert
 
-wenn beides[`FileType`](../../filetype) Objekte sind gleich; Andernfalls,
+wenn beides[`FileType`](../../filetype) Objekte sind gleich; ansonsten,
 
 ```csharp
 true

@@ -3,7 +3,7 @@ title: SkipSerializationAttribute
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Weist die Serialisierung an das Mitglied zu überspringen.
 type: docs
-weight: 320
+weight: 340
 url: /de/net/groupdocs.signature.domain.extensions/skipserializationattribute/
 ---
 ## SkipSerializationAttribute class

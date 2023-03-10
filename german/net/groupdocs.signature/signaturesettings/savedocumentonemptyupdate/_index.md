@@ -1,14 +1,14 @@
 ---
 title: SaveDocumentOnEmptyUpdate
 second_title: GroupDocs.Signature für .NET-API-Referenz
-description: Ruft oder setzt das Flag zum erneuten Speichern des Quelldokuments wenn die UpdateMethode keine zu aktualisierenden Signaturen hat. Wenn dieses Flag standardmäßig auf true gesetzt ist wird das Dokument mit dem entsprechenden Verlaufsprozessprotokoll Datum und Vorgangstyp gespeichert selbst wenn die UpdateMethode dies hat keine zu aktualisierenden Signaturen. Wenn diese Flat auf false gesetzt ist wird das Quelldokument überhaupt nicht geändert.
+description: Erhält oder setzt das Flag zum erneuten Speichern des Quelldokuments wenn die UpdateMethode keine zu aktualisierenden Signaturen hat. Wenn dieses Flag standardmäßig auf true gesetzt ist wird das Dokument mit dem entsprechenden Verlaufsprozessprotokoll Datum und Vorgangstyp gespeichert selbst wenn es aktualisiert wird Methode hat keine zu aktualisierenden Signaturen. Wenn diese Flat auf false gesetzt ist wird das Quelldokument überhaupt nicht geändert.
 type: docs
-weight: 40
+weight: 70
 url: /de/net/groupdocs.signature/signaturesettings/savedocumentonemptyupdate/
 ---
 ## SignatureSettings.SaveDocumentOnEmptyUpdate property
 
-Ruft oder setzt das Flag zum erneuten Speichern des Quelldokuments, wenn die Update-Methode keine zu aktualisierenden Signaturen hat. Wenn dieses Flag (standardmäßig) auf „true“ gesetzt ist, wird das Dokument mit dem entsprechenden Verlaufsprozessprotokoll (Datum und Vorgangstyp) gespeichert, selbst wenn die Update-Methode dies hat keine zu aktualisierenden Signaturen. Wenn diese Flat auf "false" gesetzt ist, wird das Quelldokument überhaupt nicht geändert.
+Erhält oder setzt das Flag zum erneuten Speichern des Quelldokuments, wenn die Update-Methode keine zu aktualisierenden Signaturen hat. Wenn dieses Flag (standardmäßig) auf „true“ gesetzt ist, wird das Dokument mit dem entsprechenden Verlaufsprozessprotokoll (Datum und Vorgangstyp) gespeichert, selbst wenn es aktualisiert wird Methode hat keine zu aktualisierenden Signaturen. Wenn diese Flat auf false gesetzt ist, wird das Quelldokument überhaupt nicht geändert.
 
 ```csharp
 public bool SaveDocumentOnEmptyUpdate { get; set; }

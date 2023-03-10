@@ -3,7 +3,7 @@ title: Equals
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Bestimmt ob der StromFileTypegroupdocs.signature.domain/filetypeist genauso wie angegebenFileTypegroupdocs.signature.domain/filetype Objekt.
 type: docs
-weight: 600
+weight: 610
 url: /de/net/groupdocs.signature.domain/filetype/equals/
 ---
 ## Equals(FileType) {#equals}
@@ -20,7 +20,7 @@ public bool Equals(FileType other)
 
 ### Rückgabewert
 
-wenn beides[`FileType`](../../filetype) Objekte sind gleich; Andernfalls,
+wenn beides[`FileType`](../../filetype) Objekte sind gleich; ansonsten,
 
 ```csharp
 true
@@ -52,7 +52,7 @@ public override bool Equals(object obj)
 
 ### Rückgabewert
 
-wenn Parameter ist[`FileType`](../../filetype) und ist das gleiche wie Strom[`FileType`](../../filetype) Objekt; Andernfalls,
+Wenn Parameter ist[`FileType`](../../filetype) und ist das gleiche wie Strom[`FileType`](../../filetype) Objekt; ansonsten,
 
 ```csharp
 true

@@ -3,7 +3,7 @@ title: BarcodeVerifyOptions
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Stellt die BarcodeÜberprüfungsoptionen dar.
 type: docs
-weight: 1200
+weight: 1270
 url: /de/net/groupdocs.signature.options/barcodeverifyoptions/
 ---
 ## BarcodeVerifyOptions class
@@ -42,7 +42,7 @@ public class BarcodeVerifyOptions : TextVerifyOptions
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Grundlegende Verwendung der Überprüfung für die elektronische Barcode-Signatur durch GroupDocs.Signature: [ Wie man Barcode-Signaturen in einem Dokument verifiziert](https://docs.groupdocs.com/display/signaturenet/Verify+Barcode+signatures+in+the+document)
 * Erweiterte Nutzung der Überprüfungseinstellungen für die elektronische Barcode-Signatur mit GroupDocs.Signature: [Erweiterte Verwendung von eVerification Barcode-Signaturen in einem Dokument und zusätzliche Einstellungen]()

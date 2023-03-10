@@ -1,14 +1,14 @@
 ---
 title: PPTM
 second_title: GroupDocs.Signature für .NET-API-Referenz
-description: PowerPoint Open XML MacroEnabled Presentation sind Makrofähige Präsentationsdateien die mit Microsoft PowerPoint 2007 oder höheren Versionen erstellt wurden. Erfahren Sie mehr über dieses Dateiformathierhttps//wiki.fileformat.com/presentation/pptm .
+description: PowerPoint Open XML MacroEnabled Presentation sind Makrofähige Präsentationsdateien die mit Microsoft PowerPoint 2007 oder höheren Versionen erstellt wurden. Erfahren Sie mehr über dieses DateiformatHierhttps//wiki.fileformat.com/presentation/pptm .
 type: docs
-weight: 360
+weight: 370
 url: /de/net/groupdocs.signature.domain/filetype/pptm/
 ---
 ## FileType.PPTM field
 
-PowerPoint Open XML Macro-Enabled Presentation sind Makro-fähige Präsentationsdateien, die mit Microsoft PowerPoint 2007 oder höheren Versionen erstellt wurden. Erfahren Sie mehr über dieses Dateiformat[hier](https://wiki.fileformat.com/presentation/pptm) .
+PowerPoint Open XML Macro-Enabled Presentation sind Makro-fähige Präsentationsdateien, die mit Microsoft PowerPoint 2007 oder höheren Versionen erstellt wurden. Erfahren Sie mehr über dieses Dateiformat[Hier](https://wiki.fileformat.com/presentation/pptm) .
 
 ```csharp
 public static readonly FileType PPTM;

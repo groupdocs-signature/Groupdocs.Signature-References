@@ -3,7 +3,7 @@ title: GroupDocsSignatureException
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Stellt die allgemeinen Fehler dar die während der Dokumentverarbeitung auftreten.
 type: docs
-weight: 1080
+weight: 1110
 url: /de/net/groupdocs.signature/groupdocssignatureexception/
 ---
 ## GroupDocsSignatureException class
@@ -18,8 +18,8 @@ public class GroupDocsSignatureException : Exception
 
 | Name | Beschreibung |
 | --- | --- |
-| [GroupDocsSignatureException](groupdocssignatureexception#constructor)() | Initialisiert eine neue Instanz von[`GroupDocsSignatureException`](../groupdocssignatureexception) Klasse. |
-| [GroupDocsSignatureException](groupdocssignatureexception#constructor_2)(string) | Initialisiert eine neue Instanz von[`GroupDocsSignatureException`](../groupdocssignatureexception)Klasse mit einer bestimmten Fehlermeldung. |
+| [GroupDocsSignatureException](groupdocssignatureexception#constructor)() | Initialisiert eine neue Instanz von[`GroupDocsSignatureException`](../groupdocssignatureexception)Klasse. |
+| [GroupDocsSignatureException](groupdocssignatureexception#constructor_2)(string) | Initialisiert eine neue Instanz von[`GroupDocsSignatureException`](../groupdocssignatureexception) Klasse mit einer bestimmten Fehlermeldung. |
 | [GroupDocsSignatureException](groupdocssignatureexception#constructor_1)(Exception, string) | Initialisiert eine neue Instanz von[`GroupDocsSignatureException`](../groupdocssignatureexception) Klasse mit einer angegebenen Fehlermeldung und einer ursprünglichen Ausnahme. |
 
 ## Methoden

@@ -16,7 +16,7 @@ public override int GetHashCode()
 
 ### Rückgabewert
 
-Hashcode für Kryptowährungsübertragungen
+Hashcode für die Übertragung von Kryptowährungen
 
 ### Siehe auch
 

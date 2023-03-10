@@ -3,7 +3,7 @@ title: TextMatchType
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Gibt den Textübereinstimmungstyp in Zeichenfolge an.
 type: docs
-weight: 950
+weight: 980
 url: /de/net/groupdocs.signature.domain/textmatchtype/
 ---
 ## TextMatchType enumeration

@@ -3,7 +3,7 @@ title: Signature
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Stellt die Hauptklasse dar die den Dokumentensignaturprozess steuert.
 type: docs
-weight: 1800
+weight: 1880
 url: /de/net/groupdocs.signature/signature/
 ---
 ## Signature class
@@ -21,11 +21,11 @@ public class Signature : IDisposable
 | [Signature](signature#constructor)(Stream) | Initialisiert eine neue Instanz von[`Signature`](../signature) Klasse mit Dokument bereitgestellt von stream. |
 | [Signature](signature#constructor_4)(string) | Initialisiert eine neue Instanz von[`Signature`](../signature) Klasseninstanz mit Dokument bereitgestellt durch Dateipfad. |
 | [Signature](signature#constructor_1)(Stream, LoadOptions) | Initialisiert eine neue Instanz von[`Signature`](../signature) Klasse mit Dokument, das von Stream- und Ladeoptionen bereitgestellt wirdLoadOptions . |
-| [Signature](signature#constructor_3)(Stream, SignatureSettings) | Initialisiert eine neue Instanz von[`Signature`](../signature) Klasseninstanz mit Dokument, das von Stream und bereitgestellt wird[`SignatureSettings`](../signaturesettings) . |
+| [Signature](signature#constructor_3)(Stream, SignatureSettings) | Initialisiert eine neue Instanz von[`Signature`](../signature)Klasseninstanz mit Dokument, das von Stream und bereitgestellt wird[`SignatureSettings`](../signaturesettings) . |
 | [Signature](signature#constructor_5)(string, LoadOptions) | Initialisiert eine neue Instanz von[`Signature`](../signature) Klasseninstanz mit Dokument, bereitgestellt durch Dateipfad undLoadOptions . |
 | [Signature](signature#constructor_7)(string, SignatureSettings) | Initialisiert eine neue Instanz von[`Signature`](../signature) Klasseninstanz mit Dokument, bereitgestellt durch Dateipfad und[`SignatureSettings`](../signaturesettings) . |
 | [Signature](signature#constructor_2)(Stream, LoadOptions, SignatureSettings) | Initialisiert eine neue Instanz von[`Signature`](../signature) Klasseninstanz mit Dokument, das von Stream bereitgestellt wird, LadeoptionenLoadOptions und Einstellungen[`SignatureSettings`](../signaturesettings) . |
-| [Signature](signature#constructor_6)(string, LoadOptions, SignatureSettings) | Initialisiert eine neue Instanz von[`Signature`](../signature) Klasseninstanz mit Dokument bereitgestellt durch Dateipfad,LoadOptions und[`SignatureSettings`](../signaturesettings) . |
+| [Signature](signature#constructor_6)(string, LoadOptions, SignatureSettings) | Initialisiert eine neue Instanz von[`Signature`](../signature) Klasseninstanz mit Dokument bereitgestellt durch Dateipfad,LoadOptions Und[`SignatureSettings`](../signaturesettings) . |
 
 ## Methoden
 
@@ -48,8 +48,8 @@ public class Signature : IDisposable
 | [Sign](../../groupdocs.signature/signature/sign#sign)(Stream, SignOptions) | Unterzeichnet Dokument mit[`SignOptions`](../../groupdocs.signature.options/signoptions) und speichert das Ergebnis in einem Stream. |
 | [Sign](../../groupdocs.signature/signature/sign#sign_6)(string, List&lt;SignOptions&gt;) | Signiert Dokument mit Sammlung von[`SignOptions`](../../groupdocs.signature.options/signoptions) und speichert das Ergebnis im angegebenen Dateipfad. |
 | [Sign](../../groupdocs.signature/signature/sign#sign_4)(string, SignOptions) | Unterzeichnet Dokument mit[`SignOptions`](../../groupdocs.signature.options/signoptions) und speichert das Ergebnis im angegebenen Dateipfad. |
-| [Sign](../../groupdocs.signature/signature/sign#sign_3)(Stream, List&lt;SignOptions&gt;, SaveOptions) | Signiert Dokument mit Sammlung von[`SignOptions`](../../groupdocs.signature.options/signoptions) und speichert das Ergebnis in einem Stream mit vordefinierten[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
-| [Sign](../../groupdocs.signature/signature/sign#sign_1)(Stream, SignOptions, SaveOptions) | Unterzeichnet Dokument mit[`SignOptions`](../../groupdocs.signature.options/signoptions) und speichert das Ergebnis in einem Stream mit vordefinierten[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
+| [Sign](../../groupdocs.signature/signature/sign#sign_3)(Stream, List&lt;SignOptions&gt;, SaveOptions) | Signiert Dokument mit Sammlung von[`SignOptions`](../../groupdocs.signature.options/signoptions)und speichert das Ergebnis in einem Stream mit vordefinierten[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
+| [Sign](../../groupdocs.signature/signature/sign#sign_1)(Stream, SignOptions, SaveOptions) | Unterzeichnet Dokument mit[`SignOptions`](../../groupdocs.signature.options/signoptions)und speichert das Ergebnis in einem Stream mit vordefinierten[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
 | [Sign](../../groupdocs.signature/signature/sign#sign_7)(string, List&lt;SignOptions&gt;, SaveOptions) | Signiert Dokument mit Sammlung von[`SignOptions`](../../groupdocs.signature.options/signoptions) und speichert das Ergebnis unter dem angegebenen Dateipfad mit vordefinierten[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
 | [Sign](../../groupdocs.signature/signature/sign#sign_5)(string, SignOptions, SaveOptions) | Unterzeichnet Dokument mit[`SignOptions`](../../groupdocs.signature.options/signoptions) und speichert das Ergebnis unter dem angegebenen Dateipfad mit vordefinierten[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
 | [Update](../../groupdocs.signature/signature/update#update)(BaseSignature) | Updates übergeben Signatur[`BaseSignature`](../../groupdocs.signature.domain/basesignature) im Dokument. |
@@ -74,7 +74,7 @@ public class Signature : IDisposable
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Mehr über GroupDocs.Signature-Funktionen: [GroupDocs.Signature-Entwicklerhandbuch](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
 

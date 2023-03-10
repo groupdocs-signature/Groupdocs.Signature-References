@@ -1,14 +1,14 @@
 ---
 title: Left
 second_title: GroupDocs.Signature für .NET-API-Referenz
-description: Gibt die linke Position der Unterschrift an.
+description: Gibt die linke Position der Signatur an.
 type: docs
 weight: 50
 url: /de/net/groupdocs.signature.domain/basesignature/left/
 ---
 ## BaseSignature.Left property
 
-Gibt die linke Position der Unterschrift an.
+Gibt die linke Position der Signatur an.
 
 ```csharp
 public int Left { get; set; }

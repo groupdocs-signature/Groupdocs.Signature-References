@@ -3,7 +3,7 @@ title: PdfTextAnnotationVerifyExtensions
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Beschreibt Erweiterungen der Überprüfung von PDFTextanmerkungsobjekten
 type: docs
-weight: 1440
+weight: 1520
 url: /de/net/groupdocs.signature.options/pdftextannotationverifyextensions/
 ---
 ## PdfTextAnnotationVerifyExtensions class

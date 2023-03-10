@@ -20,7 +20,7 @@ public Signature(Stream document)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Mehr zu den von GroupDocs unterstützten Dateitypen. Signatur: [Von GroupDocs.Signature unterstützte Dokumentformate](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
 * Mehr über GroupDocs.Signature für .NET-Funktionen: [Entwicklerhandbuch](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
@@ -48,7 +48,7 @@ public Signature(Stream document, LoadOptions loadOptions)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Mehr zu den von GroupDocs unterstützten Dateitypen. Signatur: [Von GroupDocs.Signature unterstützte Dokumentformate](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
 * Mehr über GroupDocs.Signature für .NET-Funktionen: [Entwicklerhandbuch](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
@@ -65,7 +65,7 @@ public Signature(Stream document, LoadOptions loadOptions)
 
 ## Signature(Stream, SignatureSettings) {#constructor_3}
 
-Initialisiert eine neue Instanz von[`Signature`](../../signature) Klasseninstanz mit Dokument, das von Stream und bereitgestellt wird[`SignatureSettings`](../../signaturesettings) .
+Initialisiert eine neue Instanz von[`Signature`](../../signature)Klasseninstanz mit Dokument, das von Stream und bereitgestellt wird[`SignatureSettings`](../../signaturesettings) .
 
 ```csharp
 public Signature(Stream document, SignatureSettings settings)
@@ -78,7 +78,7 @@ public Signature(Stream document, SignatureSettings settings)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Mehr zu den von GroupDocs unterstützten Dateitypen. Signatur: [Von GroupDocs.Signature unterstützte Dokumentformate](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
 * Mehr über GroupDocs.Signature für .NET-Funktionen: [Entwicklerhandbuch](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
@@ -108,7 +108,7 @@ public Signature(Stream document, LoadOptions loadOptions, SignatureSettings set
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Mehr zu den von GroupDocs unterstützten Dateitypen. Signatur: [Von GroupDocs.Signature unterstützte Dokumentformate](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
 * Mehr über GroupDocs.Signature für .NET-Funktionen: [Entwicklerhandbuch](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
@@ -138,7 +138,7 @@ public Signature(string filePath)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Mehr zu den von GroupDocs unterstützten Dateitypen. Signatur: [Von GroupDocs.Signature unterstützte Dokumentformate](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
 * Mehr über GroupDocs.Signature für .NET-Funktionen: [Entwicklerhandbuch](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
@@ -166,7 +166,7 @@ public Signature(string filePath, LoadOptions loadOptions)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Mehr zu den von GroupDocs unterstützten Dateitypen. Signatur: [Von GroupDocs.Signature unterstützte Dokumentformate](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
 * Mehr über GroupDocs.Signature für .NET-Funktionen: [Entwicklerhandbuch](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
@@ -196,7 +196,7 @@ public Signature(string filePath, SignatureSettings settings)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Mehr zu den von GroupDocs unterstützten Dateitypen. Signatur: [Von GroupDocs.Signature unterstützte Dokumentformate](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
 * Mehr über GroupDocs.Signature für .NET-Funktionen: [Entwicklerhandbuch](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
@@ -212,7 +212,7 @@ public Signature(string filePath, SignatureSettings settings)
 
 ## Signature(string, LoadOptions, SignatureSettings) {#constructor_6}
 
-Initialisiert eine neue Instanz von[`Signature`](../../signature) Klasseninstanz mit Dokument bereitgestellt durch Dateipfad,LoadOptions und[`SignatureSettings`](../../signaturesettings) .
+Initialisiert eine neue Instanz von[`Signature`](../../signature) Klasseninstanz mit Dokument bereitgestellt durch Dateipfad,LoadOptions Und[`SignatureSettings`](../../signaturesettings) .
 
 ```csharp
 public Signature(string filePath, LoadOptions loadOptions, SignatureSettings settings)
@@ -226,7 +226,7 @@ public Signature(string filePath, LoadOptions loadOptions, SignatureSettings set
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Mehr zu den von GroupDocs unterstützten Dateitypen. Signatur: [Von GroupDocs.Signature unterstützte Dokumentformate](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
 * Mehr über GroupDocs.Signature für .NET-Funktionen: [Entwicklerhandbuch](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)

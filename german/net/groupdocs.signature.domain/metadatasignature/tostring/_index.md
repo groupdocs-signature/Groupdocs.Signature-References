@@ -3,7 +3,7 @@ title: ToString
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Konvertiert in String mit override ToString method
 type: docs
-weight: 140
+weight: 150
 url: /de/net/groupdocs.signature.domain/metadatasignature/tostring/
 ---
 ## ToString() {#tostring}
@@ -21,34 +21,6 @@ Gibt den Wert der Metadaten-Signatur als Zeichenfolge zurück.
 ### Bemerkungen
 
 Wandelt eine boolesche Eigenschaft in „Wahr“ oder „Falsch“ um. Für einen anderen Datentyp wird der Standard-Datenformatanbieter verwendet.
-
-### Siehe auch
-
-* class [MetadataSignature](../../metadatasignature)
-* namensraum [GroupDocs.Signature.Domain](../../metadatasignature)
-* Montage [GroupDocs.Signature](../../../)
-
----
-
-## ToString(string) {#tostring_1}
-
-Konvertiert in eine Zeichenfolge mit dem angegebenen Format
-
-```csharp
-public virtual string ToString(string format)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| format | String | Zeichenfolge für das Datenformat. |
-
-### Rückgabewert
-
-Gibt den Wert der Metadaten-Signatur als Zeichenfolge zurück.
-
-### Bemerkungen
-
-Wandelt eine boolesche Eigenschaft in „True“ oder „False“ um. Informationen zur Standardkultureigenschaft werden aus SignatureSettings-Eigenschaften verwendet[`DefaultCulture`](../../../groupdocs.signature/signaturesettings/defaultculture)
 
 ### Siehe auch
 
@@ -78,6 +50,34 @@ Gibt den Wert der Metadaten-Signatur als Zeichenfolge zurück.
 ### Bemerkungen
 
 Wandelt eine boolesche Eigenschaft in „Wahr“ oder „Falsch“ um.
+
+### Siehe auch
+
+* class [MetadataSignature](../../metadatasignature)
+* namensraum [GroupDocs.Signature.Domain](../../metadatasignature)
+* Montage [GroupDocs.Signature](../../../)
+
+---
+
+## ToString(string) {#tostring_1}
+
+Konvertiert in eine Zeichenfolge mit dem angegebenen Format
+
+```csharp
+public virtual string ToString(string format)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| format | String | Zeichenfolge für das Datenformat. |
+
+### Rückgabewert
+
+Gibt den Wert der Metadaten-Signatur als Zeichenfolge zurück.
+
+### Bemerkungen
+
+Wandelt eine boolesche Eigenschaft in „True“ oder „False“ um. Informationen zur Standardkultureigenschaft werden aus SignatureSettings-Eigenschaften verwendet[`DefaultCulture`](../../../groupdocs.signature/signaturesettings/defaultculture)
 
 ### Siehe auch
 

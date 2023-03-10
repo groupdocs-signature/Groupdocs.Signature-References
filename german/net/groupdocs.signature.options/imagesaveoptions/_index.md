@@ -3,7 +3,7 @@ title: ImageSaveOptions
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Speicheroptionen für Bilddokumente.
 type: docs
-weight: 1320
+weight: 1400
 url: /de/net/groupdocs.signature.options/imagesaveoptions/
 ---
 ## ImageSaveOptions class

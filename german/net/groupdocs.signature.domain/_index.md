@@ -18,6 +18,7 @@ Der Namensraum stellt Klassen für die Arbeit mit der Dokumentdarstellung bereit
 | [BarcodeTypes](./barcodetypes) | Behälter für Barcode-Typen. |
 | [BaseSignature](./basesignature) | Beschreibt die Basisklasse für Signaturen. |
 | [Border](./border) | Stellt das Aussehen des Rahmens dar |
+| [CertificateMetadataSignature](./certificatemetadatasignature) | Enthält Zertifikat-Metadaten-Signatureigenschaften. |
 | [CheckboxFormFieldSignature](./checkboxformfieldsignature) | Enthält Kontrollkästchen-Eigenschaften für Feldsignaturen im Eingabeformular. |
 | [ComboboxFormFieldSignature](./comboboxformfieldsignature) | Enthält Unterschriftseigenschaften des Kombinationsfeld-Eingabeformularfelds. |
 | [Corners](./corners) | Repräsentiert Ecken eines quadratischen grafischen Objekts. |
@@ -83,6 +84,7 @@ Der Namensraum stellt Klassen für die Arbeit mit der Dokumentdarstellung bereit
 | [HorizontalAlignment](./horizontalalignment) | Gibt die horizontale Ausrichtung des Elements auf einer Dokumentseite an. |
 | [ImageSaveFileFormat](./imagesavefileformat) | Definiert verschiedene Speicherdateiformate. |
 | [MeasureType](./measuretype) | Gibt Maßeinheiten der Signatur auf einer Dokumentseite an. |
+| [MetadataType](./metadatatype) | Gibt den unterstützten Metadaten-Signaturdatentyp des Werts an. |
 | [PdfDigitalSignatureType](./pdfdigitalsignaturetype) | Beschreibt die Aufzählung des digitalen PDF-Signaturtyps. |
 | [PdfSaveFileFormat](./pdfsavefileformat) | Definiert verschiedene Speicherdateiformate. |
 | [PdfTextAnnotationBorderEffect](./pdftextannotationbordereffect) | Beschreibt den Effekt, der auf den Rand der PDF-Textanmerkungen angewendet werden soll. |

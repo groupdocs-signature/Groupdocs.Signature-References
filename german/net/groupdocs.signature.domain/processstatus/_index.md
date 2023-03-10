@@ -3,7 +3,7 @@ title: ProcessStatus
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Gibt den Status von Signatur und Verifizierungsprozessen an.
 type: docs
-weight: 740
+weight: 770
 url: /de/net/groupdocs.signature.domain/processstatus/
 ---
 ## ProcessStatus enumeration

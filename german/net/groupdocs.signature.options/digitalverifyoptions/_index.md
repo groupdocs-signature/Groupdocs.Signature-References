@@ -3,7 +3,7 @@ title: DigitalVerifyOptions
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Behält Optionen zur Überprüfung der digitalen Signatur des Dokuments bei.
 type: docs
-weight: 1270
+weight: 1350
 url: /de/net/groupdocs.signature.options/digitalverifyoptions/
 ---
 ## DigitalVerifyOptions class
@@ -46,7 +46,7 @@ public class DigitalVerifyOptions : VerifyOptions
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Grundlegende Verwendung der Überprüfung für die digitale elektronische Signatur von GroupDocs.Signatur: [ Wie man digitale Signaturen in einem Dokument eVerifiziert](https://docs.groupdocs.com/display/signaturenet/Verify+Digital+signatures+in+the+document)
 * Erweiterte Verwendung der Überprüfungseinstellungen für die digitale elektronische Signatur mit GroupDocs.Signature: [Erweiterte Verwendung von eVerification Digitale Signaturen in einem Dokument und zusätzliche Einstellungen]()

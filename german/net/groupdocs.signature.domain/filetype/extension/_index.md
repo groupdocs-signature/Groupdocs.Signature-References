@@ -3,7 +3,7 @@ title: Extension
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Dateinamensuffix einschließlich Punkt . zB .doc.
 type: docs
-weight: 580
+weight: 590
 url: /de/net/groupdocs.signature.domain/filetype/extension/
 ---
 ## FileType.Extension property

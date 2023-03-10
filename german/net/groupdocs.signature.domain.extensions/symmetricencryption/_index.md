@@ -3,7 +3,7 @@ title: SymmetricEncryption
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Implementiert standardmäßige symmetrische Algorithmen für die Datenverschlüsselung mit einem einzigen Schlüssel und einer Passphrase Salt.
 type: docs
-weight: 360
+weight: 380
 url: /de/net/groupdocs.signature.domain.extensions/symmetricencryption/
 ---
 ## SymmetricEncryption class

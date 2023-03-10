@@ -3,7 +3,7 @@ title: ProcessProgressEventArgs
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Stellt Daten für das OnProgressEreignis von Signatur Verifizierungs und Suchprozessen bereit.
 type: docs
-weight: 1760
+weight: 1840
 url: /de/net/groupdocs.signature/processprogresseventargs/
 ---
 ## ProcessProgressEventArgs class

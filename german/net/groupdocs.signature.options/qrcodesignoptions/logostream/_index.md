@@ -1,14 +1,14 @@
 ---
 title: LogoStream
 second_title: GroupDocs.Signature für .NET-API-Referenz
-description: Ruft den QRCodeLogoBildstream ab oder setzt ihn. Wenn diese Eigenschaft angegeben ist wird immer stattdessen LogoFilePath verwendet. Die Verwendung dieser Eigenschaft kann Probleme bei der Überprüfung verursachen. Gehen Sie vorsichtig damit um.
+description: Ruft den QRCodeLogoBildstream ab oder setzt ihn. Wenn diese Eigenschaft angegeben ist wird sie immer verwendet anstatt LogoFilePath. Die Verwendung dieser Eigenschaft kann Probleme bei der Überprüfung verursachen. Gehen Sie vorsichtig damit um.
 type: docs
 weight: 90
 url: /de/net/groupdocs.signature.options/qrcodesignoptions/logostream/
 ---
 ## QrCodeSignOptions.LogoStream property
 
-Ruft den QR-Code-Logo-Bildstream ab oder setzt ihn. Wenn diese Eigenschaft angegeben ist, wird immer stattdessen LogoFilePath verwendet. Die Verwendung dieser Eigenschaft kann Probleme bei der Überprüfung verursachen. Gehen Sie vorsichtig damit um.
+Ruft den QR-Code-Logo-Bildstream ab oder setzt ihn. Wenn diese Eigenschaft angegeben ist, wird sie immer verwendet, anstatt LogoFilePath. Die Verwendung dieser Eigenschaft kann Probleme bei der Überprüfung verursachen. Gehen Sie vorsichtig damit um.
 
 ```csharp
 public Stream LogoStream { get; set; }

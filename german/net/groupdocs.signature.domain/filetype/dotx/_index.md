@@ -1,14 +1,14 @@
 ---
 title: DOTX
 second_title: GroupDocs.Signature für .NET-API-Referenz
-description: Word Open XML Document Template .dotx sind von Microsoft Word erstellte Vorlagendateien mit vorformatierten Einstellungen für die Generierung weiterer DOCXDateien. Erfahren Sie mehr über dieses Dateiformathierhttps//wiki.fileformat.com/wordprocessing/dotx .
+description: Word Open XML Document Template .dotx sind von Microsoft Word erstellte Vorlagendateien mit vorformatierten Einstellungen für die Generierung weiterer DOCXDateien. Erfahren Sie mehr über dieses DateiformatHierhttps//wiki.fileformat.com/wordprocessing/dotx .
 type: docs
 weight: 130
 url: /de/net/groupdocs.signature.domain/filetype/dotx/
 ---
 ## FileType.DOTX field
 
-Word Open XML Document Template (.dotx) sind von Microsoft Word erstellte Vorlagendateien mit vorformatierten Einstellungen für die Generierung weiterer DOCX-Dateien. Erfahren Sie mehr über dieses Dateiformat[hier](https://wiki.fileformat.com/word-processing/dotx) .
+Word Open XML Document Template (.dotx) sind von Microsoft Word erstellte Vorlagendateien mit vorformatierten Einstellungen für die Generierung weiterer DOCX-Dateien. Erfahren Sie mehr über dieses Dateiformat[Hier](https://wiki.fileformat.com/word-processing/dotx) .
 
 ```csharp
 public static readonly FileType DOTX;

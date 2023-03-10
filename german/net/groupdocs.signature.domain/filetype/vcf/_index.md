@@ -1,14 +1,14 @@
 ---
 title: VCF
 second_title: GroupDocs.Signature für .NET-API-Referenz
-description: vCardDatei .vcf ist ein digitales Dateiformat zum Speichern von Kontaktinformationen. Das Format wird häufig für den Datenaustausch zwischen beliebten Informationsaustauschanwendungen verwendet. Erfahren Sie mehr über dieses Dateiformathierhttps//wiki.fileformat.com/email/vcf .
+description: vCardDatei .vcf ist ein digitales Dateiformat zum Speichern von Kontaktinformationen. Das Format wird häufig für den Datenaustausch zwischen beliebten Informationsaustauschanwendungen verwendet. Erfahren Sie mehr über dieses DateiformatHierhttps//wiki.fileformat.com/email/vcf .
 type: docs
-weight: 470
+weight: 480
 url: /de/net/groupdocs.signature.domain/filetype/vcf/
 ---
 ## FileType.VCF field
 
-vCard-Datei (.vcf) ist ein digitales Dateiformat zum Speichern von Kontaktinformationen. Das Format wird häufig für den Datenaustausch zwischen beliebten Informationsaustauschanwendungen verwendet. Erfahren Sie mehr über dieses Dateiformat[hier](https://wiki.fileformat.com/email/vcf) .
+vCard-Datei (.vcf) ist ein digitales Dateiformat zum Speichern von Kontaktinformationen. Das Format wird häufig für den Datenaustausch zwischen beliebten Informationsaustauschanwendungen verwendet. Erfahren Sie mehr über dieses Dateiformat[Hier](https://wiki.fileformat.com/email/vcf) .
 
 ```csharp
 public static readonly FileType VCF;

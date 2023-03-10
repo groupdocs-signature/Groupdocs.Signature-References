@@ -60,6 +60,9 @@ public static class BarcodeTypes
 | static readonly [EAN8](../../groupdocs.signature.domain/barcodetypes/ean8) | EAN8-Barcodetypobjekt. |
 | static readonly [GS1CodablockF](../../groupdocs.signature.domain/barcodetypes/gs1codablockf) | GS1CodablockF Barcode-Typ-Objekt. |
 | static readonly [GS1Code128](../../groupdocs.signature.domain/barcodetypes/gs1code128) | GS1 Code128 Barcode-Typ Objekt. |
+| static readonly [GS1CompositeBar](../../groupdocs.signature.domain/barcodetypes/gs1compositebar) | GS1 zusammengesetztes Barcode-Typ-Objekt. |
+| static readonly [HIBCCode128LIC](../../groupdocs.signature.domain/barcodetypes/hibccode128lic) | HIBC LIC 128 Barcode-Typ-Objekt. |
+| static readonly [HIBCCode39LIC](../../groupdocs.signature.domain/barcodetypes/hibccode39lic) | HIBC LIC 39 Barcode-Typ-Objekt. |
 | static readonly [IATA2of5](../../groupdocs.signature.domain/barcodetypes/iata2of5) | IATA2of5-Barcode-Typobjekt. |
 | static readonly [Interleaved2of5](../../groupdocs.signature.domain/barcodetypes/interleaved2of5) | Interleaved2of5-Barcode-Typ-Objekt. |
 | static readonly [ISBN](../../groupdocs.signature.domain/barcodetypes/isbn) | ISBN-Barcode-Typobjekt. |

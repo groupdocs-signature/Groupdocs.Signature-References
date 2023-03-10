@@ -1,14 +1,14 @@
 ---
 title: XLS
 second_title: GroupDocs.Signature für .NET-API-Referenz
-description: Excel Spreadsheet .xls steht für Excel Binary File Format. Solche Dateien können von Microsoft Excel sowie anderen ähnlichen Tabellenkalkulationsprogrammen wie OpenOffice Calc oder Apple Numbers erstellt werden. Erfahren Sie mehr über dieses Dateiformathierhttps//wiki.fileformat.com/spreadsheet/xls .
+description: Excel Spreadsheet .xls steht für Excel Binary File Format. Solche Dateien können von Microsoft Excel sowie anderen ähnlichen Tabellenkalkulationsprogrammen wie OpenOffice Calc oder Apple Numbers erstellt werden. Erfahren Sie mehr über dieses DateiformatHierhttps//wiki.fileformat.com/spreadsheet/xls .
 type: docs
-weight: 510
+weight: 520
 url: /de/net/groupdocs.signature.domain/filetype/xls/
 ---
 ## FileType.XLS field
 
-Excel Spreadsheet (.xls) steht für Excel Binary File Format. Solche Dateien können von Microsoft Excel sowie anderen ähnlichen Tabellenkalkulationsprogrammen wie OpenOffice Calc oder Apple Numbers erstellt werden. Erfahren Sie mehr über dieses Dateiformat[hier](https://wiki.fileformat.com/spreadsheet/xls) .
+Excel Spreadsheet (.xls) steht für Excel Binary File Format. Solche Dateien können von Microsoft Excel sowie anderen ähnlichen Tabellenkalkulationsprogrammen wie OpenOffice Calc oder Apple Numbers erstellt werden. Erfahren Sie mehr über dieses Dateiformat[Hier](https://wiki.fileformat.com/spreadsheet/xls) .
 
 ```csharp
 public static readonly FileType XLS;

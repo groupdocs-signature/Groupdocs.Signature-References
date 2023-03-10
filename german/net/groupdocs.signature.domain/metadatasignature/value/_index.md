@@ -3,7 +3,7 @@ title: Value
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Gibt das Metadatenobjekt an.
 type: docs
-weight: 30
+weight: 40
 url: /de/net/groupdocs.signature.domain/metadatasignature/value/
 ---
 ## MetadataSignature.Value property

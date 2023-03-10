@@ -16,7 +16,7 @@ public byte PixelAspectRatio { get; set; }
 
 ### Bemerkungen
 
-Pixel-Seitenverhältnis - Faktor, der zur Berechnung einer Annäherung des Seitenverhältnisses des Pixels im Originalbild verwendet wird. Wenn der Wert des Felds nicht 0 ist, wird diese Annäherung des Seitenverhältnisses anhand der Formel berechnet: Seitenverhältnis = (Pixel-Seitenverhältnis + 15) / 64 Das Pixel-Seitenverhältnis ist definiert als Quotient der Pixelbreite über seine Höhe. Der Wert range in diesem Feld ermöglicht die Angabe des breitesten Pixels von 4:1 bis zum höchsten Pixel von 1:4 in Schritten von 1/64. Werte: 0 - Es werden keine Informationen zum Seitenverhältnis angegeben. 1..255 - In der Berechnung verwendeter Wert.
+Pixel-Seitenverhältnis - Faktor, der zur Berechnung einer Annäherung des Seitenverhältnisses des Pixels im Originalbild verwendet wird. Wenn der Wert des Felds not 0 ist, wird diese Annäherung des Seitenverhältnisses basierend auf der Formel berechnet: Seitenverhältnis = (Pixel-Seitenverhältnis + 15) / 64 Das Pixel-Seitenverhältnis ist definiert als Quotient der Pixelbreite über seine Höhe. Der Wert range in diesem Feld ermöglicht die Angabe des breitesten Pixels von 4:1 bis zum höchsten Pixel von 1:4 in Schritten von 1/64. Werte: 0 - Es werden keine Informationen zum Seitenverhältnis angegeben. 1..255 - In der Berechnung verwendeter Wert.
 
 ### Siehe auch
 

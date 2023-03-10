@@ -3,7 +3,7 @@ title: PdfTextStickerAppearance
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Beschreibt das Erscheinungsbild des Aufkleberobjekts für PDFTextanmerkungen und das PopupFenster des Aufklebers.
 type: docs
-weight: 1160
+weight: 1230
 url: /de/net/groupdocs.signature.options.appearances/pdftextstickerappearance/
 ---
 ## PdfTextStickerAppearance class

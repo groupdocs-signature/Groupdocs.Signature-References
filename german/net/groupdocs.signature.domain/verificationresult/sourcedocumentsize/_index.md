@@ -1,17 +1,17 @@
 ---
-title: VerificationResult
+title: SourceDocumentSize
 second_title: GroupDocs.Signature für .NET-API-Referenz
-description: Default_Constructor
+description: Gibt die Größe des Quelldokuments in Bytes zurück
 type: docs
-weight: 10
-url: /de/net/groupdocs.signature.domain/verificationresult/verificationresult/
+weight: 40
+url: /de/net/groupdocs.signature.domain/verificationresult/sourcedocumentsize/
 ---
-## VerificationResult constructor
+## VerificationResult.SourceDocumentSize property
 
-Default_Constructor
+Gibt die Größe des Quelldokuments in Bytes zurück
 
 ```csharp
-public VerificationResult()
+public long SourceDocumentSize { get; }
 ```
 
 ### Siehe auch

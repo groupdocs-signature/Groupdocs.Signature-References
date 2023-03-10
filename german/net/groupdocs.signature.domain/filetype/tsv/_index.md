@@ -1,14 +1,14 @@
 ---
 title: TSV
 second_title: GroupDocs.Signature für .NET-API-Referenz
-description: Tabulatorgetrennte Wertedatei .tsv stellt durch Tabulatoren getrennte Daten im NurTextFormat dar. Erfahren Sie mehr über dieses Dateiformathierhttps//wiki.fileformat.com/spreadsheet/tsv .
+description: Tabulatorgetrennte Wertedatei .tsv stellt durch Tabulatoren getrennte Daten im NurTextFormat dar. Erfahren Sie mehr über dieses DateiformatHierhttps//wiki.fileformat.com/spreadsheet/tsv .
 type: docs
-weight: 440
+weight: 450
 url: /de/net/groupdocs.signature.domain/filetype/tsv/
 ---
 ## FileType.TSV field
 
-Tabulatorgetrennte Wertedatei (.tsv) stellt durch Tabulatoren getrennte Daten im Nur-Text-Format dar. Erfahren Sie mehr über dieses Dateiformat[hier](https://wiki.fileformat.com/spreadsheet/tsv) .
+Tabulatorgetrennte Wertedatei (.tsv) stellt durch Tabulatoren getrennte Daten im Nur-Text-Format dar. Erfahren Sie mehr über dieses Dateiformat[Hier](https://wiki.fileformat.com/spreadsheet/tsv) .
 
 ```csharp
 public static readonly FileType TSV;

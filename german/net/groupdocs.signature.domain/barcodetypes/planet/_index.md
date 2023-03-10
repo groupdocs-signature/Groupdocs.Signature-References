@@ -3,7 +3,7 @@ title: Planet
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: PlanetBarcodeTypObjekt.
 type: docs
-weight: 500
+weight: 530
 url: /de/net/groupdocs.signature.domain/barcodetypes/planet/
 ---
 ## BarcodeTypes.Planet field

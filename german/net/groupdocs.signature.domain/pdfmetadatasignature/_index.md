@@ -3,7 +3,7 @@ title: PdfMetadataSignature
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Enthält PdfMetadatenSignatureigenschaften.
 type: docs
-weight: 650
+weight: 680
 url: /de/net/groupdocs.signature.domain/pdfmetadatasignature/
 ---
 ## PdfMetadataSignature class
@@ -31,7 +31,7 @@ public sealed class PdfMetadataSignature : MetadataSignature
 | [Deleted](../../groupdocs.signature.domain/basesignature/deleted) { get; } | Holen Sie sich das Flag, das angibt, ob diese Signatur aus dem Dokument gelöscht wurde. Diese Eigenschaft wird nur für Protokolleinträge des Dokumentverlaufs verwendet, um die Liste der gelöschten Signaturen zu führen. |
 | [Height](../../groupdocs.signature.domain/basesignature/height) { get; set; } | Gibt die Höhe der Unterschrift an. |
 | [IsSignature](../../groupdocs.signature.domain/basesignature/issignature) { get; set; } | Flag abrufen oder setzen, um anzugeben, ob diese Komponente eine Signatur oder ein Dokumentinhalt ist. Diese Eigenschaft wird mit der Update-Methode verwendet, um ein Element als Signatur (true) oder Dokumentelement (false) festzulegen. |
-| [Left](../../groupdocs.signature.domain/basesignature/left) { get; set; } | Gibt die linke Position der Unterschrift an. |
+| [Left](../../groupdocs.signature.domain/basesignature/left) { get; set; } | Gibt die linke Position der Signatur an. |
 | [ModifiedOn](../../groupdocs.signature.domain/basesignature/modifiedon) { get; set; } | Abrufen oder Festlegen des Änderungsdatums der Signatur. |
 | [Name](../../groupdocs.signature.domain/metadatasignature/name) { get; set; } | Gibt einen eindeutigen Metadatennamen an. |
 | [PageNumber](../../groupdocs.signature.domain/basesignature/pagenumber) { get; } | Gibt an, auf welcher Seitensignatur gefunden wurde. |
@@ -39,6 +39,7 @@ public sealed class PdfMetadataSignature : MetadataSignature
 | [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | Gibt den Signaturtyp an. |
 | [TagPrefix](../../groupdocs.signature.domain/pdfmetadatasignature/tagprefix) { get; set; } | Das Präfix-Tag des Pdf-Metadaten-Signaturnamens. Standardmäßig ist diese Eigenschaft auf „xmp“ eingestellt. Mögliche Werte sind |
 | [Top](../../groupdocs.signature.domain/basesignature/top) { get; set; } | Gibt die obere Position der Unterschrift an. |
+| [Type](../../groupdocs.signature.domain/metadatasignature/type) { get; } | Gibt den Typ des Metadatenwerts an. |
 | [Value](../../groupdocs.signature.domain/metadatasignature/value) { get; set; } | Gibt das Metadatenobjekt an. |
 | [Width](../../groupdocs.signature.domain/basesignature/width) { get; set; } | Gibt die Breite der Unterschrift an. |
 

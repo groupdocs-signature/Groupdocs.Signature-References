@@ -3,7 +3,7 @@ title: Parse
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Gibt BarcodeTyp mit pasringTypeName zurück. Wenn der Name des Barcodes unbekannt ist wird eine Ausnahme ausgelöst.
 type: docs
-weight: 640
+weight: 670
 url: /de/net/groupdocs.signature.domain/barcodetypes/parse/
 ---
 ## BarcodeTypes.Parse method

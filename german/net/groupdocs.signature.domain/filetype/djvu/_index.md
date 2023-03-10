@@ -1,14 +1,14 @@
 ---
 title: DJVU
 second_title: GroupDocs.Signature für .NET-API-Referenz
-description: DjVuBild .djvu ist ein Grafikdateiformat für gescannte Dokumente und Bücher insbesondere solche die eine Kombination aus Text Zeichnungen Bildern und Fotos enthalten. Erfahren Sie mehr über dieses Dateiformathierhttps//wiki.fileformat.com/image/djvu .
+description: DjVuBild .djvu ist ein Grafikdateiformat für gescannte Dokumente und Bücher insbesondere solche die eine Kombination aus Text Zeichnungen Bildern und Fotos enthalten. Erfahren Sie mehr über dieses DateiformatHierhttps//wiki.fileformat.com/image/djvu .
 type: docs
 weight: 70
 url: /de/net/groupdocs.signature.domain/filetype/djvu/
 ---
 ## FileType.DJVU field
 
-DjVu-Bild (.djvu) ist ein Grafikdateiformat für gescannte Dokumente und Bücher, insbesondere solche, die eine Kombination aus Text, Zeichnungen, Bildern und Fotos enthalten. Erfahren Sie mehr über dieses Dateiformat[hier](https://wiki.fileformat.com/image/djvu) .
+DjVu-Bild (.djvu) ist ein Grafikdateiformat für gescannte Dokumente und Bücher, insbesondere solche, die eine Kombination aus Text, Zeichnungen, Bildern und Fotos enthalten. Erfahren Sie mehr über dieses Dateiformat[Hier](https://wiki.fileformat.com/image/djvu) .
 
 ```csharp
 public static readonly FileType DJVU;

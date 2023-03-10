@@ -3,7 +3,7 @@ title: ToString
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Gibt eine Zeichenfolge zurück die das aktuelle Objekt darstellt.
 type: docs
-weight: 620
+weight: 630
 url: /de/net/groupdocs.signature.domain/filetype/tostring/
 ---
 ## FileType.ToString method

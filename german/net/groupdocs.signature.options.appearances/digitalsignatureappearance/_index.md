@@ -3,7 +3,7 @@ title: DigitalSignatureAppearance
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Beschreibt das Aussehen der Signaturzeile für die digitale Signatur. Eine Signaturzeile kann nur für eine digitale Signatur angewendet werden. Die Signaturzeile befindet sich immer auf der ersten Seite. Diese Funktion kann für die Dateiformate .docx .doc .odt und .xlsx nützlich sein.
 type: docs
-weight: 1120
+weight: 1190
 url: /de/net/groupdocs.signature.options.appearances/digitalsignatureappearance/
 ---
 ## DigitalSignatureAppearance class

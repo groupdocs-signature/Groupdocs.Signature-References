@@ -3,7 +3,7 @@ title: RadialGradientBrush
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Stellt einen radial verlaufenden Pinsel dar.
 type: docs
-weight: 290
+weight: 310
 url: /de/net/groupdocs.signature.domain.extensions/radialgradientbrush/
 ---
 ## RadialGradientBrush class

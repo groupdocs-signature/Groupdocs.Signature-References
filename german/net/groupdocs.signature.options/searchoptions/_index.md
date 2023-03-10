@@ -3,7 +3,7 @@ title: SearchOptions
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Repräsentiert die extrahierten Signaturen aus Dokumentoptionen.
 type: docs
-weight: 1600
+weight: 1680
 url: /de/net/groupdocs.signature.options/searchoptions/
 ---
 ## SearchOptions class
@@ -25,7 +25,7 @@ public abstract class SearchOptions
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere einfache Beispiele zur Suche nach verschiedenen elektronischen Signaturen mit GroupDocs.Signature: [https://docs.groupdocs.com/signature/net/search-for-electronic-signatures-in-document/](https://docs.groupdocs.com/signature/net/search-for-electronic-signatures-in-document/)
 * Siehe erweiterte Beispiele für die Suche nach verschiedenen elektronischen Signaturen mit GroupDocs.Signature: [Erweiterte Suche nach elektronischen Signaturen](https://docs.groupdocs.com/signature/net/searching/)

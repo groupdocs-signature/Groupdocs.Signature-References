@@ -1,14 +1,14 @@
 ---
 title: DataEncryption
 second_title: GroupDocs.Signature für .NET-API-Referenz
-description: Ruft die Implementierung von ab oder legt sie festIDataEncryptiongroupdocs.signature.domain.extensions/idataencryptionSchnittstelle zum Codieren und Decodieren von QRCodeSignaturtexteigenschaften.
+description: Ruft die Implementierung von ab oder legt sie festIDataEncryptiongroupdocs.signature.domain.extensions/idataencryption Schnittstelle zum Codieren und Decodieren von QRCodeSignaturtexteigenschaften.
 type: docs
 weight: 20
 url: /de/net/groupdocs.signature.options/qrcodeverifyoptions/dataencryption/
 ---
 ## QrCodeVerifyOptions.DataEncryption property
 
-Ruft die Implementierung von ab oder legt sie fest[`IDataEncryption`](../../../groupdocs.signature.domain.extensions/idataencryption)Schnittstelle zum Codieren und Decodieren von QR-Code-Signaturtexteigenschaften.
+Ruft die Implementierung von ab oder legt sie fest[`IDataEncryption`](../../../groupdocs.signature.domain.extensions/idataencryption) Schnittstelle zum Codieren und Decodieren von QR-Code-Signaturtexteigenschaften.
 
 ```csharp
 public IDataEncryption DataEncryption { get; set; }

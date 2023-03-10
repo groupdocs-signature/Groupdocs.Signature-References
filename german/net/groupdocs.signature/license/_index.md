@@ -1,14 +1,14 @@
 ---
 title: License
 second_title: GroupDocs.Signature für .NET-API-Referenz
-description: Stellt Methoden zur Lizenzierung der Komponente bereit. Erfahren Sie mehr über die Lizenzierunghierhttps//purchase.groupdocs.com/faqs/licensing .
+description: Stellt Methoden zur Lizenzierung der Komponente bereit. Erfahren Sie mehr über die LizenzierungHierhttps//purchase.groupdocs.com/faqs/licensing .
 type: docs
-weight: 1100
+weight: 1130
 url: /de/net/groupdocs.signature/license/
 ---
 ## License class
 
-Stellt Methoden zur Lizenzierung der Komponente bereit. Erfahren Sie mehr über die Lizenzierung[hier](https://purchase.groupdocs.com/faqs/licensing) .
+Stellt Methoden zur Lizenzierung der Komponente bereit. Erfahren Sie mehr über die Lizenzierung[Hier](https://purchase.groupdocs.com/faqs/licensing) .
 
 ```csharp
 public sealed class License
@@ -29,7 +29,7 @@ public sealed class License
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Mehr zur Lizenzierung: [Häufig gestellte Fragen zur GroupDocs-Lizenzierung](https://purchase.groupdocs.com/faqs/licensing)
 * Mehr zur GroupDocs.Signature-Lizenzierung: [Bewertungsbeschränkungen und Lizenzierung](https://docs.groupdocs.com/display/signaturenet/Evaluation+Limitations+and+Licensing+of+GroupDocs.Signature)

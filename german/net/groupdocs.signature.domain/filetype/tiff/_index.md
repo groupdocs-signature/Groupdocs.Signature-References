@@ -1,14 +1,14 @@
 ---
 title: TIFF
 second_title: GroupDocs.Signature für .NET-API-Referenz
-description: Tagged Image File Format .tiff stellt Rasterbilder dar die für die Verwendung auf einer Vielzahl von Geräten gedacht sind die diesem Dateiformatstandard entsprechen. Es ist in der Lage Bilevel Graustufen Palettenfarben und VollfarbenBilddaten in mehreren Farbräumen zu beschreiben. Erfahren Sie mehr über dieses Dateiformathierhttps//wiki.fileformat.com/image/tiff .
+description: Tagged Image File Format .tiff stellt Rasterbilder dar die für die Verwendung auf einer Vielzahl von Geräten gedacht sind die diesem Dateiformatstandard entsprechen. Es ist in der Lage Bilevel Graustufen Palettenfarben und VollfarbenBilddaten in mehreren Farbräumen zu beschreiben. Erfahren Sie mehr über dieses DateiformatHierhttps//wiki.fileformat.com/image/tiff .
 type: docs
-weight: 430
+weight: 440
 url: /de/net/groupdocs.signature.domain/filetype/tiff/
 ---
 ## FileType.TIFF field
 
-Tagged Image File Format (.tiff) stellt Rasterbilder dar, die für die Verwendung auf einer Vielzahl von Geräten gedacht sind, die diesem Dateiformatstandard entsprechen. Es ist in der Lage, Bilevel-, Graustufen-, Palettenfarben- und Vollfarben-Bilddaten in mehreren Farbräumen zu beschreiben. Erfahren Sie mehr über dieses Dateiformat[hier](https://wiki.fileformat.com/image/tiff) .
+Tagged Image File Format (.tiff) stellt Rasterbilder dar, die für die Verwendung auf einer Vielzahl von Geräten gedacht sind, die diesem Dateiformatstandard entsprechen. Es ist in der Lage, Bilevel-, Graustufen-, Palettenfarben- und Vollfarben-Bilddaten in mehreren Farbräumen zu beschreiben. Erfahren Sie mehr über dieses Dateiformat[Hier](https://wiki.fileformat.com/image/tiff) .
 
 ```csharp
 public static readonly FileType TIFF;

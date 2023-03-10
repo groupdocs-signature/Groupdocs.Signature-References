@@ -3,7 +3,7 @@ title: StampBackgroundCropType
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Gibt den Zuschneidetyp der Hintergrundebene auf Stempelelementen an.
 type: docs
-weight: 870
+weight: 900
 url: /de/net/groupdocs.signature.domain/stampbackgroundcroptype/
 ---
 ## StampBackgroundCropType enumeration
