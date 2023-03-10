@@ -1,14 +1,14 @@
 ---
 title: Address
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置家庭地址属性该属性默认未初始化
+description: 获取或设置家庭地址属性默认情况下不初始化此属性
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.domain.extensions/mecard/address/
 ---
 ## MeCard.Address property
 
-获取或设置家庭地址属性。该属性默认未初始化。
+获取或设置家庭地址属性。默认情况下不初始化此属性。
 
 ```csharp
 public Address Address { get; set; }

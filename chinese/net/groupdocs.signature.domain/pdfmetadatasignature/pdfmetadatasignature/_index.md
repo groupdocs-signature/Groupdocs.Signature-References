@@ -1,14 +1,14 @@
 ---
 title: PdfMetadataSignature
 second_title: GroupDocs.Signature for .NET API 参考
-description: 使用预定义名称和空值创建 Pdf 元数据签名
+description: 创建具有预定义名称和空值的 Pdf 元数据签名
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.domain/pdfmetadatasignature/pdfmetadatasignature/
 ---
 ## PdfMetadataSignature(string) {#constructor}
 
-使用预定义名称和空值创建 Pdf 元数据签名
+创建具有预定义名称和空值的 Pdf 元数据签名
 
 ```csharp
 public PdfMetadataSignature(string name)
@@ -28,7 +28,7 @@ public PdfMetadataSignature(string name)
 
 ## PdfMetadataSignature(string, object) {#constructor_1}
 
-使用预定义值创建 Pdf 元数据签名
+创建具有预定义值的 Pdf 元数据签名
 
 ```csharp
 public PdfMetadataSignature(string name, object value)
@@ -37,7 +37,7 @@ public PdfMetadataSignature(string name, object value)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | name | String | 元数据签名对象的名称 |
-| value | Object | 元数据签名值 |
+| value | Object | 元数据签名的值 |
 
 ### 也可以看看
 
@@ -49,7 +49,7 @@ public PdfMetadataSignature(string name, object value)
 
 ## PdfMetadataSignature(string, object, string) {#constructor_2}
 
-使用预定义值创建 Pdf 元数据签名
+创建具有预定义值的 Pdf 元数据签名
 
 ```csharp
 public PdfMetadataSignature(string name, object value, string tag)
@@ -58,7 +58,7 @@ public PdfMetadataSignature(string name, object value, string tag)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | name | String | 元数据签名对象的名称 |
-| value | Object | 元数据签名值 |
+| value | Object | 元数据签名的值 |
 | tag | String | 元数据签名的前缀标签 |
 
 ### 也可以看看

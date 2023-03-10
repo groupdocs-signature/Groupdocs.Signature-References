@@ -24,7 +24,7 @@ public DigitalSignature()
 
 ## DigitalSignature(string) {#constructor_4}
 
-使用已知 SignatureId 初始化数字签名。
+使用已知的 SignatureId 初始化数字签名。
 
 ```csharp
 public DigitalSignature(string signatureId)
@@ -48,7 +48,7 @@ public DigitalSignature(X509Store store)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| store | X509Store | X509 专卖店。 |
+| store | X509Store | X509商店。 |
 
 ### 也可以看看
 
@@ -60,7 +60,7 @@ public DigitalSignature(X509Store store)
 
 ## DigitalSignature(X509Store, int) {#constructor_3}
 
-根据指定的X509存储和证书索引创建数字签名。
+根据指定的 X509 Store 和证书索引创建数字签名。
 
 ```csharp
 public DigitalSignature(X509Store store, int index)
@@ -68,7 +68,7 @@ public DigitalSignature(X509Store store, int index)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| store | X509Store | X509 专卖店。 |
+| store | X509Store | X509商店。 |
 | index | Int32 | 证书索引。 |
 
 ### 也可以看看

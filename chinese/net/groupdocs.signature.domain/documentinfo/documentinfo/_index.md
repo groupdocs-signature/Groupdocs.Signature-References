@@ -1,14 +1,14 @@
 ---
 title: DocumentInfo
 second_title: GroupDocs.Signature for .NET API 参考
-description: 初始化DocumentInfogroupdocs.signature.domain/documentinfo类.
+description: 初始化一个新的实例DocumentInfogroupdocs.signature.domain/documentinfo类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.domain/documentinfo/documentinfo/
 ---
 ## DocumentInfo constructor
 
-初始化[`DocumentInfo`](../../documentinfo)类.
+初始化一个新的实例[`DocumentInfo`](../../documentinfo)类.
 
 ```csharp
 public DocumentInfo()

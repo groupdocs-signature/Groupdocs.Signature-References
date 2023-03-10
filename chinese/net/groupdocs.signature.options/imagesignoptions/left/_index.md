@@ -1,14 +1,14 @@
 ---
 title: Left
 second_title: GroupDocs.Signature for .NET API 参考
-description: 文档页面上签名的左 X 位置测量值 像素百分比或毫米见MeasureTypegroupdocs.signature.domain/measuretypeLocationMeasureType. 如果未指定水平对齐方式则有效.
+description: 文档页面上签名的左侧 X 位置测量值 像素百分比或毫米见MeasureTypegroupdocs.signature.domain/measuretypeLocationMeasureType. 如果未指定水平对齐则有效.
 type: docs
 weight: 90
 url: /zh/net/groupdocs.signature.options/imagesignoptions/left/
 ---
 ## ImageSignOptions.Left property
 
-文档页面上签名的左 X 位置，测量值 （像素、百分比或毫米见[`MeasureType`](../../../groupdocs.signature.domain/measuretype)LocationMeasureType). （如果未指定水平对齐方式则有效）.
+文档页面上签名的左侧 X 位置测量值 （像素、百分比或毫米见[`MeasureType`](../../../groupdocs.signature.domain/measuretype)LocationMeasureType). （如果未指定水平对齐则有效）.
 
 ```csharp
 public virtual int Left { get; set; }

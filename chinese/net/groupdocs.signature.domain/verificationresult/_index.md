@@ -3,7 +3,7 @@ title: VerificationResult
 second_title: GroupDocs.Signature for .NET API 参考
 description: 保存验证过程结果的实例
 type: docs
-weight: 1020
+weight: 1050
 url: /zh/net/groupdocs.signature.domain/verificationresult/
 ---
 ## VerificationResult class
@@ -11,23 +11,23 @@ url: /zh/net/groupdocs.signature.domain/verificationresult/
 保存验证过程结果的实例。
 
 ```csharp
-public class VerificationResult
+public class VerificationResult : IResult
 ```
-
-## 构造函数
-
-| 姓名 | 描述 |
-| --- | --- |
-| [VerificationResult](verificationresult)() | 默认构造函数。 |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
+| [DestinDocumentSize](../../groupdocs.signature.domain/verificationresult/destindocumentsize) { get; } | 返回目标文档大小。为了验证这个变量总是包含零. |
 | [IsValid](../../groupdocs.signature.domain/verificationresult/isvalid) { get; } | 如果验证过程成功则返回真，否则返回假。 |
+| [ProcessingTime](../../groupdocs.signature.domain/verificationresult/processingtime) { get; } | 以毫秒为单位返回进程的执行时间。 |
+| [SourceDocumentSize](../../groupdocs.signature.domain/verificationresult/sourcedocumentsize) { get; } | 以字节为单位返回源文档大小 |
+| [Succeeded](../../groupdocs.signature.domain/verificationresult/succeeded) { get; } | 成功验证的签名列表[`BaseSignature`](../basesignature). |
+| [TotalSignatures](../../groupdocs.signature.domain/verificationresult/totalsignatures) { get; } | 返回已处理的签名总数 |
 
 ### 也可以看看
 
+* interface [IResult](../iresult)
 * 命名空间 [GroupDocs.Signature.Domain](../../groupdocs.signature.domain)
 * 部件 [GroupDocs.Signature](../../)
 

@@ -1,14 +1,14 @@
 ---
 title: UpcaGs1Code128Coupon
 second_title: GroupDocs.Signature for .NET API 参考
-description: UpcaGs1Code128Coupon Barcode Type object.
+description: UpcaGs1Code128Coupon 条码类型对象
 type: docs
-weight: 600
+weight: 630
 url: /zh/net/groupdocs.signature.domain/barcodetypes/upcags1code128coupon/
 ---
 ## BarcodeTypes.UpcaGs1Code128Coupon field
 
-UpcaGs1Code128Coupon Barcode Type object.
+UpcaGs1Code128Coupon 条码类型对象。
 
 ```csharp
 public static readonly BarcodeType UpcaGs1Code128Coupon;

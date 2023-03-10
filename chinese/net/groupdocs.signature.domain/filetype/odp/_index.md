@@ -1,14 +1,14 @@
 ---
 title: ODP
 second_title: GroupDocs.Signature for .NET API 参考
-description: OpenDocument 演示文稿 .odp 表示 OpenOffice.org 在 OASISOpen 标准中使用的演示文稿文件格式 了解有关此文件格式的更多信息这里https//wiki.fileformat.com/presentation/odp
+description: OpenDocument Presentation .odp 表示 OpenOffice.org 在 OASISOpen 标准中使用的演示文稿文件格式 了解有关此文件格式的更多信息这里https//wiki.fileformat.com/presentation/odp
 type: docs
 weight: 200
 url: /zh/net/groupdocs.signature.domain/filetype/odp/
 ---
 ## FileType.ODP field
 
-OpenDocument 演示文稿 (.odp) 表示 OpenOffice.org 在 OASISOpen 标准中使用的演示文稿文件格式。 了解有关此文件格式的更多信息[这里](https://wiki.fileformat.com/presentation/odp)
+OpenDocument Presentation (.odp) 表示 OpenOffice.org 在 OASISOpen 标准中使用的演示文稿文件格式。 了解有关此文件格式的更多信息[这里](https://wiki.fileformat.com/presentation/odp)
 
 ```csharp
 public static readonly FileType ODP;

@@ -1,14 +1,14 @@
 ---
 title: Planet
 second_title: GroupDocs.Signature for .NET API 参考
-description: 星球条形码类型对象
+description: Planet 条形码类型对象
 type: docs
-weight: 500
+weight: 530
 url: /zh/net/groupdocs.signature.domain/barcodetypes/planet/
 ---
 ## BarcodeTypes.Planet field
 
-星球条形码类型对象。
+Planet 条形码类型对象。
 
 ```csharp
 public static readonly BarcodeType Planet;

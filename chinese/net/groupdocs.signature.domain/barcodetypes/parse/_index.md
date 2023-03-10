@@ -1,14 +1,14 @@
 ---
 title: Parse
 second_title: GroupDocs.Signature for .NET API 参考
-description: 返回带有 pasringType 名称的条形码类型如果条码名称未知  将抛出异常
+description: 返回带有 pasringType 名称的条码类型如果条形码名称未知  将抛出异常
 type: docs
-weight: 640
+weight: 670
 url: /zh/net/groupdocs.signature.domain/barcodetypes/parse/
 ---
 ## BarcodeTypes.Parse method
 
-返回带有 pasringType 名称的条形码类型。如果条码名称未知 - 将抛出异常。
+返回带有 pasringType 名称的条码类型。如果条形码名称未知 - 将抛出异常。
 
 ```csharp
 public static BarcodeType Parse(string parsingType)
@@ -20,7 +20,7 @@ public static BarcodeType Parse(string parsingType)
 
 ### 返回值
 
-BarcodeType 实例。
+条码类型实例。
 
 ### 也可以看看
 

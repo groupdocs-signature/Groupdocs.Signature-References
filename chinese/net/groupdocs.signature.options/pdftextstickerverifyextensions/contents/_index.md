@@ -1,14 +1,14 @@
 ---
 title: Contents
 second_title: GroupDocs.Signature for .NET API 参考
-description: 待验证的贴纸内容 如果等于空字符串或null则不验证值
+description: 要验证的标签内容 如果等于空字符串或null则不验证值
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.options/pdftextstickerverifyextensions/contents/
 ---
 ## PdfTextStickerVerifyExtensions.Contents property
 
-待验证的贴纸内容。 如果等于空字符串或null，则不验证值。
+要验证的标签内容。 如果等于空字符串或null，则不验证值。
 
 ```csharp
 public string Contents { get; set; }

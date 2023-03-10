@@ -1,14 +1,14 @@
 ---
 title: Company
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置联系人公司
+description: 获取或设置联系公司
 type: docs
 weight: 40
 url: /zh/net/groupdocs.signature.domain.extensions/vcard/company/
 ---
 ## VCard.Company property
 
-获取或设置联系人公司。
+获取或设置联系公司。
 
 ```csharp
 public string Company { get; set; }

@@ -3,7 +3,7 @@ title: MeasureType
 second_title: GroupDocs.Signature for .NET API 参考
 description: 指定文档页面上签名的度量单位
 type: docs
-weight: 580
+weight: 600
 url: /zh/net/groupdocs.signature.domain/measuretype/
 ---
 ## MeasureType enumeration
@@ -20,7 +20,7 @@ public enum MeasureType
 | --- | --- | --- |
 | Pixels | `0` | 像素. |
 | Percents | `1` | 页面大小的百分比。 |
-| Millimeters | `2` | 毫米。 |
+| Millimeters | `2` | 毫米. |
 
 ### 也可以看看
 

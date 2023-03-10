@@ -8,7 +8,7 @@ url: /zh/net/groupdocs.signature.domain/basesignature/deleted/
 ---
 ## BaseSignature.Deleted property
 
-获取指示此签名是否已从文档中删除的标志。 此属性仅用于文档历史日志记录，以保留已删除签名的列表。
+获取指示此签名是否已从文档中删除的标志。 此属性仅用于文档历史日志记录以保留已删除签名的列表。
 
 ```csharp
 public bool Deleted { get; }

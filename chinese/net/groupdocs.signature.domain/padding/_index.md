@@ -1,14 +1,14 @@
 ---
 title: Padding
 second_title: GroupDocs.Signature for .NET API 参考
-description: 表示与元素关联的填充或边距信息
+description: 表示与元素相关的填充或边距信息
 type: docs
-weight: 610
+weight: 640
 url: /zh/net/groupdocs.signature.domain/padding/
 ---
 ## Padding class
 
-表示与元素关联的填充或边距信息。
+表示与元素相关的填充或边距信息。
 
 ```csharp
 public class Padding : ICloneable
@@ -26,12 +26,12 @@ public class Padding : ICloneable
 
 | 姓名 | 描述 |
 | --- | --- |
-| [All](../../groupdocs.signature.domain/padding/all) { get; set; } | 获取或设置所有边的填充值。 更改任何部分边，如左或上，使该属性等于 0； |
+| [All](../../groupdocs.signature.domain/padding/all) { get; set; } | 获取或设置所有边缘的填充值。 更改任何部分边缘（如左或上）会使此属性等于 0； |
 | [Bottom](../../groupdocs.signature.domain/padding/bottom) { get; set; } | 获取或设置底部边缘的填充值。 |
 | [Horizontal](../../groupdocs.signature.domain/padding/horizontal) { get; } | 获取左右边缘的组合填充。 |
 | [Left](../../groupdocs.signature.domain/padding/left) { get; set; } | 获取或设置左边缘的填充值。 |
 | [Right](../../groupdocs.signature.domain/padding/right) { get; set; } | 获取或设置右边缘的填充值。 |
-| [Top](../../groupdocs.signature.domain/padding/top) { get; set; } | 获取或设置上边缘的填充值。 |
+| [Top](../../groupdocs.signature.domain/padding/top) { get; set; } | 获取或设置顶部边缘的填充值。 |
 | [Vertical](../../groupdocs.signature.domain/padding/vertical) { get; } | 获取顶部和底部边缘的组合填充。 |
 
 ## 方法

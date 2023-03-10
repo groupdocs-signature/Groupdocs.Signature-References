@@ -32,7 +32,7 @@ public FormFieldSignOptions(FormFieldSignature signature)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| signature | FormFieldSignature | 表单域签名对象 |
+| signature | FormFieldSignature | 表单字段签名对象 |
 
 ### 也可以看看
 

@@ -3,7 +3,7 @@ title: CreatePageStream
 second_title: GroupDocs.Signature for .NET API 参考
 description: 定义创建输出页面预览流的方法的委托
 type: docs
-weight: 1230
+weight: 1310
 url: /zh/net/groupdocs.signature.options/createpagestream/
 ---
 ## CreatePageStream delegate

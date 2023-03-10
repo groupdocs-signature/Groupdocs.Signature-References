@@ -1,14 +1,14 @@
 ---
 title: Row
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置签名的顶行数最小值为0
+description: 获取或设置签名首行号最小值为0.
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.domain.extensions/spreadsheetposition/row/
 ---
 ## SpreadsheetPosition.Row property
 
-获取或设置签名的顶行数（最小值为0）。
+获取或设置签名首行号（最小值为0）.
 
 ```csharp
 public int Row { get; set; }

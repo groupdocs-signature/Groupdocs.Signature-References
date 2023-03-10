@@ -1,14 +1,14 @@
 ---
 title: Reason
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置签名的原因
+description: 获取或设置签名原因.
 type: docs
 weight: 70
 url: /zh/net/groupdocs.signature.options/digitalsignoptions/reason/
 ---
 ## DigitalSignOptions.Reason property
 
-获取或设置签名的原因。
+获取或设置签名原因.
 
 ```csharp
 public string Reason { get; set; }

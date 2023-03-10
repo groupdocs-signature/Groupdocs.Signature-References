@@ -16,7 +16,7 @@ public static implicit operator SignatureFont(Font font)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| font | Font | 用于复制的标准系统字体属性。 |
+| font | Font | 用于制作副本的标准系统字体属性。 |
 
 ### 返回值
 

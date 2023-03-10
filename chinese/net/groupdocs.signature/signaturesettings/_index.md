@@ -3,7 +3,7 @@ title: SignatureSettings
 second_title: GroupDocs.Signature for .NET API 参考
 description: 定义自定义设置Signature./signature行为.
 type: docs
-weight: 1810
+weight: 1890
 url: /zh/net/groupdocs.signature/signaturesettings/
 ---
 ## SignatureSettings class
@@ -18,16 +18,20 @@ public class SignatureSettings
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SignatureSettings](signaturesettings)() | 默认构造函数。 |
+| [SignatureSettings](signaturesettings#constructor)() | 创建具有默认值的默认 SignatureSettings 实例。 |
+| [SignatureSettings](signaturesettings#constructor_1)(ILogger) | 使用 Logger 实现创建默认的 SignatureSettings 实例。 |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [DefaultCulture](../../groupdocs.signature/signaturesettings/defaultculture) { get; set; } | 获取或设置文档处理期间使用的默认文化。默认值为“en-US”。 |
-| [SaveDocumentOnEmptyDelete](../../groupdocs.signature/signaturesettings/savedocumentonemptydelete) { get; set; } | 获取或设置标志以在 Delete 方法没有要删除的受影响签名时重新保存源文档。 如果此标志设置为 true（默认情况下），即使 Delete 方法，文档也将与相应的历史处理日志（日期和操作类型）一起保存没有要删除的签名。 当此平面设置为 false 时，根本不会修改源文档。 |
-| [SaveDocumentOnEmptyUpdate](../../groupdocs.signature/signaturesettings/savedocumentonemptyupdate) { get; set; } | 当 Update 方法没有要更新的签名时，获取或设置重新保存源文档的标志。 如果此标志设置为 true（默认情况下），即使 Update 方法有相应的历史处理日志（日期和操作类型），文档也会保存没有要更新的签名。 当此平面设置为 false 时，根本不会修改源文档。 |
-| [ShowDeletedSignaturesInfo](../../groupdocs.signature/signaturesettings/showdeletedsignaturesinfo) { get; set; } | 获取或设置包含已删除签名到文档信息结果中的标志。 每个签名[`BaseSignature`](../../groupdocs.signature.domain/basesignature)已删除标志[`Deleted`](../../groupdocs.signature.domain/basesignature/deleted)检测它是否被删除。 |
+| [DefaultCulture](../../groupdocs.signature/signaturesettings/defaultculture) { get; set; } | 获取或设置在文档处理期间使用的默认区域性。默认值为“en-US”. |
+| [IncludeStandardMetadataSignatures](../../groupdocs.signature/signaturesettings/includestandardmetadatasignatures) { get; set; } | 获取或设置标志以将嵌入的标准文档元数据签名（如作者、所有者、文档创建日期、修改日期等）包含到元数据列表中。 如果此标志设置为 false（默认情况下），GetDocumentInfo 将不包含这些元数据signatures. 当此标志设置为 true 时，文档信息将包括这些标准元数据 signatures. |
+| [Logger](../../groupdocs.signature/signaturesettings/logger) { get; } | 用于记录（错误、警告、跟踪）的记录器实现。[`ILogger`](../../groupdocs.signature.logging/ilogger). |
+| [LogLevel](../../groupdocs.signature/signaturesettings/loglevel) { get; set; } | 限制消息的日志记录级别（全部、跟踪、警告、错误）。[`LogLevel`](./loglevel) . 默认设置所有级别类型。 |
+| [SaveDocumentOnEmptyDelete](../../groupdocs.signature/signaturesettings/savedocumentonemptydelete) { get; set; } | 获取或设置标志以在 Delete 方法没有要删除的受影响签名时重新保存源文档。 如果此标志设置为 true（默认情况下），文档将与相应的历史进程日志（日期和操作类型）一起保存，即使删除方法没有要删除的签名。 当此平面设置为 false 时，源文档将根本不会被修改。 |
+| [SaveDocumentOnEmptyUpdate](../../groupdocs.signature/signaturesettings/savedocumentonemptyupdate) { get; set; } | 获取或设置标志以在 Update 方法没有要更新的签名时重新保存源文档。 如果此标志设置为 true（默认情况下）文档将与相应的历史进程日志（日期和操作类型）一起保存，即使 Update method has no signatures to update. 当这个 flat 设置为 false source document 根本不会被修改. |
+| [ShowDeletedSignaturesInfo](../../groupdocs.signature/signaturesettings/showdeletedsignaturesinfo) { get; set; } | 获取或设置将已删除签名包含到文档信息结果中的标志。 每个签名[`BaseSignature`](../../groupdocs.signature.domain/basesignature)已删除标志[`Deleted`](../../groupdocs.signature.domain/basesignature/deleted)检测是否被删除. |
 
 ### 也可以看看
 

@@ -34,8 +34,8 @@ public StampSignOptions(int left, int top, int width, int height)
 | --- | --- | --- |
 | left | Int32 | Stamp Signature 左上边缘的 x 坐标 |
 | top | Int32 | Stamp Signature 左上边缘的 y 坐标 |
-| width | Int32 | 签章宽度 |
-| height | Int32 | 邮票签名高度 |
+| width | Int32 | 印章签名的宽度 |
+| height | Int32 | 印章签名的高度 |
 
 ### 也可以看看
 

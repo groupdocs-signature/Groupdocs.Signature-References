@@ -1,14 +1,14 @@
 ---
 title: Id
 second_title: GroupDocs.Signature for .NET API 参考
-description: 图像元数据签名的标识符 见ImageMetadataSignatures包含具有预定义 Id 值的标准签名的类
+description: Image Metadata 签名的标识符 见ImageMetadataSignatures包含具有预定义 Id 值的标准签名的类
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.domain/imagemetadatasignature/id/
 ---
 ## ImageMetadataSignature.Id property
 
-图像元数据签名的标识符。 见ImageMetadataSignatures包含具有预定义 Id 值的标准签名的类。
+Image Metadata 签名的标识符。 见ImageMetadataSignatures包含具有预定义 Id 值的标准签名的类。
 
 ```csharp
 public ushort Id { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: FormatAttribute
 second_title: GroupDocs.Signature for .NET API 参考
-description: 使用给定的属性名称创建格式属性
+description: 创建具有给定属性 Name 的格式属性
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.domain.extensions/formatattribute/formatattribute/
 ---
 ## FormatAttribute(string) {#constructor}
 
-使用给定的属性名称创建格式属性
+创建具有给定属性 Name 的格式属性
 
 ```csharp
 public FormatAttribute(string propertyName)
@@ -28,7 +28,7 @@ public FormatAttribute(string propertyName)
 
 ## FormatAttribute(string, string) {#constructor_1}
 
-使用给定的属性名称创建格式属性
+创建具有给定属性 Name 的格式属性
 
 ```csharp
 public FormatAttribute(string propertyName, string propertyFormat)

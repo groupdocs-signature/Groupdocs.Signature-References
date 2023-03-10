@@ -3,7 +3,7 @@ title: EPC
 second_title: GroupDocs.Signature for .NET API 参考
 description: 代表欧洲支付委员会快速响应代码
 type: docs
-weight: 210
+weight: 230
 url: /zh/net/groupdocs.signature.domain.extensions/epc/
 ---
 ## EPC class
@@ -25,15 +25,15 @@ public sealed class EPC
 | 姓名 | 描述 |
 | --- | --- |
 | [Amount](../../groupdocs.signature.domain.extensions/epc/amount) { get; set; } | 获取或设置金额。 |
-| [BIC](../../groupdocs.signature.domain.extensions/epc/bic) { get; set; } | 获取或设置受益人的 BIC，最多 11 个字符长度。 |
-| [Charset](../../groupdocs.signature.domain.extensions/epc/charset) { get; } | EPC / SEPA QR-Code 字符集实现。默认情况下，此值设置为 1 |
+| [BIC](../../groupdocs.signature.domain.extensions/epc/bic) { get; set; } | 获取或设置最多 11 个字符长度的收款人 BIC。 |
+| [Charset](../../groupdocs.signature.domain.extensions/epc/charset) { get; } | EPC / SEPA QR-Code 字符集实施。默认情况下，此值设置为 1 |
 | [Code](../../groupdocs.signature.domain.extensions/epc/code) { get; set; } | 获取或设置最多 4 个字符的业务代码。 |
-| [IBAN](../../groupdocs.signature.domain.extensions/epc/iban) { get; set; } | 获取或设置受益人帐户 (IBAN)。 IBAN 最多由 34 个字母数字字符组成。 |
+| [IBAN](../../groupdocs.signature.domain.extensions/epc/iban) { get; set; } | 获取或设置收款人帐户 (IBAN)。 IBAN 最多包含 34 个字母数字字符。 |
 | [Identification](../../groupdocs.signature.domain.extensions/epc/identification) { get; } | EPC / SEPA 二维码识别。默认情况下，此值设置为 SCT |
 | [Information](../../groupdocs.signature.domain.extensions/epc/information) { get; set; } | 获取或设置提示信息。最多 70 个字符。 |
-| [Name](../../groupdocs.signature.domain.extensions/epc/name) { get; set; } | 获取或设置受益人姓名。最大长度为 70 个字符。 |
-| [Reference](../../groupdocs.signature.domain.extensions/epc/reference) { get; set; } | 获取或设置付款参考（最多 35 个字符）。该字段与汇款信息字段互斥。 |
-| [Remittance](../../groupdocs.signature.domain.extensions/epc/remittance) { get; set; } | 获取或设置汇款信息（最多 140 个字符）。此字段和付款参考字段是互斥的。 |
+| [Name](../../groupdocs.signature.domain.extensions/epc/name) { get; set; } | 获取或设置收款人姓名。最大长度为 70 个字符。 |
+| [Reference](../../groupdocs.signature.domain.extensions/epc/reference) { get; set; } | 获取或设置付款参考（最多 35 个字符）。该字段和汇款信息字段互斥。 |
+| [Remittance](../../groupdocs.signature.domain.extensions/epc/remittance) { get; set; } | 获取或设置汇款信息（最多 140 个字符）。该字段和付款参考字段是互斥的。 |
 | [Version](../../groupdocs.signature.domain.extensions/epc/version) { get; } | EPC / SEPA QR-Code 版本实施。默认情况下，此值设置为 002. |
 
 ## 方法

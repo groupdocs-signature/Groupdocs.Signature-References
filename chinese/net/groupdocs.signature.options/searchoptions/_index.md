@@ -3,7 +3,7 @@ title: SearchOptions
 second_title: GroupDocs.Signature for .NET API 参考
 description: 表示从文档选项中提取签名
 type: docs
-weight: 1600
+weight: 1680
 url: /zh/net/groupdocs.signature.options/searchoptions/
 ---
 ## SearchOptions class
@@ -25,10 +25,10 @@ public abstract class SearchOptions
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 查看更多关于使用 GroupDocs.Signature 搜索各种电子签名的简单示例： [https://docs.groupdocs.com/signature/net/search-for-electronic-signatures-in-document/](https://docs.groupdocs.com/signature/net/search-for-electronic-signatures-in-document/)
-* 查看使用 GroupDocs.Signature 搜索各种电子签名的更高级示例： [高级电子签名搜索](https://docs.groupdocs.com/signature/net/searching/)
+* 查看更多关于使用 GroupDocs 搜索各种电子签名的简单示例。签名： [https://docs.groupdocs.com/signature/net/search-for-electronic-signatures-in-document/](https://docs.groupdocs.com/signature/net/search-for-electronic-signatures-in-document/)
+* 查看更多使用 GroupDocs 搜索各种电子签名的高级示例。签名： [高级电子签名搜索](https://docs.groupdocs.com/signature/net/searching/)
 
 ### 也可以看看
 

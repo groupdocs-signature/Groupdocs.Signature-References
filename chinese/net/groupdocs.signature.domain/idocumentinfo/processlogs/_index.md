@@ -1,14 +1,14 @@
 ---
 title: ProcessLogs
 second_title: GroupDocs.Signature for .NET API 参考
-description: 文档历史处理日志的集合
+description: 文档历史进程日志集合
 type: docs
-weight: 100
+weight: 110
 url: /zh/net/groupdocs.signature.domain/idocumentinfo/processlogs/
 ---
 ## IDocumentInfo.ProcessLogs property
 
-文档历史处理日志的集合。
+文档历史进程日志集合。
 
 ```csharp
 public IList<ProcessLog> ProcessLogs { get; }

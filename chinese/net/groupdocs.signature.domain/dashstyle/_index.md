@@ -1,14 +1,14 @@
 ---
 title: DashStyle
 second_title: GroupDocs.Signature for .NET API 参考
-description: 表示文档上的虚线画线样式
+description: 表示文档上虚线画线的样式
 type: docs
-weight: 110
+weight: 120
 url: /zh/net/groupdocs.signature.domain/dashstyle/
 ---
 ## DashStyle enumeration
 
-表示文档上的虚线画线样式。
+表示文档上虚线画线的样式。
 
 ```csharp
 public enum DashStyle
@@ -19,21 +19,21 @@ public enum DashStyle
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Solid | `0` | 表示实线。 |
-| ShortDash | `1` | 表示短虚线。 |
-| ShortDot | `2` | 表示短点线。 |
+| ShortDash | `1` | 代表一条短划线。 |
+| ShortDot | `2` | 代表一条短点线。 |
 | ShortDashDot | `3` | 表示短点划线。 |
 | ShortDashDotDot | `4` | 表示短点划线。 |
-| Dot | `5` | 表示方点样式。 |
+| Dot | `5` | 代表方点样式。 |
 | Dash | `6` | 表示虚线样式。 |
-| LongDash | `7` | 代表长划线样式。 |
-| DashDot | `8` | 短划线。 |
+| LongDash | `7` | 代表长破折号样式。 |
+| DashDot | `8` | 破折号短破折号。 |
 | LongDashDot | `9` | 长破折号短破折号。 |
-| LongDashDotDot | `10` | 长破折号短破折号短破折号。 |
-| RoundDot | `11` | 表示圆点线。 |
-| SquareDot | `12` | 表示方点线。 |
+| LongDashDotDot | `10` | 长划线短划线短划线。 |
+| RoundDot | `11` | 代表圆点线。 |
+| SquareDot | `12` | 代表方点线。 |
 | DashDotDot | `13` | 表示点划线。 |
-| DashLongDash | `14` | 表示长短划线。 |
-| DashLongDashDot | `15` | 表示长点划线。 |
+| DashLongDash | `14` | 代表一条长划线-短划线。 |
+| DashLongDashDot | `15` | 表示长短划线点划线。 |
 
 ### 也可以看看
 

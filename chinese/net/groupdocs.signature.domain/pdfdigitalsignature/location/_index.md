@@ -1,14 +1,14 @@
 ---
 title: Location
 second_title: GroupDocs.Signature for .NET API 参考
-description: 签名的 CPU 主机名或物理位置
+description: 签名的CPU主机名或物理位置
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.domain/pdfdigitalsignature/location/
 ---
 ## PdfDigitalSignature.Location property
 
-签名的 CPU 主机名或物理位置。
+签名的CPU主机名或物理位置。
 
 ```csharp
 public string Location { get; set; }

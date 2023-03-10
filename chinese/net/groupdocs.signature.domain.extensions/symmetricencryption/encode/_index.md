@@ -20,7 +20,7 @@ public string Encode(string source)
 
 ### 返回值
 
-返回加密字符串。
+返回加密的字符串。
 
 ### 也可以看看
 

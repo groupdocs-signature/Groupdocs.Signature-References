@@ -1,14 +1,14 @@
 ---
 title: Type
 second_title: GroupDocs.Signature for .NET API 参考
-description: 指定表单字段签名的类型是否应该被搜索默认值为空
+description: 指定表单字段签名的类型如果应搜索默认值为空
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.options/formfieldsearchoptions/type/
 ---
 ## FormFieldSearchOptions.Type property
 
-指定表单字段签名的类型是否应该被搜索。默认值为空。
+指定表单字段签名的类型（如果应搜索）。默认值为空。
 
 ```csharp
 public FormFieldType? Type { get; set; }

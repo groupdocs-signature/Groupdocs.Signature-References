@@ -1,14 +1,14 @@
 ---
 title: SampleRoundingMode
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置样本舍入模式以将 8 位值适合 n 位值 JpegOptions.BitsPerChannel.
+description: 获取或设置样本舍入模式以将 8 位值拟合到 n 位值 JpegOptions.BitsPerChannel.
 type: docs
 weight: 70
 url: /zh/net/groupdocs.signature.options/jpegsaveoptions/sampleroundingmode/
 ---
 ## JpegSaveOptions.SampleRoundingMode property
 
-获取或设置样本舍入模式以将 8 位值适合 n 位值 JpegOptions.BitsPerChannel.
+获取或设置样本舍入模式以将 8 位值拟合到 n 位值 JpegOptions.BitsPerChannel.
 
 ```csharp
 public JpegRoundingMode SampleRoundingMode { get; set; }

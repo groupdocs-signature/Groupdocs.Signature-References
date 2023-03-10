@@ -1,14 +1,14 @@
 ---
 title: RadioButtonFormFieldSignature
 second_title: GroupDocs.Signature for .NET API 参考
-description: 使用预定义的名称创建 RadioButtonFieldSignature
+description: 创建具有预定义名称的 RadioButtonFieldSignature
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.domain/radiobuttonformfieldsignature/radiobuttonformfieldsignature/
 ---
 ## RadioButtonFormFieldSignature(string) {#constructor}
 
-使用预定义的名称创建 RadioButtonFieldSignature。
+创建具有预定义名称的 RadioButtonFieldSignature。
 
 ```csharp
 public RadioButtonFormFieldSignature(string name)
@@ -28,7 +28,7 @@ public RadioButtonFormFieldSignature(string name)
 
 ## RadioButtonFormFieldSignature(string, List&lt;string&gt;) {#constructor_1}
 
-使用预定义的名称和项目列表创建 RadioButtonFieldSignature。
+创建具有预定义名称和项目列表的 RadioButtonFieldSignature。
 
 ```csharp
 public RadioButtonFormFieldSignature(string name, List<string> items)
@@ -49,7 +49,7 @@ public RadioButtonFormFieldSignature(string name, List<string> items)
 
 ## RadioButtonFormFieldSignature(string, List&lt;string&gt;, object) {#constructor_2}
 
-使用预定义的名称、项目列表和选定值创建 RadioButtonFieldSignature。
+创建具有预定义名称、项目列表和选定值的 RadioButtonFieldSignature。
 
 ```csharp
 public RadioButtonFormFieldSignature(string name, List<string> items, object selected)

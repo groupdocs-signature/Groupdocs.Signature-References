@@ -1,14 +1,14 @@
 ---
 title: Text
 second_title: GroupDocs.Signature for .NET API 参考
-description: 指定签名文本是否应进行验证
+description: 如果需要验证则指定签名文本
 type: docs
 weight: 70
 url: /zh/net/groupdocs.signature.options/textverifyoptions/text/
 ---
 ## TextVerifyOptions.Text property
 
-指定签名文本是否应进行验证。
+如果需要验证则指定签名文本。
 
 ```csharp
 public string Text { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: WordProcessingSaveFileFormat
 second_title: GroupDocs.Signature for .NET API 参考
-description: 为文字处理文档定义不同的保存文件格式
+description: 为 WordProcessing 文档定义不同的保存文件格式
 type: docs
-weight: 1050
+weight: 1080
 url: /zh/net/groupdocs.signature.domain/wordprocessingsavefileformat/
 ---
 ## WordProcessingSaveFileFormat enumeration
 
-为文字处理文档定义不同的保存文件格式。
+为 WordProcessing 文档定义不同的保存文件格式。
 
 ```csharp
 public enum WordProcessingSaveFileFormat
@@ -29,9 +29,9 @@ public enum WordProcessingSaveFileFormat
 | FlatOpcMacroEnabled | `25` | 将文档另存为 Office Open XML WordprocessingML 启用宏的文档，存储在平面 XML 文件而不是 ZIP 包中。 |
 | FlatOpcTemplate | `26` | 将文档另存为 Office Open XML WordprocessingML 模板（无宏），存储在平面 XML 文件而不是 ZIP 包中。 |
 | FlatOpcTemplateMacroEnabled | `27` | 将文档另存为 Office Open XML WordprocessingML 启用宏的模板，存储在平面 XML 文件而不是 ZIP 包中。 |
-| Rtf | `30` | 以 RTF 格式保存文档。所有 7 位以上的字符都被转义为十六进制或 Unicode 字符。 |
+| Rtf | `30` | 以 RTF 格式保存文档。所有超过 7 位的字符都被转义为十六进制或 Unicode 字符。 |
 | WordML | `31` | 以 Microsoft Word 2003 WordprocessingML 格式保存文档。 |
-| Pdf | `40` | 将文档另存为 PDF（Adobe 便携式文档）格式。 |
+| Pdf | `40` | 将文档另存为 PDF (Adobe Portable Document) 格式。 |
 | Xps | `41` | 以 XPS（XML 纸张规范）格式保存文档。 |
 | Ps | `47` | 以 PS (PostScript) 格式保存文档。 |
 | Mhtml | `51` | 以 MHTML（Web 存档）格式保存文档。 |
@@ -39,11 +39,11 @@ public enum WordProcessingSaveFileFormat
 | Odt | `60` | 将文档另存为 Open Office 文档。 |
 | Ott | `61` | 将文档另存为 Open Office 文档模板。 |
 | Text | `70` | 以纯文本格式保存文档。 |
-| Tiff | `100` | 渲染文档的一页或多页并将它们保存到单页或多页 TIFF 文件中。 |
-| Png | `101` | 呈现文档页面并将其保存为 PNG 文件。 |
-| Bmp | `102` | 渲染文档页面并将其保存为 BMP 文件。 |
-| Emf | `103` | 渲染文档页面并将其保存为矢量 EMF（增强元文件）文件。 |
-| Jpeg | `104` | 渲染文档页面并将其保存为 JPEG 文件。 |
+| Tiff | `100` | 呈现文档的一页或多页并将它们保存到单页或多页 TIFF 文件中。 |
+| Png | `101` | 呈现文档的页面并将其另存为 PNG 文件。 |
+| Bmp | `102` | 呈现文档的一页并将其另存为 BMP 文件。 |
+| Emf | `103` | 呈现文档的一页并将其保存为矢量 EMF（增强型元文件）文件。 |
+| Jpeg | `104` | 呈现文档页面并将其另存为 JPEG 文件。 |
 
 ### 也可以看看
 

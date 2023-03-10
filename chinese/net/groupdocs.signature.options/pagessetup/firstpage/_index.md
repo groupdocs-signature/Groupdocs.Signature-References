@@ -1,14 +1,14 @@
 ---
 title: FirstPage
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置使用第一个文档页面的标志
+description: 获取或设置标志以使用第一个文档页面
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.options/pagessetup/firstpage/
 ---
 ## PagesSetup.FirstPage property
 
-获取或设置使用第一个文档页面的标志。
+获取或设置标志以使用第一个文档页面。
 
 ```csharp
 public bool FirstPage { get; set; }

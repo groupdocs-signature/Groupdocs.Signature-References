@@ -1,14 +1,14 @@
 ---
 title: License
 second_title: GroupDocs.Signature for .NET API 参考
-description: 实例化许可证
+description: 实例化 License
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature/license/license/
 ---
 ## License constructor
 
-实例化许可证
+实例化 License
 
 ```csharp
 public License()

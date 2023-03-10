@@ -1,14 +1,14 @@
 ---
 title: ProcessedSignatures
 second_title: GroupDocs.Signature for .NET API 参考
-description: 表示处理的签名数量
+description: 表示处理签名的数量
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature/processprogresseventargs/processedsignatures/
 ---
 ## ProcessProgressEventArgs.ProcessedSignatures property
 
-表示处理的签名数量。
+表示处理签名的数量。
 
 ```csharp
 public int ProcessedSignatures { get; set; }

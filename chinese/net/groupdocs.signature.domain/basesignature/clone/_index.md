@@ -1,14 +1,14 @@
 ---
 title: Clone
 second_title: GroupDocs.Signature for .NET API 参考
-description: 克隆签名实例
+description: 克隆签名实例.
 type: docs
 weight: 120
 url: /zh/net/groupdocs.signature.domain/basesignature/clone/
 ---
 ## BaseSignature.Clone method
 
-克隆签名实例。
+克隆签名实例.
 
 ```csharp
 public virtual object Clone()
@@ -16,7 +16,7 @@ public virtual object Clone()
 
 ### 返回值
 
-返回克隆的 Signature 实例
+返回克隆的签名实例
 
 ### 也可以看看
 

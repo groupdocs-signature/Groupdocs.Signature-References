@@ -1,14 +1,14 @@
 ---
 title: QrCodeTypes
 second_title: GroupDocs.Signature for .NET API 参考
-description: QRCode 类型容器
+description: QRCode 类型容器.
 type: docs
-weight: 780
+weight: 810
 url: /zh/net/groupdocs.signature.domain/qrcodetypes/
 ---
 ## QrCodeTypes class
 
-QRCode 类型容器。
+QRCode 类型容器.
 
 ```csharp
 public static class QrCodeTypes
@@ -18,14 +18,14 @@ public static class QrCodeTypes
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [AllTypes](../../groupdocs.signature.domain/qrcodetypes/alltypes) { get; } | 所有二维码类型。 |
+| static [AllTypes](../../groupdocs.signature.domain/qrcodetypes/alltypes) { get; } | 所有 QRCode 类型。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
 | static [Parse](../../groupdocs.signature.domain/qrcodetypes/parse)(string) | 返回带有 pasringType 名称的 QRCode 类型。如果 QRCode 的名称未知 - 异常将是 throw |
-| static [TryParse](../../groupdocs.signature.domain/qrcodetypes/tryparse)(string) | 返回带有 pasringType 名称的 QRCode 类型。 如果 QRCode 的名称未知 - 不会抛出异常但方法将返回空值。 |
+| static [TryParse](../../groupdocs.signature.domain/qrcodetypes/tryparse)(string) | 返回带有 pasringType 名称的 QRCode 类型。 如果 QRCode 的名称未知 - 不会抛出异常，但方法将返回空值。 |
 
 ## 字段
 
@@ -33,9 +33,12 @@ public static class QrCodeTypes
 | --- | --- |
 | static readonly [Aztec](../../groupdocs.signature.domain/qrcodetypes/aztec) | Aztec QR 码类型对象。 |
 | static readonly [DataMatrix](../../groupdocs.signature.domain/qrcodetypes/datamatrix) | DataMatrix QR 码类型对象。 |
-| static readonly [GS1DataMatrix](../../groupdocs.signature.domain/qrcodetypes/gs1datamatrix) | GS1 DataMatrix QR-Code 类型对象。 |
-| static readonly [GS1QR](../../groupdocs.signature.domain/qrcodetypes/gs1qr) | GS1 二维码类型对象。 |
-| static readonly [QR](../../groupdocs.signature.domain/qrcodetypes/qr) | QR 二维码类型对象。 |
+| static readonly [GS1DataMatrix](../../groupdocs.signature.domain/qrcodetypes/gs1datamatrix) | GS1 DataMatrix QR 码类型对象。 |
+| static readonly [GS1QR](../../groupdocs.signature.domain/qrcodetypes/gs1qr) | GS1 QR 码类型对象。 |
+| static readonly [HIBCLICAztec](../../groupdocs.signature.domain/qrcodetypes/hibclicaztec) | HIBC LIC Aztec QR 代码类型对象。 |
+| static readonly [HIBCLICDataMatrix](../../groupdocs.signature.domain/qrcodetypes/hibclicdatamatrix) | HIBC LIC 数据矩阵 QR 码类型对象。 |
+| static readonly [HIBCLICQR](../../groupdocs.signature.domain/qrcodetypes/hibclicqr) | HIBC LIC QR 码类型对象。 |
+| static readonly [QR](../../groupdocs.signature.domain/qrcodetypes/qr) | QR QR-Code 类型对象. |
 
 ### 也可以看看
 

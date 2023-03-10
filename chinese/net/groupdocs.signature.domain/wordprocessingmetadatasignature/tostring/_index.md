@@ -16,7 +16,7 @@ public override string ToString()
 
 ### 返回值
 
-以字符串形式返回元数据签名值。
+将元数据签名值作为字符串返回。
 
 ### 评论
 
@@ -32,7 +32,7 @@ public override string ToString()
 
 ## ToString(string, IFormatProvider) {#tostring_2}
 
-转换为指定格式的字符串
+转换为具有指定格式的字符串
 
 ```csharp
 public override string ToString(string format, IFormatProvider provider)
@@ -41,11 +41,11 @@ public override string ToString(string format, IFormatProvider provider)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | format | String | 数据格式字符串。 |
-| provider | IFormatProvider | 格式化数据提供程序以与数据转换操作一起使用。 |
+| provider | IFormatProvider | 格式化数据提供程序以用于数据转换操作。 |
 
 ### 返回值
 
-以字符串形式返回元数据签名值。
+将元数据签名值作为字符串返回。
 
 ### 评论
 

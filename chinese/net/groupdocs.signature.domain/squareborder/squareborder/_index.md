@@ -1,14 +1,14 @@
 ---
 title: SquareBorder
 second_title: GroupDocs.Signature for .NET API 参考
-description: 创建圆角半径的 SquareBorderLine
+description: 创建具有圆角半径的 SquareBorderLine
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.domain/squareborder/squareborder/
 ---
 ## SquareBorder(double) {#constructor}
 
-创建圆角半径的 SquareBorderLine。
+创建具有圆角半径的 SquareBorderLine。
 
 ```csharp
 public SquareBorder(double radius)
@@ -28,7 +28,7 @@ public SquareBorder(double radius)
 
 ## SquareBorder(Corners) {#constructor_1}
 
-使用圆角半径值创建 SquareBorderLine。
+创建具有角半径值的 SquareBorderLine。
 
 ```csharp
 public SquareBorder(Corners corners)

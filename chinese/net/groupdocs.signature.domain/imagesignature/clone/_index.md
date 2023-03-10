@@ -16,7 +16,7 @@ public override object Clone()
 
 ### 返回值
 
-返回克隆的条形码签名实例。
+返回克隆的条码签名实例。
 
 ### 也可以看看
 

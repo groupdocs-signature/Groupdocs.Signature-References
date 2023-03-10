@@ -1,14 +1,14 @@
 ---
 title: TextureBrush
 second_title: GroupDocs.Signature for .NET API 参考
-description: 表示纹理画笔
+description: 代表纹理画笔
 type: docs
-weight: 390
+weight: 410
 url: /zh/net/groupdocs.signature.domain.extensions/texturebrush/
 ---
 ## TextureBrush class
 
-表示纹理画笔。
+代表纹理画笔。
 
 ```csharp
 public class TextureBrush : Brush
@@ -26,8 +26,8 @@ public class TextureBrush : Brush
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ImageFilePath](../../groupdocs.signature.domain.extensions/texturebrush/imagefilepath) { get; set; } | 获取或设置纹理图像文件路径。 仅当未指定 ImageStream 时才使用此属性。 |
-| [ImageStream](../../groupdocs.signature.domain.extensions/texturebrush/imagestream) { get; set; } | 获取或设置纹理图像流。 如果指定此属性，则始终使用它来代替 ImageFilePath。 |
+| [ImageFilePath](../../groupdocs.signature.domain.extensions/texturebrush/imagefilepath) { get; set; } | 获取或设置纹理图像文件路径。 只有在未指定 ImageStream 时才使用此属性。 |
+| [ImageStream](../../groupdocs.signature.domain.extensions/texturebrush/imagestream) { get; set; } | 获取或设置纹理图像流。 如果指定此属性，则始终使用它代替 ImageFilePath. |
 
 ### 也可以看看
 

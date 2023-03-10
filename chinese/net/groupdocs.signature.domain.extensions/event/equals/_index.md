@@ -16,11 +16,11 @@ public override bool Equals(object obj)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| obj | Object | 要比较的事件对象。 |
+| obj | Object | 要与之比较的事件对象。 |
 
 ### 返回值
 
-如果传递的 Event 对象具有相同的类型并且其所有属性都等于此实例属性，则返回 true。
+如果传递的 Event 对象具有相同类型并且其所有属性都等于此实例属性，则返回 true。
 
 ### 也可以看看
 

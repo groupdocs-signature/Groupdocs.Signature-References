@@ -1,14 +1,14 @@
 ---
 title: MicroPdf417
 second_title: GroupDocs.Signature for .NET API 参考
-description: MicroPdf417 条形码类型对象
+description: MicroPdf417 条码类型对象.
 type: docs
-weight: 430
+weight: 460
 url: /zh/net/groupdocs.signature.domain/barcodetypes/micropdf417/
 ---
 ## BarcodeTypes.MicroPdf417 field
 
-MicroPdf417 条形码类型对象。
+MicroPdf417 条码类型对象.
 
 ```csharp
 public static readonly BarcodeType MicroPdf417;

@@ -1,14 +1,14 @@
 ---
 title: TextHorizontalAlignment
 second_title: GroupDocs.Signature for .NET API 参考
-description: 签名内文本的水平对齐 仅图像和注释签名实现支持此功能 请参阅TextSignatureImplementationgroupdocs.signature.domain/textsignatureimplementationSignatureImplementation 属性.
+description: 签名内文本的水平对齐 此功能仅支持图像和注释签名实现 请参阅TextSignatureImplementationgroupdocs.signature.domain/textsignatureimplementationSignatureImplementation 属性.
 type: docs
 weight: 220
 url: /zh/net/groupdocs.signature.options/textsignoptions/texthorizontalalignment/
 ---
 ## TextSignOptions.TextHorizontalAlignment property
 
-签名内文本的水平对齐。 仅图像和注释签名实现支持此功能 （请参阅[`TextSignatureImplementation`](../../../groupdocs.signature.domain/textsignatureimplementation)SignatureImplementation 属性）.
+签名内文本的水平对齐。 此功能仅支持图像和注释签名实现 （请参阅[`TextSignatureImplementation`](../../../groupdocs.signature.domain/textsignatureimplementation)SignatureImplementation 属性).
 
 ```csharp
 public TextHorizontalAlignment TextHorizontalAlignment { get; set; }

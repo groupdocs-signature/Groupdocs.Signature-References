@@ -3,7 +3,7 @@ title: GetData
 second_title: GroupDocs.Signature for .NET API 参考
 description: 通过反序列化从元数据签名值中获取对象
 type: docs
-weight: 60
+weight: 70
 url: /zh/net/groupdocs.signature.domain/metadatasignature/getdata/
 ---
 ## GetData&lt;T&gt;() {#getdata}
@@ -17,7 +17,7 @@ public T GetData<T>()
 
 | 范围 | 描述 |
 | --- | --- |
-| T | 从元数据值反序列化的对象类型 |
+| T | 要从元数据值反序列化的对象类型 |
 
 ### 返回值
 
@@ -42,7 +42,7 @@ public T GetData<T>(IDataEncryption dataEncryption)
 
 | 范围 | 描述 |
 | --- | --- |
-| T | 从元数据值反序列化的对象类型 |
+| T | 要从元数据值反序列化的对象类型 |
 | dataEncryption | 设置自定义数据加密实现 |
 
 ### 也可以看看

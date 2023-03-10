@@ -3,7 +3,7 @@ title: PdfMetadataSignatures
 second_title: GroupDocs.Signature for .NET API 参考
 description: 包含用于 Pdf 文档元数据签名选项的标准元数据签名
 type: docs
-weight: 660
+weight: 690
 url: /zh/net/groupdocs.signature.domain/pdfmetadatasignatures/
 ---
 ## PdfMetadataSignatures class
@@ -18,16 +18,16 @@ public static class PdfMetadataSignatures
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [Author](../../groupdocs.signature.domain/pdfmetadatasignatures/author) { get; } | Pdf 文档作者元数据。 |
-| static [CreateDate](../../groupdocs.signature.domain/pdfmetadatasignatures/createdate) { get; } | Pdf 文档创建日期元数据签名。 |
+| static [Author](../../groupdocs.signature.domain/pdfmetadatasignatures/author) { get; } | Pdf 文档作者元数据. |
+| static [CreateDate](../../groupdocs.signature.domain/pdfmetadatasignatures/createdate) { get; } | Pdf 文档创建日期元数据签名. |
 | static [Creator](../../groupdocs.signature.domain/pdfmetadatasignatures/creator) { get; } | Pdf 文档创建者元数据属性。 |
-| static [CreatorTool](../../groupdocs.signature.domain/pdfmetadatasignatures/creatortool) { get; } | Pdf 文档创建工具元数据签名。 |
+| static [CreatorTool](../../groupdocs.signature.domain/pdfmetadatasignatures/creatortool) { get; } | Pdf文档创建工具元数据签名. |
 | static [Description](../../groupdocs.signature.domain/pdfmetadatasignatures/description) { get; } | Pdf 文档描述元数据属性。 |
 | static [Entry](../../groupdocs.signature.domain/pdfmetadatasignatures/entry) { get; } | Pdf 文档条目元数据属性。 |
 | static [Keywords](../../groupdocs.signature.domain/pdfmetadatasignatures/keywords) { get; } | Pdf 文档创建者元数据属性 |
 | static [MetadataDate](../../groupdocs.signature.domain/pdfmetadatasignatures/metadatadate) { get; } | Pdf 文档元数据日期信息。 |
 | static [ModifyDate](../../groupdocs.signature.domain/pdfmetadatasignatures/modifydate) { get; } | Pdf 文档修改日期元数据属性。 |
-| static [Producer](../../groupdocs.signature.domain/pdfmetadatasignatures/producer) { get; } | Pdf Document Producer 元数据属性。 |
+| static [Producer](../../groupdocs.signature.domain/pdfmetadatasignatures/producer) { get; } | Pdf 文档制作者元数据属性。 |
 | static [Subject](../../groupdocs.signature.domain/pdfmetadatasignatures/subject) { get; } | Pdf 文档主题元数据属性。 |
 | static [Title](../../groupdocs.signature.domain/pdfmetadatasignatures/title) { get; } | Pdf 文档标题元数据属性 |
 

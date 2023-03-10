@@ -1,14 +1,14 @@
 ---
 title: SignatureSettings
 second_title: GroupDocs.Signature for .NET API 参考
-description: 默认构造函数
+description: 创建具有默认值的默认 SignatureSettings 实例
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature/signaturesettings/signaturesettings/
 ---
-## SignatureSettings constructor
+## SignatureSettings() {#constructor}
 
-默认构造函数。
+创建具有默认值的默认 SignatureSettings 实例。
 
 ```csharp
 public SignatureSettings()
@@ -16,6 +16,27 @@ public SignatureSettings()
 
 ### 也可以看看
 
+* class [SignatureSettings](../../signaturesettings)
+* 命名空间 [GroupDocs.Signature](../../signaturesettings)
+* 部件 [GroupDocs.Signature](../../../)
+
+---
+
+## SignatureSettings(ILogger) {#constructor_1}
+
+使用 Logger 实现创建默认的 SignatureSettings 实例。
+
+```csharp
+public SignatureSettings(ILogger logger)
+```
+
+| 范围 | 类型 | 描述 |
+| --- | --- | --- |
+| logger | ILogger |  |
+
+### 也可以看看
+
+* interface [ILogger](../../../groupdocs.signature.logging/ilogger)
 * class [SignatureSettings](../../signaturesettings)
 * 命名空间 [GroupDocs.Signature](../../signaturesettings)
 * 部件 [GroupDocs.Signature](../../../)

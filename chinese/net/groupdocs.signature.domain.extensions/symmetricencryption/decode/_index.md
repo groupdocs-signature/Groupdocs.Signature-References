@@ -20,7 +20,7 @@ public string Decode(string source)
 
 ### 返回值
 
-返回解密的字符串。
+返回解密后的字符串。
 
 ### 也可以看看
 

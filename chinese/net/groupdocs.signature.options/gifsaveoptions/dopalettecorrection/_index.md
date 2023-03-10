@@ -1,14 +1,14 @@
 ---
 title: DoPaletteCorrection
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置一个指示是否应用调色板校正的值
+description: 获取或设置一个值指示是否应用调色板校正
 type: docs
 weight: 40
 url: /zh/net/groupdocs.signature.options/gifsaveoptions/dopalettecorrection/
 ---
 ## GifSaveOptions.DoPaletteCorrection property
 
-获取或设置一个指示是否应用调色板校正的值。
+获取或设置一个值，指示是否应用调色板校正。
 
 ```csharp
 public bool DoPaletteCorrection { get; set; }
@@ -16,7 +16,7 @@ public bool DoPaletteCorrection { get; set; }
 
 ### 评论
 
-调色板校正意味着每当图像导出为 GIF 时，将分析 source 图像颜色以构建最佳匹配的调色板 （如果图像调色板不存在或未在选项中指定）。 分析过程需要一些时间，但输出图像将具有 最佳匹配调色板，结果视觉效果更好。
+调色板校正意味着每当将图像导出为 GIF 时，将分析 source 图像颜色以构建最佳匹配的 palette （以防图像调色板不存在或未在选项中指定）。 分析过程需要一些时间，但输出图像将具有 最匹配的调色板，结果在视觉上更好。
 
 ### 也可以看看
 

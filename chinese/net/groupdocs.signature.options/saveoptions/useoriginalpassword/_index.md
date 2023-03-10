@@ -1,14 +1,14 @@
 ---
 title: UseOriginalPassword
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置是否使用 LoadOptions 中的密码将签名文档保存为受保护 默认值为 true 图片文档不支持此属性
+description: 获取或设置是否使用来自 LoadOptions 的密码将签名文档保存为受保护 默认值为 true 图像文档不支持此属性
 type: docs
 weight: 50
 url: /zh/net/groupdocs.signature.options/saveoptions/useoriginalpassword/
 ---
 ## SaveOptions.UseOriginalPassword property
 
-获取或设置是否使用 LoadOptions 中的密码将签名文档保存为受保护。 默认值为 true。 图片文档不支持此属性。
+获取或设置是否使用来自 LoadOptions 的密码将签名文档保存为受保护。 默认值为 true。 图像文档不支持此属性。
 
 ```csharp
 public bool UseOriginalPassword { get; set; }

@@ -3,7 +3,7 @@ title: TiffFormat
 second_title: GroupDocs.Signature for .NET API 参考
 description: 指定不同的 tiff 格式
 type: docs
-weight: 1670
+weight: 1750
 url: /zh/net/groupdocs.signature.options/tiffformat/
 ---
 ## TiffFormat enumeration
@@ -19,19 +19,19 @@ public enum TiffFormat
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Default | `0` | 默认。 |
-| TiffLzwBw | `1` | LzwBw。 |
+| TiffLzwBw | `1` | lzwBw。 |
 | TiffLzwRgb | `2` | LzwRgb。 |
 | TiffLzwRgba | `3` | LzwRgba。 |
-| TiffCcittFax3 | `4` | CcittFax3. |
-| TiffCcittFax4 | `5` | CcittFax4. |
-| TiffDeflateBw | `6` | 放气。 |
+| TiffCcittFax3 | `4` | CcittFax3。 |
+| TiffCcittFax4 | `5` | CcittFax4。 |
+| TiffDeflateBw | `6` | DeflateBw。 |
 | TiffDeflateRgb | `7` | DeflateRgb。 |
 | TiffCcitRle | `8` | CcitRle。 |
 | TiffJpegRgb | `9` | JpegRgb。 |
-| TiffJpegYCbCr | `10` | JpegYCbCr。 |
-| TiffNoCompressionBw | `11` | 无压缩Bw。 |
-| TiffNoCompressionRgb | `12` | 无压缩Rgb。 |
-| TiffNoCompressionRgba | `13` | 无压缩Rgba。 |
+| TiffJpegYCbCr | `10` | JpegYCbCr. |
+| TiffNoCompressionBw | `11` | NoCompressionBw。 |
+| TiffNoCompressionRgb | `12` | 无压缩RGB。 |
+| TiffNoCompressionRgba | `13` | NoCompressionRgba。 |
 
 ### 也可以看看
 

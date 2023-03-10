@@ -1,14 +1,14 @@
 ---
 title: CodeTextAlignment
 second_title: GroupDocs.Signature for .NET API 参考
-description: 条码和二维码的代码文本对齐方式
+description: 条形码和 QR 码的代码文本对齐
 type: docs
-weight: 80
+weight: 90
 url: /zh/net/groupdocs.signature.domain/codetextalignment/
 ---
 ## CodeTextAlignment enumeration
 
-条码和二维码的代码文本对齐方式。
+条形码和 QR 码的代码文本对齐。
 
 ```csharp
 public enum CodeTextAlignment
@@ -18,9 +18,9 @@ public enum CodeTextAlignment
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| None | `0` | 文字不可见。 |
-| Above | `1` | 文字在代码上方。 |
-| Below | `2` | 文本位于代码下方。 |
+| None | `0` | 文本不可见。 |
+| Above | `1` | 文字在代码之上。 |
+| Below | `2` | 文字在代码下方。 |
 
 ### 也可以看看
 

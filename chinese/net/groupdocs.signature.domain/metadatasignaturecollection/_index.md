@@ -3,7 +3,7 @@ title: MetadataSignatureCollection
 second_title: GroupDocs.Signature for .NET API 参考
 description: 元数据签名对象的集合
 type: docs
-weight: 600
+weight: 620
 url: /zh/net/groupdocs.signature.domain/metadatasignaturecollection/
 ---
 ## MetadataSignatureCollection class
@@ -36,7 +36,7 @@ public class MetadataSignatureCollection : ICloneable, IEnumerable<MetadataSigna
 | [Clear](../../groupdocs.signature.domain/metadatasignaturecollection/clear)() | 从集合中删除所有项目。 |
 | [Clone](../../groupdocs.signature.domain/metadatasignaturecollection/clone)() | 使用元数据签名项克隆元数据签名集合类。 |
 | [Contains](../../groupdocs.signature.domain/metadatasignaturecollection/contains)(string) | 如果集合中存在具有指定名称的元数据，则返回 true。 |
-| [GetEnumerator](../../groupdocs.signature.domain/metadatasignaturecollection/getenumerator)() | 返回枚举数。 |
+| [GetEnumerator](../../groupdocs.signature.domain/metadatasignaturecollection/getenumerator)() | 返回枚举器。 |
 | [IndexOf](../../groupdocs.signature.domain/metadatasignaturecollection/indexof)(string) | 按名称获取属性的索引。 |
 | [Remove](../../groupdocs.signature.domain/metadatasignaturecollection/remove)(string) | 从集合中删除具有指定名称的元数据签名。 |
 | [RemoveAt](../../groupdocs.signature.domain/metadatasignaturecollection/removeat)(int) | 删除指定索引处的元数据签名。 |

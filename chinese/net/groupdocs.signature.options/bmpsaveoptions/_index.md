@@ -3,7 +3,7 @@ title: BmpSaveOptions
 second_title: GroupDocs.Signature for .NET API 参考
 description: Bmp 图像文档的保存选项
 type: docs
-weight: 1220
+weight: 1290
 url: /zh/net/groupdocs.signature.options/bmpsaveoptions/
 ---
 ## BmpSaveOptions class
@@ -24,15 +24,15 @@ public sealed class BmpSaveOptions : ImageSaveOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AddMissingExtenstion](../../groupdocs.signature.options/saveoptions/addmissingextenstion) { get; set; } | 获取或设置标志以在输出文件路径中缺少扩展名时自动添加扩展名 默认值为 false。 |
+| [AddMissingExtenstion](../../groupdocs.signature.options/saveoptions/addmissingextenstion) { get; set; } | 获取或设置标志以在输出文件路径中缺少扩展名时自动添加扩展名 path 默认值为 false. |
 | [BitsPerPixel](../../groupdocs.signature.options/bmpsaveoptions/bitsperpixel) { get; set; } | 获取或设置每像素计数的图像位数。 |
 | [Compression](../../groupdocs.signature.options/bmpsaveoptions/compression) { get; set; } | 获取或设置压缩。看[`BitmapCompression`](../bitmapcompression). |
 | [FileFormat](../../groupdocs.signature.options/imagesaveoptions/fileformat) { get; set; } | 获取或设置签名文档的文件格式。 |
-| [HorizontalResolution](../../groupdocs.signature.options/bmpsaveoptions/horizontalresolution) { get; set; } | 获取或设置水平分辨率。注意由于四舍五入，导致的 分辨率可能与传递的 略有不同。 |
+| [HorizontalResolution](../../groupdocs.signature.options/bmpsaveoptions/horizontalresolution) { get; set; } | 获取或设置水平分辨率。请注意，由于四舍五入，结果 分辨率可能与传递的. 略有不同 |
 | [OverwriteExistingFiles](../../groupdocs.signature.options/saveoptions/overwriteexistingfiles) { get; set; } | 获取或设置是否用新的输出文件覆盖现有文件。 否则将创建以数字为后缀的新文件。 默认情况下，此值设置为 true，表示文件将被覆盖。 |
-| [Password](../../groupdocs.signature.options/saveoptions/password) { get; set; } | 获取或设置密码以保存带有密码保护的签名文档。 Image 文档不支持此属性。 |
-| [UseOriginalPassword](../../groupdocs.signature.options/saveoptions/useoriginalpassword) { get; set; } | 获取或设置是否使用 LoadOptions 中的密码将签名文档保存为受保护。 默认值为 true。 图片文档不支持此属性。 |
-| [VerticalResolution](../../groupdocs.signature.options/bmpsaveoptions/verticalresolution) { get; set; } | 获取或设置垂直分辨率。注意由于四舍五入，导致的 分辨率可能与传递的 略有不同。 |
+| [Password](../../groupdocs.signature.options/saveoptions/password) { get; set; } | 获取或设置密码以保存带密码保护的签名文档。 Image 文档不支持此属性。 |
+| [UseOriginalPassword](../../groupdocs.signature.options/saveoptions/useoriginalpassword) { get; set; } | 获取或设置是否使用来自 LoadOptions 的密码将签名文档保存为受保护。 默认值为 true。 图像文档不支持此属性。 |
+| [VerticalResolution](../../groupdocs.signature.options/bmpsaveoptions/verticalresolution) { get; set; } | 获取或设置垂直分辨率。请注意，由于四舍五入，结果 分辨率可能与传递的. 略有不同 |
 
 ### 也可以看看
 

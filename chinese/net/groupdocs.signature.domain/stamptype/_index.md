@@ -1,14 +1,14 @@
 ---
 title: StampType
 second_title: GroupDocs.Signature for .NET API 参考
-description: 指定印章类型属性
+description: 指定图章类型属性
 type: docs
-weight: 900
+weight: 930
 url: /zh/net/groupdocs.signature.domain/stamptype/
 ---
 ## StampType class
 
-指定印章类型属性。
+指定图章类型属性。
 
 ```csharp
 public sealed class StampType : IEquatable<StampType>
@@ -18,17 +18,17 @@ public sealed class StampType : IEquatable<StampType>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TypeIndex](../../groupdocs.signature.domain/stamptype/typeindex) { get; } | 获取支持的邮票类型集合中的对象索引。 |
-| [TypeName](../../groupdocs.signature.domain/stamptype/typename) { get; } | 邮票类型名称。 |
+| [TypeIndex](../../groupdocs.signature.domain/stamptype/typeindex) { get; } | 获取支持的邮票类型集合中对象的索引。 |
+| [TypeName](../../groupdocs.signature.domain/stamptype/typename) { get; } | 邮票类型的名称。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Equals](../../groupdocs.signature.domain/stamptype/equals#equals_1)(object) | 重写方法判断指定的System.Object是否等于当前的System.Object. |
+| override [Equals](../../groupdocs.signature.domain/stamptype/equals#equals_1)(object) | 重写方法判断指定System.Object是否等于当前System.Object. |
 | [Equals](../../groupdocs.signature.domain/stamptype/equals#equals)(StampType) | 判断指定的戳记类型是否等于当前对象。 |
-| override [GetHashCode](../../groupdocs.signature.domain/stamptype/gethashcode)() | 被覆盖的方法用作特定类型的哈希函数。 |
-| override [ToString](../../groupdocs.signature.domain/stamptype/tostring)() | 重写的方法用作转换为字符串类型。 |
+| override [GetHashCode](../../groupdocs.signature.domain/stamptype/gethashcode)() | 重写方法用作特定类型的哈希函数。 |
+| override [ToString](../../groupdocs.signature.domain/stamptype/tostring)() | 重写方法作为字符串类型的转换。 |
 
 ### 也可以看看
 

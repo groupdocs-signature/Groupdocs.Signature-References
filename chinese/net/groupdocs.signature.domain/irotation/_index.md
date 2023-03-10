@@ -1,14 +1,14 @@
 ---
 title: IRotation
 second_title: GroupDocs.Signature for .NET API 参考
-description: 定义签名轮换的属性
+description: 定义签名旋转的属性
 type: docs
-weight: 520
+weight: 540
 url: /zh/net/groupdocs.signature.domain/irotation/
 ---
 ## IRotation interface
 
-定义签名轮换的属性。
+定义签名旋转的属性。
 
 ```csharp
 public interface IRotation
@@ -18,7 +18,7 @@ public interface IRotation
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RotationAngle](../../groupdocs.signature.domain/irotation/rotationangle) { get; set; } | 顺时针旋转角度。 |
+| [RotationAngle](../../groupdocs.signature.domain/irotation/rotationangle) { get; set; } | 顺时针旋转角度. |
 
 ### 也可以看看
 

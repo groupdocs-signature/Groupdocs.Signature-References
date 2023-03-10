@@ -3,7 +3,7 @@ title: DeleteResult
 second_title: GroupDocs.Signature for .NET API 参考
 description: 从文档中删除签名的结果
 type: docs
-weight: 120
+weight: 130
 url: /zh/net/groupdocs.signature.domain/deleteresult/
 ---
 ## DeleteResult class
@@ -18,8 +18,12 @@ public class DeleteResult : IResult
 
 | 姓名 | 描述 |
 | --- | --- |
+| [DestinDocumentSize](../../groupdocs.signature.domain/deleteresult/destindocumentsize) { get; } | 返回更新的文档大小。 |
 | [Failed](../../groupdocs.signature.domain/deleteresult/failed) { get; } | 未删除的签名列表[`BaseSignature`](../basesignature). |
-| [Succeeded](../../groupdocs.signature.domain/deleteresult/succeeded) { get; } | 成功删除的签名列表[`BaseSignature`](../basesignature). |
+| [ProcessingTime](../../groupdocs.signature.domain/deleteresult/processingtime) { get; } | 以毫秒为单位返回进程的执行时间。 |
+| [SourceDocumentSize](../../groupdocs.signature.domain/deleteresult/sourcedocumentsize) { get; } | 返回源文档大小。 |
+| [Succeeded](../../groupdocs.signature.domain/deleteresult/succeeded) { get; } | 删除成功的签名列表[`BaseSignature`](../basesignature). |
+| [TotalSignatures](../../groupdocs.signature.domain/deleteresult/totalsignatures) { get; } | 返回已处理的签名总数。 |
 
 ### 也可以看看
 

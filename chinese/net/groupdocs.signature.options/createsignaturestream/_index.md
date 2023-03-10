@@ -3,7 +3,7 @@ title: CreateSignatureStream
 second_title: GroupDocs.Signature for .NET API 参考
 description: 定义创建输出签名预览流的方法的委托
 type: docs
-weight: 1240
+weight: 1320
 url: /zh/net/groupdocs.signature.options/createsignaturestream/
 ---
 ## CreateSignatureStream delegate
@@ -16,7 +16,7 @@ public delegate Stream CreateSignatureStream(PreviewSignatureOptions previewOpti
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| previewOptions | PreviewSignatureOptions | 预览签名图像的数量。 |
+| previewOptions | PreviewSignatureOptions | 预览签名图片的数量。 |
 
 ### 也可以看看
 

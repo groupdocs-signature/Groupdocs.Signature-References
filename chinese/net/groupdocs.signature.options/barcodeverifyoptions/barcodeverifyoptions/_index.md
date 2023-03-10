@@ -24,7 +24,7 @@ public BarcodeVerifyOptions()
 
 ## BarcodeVerifyOptions(string) {#constructor_2}
 
-使用验证文本创建默认验证选项
+创建带有验证文本的默认验证选项
 
 ```csharp
 public BarcodeVerifyOptions(string text)
@@ -44,7 +44,7 @@ public BarcodeVerifyOptions(string text)
 
 ## BarcodeVerifyOptions(BarcodeType) {#constructor_1}
 
-使用条形码类型验证创建默认验证选项
+使用条码类型 verification 创建默认验证选项
 
 ```csharp
 public BarcodeVerifyOptions(BarcodeType encodeType)
@@ -52,7 +52,7 @@ public BarcodeVerifyOptions(BarcodeType encodeType)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| encodeType | BarcodeType | 条码类型验证 |
+| encodeType | BarcodeType | 条形码类型验证 |
 
 ### 也可以看看
 
@@ -65,7 +65,7 @@ public BarcodeVerifyOptions(BarcodeType encodeType)
 
 ## BarcodeVerifyOptions(string, BarcodeType) {#constructor_3}
 
-使用条形码类型验证和文本创建默认验证选项
+创建带有条形码类型验证和 text 的默认验证选项
 
 ```csharp
 public BarcodeVerifyOptions(string text, BarcodeType encodeType)
@@ -74,7 +74,7 @@ public BarcodeVerifyOptions(string text, BarcodeType encodeType)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | text | String | 要验证的条形码文本 |
-| encodeType | BarcodeType | 条码类型验证 |
+| encodeType | BarcodeType | 条形码类型验证 |
 
 ### 也可以看看
 

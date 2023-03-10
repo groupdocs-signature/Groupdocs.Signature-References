@@ -24,7 +24,7 @@ public QrCodeSignOptions()
 
 ## QrCodeSignOptions(string) {#constructor_1}
 
-使用文本初始化 QRCodeSignOptions 类的新实例。
+用文本初始化 QRCodeSignOptions 类的新实例。
 
 ```csharp
 public QrCodeSignOptions(string text)
@@ -44,7 +44,7 @@ public QrCodeSignOptions(string text)
 
 ## QrCodeSignOptions(string, QrCodeType) {#constructor_2}
 
-使用文本初始化 BarcodeSignOptions 类的新实例。
+用文本初始化 BarcodeSignOptions 类的新实例。
 
 ```csharp
 public QrCodeSignOptions(string text, QrCodeType encodeType)
@@ -53,7 +53,7 @@ public QrCodeSignOptions(string text, QrCodeType encodeType)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | text | String | 二维码文字 |
-| encodeType | QrCodeType | 二维码编码类型见[`QrCodeType`](../../../groupdocs.signature.domain/qrcodetype) |
+| encodeType | QrCodeType | QRCode编码类型见[`QrCodeType`](../../../groupdocs.signature.domain/qrcodetype) |
 
 ### 也可以看看
 

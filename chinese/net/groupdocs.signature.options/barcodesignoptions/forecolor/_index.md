@@ -1,14 +1,14 @@
 ---
 title: ForeColor
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置条码条的前景色 使用此属性可能会导致验证问题小心使用它
+description: 获取或设置条形码 bars 的前景色 使用此属性可能会导致验证问题谨慎使用
 type: docs
 weight: 40
 url: /zh/net/groupdocs.signature.options/barcodesignoptions/forecolor/
 ---
 ## BarcodeSignOptions.ForeColor property
 
-获取或设置条码条的前景色 使用此属性可能会导致验证问题。小心使用它。
+获取或设置条形码 bars 的前景色 使用此属性可能会导致验证问题。谨慎使用。
 
 ```csharp
 public override Color ForeColor { get; set; }

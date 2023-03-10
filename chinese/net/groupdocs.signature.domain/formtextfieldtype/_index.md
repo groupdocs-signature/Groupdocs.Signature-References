@@ -1,14 +1,14 @@
 ---
 title: FormTextFieldType
 second_title: GroupDocs.Signature for .NET API 参考
-description: 定义 WordsProcessing 文档表单字段的文本类型
+description: 为 WordsProcessing 文档表单域定义文本类型
 type: docs
-weight: 460
+weight: 480
 url: /zh/net/groupdocs.signature.domain/formtextfieldtype/
 ---
 ## FormTextFieldType enumeration
 
-定义 WordsProcessing 文档表单字段的文本类型。
+为 WordsProcessing 文档表单域定义文本类型。
 
 ```csharp
 public enum FormTextFieldType
@@ -18,8 +18,8 @@ public enum FormTextFieldType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| AllTextTypes | `0` | 任何类型的表单域。 |
-| PlainText | `1` | 纯文本类型的表单域。 |
+| AllTextTypes | `0` | 任何类型的表单字段。 |
+| PlainText | `1` | 纯文本类型的表单字段。 |
 | RichText | `2` | 具有富文本类型的表单字段。 |
 
 ### 也可以看看

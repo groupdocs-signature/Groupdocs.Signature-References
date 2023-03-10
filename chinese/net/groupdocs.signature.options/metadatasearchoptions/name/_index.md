@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: GroupDocs.Signature for .NET API 参考
-description: 指定元数据签名名称是否应该被搜索和匹配
+description: 指定元数据签名名称是否应被搜索和匹配
 type: docs
 weight: 40
 url: /zh/net/groupdocs.signature.options/metadatasearchoptions/name/
 ---
 ## MetadataSearchOptions.Name property
 
-指定元数据签名名称是否应该被搜索和匹配。
+指定元数据签名名称是否应被搜索和匹配。
 
 ```csharp
 public string Name { get; set; }

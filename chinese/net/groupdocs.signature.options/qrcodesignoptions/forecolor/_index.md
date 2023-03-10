@@ -1,14 +1,14 @@
 ---
 title: ForeColor
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置二维码条的前景色 使用此属性可能会导致验证问题小心使用它
+description: 获取或设置 QRCode bars 的前景颜色 使用此属性可能会导致验证问题谨慎使用
 type: docs
 weight: 60
 url: /zh/net/groupdocs.signature.options/qrcodesignoptions/forecolor/
 ---
 ## QrCodeSignOptions.ForeColor property
 
-获取或设置二维码条的前景色 使用此属性可能会导致验证问题。小心使用它。
+获取或设置 QR-Code bars 的前景颜色 使用此属性可能会导致验证问题。谨慎使用。
 
 ```csharp
 public override Color ForeColor { get; set; }

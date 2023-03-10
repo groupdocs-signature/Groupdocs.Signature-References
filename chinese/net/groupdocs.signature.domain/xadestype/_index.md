@@ -3,7 +3,7 @@ title: XAdESType
 second_title: GroupDocs.Signature for .NET API 参考
 description: XML 高级电子签名 XAdES 的类型
 type: docs
-weight: 1070
+weight: 1100
 url: /zh/net/groupdocs.signature.domain/xadestype/
 ---
 ## XAdESType enumeration

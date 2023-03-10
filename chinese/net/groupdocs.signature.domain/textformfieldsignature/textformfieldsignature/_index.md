@@ -1,14 +1,14 @@
 ---
 title: TextFormFieldSignature
 second_title: GroupDocs.Signature for .NET API 参考
-description: 使用预定义的名称创建 PdfTextFormFieldSignature
+description: 创建具有预定义名称的 PdfTextFormFieldSignature.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.domain/textformfieldsignature/textformfieldsignature/
 ---
 ## TextFormFieldSignature(string) {#constructor}
 
-使用预定义的名称创建 PdfTextFormFieldSignature。
+创建具有预定义名称的 PdfTextFormFieldSignature.
 
 ```csharp
 public TextFormFieldSignature(string name)
@@ -28,7 +28,7 @@ public TextFormFieldSignature(string name)
 
 ## TextFormFieldSignature(string, string) {#constructor_1}
 
-使用预定义的名称创建 PdfTextFormFieldSignature。
+创建具有预定义名称的 PdfTextFormFieldSignature.
 
 ```csharp
 public TextFormFieldSignature(string name, string text)
@@ -37,7 +37,7 @@ public TextFormFieldSignature(string name, string text)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | name | String | 表单字段对象的名称。 |
-| text | String | 表单域对象的文本。 |
+| text | String | 表单字段对象的文本。 |
 
 ### 也可以看看
 

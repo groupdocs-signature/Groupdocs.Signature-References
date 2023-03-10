@@ -1,14 +1,14 @@
 ---
 title: Blur
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置阴影的模糊度 默认值为 4
+description: 获取或设置阴影的模糊度 默认值为 4.
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.domain.extensions/textshadow/blur/
 ---
 ## TextShadow.Blur property
 
-获取或设置阴影的模糊度。 默认值为 4。
+获取或设置阴影的模糊度。 默认值为 4.
 
 ```csharp
 public double Blur { get; set; }

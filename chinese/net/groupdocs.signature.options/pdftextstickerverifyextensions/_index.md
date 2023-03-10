@@ -1,14 +1,14 @@
 ---
 title: PdfTextStickerVerifyExtensions
 second_title: GroupDocs.Signature for .NET API 参考
-description: 描述 PDF 贴纸对象的验证扩展
+description: 描述了PDF标签对象验证的扩展
 type: docs
-weight: 1450
+weight: 1530
 url: /zh/net/groupdocs.signature.options/pdftextstickerverifyextensions/
 ---
 ## PdfTextStickerVerifyExtensions class
 
-描述 PDF 贴纸对象的验证扩展。
+描述了PDF标签对象验证的扩展。
 
 ```csharp
 public sealed class PdfTextStickerVerifyExtensions : VerifyExtensions
@@ -18,16 +18,16 @@ public sealed class PdfTextStickerVerifyExtensions : VerifyExtensions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PdfTextStickerVerifyExtensions](pdftextstickerverifyextensions)() | 使用空值创建 PDF 文本贴纸签名验证扩展。 |
+| [PdfTextStickerVerifyExtensions](pdftextstickerverifyextensions)() | 创建具有空值的 PDF 文本标签签名验证扩展。 |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Contents](../../groupdocs.signature.options/pdftextstickerverifyextensions/contents) { get; set; } | 待验证的贴纸内容。 如果等于空字符串或null，则不验证值。 |
-| [Icon](../../groupdocs.signature.options/pdftextstickerverifyextensions/icon) { get; set; } | 要验证的贴纸图标。 如果等于null，则不验证值。 |
-| [Subject](../../groupdocs.signature.options/pdftextstickerverifyextensions/subject) { get; set; } | 要验证的贴纸主题。 如果等于空字符串或null，则不验证值。 |
-| [Title](../../groupdocs.signature.options/pdftextstickerverifyextensions/title) { get; set; } | 待验证的贴纸标题。 如果等于空字符串或null，则不验证值。 |
+| [Contents](../../groupdocs.signature.options/pdftextstickerverifyextensions/contents) { get; set; } | 要验证的标签内容。 如果等于空字符串或null，则不验证值。 |
+| [Icon](../../groupdocs.signature.options/pdftextstickerverifyextensions/icon) { get; set; } | 待验证贴纸图标。 值为空则不验证。 |
+| [Subject](../../groupdocs.signature.options/pdftextstickerverifyextensions/subject) { get; set; } | 要验证的贴纸主题。 如果等于空字符串或 null，则不会验证值。 |
+| [Title](../../groupdocs.signature.options/pdftextstickerverifyextensions/title) { get; set; } | 要验证的贴纸标题。 如果等于空字符串或 null，则不会验证值。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Street
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置地址 street.
+description: 获取或设置地址街道
 type: docs
 weight: 50
 url: /zh/net/groupdocs.signature.domain.extensions/address/street/
 ---
 ## Address.Street property
 
-获取或设置地址 street.
+获取或设置地址街道。
 
 ```csharp
 public string Street { get; set; }

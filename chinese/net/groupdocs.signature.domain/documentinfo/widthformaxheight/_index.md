@@ -3,7 +3,7 @@ title: WidthForMaxHeight
 second_title: GroupDocs.Signature for .NET API 参考
 description: 指定最大页面高度的宽度
 type: docs
-weight: 160
+weight: 170
 url: /zh/net/groupdocs.signature.domain/documentinfo/widthformaxheight/
 ---
 ## DocumentInfo.WidthForMaxHeight property

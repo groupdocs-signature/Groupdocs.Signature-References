@@ -1,14 +1,14 @@
 ---
 title: XAdESType
 second_title: GroupDocs.Signature for .NET API 参考
-description: XAdES 类型XAdESTypegroupdocs.signature.domain/digitalsignature/xadestype.默认值为无XAdES 关闭 目前仅电子表格文档支持 XAdES 签名类型
+description: XAdES 类型XAdESTypegroupdocs.signature.domain/digitalsignature/xadestype.默认值为无XAdES 已关闭 目前仅电子表格文档支持 XAdES 签名类型
 type: docs
 weight: 90
 url: /zh/net/groupdocs.signature.domain/digitalsignature/xadestype/
 ---
 ## DigitalSignature.XAdESType property
 
-XAdES 类型`XAdESType`.默认值为无（XAdES 关闭）。 目前仅电子表格文档支持 XAdES 签名类型。
+XAdES 类型`XAdESType`.默认值为无（XAdES 已关闭）。 目前仅电子表格文档支持 XAdES 签名类型。
 
 ```csharp
 public XAdESType XAdESType { get; }

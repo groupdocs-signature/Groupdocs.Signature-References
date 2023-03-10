@@ -1,14 +1,14 @@
 ---
 title: VerifyExtensions
 second_title: GroupDocs.Signature for .NET API 参考
-description: 为文档页面上的替代签名实现保留额外的验证选项
+description: 为文档页面上的签名替代实现保留额外的验证选项
 type: docs
-weight: 1690
+weight: 1770
 url: /zh/net/groupdocs.signature.options/verifyextensions/
 ---
 ## VerifyExtensions class
 
-为文档页面上的替代签名实现保留额外的验证选项。
+为文档页面上的签名替代实现保留额外的验证选项。
 
 ```csharp
 public abstract class VerifyExtensions

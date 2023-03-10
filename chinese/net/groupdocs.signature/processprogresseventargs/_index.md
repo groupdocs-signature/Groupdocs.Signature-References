@@ -3,7 +3,7 @@ title: ProcessProgressEventArgs
 second_title: GroupDocs.Signature for .NET API 参考
 description: 为签名验证和搜索过程的 OnProgress 事件提供数据
 type: docs
-weight: 1760
+weight: 1840
 url: /zh/net/groupdocs.signature/processprogresseventargs/
 ---
 ## ProcessProgressEventArgs class
@@ -24,11 +24,11 @@ public class ProcessProgressEventArgs : ProcessEventArgs
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Cancel](../../groupdocs.signature/processprogresseventargs/cancel) { get; set; } | 表示是否应该取消进程。 |
-| [ProcessedSignatures](../../groupdocs.signature/processprogresseventargs/processedsignatures) { get; set; } | 表示处理的签名数量。 |
-| [Progress](../../groupdocs.signature/processprogresseventargs/progress) { get; set; } | 以百分比表示进度。值范围从 0 到 100. |
-| [Status](../../groupdocs.signature/processeventargs/status) { get; set; } | 表示当前进程状态。 |
-| [Ticks](../../groupdocs.signature/processprogresseventargs/ticks) { get; set; } | 表示自进程启动事件以来花费的时间（以毫秒为单位）。 |
+| [Cancel](../../groupdocs.signature/processprogresseventargs/cancel) { get; set; } | 指示是否应取消进程。 |
+| [ProcessedSignatures](../../groupdocs.signature/processprogresseventargs/processedsignatures) { get; set; } | 表示处理签名的数量。 |
+| [Progress](../../groupdocs.signature/processprogresseventargs/progress) { get; set; } | 表示进度百分比。值范围从 0 到 100. |
+| [Status](../../groupdocs.signature/processeventargs/status) { get; set; } | 指示当前进程状态。 |
+| [Ticks](../../groupdocs.signature/processprogresseventargs/ticks) { get; set; } | 表示自进程启动事件以来所花费的时间（以毫秒为单位）。 |
 
 ### 也可以看看
 

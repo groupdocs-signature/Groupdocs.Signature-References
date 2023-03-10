@@ -1,14 +1,14 @@
 ---
 title: Remittance
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置汇款信息最多 140 个字符此字段和付款参考字段是互斥的
+description: 获取或设置汇款信息最多 140 个字符该字段和付款参考字段是互斥的
 type: docs
 weight: 110
 url: /zh/net/groupdocs.signature.domain.extensions/epc/remittance/
 ---
 ## EPC.Remittance property
 
-获取或设置汇款信息（最多 140 个字符）。此字段和付款参考字段是互斥的。
+获取或设置汇款信息（最多 140 个字符）。该字段和付款参考字段是互斥的。
 
 ```csharp
 public string Remittance { get; set; }

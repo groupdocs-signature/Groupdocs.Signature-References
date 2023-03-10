@@ -1,14 +1,14 @@
 ---
 title: TiffMultipage
 second_title: GroupDocs.Signature for .NET API 参考
-description: 将文档页面放在 Tiff 图像的不同框架上
+description: 将文档页面放在 Tiff 图像的不同帧上
 type: docs
 weight: 70
 url: /zh/net/groupdocs.signature.options/exportimagesaveoptions/tiffmultipage/
 ---
 ## ExportImageSaveOptions.TiffMultipage property
 
-将文档页面放在 Tiff 图像的不同框架上。
+将文档页面放在 Tiff 图像的不同帧上。
 
 ```csharp
 public bool TiffMultipage { get; set; }

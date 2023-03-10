@@ -1,14 +1,14 @@
 ---
 title: Icon
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置贴纸的图标
+description: 获取或设置贴纸图标
 type: docs
 weight: 40
 url: /zh/net/groupdocs.signature.options.appearances/pdftextstickerappearance/icon/
 ---
 ## PdfTextStickerAppearance.Icon property
 
-获取或设置贴纸的图标。
+获取或设置贴纸图标。
 
 ```csharp
 public PdfTextStickerIcon Icon { get; set; }

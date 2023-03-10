@@ -1,14 +1,14 @@
 ---
 title: PatchCode
 second_title: GroupDocs.Signature for .NET API 参考
-description: 补丁码条形码类型对象
+description: 补丁码条码类型对象
 type: docs
-weight: 470
+weight: 500
 url: /zh/net/groupdocs.signature.domain/barcodetypes/patchcode/
 ---
 ## BarcodeTypes.PatchCode field
 
-补丁码条形码类型对象。
+补丁码条码类型对象。
 
 ```csharp
 public static readonly BarcodeType PatchCode;

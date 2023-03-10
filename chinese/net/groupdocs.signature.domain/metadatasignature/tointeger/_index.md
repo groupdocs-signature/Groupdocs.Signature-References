@@ -3,7 +3,7 @@ title: ToInteger
 second_title: GroupDocs.Signature for .NET API 参考
 description: 转换为整数
 type: docs
-weight: 120
+weight: 130
 url: /zh/net/groupdocs.signature.domain/metadatasignature/tointeger/
 ---
 ## MetadataSignature.ToInteger method
@@ -20,7 +20,7 @@ public virtual int ToInteger()
 
 ### 评论
 
-如果无法转换元数据值，则引发异常。
+如果无法转换元数据值，则抛出异常。
 
 ### 也可以看看
 

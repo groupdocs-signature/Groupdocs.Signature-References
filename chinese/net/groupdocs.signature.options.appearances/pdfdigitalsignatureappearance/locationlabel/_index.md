@@ -1,14 +1,14 @@
 ---
 title: LocationLabel
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置位置标签默认值位置 如果此值为空则数字签名区域将不会出现位置标签
+description: 获取或设置位置标签默认值Location. 如果该值为空则数字签名区域不会出现位置标签.
 type: docs
 weight: 90
 url: /zh/net/groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/locationlabel/
 ---
 ## PdfDigitalSignatureAppearance.LocationLabel property
 
-获取或设置位置标签。默认值：“位置”。 如果此值为空，则数字签名区域将不会出现位置标签。
+获取或设置位置标签。默认值：“Location”. 如果该值为空则数字签名区域不会出现位置标签.
 
 ```csharp
 public string LocationLabel { get; set; }

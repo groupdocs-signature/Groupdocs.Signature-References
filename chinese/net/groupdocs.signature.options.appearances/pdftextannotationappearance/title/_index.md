@@ -1,14 +1,14 @@
 ---
 title: Title
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置将在注解对象的标题栏中显示的标题
+description: 获取或设置将显示在注释对象标题栏中的Title
 type: docs
 weight: 80
 url: /zh/net/groupdocs.signature.options.appearances/pdftextannotationappearance/title/
 ---
 ## PdfTextAnnotationAppearance.Title property
 
-获取或设置将在注解对象的标题栏中显示的标题。
+获取或设置将显示在注释对象标题栏中的Title。
 
 ```csharp
 public string Title { get; set; }

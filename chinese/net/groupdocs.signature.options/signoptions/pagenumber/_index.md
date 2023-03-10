@@ -1,14 +1,14 @@
 ---
 title: PageNumber
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置用于签名的文档页码 最小值默认值为 1
+description: 获取或设置用于签名的文档页码 最小值默认值为 1.
 type: docs
 weight: 50
 url: /zh/net/groupdocs.signature.options/signoptions/pagenumber/
 ---
 ## SignOptions.PageNumber property
 
-获取或设置用于签名的文档页码。 最小值，默认值为 1。
+获取或设置用于签名的文档页码。 最小值，默认值为 1.
 
 ```csharp
 public virtual int PageNumber { get; set; }

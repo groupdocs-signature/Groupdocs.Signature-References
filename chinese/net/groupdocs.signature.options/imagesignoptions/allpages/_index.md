@@ -1,14 +1,14 @@
 ---
 title: AllPages
 second_title: GroupDocs.Signature for .NET API 参考
-description: 在所有文档页面上签名 此属性只能用于多帧图像格式Tiff
+description: 在所有文档页面上签名 此属性只能用于多帧图像格式 Tiff
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.options/imagesignoptions/allpages/
 ---
 ## ImageSignOptions.AllPages property
 
-在所有文档页面上签名。 此属性只能用于多帧图像格式（Tiff）。
+在所有文档页面上签名。 此属性只能用于多帧图像格式 (Tiff)。
 
 ```csharp
 public override bool AllPages { get; set; }

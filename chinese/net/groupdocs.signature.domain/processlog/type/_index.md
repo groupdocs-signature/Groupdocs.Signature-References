@@ -8,7 +8,7 @@ url: /zh/net/groupdocs.signature.domain/processlog/type/
 ---
 ## ProcessLog.Type property
 
-获取进程类型
+获取进程类型。
 
 ```csharp
 public ProcessType Type { get; }

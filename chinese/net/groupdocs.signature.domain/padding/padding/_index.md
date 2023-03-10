@@ -32,7 +32,7 @@ public Padding(int all)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| all | Int32 | 用于所有边的填充的度量单位数。 |
+| all | Int32 | 用于所有边缘填充的度量单位数。 |
 
 ### 也可以看看
 
@@ -52,7 +52,7 @@ public Padding(int left, int right, int top, int bottom)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| left | Int32 | 左侧填充大小。 |
+| left | Int32 | 左填充大小。 |
 | right | Int32 | 正确的填充大小。 |
 | top | Int32 | 顶部填充大小。 |
 | bottom | Int32 | 底部填充大小。 |

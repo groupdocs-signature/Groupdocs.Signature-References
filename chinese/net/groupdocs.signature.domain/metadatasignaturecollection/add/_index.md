@@ -16,11 +16,11 @@ public void Add(MetadataSignature signature)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| signature | MetadataSignature | 要添加到集合的元数据签名。 |
+| signature | MetadataSignature | 要添加到集合中的元数据签名。 |
 
 ### 评论
 
-如果名称值在整个现有集合中不是唯一的，则引发异常
+如果名称值在整个现有集合中不唯一，则抛出异常
 
 ### 也可以看看
 

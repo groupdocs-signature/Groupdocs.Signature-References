@@ -3,7 +3,7 @@ title: CryptoCurrencyType
 second_title: GroupDocs.Signature for .NET API 参考
 description: 代表加密货币类型
 type: docs
-weight: 200
+weight: 210
 url: /zh/net/groupdocs.signature.domain.extensions/cryptocurrencytype/
 ---
 ## CryptoCurrencyType enumeration
@@ -20,7 +20,7 @@ public enum CryptoCurrencyType
 | --- | --- | --- |
 | Custom | `0` | 表示自定义加密货币类型。 |
 | Bitcoin | `1` | 代表比特币加密货币类型。 |
-| BitcoinCash | `2` | 表示比特币现金加密货币类型。 |
+| BitcoinCash | `2` | 代表比特币现金加密货币类型。 |
 | Litecoin | `3` | 代表莱特币加密货币类型。 |
 | Ethereum | `4` | 代表以太坊加密货币类型。 |
 | Dash | `5` | 代表 Dash 加密货币类型。 |

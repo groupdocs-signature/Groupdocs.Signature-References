@@ -1,14 +1,14 @@
 ---
 title: VerticalAlignment
 second_title: GroupDocs.Signature for .NET API 参考
-description: 文档页面上签名的垂直对齐方式
+description: 签名在文档页面上的垂直对齐方式
 type: docs
 weight: 190
 url: /zh/net/groupdocs.signature.options/imagesignoptions/verticalalignment/
 ---
 ## ImageSignOptions.VerticalAlignment property
 
-文档页面上签名的垂直对齐方式。
+签名在文档页面上的垂直对齐方式。
 
 ```csharp
 public VerticalAlignment VerticalAlignment { get; set; }

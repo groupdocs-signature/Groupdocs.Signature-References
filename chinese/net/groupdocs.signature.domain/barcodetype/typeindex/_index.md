@@ -1,14 +1,14 @@
 ---
 title: TypeIndex
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取支持的条形码类型集合中的对象索引
+description: 获取支持的条码类型集合中的对象索引
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.domain/barcodetype/typeindex/
 ---
 ## BarcodeType.TypeIndex property
 
-获取支持的条形码类型集合中的对象索引。
+获取支持的条码类型集合中的对象索引。
 
 ```csharp
 public int TypeIndex { get; }

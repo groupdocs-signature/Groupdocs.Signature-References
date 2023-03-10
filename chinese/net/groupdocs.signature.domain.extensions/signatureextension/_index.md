@@ -3,7 +3,7 @@ title: SignatureExtension
 second_title: GroupDocs.Signature for .NET API 参考
 description: 表示签名扩展的基类
 type: docs
-weight: 310
+weight: 330
 url: /zh/net/groupdocs.signature.domain.extensions/signatureextension/
 ---
 ## SignatureExtension class

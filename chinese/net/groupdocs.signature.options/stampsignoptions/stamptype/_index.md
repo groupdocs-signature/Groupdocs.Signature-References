@@ -1,14 +1,14 @@
 ---
 title: StampType
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置戳记类型 默认值为Round
+description: 获取或设置印章类型 默认值为 Round.
 type: docs
 weight: 70
 url: /zh/net/groupdocs.signature.options/stampsignoptions/stamptype/
 ---
 ## StampSignOptions.StampType property
 
-获取或设置戳记类型。 默认值为Round。
+获取或设置印章类型。 默认值为 Round.
 
 ```csharp
 public StampType StampType { get; set; }

@@ -3,7 +3,7 @@ title: DocumentType
 second_title: GroupDocs.Signature for .NET API 参考
 description: 定义文档类型
 type: docs
-weight: 160
+weight: 170
 url: /zh/net/groupdocs.signature.domain/documenttype/
 ---
 ## DocumentType enumeration
@@ -18,12 +18,13 @@ public enum DocumentType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Unknown | `0` | 表示错误、未知的文档类型。 |
+| Unknown | `0` | 指示错误，未知文档类型。 |
 | Pdf | `1` | PDF 文档类型。 |
 | WordProcessing | `2` | 文字处理文档类型。 |
-| Presentation | `3` | 演示文稿类型。 |
+| Presentation | `3` | 演示文档类型。 |
 | Spreadsheet | `4` | 电子表格文档类型。 |
 | Image | `5` | 图像文档类型。 |
+| Certificate | `6` | 证书文件类型。 |
 
 ### 也可以看看
 

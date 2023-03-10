@@ -16,7 +16,7 @@ public bool RemoveAt(int index)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| index | Int32 | 从零开始的索引。 |
+| index | Int32 | 零基指数。 |
 
 ### 也可以看看
 

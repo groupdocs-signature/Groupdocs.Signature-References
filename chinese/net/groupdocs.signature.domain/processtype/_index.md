@@ -3,7 +3,7 @@ title: ProcessType
 second_title: GroupDocs.Signature for .NET API 参考
 description: 使用信息预览签名验证搜索更新删除等文档定义支持的流程
 type: docs
-weight: 750
+weight: 780
 url: /zh/net/groupdocs.signature.domain/processtype/
 ---
 ## ProcessType enumeration
@@ -18,14 +18,14 @@ public enum ProcessType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Unknown | `0` | 表示错误、未知的进程类型。 |
+| Unknown | `0` | 指示错误，未知进程类型。 |
 | Info | `1` | 获取文档信息的过程。 |
 | Preview | `2` | 指示方法 GeneratePreview()。 |
 | Sign | `3` | 签名过程类型。 |
 | Verify | `4` | 文件验证过程。 |
 | Search | `5` | 签名搜索过程。 |
-| Update | `6` | 更新文件签名过程。 |
-| Delete | `7` | 删除文件签名过程 |
+| Update | `6` | 更新文档签名流程。 |
+| Delete | `7` | 删除文档签名过程 |
 
 ### 也可以看看
 

@@ -3,7 +3,7 @@ title: ProcessLog
 second_title: GroupDocs.Signature for .NET API 参考
 description: 表示文档处理细节
 type: docs
-weight: 730
+weight: 760
 url: /zh/net/groupdocs.signature.domain/processlog/
 ---
 ## ProcessLog class
@@ -23,7 +23,7 @@ public sealed class ProcessLog
 | [Message](../../groupdocs.signature.domain/processlog/message) { get; } | 获取进程描述。 |
 | [Signatures](../../groupdocs.signature.domain/processlog/signatures) { get; } | 成功处理的签名列表。 |
 | [Succeeded](../../groupdocs.signature.domain/processlog/succeeded) { get; } | 成功处理的签名数量。 |
-| [Type](../../groupdocs.signature.domain/processlog/type) { get; } | 获取进程类型 |
+| [Type](../../groupdocs.signature.domain/processlog/type) { get; } | 获取进程类型。 |
 
 ### 也可以看看
 

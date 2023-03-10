@@ -1,14 +1,14 @@
 ---
 title: ReasonLabel
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置原因标签默认值原因 如果此值为空则数字签名区域不会出现原因标签
+description: 获取或设置原因标签默认值原因. 如果此值为空则数字签名区域不会出现原因标签.
 type: docs
 weight: 100
 url: /zh/net/groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/reasonlabel/
 ---
 ## PdfDigitalSignatureAppearance.ReasonLabel property
 
-获取或设置原因标签。默认值：“原因”。 如果此值为空，则数字签名区域不会出现原因标签。
+获取或设置原因标签。默认值：“原因”. 如果此值为空则数字签名区域不会出现原因标签.
 
 ```csharp
 public string ReasonLabel { get; set; }

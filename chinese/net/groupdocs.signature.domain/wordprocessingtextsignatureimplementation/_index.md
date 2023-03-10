@@ -3,7 +3,7 @@ title: WordProcessingTextSignatureImplementation
 second_title: GroupDocs.Signature for .NET API 参考
 description: 指定文字处理文档的文本签名实现类型
 type: docs
-weight: 1060
+weight: 1090
 url: /zh/net/groupdocs.signature.domain/wordprocessingtextsignatureimplementation/
 ---
 ## WordProcessingTextSignatureImplementation enumeration
@@ -18,10 +18,10 @@ public enum WordProcessingTextSignatureImplementation
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| TextStamp | `0` | 文字签名作为文字页面上的标签对象。 |
+| TextStamp | `0` | 文本签名作为单词页面上的标签对象。 |
 | TextAsImage | `1` | 文字签名作为文字页面上的图像对象。 |
-| TextToFormField | `2` | 文本签名作为指定表单字段中的文本。 使用这种类型的实现只能使用 TextSignOptions.Text、 TextSignOptions.FormTextFieldTitle 和 TextSignOptions.FormTextFieldType 选项。 |
-| Watermark | `3` | 文字签名作为文字页面上的水印。 |
+| TextToFormField | `2` | Text Signature as text in specified form field. 这种类型的实现只能使用 TextSignOptions.Text, TextSignOptions.FormTextFieldTitle 和 TextSignOptions.FormTextFieldType 选项. |
+| Watermark | `3` | Words 页面上的文本签名作为水印。 |
 
 ### 也可以看看
 

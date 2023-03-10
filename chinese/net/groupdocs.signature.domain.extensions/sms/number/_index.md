@@ -1,14 +1,14 @@
 ---
 title: Number
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置短信接收方电话号码
+description: 获取或设置 SMS 收件人电话号码
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.domain.extensions/sms/number/
 ---
 ## SMS.Number property
 
-获取或设置短信接收方电话号码。
+获取或设置 SMS 收件人电话号码。
 
 ```csharp
 public string Number { get; set; }

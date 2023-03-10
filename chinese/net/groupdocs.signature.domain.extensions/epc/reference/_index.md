@@ -1,14 +1,14 @@
 ---
 title: Reference
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置付款参考最多 35 个字符该字段与汇款信息字段互斥
+description: 获取或设置付款参考最多 35 个字符该字段和汇款信息字段互斥
 type: docs
 weight: 100
 url: /zh/net/groupdocs.signature.domain.extensions/epc/reference/
 ---
 ## EPC.Reference property
 
-获取或设置付款参考（最多 35 个字符）。该字段与汇款信息字段互斥。
+获取或设置付款参考（最多 35 个字符）。该字段和汇款信息字段互斥。
 
 ```csharp
 public string Reference { get; set; }

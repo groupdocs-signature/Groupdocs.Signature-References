@@ -1,14 +1,14 @@
 ---
 title: WiFi
 second_title: GroupDocs.Signature for .NET API 参考
-description: 表示 WiFi 网络连接详细信息
+description: 代表WiFi网络连接详情
 type: docs
-weight: 410
+weight: 430
 url: /zh/net/groupdocs.signature.domain.extensions/wifi/
 ---
 ## WiFi class
 
-表示 WiFi 网络连接详细信息。
+代表WiFi网络连接详情。
 
 ```csharp
 public class WiFi
@@ -25,7 +25,7 @@ public class WiFi
 | 姓名 | 描述 |
 | --- | --- |
 | [Encryption](../../groupdocs.signature.domain.extensions/wifi/encryption) { get; set; } | 获取或设置 WiFi 加密[`WiFiEncryptionType`](../wifiencryptiontype). |
-| [Hidden](../../groupdocs.signature.domain.extensions/wifi/hidden) { get; set; } | 获取或设置 WiFi 是否为隐藏 SSID。 |
+| [Hidden](../../groupdocs.signature.domain.extensions/wifi/hidden) { get; set; } | 获取或设置 WiFi 是否为隐藏 SSID. |
 | [Password](../../groupdocs.signature.domain.extensions/wifi/password) { get; set; } | 获取或设置 WiFi 密码。 |
 | [SSID](../../groupdocs.signature.domain.extensions/wifi/ssid) { get; set; } | 获取或设置 WiFi SSID 名称。 |
 
@@ -33,7 +33,7 @@ public class WiFi
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Equals](../../groupdocs.signature.domain.extensions/wifi/equals)(object) | 覆盖 Equals 方法来比较 WiFi 属性 |
+| override [Equals](../../groupdocs.signature.domain.extensions/wifi/equals)(object) | 覆盖 Equals 方法以比较 WiFi 属性 |
 | override [GetHashCode](../../groupdocs.signature.domain.extensions/wifi/gethashcode)() | 覆盖 GetHashCode 方法 |
 
 ### 也可以看看

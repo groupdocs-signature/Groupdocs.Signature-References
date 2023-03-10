@@ -1,14 +1,14 @@
 ---
 title: ToSingle
 second_title: GroupDocs.Signature for .NET API 参考
-description: 转换为浮点数
+description: 转换为 float.
 type: docs
-weight: 130
+weight: 140
 url: /zh/net/groupdocs.signature.domain/metadatasignature/tosingle/
 ---
 ## ToSingle() {#tosingle}
 
-转换为浮点数。
+转换为 float.
 
 ```csharp
 public virtual float ToSingle()
@@ -16,11 +16,11 @@ public virtual float ToSingle()
 
 ### 返回值
 
-将元数据签名值作为浮点数返回。
+以浮点数形式返回元数据签名值。
 
 ### 评论
 
-如果无法转换元数据值，则引发异常。 如果原始值是基于字符串的，则将使用 SignatureSettings 属性中的默认区域性属性信息[`DefaultCulture`](../../../groupdocs.signature/signaturesettings/defaultculture)
+如果无法转换元数据值，则抛出异常。 如果原始值是基于字符串的，则将使用 SignatureSettings 属性中的默认文化属性信息[`DefaultCulture`](../../../groupdocs.signature/signaturesettings/defaultculture)
 
 ### 也可以看看
 
@@ -32,7 +32,7 @@ public virtual float ToSingle()
 
 ## ToSingle(IFormatProvider) {#tosingle_1}
 
-转换为浮点数。
+转换为 float.
 
 ```csharp
 public virtual float ToSingle(IFormatProvider provider)
@@ -40,15 +40,15 @@ public virtual float ToSingle(IFormatProvider provider)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| provider | IFormatProvider | 格式化数据提供程序以与数据转换操作一起使用。 |
+| provider | IFormatProvider | 格式化数据提供程序以用于数据转换操作。 |
 
 ### 返回值
 
-将元数据签名值作为浮点数返回。
+以浮点数形式返回元数据签名值。
 
 ### 评论
 
-如果无法转换元数据值，则引发异常
+如果无法转换元数据值，则抛出异常
 
 ### 也可以看看
 

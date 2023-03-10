@@ -1,14 +1,14 @@
 ---
 title: SubjectName
 second_title: GroupDocs.Signature for .NET API 参考
-description: 要验证的证书的主题专有名称值区分大小写 如果设置此属性验证将检查签名主题名称是否包含或等于传递的值
+description: 要验证的证书的主题可分辨名称值区分大小写 如果设置此属性验证将检查签名主题名称是否包含或等于传递的值
 type: docs
 weight: 130
 url: /zh/net/groupdocs.signature.options/digitalverifyoptions/subjectname/
 ---
 ## DigitalVerifyOptions.SubjectName property
 
-要验证的证书的主题专有名称。值区分大小写。 如果设置此属性，验证将检查签名主题名称是否包含或等于传递的值
+要验证的证书的主题可分辨名称。值区分大小写。 如果设置此属性，验证将检查签名主题名称是否包含或等于传递的值
 
 ```csharp
 public string SubjectName { get; set; }

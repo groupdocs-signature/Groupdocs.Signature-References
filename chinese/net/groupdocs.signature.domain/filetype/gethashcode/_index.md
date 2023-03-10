@@ -3,7 +3,7 @@ title: GetHashCode
 second_title: GroupDocs.Signature for .NET API 参考
 description: 返回当前的哈希码FileTypegroupdocs.signature.domain/filetype对象.
 type: docs
-weight: 610
+weight: 620
 url: /zh/net/groupdocs.signature.domain/filetype/gethashcode/
 ---
 ## FileType.GetHashCode method

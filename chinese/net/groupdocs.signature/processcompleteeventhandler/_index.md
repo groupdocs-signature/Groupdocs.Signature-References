@@ -1,14 +1,14 @@
 ---
 title: ProcessCompleteEventHandler
 second_title: GroupDocs.Signature for .NET API 参考
-description: 表示一个方法委托它将处理完整事件的进程以进行签名验证和搜索
+description: 表示一个方法委托它将处理有关签名验证和搜索的完整事件的过程
 type: docs
-weight: 1740
+weight: 1820
 url: /zh/net/groupdocs.signature/processcompleteeventhandler/
 ---
 ## ProcessCompleteEventHandler delegate
 
-表示一个方法委托，它将处理完整事件的进程以进行签名、验证和搜索。
+表示一个方法委托，它将处理有关签名、验证和搜索的完整事件的过程。
 
 ```csharp
 public delegate void ProcessCompleteEventHandler(Signature signature, 
@@ -18,7 +18,7 @@ public delegate void ProcessCompleteEventHandler(Signature signature,
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | signature | Signature | 签名对象 |
-| args | ProcessCompleteEventArgs | 论据[`ProcessCompleteEventArgs`](../processcompleteeventargs)指定 Completed 事件的属性。 |
+| args | ProcessCompleteEventArgs | 参数[`ProcessCompleteEventArgs`](../processcompleteeventargs)指定 Completed 事件的属性。 |
 
 ### 也可以看看
 

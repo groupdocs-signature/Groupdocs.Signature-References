@@ -28,7 +28,7 @@ public override object Clone()
 
 ## Clone(object) {#clone}
 
-使用给定值克隆词元数据签名实例。
+克隆具有给定值的单词元数据签名实例。
 
 ```csharp
 public override MetadataSignature Clone(object value)

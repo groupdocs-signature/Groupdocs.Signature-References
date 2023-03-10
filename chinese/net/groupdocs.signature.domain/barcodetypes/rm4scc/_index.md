@@ -3,7 +3,7 @@ title: RM4SCC
 second_title: GroupDocs.Signature for .NET API 参考
 description: RM4SCC 条码类型对象
 type: docs
-weight: 530
+weight: 560
 url: /zh/net/groupdocs.signature.domain/barcodetypes/rm4scc/
 ---
 ## BarcodeTypes.RM4SCC field

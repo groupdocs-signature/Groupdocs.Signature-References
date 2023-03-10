@@ -1,14 +1,14 @@
 ---
 title: Contrast
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置图像对比度 默认值为1对应图像的原始对比度
+description: 获取或设置图像对比度 默认值为 1它对应于图像的原始对比度
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.options.appearances/imageappearance/contrast/
 ---
 ## ImageAppearance.Contrast property
 
-获取或设置图像对比度。 默认值为1，对应图像的原始对比度。
+获取或设置图像对比度。 默认值为 1，它对应于图像的原始对比度。
 
 ```csharp
 public float Contrast { get; set; }

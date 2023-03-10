@@ -3,7 +3,7 @@ title: IATA2of5
 second_title: GroupDocs.Signature for .NET API 参考
 description: IATA2of5 条码类型对象
 type: docs
-weight: 310
+weight: 340
 url: /zh/net/groupdocs.signature.domain/barcodetypes/iata2of5/
 ---
 ## BarcodeTypes.IATA2of5 field

@@ -1,14 +1,14 @@
 ---
 title: IsPaletteSorted
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置一个值指示是否对调色板条目进行排序
+description: 获取或设置一个值该值指示调色板条目是否已排序
 type: docs
 weight: 70
 url: /zh/net/groupdocs.signature.options/gifsaveoptions/ispalettesorted/
 ---
 ## GifSaveOptions.IsPaletteSorted property
 
-获取或设置一个值，指示是否对调色板条目进行排序。
+获取或设置一个值，该值指示调色板条目是否已排序。
 
 ```csharp
 public bool IsPaletteSorted { get; set; }

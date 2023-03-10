@@ -1,14 +1,14 @@
 ---
 title: Icon
 second_title: GroupDocs.Signature for .NET API 参考
-description: 要验证的贴纸图标 如果等于null则不验证值
+description: 待验证贴纸图标 值为空则不验证
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.options/pdftextstickerverifyextensions/icon/
 ---
 ## PdfTextStickerVerifyExtensions.Icon property
 
-要验证的贴纸图标。 如果等于null，则不验证值。
+待验证贴纸图标。 值为空则不验证。
 
 ```csharp
 public PdfTextStickerIcon? Icon { get; set; }

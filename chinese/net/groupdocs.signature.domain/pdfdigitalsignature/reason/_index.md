@@ -1,14 +1,14 @@
 ---
 title: Reason
 second_title: GroupDocs.Signature for .NET API 参考
-description: 签名的原因如我同意РІРВ
+description: 签约原因如我同意РІРВ.
 type: docs
 weight: 40
 url: /zh/net/groupdocs.signature.domain/pdfdigitalsignature/reason/
 ---
 ## PdfDigitalSignature.Reason property
 
-签名的原因，如（我同意РІР‚В¦）。
+签约原因，如（我同意РІР，В¦）.
 
 ```csharp
 public string Reason { get; set; }

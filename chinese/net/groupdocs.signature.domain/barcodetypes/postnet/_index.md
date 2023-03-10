@@ -1,14 +1,14 @@
 ---
 title: Postnet
 second_title: GroupDocs.Signature for .NET API 参考
-description: Postnet 条形码类型对象
+description: Postnet 条码类型对象
 type: docs
-weight: 510
+weight: 540
 url: /zh/net/groupdocs.signature.domain/barcodetypes/postnet/
 ---
 ## BarcodeTypes.Postnet field
 
-Postnet 条形码类型对象。
+Postnet 条码类型对象。
 
 ```csharp
 public static readonly BarcodeType Postnet;

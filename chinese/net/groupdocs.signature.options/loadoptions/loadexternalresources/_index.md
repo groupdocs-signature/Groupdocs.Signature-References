@@ -1,14 +1,14 @@
 ---
 title: LoadExternalResources
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置指定是否应加载外部文档资源的选项 此选项的禁用值 false 允许为具有许多或大型外部资源链接的文档节省加载时间 默认值启用 true
+description: 获取或设置指定是否应加载外部文档资源的选项 此选项禁用值 false 允许节省具有许多或大型外部资源链接的文档的加载时间 默认值启用 true
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.options/loadoptions/loadexternalresources/
 ---
 ## LoadOptions.LoadExternalResources property
 
-获取或设置指定是否应加载外部文档资源的选项。 此选项的禁用值 (false) 允许为具有许多或大型外部资源链接的文档节省加载时间。 默认值启用 (true)。
+获取或设置指定是否应加载外部文档资源的选项。 此选项禁用值 (false) 允许节省具有许多或大型外部资源链接的文档的加载时间。 默认值启用 (true)。
 
 ```csharp
 public bool LoadExternalResources { get; set; }

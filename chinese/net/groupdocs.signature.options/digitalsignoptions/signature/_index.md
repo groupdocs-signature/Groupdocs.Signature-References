@@ -1,14 +1,14 @@
 ---
 title: Signature
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置文档数字签名的属性 对于签署 Pdf 文档可以使用实例设置高级属性PdfDigitalSignaturegroupdocs.signature.domain/pdfdigitalsignature
+description: 获取或设置文档数字签名的属性 对于签署 Pdf 文档可以通过使用实例来设置高级属性PdfDigitalSignaturegroupdocs.signature.domain/pdfdigitalsignature
 type: docs
 weight: 80
 url: /zh/net/groupdocs.signature.options/digitalsignoptions/signature/
 ---
 ## DigitalSignOptions.Signature property
 
-获取或设置文档数字签名的属性。 对于签署 Pdf 文档，可以使用实例设置高级属性[`PdfDigitalSignature`](../../../groupdocs.signature.domain/pdfdigitalsignature)
+获取或设置文档数字签名的属性。 对于签署 Pdf 文档，可以通过使用实例来设置高级属性[`PdfDigitalSignature`](../../../groupdocs.signature.domain/pdfdigitalsignature)
 
 ```csharp
 public DigitalSignature Signature { get; set; }

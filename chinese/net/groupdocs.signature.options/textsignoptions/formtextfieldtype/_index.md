@@ -1,14 +1,14 @@
 ---
 title: FormTextFieldType
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置表单字段的类型以将文本签名放入其中 此属性只能与 SignatureImplementation  TextToFormField 一起使用 默认值为 AllTextTypes
+description: 获取或设置表单字段的类型以将文本签名放入其中 此属性只能与 SignatureImplementation  TextToFormField 一起使用 默认值为 AllTextTypes.
 type: docs
 weight: 70
 url: /zh/net/groupdocs.signature.options/textsignoptions/formtextfieldtype/
 ---
 ## TextSignOptions.FormTextFieldType property
 
-获取或设置表单字段的类型以将文本签名放入其中。 此属性只能与 SignatureImplementation = TextToFormField 一起使用。 默认值为 AllTextTypes。
+获取或设置表单字段的类型以将文本签名放入其中。 此属性只能与 SignatureImplementation = TextToFormField 一起使用。 默认值为 AllTextTypes.
 
 ```csharp
 public FormTextFieldType FormTextFieldType { get; set; }

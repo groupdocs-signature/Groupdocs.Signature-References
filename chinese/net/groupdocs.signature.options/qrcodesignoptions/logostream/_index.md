@@ -1,14 +1,14 @@
 ---
 title: LogoStream
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置 QR 码徽标图像流 如果指定此属性则始终使用它代替 LogoFilePath 使用此属性可能会导致验证问题小心使用它
+description: 获取或设置 QR 码徽标图像流 如果指定此属性则始终使用它代替 LogoFilePath 使用此属性可能会导致验证问题谨慎使用
 type: docs
 weight: 90
 url: /zh/net/groupdocs.signature.options/qrcodesignoptions/logostream/
 ---
 ## QrCodeSignOptions.LogoStream property
 
-获取或设置 QR 码徽标图像流。 如果指定此属性，则始终使用它代替 LogoFilePath。 使用此属性可能会导致验证问题。小心使用它。
+获取或设置 QR 码徽标图像流。 如果指定此属性，则始终使用它代替 LogoFilePath。 使用此属性可能会导致验证问题。谨慎使用。
 
 ```csharp
 public Stream LogoStream { get; set; }

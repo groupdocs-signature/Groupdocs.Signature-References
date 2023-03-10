@@ -1,14 +1,14 @@
 ---
 title: ITF6
 second_title: GroupDocs.Signature for .NET API 参考
-description: ITF6 条形码类型对象
+description: ITF6 条码类型对象
 type: docs
-weight: 380
+weight: 410
 url: /zh/net/groupdocs.signature.domain/barcodetypes/itf6/
 ---
 ## BarcodeTypes.ITF6 field
 
-ITF6 条形码类型对象。
+ITF6 条码类型对象。
 
 ```csharp
 public static readonly BarcodeType ITF6;

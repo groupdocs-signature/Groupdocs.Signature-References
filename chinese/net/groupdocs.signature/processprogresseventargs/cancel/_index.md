@@ -1,14 +1,14 @@
 ---
 title: Cancel
 second_title: GroupDocs.Signature for .NET API 参考
-description: 表示是否应该取消进程
+description: 指示是否应取消进程
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature/processprogresseventargs/cancel/
 ---
 ## ProcessProgressEventArgs.Cancel property
 
-表示是否应该取消进程。
+指示是否应取消进程。
 
 ```csharp
 public bool Cancel { get; set; }

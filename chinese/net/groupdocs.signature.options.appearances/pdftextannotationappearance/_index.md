@@ -3,7 +3,7 @@ title: PdfTextAnnotationAppearance
 second_title: GroupDocs.Signature for .NET API 参考
 description: 描述 PDF 文本注释对象标题主题内容的外观
 type: docs
-weight: 1150
+weight: 1220
 url: /zh/net/groupdocs.signature.options.appearances/pdftextannotationappearance/
 ---
 ## PdfTextAnnotationAppearance class
@@ -28,10 +28,10 @@ public class PdfTextAnnotationAppearance : SignatureAppearance
 | [Border](../../groupdocs.signature.options.appearances/pdftextannotationappearance/border) { get; set; } | 获取或设置不同的边框设置 |
 | [BorderEffect](../../groupdocs.signature.options.appearances/pdftextannotationappearance/bordereffect) { get; set; } | 获取或设置边框效果。 |
 | [BorderEffectIntensity](../../groupdocs.signature.options.appearances/pdftextannotationappearance/bordereffectintensity) { get; set; } | 获取或设置边框效果强度。值的有效范围是 [0..2]. |
-| [Contents](../../groupdocs.signature.options.appearances/pdftextannotationappearance/contents) { get; set; } | 获取或设置注解对象的内容。 |
+| [Contents](../../groupdocs.signature.options.appearances/pdftextannotationappearance/contents) { get; set; } | 获取或设置注释对象的内容。 |
 | [HCornerRadius](../../groupdocs.signature.options.appearances/pdftextannotationappearance/hcornerradius) { get; set; } | 获取或设置水平角半径。 |
-| [Subject](../../groupdocs.signature.options.appearances/pdftextannotationappearance/subject) { get; set; } | 获取或设置表示对象描述的主题。 |
-| [Title](../../groupdocs.signature.options.appearances/pdftextannotationappearance/title) { get; set; } | 获取或设置将在注解对象的标题栏中显示的标题。 |
+| [Subject](../../groupdocs.signature.options.appearances/pdftextannotationappearance/subject) { get; set; } | 获取或设置表示对象描述的 Subject。 |
+| [Title](../../groupdocs.signature.options.appearances/pdftextannotationappearance/title) { get; set; } | 获取或设置将显示在注释对象标题栏中的Title。 |
 | [VCornerRadius](../../groupdocs.signature.options.appearances/pdftextannotationappearance/vcornerradius) { get; set; } | 获取或设置垂直角半径。 |
 
 ### 也可以看看

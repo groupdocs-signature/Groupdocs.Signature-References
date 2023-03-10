@@ -3,7 +3,7 @@ title: SignOptions
 second_title: GroupDocs.Signature for .NET API 参考
 description: 代表签名选项
 type: docs
-weight: 1610
+weight: 1690
 url: /zh/net/groupdocs.signature.options/signoptions/
 ---
 ## SignOptions class
@@ -18,21 +18,21 @@ public abstract class SignOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| virtual [AllPages](../../groupdocs.signature.options/signoptions/allpages) { get; set; } | 在所有文档页面上签名。 |
-| [Appearance](../../groupdocs.signature.options/signoptions/appearance) { get; set; } | 附加签名外观。 |
+| virtual [AllPages](../../groupdocs.signature.options/signoptions/allpages) { get; set; } | 在所有文件页上签名。 |
+| [Appearance](../../groupdocs.signature.options/signoptions/appearance) { get; set; } | 附加签名外观. |
 | [DocumentType](../../groupdocs.signature.options/signoptions/documenttype) { get; set; } | 获取或设置签名选项的文档类型[`DocumentType`](../../groupdocs.signature.domain/documenttype) |
-| [Extensions](../../groupdocs.signature.options/signoptions/extensions) { get; } | 签名扩展。 |
-| virtual [PageNumber](../../groupdocs.signature.options/signoptions/pagenumber) { get; set; } | 获取或设置用于签名的文档页码。 最小值，默认值为 1。 |
+| [Extensions](../../groupdocs.signature.options/signoptions/extensions) { get; } | 签名扩展. |
+| virtual [PageNumber](../../groupdocs.signature.options/signoptions/pagenumber) { get; set; } | 获取或设置用于签名的文档页码。 最小值，默认值为 1. |
 | virtual [PagesSetup](../../groupdocs.signature.options/signoptions/pagessetup) { get; set; } | 用于指定要签名的页面的选项。 |
 | [SignatureType](../../groupdocs.signature.options/signoptions/signaturetype) { get; } | 获取签名类型[`SignatureType`](../../groupdocs.signature.domain/signaturetype) |
-| [ZOrder](../../groupdocs.signature.options/signoptions/zorder) { get; set; } | 获取或设置文本签名的Z-order位置。 确定重叠签名的显示顺序。 |
+| [ZOrder](../../groupdocs.signature.options/signoptions/zorder) { get; set; } | 获取或设置文本签名的 Z 序位置。 确定重叠签名的显示顺序。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 查看更多关于使用 GroupDocs.Signature 创建各种电子签名的简单示例： [电子签名类型](https://docs.groupdocs.com/signature/net/electronic-signature-types/)
-* 使用GroupDocs.Signature查看各种电子签名设置的更高级示例： [创建各种电子签名的高级用法](https://docs.groupdocs.com/signature/net/signing/)
+* 查看更多使用 GroupDocs 创建各种电子签名的简单示例。签名： [电子签名类型](https://docs.groupdocs.com/signature/net/electronic-signature-types/)
+* 查看更高级的GroupDocs各种电子签名设置示例。Signature: [创建各种电子签名的高级用法](https://docs.groupdocs.com/signature/net/signing/)
 
 ### 也可以看看
 

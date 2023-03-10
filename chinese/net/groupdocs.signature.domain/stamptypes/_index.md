@@ -1,14 +1,14 @@
 ---
 title: StampTypes
 second_title: GroupDocs.Signature for .NET API 参考
-description: 邮票类型容器
+description: 邮票类型容器.
 type: docs
-weight: 910
+weight: 940
 url: /zh/net/groupdocs.signature.domain/stamptypes/
 ---
 ## StampTypes class
 
-邮票类型容器。
+邮票类型容器.
 
 ```csharp
 public static class StampTypes
@@ -24,14 +24,14 @@ public static class StampTypes
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [Parse](../../groupdocs.signature.domain/stamptypes/parse)(string) | 返回带有 pasringType 名称的戳记类型。当戳记名称未知时 - 抛出异常。 |
-| static [TryParse](../../groupdocs.signature.domain/stamptypes/tryparse)(string) | 返回带有 pasringType 名称的戳记类型。当戳记名称未知时 - 不抛出异常并且方法返回空值。 |
+| static [Parse](../../groupdocs.signature.domain/stamptypes/parse)(string) | 返回带有 pasringType 名称的印章类型。当邮票名称未知时 - 抛出异常。 |
+| static [TryParse](../../groupdocs.signature.domain/stamptypes/tryparse)(string) | 返回带有 pasringType 名称的印章类型。当邮票名称未知时 - 不会抛出异常并且方法返回空值. |
 
 ## 字段
 
 | 姓名 | 描述 |
 | --- | --- |
-| static readonly [Round](../../groupdocs.signature.domain/stamptypes/round) | 圆形邮票类对象。 |
+| static readonly [Round](../../groupdocs.signature.domain/stamptypes/round) | 圆形印章类型对象。 |
 | static readonly [Square](../../groupdocs.signature.domain/stamptypes/square) | 方形邮票类型对象。 |
 
 ### 也可以看看

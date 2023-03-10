@@ -1,14 +1,14 @@
 ---
 title: Reason
 second_title: GroupDocs.Signature for .NET API 参考
-description: 验证数字签名的原因
+description: 数字签名验证的原因
 type: docs
 weight: 100
 url: /zh/net/groupdocs.signature.options/digitalverifyoptions/reason/
 ---
 ## DigitalVerifyOptions.Reason property
 
-验证数字签名的原因。
+数字签名验证的原因。
 
 ```csharp
 public string Reason { get; set; }

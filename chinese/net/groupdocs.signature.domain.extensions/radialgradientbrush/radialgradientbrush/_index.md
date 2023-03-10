@@ -33,7 +33,7 @@ public RadialGradientBrush(Color innerColor, Color outerColor)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | innerColor | Color | 内色。 |
-| outerColor | Color | 外颜色。 |
+| outerColor | Color | 外观颜色。 |
 
 ### 也可以看看
 

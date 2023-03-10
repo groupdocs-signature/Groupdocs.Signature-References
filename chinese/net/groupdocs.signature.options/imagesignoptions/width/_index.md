@@ -1,14 +1,14 @@
 ---
 title: Width
 second_title: GroupDocs.Signature for .NET API 参考
-description: 文档页面上签名的宽度以测量值 像素百分比或毫米MeasureTypegroupdocs.signature.domain/measuretypeSizeMeasureType.
+description: 签名在文档页面上的宽度测量值 像素百分比或毫米MeasureTypegroupdocs.signature.domain/measuretypeSizeMeasureType.
 type: docs
 weight: 200
 url: /zh/net/groupdocs.signature.options/imagesignoptions/width/
 ---
 ## ImageSignOptions.Width property
 
-文档页面上签名的宽度，以测量值 （像素、百分比或毫米[`MeasureType`](../../../groupdocs.signature.domain/measuretype)SizeMeasureType).
+签名在文档页面上的宽度，测量值 （像素、百分比或毫米[`MeasureType`](../../../groupdocs.signature.domain/measuretype)SizeMeasureType).
 
 ```csharp
 public int Width { get; set; }

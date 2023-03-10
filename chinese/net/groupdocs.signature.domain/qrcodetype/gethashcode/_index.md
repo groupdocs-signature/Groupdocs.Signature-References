@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: GroupDocs.Signature for .NET API 参考
-description: 被覆盖的方法用作特定类型的哈希函数
+description: 重写方法用作特定类型的哈希函数
 type: docs
 weight: 40
 url: /zh/net/groupdocs.signature.domain/qrcodetype/gethashcode/
 ---
 ## QrCodeType.GetHashCode method
 
-被覆盖的方法用作特定类型的哈希函数。
+重写方法用作特定类型的哈希函数。
 
 ```csharp
 public override int GetHashCode()

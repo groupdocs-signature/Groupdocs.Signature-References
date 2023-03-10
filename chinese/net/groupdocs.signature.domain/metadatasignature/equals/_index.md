@@ -3,7 +3,7 @@ title: Equals
 second_title: GroupDocs.Signature for .NET API 参考
 description: 覆盖 Equals 方法以比较签名属性
 type: docs
-weight: 50
+weight: 60
 url: /zh/net/groupdocs.signature.domain/metadatasignature/equals/
 ---
 ## MetadataSignature.Equals method
@@ -20,7 +20,7 @@ public override bool Equals(object obj)
 
 ### 返回值
 
-如果传递的签名对象具有相同的类型并且其所有属性都等于此实例属性，则返回 true。
+如果传递的签名对象具有相同类型并且其所有属性都等于此实例属性，则返回 true。
 
 ### 也可以看看
 

@@ -3,7 +3,7 @@ title: SCC14
 second_title: GroupDocs.Signature for .NET API 参考
 description: SCC14 条码类型对象
 type: docs
-weight: 540
+weight: 570
 url: /zh/net/groupdocs.signature.domain/barcodetypes/scc14/
 ---
 ## BarcodeTypes.SCC14 field

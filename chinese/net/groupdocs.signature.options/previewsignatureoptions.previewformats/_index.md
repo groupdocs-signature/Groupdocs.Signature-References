@@ -3,7 +3,7 @@ title: PreviewSignatureOptions.PreviewFormats
 second_title: GroupDocs.Signature for .NET API 参考
 description: 签名预览支持的格式
 type: docs
-weight: 1530
+weight: 1610
 url: /zh/net/groupdocs.signature.options/previewsignatureoptions.previewformats/
 ---
 ## PreviewSignatureOptions.PreviewFormats enumeration

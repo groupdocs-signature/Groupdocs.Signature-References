@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: GroupDocs.Signature for .NET API 参考
-description: 覆盖 Equals 方法来比较电子邮件属性
+description: 覆盖 Equals 方法以比较电子邮件属性
 type: docs
 weight: 50
 url: /zh/net/groupdocs.signature.domain.extensions/email/equals/
 ---
 ## Email.Equals method
 
-覆盖 Equals 方法来比较电子邮件属性
+覆盖 Equals 方法以比较电子邮件属性
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,11 +16,11 @@ public override bool Equals(object obj)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| obj | Object | 要比较的电子邮件对象。 |
+| obj | Object | 要与之比较的电子邮件对象。 |
 
 ### 返回值
 
-如果传递的电子邮件对象具有相同的类型并且其所有属性都等于此实例属性，则返回 true。
+如果传递的电子邮件对象具有相同类型并且其所有属性都等于此实例属性，则返回 true。
 
 ### 也可以看看
 

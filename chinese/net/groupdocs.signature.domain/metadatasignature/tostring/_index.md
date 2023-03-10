@@ -3,7 +3,7 @@ title: ToString
 second_title: GroupDocs.Signature for .NET API 参考
 description: 使用覆盖 ToString 方法转换为字符串
 type: docs
-weight: 140
+weight: 150
 url: /zh/net/groupdocs.signature.domain/metadatasignature/tostring/
 ---
 ## ToString() {#tostring}
@@ -16,7 +16,7 @@ public override string ToString()
 
 ### 返回值
 
-以字符串形式返回元数据签名值。
+将元数据签名值作为字符串返回。
 
 ### 评论
 
@@ -30,9 +30,38 @@ public override string ToString()
 
 ---
 
+## ToString(string, IFormatProvider) {#tostring_2}
+
+转换为具有指定格式的字符串
+
+```csharp
+public virtual string ToString(string format, IFormatProvider provider)
+```
+
+| 范围 | 类型 | 描述 |
+| --- | --- | --- |
+| format | String | 数据格式字符串。 |
+| provider | IFormatProvider | 格式化数据提供程序以用于数据转换操作。 |
+
+### 返回值
+
+将元数据签名值作为字符串返回。
+
+### 评论
+
+将布尔属性转换为“True”或“False”。
+
+### 也可以看看
+
+* class [MetadataSignature](../../metadatasignature)
+* 命名空间 [GroupDocs.Signature.Domain](../../metadatasignature)
+* 部件 [GroupDocs.Signature](../../../)
+
+---
+
 ## ToString(string) {#tostring_1}
 
-转换为指定格式的字符串
+转换为具有指定格式的字符串
 
 ```csharp
 public virtual string ToString(string format)
@@ -44,40 +73,11 @@ public virtual string ToString(string format)
 
 ### 返回值
 
-以字符串形式返回元数据签名值。
+将元数据签名值作为字符串返回。
 
 ### 评论
 
-将布尔属性转换为“True”或“False”。 将使用 SignatureSettings 属性中的默认区域性属性信息[`DefaultCulture`](../../../groupdocs.signature/signaturesettings/defaultculture)
-
-### 也可以看看
-
-* class [MetadataSignature](../../metadatasignature)
-* 命名空间 [GroupDocs.Signature.Domain](../../metadatasignature)
-* 部件 [GroupDocs.Signature](../../../)
-
----
-
-## ToString(string, IFormatProvider) {#tostring_2}
-
-转换为指定格式的字符串
-
-```csharp
-public virtual string ToString(string format, IFormatProvider provider)
-```
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| format | String | 数据格式字符串。 |
-| provider | IFormatProvider | 格式化数据提供程序以与数据转换操作一起使用。 |
-
-### 返回值
-
-以字符串形式返回元数据签名值。
-
-### 评论
-
-将布尔属性转换为“True”或“False”。
+将布尔属性转换为“True”或“False”。 将使用 SignatureSettings 属性中的默认文化属性信息[`DefaultCulture`](../../../groupdocs.signature/signaturesettings/defaultculture)
 
 ### 也可以看看
 

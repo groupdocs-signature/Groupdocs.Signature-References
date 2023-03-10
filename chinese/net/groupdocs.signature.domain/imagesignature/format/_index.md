@@ -1,14 +1,14 @@
 ---
 title: Format
 second_title: GroupDocs.Signature for .NET API 参考
-description: 指定签名图像的格式
+description: 指定签名图片的格式
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.domain/imagesignature/format/
 ---
 ## ImageSignature.Format property
 
-指定签名图像的格式。
+指定签名图片的格式。
 
 ```csharp
 public FileType Format { get; }

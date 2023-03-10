@@ -1,14 +1,14 @@
 ---
 title: TextSignatures
 second_title: GroupDocs.Signature for .NET API 参考
-description: 文档文本签名的集合
+description: 文档文本签名集合
 type: docs
-weight: 150
+weight: 160
 url: /zh/net/groupdocs.signature.domain/documentinfo/textsignatures/
 ---
 ## DocumentInfo.TextSignatures property
 
-文档文本签名的集合。
+文档文本签名集合。
 
 ```csharp
 public IList<TextSignature> TextSignatures { get; }

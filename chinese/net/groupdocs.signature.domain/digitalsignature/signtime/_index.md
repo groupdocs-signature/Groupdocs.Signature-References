@@ -1,14 +1,14 @@
 ---
 title: SignTime
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置文档签署的时间
+description: 获取或设置文档签名的时间
 type: docs
 weight: 70
 url: /zh/net/groupdocs.signature.domain/digitalsignature/signtime/
 ---
 ## DigitalSignature.SignTime property
 
-获取或设置文档签署的时间。
+获取或设置文档签名的时间。
 
 ```csharp
 public DateTime SignTime { get; set; }

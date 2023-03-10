@@ -1,14 +1,14 @@
 ---
 title: TypeName
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取二维码类型的名称
+description: 获取 QRCode 类型的名称
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.domain/qrcodetype/typename/
 ---
 ## QrCodeType.TypeName property
 
-获取二维码类型的名称。
+获取 QRCode 类型的名称。
 
 ```csharp
 public string TypeName { get; }

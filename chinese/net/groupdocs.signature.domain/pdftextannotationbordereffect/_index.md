@@ -3,7 +3,7 @@ title: PdfTextAnnotationBorderEffect
 second_title: GroupDocs.Signature for .NET API 参考
 description: 描述应用于 PDF 文本注释边框的效果
 type: docs
-weight: 680
+weight: 710
 url: /zh/net/groupdocs.signature.domain/pdftextannotationbordereffect/
 ---
 ## PdfTextAnnotationBorderEffect enumeration
@@ -19,7 +19,7 @@ public enum PdfTextAnnotationBorderEffect
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | None | `0` | 没有效果。 |
-| Cloudy | `1` | 边框会出现“阴天”。 |
+| Cloudy | `1` | 边框会出现“多云”。 |
 
 ### 也可以看看
 

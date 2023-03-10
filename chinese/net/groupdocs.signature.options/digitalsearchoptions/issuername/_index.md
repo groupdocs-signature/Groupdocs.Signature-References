@@ -1,14 +1,14 @@
 ---
 title: IssuerName
 second_title: GroupDocs.Signature for .NET API 参考
-description: 对于非空值指定要搜索的证书颁发者的专有名称
+description: 对于非空值指定要搜索的证书颁发者的可分辨名称
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.options/digitalsearchoptions/issuername/
 ---
 ## DigitalSearchOptions.IssuerName property
 
-对于非空值，指定要搜索的证书颁发者的专有名称。
+对于非空值，指定要搜索的证书颁发者的可分辨名称。
 
 ```csharp
 public string IssuerName { get; set; }

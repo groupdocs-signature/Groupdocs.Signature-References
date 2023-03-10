@@ -3,7 +3,7 @@ title: ISMN
 second_title: GroupDocs.Signature for .NET API 参考
 description: ISMN 条码类型对象
 type: docs
-weight: 340
+weight: 370
 url: /zh/net/groupdocs.signature.domain/barcodetypes/ismn/
 ---
 ## BarcodeTypes.ISMN field

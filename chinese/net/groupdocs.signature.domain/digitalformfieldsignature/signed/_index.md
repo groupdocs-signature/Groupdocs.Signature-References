@@ -1,14 +1,14 @@
 ---
 title: Signed
 second_title: GroupDocs.Signature for .NET API 参考
-description: 显示表单域签名是否使用数字证书签名的只读属性
+description: 显示表单字段签名是否使用数字证书签名的只读属性
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.domain/digitalformfieldsignature/signed/
 ---
 ## DigitalFormFieldSignature.Signed property
 
-显示表单域签名是否使用数字证书签名的只读属性。
+显示表单字段签名是否使用数字证书签名的只读属性。
 
 ```csharp
 public bool Signed { get; }

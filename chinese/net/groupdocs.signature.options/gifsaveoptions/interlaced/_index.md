@@ -1,14 +1,14 @@
 ---
 title: Interlaced
 second_title: GroupDocs.Signature for .NET API 参考
-description: 如果图像应该隔行扫描则为真
+description: 如果图像应该交错则为真
 type: docs
 weight: 60
 url: /zh/net/groupdocs.signature.options/gifsaveoptions/interlaced/
 ---
 ## GifSaveOptions.Interlaced property
 
-如果图像应该隔行扫描，则为真。
+如果图像应该交错则为真。
 
 ```csharp
 public bool Interlaced { get; set; }

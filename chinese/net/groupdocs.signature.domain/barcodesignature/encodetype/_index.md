@@ -1,14 +1,14 @@
 ---
 title: EncodeType
 second_title: GroupDocs.Signature for .NET API 参考
-description: 指定条形码编码类型
+description: 指定条码编码类型
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.domain/barcodesignature/encodetype/
 ---
 ## BarcodeSignature.EncodeType property
 
-指定条形码编码类型。
+指定条码编码类型。
 
 ```csharp
 public BarcodeType EncodeType { get; }

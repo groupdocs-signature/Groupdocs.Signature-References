@@ -1,14 +1,14 @@
 ---
 title: FormatAttribute
 second_title: GroupDocs.Signature for .NET API 参考
-description: 指示对象序列化将具有指定名称和格式的成员序列化
+description: 指示对象序列化对具有指定名称和格式的成员进行序列化
 type: docs
-weight: 240
+weight: 260
 url: /zh/net/groupdocs.signature.domain.extensions/formatattribute/
 ---
 ## FormatAttribute class
 
-指示对象序列化将具有指定名称和格式的成员序列化
+指示对象序列化对具有指定名称和格式的成员进行序列化
 
 ```csharp
 [AttributeUsage(AttributeTargets.Property | AttributeTargets.Field | AttributeTargets.Parameter)]
@@ -19,8 +19,8 @@ public sealed class FormatAttribute : Attribute
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FormatAttribute](formatattribute#constructor)(string) | 使用给定的属性名称创建格式属性 |
-| [FormatAttribute](formatattribute#constructor_1)(string, string) | 使用给定的属性名称创建格式属性 |
+| [FormatAttribute](formatattribute#constructor)(string) | 创建具有给定属性 Name 的格式属性 |
+| [FormatAttribute](formatattribute#constructor_1)(string, string) | 创建具有给定属性 Name 的格式属性 |
 
 ## 特性
 

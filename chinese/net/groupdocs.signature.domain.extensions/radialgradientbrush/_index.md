@@ -1,14 +1,14 @@
 ---
 title: RadialGradientBrush
 second_title: GroupDocs.Signature for .NET API 参考
-description: 表示径向渐变画笔
+description: 代表径向渐变画笔
 type: docs
-weight: 290
+weight: 310
 url: /zh/net/groupdocs.signature.domain.extensions/radialgradientbrush/
 ---
 ## RadialGradientBrush class
 
-表示径向渐变画笔。
+代表径向渐变画笔。
 
 ```csharp
 public class RadialGradientBrush : Brush
@@ -26,7 +26,7 @@ public class RadialGradientBrush : Brush
 | 姓名 | 描述 |
 | --- | --- |
 | [InnerColor](../../groupdocs.signature.domain.extensions/radialgradientbrush/innercolor) { get; set; } | 获取或设置内部渐变颜色。 |
-| [OuterColor](../../groupdocs.signature.domain.extensions/radialgradientbrush/outercolor) { get; set; } | 获取或设置外部渐变颜色。 |
+| [OuterColor](../../groupdocs.signature.domain.extensions/radialgradientbrush/outercolor) { get; set; } | 获取或设置外部渐变色。 |
 
 ### 也可以看看
 

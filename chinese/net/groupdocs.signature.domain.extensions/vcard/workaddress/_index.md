@@ -1,14 +1,14 @@
 ---
 title: WorkAddress
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置工作地址属性该属性默认未初始化
+description: 获取或设置工作地址属性默认情况下不初始化此属性
 type: docs
 weight: 140
 url: /zh/net/groupdocs.signature.domain.extensions/vcard/workaddress/
 ---
 ## VCard.WorkAddress property
 
-获取或设置工作地址属性。该属性默认未初始化。
+获取或设置工作地址属性。默认情况下不初始化此属性。
 
 ```csharp
 public Address WorkAddress { get; set; }

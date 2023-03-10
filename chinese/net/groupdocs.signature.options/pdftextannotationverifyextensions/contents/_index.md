@@ -1,14 +1,14 @@
 ---
 title: Contents
 second_title: GroupDocs.Signature for .NET API 参考
-description: 待验证文本注释的内容 如果等于空字符串或null则不进行验证
+description: 待验证的文本注释内容. 为空字符串或null则不验证.
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.options/pdftextannotationverifyextensions/contents/
 ---
 ## PdfTextAnnotationVerifyExtensions.Contents property
 
-待验证文本注释的内容。 如果等于空字符串或null，则不进行验证。
+待验证的文本注释内容. 为空字符串或null则不验证.
 
 ```csharp
 public string Contents { get; set; }

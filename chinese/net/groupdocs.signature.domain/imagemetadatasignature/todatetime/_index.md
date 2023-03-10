@@ -1,14 +1,14 @@
 ---
 title: ToDateTime
 second_title: GroupDocs.Signature for .NET API 参考
-description: 转换为日期时间
+description: 转换为 DateTime.
 type: docs
 weight: 90
 url: /zh/net/groupdocs.signature.domain/imagemetadatasignature/todatetime/
 ---
 ## ToDateTime() {#todatetime}
 
-转换为日期时间。
+转换为 DateTime.
 
 ```csharp
 public override DateTime ToDateTime()
@@ -16,11 +16,11 @@ public override DateTime ToDateTime()
 
 ### 返回值
 
-以 DateTime 形式返回元数据签名值。
+将元数据签名值返回为 DateTime。
 
 ### 评论
 
-如果无法转换元数据值，则引发异常。 如果原始值是基于字符串的，则将使用 SignatureSettings 属性中的默认区域性属性信息[`DefaultCulture`](../../../groupdocs.signature/signaturesettings/defaultculture)
+如果无法转换元数据值，则抛出异常。 如果原始值是基于字符串的，则将使用 SignatureSettings 属性中的默认文化属性信息[`DefaultCulture`](../../../groupdocs.signature/signaturesettings/defaultculture)
 
 ### 也可以看看
 
@@ -32,7 +32,7 @@ public override DateTime ToDateTime()
 
 ## ToDateTime(IFormatProvider) {#todatetime_1}
 
-转换为日期时间。
+转换为 DateTime.
 
 ```csharp
 public override DateTime ToDateTime(IFormatProvider provider)
@@ -40,15 +40,15 @@ public override DateTime ToDateTime(IFormatProvider provider)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| provider | IFormatProvider | 格式化数据提供程序以与数据转换操作一起使用。 |
+| provider | IFormatProvider | 格式化数据提供程序以用于数据转换操作。 |
 
 ### 返回值
 
-以 DateTime 形式返回元数据签名值。
+将元数据签名值返回为 DateTime。
 
 ### 评论
 
-如果无法转换元数据值，则引发异常
+如果无法转换元数据值，则抛出异常
 
 ### 也可以看看
 

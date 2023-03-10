@@ -1,14 +1,14 @@
 ---
 title: Rectangle
 second_title: GroupDocs.Signature for .NET API 参考
-description: 将图像放在文档上的矩形区域
+description: 将图像放在文档上的区域矩形
 type: docs
 weight: 130
 url: /zh/net/groupdocs.signature.options/imagesignoptions/rectangle/
 ---
 ## ImageSignOptions.Rectangle property
 
-将图像放在文档上的矩形区域。
+将图像放在文档上的区域矩形。
 
 ```csharp
 public Rectangle Rectangle { get; }

@@ -20,7 +20,7 @@ public void AddRange(IEnumerable<MetadataSignature> signatures)
 
 ### 评论
 
-如果名称值在整个现有集合中不是唯一的，则引发异常
+如果名称值在整个现有集合中不唯一，则抛出异常
 
 ### 也可以看看
 

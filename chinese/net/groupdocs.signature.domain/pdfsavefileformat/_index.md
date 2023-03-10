@@ -3,7 +3,7 @@ title: PdfSaveFileFormat
 second_title: GroupDocs.Signature for .NET API 参考
 description: 定义不同的保存文件格式
 type: docs
-weight: 670
+weight: 700
 url: /zh/net/groupdocs.signature.domain/pdfsavefileformat/
 ---
 ## PdfSaveFileFormat enumeration
@@ -25,7 +25,7 @@ public enum PdfSaveFileFormat
 | DocX | `7` | 以 Microsoft Word Open XML 文件格式保存文档。 |
 | Svg | `8` | 以 SVG（可缩放矢量图形）格式保存文档。 |
 | Epub | `11` | 以 IDPF EPUB 格式保存文档。 |
-| Pptx | `12` | 以 PowerPoint Open XML Presentation File 格式保存文档 |
+| Pptx | `12` | 以 PowerPoint Open XML 演示文稿文件格式保存文档 |
 
 ### 也可以看看
 

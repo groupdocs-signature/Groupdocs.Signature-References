@@ -1,14 +1,14 @@
 ---
 title: Encode
 second_title: GroupDocs.Signature for .NET API 参考
-description: 加密字符串的编码方法
+description: 编码方法来加密字符串
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.domain.extensions/idataencryption/encode/
 ---
 ## IDataEncryption.Encode method
 
-加密字符串的编码方法。
+编码方法来加密字符串。
 
 ```csharp
 public string Encode(string source)

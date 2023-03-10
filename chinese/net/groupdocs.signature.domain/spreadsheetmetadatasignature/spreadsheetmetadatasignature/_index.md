@@ -1,14 +1,14 @@
 ---
 title: SpreadsheetMetadataSignature
 second_title: GroupDocs.Signature for .NET API 参考
-description: 使用预定义的名称和空值创建电子表格元数据签名
+description: 创建具有预定义名称和空值的电子表格元数据签名
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.domain/spreadsheetmetadatasignature/spreadsheetmetadatasignature/
 ---
 ## SpreadsheetMetadataSignature(string) {#constructor}
 
-使用预定义的名称和空值创建电子表格元数据签名。
+创建具有预定义名称和空值的电子表格元数据签名。
 
 ```csharp
 public SpreadsheetMetadataSignature(string name)
@@ -28,7 +28,7 @@ public SpreadsheetMetadataSignature(string name)
 
 ## SpreadsheetMetadataSignature(string, object) {#constructor_1}
 
-使用预定义的值创建电子表格元数据签名。
+使用预定义值创建电子表格元数据签名。
 
 ```csharp
 public SpreadsheetMetadataSignature(string name, object value)

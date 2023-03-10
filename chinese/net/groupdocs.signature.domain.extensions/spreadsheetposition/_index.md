@@ -3,7 +3,7 @@ title: SpreadsheetPosition
 second_title: GroupDocs.Signature for .NET API 参考
 description: 定义电子表格文档的签名位置
 type: docs
-weight: 340
+weight: 360
 url: /zh/net/groupdocs.signature.domain.extensions/spreadsheetposition/
 ---
 ## SpreadsheetPosition class
@@ -24,8 +24,8 @@ public class SpreadsheetPosition : SignatureExtension
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Column](../../groupdocs.signature.domain.extensions/spreadsheetposition/column) { get; set; } | 获取或设置签名的左列号（最小值为0）。 |
-| [Row](../../groupdocs.signature.domain.extensions/spreadsheetposition/row) { get; set; } | 获取或设置签名的顶行数（最小值为0）。 |
+| [Column](../../groupdocs.signature.domain.extensions/spreadsheetposition/column) { get; set; } | 获取或设置签名左列数（最小值为0）. |
+| [Row](../../groupdocs.signature.domain.extensions/spreadsheetposition/row) { get; set; } | 获取或设置签名首行号（最小值为0）. |
 
 ## 方法
 

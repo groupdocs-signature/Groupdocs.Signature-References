@@ -1,14 +1,14 @@
 ---
 title: Width
 second_title: GroupDocs.Signature for .NET API 参考
-description: 指定签名的宽度
+description: 指定签名宽度
 type: docs
 weight: 110
 url: /zh/net/groupdocs.signature.domain/basesignature/width/
 ---
 ## BaseSignature.Width property
 
-指定签名的宽度。
+指定签名宽度。
 
 ```csharp
 public int Width { get; set; }

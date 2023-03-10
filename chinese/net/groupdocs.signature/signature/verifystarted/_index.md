@@ -1,14 +1,14 @@
 ---
 title: VerifyStarted
 second_title: GroupDocs.Signature for .NET API 参考
-description: 在签名验证过程开始时发生
+description: 签名验证过程开始时发生
 type: docs
 weight: 100
 url: /zh/net/groupdocs.signature/signature/verifystarted/
 ---
 ## Signature.VerifyStarted event
 
-在签名验证过程开始时发生。
+签名验证过程开始时发生。
 
 ```csharp
 public event ProcessStartEventHandler VerifyStarted;

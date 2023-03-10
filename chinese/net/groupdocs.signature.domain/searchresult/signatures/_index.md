@@ -1,14 +1,14 @@
 ---
 title: Signatures
 second_title: GroupDocs.Signature for .NET API 参考
-description: 检测到的签名列表BaseSignaturegroupdocs.signature.domain/basesignature.
+description: 找到的签名列表BaseSignaturegroupdocs.signature.domain/basesignature.
 type: docs
-weight: 10
+weight: 30
 url: /zh/net/groupdocs.signature.domain/searchresult/signatures/
 ---
 ## SearchResult.Signatures property
 
-检测到的签名列表[`BaseSignature`](../../basesignature).
+找到的签名列表[`BaseSignature`](../../basesignature).
 
 ```csharp
 public List<BaseSignature> Signatures { get; }

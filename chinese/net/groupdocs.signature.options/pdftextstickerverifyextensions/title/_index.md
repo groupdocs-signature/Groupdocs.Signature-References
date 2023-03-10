@@ -1,14 +1,14 @@
 ---
 title: Title
 second_title: GroupDocs.Signature for .NET API 参考
-description: 待验证的贴纸标题 如果等于空字符串或null则不验证值
+description: 要验证的贴纸标题 如果等于空字符串或 null则不会验证值
 type: docs
 weight: 50
 url: /zh/net/groupdocs.signature.options/pdftextstickerverifyextensions/title/
 ---
 ## PdfTextStickerVerifyExtensions.Title property
 
-待验证的贴纸标题。 如果等于空字符串或null，则不验证值。
+要验证的贴纸标题。 如果等于空字符串或 null，则不会验证值。
 
 ```csharp
 public string Title { get; set; }

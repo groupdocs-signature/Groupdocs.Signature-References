@@ -3,7 +3,7 @@ title: PZN
 second_title: GroupDocs.Signature for .NET API 参考
 description: PZN 条码类型对象
 type: docs
-weight: 520
+weight: 550
 url: /zh/net/groupdocs.signature.domain/barcodetypes/pzn/
 ---
 ## BarcodeTypes.PZN field

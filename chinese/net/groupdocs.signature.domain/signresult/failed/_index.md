@@ -1,14 +1,14 @@
 ---
 title: Failed
 second_title: GroupDocs.Signature for .NET API 参考
-description: 未能创建的签名列表
+description: 创建失败的签名列表
 type: docs
-weight: 10
+weight: 20
 url: /zh/net/groupdocs.signature.domain/signresult/failed/
 ---
 ## SignResult.Failed property
 
-未能创建的签名列表。
+创建失败的签名列表。
 
 ```csharp
 public List<BaseSignature> Failed { get; }

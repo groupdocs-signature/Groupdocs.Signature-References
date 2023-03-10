@@ -1,14 +1,14 @@
 ---
 title: OneCode
 second_title: GroupDocs.Signature for .NET API 参考
-description: OneCode 条形码类型对象
+description: OneCode 条码类型对象
 type: docs
-weight: 450
+weight: 480
 url: /zh/net/groupdocs.signature.domain/barcodetypes/onecode/
 ---
 ## BarcodeTypes.OneCode field
 
-OneCode 条形码类型对象。
+OneCode 条码类型对象。
 
 ```csharp
 public static readonly BarcodeType OneCode;

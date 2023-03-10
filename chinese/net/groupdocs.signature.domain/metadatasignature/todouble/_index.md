@@ -1,14 +1,14 @@
 ---
 title: ToDouble
 second_title: GroupDocs.Signature for .NET API 参考
-description: 转换为双精度
+description: 转换为 Double.
 type: docs
-weight: 110
+weight: 120
 url: /zh/net/groupdocs.signature.domain/metadatasignature/todouble/
 ---
 ## ToDouble() {#todouble}
 
-转换为双精度。
+转换为 Double.
 
 ```csharp
 public virtual double ToDouble()
@@ -20,7 +20,7 @@ public virtual double ToDouble()
 
 ### 评论
 
-如果无法转换元数据值，则引发异常。 如果原始值是基于字符串的，则将使用 SignatureSettings 属性中的默认区域性属性信息[`DefaultCulture`](../../../groupdocs.signature/signaturesettings/defaultculture)
+如果无法转换元数据值，则抛出异常。 如果原始值是基于字符串的，则将使用 SignatureSettings 属性中的默认文化属性信息[`DefaultCulture`](../../../groupdocs.signature/signaturesettings/defaultculture)
 
 ### 也可以看看
 
@@ -32,7 +32,7 @@ public virtual double ToDouble()
 
 ## ToDouble(IFormatProvider) {#todouble_1}
 
-转换为双精度。
+转换为 Double.
 
 ```csharp
 public virtual double ToDouble(IFormatProvider provider)
@@ -40,7 +40,7 @@ public virtual double ToDouble(IFormatProvider provider)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| provider | IFormatProvider | 格式化数据提供程序以与数据转换操作一起使用。 |
+| provider | IFormatProvider | 格式化数据提供程序以用于数据转换操作。 |
 
 ### 返回值
 
@@ -48,7 +48,7 @@ public virtual double ToDouble(IFormatProvider provider)
 
 ### 评论
 
-如果无法转换元数据值，则引发异常
+如果无法转换元数据值，则抛出异常
 
 ### 也可以看看
 

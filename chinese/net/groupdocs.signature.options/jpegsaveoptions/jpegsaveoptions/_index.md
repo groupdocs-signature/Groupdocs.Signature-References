@@ -1,14 +1,14 @@
 ---
 title: JpegSaveOptions
 second_title: GroupDocs.Signature for .NET API 参考
-description: 使用默认值创建 JpegSaveOptions
+description: 使用默认值创建 JpegSaveOptions.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.options/jpegsaveoptions/jpegsaveoptions/
 ---
 ## JpegSaveOptions constructor
 
-使用默认值创建 JpegSaveOptions。
+使用默认值创建 JpegSaveOptions.
 
 ```csharp
 public JpegSaveOptions()

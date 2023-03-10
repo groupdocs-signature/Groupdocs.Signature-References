@@ -1,14 +1,14 @@
 ---
 title: Width
 second_title: GroupDocs.Signature for .NET API 参考
-description: 文档页面上签名区域的宽度以测量值 像素百分比或毫米见MeasureTypegroupdocs.signature.domain/measuretypeSizeMeasureType.
+description: 文档页面上签名区域的宽度测量值 像素百分比或毫米见MeasureTypegroupdocs.signature.domain/measuretypeSizeMeasureType.
 type: docs
 weight: 70
 url: /zh/net/groupdocs.signature.domain/irectangle/width/
 ---
 ## IRectangle.Width property
 
-文档页面上签名区域的宽度，以测量值 （像素、百分比或毫米见[`MeasureType`](../../measuretype)SizeMeasureType).
+文档页面上签名区域的宽度，测量值 （像素、百分比或毫米见[`MeasureType`](../../measuretype)SizeMeasureType).
 
 ```csharp
 public int Width { get; set; }

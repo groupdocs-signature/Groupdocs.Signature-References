@@ -1,14 +1,14 @@
 ---
 title: SignResult
 second_title: GroupDocs.Signature for .NET API 参考
-description: 具有新创建签名的文档的签名过程结果
+description: 使用新创建的签名对文档进行签名过程的结果
 type: docs
-weight: 810
+weight: 840
 url: /zh/net/groupdocs.signature.domain/signresult/
 ---
 ## SignResult class
 
-具有新创建签名的文档的签名过程结果。
+使用新创建的签名对文档进行签名过程的结果。
 
 ```csharp
 public class SignResult : IResult
@@ -18,8 +18,12 @@ public class SignResult : IResult
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Failed](../../groupdocs.signature.domain/signresult/failed) { get; } | 未能创建的签名列表。 |
-| [Succeeded](../../groupdocs.signature.domain/signresult/succeeded) { get; } | 新创建的签名列表[`BaseSignature`](../basesignature). |
+| [DestinDocumentSize](../../groupdocs.signature.domain/signresult/destindocumentsize) { get; } | 返回目标文件大小 |
+| [Failed](../../groupdocs.signature.domain/signresult/failed) { get; } | 创建失败的签名列表。 |
+| [ProcessingTime](../../groupdocs.signature.domain/signresult/processingtime) { get; } | 以毫秒为单位返回进程的执行时间 |
+| [SourceDocumentSize](../../groupdocs.signature.domain/signresult/sourcedocumentsize) { get; } | 返回源文件大小 |
+| [Succeeded](../../groupdocs.signature.domain/signresult/succeeded) { get; } | 新建签名列表[`BaseSignature`](../basesignature). |
+| [TotalSignatures](../../groupdocs.signature.domain/signresult/totalsignatures) { get; } | 返回已处理的签名总数 |
 
 ### 也可以看看
 

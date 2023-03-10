@@ -1,14 +1,14 @@
 ---
 title: InnerMargins
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置条形码元素和结果图像边框之间的空间
+description: 获取或设置 Barcode 元素和结果图像边框之间的间距
 type: docs
 weight: 50
 url: /zh/net/groupdocs.signature.options/barcodesignoptions/innermargins/
 ---
 ## BarcodeSignOptions.InnerMargins property
 
-获取或设置条形码元素和结果图像边框之间的空间。
+获取或设置 Barcode 元素和结果图像边框之间的间距。
 
 ```csharp
 public Padding InnerMargins { get; set; }

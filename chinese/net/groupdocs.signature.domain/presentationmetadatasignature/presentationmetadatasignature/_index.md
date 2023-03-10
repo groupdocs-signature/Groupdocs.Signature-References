@@ -1,14 +1,14 @@
 ---
 title: PresentationMetadataSignature
 second_title: GroupDocs.Signature for .NET API 参考
-description: 使用预定义的名称和空值创建表示元数据签名
+description: 使用预定义名称和空值 创建表示元数据签名
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.domain/presentationmetadatasignature/presentationmetadatasignature/
 ---
 ## PresentationMetadataSignature(string) {#constructor}
 
-使用预定义的名称和空值创建表示元数据签名
+使用预定义名称和空值 创建表示元数据签名
 
 ```csharp
 public PresentationMetadataSignature(string name)
@@ -16,7 +16,7 @@ public PresentationMetadataSignature(string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 表示元数据签名名称 |
+| name | String | 演示文稿元数据签名名称 |
 
 ### 也可以看看
 
@@ -28,7 +28,7 @@ public PresentationMetadataSignature(string name)
 
 ## PresentationMetadataSignature(string, object) {#constructor_1}
 
-使用预定义值创建表示元数据签名
+创建具有预定义值的演示文稿元数据签名
 
 ```csharp
 public PresentationMetadataSignature(string name, object value)
@@ -37,7 +37,7 @@ public PresentationMetadataSignature(string name, object value)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | name | String | 元数据签名对象的名称 |
-| value | Object | 元数据签名值 |
+| value | Object | 元数据签名的值 |
 
 ### 也可以看看
 

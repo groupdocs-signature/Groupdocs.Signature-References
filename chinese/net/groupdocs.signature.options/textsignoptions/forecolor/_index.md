@@ -1,14 +1,14 @@
 ---
 title: ForeColor
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置签名的前景色
+description: 获取或设置签名前景色
 type: docs
 weight: 50
 url: /zh/net/groupdocs.signature.options/textsignoptions/forecolor/
 ---
 ## TextSignOptions.ForeColor property
 
-获取或设置签名的前景色。
+获取或设置签名前景色。
 
 ```csharp
 public virtual Color ForeColor { get; set; }

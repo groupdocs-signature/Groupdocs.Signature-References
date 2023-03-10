@@ -3,7 +3,7 @@ title: VerticalAlignment
 second_title: GroupDocs.Signature for .NET API 参考
 description: 指定文档页面上元素的垂直对齐方式
 type: docs
-weight: 1030
+weight: 1060
 url: /zh/net/groupdocs.signature.domain/verticalalignment/
 ---
 ## VerticalAlignment enumeration
@@ -18,8 +18,8 @@ public enum VerticalAlignment
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| None | `0` | 对象被显式定位，通常使用其 Top 属性。 |
-| Top | `1` | 指定对象应位于垂直对齐基础的顶部。 |
+| None | `0` | 对象被显式定位，通常使用它的 Top 属性。 |
+| Top | `1` | 指定对象应位于垂直对齐基准的顶部。 |
 | Center | `2` | 指定对象应相对于垂直对齐基准居中。 |
 | Bottom | `3` | 指定对象应位于垂直对齐基准的底部。 |
 

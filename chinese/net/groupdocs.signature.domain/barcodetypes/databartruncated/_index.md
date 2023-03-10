@@ -1,14 +1,14 @@
 ---
 title: DatabarTruncated
 second_title: GroupDocs.Signature for .NET API 参考
-description: DatabarTruncated Barcode Type object.
+description: DatabarTruncated 条码类型对象
 type: docs
 weight: 200
 url: /zh/net/groupdocs.signature.domain/barcodetypes/databartruncated/
 ---
 ## BarcodeTypes.DatabarTruncated field
 
-DatabarTruncated Barcode Type object.
+DatabarTruncated 条码类型对象。
 
 ```csharp
 public static readonly BarcodeType DatabarTruncated;

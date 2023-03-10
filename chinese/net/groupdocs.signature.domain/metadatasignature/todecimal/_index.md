@@ -3,7 +3,7 @@ title: ToDecimal
 second_title: GroupDocs.Signature for .NET API 参考
 description: 转换为十进制
 type: docs
-weight: 100
+weight: 110
 url: /zh/net/groupdocs.signature.domain/metadatasignature/todecimal/
 ---
 ## ToDecimal() {#todecimal}
@@ -16,11 +16,11 @@ public virtual decimal ToDecimal()
 
 ### 返回值
 
-以十进制返回元数据签名值。
+将元数据签名值返回为十进制。
 
 ### 评论
 
-如果无法转换元数据值，则引发异常。 如果原始值是基于字符串的，则将使用 SignatureSettings 属性中的默认区域性属性信息[`DefaultCulture`](../../../groupdocs.signature/signaturesettings/defaultculture)
+如果无法转换元数据值，则抛出异常。 如果原始值是基于字符串的，则将使用 SignatureSettings 属性中的默认文化属性信息[`DefaultCulture`](../../../groupdocs.signature/signaturesettings/defaultculture)
 
 ### 也可以看看
 
@@ -40,15 +40,15 @@ public virtual decimal ToDecimal(IFormatProvider provider)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| provider | IFormatProvider | 格式化数据提供程序以与数据转换操作一起使用。 |
+| provider | IFormatProvider | 格式化数据提供程序以用于数据转换操作。 |
 
 ### 返回值
 
-以十进制返回元数据签名值。
+将元数据签名值返回为十进制。
 
 ### 评论
 
-如果无法转换元数据值，则引发异常
+如果无法转换元数据值，则抛出异常
 
 ### 也可以看看
 

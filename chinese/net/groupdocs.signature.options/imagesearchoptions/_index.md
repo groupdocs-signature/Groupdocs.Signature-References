@@ -3,7 +3,7 @@ title: ImageSearchOptions
 second_title: GroupDocs.Signature for .NET API 参考
 description: 表示图像签名的搜索选项
 type: docs
-weight: 1330
+weight: 1410
 url: /zh/net/groupdocs.signature.options/imagesearchoptions/
 ---
 ## ImageSearchOptions class
@@ -29,16 +29,16 @@ public class ImageSearchOptions : SearchOptions
 | [MinContentSize](../../groupdocs.signature.options/imagesearchoptions/mincontentsize) { get; set; } | 对于非零值，此标志指定搜索条件的最小图像大小。 默认情况下，此标志设置为零并且不影响搜索结果。 |
 | [PageNumber](../../groupdocs.signature.options/searchoptions/pagenumber) { get; set; } | 获取或设置用于搜索的文档页码。 值是可选的。 |
 | [PagesSetup](../../groupdocs.signature.options/searchoptions/pagessetup) { get; set; } | 用于指定签名搜索页面的选项。 |
-| [ReturnContent](../../groupdocs.signature.options/imagesearchoptions/returncontent) { get; set; } | 获取或设置标志以抓取文档页面上签名的图像内容。 如果此标志设置为true，则图像签名内容将按要求的格式保留原始图像数据[`ReturnContentType`](./returncontenttype). 默认情况下禁用此选项。 |
-| [ReturnContentType](../../groupdocs.signature.options/imagesearchoptions/returncontenttype) { get; set; } | 指定启用 ReturnContent 属性时图像签名的返回内容的文件类型。 默认设置为 Null。这意味着以原始格式返回图像内容。 此图像格式指定于[`Format`](../../groupdocs.signature.domain/imagesignature/format) 可能支持的值为：FileType.JPEG、FileType.PNG、FileType.BMP。 如果不支持提供的格式，则将返回原始格式的图像内容。 |
+| [ReturnContent](../../groupdocs.signature.options/imagesearchoptions/returncontent) { get; set; } | 获取或设置标志以抓取文档页面签名的图像内容。 如果设置此标志为真，图像签名内容将按要求的格式保留原始图像数据[`ReturnContentType`](./returncontenttype). 默认情况下禁用此选项。 |
+| [ReturnContentType](../../groupdocs.signature.options/imagesearchoptions/returncontenttype) { get; set; } | 指定启用 ReturnContent 属性时图像签名返回内容的文件类型。 默认设置为 Null。这意味着以原始格式返回图像内容。 此图像格式指定于[`Format`](../../groupdocs.signature.domain/imagesignature/format) 可能支持的值为：FileType.JPEG、FileType.PNG、FileType.BMP。 如果不支持提供的格式，则将返回原始格式的图像内容。 |
 | [SkipExternal](../../groupdocs.signature.options/searchoptions/skipexternal) { get; set; } | 标志以仅返回标记为 IsSignature 的签名。默认值为 false，表示返回所有符合指定条件的签名。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* GroupDocs.Signature搜索图片电子签名的基本用法： [如何在文档中搜索图像签名](https://docs.groupdocs.com/display/signaturenet/Search+for+Image+e-signatures)
-* 使用 GroupDocs.Signature 搜索图像电子签名设置的高级用法： [文档中 eSearch 图像签名的高级用法和其他设置](https://docs.groupdocs.com/display/signaturenet/Advanced+search+for+Image+signatures)
+* GroupDocs.Signature 搜索Image电子签名的基本用法： [如何在文档中搜索图像签名](https://docs.groupdocs.com/display/signaturenet/Search+for+Image+e-signatures)
+* GroupDocs.Signature: 搜索图片电子签名设置高级用法[文档中 eSearch 图像签名的高级用法和其他设置](https://docs.groupdocs.com/display/signaturenet/Advanced+search+for+Image+signatures)
 
 ### 也可以看看
 

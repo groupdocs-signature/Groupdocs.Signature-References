@@ -3,7 +3,7 @@ title: FormFieldType
 second_title: GroupDocs.Signature for .NET API 参考
 description: 指定表单字段类型
 type: docs
-weight: 450
+weight: 470
 url: /zh/net/groupdocs.signature.domain/formfieldtype/
 ---
 ## FormFieldType enumeration
@@ -18,10 +18,10 @@ public enum FormFieldType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Text | `0` | 简单文本输入。 |
-| Checkbox | `1` | 复选框。 |
+| Text | `0` | 简单文本输入. |
+| Checkbox | `1` | 复选框. |
 | Combobox | `2` | 组合框 |
-| DigitalSignature | `3` | 数字签名区。 |
+| DigitalSignature | `3` | 数字签名区. |
 | Radio | `4` | 单选按钮 |
 
 ### 也可以看看

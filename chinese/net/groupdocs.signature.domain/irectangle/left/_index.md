@@ -1,14 +1,14 @@
 ---
 title: Left
 second_title: GroupDocs.Signature for .NET API 参考
-description: 文档页面上签名区域的左 X 位置以度量单位 像素百分比或毫米见MeasureTypegroupdocs.signature.domain/measuretypeLocationMeasureType.
+description: 文档页面上签名区域的左侧 X 位置以测量单位表示 像素百分比或毫米请参阅MeasureTypegroupdocs.signature.domain/measuretypeLocationMeasureType.
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.domain/irectangle/left/
 ---
 ## IRectangle.Left property
 
-文档页面上签名区域的左 X 位置，以度量单位 （像素、百分比或毫米见[`MeasureType`](../../measuretype)LocationMeasureType).
+文档页面上签名区域的左侧 X 位置，以测量单位表示 （像素、百分比或毫米，请参阅[`MeasureType`](../../measuretype)LocationMeasureType).
 
 ```csharp
 public int Left { get; set; }

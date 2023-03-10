@@ -32,7 +32,7 @@ public TextureBrush(string imageFilePath)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| imageFilePath | String | 图像文件路径。 |
+| imageFilePath | String | 图片文件路径。 |
 
 ### 也可以看看
 

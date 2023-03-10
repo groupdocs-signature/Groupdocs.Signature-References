@@ -1,14 +1,14 @@
 ---
 title: Text
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置印章行文字
+description: 获取或设置戳记行的文本
 type: docs
 weight: 70
 url: /zh/net/groupdocs.signature.domain/stampline/text/
 ---
 ## StampLine.Text property
 
-获取或设置印章行文字。
+获取或设置戳记行的文本。
 
 ```csharp
 public string Text { get; set; }

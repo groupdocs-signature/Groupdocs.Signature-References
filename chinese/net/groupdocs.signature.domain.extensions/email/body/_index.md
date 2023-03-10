@@ -1,14 +1,14 @@
 ---
 title: Body
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置电子邮件的正文
+description: 获取或设置电子邮件正文
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.domain.extensions/email/body/
 ---
 ## Email.Body property
 
-获取或设置电子邮件的正文。
+获取或设置电子邮件正文。
 
 ```csharp
 public string Body { get; set; }

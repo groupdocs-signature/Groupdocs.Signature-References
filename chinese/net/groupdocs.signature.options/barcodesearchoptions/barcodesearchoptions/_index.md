@@ -32,7 +32,7 @@ public BarcodeSearchOptions(BarcodeType encodeType)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| encodeType | BarcodeType | 指定条形码编码类型。 |
+| encodeType | BarcodeType | 指定条码编码类型。 |
 
 ### 也可以看看
 
@@ -53,8 +53,8 @@ public BarcodeSearchOptions(BarcodeType encodeType, string text)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| encodeType | BarcodeType | 指定条形码编码类型。 |
-| text | String | 设置条码签名文本。 |
+| encodeType | BarcodeType | 指定条码编码类型。 |
+| text | String | 设置条形码签名的文本。 |
 
 ### 也可以看看
 

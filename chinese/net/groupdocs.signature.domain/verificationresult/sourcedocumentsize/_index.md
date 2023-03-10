@@ -1,17 +1,17 @@
 ---
-title: VerificationResult
+title: SourceDocumentSize
 second_title: GroupDocs.Signature for .NET API 参考
-description: 默认构造函数
+description: 以字节为单位返回源文档大小
 type: docs
-weight: 10
-url: /zh/net/groupdocs.signature.domain/verificationresult/verificationresult/
+weight: 40
+url: /zh/net/groupdocs.signature.domain/verificationresult/sourcedocumentsize/
 ---
-## VerificationResult constructor
+## VerificationResult.SourceDocumentSize property
 
-默认构造函数。
+以字节为单位返回源文档大小
 
 ```csharp
-public VerificationResult()
+public long SourceDocumentSize { get; }
 ```
 
 ### 也可以看看

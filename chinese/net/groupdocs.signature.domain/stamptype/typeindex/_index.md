@@ -1,14 +1,14 @@
 ---
 title: TypeIndex
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取支持的邮票类型集合中的对象索引
+description: 获取支持的邮票类型集合中对象的索引
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.domain/stamptype/typeindex/
 ---
 ## StampType.TypeIndex property
 
-获取支持的邮票类型集合中的对象索引。
+获取支持的邮票类型集合中对象的索引。
 
 ```csharp
 public int TypeIndex { get; }

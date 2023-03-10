@@ -1,14 +1,14 @@
 ---
 title: GetEnumerator
 second_title: GroupDocs.Signature for .NET API 参考
-description: 返回枚举数
+description: 返回枚举器
 type: docs
-weight: 20
+weight: 70
 url: /zh/net/groupdocs.signature.domain/searchresult/getenumerator/
 ---
 ## SearchResult.GetEnumerator method
 
-返回枚举数。
+返回枚举器。
 
 ```csharp
 public IEnumerator<BaseSignature> GetEnumerator()

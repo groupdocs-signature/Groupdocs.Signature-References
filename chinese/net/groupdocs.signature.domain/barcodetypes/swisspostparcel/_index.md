@@ -1,14 +1,14 @@
 ---
 title: SwissPostParcel
 second_title: GroupDocs.Signature for .NET API 参考
-description: SwissPostParcel 条形码类型对象
+description: SwissPostParcel 条码类型对象
 type: docs
-weight: 580
+weight: 610
 url: /zh/net/groupdocs.signature.domain/barcodetypes/swisspostparcel/
 ---
 ## BarcodeTypes.SwissPostParcel field
 
-SwissPostParcel 条形码类型对象。
+SwissPostParcel 条码类型对象。
 
 ```csharp
 public static readonly BarcodeType SwissPostParcel;

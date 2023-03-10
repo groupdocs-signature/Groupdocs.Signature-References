@@ -1,14 +1,14 @@
 ---
 title: Visible
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取和设置戳线的可见性
+description: 获取和设置 Stamp Line 的可见性
 type: docs
 weight: 110
 url: /zh/net/groupdocs.signature.domain/stampline/visible/
 ---
 ## StampLine.Visible property
 
-获取和设置戳线的可见性。
+获取和设置 Stamp Line 的可见性。
 
 ```csharp
 public bool Visible { get; set; }

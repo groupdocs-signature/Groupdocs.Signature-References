@@ -37,7 +37,7 @@ public MetadataSignature this[string name] { get; }
 
 ## MetadataSignatureCollection indexer (2 of 2)
 
-按索引返回 MetadataSignature 对象。
+按索引返回一个 MetadataSignature 对象。
 
 ```csharp
 public MetadataSignature this[int index] { get; }
@@ -49,7 +49,7 @@ public MetadataSignature this[int index] { get; }
 
 ### 返回值
 
-返回元数据签名[`MetadataSignature`](../../metadatasignature)对象的集合索引。
+返回元数据签名[`MetadataSignature`](../../metadatasignature)按集合索引的对象。
 
 ### 评论
 

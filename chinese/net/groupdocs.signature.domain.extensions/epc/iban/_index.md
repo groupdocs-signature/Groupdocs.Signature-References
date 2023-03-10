@@ -1,14 +1,14 @@
 ---
 title: IBAN
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置受益人帐户 IBAN IBAN 最多由 34 个字母数字字符组成
+description: 获取或设置收款人帐户 IBAN IBAN 最多包含 34 个字母数字字符
 type: docs
 weight: 60
 url: /zh/net/groupdocs.signature.domain.extensions/epc/iban/
 ---
 ## EPC.IBAN property
 
-获取或设置受益人帐户 (IBAN)。 IBAN 最多由 34 个字母数字字符组成。
+获取或设置收款人帐户 (IBAN)。 IBAN 最多包含 34 个字母数字字符。
 
 ```csharp
 public string IBAN { get; set; }

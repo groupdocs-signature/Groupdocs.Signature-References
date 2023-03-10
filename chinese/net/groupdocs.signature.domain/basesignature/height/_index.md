@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: GroupDocs.Signature for .NET API 参考
-description: 指定签名的高度
+description: 指定签名高度
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.domain/basesignature/height/
 ---
 ## BaseSignature.Height property
 
-指定签名的高度。
+指定签名高度。
 
 ```csharp
 public int Height { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: SignStarted
 second_title: GroupDocs.Signature for .NET API 参考
-description: 在文档签名过程开始时发生
+description: 文档签名过程开始时发生
 type: docs
 weight: 70
 url: /zh/net/groupdocs.signature/signature/signstarted/
 ---
 ## Signature.SignStarted event
 
-在文档签名过程开始时发生。
+文档签名过程开始时发生。
 
 ```csharp
 public event ProcessStartEventHandler SignStarted;

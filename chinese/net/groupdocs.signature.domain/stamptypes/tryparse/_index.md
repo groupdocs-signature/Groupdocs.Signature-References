@@ -1,14 +1,14 @@
 ---
 title: TryParse
 second_title: GroupDocs.Signature for .NET API 参考
-description: 返回带有 pasringType 名称的戳记类型当戳记名称未知时  不抛出异常并且方法返回空值
+description: 返回带有 pasringType 名称的印章类型当邮票名称未知时  不会抛出异常并且方法返回空值.
 type: docs
 weight: 50
 url: /zh/net/groupdocs.signature.domain/stamptypes/tryparse/
 ---
 ## StampTypes.TryParse method
 
-返回带有 pasringType 名称的戳记类型。当戳记名称未知时 - 不抛出异常并且方法返回空值。
+返回带有 pasringType 名称的印章类型。当邮票名称未知时 - 不会抛出异常并且方法返回空值.
 
 ```csharp
 public static StampType TryParse(string parsingType)
@@ -16,11 +16,11 @@ public static StampType TryParse(string parsingType)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| parsingType | String | 邮票类型名称的源字符串。 |
+| parsingType | String | 图章类型名称的源字符串。 |
 
 ### 返回值
 
-StampType 实例。
+印章类型实例。
 
 ### 也可以看看
 

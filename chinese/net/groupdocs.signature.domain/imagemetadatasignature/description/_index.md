@@ -1,14 +1,14 @@
 ---
 title: Description
 second_title: GroupDocs.Signature for .NET API 参考
-description: 用于获取标准图像元数据签名描述的只读值
+description: 用于获取标准图像元数据签名 描述的只读值
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.domain/imagemetadatasignature/description/
 ---
 ## ImageMetadataSignature.Description property
 
-用于获取标准图像元数据签名描述的只读值
+用于获取标准图像元数据签名 描述的只读值
 
 ```csharp
 public string Description { get; }

@@ -1,14 +1,14 @@
 ---
 title: WordProcessingMetadataSignature
 second_title: GroupDocs.Signature for .NET API 参考
-description: 使用预定义的名称和空值创建字处理元数据签名
+description: 创建具有预定义名称和空值的 WordProcessing 元数据签名
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.domain/wordprocessingmetadatasignature/wordprocessingmetadatasignature/
 ---
 ## WordProcessingMetadataSignature(string) {#constructor}
 
-使用预定义的名称和空值创建字处理元数据签名。
+创建具有预定义名称和空值的 WordProcessing 元数据签名。
 
 ```csharp
 public WordProcessingMetadataSignature(string name)
@@ -16,7 +16,7 @@ public WordProcessingMetadataSignature(string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 字处理元数据签名名称。 |
+| name | String | 文字处理元数据签名名称。 |
 
 ### 也可以看看
 
@@ -28,7 +28,7 @@ public WordProcessingMetadataSignature(string name)
 
 ## WordProcessingMetadataSignature(string, object) {#constructor_1}
 
-使用预定义的值创建字处理元数据签名。
+使用预定义值创建字处理元数据签名。
 
 ```csharp
 public WordProcessingMetadataSignature(string name, object value)

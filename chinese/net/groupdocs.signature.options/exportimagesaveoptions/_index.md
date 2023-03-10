@@ -1,14 +1,14 @@
 ---
 title: ExportImageSaveOptions
 second_title: GroupDocs.Signature for .NET API 参考
-description: 保存用于将文档导出到图像的选项
+description: 将文档导出到图像的保存选项
 type: docs
-weight: 1280
+weight: 1360
 url: /zh/net/groupdocs.signature.options/exportimagesaveoptions/
 ---
 ## ExportImageSaveOptions class
 
-保存用于将文档导出到图像的选项。
+将文档导出到图像的保存选项。
 
 ```csharp
 public class ExportImageSaveOptions : ImageSaveOptions
@@ -25,17 +25,17 @@ public class ExportImageSaveOptions : ImageSaveOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AddMissingExtenstion](../../groupdocs.signature.options/saveoptions/addmissingextenstion) { get; set; } | 获取或设置标志以在输出文件路径中缺少扩展名时自动添加扩展名 默认值为 false。 |
+| [AddMissingExtenstion](../../groupdocs.signature.options/saveoptions/addmissingextenstion) { get; set; } | 获取或设置标志以在输出文件路径中缺少扩展名时自动添加扩展名 path 默认值为 false. |
 | [Border](../../groupdocs.signature.options/exportimagesaveoptions/border) { get; set; } | 获取或设置图像边框设置。默认情况下未设置此值。 |
-| [ExportAllPages](../../groupdocs.signature.options/exportimagesaveoptions/exportallpages) { get; set; } | 导出每个页面的标志。 |
+| [ExportAllPages](../../groupdocs.signature.options/exportimagesaveoptions/exportallpages) { get; set; } | 标志导出每一页。 |
 | [FileFormat](../../groupdocs.signature.options/imagesaveoptions/fileformat) { get; set; } | 获取或设置签名文档的文件格式。 |
 | [OverwriteExistingFiles](../../groupdocs.signature.options/saveoptions/overwriteexistingfiles) { get; set; } | 获取或设置是否用新的输出文件覆盖现有文件。 否则将创建以数字为后缀的新文件。 默认情况下，此值设置为 true，表示文件将被覆盖。 |
-| [PageColumns](../../groupdocs.signature.options/exportimagesaveoptions/pagecolumns) { get; set; } | 获取或设置导出图像的列数。 如果您需要将图像放在一行中，请使用此属性。 |
-| [PageNumber](../../groupdocs.signature.options/exportimagesaveoptions/pagenumber) { get; set; } | 获取或设置用于导出的文档页码。 最小值为 1。 |
+| [PageColumns](../../groupdocs.signature.options/exportimagesaveoptions/pagecolumns) { get; set; } | 获取或设置导出图像的列数。 如果需要将图像排成一行，请使用此属性。 |
+| [PageNumber](../../groupdocs.signature.options/exportimagesaveoptions/pagenumber) { get; set; } | 获取或设置用于导出的文档页码。 最小值为 1. |
 | [PagesSetup](../../groupdocs.signature.options/exportimagesaveoptions/pagessetup) { get; set; } | 用于指定要签名的页面的选项。 |
-| [Password](../../groupdocs.signature.options/saveoptions/password) { get; set; } | 获取或设置密码以保存带有密码保护的签名文档。 Image 文档不支持此属性。 |
-| [TiffMultipage](../../groupdocs.signature.options/exportimagesaveoptions/tiffmultipage) { get; set; } | 将文档页面放在 Tiff 图像的不同框架上。 |
-| [UseOriginalPassword](../../groupdocs.signature.options/saveoptions/useoriginalpassword) { get; set; } | 获取或设置是否使用 LoadOptions 中的密码将签名文档保存为受保护。 默认值为 true。 图片文档不支持此属性。 |
+| [Password](../../groupdocs.signature.options/saveoptions/password) { get; set; } | 获取或设置密码以保存带密码保护的签名文档。 Image 文档不支持此属性。 |
+| [TiffMultipage](../../groupdocs.signature.options/exportimagesaveoptions/tiffmultipage) { get; set; } | 将文档页面放在 Tiff 图像的不同帧上。 |
+| [UseOriginalPassword](../../groupdocs.signature.options/saveoptions/useoriginalpassword) { get; set; } | 获取或设置是否使用来自 LoadOptions 的密码将签名文档保存为受保护。 默认值为 true。 图像文档不支持此属性。 |
 
 ### 也可以看看
 

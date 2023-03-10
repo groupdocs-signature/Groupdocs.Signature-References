@@ -3,7 +3,7 @@ title: DigitalSearchOptions
 second_title: GroupDocs.Signature for .NET API 参考
 description: 表示数字签名的搜索选项
 type: docs
-weight: 1250
+weight: 1330
 url: /zh/net/groupdocs.signature.options/digitalsearchoptions/
 ---
 ## DigitalSearchOptions class
@@ -25,8 +25,8 @@ public class DigitalSearchOptions : SearchOptions
 | 姓名 | 描述 |
 | --- | --- |
 | [AllPages](../../groupdocs.signature.options/searchoptions/allpages) { get; set; } | 在每个文档页面上搜索的标志。默认情况下，此值设置为 true. |
-| [Comments](../../groupdocs.signature.options/digitalsearchoptions/comments) { get; set; } | 要搜索的数字签名的评论。 |
-| [IssuerName](../../groupdocs.signature.options/digitalsearchoptions/issuername) { get; set; } | 对于非空值，指定要搜索的证书颁发者的专有名称。 |
+| [Comments](../../groupdocs.signature.options/digitalsearchoptions/comments) { get; set; } | 要搜索的数字签名的注释。 |
+| [IssuerName](../../groupdocs.signature.options/digitalsearchoptions/issuername) { get; set; } | 对于非空值，指定要搜索的证书颁发者的可分辨名称。 |
 | [PageNumber](../../groupdocs.signature.options/searchoptions/pagenumber) { get; set; } | 获取或设置用于搜索的文档页码。 值是可选的。 |
 | [PagesSetup](../../groupdocs.signature.options/searchoptions/pagessetup) { get; set; } | 用于指定签名搜索页面的选项。 |
 | [SignDateTimeFrom](../../groupdocs.signature.options/digitalsearchoptions/signdatetimefrom) { get; set; } | 要搜索的数字签名的日期和时间范围。可空值将被忽略。 |
@@ -36,10 +36,10 @@ public class DigitalSearchOptions : SearchOptions
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * GroupDocs.Signature搜索数字电子签名的基本用法： [如何在文档中搜索数字签名](https://docs.groupdocs.com/display/signaturenet/Search+for+Digital+e-signatures)
-* 使用 GroupDocs.Signature 搜索数字电子签名设置的高级用法： [文档中 eSearch 数字签名的高级使用和其他设置](https://docs.groupdocs.com/display/signaturenet/Advanced+search+for+Digital+signatures)
+* 使用 GroupDocs 搜索数字电子签名设置的高级用法。签名： [文档中 eSearch 数字签名的高级用法和其他设置](https://docs.groupdocs.com/display/signaturenet/Advanced+search+for+Digital+signatures)
 
 ### 也可以看看
 

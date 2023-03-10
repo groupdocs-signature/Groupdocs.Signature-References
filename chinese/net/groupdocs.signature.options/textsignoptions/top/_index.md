@@ -1,14 +1,14 @@
 ---
 title: Top
 second_title: GroupDocs.Signature for .NET API 参考
-description: 文档页面上签名的顶部 Y 位置以测量值 像素百分比或毫米见MeasureTypegroupdocs.signature.domain/measuretypeLocationMeasureType 属性. 如果未指定垂直对齐方式则有效.
+description: 文档页面上签名在测量值中的顶部 Y 位置 像素百分比或毫米见MeasureTypegroupdocs.signature.domain/measuretypeLocationMeasureType 属性. 如果未指定垂直对齐则有效.
 type: docs
 weight: 240
 url: /zh/net/groupdocs.signature.options/textsignoptions/top/
 ---
 ## TextSignOptions.Top property
 
-文档页面上签名的顶部 Y 位置以测量值 （像素、百分比或毫米见[`MeasureType`](../../../groupdocs.signature.domain/measuretype)LocationMeasureType 属性）. （如果未指定垂直对齐方式则有效）.
+文档页面上签名在测量值中的顶部 Y 位置 （像素、百分比或毫米见[`MeasureType`](../../../groupdocs.signature.domain/measuretype)LocationMeasureType 属性）. （如果未指定垂直对齐则有效）.
 
 ```csharp
 public int Top { get; set; }

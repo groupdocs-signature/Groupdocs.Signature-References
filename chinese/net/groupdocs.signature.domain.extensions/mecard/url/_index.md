@@ -1,14 +1,14 @@
 ---
 title: Url
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置 URL
+description: 获取或设置 URL.
 type: docs
 weight: 110
 url: /zh/net/groupdocs.signature.domain.extensions/mecard/url/
 ---
 ## MeCard.Url property
 
-获取或设置 URL。
+获取或设置 URL.
 
 ```csharp
 public string Url { get; set; }

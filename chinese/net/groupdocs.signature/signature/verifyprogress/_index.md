@@ -1,14 +1,14 @@
 ---
 title: VerifyProgress
 second_title: GroupDocs.Signature for .NET API 参考
-description: 签名验证过程更改时发生
+description: 签名验证过程进度更改时发生
 type: docs
 weight: 90
 url: /zh/net/groupdocs.signature/signature/verifyprogress/
 ---
 ## Signature.VerifyProgress event
 
-签名验证过程更改时发生。
+签名验证过程进度更改时发生。
 
 ```csharp
 public event ProcessProgressEventHandler VerifyProgress;

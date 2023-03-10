@@ -24,9 +24,9 @@ public VerificationResult Verify(VerifyOptions verifyOptions)
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 有关使用 GroupDocs.Signature 进行电子签名文档验证的更多信息： [如何验证文档是否在 C# 中以电子方式签名](https://docs.groupdocs.com/display/signaturenet/Verify+document+for+signatures)
+* 更多关于使用 GroupDocs.Signature 进行电子签名文档验证的信息： [如何验证文档是否在 C# 中进行了电子签名](https://docs.groupdocs.com/display/signaturenet/Verify+document+for+signatures)
 
 ### 也可以看看
 
@@ -48,7 +48,7 @@ public VerificationResult Verify(List<VerifyOptions> verifyOptionsList)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| verifyOptionsList | List`1 | 签名验证选项集合。实例VerifyOptionsCollection. |
+| verifyOptionsList | List`1 | 签名验证选项集合。的实例VerifyOptionsCollection. |
 
 ### 返回值
 
@@ -56,9 +56,9 @@ public VerificationResult Verify(List<VerifyOptions> verifyOptionsList)
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 有关使用 GroupDocs.Signature 进行电子签名文档验证的更多信息： [如何验证文档是否在 C# 中以电子方式签名](https://docs.groupdocs.com/display/signaturenet/Verify+document+for+signatures)
+* 更多关于使用 GroupDocs.Signature 进行电子签名文档验证的信息： [如何验证文档是否在 C# 中进行了电子签名](https://docs.groupdocs.com/display/signaturenet/Verify+document+for+signatures)
 
 ### 也可以看看
 

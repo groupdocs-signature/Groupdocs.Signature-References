@@ -1,14 +1,14 @@
 ---
 title: IssuerName
 second_title: GroupDocs.Signature for .NET API 参考
-description: 要验证的证书的颁发者名称值区分大小写 如果设置此属性验证将检查签名的颁发者名称是否包含或等于传递的值
+description: 要验证的证书的颁发者名称值区分大小写 如果设置了此属性验证将检查签名的颁发者名称是否包含或等于传递的值
 type: docs
 weight: 70
 url: /zh/net/groupdocs.signature.options/digitalverifyoptions/issuername/
 ---
 ## DigitalVerifyOptions.IssuerName property
 
-要验证的证书的颁发者名称。值区分大小写。 如果设置此属性，验证将检查签名的颁发者名称是否包含或等于传递的值
+要验证的证书的颁发者名称。值区分大小写。 如果设置了此属性，验证将检查签名的颁发者名称是否包含或等于传递的值
 
 ```csharp
 public string IssuerName { get; set; }

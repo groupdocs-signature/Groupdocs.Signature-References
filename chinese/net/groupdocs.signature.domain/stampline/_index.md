@@ -1,14 +1,14 @@
 ---
 title: StampLine
 second_title: GroupDocs.Signature for .NET API 参考
-description: 指定印章线属性
+description: 指定图章行属性
 type: docs
-weight: 880
+weight: 910
 url: /zh/net/groupdocs.signature.domain/stampline/
 ---
 ## StampLine class
 
-指定印章线属性。
+指定图章行属性。
 
 ```csharp
 public class StampLine
@@ -24,16 +24,16 @@ public class StampLine
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BackgroundColor](../../groupdocs.signature.domain/stampline/backgroundcolor) { get; set; } | 获取或设置签名的背景颜色。 |
-| [Font](../../groupdocs.signature.domain/stampline/font) { get; set; } | 获取或设置 Stamp Line text 的字体。 |
+| [BackgroundColor](../../groupdocs.signature.domain/stampline/backgroundcolor) { get; set; } | 获取或设置签名背景色。 |
+| [Font](../../groupdocs.signature.domain/stampline/font) { get; set; } | 获取或设置 Stamp Line 文本的字体。 |
 | [Height](../../groupdocs.signature.domain/stampline/height) { get; set; } | 获取或设置 Stamp 上的行高。 |
-| [InnerBorder](../../groupdocs.signature.domain/stampline/innerborder) { get; set; } | 设置内部边框. |
-| [OuterBorder](../../groupdocs.signature.domain/stampline/outerborder) { get; set; } | 设置外边框. |
-| [Text](../../groupdocs.signature.domain/stampline/text) { get; set; } | 获取或设置印章行文字。 |
+| [InnerBorder](../../groupdocs.signature.domain/stampline/innerborder) { get; set; } | 设置内部边框。 |
+| [OuterBorder](../../groupdocs.signature.domain/stampline/outerborder) { get; set; } | 设置外边框。 |
+| [Text](../../groupdocs.signature.domain/stampline/text) { get; set; } | 获取或设置戳记行的文本。 |
 | [TextBottomIntent](../../groupdocs.signature.domain/stampline/textbottomintent) { get; set; } | 获取或设置文本的底部意图。 |
-| [TextColor](../../groupdocs.signature.domain/stampline/textcolor) { get; set; } | 获取或设置签名的文本颜色。 |
+| [TextColor](../../groupdocs.signature.domain/stampline/textcolor) { get; set; } | 获取或设置签名的文字颜色。 |
 | [TextRepeatType](../../groupdocs.signature.domain/stampline/textrepeattype) { get; set; } | 获取或设置文本重复类型。 |
-| [Visible](../../groupdocs.signature.domain/stampline/visible) { get; set; } | 获取和设置戳线的可见性。 |
+| [Visible](../../groupdocs.signature.domain/stampline/visible) { get; set; } | 获取和设置 Stamp Line 的可见性。 |
 
 ### 也可以看看
 

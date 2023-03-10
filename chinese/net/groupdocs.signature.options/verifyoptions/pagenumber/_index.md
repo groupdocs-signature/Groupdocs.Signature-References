@@ -1,14 +1,14 @@
 ---
 title: PageNumber
 second_title: GroupDocs.Signature for .NET API 参考
-description: 待验证的文档页码如果未设置属性  文档的所有页面将在首次出现时进行验证 最小值为 1.
+description: 要验证的文档页码如果未设置属性  文档的所有页面将在第一次出现时进行验证 最小值为 1.
 type: docs
 weight: 40
 url: /zh/net/groupdocs.signature.options/verifyoptions/pagenumber/
 ---
 ## VerifyOptions.PageNumber property
 
-待验证的文档页码。如果未设置属性 - 文档的所有页面将在首次出现时进行验证。 最小值为 1.
+要验证的文档页码。如果未设置属性 - 文档的所有页面将在第一次出现时进行验证。 最小值为 1.
 
 ```csharp
 public virtual int? PageNumber { get; set; }

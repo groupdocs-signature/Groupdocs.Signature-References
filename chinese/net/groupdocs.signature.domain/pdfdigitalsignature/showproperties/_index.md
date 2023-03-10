@@ -1,14 +1,14 @@
 ---
 title: ShowProperties
 second_title: GroupDocs.Signature for .NET API 参考
-description: 强制显示/隐藏签名属性如果 ShowProperties 为 true则 signature 字段具有预定义的外观格式 由 ContactInfogroupdocs.signature.domain/pdfdigitalsignature/contactinfo 日期日期 原因Reasongroupdocs.signature.domain/pdfdigitalsignature/reason 位置Locationgroupdocs.signature.domain/pdfdigitalsignature/location  ShowProperties 默认为真
+description: 强制显示/隐藏签名属性如果 ShowProperties 为真则 signature 字段具有预定义的外观格式 由  进行数字签名ContactInfogroupdocs.signature.domain/pdfdigitalsignature/contactinfo日期日期 原因Reasongroupdocs.signature.domain/pdfdigitalsignature/reason 位置Locationgroupdocs.signature.domain/pdfdigitalsignature/location  ShowProperties 默认为真
 type: docs
 weight: 50
 url: /zh/net/groupdocs.signature.domain/pdfdigitalsignature/showproperties/
 ---
 ## PdfDigitalSignature.ShowProperties property
 
-强制显示/隐藏签名属性。如果 ShowProperties 为 true，则 signature 字段具有预定义的外观格式 由 {[`ContactInfo`](../contactinfo)} 日期：{日期} 原因：{[`Reason`](../reason)} 位置：{[`Location`](../location) } ShowProperties 默认为真。
+强制显示/隐藏签名属性。如果 ShowProperties 为真，则 signature 字段具有预定义的外观格式 由 { 进行数字签名[`ContactInfo`](../contactinfo)日期：{日期} 原因：{[`Reason`](../reason)} 位置：{[`Location`](../location) } ShowProperties 默认为真。
 
 ```csharp
 public bool ShowProperties { get; set; }

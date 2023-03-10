@@ -3,7 +3,7 @@ title: TextVerticalAlignment
 second_title: GroupDocs.Signature for .NET API 参考
 description: 指定签名内的文本垂直对齐方式
 type: docs
-weight: 990
+weight: 1020
 url: /zh/net/groupdocs.signature.domain/textverticalalignment/
 ---
 ## TextVerticalAlignment enumeration
@@ -18,9 +18,9 @@ public enum TextVerticalAlignment
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Top | `1` | 指定文本顶部对齐到垂直对齐基础。 |
+| Top | `1` | 指定文本顶部对齐到垂直对齐基准。 |
 | Center | `2` | 指定文本以垂直对齐基准为中心。 |
-| Bottom | `3` | 指定文本底部对齐到垂直对齐基础。 |
+| Bottom | `3` | 指定文本底部对齐到垂直对齐基准。 |
 
 ### 也可以看看
 

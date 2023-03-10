@@ -3,7 +3,7 @@ title: DigitalSignature
 second_title: GroupDocs.Signature for .NET API 参考
 description: 包含数字签名属性
 type: docs
-weight: 140
+weight: 150
 url: /zh/net/groupdocs.signature.domain/digitalsignature/
 ---
 ## DigitalSignature class
@@ -19,10 +19,10 @@ public class DigitalSignature : BaseSignature
 | 姓名 | 描述 |
 | --- | --- |
 | [DigitalSignature](digitalsignature#constructor)() | 使用默认参数初始化数字签名。 |
-| [DigitalSignature](digitalsignature#constructor_4)(string) | 使用已知 SignatureId 初始化数字签名。 |
+| [DigitalSignature](digitalsignature#constructor_4)(string) | 使用已知的 SignatureId 初始化数字签名。 |
 | [DigitalSignature](digitalsignature#constructor_1)(X509Certificate2) | 使用指定的证书创建数字签名。 |
 | [DigitalSignature](digitalsignature#constructor_2)(X509Store) | 根据指定的 X509 存储创建数字签名。将使用指定商店的第一个证书。 |
-| [DigitalSignature](digitalsignature#constructor_3)(X509Store, int) | 根据指定的X509存储和证书索引创建数字签名。 |
+| [DigitalSignature](digitalsignature#constructor_3)(X509Store, int) | 根据指定的 X509 Store 和证书索引创建数字签名。 |
 
 ## 特性
 
@@ -33,20 +33,20 @@ public class DigitalSignature : BaseSignature
 | [CertificateStoreName](../../groupdocs.signature.domain/digitalsignature/certificatestorename) { get; set; } | 指定证书的存储名称。 |
 | [Comments](../../groupdocs.signature.domain/digitalsignature/comments) { get; set; } | 获取或设置签名目的注释。 |
 | [CreatedOn](../../groupdocs.signature.domain/basesignature/createdon) { get; set; } | 获取或设置签名创建日期。 |
-| [Deleted](../../groupdocs.signature.domain/basesignature/deleted) { get; } | 获取指示此签名是否已从文档中删除的标志。 此属性仅用于文档历史日志记录，以保留已删除签名的列表。 |
-| [Height](../../groupdocs.signature.domain/basesignature/height) { get; set; } | 指定签名的高度。 |
+| [Deleted](../../groupdocs.signature.domain/basesignature/deleted) { get; } | 获取指示此签名是否已从文档中删除的标志。 此属性仅用于文档历史日志记录以保留已删除签名的列表。 |
+| [Height](../../groupdocs.signature.domain/basesignature/height) { get; set; } | 指定签名高度。 |
 | [IsSignature](../../groupdocs.signature.domain/basesignature/issignature) { get; set; } | 获取或设置标志以指示此组件是签名还是文档内容。 此属性与 Update 方法一起使用以将元素设置为签名 (true) 或文档元素 (false)。 |
 | [IsValid](../../groupdocs.signature.domain/digitalsignature/isvalid) { get; set; } | 如果此数字签名有效且文档未被篡改，则为真。 |
 | [Left](../../groupdocs.signature.domain/basesignature/left) { get; set; } | 指定签名的左侧位置。 |
-| [ModifiedOn](../../groupdocs.signature.domain/basesignature/modifiedon) { get; set; } | 获取或设置签名修改日期 |
-| [PageNumber](../../groupdocs.signature.domain/basesignature/pagenumber) { get; } | 指定页面签名位于。 |
-| [SignatureId](../../groupdocs.signature.domain/basesignature/signatureid) { get; } | 通过更新或删除方法修改文档中签名的唯一签名标识符。 在调用签名或搜索方法后将自动设置此属性。 如果此属性在手动设置以操作签名之前保存。 |
-| [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | 指定签名的类型。 |
-| [SignTime](../../groupdocs.signature.domain/digitalsignature/signtime) { get; set; } | 获取或设置文档签署的时间。 |
+| [ModifiedOn](../../groupdocs.signature.domain/basesignature/modifiedon) { get; set; } | 获取或设置签名修改日期。 |
+| [PageNumber](../../groupdocs.signature.domain/basesignature/pagenumber) { get; } | 指定找到的页面签名。 |
+| [SignatureId](../../groupdocs.signature.domain/basesignature/signatureid) { get; } | 用于通过 Update 或 Delete 方法修改文档中签名的唯一签名标识符。 此属性将在调用 Sign 或 Search 方法后自动设置。 如果此属性在可以手动设置之前保存以操作签名。 |
+| [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | 指定签名类型。 |
+| [SignTime](../../groupdocs.signature.domain/digitalsignature/signtime) { get; set; } | 获取或设置文档签名的时间。 |
 | [Thumbprint](../../groupdocs.signature.domain/digitalsignature/thumbprint) { get; } | 获取证书的指纹。 |
 | [Top](../../groupdocs.signature.domain/basesignature/top) { get; set; } | 指定签名的顶部位置。 |
-| [Width](../../groupdocs.signature.domain/basesignature/width) { get; set; } | 指定签名的宽度。 |
-| [XAdESType](../../groupdocs.signature.domain/digitalsignature/xadestype) { get; } | XAdES 类型[`XAdESType`](./xadestype).默认值为无（XAdES 关闭）。 目前仅电子表格文档支持 XAdES 签名类型。 |
+| [Width](../../groupdocs.signature.domain/basesignature/width) { get; set; } | 指定签名宽度。 |
+| [XAdESType](../../groupdocs.signature.domain/digitalsignature/xadestype) { get; } | XAdES 类型[`XAdESType`](./xadestype).默认值为无（XAdES 已关闭）。 目前仅电子表格文档支持 XAdES 签名类型。 |
 
 ## 方法
 
@@ -56,8 +56,8 @@ public class DigitalSignature : BaseSignature
 | override [Equals](../../groupdocs.signature.domain/digitalsignature/equals)(object) | 覆盖 Equals 方法以比较签名属性 |
 | override [GetHashCode](../../groupdocs.signature.domain/digitalsignature/gethashcode)() | 覆盖 GetHashCode 方法 |
 | static [LoadDigitalSignatures](../../groupdocs.signature.domain/digitalsignature/loaddigitalsignatures#loaddigitalsignatures)() | 从所有系统 X509 证书存储中加载数字签名。 |
-| static [LoadDigitalSignatures](../../groupdocs.signature.domain/digitalsignature/loaddigitalsignatures#loaddigitalsignatures_1)(StoreName) | 从通过的 X509 证书存储中加载数字签名。 |
-| static [LoadDigitalSignatures](../../groupdocs.signature.domain/digitalsignature/loaddigitalsignatures#loaddigitalsignatures_2)(StoreName, StoreLocation) | 从通过的 X509 证书存储中加载数字签名。 |
+| static [LoadDigitalSignatures](../../groupdocs.signature.domain/digitalsignature/loaddigitalsignatures#loaddigitalsignatures_1)(StoreName) | 从已通过的 X509 证书库加载数字签名。 |
+| static [LoadDigitalSignatures](../../groupdocs.signature.domain/digitalsignature/loaddigitalsignatures#loaddigitalsignatures_2)(StoreName, StoreLocation) | 从已通过的 X509 证书库加载数字签名。 |
 
 ### 也可以看看
 

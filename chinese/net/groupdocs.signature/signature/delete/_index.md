@@ -20,14 +20,14 @@ public bool Delete(BaseSignature signature)
 
 ### 返回值
 
-如果操作成功，则返回 true。
+如果操作成功则返回 true。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于如何在 C# 中从文档中删除电子签名： [如何使用 GroupDocs.Signature 从文档中删除电子签名](https://docs.groupdocs.com/display/signaturenet/Delete+signatures+from+documents)
-* 删除文档电子签名的高级用例： [如何在 C# 中从文档中删除不同类型的电子签名](https://docs.groupdocs.com/display/signaturenet/Deleting)
+* 有关如何在 C# 中从文档中删除电子签名的更多信息： [如何使用 GroupDocs.Signature 从文档中删除电子签名](https://docs.groupdocs.com/display/signaturenet/Delete+signatures+from+documents)
+* 删除文档电子签名的高级用例： [如何从 C# 中的文档中删除不同类型的电子签名](https://docs.groupdocs.com/display/signaturenet/Deleting)
 
 ### 也可以看看
 
@@ -40,7 +40,7 @@ public bool Delete(BaseSignature signature)
 
 ## Delete(List&lt;BaseSignature&gt;) {#delete_3}
 
-删除通过的签名列表[`BaseSignature`](../../../groupdocs.signature.domain/basesignature)来自文档.
+删除传递的签名列表[`BaseSignature`](../../../groupdocs.signature.domain/basesignature)来自文档.
 
 ```csharp
 public DeleteResult Delete(List<BaseSignature> signatures)
@@ -56,10 +56,10 @@ public DeleteResult Delete(List<BaseSignature> signatures)
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于如何在 C# 中从文档中删除电子签名： [如何使用 GroupDocs.Signature 从文档中删除电子签名](https://docs.groupdocs.com/display/signaturenet/Delete+signatures+from+documents)
-* 删除文档电子签名的高级用例： [如何在 C# 中从文档中删除不同类型的电子签名](https://docs.groupdocs.com/display/signaturenet/Deleting)
+* 有关如何在 C# 中从文档中删除电子签名的更多信息： [如何使用 GroupDocs.Signature 从文档中删除电子签名](https://docs.groupdocs.com/display/signaturenet/Delete+signatures+from+documents)
+* 删除文档电子签名的高级用例： [如何从 C# 中的文档中删除不同类型的电子签名](https://docs.groupdocs.com/display/signaturenet/Deleting)
 
 ### 也可以看看
 
@@ -73,7 +73,7 @@ public DeleteResult Delete(List<BaseSignature> signatures)
 
 ## Delete(SignatureType) {#delete_2}
 
-删除特定类型的签名[`SignatureType`](../../../groupdocs.signature.domain/signaturetype)来自文档。 仅由 Sign 方法添加并标记为 Signatures 的签名[`IsSignature`](../../../groupdocs.signature.domain/basesignature/issignature)将被删除。 支持以下签名类型：文本、图像、数字、条形码、二维码
+删除特定类型的签名[`SignatureType`](../../../groupdocs.signature.domain/signaturetype)来自文档. 只有通过 Sign 方法添加并标记为 Signatures 的签名[`IsSignature`](../../../groupdocs.signature.domain/basesignature/issignature)将被删除。 支持以下签名类型：文本、图像、数字、条形码、二维码
 
 ```csharp
 public DeleteResult Delete(SignatureType signatureType)
@@ -89,10 +89,10 @@ public DeleteResult Delete(SignatureType signatureType)
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于如何在 C# 中从文档中删除电子签名： [如何使用 GroupDocs.Signature 从文档中删除具有特定类型的电子签名](https://docs.groupdocs.com/signature/net/delete+signatures+of+the+certain+type/)
-* 删除文档电子签名的高级用例： [如何在 C# 中从文档中删除不同类型的电子签名](https://docs.groupdocs.com/display/signaturenet/Deleting)
+* 有关如何在 C# 中从文档中删除电子签名的更多信息： [如何使用 GroupDocs.Signature 从文档中删除特定类型的电子签名](https://docs.groupdocs.com/signature/net/delete+signatures+of+the+certain+type/)
+* 删除文档电子签名的高级用例： [如何从 C# 中的文档中删除不同类型的电子签名](https://docs.groupdocs.com/display/signaturenet/Deleting)
 
 ### 也可以看看
 
@@ -106,7 +106,7 @@ public DeleteResult Delete(SignatureType signatureType)
 
 ## Delete(List&lt;SignatureType&gt;) {#delete_4}
 
-删除特定类型列表的签名[`SignatureType`](../../../groupdocs.signature.domain/signaturetype)来自文档。 仅由 Sign 方法添加并标记为 Signatures 的签名[`IsSignature`](../../../groupdocs.signature.domain/basesignature/issignature)将被删除。 支持以下签名类型：文本、图像、数字、条形码、二维码
+删除特定类型列表的签名[`SignatureType`](../../../groupdocs.signature.domain/signaturetype)来自文档. 只有通过 Sign 方法添加并标记为 Signatures 的签名[`IsSignature`](../../../groupdocs.signature.domain/basesignature/issignature)将被删除。 支持以下签名类型：文本、图像、数字、条形码、二维码
 
 ```csharp
 public DeleteResult Delete(List<SignatureType> signatureTypes)
@@ -122,10 +122,10 @@ public DeleteResult Delete(List<SignatureType> signatureTypes)
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于如何在 C# 中从文档中删除电子签名： [如何使用 GroupDocs.Signature 从文档中删除具有特定类型的电子签名](https://docs.groupdocs.com/signature/net/delete+signatures+of+the+certain+types/)
-* 删除文档电子签名的高级用例： [如何在 C# 中从文档中删除不同类型的电子签名](https://docs.groupdocs.com/display/signaturenet/Deleting)
+* 有关如何在 C# 中从文档中删除电子签名的更多信息： [如何使用 GroupDocs.Signature 从文档中删除特定类型的电子签名](https://docs.groupdocs.com/signature/net/delete+signatures+of+the+certain+types/)
+* 删除文档电子签名的高级用例： [如何从 C# 中的文档中删除不同类型的电子签名](https://docs.groupdocs.com/display/signaturenet/Deleting)
 
 ### 也可以看看
 
@@ -139,7 +139,7 @@ public DeleteResult Delete(List<SignatureType> signatureTypes)
 
 ## Delete(string) {#delete_1}
 
-按其特定签名 ID 从文档中删除签名。
+从文档中删除其特定签名 ID 的签名。
 
 ```csharp
 public bool Delete(string signatureId)
@@ -151,14 +151,14 @@ public bool Delete(string signatureId)
 
 ### 返回值
 
-如果操作成功，则返回 true。
+如果操作成功则返回 true。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于如何在 C# 中从文档中删除电子签名： [如何使用 GroupDocs.Signature 从文档中删除电子签名](https://docs.groupdocs.com/display/signaturenet/Delete+signatures+from+documents)
-* 删除文档电子签名的高级用例： [如何在 C# 中从文档中删除不同类型的电子签名](https://docs.groupdocs.com/display/signaturenet/Deleting)
+* 有关如何在 C# 中从文档中删除电子签名的更多信息： [如何使用 GroupDocs.Signature 从文档中删除电子签名](https://docs.groupdocs.com/display/signaturenet/Delete+signatures+from+documents)
+* 删除文档电子签名的高级用例： [如何从 C# 中的文档中删除不同类型的电子签名](https://docs.groupdocs.com/display/signaturenet/Deleting)
 
 ### 也可以看看
 
@@ -170,7 +170,7 @@ public bool Delete(string signatureId)
 
 ## Delete(List&lt;string&gt;) {#delete_5}
 
-删除通过的签名列表[`BaseSignature`](../../../groupdocs.signature.domain/basesignature)来自文档.
+删除传递的签名列表[`BaseSignature`](../../../groupdocs.signature.domain/basesignature)来自文档.
 
 ```csharp
 public DeleteResult Delete(List<string> signatureIds)
@@ -186,10 +186,10 @@ public DeleteResult Delete(List<string> signatureIds)
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于如何在 C# 中从文档中删除电子签名： [如何使用 GroupDocs.Signature 从文档中删除电子签名](https://docs.groupdocs.com/display/signaturenet/Delete+signatures+from+documents)
-* 删除文档电子签名的高级用例： [如何在 C# 中从文档中删除不同类型的电子签名](https://docs.groupdocs.com/display/signaturenet/Deleting)
+* 有关如何在 C# 中从文档中删除电子签名的更多信息： [如何使用 GroupDocs.Signature 从文档中删除电子签名](https://docs.groupdocs.com/display/signaturenet/Delete+signatures+from+documents)
+* 删除文档电子签名的高级用例： [如何从 C# 中的文档中删除不同类型的电子签名](https://docs.groupdocs.com/display/signaturenet/Deleting)
 
 ### 也可以看看
 

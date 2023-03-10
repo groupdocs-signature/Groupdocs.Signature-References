@@ -3,12 +3,12 @@ title: TryParse
 second_title: GroupDocs.Signature for .NET API 参考
 description: 返回带有 pasringType 名称的 QRCode 类型 如果 QRCode 的名称未知  不会抛出异常但方法将返回空值
 type: docs
-weight: 80
+weight: 110
 url: /zh/net/groupdocs.signature.domain/qrcodetypes/tryparse/
 ---
 ## QrCodeTypes.TryParse method
 
-返回带有 pasringType 名称的 QRCode 类型。 如果 QRCode 的名称未知 - 不会抛出异常但方法将返回空值。
+返回带有 pasringType 名称的 QRCode 类型。 如果 QRCode 的名称未知 - 不会抛出异常，但方法将返回空值。
 
 ```csharp
 public static QrCodeType TryParse(string parsingType)
@@ -16,7 +16,7 @@ public static QrCodeType TryParse(string parsingType)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| parsingType | String | 二维码类型名称的源字符串。 |
+| parsingType | String | QRCode 类型名称的来源字符串。 |
 
 ### 返回值
 

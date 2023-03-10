@@ -1,14 +1,14 @@
 ---
 title: OPC
 second_title: GroupDocs.Signature for .NET API 参考
-description: OPC 条形码类型对象
+description: OPC 条码类型对象
 type: docs
-weight: 460
+weight: 490
 url: /zh/net/groupdocs.signature.domain/barcodetypes/opc/
 ---
 ## BarcodeTypes.OPC field
 
-OPC 条形码类型对象。
+OPC 条码类型对象。
 
 ```csharp
 public static readonly BarcodeType OPC;

@@ -1,14 +1,14 @@
 ---
 title: Subject
 second_title: GroupDocs.Signature for .NET API 参考
-description: 待验证的文本注释主题 如果等于空字符串或null则不进行验证
+description: 待验证文本注释的主题 如果等于空字符串或 null 则不被验证
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.options/pdftextannotationverifyextensions/subject/
 ---
 ## PdfTextAnnotationVerifyExtensions.Subject property
 
-待验证的文本注释主题。 如果等于空字符串或null，则不进行验证。
+待验证文本注释的主题。 如果等于空字符串或 null 则不被验证。
 
 ```csharp
 public string Subject { get; set; }

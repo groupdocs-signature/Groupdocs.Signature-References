@@ -1,14 +1,14 @@
 ---
 title: SingaporePost
 second_title: GroupDocs.Signature for .NET API 参考
-description: 新加坡邮政条码类型对象
+description: SingaporePost 条形码类型对象
 type: docs
-weight: 550
+weight: 580
 url: /zh/net/groupdocs.signature.domain/barcodetypes/singaporepost/
 ---
 ## BarcodeTypes.SingaporePost field
 
-新加坡邮政条码类型对象。
+SingaporePost 条形码类型对象。
 
 ```csharp
 public static readonly BarcodeType SingaporePost;

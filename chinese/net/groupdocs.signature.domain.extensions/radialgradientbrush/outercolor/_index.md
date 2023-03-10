@@ -1,14 +1,14 @@
 ---
 title: OuterColor
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置外部渐变颜色
+description: 获取或设置外部渐变色
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.domain.extensions/radialgradientbrush/outercolor/
 ---
 ## RadialGradientBrush.OuterColor property
 
-获取或设置外部渐变颜色。
+获取或设置外部渐变色。
 
 ```csharp
 public Color OuterColor { get; set; }

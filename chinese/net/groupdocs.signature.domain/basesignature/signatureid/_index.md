@@ -1,14 +1,14 @@
 ---
 title: SignatureId
 second_title: GroupDocs.Signature for .NET API 参考
-description: 通过更新或删除方法修改文档中签名的唯一签名标识符 在调用签名或搜索方法后将自动设置此属性 如果此属性在手动设置以操作签名之前保存
+description: 用于通过 Update 或 Delete 方法修改文档中签名的唯一签名标识符 此属性将在调用 Sign 或 Search 方法后自动设置 如果此属性在可以手动设置之前保存以操作签名
 type: docs
 weight: 80
 url: /zh/net/groupdocs.signature.domain/basesignature/signatureid/
 ---
 ## BaseSignature.SignatureId property
 
-通过更新或删除方法修改文档中签名的唯一签名标识符。 在调用签名或搜索方法后将自动设置此属性。 如果此属性在手动设置以操作签名之前保存。
+用于通过 Update 或 Delete 方法修改文档中签名的唯一签名标识符。 此属性将在调用 Sign 或 Search 方法后自动设置。 如果此属性在可以手动设置之前保存以操作签名。
 
 ```csharp
 public string SignatureId { get; }

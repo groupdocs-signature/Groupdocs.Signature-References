@@ -24,7 +24,7 @@ public MetadataSignOptions()
 
 ## MetadataSignOptions(IEnumerable&lt;MetadataSignature&gt;) {#constructor_1}
 
-使用 Metadata 初始化 MetadataSignOptions 类的新实例。
+使用元数据初始化 MetadataSignOptions 类的新实例。
 
 ```csharp
 public MetadataSignOptions(IEnumerable<MetadataSignature> signatures)

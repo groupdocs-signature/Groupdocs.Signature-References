@@ -1,14 +1,14 @@
 ---
 title: Grayscale
 second_title: GroupDocs.Signature for .NET API 参考
-description: 如果需要灰度过滤器则将此标志设置为真
+description: 如果需要灰度滤镜则将此标志设置为真
 type: docs
 weight: 50
 url: /zh/net/groupdocs.signature.options.appearances/imageappearance/grayscale/
 ---
 ## ImageAppearance.Grayscale property
 
-如果需要灰度过滤器，则将此标志设置为真。
+如果需要灰度滤镜，则将此标志设置为真。
 
 ```csharp
 public bool Grayscale { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: ReleasePageStream
 second_title: GroupDocs.Signature for .NET API 参考
-description: 定义释放输出页面预览流的方法的委托
+description: 定义释放输出页面预览流方法的委托
 type: docs
-weight: 1570
+weight: 1650
 url: /zh/net/groupdocs.signature.options/releasepagestream/
 ---
 ## ReleasePageStream delegate
 
-定义释放输出页面预览流的方法的委托。
+定义释放输出页面预览流方法的委托。
 
 ```csharp
 public delegate void ReleasePageStream(int pageNumber, Stream pageStream);
@@ -17,7 +17,7 @@ public delegate void ReleasePageStream(int pageNumber, Stream pageStream);
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | pageNumber | Int32 | 预览页数。 |
-| pageStream | Stream | 要发布的页面流。 |
+| pageStream | Stream | 要释放的页面流。 |
 
 ### 也可以看看
 

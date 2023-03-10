@@ -1,14 +1,14 @@
 ---
 title: Code93Extended
 second_title: GroupDocs.Signature for .NET API 参考
-description: Code93 扩展条码类型对象
+description: Code93Extended Barcode Type 对象
 type: docs
 weight: 120
 url: /zh/net/groupdocs.signature.domain/barcodetypes/code93extended/
 ---
 ## BarcodeTypes.Code93Extended field
 
-Code93 扩展条码类型对象。
+Code93Extended Barcode Type 对象。
 
 ```csharp
 public static readonly BarcodeType Code93Extended;

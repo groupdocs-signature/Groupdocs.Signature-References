@@ -1,14 +1,14 @@
 ---
 title: Text
 second_title: GroupDocs.Signature for .NET API 参考
-description: 指定二维码签名文本是否应该被搜索和匹配
+description: 指定 QR 码签名文本是否应该被搜索和匹配
 type: docs
 weight: 70
 url: /zh/net/groupdocs.signature.options/qrcodesearchoptions/text/
 ---
 ## QrCodeSearchOptions.Text property
 
-指定二维码签名文本是否应该被搜索和匹配。
+指定 QR 码签名文本是否应该被搜索和匹配。
 
 ```csharp
 public string Text { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Email
 second_title: GroupDocs.Signature for .NET API 参考
-description: 代表 QR 码的电子邮件格式
+description: 表示 QR 码的电子邮件格式
 type: docs
-weight: 220
+weight: 240
 url: /zh/net/groupdocs.signature.domain.extensions/email/
 ---
 ## Email class
 
-代表 QR 码的电子邮件格式。
+表示 QR 码的电子邮件格式。
 
 ```csharp
 public class Email
@@ -25,14 +25,14 @@ public class Email
 | 姓名 | 描述 |
 | --- | --- |
 | [Address](../../groupdocs.signature.domain.extensions/email/address) { get; set; } | 获取或设置电子邮件地址。 |
-| [Body](../../groupdocs.signature.domain.extensions/email/body) { get; set; } | 获取或设置电子邮件的正文。 |
+| [Body](../../groupdocs.signature.domain.extensions/email/body) { get; set; } | 获取或设置电子邮件正文。 |
 | [Subject](../../groupdocs.signature.domain.extensions/email/subject) { get; set; } | 获取或设置电子邮件主题。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Equals](../../groupdocs.signature.domain.extensions/email/equals)(object) | 覆盖 Equals 方法来比较电子邮件属性 |
+| override [Equals](../../groupdocs.signature.domain.extensions/email/equals)(object) | 覆盖 Equals 方法以比较电子邮件属性 |
 | override [GetHashCode](../../groupdocs.signature.domain.extensions/email/gethashcode)() | 覆盖 GetHashCode 方法 |
 
 ### 也可以看看

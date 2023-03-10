@@ -1,14 +1,14 @@
 ---
 title: ReturnContent
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置标志以抓取文档页面上签名的图像内容 如果此标志设置为true则图像签名内容将按要求的格式保留原始图像数据ReturnContentTypegroupdocs.signature.options/imagesearchoptions/returncontenttype. 默认情况下禁用此选项
+description: 获取或设置标志以抓取文档页面签名的图像内容 如果设置此标志为真图像签名内容将按要求的格式保留原始图像数据ReturnContentTypegroupdocs.signature.options/imagesearchoptions/returncontenttype. 默认情况下禁用此选项
 type: docs
 weight: 40
 url: /zh/net/groupdocs.signature.options/imagesearchoptions/returncontent/
 ---
 ## ImageSearchOptions.ReturnContent property
 
-获取或设置标志以抓取文档页面上签名的图像内容。 如果此标志设置为true，则图像签名内容将按要求的格式保留原始图像数据[`ReturnContentType`](../returncontenttype). 默认情况下禁用此选项。
+获取或设置标志以抓取文档页面签名的图像内容。 如果设置此标志为真，图像签名内容将按要求的格式保留原始图像数据[`ReturnContentType`](../returncontenttype). 默认情况下禁用此选项。
 
 ```csharp
 public bool ReturnContent { get; set; }

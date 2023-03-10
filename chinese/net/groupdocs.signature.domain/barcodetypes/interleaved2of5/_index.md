@@ -3,7 +3,7 @@ title: Interleaved2of5
 second_title: GroupDocs.Signature for .NET API 参考
 description: Interleaved2of5 条码类型对象
 type: docs
-weight: 320
+weight: 350
 url: /zh/net/groupdocs.signature.domain/barcodetypes/interleaved2of5/
 ---
 ## BarcodeTypes.Interleaved2of5 field

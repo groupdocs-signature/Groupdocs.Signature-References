@@ -1,14 +1,14 @@
 ---
 title: ColorType
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置PngColorTypegroupdocs.signature.options/pngcolortype.
+description: 获取或设置类型PngColorTypegroupdocs.signature.options/pngcolortype.
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.options/pngsaveoptions/colortype/
 ---
 ## PngSaveOptions.ColorType property
 
-获取或设置[`PngColorType`](../../pngcolortype).
+获取或设置类型[`PngColorType`](../../pngcolortype).
 
 ```csharp
 public PngColorType ColorType { get; set; }

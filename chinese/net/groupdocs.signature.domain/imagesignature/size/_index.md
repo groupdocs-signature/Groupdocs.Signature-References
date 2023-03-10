@@ -1,14 +1,14 @@
 ---
 title: Size
 second_title: GroupDocs.Signature for .NET API 参考
-description: 指定签名图像的大小以字节为单位
+description: 指定签名图像的字节大小
 type: docs
 weight: 40
 url: /zh/net/groupdocs.signature.domain/imagesignature/size/
 ---
 ## ImageSignature.Size property
 
-指定签名图像的大小（以字节为单位）。
+指定签名图像的字节大小。
 
 ```csharp
 public int Size { get; }

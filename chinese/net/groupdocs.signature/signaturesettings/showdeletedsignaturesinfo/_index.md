@@ -1,14 +1,14 @@
 ---
 title: ShowDeletedSignaturesInfo
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置包含已删除签名到文档信息结果中的标志 每个签名BaseSignaturegroupdocs.signature.domain/basesignature已删除标志Deletedgroupdocs.signature.domain/basesignature/deleted检测它是否被删除
+description: 获取或设置将已删除签名包含到文档信息结果中的标志 每个签名BaseSignaturegroupdocs.signature.domain/basesignature已删除标志Deletedgroupdocs.signature.domain/basesignature/deleted检测是否被删除.
 type: docs
-weight: 50
+weight: 80
 url: /zh/net/groupdocs.signature/signaturesettings/showdeletedsignaturesinfo/
 ---
 ## SignatureSettings.ShowDeletedSignaturesInfo property
 
-获取或设置包含已删除签名到文档信息结果中的标志。 每个签名[`BaseSignature`](../../../groupdocs.signature.domain/basesignature)已删除标志[`Deleted`](../../../groupdocs.signature.domain/basesignature/deleted)检测它是否被删除。
+获取或设置将已删除签名包含到文档信息结果中的标志。 每个签名[`BaseSignature`](../../../groupdocs.signature.domain/basesignature)已删除标志[`Deleted`](../../../groupdocs.signature.domain/basesignature/deleted)检测是否被删除.
 
 ```csharp
 public bool ShowDeletedSignaturesInfo { get; set; }

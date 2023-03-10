@@ -3,7 +3,7 @@ title: PreviewOptions
 second_title: GroupDocs.Signature for .NET API 参考
 description: 表示文档预览选项
 type: docs
-weight: 1500
+weight: 1580
 url: /zh/net/groupdocs.signature.options/previewoptions/
 ---
 ## PreviewOptions class
@@ -26,7 +26,7 @@ public class PreviewOptions
 | 姓名 | 描述 |
 | --- | --- |
 | [Height](../../groupdocs.signature.options/previewoptions/height) { get; set; } | 获取或设置预览图像高度。 |
-| [HideSignatures](../../groupdocs.signature.options/previewoptions/hidesignatures) { get; set; } | 获取或设置从页面预览图像中隐藏签名的标志。 只有标记为 IsSignature 的签名才会从生成的文档页面图像中隐藏。 |
+| [HideSignatures](../../groupdocs.signature.options/previewoptions/hidesignatures) { get; set; } | 获取或设置标志以从页面预览图像中隐藏签名。 只有签名被标记为 IsSignature 才会从生成的文档页面图像中隐藏。 |
 | [PageNumbers](../../groupdocs.signature.options/previewoptions/pagenumbers) { get; set; } | 获取或设置预览图像页码。 |
 | [PreviewFormat](../../groupdocs.signature.options/previewoptions/previewformat) { get; set; } | 获取或设置预览图像格式。 |
 | [Width](../../groupdocs.signature.options/previewoptions/width) { get; set; } | 获取或设置预览图像宽度。 |

@@ -3,7 +3,7 @@ title: ProcessCompleteEventArgs
 second_title: GroupDocs.Signature for .NET API 参考
 description: 提供有关签名验证和搜索过程的完整事件的数据
 type: docs
-weight: 1730
+weight: 1810
 url: /zh/net/groupdocs.signature/processcompleteeventargs/
 ---
 ## ProcessCompleteEventArgs class
@@ -20,9 +20,9 @@ public class ProcessCompleteEventArgs : ProcessEventArgs
 | --- | --- |
 | [Canceled](../../groupdocs.signature/processcompleteeventargs/canceled) { get; } | 表示进程是否被取消。 |
 | [Completed](../../groupdocs.signature/processcompleteeventargs/completed) { get; set; } | 表示进程完成的时间标记。 |
-| [Status](../../groupdocs.signature/processeventargs/status) { get; set; } | 表示当前进程状态。 |
+| [Status](../../groupdocs.signature/processeventargs/status) { get; set; } | 指示当前进程状态。 |
 | [Ticks](../../groupdocs.signature/processcompleteeventargs/ticks) { get; set; } | 表示自进程启动事件以来花费的时间（以毫秒为单位）。 |
-| [TotalSignatures](../../groupdocs.signature/processcompleteeventargs/totalsignatures) { get; set; } | 表示已处理签名的总数。 |
+| [TotalSignatures](../../groupdocs.signature/processcompleteeventargs/totalsignatures) { get; set; } | 表示处理签名的总量。 |
 
 ### 也可以看看
 

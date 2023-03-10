@@ -1,14 +1,14 @@
 ---
 title: BarcodeSignatures
 second_title: GroupDocs.Signature for .NET API 参考
-description: 添加或更新的文档条形码签名集合Signaturegroupdocs.signature/signature方法.
+description: 添加或更新的文档条码签名集合Signaturegroupdocs.signature/signature方法.
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.domain/documentinfo/barcodesignatures/
 ---
 ## DocumentInfo.BarcodeSignatures property
 
-添加或更新的文档条形码签名集合[`Signature`](../../../groupdocs.signature/signature)方法.
+添加或更新的文档条码签名集合[`Signature`](../../../groupdocs.signature/signature)方法.
 
 ```csharp
 public IList<BarcodeSignature> BarcodeSignatures { get; }

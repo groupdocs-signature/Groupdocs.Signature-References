@@ -1,14 +1,14 @@
 ---
 title: SignatureType
 second_title: GroupDocs.Signature for .NET API 参考
-description: 指定签名的类型
+description: 指定签名类型
 type: docs
 weight: 90
 url: /zh/net/groupdocs.signature.domain/basesignature/signaturetype/
 ---
 ## BaseSignature.SignatureType property
 
-指定签名的类型。
+指定签名类型。
 
 ```csharp
 public SignatureType SignatureType { get; }

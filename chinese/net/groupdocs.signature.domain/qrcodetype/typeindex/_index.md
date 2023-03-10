@@ -1,14 +1,14 @@
 ---
 title: TypeIndex
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取支持的二维码类型集合中的对象索引
+description: 获取支持的 QRCode 类型集合中对象的索引
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.domain/qrcodetype/typeindex/
 ---
 ## QrCodeType.TypeIndex property
 
-获取支持的二维码类型集合中的对象索引。
+获取支持的 QRCode 类型集合中对象的索引。
 
 ```csharp
 public int TypeIndex { get; }

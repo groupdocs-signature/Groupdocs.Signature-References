@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: GroupDocs.Signature for .NET API 参考
-description: 覆盖等于方法
+description: 覆盖等于 method
 type: docs
 weight: 90
 url: /zh/net/groupdocs.signature.domain/corners/equals/
 ---
 ## Corners.Equals method
 
-覆盖等于方法
+覆盖等于 method
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,7 +16,7 @@ public override bool Equals(object obj)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| obj | Object | 要比较的实例。 |
+| obj | Object | 要与之比较的实例。 |
 
 ### 返回值
 

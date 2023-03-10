@@ -1,14 +1,14 @@
 ---
 title: PdfDigitalSignature
 second_title: GroupDocs.Signature for .NET API 参考
-description: 使用无证书初始化 Pdf 数字签名
+description: 在没有证书的情况下初始化 Pdf 数字签名
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.domain/pdfdigitalsignature/pdfdigitalsignature/
 ---
 ## PdfDigitalSignature() {#constructor}
 
-使用无证书初始化 Pdf 数字签名。
+在没有证书的情况下初始化 Pdf 数字签名。
 
 ```csharp
 public PdfDigitalSignature()
@@ -32,7 +32,7 @@ public PdfDigitalSignature(X509Store store)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| store | X509Store | X509 专卖店。 |
+| store | X509Store | X509商店。 |
 
 ### 也可以看看
 
@@ -44,7 +44,7 @@ public PdfDigitalSignature(X509Store store)
 
 ## PdfDigitalSignature(X509Store, int) {#constructor_3}
 
-根据指定的X509存储和证书索引创建Pdf数字签名。
+根据指定的 X509 Store 和证书索引创建 Pdf 数字签名。
 
 ```csharp
 public PdfDigitalSignature(X509Store store, int index)
@@ -52,7 +52,7 @@ public PdfDigitalSignature(X509Store store, int index)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| store | X509Store | X509 专卖店。 |
+| store | X509Store | X509商店。 |
 | index | Int32 | 证书索引。 |
 
 ### 也可以看看
@@ -65,7 +65,7 @@ public PdfDigitalSignature(X509Store store, int index)
 
 ## PdfDigitalSignature(X509Certificate2) {#constructor_1}
 
-使用指定证书创建 Pdf 数字签名。
+使用指定的证书创建 Pdf 数字签名。
 
 ```csharp
 public PdfDigitalSignature(X509Certificate2 certificate)

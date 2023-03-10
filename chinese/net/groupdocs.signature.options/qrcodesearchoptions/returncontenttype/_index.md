@@ -1,14 +1,14 @@
 ---
 title: ReturnContentType
 second_title: GroupDocs.Signature for .NET API 参考
-description: 指定启用 ReturnContent 属性时 QR 码签名的返回图像内容的文件类型 默认设置为 Null这意味着以原始格式返回 QR 码图像内容 此图像格式指定于Formatgroupdocs.signature.domain/qrcodesignature/format 可能支持的值为FileType.JPEGFileType.PNGFileType.BMP 如果不支持提供的格式则将返回原始 .png 中的二维码图像内容
+description: 指定启用ReturnContent 属性时QRCode 签名返回图像内容的文件类型 默认设置为Null即返回原始格式的二维码图片内容 此图像格式指定于Formatgroupdocs.signature.domain/qrcodesignature/format 可能支持的值为FileType.JPEGFileType.PNGFileType.BMP 如果不支持提供的格式将返回原始 .png 中的二维码图像内容
 type: docs
 weight: 60
 url: /zh/net/groupdocs.signature.options/qrcodesearchoptions/returncontenttype/
 ---
 ## QrCodeSearchOptions.ReturnContentType property
 
-指定启用 ReturnContent 属性时 QR 码签名的返回图像内容的文件类型。 默认设置为 Null。这意味着以原始格式返回 QR 码图像内容。 此图像格式指定于[`Format`](../../../groupdocs.signature.domain/qrcodesignature/format) 可能支持的值为：FileType.JPEG、FileType.PNG、FileType.BMP。 如果不支持提供的格式，则将返回原始 .png 中的二维码图像内容。
+指定启用ReturnContent 属性时QR-Code 签名返回图像内容的文件类型。 默认设置为Null。即返回原始格式的二维码图片内容。 此图像格式指定于[`Format`](../../../groupdocs.signature.domain/qrcodesignature/format) 可能支持的值为：FileType.JPEG、FileType.PNG、FileType.BMP。 如果不支持提供的格式，将返回原始 .png 中的二维码图像内容。
 
 ```csharp
 public FileType ReturnContentType { get; set; }

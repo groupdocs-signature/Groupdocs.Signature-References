@@ -3,7 +3,7 @@ title: IDataEncryption
 second_title: GroupDocs.Signature for .NET API 参考
 description: 提供对象编码和解码方法的加密接口
 type: docs
-weight: 250
+weight: 270
 url: /zh/net/groupdocs.signature.domain.extensions/idataencryption/
 ---
 ## IDataEncryption interface
@@ -18,8 +18,8 @@ public interface IDataEncryption
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Decode](../../groupdocs.signature.domain.extensions/idataencryption/decode)(string) | 获取解密字符串的解码方法 |
-| [Encode](../../groupdocs.signature.domain.extensions/idataencryption/encode)(string) | 加密字符串的编码方法。 |
+| [Decode](../../groupdocs.signature.domain.extensions/idataencryption/decode)(string) | Decode方法获取解密后的字符串。 |
+| [Encode](../../groupdocs.signature.domain.extensions/idataencryption/encode)(string) | 编码方法来加密字符串。 |
 
 ### 也可以看看
 

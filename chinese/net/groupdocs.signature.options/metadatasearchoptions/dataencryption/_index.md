@@ -1,14 +1,14 @@
 ---
 title: DataEncryption
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置的实现IDataEncryptiongroupdocs.signature.domain.extensions/idataencryption使用此选项集合解密所有元数据签名的接口 如果设置了此值则所有找到的签名将默认使用此加密如果已分配则使用其自己的 DataEncryption
+description: 获取或设置的实现IDataEncryptiongroupdocs.signature.domain.extensions/idataencryption使用此选项集合解密所有元数据签名的接口 如果设置此值则所有找到的签名将默认使用此加密或它自己的 DataEncryption如果已分配
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.options/metadatasearchoptions/dataencryption/
 ---
 ## MetadataSearchOptions.DataEncryption property
 
-获取或设置的实现[`IDataEncryption`](../../../groupdocs.signature.domain.extensions/idataencryption)使用此选项集合解密所有元数据签名的接口。 如果设置了此值，则所有找到的签名将默认使用此加密，如果已分配，则使用其自己的 DataEncryption。
+获取或设置的实现[`IDataEncryption`](../../../groupdocs.signature.domain.extensions/idataencryption)使用此选项集合解密所有元数据签名的接口。 如果设置此值，则所有找到的签名将默认使用此加密或它自己的 DataEncryption（如果已分配）。
 
 ```csharp
 public IDataEncryption DataEncryption { get; set; }

@@ -3,7 +3,7 @@ title: SaveOptions
 second_title: GroupDocs.Signature for .NET API 参考
 description: 允许在保存要签名的文档时指定其他选项例如密码
 type: docs
-weight: 1590
+weight: 1670
 url: /zh/net/groupdocs.signature.options/saveoptions/
 ---
 ## SaveOptions class
@@ -25,10 +25,10 @@ public class SaveOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AddMissingExtenstion](../../groupdocs.signature.options/saveoptions/addmissingextenstion) { get; set; } | 获取或设置标志以在输出文件路径中缺少扩展名时自动添加扩展名 默认值为 false。 |
+| [AddMissingExtenstion](../../groupdocs.signature.options/saveoptions/addmissingextenstion) { get; set; } | 获取或设置标志以在输出文件路径中缺少扩展名时自动添加扩展名 path 默认值为 false. |
 | [OverwriteExistingFiles](../../groupdocs.signature.options/saveoptions/overwriteexistingfiles) { get; set; } | 获取或设置是否用新的输出文件覆盖现有文件。 否则将创建以数字为后缀的新文件。 默认情况下，此值设置为 true，表示文件将被覆盖。 |
-| [Password](../../groupdocs.signature.options/saveoptions/password) { get; set; } | 获取或设置密码以保存带有密码保护的签名文档。 Image 文档不支持此属性。 |
-| [UseOriginalPassword](../../groupdocs.signature.options/saveoptions/useoriginalpassword) { get; set; } | 获取或设置是否使用 LoadOptions 中的密码将签名文档保存为受保护。 默认值为 true。 图片文档不支持此属性。 |
+| [Password](../../groupdocs.signature.options/saveoptions/password) { get; set; } | 获取或设置密码以保存带密码保护的签名文档。 Image 文档不支持此属性。 |
+| [UseOriginalPassword](../../groupdocs.signature.options/saveoptions/useoriginalpassword) { get; set; } | 获取或设置是否使用来自 LoadOptions 的密码将签名文档保存为受保护。 默认值为 true。 图像文档不支持此属性。 |
 
 ### 也可以看看
 

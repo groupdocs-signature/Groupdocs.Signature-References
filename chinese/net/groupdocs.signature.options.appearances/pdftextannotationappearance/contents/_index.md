@@ -1,14 +1,14 @@
 ---
 title: Contents
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置注解对象的内容
+description: 获取或设置注释对象的内容
 type: docs
 weight: 50
 url: /zh/net/groupdocs.signature.options.appearances/pdftextannotationappearance/contents/
 ---
 ## PdfTextAnnotationAppearance.Contents property
 
-获取或设置注解对象的内容。
+获取或设置注释对象的内容。
 
 ```csharp
 public string Contents { get; set; }

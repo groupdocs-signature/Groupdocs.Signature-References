@@ -8,7 +8,7 @@ url: /zh/net/groupdocs.signature.options/digitalsignoptions/password/
 ---
 ## DigitalSignOptions.Password property
 
-获取或设置数字证书密码
+获取或设置数字证书密码。
 
 ```csharp
 public string Password { get; set; }

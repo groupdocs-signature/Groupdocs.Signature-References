@@ -1,14 +1,14 @@
 ---
 title: CertificateStream
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置数字证书流 如果指定此属性则始终使用它来代替 CertificateFilePath
+description: 获取或设置数字证书流 如果指定此属性则始终使用它代替 CertificateFilePath.
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.options/digitalsignoptions/certificatestream/
 ---
 ## DigitalSignOptions.CertificateStream property
 
-获取或设置数字证书流。 如果指定此属性，则始终使用它来代替 CertificateFilePath。
+获取或设置数字证书流。 如果指定此属性，则始终使用它代替 CertificateFilePath.
 
 ```csharp
 public Stream CertificateStream { get; set; }

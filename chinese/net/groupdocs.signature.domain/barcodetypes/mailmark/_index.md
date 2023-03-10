@@ -1,14 +1,14 @@
 ---
 title: Mailmark
 second_title: GroupDocs.Signature for .NET API 参考
-description: Royal Mail 2D Mailmark 条形码类型对象
+description: Royal Mail 2D Mailmark 条码类型对象
 type: docs
-weight: 400
+weight: 430
 url: /zh/net/groupdocs.signature.domain/barcodetypes/mailmark/
 ---
 ## BarcodeTypes.Mailmark field
 
-Royal Mail 2D Mailmark 条形码类型对象。
+Royal Mail 2D Mailmark 条码类型对象。
 
 ```csharp
 public static readonly BarcodeType Mailmark;

@@ -1,14 +1,14 @@
 ---
 title: PdfTextStickerState
 second_title: GroupDocs.Signature for .NET API 参考
-description: 描述 PDF 文本注释标签状态的枚举
+description: 描述了 PDF 文本注释贴纸状态的枚举
 type: docs
-weight: 700
+weight: 730
 url: /zh/net/groupdocs.signature.domain/pdftextstickerstate/
 ---
 ## PdfTextStickerState enumeration
 
-描述 PDF 文本注释标签状态的枚举。
+描述了 PDF 文本注释贴纸状态的枚举。
 
 ```csharp
 public enum PdfTextStickerState
@@ -19,12 +19,12 @@ public enum PdfTextStickerState
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Undefined | `0` | 未定义状态。 |
-| Marked | `1` | 标记状态。 |
-| Unmarked | `2` | 未标记状态。 |
+| Marked | `1` | 标记状态. |
+| Unmarked | `2` | 未标记状态. |
 | Accepted | `3` | 接受状态。 |
-| Rejected | `4` | 拒绝状态。 |
-| Cancelled | `5` | 取消状态。 |
-| Completed | `6` | 完成状态。 |
+| Rejected | `4` | 拒绝状态. |
+| Cancelled | `5` | 取消状态. |
+| Completed | `6` | 完成状态. |
 | None | `7` | 无状态。 |
 
 ### 也可以看看

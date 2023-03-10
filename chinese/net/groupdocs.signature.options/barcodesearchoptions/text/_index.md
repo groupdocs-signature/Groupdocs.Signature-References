@@ -1,14 +1,14 @@
 ---
 title: Text
 second_title: GroupDocs.Signature for .NET API 参考
-description: 指定条形码签名文本是否应该被搜索和匹配
+description: 指定条码签名文本是否应该被搜索和匹配
 type: docs
 weight: 60
 url: /zh/net/groupdocs.signature.options/barcodesearchoptions/text/
 ---
 ## BarcodeSearchOptions.Text property
 
-指定条形码签名文本是否应该被搜索和匹配。
+指定条码签名文本是否应该被搜索和匹配。
 
 ```csharp
 public string Text { get; set; }

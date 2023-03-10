@@ -1,14 +1,14 @@
 ---
 title: Pharmacode
 second_title: GroupDocs.Signature for .NET API 参考
-description: Pharma code Barcode Type object.
+description: Pharma 代码条码类型对象
 type: docs
-weight: 490
+weight: 520
 url: /zh/net/groupdocs.signature.domain/barcodetypes/pharmacode/
 ---
 ## BarcodeTypes.Pharmacode field
 
-Pharma code Barcode Type object.
+Pharma 代码条码类型对象。
 
 ```csharp
 public static readonly BarcodeType Pharmacode;

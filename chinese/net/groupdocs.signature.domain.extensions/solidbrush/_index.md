@@ -1,14 +1,14 @@
 ---
 title: SolidBrush
 second_title: GroupDocs.Signature for .NET API 参考
-description: 代表实心画笔 可以用来代替背景颜色属性
+description: 表示实体画笔 它可以用来代替背景颜色属性
 type: docs
-weight: 330
+weight: 350
 url: /zh/net/groupdocs.signature.domain.extensions/solidbrush/
 ---
 ## SolidBrush class
 
-代表实心画笔。 可以用来代替背景颜色属性。
+表示实体画笔。 它可以用来代替背景颜色属性。
 
 ```csharp
 public class SolidBrush : Brush

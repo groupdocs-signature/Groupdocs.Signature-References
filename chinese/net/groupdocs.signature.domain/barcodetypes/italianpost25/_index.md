@@ -3,7 +3,7 @@ title: ItalianPost25
 second_title: GroupDocs.Signature for .NET API 参考
 description: ItalianPost25 条码类型对象
 type: docs
-weight: 360
+weight: 390
 url: /zh/net/groupdocs.signature.domain/barcodetypes/italianpost25/
 ---
 ## BarcodeTypes.ItalianPost25 field

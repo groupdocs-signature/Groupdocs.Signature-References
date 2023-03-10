@@ -32,7 +32,7 @@ public LinearGradientBrush(Color startColor, Color endColor, float angle = 0)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| startColor | Color | 开始颜色。 |
+| startColor | Color | 开始上色。 |
 | endColor | Color | 结束颜色。 |
 | angle | Single | 角度。默认值为 0。 |
 
