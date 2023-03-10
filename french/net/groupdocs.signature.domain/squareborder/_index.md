@@ -3,7 +3,7 @@ title: SquareBorder
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Instance pour conserver les propriétés de la ligne de bordure pour la ligne de tampon carré.
 type: docs
-weight: 860
+weight: 890
 url: /fr/net/groupdocs.signature.domain/squareborder/
 ---
 ## SquareBorder class

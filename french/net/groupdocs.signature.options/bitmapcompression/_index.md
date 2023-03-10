@@ -3,7 +3,7 @@ title: BitmapCompression
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Spécifie différentes méthodes de compression bitmap.
 type: docs
-weight: 1210
+weight: 1280
 url: /fr/net/groupdocs.signature.options/bitmapcompression/
 ---
 ## BitmapCompression enumeration
@@ -19,9 +19,9 @@ public enum BitmapCompression
 | Nom | Évaluer | La description |
 | --- | --- | --- |
 | Rgb | `0` | Aucune compression. |
-| Rle8 | `1` | Compression RLE 8 bits/pixel. Peut être utilisé uniquement avec des bitmaps 8 bits/pixels. |
+| Rle8 | `1` | Compression RLE 8 bits/pixels. Peut être utilisé uniquement avec des bitmaps 8 bits/pixel. |
 | Rle4 | `2` | Compression RLE 4 bits/pixel. Peut être utilisé uniquement avec des bitmaps 4 bits/pixel. |
-| Bitfields | `3` | Champs de bits. Peut être utilisé uniquement avec des bitmaps 16 et 32 bits/pixel. |
+| Bitfields | `3` | Champs de bits. Peut être utilisé uniquement avec des bitmaps 16 et 32 bits/pixels. |
 | Jpeg | `4` | Compression JPEG. Le bitmap contient une image JPEG. |
 | Png | `5` | Compression PNG. Le bitmap contient une image PNG. |
 

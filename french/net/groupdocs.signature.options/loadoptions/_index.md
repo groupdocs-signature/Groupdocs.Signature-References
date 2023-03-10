@@ -3,7 +3,7 @@ title: LoadOptions
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Permet de spécifier des options supplémentaires telles que le mot de passe lors de louverture dun document à signer.
 type: docs
-weight: 1390
+weight: 1470
 url: /fr/net/groupdocs.signature.options/loadoptions/
 ---
 ## LoadOptions class

@@ -3,7 +3,7 @@ title: TiffFormat
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Spécifie différents formats tiff.
 type: docs
-weight: 1670
+weight: 1750
 url: /fr/net/groupdocs.signature.options/tiffformat/
 ---
 ## TiffFormat enumeration

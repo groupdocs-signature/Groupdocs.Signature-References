@@ -3,7 +3,7 @@ title: PasswordRequiredException
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Lexception levée lorsquun mot de passe est requis pour charger le document.
 type: docs
-weight: 1720
+weight: 1800
 url: /fr/net/groupdocs.signature/passwordrequiredexception/
 ---
 ## PasswordRequiredException class

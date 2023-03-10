@@ -3,7 +3,7 @@ title: Signature
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Représente la classe principale qui contrôle le processus de signature de document.
 type: docs
-weight: 1800
+weight: 1880
 url: /fr/net/groupdocs.signature/signature/
 ---
 ## Signature class
@@ -21,7 +21,7 @@ public class Signature : IDisposable
 | [Signature](signature#constructor)(Stream) | Initialise la nouvelle instance de[`Signature`](../signature) classe avec document fourni par stream. |
 | [Signature](signature#constructor_4)(string) | Initialise la nouvelle instance de[`Signature`](../signature) instance de classe avec le document fourni par le chemin du fichier. |
 | [Signature](signature#constructor_1)(Stream, LoadOptions) | Initialise la nouvelle instance de[`Signature`](../signature) classe avec le document fourni par les options de flux et de chargementLoadOptions . |
-| [Signature](signature#constructor_3)(Stream, SignatureSettings) | Initialise la nouvelle instance de[`Signature`](../signature) instance de classe avec le document fourni par le flux et[`SignatureSettings`](../signaturesettings) . |
+| [Signature](signature#constructor_3)(Stream, SignatureSettings) | Initialise la nouvelle instance de[`Signature`](../signature)instance de classe avec le document fourni par le flux et[`SignatureSettings`](../signaturesettings) . |
 | [Signature](signature#constructor_5)(string, LoadOptions) | Initialise la nouvelle instance de[`Signature`](../signature) instance de classe avec le document fourni par le chemin du fichier etLoadOptions . |
 | [Signature](signature#constructor_7)(string, SignatureSettings) | Initialise la nouvelle instance de[`Signature`](../signature) instance de classe avec le document fourni par le chemin du fichier et[`SignatureSettings`](../signaturesettings) . |
 | [Signature](signature#constructor_2)(Stream, LoadOptions, SignatureSettings) | Initialise la nouvelle instance de[`Signature`](../signature) instance de classe avec document fourni par stream, options de chargementLoadOptions et paramètres[`SignatureSettings`](../signaturesettings) . |
@@ -48,8 +48,8 @@ public class Signature : IDisposable
 | [Sign](../../groupdocs.signature/signature/sign#sign)(Stream, SignOptions) | signe le document avec[`SignOptions`](../../groupdocs.signature.options/signoptions) et enregistre le résultat dans un flux. |
 | [Sign](../../groupdocs.signature/signature/sign#sign_6)(string, List&lt;SignOptions&gt;) | Signe un document avec une collection de[`SignOptions`](../../groupdocs.signature.options/signoptions) et enregistre le résultat dans le chemin de fichier spécifié. |
 | [Sign](../../groupdocs.signature/signature/sign#sign_4)(string, SignOptions) | signe le document avec[`SignOptions`](../../groupdocs.signature.options/signoptions) et enregistre le résultat dans le chemin de fichier spécifié. |
-| [Sign](../../groupdocs.signature/signature/sign#sign_3)(Stream, List&lt;SignOptions&gt;, SaveOptions) | Signe un document avec une collection de[`SignOptions`](../../groupdocs.signature.options/signoptions) et enregistre le résultat dans un flux avec des paramètres prédéfinis[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
-| [Sign](../../groupdocs.signature/signature/sign#sign_1)(Stream, SignOptions, SaveOptions) | signe le document avec[`SignOptions`](../../groupdocs.signature.options/signoptions) et enregistre le résultat dans un flux avec des paramètres prédéfinis[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
+| [Sign](../../groupdocs.signature/signature/sign#sign_3)(Stream, List&lt;SignOptions&gt;, SaveOptions) | Signe un document avec une collection de[`SignOptions`](../../groupdocs.signature.options/signoptions)et enregistre le résultat dans un flux avec des paramètres prédéfinis[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
+| [Sign](../../groupdocs.signature/signature/sign#sign_1)(Stream, SignOptions, SaveOptions) | signe le document avec[`SignOptions`](../../groupdocs.signature.options/signoptions)et enregistre le résultat dans un flux avec des paramètres prédéfinis[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
 | [Sign](../../groupdocs.signature/signature/sign#sign_7)(string, List&lt;SignOptions&gt;, SaveOptions) | Signe un document avec une collection de[`SignOptions`](../../groupdocs.signature.options/signoptions) et enregistre le résultat dans le chemin de fichier spécifié avec prédéfini[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
 | [Sign](../../groupdocs.signature/signature/sign#sign_5)(string, SignOptions, SaveOptions) | signe le document avec[`SignOptions`](../../groupdocs.signature.options/signoptions) et enregistre le résultat dans le chemin de fichier spécifié avec prédéfini[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
 | [Update](../../groupdocs.signature/signature/update#update)(BaseSignature) | Les mises à jour ont passé la signature[`BaseSignature`](../../groupdocs.signature.domain/basesignature) dans le document. |

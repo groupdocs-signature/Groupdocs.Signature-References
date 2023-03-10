@@ -3,7 +3,7 @@ title: TextSignature
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Contient les propriétés de la signature textuelle.
 type: docs
-weight: 970
+weight: 1000
 url: /fr/net/groupdocs.signature.domain/textsignature/
 ---
 ## TextSignature class
@@ -33,7 +33,7 @@ public class TextSignature : BaseSignature
 | [Native](../../groupdocs.signature.domain/textsignature/native) { get; set; } | Spécifie l'attribut natif. C'est vrai si la signature est spécifique au document. |
 | [PageNumber](../../groupdocs.signature.domain/basesignature/pagenumber) { get; } | Spécifie que la signature de page a été trouvée sur. |
 | [SignatureId](../../groupdocs.signature.domain/basesignature/signatureid) { get; } | Identifiant de signature unique pour modifier la signature dans le document via les méthodes Update ou Delete. Cette propriété sera définie automatiquement après l'appel de la méthode Sign ou Search. Si cette propriété a été enregistrée avant de pouvoir être définie manuellement pour manipuler la signature. |
-| [SignatureImplementation](../../groupdocs.signature.domain/textsignature/signatureimplementation) { get; } | Spécifie l'implémentation de la signature textuelle. |
+| [SignatureImplementation](../../groupdocs.signature.domain/textsignature/signatureimplementation) { get; } | Spécifie l'implémentation de la signature de texte. |
 | [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | Spécifie le type de signature. |
 | [Text](../../groupdocs.signature.domain/textsignature/text) { get; set; } | Spécifie le texte dans la signature. |
 | [Top](../../groupdocs.signature.domain/basesignature/top) { get; set; } | Spécifie la position supérieure de la signature. |

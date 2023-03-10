@@ -3,7 +3,7 @@ title: SolidBrush
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Représente un pinceau solide. Il pourrait être utilisé à la place de la propriété de couleur darrièreplan.
 type: docs
-weight: 330
+weight: 350
 url: /fr/net/groupdocs.signature.domain.extensions/solidbrush/
 ---
 ## SolidBrush class

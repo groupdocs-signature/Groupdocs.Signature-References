@@ -3,7 +3,7 @@ title: TXT
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Fichier de texte brut .txt représente un document texte contenant du texte brut sous forme de lignes. En savoir plus sur ce format de fichiericihttps//wiki.fileformat.com/wordprocessing/txt .
 type: docs
-weight: 450
+weight: 460
 url: /fr/net/groupdocs.signature.domain/filetype/txt/
 ---
 ## FileType.TXT field

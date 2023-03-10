@@ -3,7 +3,7 @@ title: UpdateResult
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Résultat de la modification des signatures dans le document.
 type: docs
-weight: 1010
+weight: 1040
 url: /fr/net/groupdocs.signature.domain/updateresult/
 ---
 ## UpdateResult class
@@ -18,8 +18,12 @@ public class UpdateResult : IResult
 
 | Nom | La description |
 | --- | --- |
+| [DestinDocumentSize](../../groupdocs.signature.domain/updateresult/destindocumentsize) { get; } | Renvoie la taille du document de destination |
 | [Failed](../../groupdocs.signature.domain/updateresult/failed) { get; } | Liste des signatures qui n'ont pas été mises à jour[`BaseSignature`](../basesignature) . |
+| [ProcessingTime](../../groupdocs.signature.domain/updateresult/processingtime) { get; } | Renvoie le temps d'exécution du processus en millisecondes |
+| [SourceDocumentSize](../../groupdocs.signature.domain/updateresult/sourcedocumentsize) { get; } | Renvoie la taille du document source |
 | [Succeeded](../../groupdocs.signature.domain/updateresult/succeeded) { get; } | Liste des signatures modifiées avec succès[`BaseSignature`](../basesignature) . |
+| [TotalSignatures](../../groupdocs.signature.domain/updateresult/totalsignatures) { get; } | Renvoie le nombre total de signatures traitées |
 
 ### Voir également
 

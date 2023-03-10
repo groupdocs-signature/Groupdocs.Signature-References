@@ -3,7 +3,7 @@ title: QrCodeSearchOptions
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Représente les options de recherche pour les signatures QRCode.
 type: docs
-weight: 1540
+weight: 1620
 url: /fr/net/groupdocs.signature.options/qrcodesearchoptions/
 ---
 ## QrCodeSearchOptions class

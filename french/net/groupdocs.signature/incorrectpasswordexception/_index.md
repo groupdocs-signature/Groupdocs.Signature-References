@@ -3,7 +3,7 @@ title: IncorrectPasswordException
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Lexception levée lorsque le mot de passe spécifié est incorrect.
 type: docs
-weight: 1090
+weight: 1120
 url: /fr/net/groupdocs.signature/incorrectpasswordexception/
 ---
 ## IncorrectPasswordException class

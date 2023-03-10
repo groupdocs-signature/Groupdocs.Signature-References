@@ -42,7 +42,7 @@ Renvoie une instance de[`SignResult`](../../../groupdocs.signature.domain/signre
 
 ## Sign(Stream, SignOptions, SaveOptions) {#sign_1}
 
-signe le document avec[`SignOptions`](../../../groupdocs.signature.options/signoptions) et enregistre le résultat dans un flux avec des paramètres prédéfinis[`SaveOptions`](../../../groupdocs.signature.options/saveoptions) .
+signe le document avec[`SignOptions`](../../../groupdocs.signature.options/signoptions)et enregistre le résultat dans un flux avec des paramètres prédéfinis[`SaveOptions`](../../../groupdocs.signature.options/saveoptions) .
 
 ```csharp
 public SignResult Sign(Stream document, SignOptions signOptions, SaveOptions saveOptions)
@@ -113,7 +113,7 @@ Renvoie une instance de[`SignResult`](../../../groupdocs.signature.domain/signre
 
 ## Sign(Stream, List&lt;SignOptions&gt;, SaveOptions) {#sign_3}
 
-Signe un document avec une collection de[`SignOptions`](../../../groupdocs.signature.options/signoptions) et enregistre le résultat dans un flux avec des paramètres prédéfinis[`SaveOptions`](../../../groupdocs.signature.options/saveoptions) .
+Signe un document avec une collection de[`SignOptions`](../../../groupdocs.signature.options/signoptions)et enregistre le résultat dans un flux avec des paramètres prédéfinis[`SaveOptions`](../../../groupdocs.signature.options/saveoptions) .
 
 ```csharp
 public SignResult Sign(Stream document, List<SignOptions> signOptionsList, SaveOptions saveOptions)

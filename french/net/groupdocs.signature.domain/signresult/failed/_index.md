@@ -3,7 +3,7 @@ title: Failed
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Liste des signatures dont la création a échoué.
 type: docs
-weight: 10
+weight: 20
 url: /fr/net/groupdocs.signature.domain/signresult/failed/
 ---
 ## SignResult.Failed property

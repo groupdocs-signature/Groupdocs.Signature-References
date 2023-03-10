@@ -3,7 +3,7 @@ title: Parse
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Renvoie le type de codebarres avec le nom pasringType. Si le nom du codebarres est inconnu  une exception sera levée.
 type: docs
-weight: 640
+weight: 670
 url: /fr/net/groupdocs.signature.domain/barcodetypes/parse/
 ---
 ## BarcodeTypes.Parse method

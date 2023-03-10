@@ -3,7 +3,7 @@ title: POT
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Le modèle PowerPoint .pot représente les fichiers de modèle Microsoft PowerPoint créés par les versions PowerPoint 972003. En savoir plus sur ce format de fichiericihttps//wiki.fileformat.com/presentation/pot .
 type: docs
-weight: 290
+weight: 300
 url: /fr/net/groupdocs.signature.domain/filetype/pot/
 ---
 ## FileType.POT field

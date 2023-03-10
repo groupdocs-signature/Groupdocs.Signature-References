@@ -3,7 +3,7 @@ title: Failed
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Liste des signatures qui nont pas été suppriméesBaseSignaturegroupdocs.signature.domain/basesignature .
 type: docs
-weight: 10
+weight: 20
 url: /fr/net/groupdocs.signature.domain/deleteresult/failed/
 ---
 ## DeleteResult.Failed property

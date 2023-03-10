@@ -3,7 +3,7 @@ title: StampBackgroundCropType
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Spécifie le type de recadrage du calque darrièreplan sur les éléments de tampon.
 type: docs
-weight: 870
+weight: 900
 url: /fr/net/groupdocs.signature.domain/stampbackgroundcroptype/
 ---
 ## StampBackgroundCropType enumeration

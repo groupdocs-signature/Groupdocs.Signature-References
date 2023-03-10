@@ -3,7 +3,7 @@ title: DeleteResult
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Résultat de la suppression de signatures du document.
 type: docs
-weight: 120
+weight: 130
 url: /fr/net/groupdocs.signature.domain/deleteresult/
 ---
 ## DeleteResult class
@@ -18,8 +18,12 @@ public class DeleteResult : IResult
 
 | Nom | La description |
 | --- | --- |
+| [DestinDocumentSize](../../groupdocs.signature.domain/deleteresult/destindocumentsize) { get; } | Renvoie la taille du document mis à jour. |
 | [Failed](../../groupdocs.signature.domain/deleteresult/failed) { get; } | Liste des signatures qui n'ont pas été supprimées[`BaseSignature`](../basesignature) . |
+| [ProcessingTime](../../groupdocs.signature.domain/deleteresult/processingtime) { get; } | Renvoie le temps d'exécution du processus en millisecondes. |
+| [SourceDocumentSize](../../groupdocs.signature.domain/deleteresult/sourcedocumentsize) { get; } | Renvoie la taille du document source. |
 | [Succeeded](../../groupdocs.signature.domain/deleteresult/succeeded) { get; } | Liste des signatures supprimées avec succès[`BaseSignature`](../basesignature) . |
+| [TotalSignatures](../../groupdocs.signature.domain/deleteresult/totalsignatures) { get; } | Renvoie le nombre total de signatures traitées. |
 
 ### Voir également
 

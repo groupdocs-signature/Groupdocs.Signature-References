@@ -3,7 +3,7 @@ title: GetEnumerator
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Renvoie lénumérateur.
 type: docs
-weight: 20
+weight: 70
 url: /fr/net/groupdocs.signature.domain/searchresult/getenumerator/
 ---
 ## SearchResult.GetEnumerator method

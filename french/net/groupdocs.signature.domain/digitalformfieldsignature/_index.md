@@ -3,7 +3,7 @@ title: DigitalFormFieldSignature
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Contient les propriétés du champ de formulaire de saisie de signature numérique pour les documents PDF.
 type: docs
-weight: 130
+weight: 140
 url: /fr/net/groupdocs.signature.domain/digitalformfieldsignature/
 ---
 ## DigitalFormFieldSignature class

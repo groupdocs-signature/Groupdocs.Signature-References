@@ -16,7 +16,7 @@ public byte PixelAspectRatio { get; set; }
 
 ### Remarques
 
-Pixel Aspect Ratio - Facteur utilisé pour calculer une approximation du rapport d'aspect du pixel dans l'image d'origine. Si la valeur du champ n'est pas 0, cette approximation du rapport d'aspect est calculée sur la base de la formule : Aspect Ratio = (Pixel Aspect Ratio + 15) / 64 Le Pixel Aspect Ratio est défini comme étant le quotient de la largeur du pixel sur sa hauteur. La valeur range dans ce champ permet de spécifier le pixel le plus large de 4:1 au pixel le plus haut de 1:4 par incréments de 1/64e. Valeurs : 0 - Aucune information de rapport d'aspect n'est donnée. 1..255 - Valeur utilisée dans le calcul.
+Pixel Aspect Ratio - Facteur utilisé pour calculer une approximation du rapport d'aspect du pixel dans l'image d'origine. Si la valeur du champ n'est pas 0, cette approximation du rapport d'aspect est calculée sur la base de la formule : Aspect Ratio = (Pixel Aspect Ratio + 15) / 64 Le Pixel Aspect Ratio est défini comme étant le quotient de la largeur du pixel sur sa hauteur. La valeur range dans ce champ permet de spécifier le pixel le plus large de 4:1 au pixel le plus haut de 1:4 par incréments de 1/64ème. Valeurs : 0 - Aucune information de rapport d'aspect n'est donnée. 1..255 - Valeur utilisée dans le calcul.
 
 ### Voir également
 

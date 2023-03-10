@@ -3,7 +3,7 @@ title: SignatureType
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Définit les types de signatures pris en charge pour divers processus tels que Signer Vérifier Rechercher Mettre à jour Supprimer
 type: docs
-weight: 830
+weight: 860
 url: /fr/net/groupdocs.signature.domain/signaturetype/
 ---
 ## SignatureType enumeration

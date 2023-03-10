@@ -3,7 +3,7 @@ title: ImageSignature
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Contient les propriétés de signature dimage.
 type: docs
-weight: 570
+weight: 590
 url: /fr/net/groupdocs.signature.domain/imagesignature/
 ---
 ## ImageSignature class

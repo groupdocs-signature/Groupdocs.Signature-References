@@ -3,7 +3,7 @@ title: BarcodeVerifyOptions
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Représente les options de vérification de codebarres.
 type: docs
-weight: 1200
+weight: 1270
 url: /fr/net/groupdocs.signature.options/barcodeverifyoptions/
 ---
 ## BarcodeVerifyOptions class

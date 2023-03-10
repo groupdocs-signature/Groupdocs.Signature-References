@@ -3,7 +3,7 @@ title: Failed
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Liste des signatures non traitéesBaseSignaturegroupdocs.signature.domain/basesignature .
 type: docs
-weight: 10
+weight: 20
 url: /fr/net/groupdocs.signature.domain/iresult/failed/
 ---
 ## IResult.Failed property

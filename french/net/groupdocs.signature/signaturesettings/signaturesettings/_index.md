@@ -1,14 +1,14 @@
 ---
 title: SignatureSettings
 second_title: Référence de l'API GroupDocs.Signature pour .NET
-description: Default_Constructor
+description: Crée une instance SignatureSettings par défaut avec les valeurs par défaut.
 type: docs
 weight: 10
 url: /fr/net/groupdocs.signature/signaturesettings/signaturesettings/
 ---
-## SignatureSettings constructor
+## SignatureSettings() {#constructor}
 
-Default_Constructor
+Crée une instance SignatureSettings par défaut avec les valeurs par défaut.
 
 ```csharp
 public SignatureSettings()
@@ -16,6 +16,27 @@ public SignatureSettings()
 
 ### Voir également
 
+* class [SignatureSettings](../../signaturesettings)
+* espace de noms [GroupDocs.Signature](../../signaturesettings)
+* Assemblée [GroupDocs.Signature](../../../)
+
+---
+
+## SignatureSettings(ILogger) {#constructor_1}
+
+Crée une instance SignatureSettings par défaut avec l'implémentation de Logger.
+
+```csharp
+public SignatureSettings(ILogger logger)
+```
+
+| Paramètre | Taper | La description |
+| --- | --- | --- |
+| logger | ILogger |  |
+
+### Voir également
+
+* interface [ILogger](../../../groupdocs.signature.logging/ilogger)
 * class [SignatureSettings](../../signaturesettings)
 * espace de noms [GroupDocs.Signature](../../signaturesettings)
 * Assemblée [GroupDocs.Signature](../../../)

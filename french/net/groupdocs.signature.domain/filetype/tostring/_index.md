@@ -3,7 +3,7 @@ title: ToString
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Renvoie une chaîne qui représente lobjet actuel.
 type: docs
-weight: 620
+weight: 630
 url: /fr/net/groupdocs.signature.domain/filetype/tostring/
 ---
 ## FileType.ToString method

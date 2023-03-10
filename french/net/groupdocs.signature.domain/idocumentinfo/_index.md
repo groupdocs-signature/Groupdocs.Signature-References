@@ -3,7 +3,7 @@ title: IDocumentInfo
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Définit les propriétés de description du document.
 type: docs
-weight: 490
+weight: 510
 url: /fr/net/groupdocs.signature.domain/idocumentinfo/
 ---
 ## IDocumentInfo interface
@@ -25,6 +25,7 @@ public interface IDocumentInfo
 | [FormFieldSignatures](../../groupdocs.signature.domain/idocumentinfo/formfieldsignatures) { get; } | Collection de signatures de champs de formulaire de document ajoutées ou mises à jour par[`Signature`](../../groupdocs.signature/signature) méthodes. |
 | [ImageSignatures](../../groupdocs.signature.domain/idocumentinfo/imagesignatures) { get; } | Collection de signatures d'images de documents ajoutées ou mises à jour par[`Signature`](../../groupdocs.signature/signature) méthodes. |
 | [MaxPageHeight](../../groupdocs.signature.domain/idocumentinfo/maxpageheight) { get; set; } | Spécifie la hauteur de page maximale. |
+| [MetadataSignatures](../../groupdocs.signature.domain/idocumentinfo/metadatasignatures) { get; } | Collection de signatures de métadonnées de document. |
 | [PageCount](../../groupdocs.signature.domain/idocumentinfo/pagecount) { get; set; } | Nombre de pages de document. |
 | [Pages](../../groupdocs.signature.domain/idocumentinfo/pages) { get; set; } | Collection de descriptions de pages de documents. |
 | [ProcessLogs](../../groupdocs.signature.domain/idocumentinfo/processlogs) { get; } | Collecte des journaux de processus de l'historique des documents. |

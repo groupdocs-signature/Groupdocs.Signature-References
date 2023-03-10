@@ -3,7 +3,7 @@ title: TextHorizontalAlignment
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Spécifie lalignement horizontal du texte à lintérieur dune signature.
 type: docs
-weight: 940
+weight: 970
 url: /fr/net/groupdocs.signature.domain/texthorizontalalignment/
 ---
 ## TextHorizontalAlignment enumeration

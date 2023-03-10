@@ -3,7 +3,7 @@ title: CreatePageStream
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Délégué qui définit la méthode pour créer le flux daperçu de la page de sortie.
 type: docs
-weight: 1230
+weight: 1310
 url: /fr/net/groupdocs.signature.options/createpagestream/
 ---
 ## CreatePageStream delegate

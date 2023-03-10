@@ -26,7 +26,7 @@ Renvoie true si l'opération a réussi.
 
 **Apprendre encore plus**
 
-* En savoir plus sur la mise à jour des propriétés de signature électronique existantes à l'aide de GroupDocs.Signature : [Comment mettre à jour les signatures électroniques de documents en C#](https://docs.groupdocs.com/display/signaturenet/Update+signatures+in+documents)
+* En savoir plus sur la mise à jour des propriétés de signature électronique existantes à l'aide de GroupDocs.Signature : [Comment mettre à jour les signatures électroniques de documents en C #](https://docs.groupdocs.com/display/signaturenet/Update+signatures+in+documents)
 * Cas d'utilisation plus avancés de mise à jour des signatures électroniques de documents en fonction du type de signature : [Cas d'utilisation avancés de la mise à jour des signatures électroniques avec GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Updating)
 
 ### Voir également
@@ -58,7 +58,7 @@ Renvoie UpdateResult[`UpdateResult`](../../../groupdocs.signature.domain/updater
 
 **Apprendre encore plus**
 
-* En savoir plus sur la mise à jour des propriétés de signature électronique existantes à l'aide de GroupDocs.Signature : [Comment mettre à jour les signatures électroniques de documents en C#](https://docs.groupdocs.com/display/signaturenet/Update+signatures+in+documents)
+* En savoir plus sur la mise à jour des propriétés de signature électronique existantes à l'aide de GroupDocs.Signature : [Comment mettre à jour les signatures électroniques de documents en C #](https://docs.groupdocs.com/display/signaturenet/Update+signatures+in+documents)
 * Cas d'utilisation plus avancés de mise à jour des signatures électroniques de documents en fonction du type de signature : [Cas d'utilisation avancés de la mise à jour des signatures électroniques avec GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Updating)
 
 ### Voir également

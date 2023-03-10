@@ -3,7 +3,7 @@ title: ToString
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Convertit en chaîne avec la méthode override ToString
 type: docs
-weight: 140
+weight: 150
 url: /fr/net/groupdocs.signature.domain/metadatasignature/tostring/
 ---
 ## ToString() {#tostring}
@@ -21,34 +21,6 @@ Renvoie la valeur de la signature des métadonnées sous forme de chaîne.
 ### Remarques
 
 Convertit une propriété booléenne en "True" ou "False". Pour un autre type de données, le fournisseur de format de données par défaut sera utilisé.
-
-### Voir également
-
-* class [MetadataSignature](../../metadatasignature)
-* espace de noms [GroupDocs.Signature.Domain](../../metadatasignature)
-* Assemblée [GroupDocs.Signature](../../../)
-
----
-
-## ToString(string) {#tostring_1}
-
-convertit en chaîne avec le format spécifié
-
-```csharp
-public virtual string ToString(string format)
-```
-
-| Paramètre | Taper | La description |
-| --- | --- | --- |
-| format | String | Chaîne de format de données. |
-
-### Return_Value
-
-Renvoie la valeur de la signature des métadonnées sous forme de chaîne.
-
-### Remarques
-
-Convertit une propriété booléenne en "True" ou "False". Les informations de propriété de culture par défaut seront utilisées à partir des propriétés SignatureSettings[`DefaultCulture`](../../../groupdocs.signature/signaturesettings/defaultculture)
 
 ### Voir également
 
@@ -78,6 +50,34 @@ Renvoie la valeur de la signature des métadonnées sous forme de chaîne.
 ### Remarques
 
 Convertit une propriété booléenne en "True" ou "False".
+
+### Voir également
+
+* class [MetadataSignature](../../metadatasignature)
+* espace de noms [GroupDocs.Signature.Domain](../../metadatasignature)
+* Assemblée [GroupDocs.Signature](../../../)
+
+---
+
+## ToString(string) {#tostring_1}
+
+convertit en chaîne avec le format spécifié
+
+```csharp
+public virtual string ToString(string format)
+```
+
+| Paramètre | Taper | La description |
+| --- | --- | --- |
+| format | String | Chaîne de format de données. |
+
+### Return_Value
+
+Renvoie la valeur de la signature des métadonnées sous forme de chaîne.
+
+### Remarques
+
+Convertit une propriété booléenne en "True" ou "False". Les informations de propriété de culture par défaut seront utilisées à partir des propriétés SignatureSettings[`DefaultCulture`](../../../groupdocs.signature/signaturesettings/defaultculture)
 
 ### Voir également
 

@@ -3,7 +3,7 @@ title: ProcessStartEventHandler
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Représente un délégué de méthode qui gérera les processus sur les événements de démarrage pour la signature la vérification et la recherche.
 type: docs
-weight: 1790
+weight: 1870
 url: /fr/net/groupdocs.signature/processstarteventhandler/
 ---
 ## ProcessStartEventHandler delegate

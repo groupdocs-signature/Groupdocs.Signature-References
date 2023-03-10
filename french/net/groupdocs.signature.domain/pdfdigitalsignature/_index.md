@@ -3,7 +3,7 @@ title: PdfDigitalSignature
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Contient les propriétés de la signature numérique Pdf.
 type: docs
-weight: 630
+weight: 660
 url: /fr/net/groupdocs.signature.domain/pdfdigitalsignature/
 ---
 ## PdfDigitalSignature class

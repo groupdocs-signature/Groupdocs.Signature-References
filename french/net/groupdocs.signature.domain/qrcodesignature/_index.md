@@ -3,7 +3,7 @@ title: QrCodeSignature
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Contient les propriétés de signature de code QR.
 type: docs
-weight: 760
+weight: 790
 url: /fr/net/groupdocs.signature.domain/qrcodesignature/
 ---
 ## QrCodeSignature class

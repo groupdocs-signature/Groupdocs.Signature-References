@@ -3,7 +3,7 @@ title: VerticalAlignment
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Spécifie lalignement vertical de lélément sur une page de document.
 type: docs
-weight: 1030
+weight: 1060
 url: /fr/net/groupdocs.signature.domain/verticalalignment/
 ---
 ## VerticalAlignment enumeration

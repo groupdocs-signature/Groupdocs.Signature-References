@@ -3,7 +3,7 @@ title: PdfTextStickerIcon
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Décrit lénumération de lapparence de licône dautocollant dannotation de texte PDF.
 type: docs
-weight: 690
+weight: 720
 url: /fr/net/groupdocs.signature.domain/pdftextstickericon/
 ---
 ## PdfTextStickerIcon enumeration

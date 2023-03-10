@@ -3,7 +3,7 @@ title: Failed
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Liste des signatures qui nont pas été mises à jourBaseSignaturegroupdocs.signature.domain/basesignature .
 type: docs
-weight: 10
+weight: 20
 url: /fr/net/groupdocs.signature.domain/updateresult/failed/
 ---
 ## UpdateResult.Failed property

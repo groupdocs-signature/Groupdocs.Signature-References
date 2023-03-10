@@ -3,7 +3,7 @@ title: GetHashCode
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Remplace la méthode GetHashCode
 type: docs
-weight: 70
+weight: 80
 url: /fr/net/groupdocs.signature.domain/metadatasignature/gethashcode/
 ---
 ## MetadataSignature.GetHashCode method

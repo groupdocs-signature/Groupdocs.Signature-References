@@ -1,14 +1,14 @@
 ---
 title: Type
 second_title: Référence de l'API GroupDocs.Signature pour .NET
-description: Obtient ou définit lun des types de devises pris en charge.
+description: Obtient ou définit lun des types de cryptomonnaie pris en charge.
 type: docs
 weight: 60
 url: /fr/net/groupdocs.signature.domain.extensions/cryptocurrencytransfer/type/
 ---
 ## CryptoCurrencyTransfer.Type property
 
-Obtient ou définit l'un des types de devises pris en charge.
+Obtient ou définit l'un des types de crypto-monnaie pris en charge.
 
 ```csharp
 public CryptoCurrencyType Type { get; set; }

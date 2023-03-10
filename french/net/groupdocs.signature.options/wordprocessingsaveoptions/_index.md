@@ -3,7 +3,7 @@ title: WordProcessingSaveOptions
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Enregistrer les options pour les documents de traitement de texte.
 type: docs
-weight: 1710
+weight: 1790
 url: /fr/net/groupdocs.signature.options/wordprocessingsaveoptions/
 ---
 ## WordProcessingSaveOptions class

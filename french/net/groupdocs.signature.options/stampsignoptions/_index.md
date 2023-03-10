@@ -3,7 +3,7 @@ title: StampSignOptions
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Représente les options de signature Tampon.
 type: docs
-weight: 1630
+weight: 1710
 url: /fr/net/groupdocs.signature.options/stampsignoptions/
 ---
 ## StampSignOptions class

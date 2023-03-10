@@ -3,7 +3,7 @@ title: PdfTextStickerAppearance
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Décrit lapparence de lobjet autocollant dannotation de texte PDF et de la fenêtre contextuelle de lautocollant.
 type: docs
-weight: 1160
+weight: 1230
 url: /fr/net/groupdocs.signature.options.appearances/pdftextstickerappearance/
 ---
 ## PdfTextStickerAppearance class

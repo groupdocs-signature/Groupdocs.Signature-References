@@ -3,7 +3,7 @@ title: StampTypes
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Conteneur de types de tampons.
 type: docs
-weight: 910
+weight: 940
 url: /fr/net/groupdocs.signature.domain/stamptypes/
 ---
 ## StampTypes class

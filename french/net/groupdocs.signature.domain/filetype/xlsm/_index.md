@@ -3,7 +3,7 @@ title: XLSM
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Excel Open XML MacroEnabled Spreadsheet .xlsm est un type de tableur qui prend en charge les macros. En savoir plus sur ce format de fichiericihttps//wiki.fileformat.com/spreadsheet/xlsm .
 type: docs
-weight: 530
+weight: 540
 url: /fr/net/groupdocs.signature.domain/filetype/xlsm/
 ---
 ## FileType.XLSM field

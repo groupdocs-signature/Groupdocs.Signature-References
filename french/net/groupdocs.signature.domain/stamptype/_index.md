@@ -3,7 +3,7 @@ title: StampType
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Spécifiez les propriétés du type de tampon.
 type: docs
-weight: 900
+weight: 930
 url: /fr/net/groupdocs.signature.domain/stamptype/
 ---
 ## StampType class

@@ -3,7 +3,7 @@ title: ProcessLogs
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Collection de processus dhistorique de documents tels que signer mettre à jour supprimer.
 type: docs
-weight: 110
+weight: 120
 url: /fr/net/groupdocs.signature.domain/documentinfo/processlogs/
 ---
 ## DocumentInfo.ProcessLogs property

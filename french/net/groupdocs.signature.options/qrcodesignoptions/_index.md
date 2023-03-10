@@ -3,7 +3,7 @@ title: QrCodeSignOptions
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Représente les options de signature QRCode.
 type: docs
-weight: 1550
+weight: 1630
 url: /fr/net/groupdocs.signature.options/qrcodesignoptions/
 ---
 ## QrCodeSignOptions class
@@ -46,7 +46,7 @@ public class QrCodeSignOptions : TextSignOptions
 | [Left](../../groupdocs.signature.options/textsignoptions/left) { get; set; } | Position X gauche de la signature sur la page du document dans les valeurs de mesure (pixels, pourcentages ou millimètres voir[`MeasureType`](../../groupdocs.signature.domain/measuretype) Propriété LocationMeasureType). (fonctionne si l'alignement horizontal n'est pas spécifié). |
 | virtual [LocationMeasureType](../../groupdocs.signature.options/textsignoptions/locationmeasuretype) { get; set; } | Type de mesure (pixels, pourcentages ou millimètres) pour les propriétés Gauche et Haut. |
 | [LogoFilePath](../../groupdocs.signature.options/qrcodesignoptions/logofilepath) { get; set; } | Obtient ou définit le nom du fichier image du logo QR-code. Cette propriété n'est utilisée que si LogoStream n'est pas spécifié. L'utilisation de cette propriété peut entraîner des problèmes de vérification. Utilisez-le avec précaution. |
-| [LogoStream](../../groupdocs.signature.options/qrcodesignoptions/logostream) { get; set; } | Obtient ou définit le flux d'image du logo QR-code. Si cette propriété est spécifiée, elle est toujours utilisée à la place LogoFilePath. L'utilisation de cette propriété peut entraîner des problèmes de vérification. Utilisez-le avec précaution. |
+| [LogoStream](../../groupdocs.signature.options/qrcodesignoptions/logostream) { get; set; } | Obtient ou définit le flux d'images du logo du code QR. Si cette propriété est spécifiée, elle est toujours utilisée à la place LogoFilePath. L'utilisation de cette propriété peut entraîner des problèmes de vérification. Utilisez-le avec précaution. |
 | virtual [Margin](../../groupdocs.signature.options/textsignoptions/margin) { get; set; } | Obtient ou définit l'espace entre les bords du signe et du document. (fonctionne UNIQUEMENT si l'alignement horizontal ou vertical est spécifié). |
 | virtual [MarginMeasureType](../../groupdocs.signature.options/textsignoptions/marginmeasuretype) { get; set; } | Obtient ou définit le type de mesure (pixels, pourcentages ou millimètres) pour Margin. |
 | [Native](../../groupdocs.signature.options/textsignoptions/native) { get; set; } | Obtient ou définit l'attribut natif. S'il est défini, des signatures spécifiques au document peuvent être utilisées. Le filigrane de texte natif pour les documents de traitement de texte est différent de la norme, par exemple. |

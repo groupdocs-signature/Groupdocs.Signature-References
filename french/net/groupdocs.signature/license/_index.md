@@ -3,7 +3,7 @@ title: License
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Fournit des méthodes pour licencier le composant. En savoir plus sur les licencesicihttps//purchase.groupdocs.com/faqs/licensing .
 type: docs
-weight: 1100
+weight: 1130
 url: /fr/net/groupdocs.signature/license/
 ---
 ## License class

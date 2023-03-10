@@ -3,7 +3,7 @@ title: Mailmark
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Objet de type de codebarres Royal Mail 2D Mailmark.
 type: docs
-weight: 400
+weight: 430
 url: /fr/net/groupdocs.signature.domain/barcodetypes/mailmark/
 ---
 ## BarcodeTypes.Mailmark field

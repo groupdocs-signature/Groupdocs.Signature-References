@@ -3,7 +3,7 @@ title: Extension
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Suffixe du nom de fichier y compris le point . par exemple .doc.
 type: docs
-weight: 580
+weight: 590
 url: /fr/net/groupdocs.signature.domain/filetype/extension/
 ---
 ## FileType.Extension property

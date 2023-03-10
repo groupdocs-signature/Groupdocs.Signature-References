@@ -3,7 +3,7 @@ title: Standard2of5
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Objet Type de codebarres Standard2of5.
 type: docs
-weight: 570
+weight: 600
 url: /fr/net/groupdocs.signature.domain/barcodetypes/standard2of5/
 ---
 ## BarcodeTypes.Standard2of5 field

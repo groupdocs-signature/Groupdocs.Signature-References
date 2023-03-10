@@ -16,7 +16,7 @@ public override string ToString()
 
 ### Return_Value
 
-Chaîne de caractères.
+Chaîne.
 
 ### Voir également
 
