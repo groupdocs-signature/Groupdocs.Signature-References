@@ -3,7 +3,7 @@ title: FormatAttribute
 second_title: GroupDocs.Signature för .NET API-referens
 description: Instruerar objekt serialisering att serialisera medlemmen med angivet namn och format
 type: docs
-weight: 240
+weight: 260
 url: /sv/net/groupdocs.signature.domain.extensions/formatattribute/
 ---
 ## FormatAttribute class

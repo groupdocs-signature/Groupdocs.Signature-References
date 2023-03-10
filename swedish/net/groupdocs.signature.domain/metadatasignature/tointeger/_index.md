@@ -3,7 +3,7 @@ title: ToInteger
 second_title: GroupDocs.Signature för .NET API-referens
 description: Konverteras till heltal.
 type: docs
-weight: 120
+weight: 130
 url: /sv/net/groupdocs.signature.domain/metadatasignature/tointeger/
 ---
 ## MetadataSignature.ToInteger method

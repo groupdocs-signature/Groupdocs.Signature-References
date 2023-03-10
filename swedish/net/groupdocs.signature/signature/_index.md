@@ -3,7 +3,7 @@ title: Signature
 second_title: GroupDocs.Signature för .NET API-referens
 description: Representerar huvudklass som styr dokumentsigneringsprocessen.
 type: docs
-weight: 1800
+weight: 1880
 url: /sv/net/groupdocs.signature/signature/
 ---
 ## Signature class
@@ -21,7 +21,7 @@ public class Signature : IDisposable
 | [Signature](signature#constructor)(Stream) | Initierar ny instans av[`Signature`](../signature) klass med dokument som tillhandahålls av stream. |
 | [Signature](signature#constructor_4)(string) | Initierar ny instans av[`Signature`](../signature) klassinstans med dokument som tillhandahålls av filsökväg. |
 | [Signature](signature#constructor_1)(Stream, LoadOptions) | Initierar ny instans av[`Signature`](../signature) klass med dokument som tillhandahålls av ström- och laddningsalternativLoadOptions . |
-| [Signature](signature#constructor_3)(Stream, SignatureSettings) | Initierar ny instans av[`Signature`](../signature) klassinstans med dokument som tillhandahålls av stream och[`SignatureSettings`](../signaturesettings) . |
+| [Signature](signature#constructor_3)(Stream, SignatureSettings) | Initierar ny instans av[`Signature`](../signature)klassinstans med dokument som tillhandahålls av stream och[`SignatureSettings`](../signaturesettings) . |
 | [Signature](signature#constructor_5)(string, LoadOptions) | Initierar ny instans av[`Signature`](../signature) klassinstans med dokument som tillhandahålls av filsökväg ochLoadOptions . |
 | [Signature](signature#constructor_7)(string, SignatureSettings) | Initierar ny instans av[`Signature`](../signature) klassinstans med dokument som tillhandahålls av filsökväg och[`SignatureSettings`](../signaturesettings) . |
 | [Signature](signature#constructor_2)(Stream, LoadOptions, SignatureSettings) | Initierar ny instans av[`Signature`](../signature) klassinstans med dokument som tillhandahålls av stream, laddningsalternativLoadOptions och inställningar[`SignatureSettings`](../signaturesettings) . |
@@ -48,8 +48,8 @@ public class Signature : IDisposable
 | [Sign](../../groupdocs.signature/signature/sign#sign)(Stream, SignOptions) | Signerar dokument med[`SignOptions`](../../groupdocs.signature.options/signoptions) och sparar resultatet i en stream. |
 | [Sign](../../groupdocs.signature/signature/sign#sign_6)(string, List&lt;SignOptions&gt;) | Signerar dokument med samling av[`SignOptions`](../../groupdocs.signature.options/signoptions) och sparar resultatet till angiven filsökväg. |
 | [Sign](../../groupdocs.signature/signature/sign#sign_4)(string, SignOptions) | Signerar dokument med[`SignOptions`](../../groupdocs.signature.options/signoptions) och sparar resultatet till angiven filsökväg. |
-| [Sign](../../groupdocs.signature/signature/sign#sign_3)(Stream, List&lt;SignOptions&gt;, SaveOptions) | Signerar dokument med samling av[`SignOptions`](../../groupdocs.signature.options/signoptions) och sparar resultatet till en ström med fördefinierade[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
-| [Sign](../../groupdocs.signature/signature/sign#sign_1)(Stream, SignOptions, SaveOptions) | Signerar dokument med[`SignOptions`](../../groupdocs.signature.options/signoptions) och sparar resultatet till en ström med fördefinierade[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
+| [Sign](../../groupdocs.signature/signature/sign#sign_3)(Stream, List&lt;SignOptions&gt;, SaveOptions) | Signerar dokument med samling av[`SignOptions`](../../groupdocs.signature.options/signoptions)och sparar resultatet till en ström med fördefinierade[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
+| [Sign](../../groupdocs.signature/signature/sign#sign_1)(Stream, SignOptions, SaveOptions) | Signerar dokument med[`SignOptions`](../../groupdocs.signature.options/signoptions)och sparar resultatet till en ström med fördefinierade[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
 | [Sign](../../groupdocs.signature/signature/sign#sign_7)(string, List&lt;SignOptions&gt;, SaveOptions) | Signerar dokument med samling av[`SignOptions`](../../groupdocs.signature.options/signoptions) och sparar resultatet till angiven filsökväg med fördefinierad[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
 | [Sign](../../groupdocs.signature/signature/sign#sign_5)(string, SignOptions, SaveOptions) | Signerar dokument med[`SignOptions`](../../groupdocs.signature.options/signoptions) och sparar resultatet till angiven filsökväg med fördefinierad[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
 | [Update](../../groupdocs.signature/signature/update#update)(BaseSignature) | Uppdateringar passerade signatur[`BaseSignature`](../../groupdocs.signature.domain/basesignature) i dokumentet. |

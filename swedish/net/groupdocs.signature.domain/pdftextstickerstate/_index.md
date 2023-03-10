@@ -3,7 +3,7 @@ title: PdfTextStickerState
 second_title: GroupDocs.Signature för .NET API-referens
 description: Beskriver uppräkning av PDFtextanteckningsdekaler.
 type: docs
-weight: 700
+weight: 730
 url: /sv/net/groupdocs.signature.domain/pdftextstickerstate/
 ---
 ## PdfTextStickerState enumeration

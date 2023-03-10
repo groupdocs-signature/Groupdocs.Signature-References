@@ -3,7 +3,7 @@ title: ImageSignOptions
 second_title: GroupDocs.Signature för .NET API-referens
 description: Representerar bildsignaturalternativen.
 type: docs
-weight: 1340
+weight: 1420
 url: /sv/net/groupdocs.signature.options/imagesignoptions/
 ---
 ## ImageSignOptions class

@@ -3,7 +3,7 @@ title: SingaporePost
 second_title: GroupDocs.Signature för .NET API-referens
 description: SingaporePost streckkodstypobjekt.
 type: docs
-weight: 550
+weight: 580
 url: /sv/net/groupdocs.signature.domain/barcodetypes/singaporepost/
 ---
 ## BarcodeTypes.SingaporePost field

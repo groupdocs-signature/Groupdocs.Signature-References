@@ -3,7 +3,7 @@ title: CryptoCurrencyType
 second_title: GroupDocs.Signature för .NET API-referens
 description: Representerar kryptovalutatyp.
 type: docs
-weight: 200
+weight: 210
 url: /sv/net/groupdocs.signature.domain.extensions/cryptocurrencytype/
 ---
 ## CryptoCurrencyType enumeration
@@ -21,7 +21,7 @@ public enum CryptoCurrencyType
 | Custom | `0` | Representerar anpassad kryptovalutatyp. |
 | Bitcoin | `1` | Representerar Bitcoin kryptovalutatyp. |
 | BitcoinCash | `2` | Representerar Bitcoin Cash kryptovalutatyp. |
-| Litecoin | `3` | Representerar Litecoin kryptovalutatyp. |
+| Litecoin | `3` | Representerar Litecoin kryptovaluta typ. |
 | Ethereum | `4` | Representerar Ethereums kryptovalutatyp. |
 | Dash | `5` | Representerar Dash kryptovalutatyp. |
 

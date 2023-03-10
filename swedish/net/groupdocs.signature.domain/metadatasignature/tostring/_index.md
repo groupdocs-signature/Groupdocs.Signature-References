@@ -3,7 +3,7 @@ title: ToString
 second_title: GroupDocs.Signature för .NET API-referens
 description: Konverterar till String med åsidosätt ToString method
 type: docs
-weight: 140
+weight: 150
 url: /sv/net/groupdocs.signature.domain/metadatasignature/tostring/
 ---
 ## ToString() {#tostring}
@@ -21,34 +21,6 @@ Returnerar Metadata Signature-värdet som String.
 ### Anmärkningar
 
 Konverterar en boolesk egenskap till "True" eller "False". För en annan datatyp kommer standarddataformatleverantören att användas.
-
-### Se även
-
-* class [MetadataSignature](../../metadatasignature)
-* namnutrymme [GroupDocs.Signature.Domain](../../metadatasignature)
-* hopsättning [GroupDocs.Signature](../../../)
-
----
-
-## ToString(string) {#tostring_1}
-
-Konverterar till sträng med specificerat format
-
-```csharp
-public virtual string ToString(string format)
-```
-
-| Parameter | Typ | Beskrivning |
-| --- | --- | --- |
-| format | String | Dataformatsträng. |
-
-### Returvärde
-
-Returnerar Metadata Signature-värdet som String.
-
-### Anmärkningar
-
-Konverterar en boolesk egenskap till "True" eller "False". Standardkulturegenskapsinformation kommer att användas från SignatureSettings-egenskaper[`DefaultCulture`](../../../groupdocs.signature/signaturesettings/defaultculture)
 
 ### Se även
 
@@ -78,6 +50,34 @@ Returnerar Metadata Signature-värdet som String.
 ### Anmärkningar
 
 Konverterar en boolesk egenskap till "True" eller "False".
+
+### Se även
+
+* class [MetadataSignature](../../metadatasignature)
+* namnutrymme [GroupDocs.Signature.Domain](../../metadatasignature)
+* hopsättning [GroupDocs.Signature](../../../)
+
+---
+
+## ToString(string) {#tostring_1}
+
+Konverterar till sträng med specificerat format
+
+```csharp
+public virtual string ToString(string format)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| format | String | Dataformatsträng. |
+
+### Returvärde
+
+Returnerar Metadata Signature-värdet som String.
+
+### Anmärkningar
+
+Konverterar en boolesk egenskap till "True" eller "False". Standardkulturegenskapsinformation kommer att användas från SignatureSettings-egenskaper[`DefaultCulture`](../../../groupdocs.signature/signaturesettings/defaultculture)
 
 ### Se även
 

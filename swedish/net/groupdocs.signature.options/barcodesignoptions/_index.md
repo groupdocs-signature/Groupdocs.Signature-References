@@ -3,7 +3,7 @@ title: BarcodeSignOptions
 second_title: GroupDocs.Signature för .NET API-referens
 description: Representerar streckkodssignaturalternativen.
 type: docs
-weight: 1190
+weight: 1260
 url: /sv/net/groupdocs.signature.options/barcodesignoptions/
 ---
 ## BarcodeSignOptions class
@@ -37,7 +37,7 @@ public class BarcodeSignOptions : TextSignOptions
 | [Font](../../groupdocs.signature.options/textsignoptions/font) { get; set; } | Hämtar eller ställer in teckensnitt för signatur. |
 | override [ForeColor](../../groupdocs.signature.options/barcodesignoptions/forecolor) { get; set; } | Hämtar eller ställer in framfärgen för streckkodsstreck Användning av den här egenskapen kan orsaka problem med verifieringen. Använd den försiktigt. |
 | [FormTextFieldTitle](../../groupdocs.signature.options/textsignoptions/formtextfieldtitle) { get; set; } | Hämtar eller ställer in titeln på textformulärfältet för att lägga in textsignatur i det. Den här egenskapen kunde endast användas med SignatureImplementation = TextToFormField. |
-| [FormTextFieldType](../../groupdocs.signature.options/textsignoptions/formtextfieldtype) { get; set; } | Hämtar eller ställer in typen av formulärfält för att lägga textsignatur i det. Den här egenskapen kunde endast användas med SignatureImplementation = TextToFormField. Värdet som standard är AllTextTypes. |
+| [FormTextFieldType](../../groupdocs.signature.options/textsignoptions/formtextfieldtype) { get; set; } | Hämtar eller ställer in typen av formulärfält för att lägga in textsignatur i det. Den här egenskapen kunde endast användas med SignatureImplementation = TextToFormField. Värdet som standard är AllTextTypes. |
 | [Height](../../groupdocs.signature.options/textsignoptions/height) { get; set; } | Signaturhöjd på dokumentsida i måtten värden (pixlar, procent eller millimeter se[`MeasureType`](../../groupdocs.signature.domain/measuretype) SizeMeasureType-egenskap). |
 | [HorizontalAlignment](../../groupdocs.signature.options/textsignoptions/horizontalalignment) { get; set; } | Horisontell justering av signatur på dokumentsidan. |
 | [InnerMargins](../../groupdocs.signature.options/barcodesignoptions/innermargins) { get; set; } | Hämtar eller ställer in utrymmet mellan streckkodselement och resultatbildskanter. |

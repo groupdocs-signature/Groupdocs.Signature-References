@@ -20,7 +20,7 @@ public override bool Equals(object obj)
 
 ### Returvärde
 
-Returnerar sant om det passerade Crypto-valutaöverföringsobjektet har samma typ och alla dess egenskaper är lika med denna instansegenskaper.
+Returnerar sant om det godkända överföringsobjektet för kryptovaluta har samma typ och alla dess egenskaper är lika med denna instansegenskaper.
 
 ### Se även
 

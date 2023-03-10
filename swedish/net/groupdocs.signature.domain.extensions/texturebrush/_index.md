@@ -3,7 +3,7 @@ title: TextureBrush
 second_title: GroupDocs.Signature för .NET API-referens
 description: Representerar texturborste.
 type: docs
-weight: 390
+weight: 410
 url: /sv/net/groupdocs.signature.domain.extensions/texturebrush/
 ---
 ## TextureBrush class

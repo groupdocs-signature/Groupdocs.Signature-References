@@ -3,7 +3,7 @@ title: PdfTextStickerIcon
 second_title: GroupDocs.Signature för .NET API-referens
 description: Beskriver uppräkning av PDFtextanteckningsdekalikonens utseende.
 type: docs
-weight: 690
+weight: 720
 url: /sv/net/groupdocs.signature.domain/pdftextstickericon/
 ---
 ## PdfTextStickerIcon enumeration

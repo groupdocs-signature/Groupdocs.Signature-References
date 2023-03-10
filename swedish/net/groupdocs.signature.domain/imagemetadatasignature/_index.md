@@ -3,7 +3,7 @@ title: ImageMetadataSignature
 second_title: GroupDocs.Signature för .NET API-referens
 description: Innehåller signaturegenskaper för bildmetadata.
 type: docs
-weight: 550
+weight: 570
 url: /sv/net/groupdocs.signature.domain/imagemetadatasignature/
 ---
 ## ImageMetadataSignature class
@@ -39,6 +39,7 @@ public sealed class ImageMetadataSignature : MetadataSignature
 | [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | Anger typen av signatur. |
 | [Size](../../groupdocs.signature.domain/imagemetadatasignature/size) { get; } | Skrivskyddat värde för att få storleken på Metadata value |
 | [Top](../../groupdocs.signature.domain/basesignature/top) { get; set; } | Anger signaturens topposition. |
+| [Type](../../groupdocs.signature.domain/metadatasignature/type) { get; } | Anger metadatavärdetyp. |
 | [Value](../../groupdocs.signature.domain/metadatasignature/value) { get; set; } | Anger metadataobjekt. |
 | [Width](../../groupdocs.signature.domain/basesignature/width) { get; set; } | Anger signaturens bredd. |
 

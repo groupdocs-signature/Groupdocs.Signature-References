@@ -3,7 +3,7 @@ title: Mailmark
 second_title: GroupDocs.Signature för .NET API-referens
 description: Royal Mail 2D postmärke Streckkod Typ objekt.
 type: docs
-weight: 400
+weight: 430
 url: /sv/net/groupdocs.signature.domain/barcodetypes/mailmark/
 ---
 ## BarcodeTypes.Mailmark field

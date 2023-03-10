@@ -3,7 +3,7 @@ title: ToString
 second_title: GroupDocs.Signature för .NET API-referens
 description: Returnerar en sträng som representerar det aktuella objektet.
 type: docs
-weight: 620
+weight: 630
 url: /sv/net/groupdocs.signature.domain/filetype/tostring/
 ---
 ## FileType.ToString method

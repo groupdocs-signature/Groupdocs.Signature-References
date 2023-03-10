@@ -3,7 +3,7 @@ title: TextVerticalAlignment
 second_title: GroupDocs.Signature för .NET API-referens
 description: Anger vertikal justering av text inuti en signatur.
 type: docs
-weight: 990
+weight: 1020
 url: /sv/net/groupdocs.signature.domain/textverticalalignment/
 ---
 ## TextVerticalAlignment enumeration

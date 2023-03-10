@@ -65,7 +65,7 @@ public Signature(Stream document, LoadOptions loadOptions)
 
 ## Signature(Stream, SignatureSettings) {#constructor_3}
 
-Initierar ny instans av[`Signature`](../../signature) klassinstans med dokument som tillhandahålls av stream och[`SignatureSettings`](../../signaturesettings) .
+Initierar ny instans av[`Signature`](../../signature)klassinstans med dokument som tillhandahålls av stream och[`SignatureSettings`](../../signaturesettings) .
 
 ```csharp
 public Signature(Stream document, SignatureSettings settings)

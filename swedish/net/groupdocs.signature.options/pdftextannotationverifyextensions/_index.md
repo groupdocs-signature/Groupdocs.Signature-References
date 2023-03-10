@@ -3,7 +3,7 @@ title: PdfTextAnnotationVerifyExtensions
 second_title: GroupDocs.Signature för .NET API-referens
 description: Beskriver förlängningar av verifiering av PDFtextanteckning object
 type: docs
-weight: 1440
+weight: 1520
 url: /sv/net/groupdocs.signature.options/pdftextannotationverifyextensions/
 ---
 ## PdfTextAnnotationVerifyExtensions class

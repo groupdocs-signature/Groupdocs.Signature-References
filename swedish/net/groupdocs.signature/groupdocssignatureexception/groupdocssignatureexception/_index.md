@@ -1,14 +1,14 @@
 ---
 title: GroupDocsSignatureException
 second_title: GroupDocs.Signature för .NET API-referens
-description: Initierar en ny instans avGroupDocsSignatureExceptiongroupdocs.signature/groupdocssignatureexception class.
+description: Initierar en ny instans avGroupDocsSignatureExceptiongroupdocs.signature/groupdocssignatureexceptionclass.
 type: docs
 weight: 10
 url: /sv/net/groupdocs.signature/groupdocssignatureexception/groupdocssignatureexception/
 ---
 ## GroupDocsSignatureException() {#constructor}
 
-Initierar en ny instans av[`GroupDocsSignatureException`](../../groupdocssignatureexception) class.
+Initierar en ny instans av[`GroupDocsSignatureException`](../../groupdocssignatureexception)class.
 
 ```csharp
 public GroupDocsSignatureException()
@@ -24,7 +24,7 @@ public GroupDocsSignatureException()
 
 ## GroupDocsSignatureException(string) {#constructor_2}
 
-Initierar en ny instans av[`GroupDocsSignatureException`](../../groupdocssignatureexception)klass med ett specificerat felmeddelande.
+Initierar en ny instans av[`GroupDocsSignatureException`](../../groupdocssignatureexception) klass med ett specificerat felmeddelande.
 
 ```csharp
 public GroupDocsSignatureException(string message)

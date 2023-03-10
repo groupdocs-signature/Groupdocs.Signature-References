@@ -3,7 +3,7 @@ title: RadioButtonFormFieldSignature
 second_title: GroupDocs.Signature för .NET API-referens
 description: Innehåller egenskaper för formulärfältsignatur för radioknappsinmatning.
 type: docs
-weight: 790
+weight: 820
 url: /sv/net/groupdocs.signature.domain/radiobuttonformfieldsignature/
 ---
 ## RadioButtonFormFieldSignature class

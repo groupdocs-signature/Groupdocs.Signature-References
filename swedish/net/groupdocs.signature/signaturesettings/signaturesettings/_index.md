@@ -1,14 +1,14 @@
 ---
 title: SignatureSettings
 second_title: GroupDocs.Signature för .NET API-referens
-description: Default_Constructor
+description: Skapar standard SignatureSettingsinstans med standardvärden.
 type: docs
 weight: 10
 url: /sv/net/groupdocs.signature/signaturesettings/signaturesettings/
 ---
-## SignatureSettings constructor
+## SignatureSettings() {#constructor}
 
-Default_Constructor
+Skapar standard SignatureSettings-instans med standardvärden.
 
 ```csharp
 public SignatureSettings()
@@ -16,6 +16,27 @@ public SignatureSettings()
 
 ### Se även
 
+* class [SignatureSettings](../../signaturesettings)
+* namnutrymme [GroupDocs.Signature](../../signaturesettings)
+* hopsättning [GroupDocs.Signature](../../../)
+
+---
+
+## SignatureSettings(ILogger) {#constructor_1}
+
+Skapar standard SignatureSettings-instans med Logger-implementeringen.
+
+```csharp
+public SignatureSettings(ILogger logger)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| logger | ILogger |  |
+
+### Se även
+
+* interface [ILogger](../../../groupdocs.signature.logging/ilogger)
 * class [SignatureSettings](../../signaturesettings)
 * namnutrymme [GroupDocs.Signature](../../signaturesettings)
 * hopsättning [GroupDocs.Signature](../../../)

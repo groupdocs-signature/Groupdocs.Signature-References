@@ -1,14 +1,14 @@
 ---
 title: SaveDocumentOnEmptyDelete
 second_title: GroupDocs.Signature för .NET API-referens
-description: Hämtar eller ställer in flagga för att återspara källdokument när raderingsmetoden inte har några påverkade signaturer att ta bort. Om denna flagga är inställd på sant som standard kommer dokumentet att sparas med motsvarande historikprocesslogg datum och operationstyp även om raderingsmetoden har inga signaturer att ta bort. När denna lägenhet är inställd på falskt källdokument kommer inte att ändras alls.
+description: Hämtar eller ställer in flaggan för att återspara källdokument när raderingsmetoden inte har några påverkade signaturer att ta bort. Om denna flagga är inställd på sant som standard kommer dokumentet att sparas med motsvarande historikprocesslogg datum och operationstyp även om Raderingsmetoden har inga signaturer att ta bort. När denna lägenhet är inställd på falskt källdokument kommer inte att ändras alls.
 type: docs
-weight: 30
+weight: 60
 url: /sv/net/groupdocs.signature/signaturesettings/savedocumentonemptydelete/
 ---
 ## SignatureSettings.SaveDocumentOnEmptyDelete property
 
-Hämtar eller ställer in flagga för att återspara källdokument när raderingsmetoden inte har några påverkade signaturer att ta bort. Om denna flagga är inställd på sant (som standard) kommer dokumentet att sparas med motsvarande historikprocesslogg (datum och operationstyp) även om raderingsmetoden har inga signaturer att ta bort. När denna lägenhet är inställd på falskt källdokument kommer inte att ändras alls.
+Hämtar eller ställer in flaggan för att återspara källdokument när raderingsmetoden inte har några påverkade signaturer att ta bort. Om denna flagga är inställd på sant (som standard) kommer dokumentet att sparas med motsvarande historikprocesslogg (datum och operationstyp) även om Raderingsmetoden har inga signaturer att ta bort. När denna lägenhet är inställd på falskt källdokument kommer inte att ändras alls.
 
 ```csharp
 public bool SaveDocumentOnEmptyDelete { get; set; }

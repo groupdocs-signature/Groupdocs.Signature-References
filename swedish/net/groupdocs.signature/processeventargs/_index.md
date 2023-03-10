@@ -3,7 +3,7 @@ title: ProcessEventArgs
 second_title: GroupDocs.Signature för .NET API-referens
 description: Tillhandahåller data för olika händelser av signatur verifierings och sökprocesser.
 type: docs
-weight: 1750
+weight: 1830
 url: /sv/net/groupdocs.signature/processeventargs/
 ---
 ## ProcessEventArgs class

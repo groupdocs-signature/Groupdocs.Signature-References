@@ -1,14 +1,14 @@
 ---
 title: Completed
 second_title: GroupDocs.Signature för .NET API-referens
-description: Representerar tidpunkten för processens slutförande.
+description: Representerar tidsmärket för processens slutförande.
 type: docs
 weight: 20
 url: /sv/net/groupdocs.signature/processcompleteeventargs/completed/
 ---
 ## ProcessCompleteEventArgs.Completed property
 
-Representerar tidpunkten för processens slutförande.
+Representerar tidsmärket för processens slutförande.
 
 ```csharp
 public DateTime Completed { get; set; }

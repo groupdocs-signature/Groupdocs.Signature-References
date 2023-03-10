@@ -3,7 +3,7 @@ title: SpreadsheetSaveOptions
 second_title: GroupDocs.Signature för .NET API-referens
 description: Spara alternativ för kalkylarksdokument.
 type: docs
-weight: 1620
+weight: 1700
 url: /sv/net/groupdocs.signature.options/spreadsheetsaveoptions/
 ---
 ## SpreadsheetSaveOptions class

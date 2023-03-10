@@ -3,7 +3,7 @@ title: ProcessProgressEventArgs
 second_title: GroupDocs.Signature för .NET API-referens
 description: Tillhandahåller data för OnProgresshändelser för signering verifiering och sökprocesser.
 type: docs
-weight: 1760
+weight: 1840
 url: /sv/net/groupdocs.signature/processprogresseventargs/
 ---
 ## ProcessProgressEventArgs class
@@ -26,9 +26,9 @@ public class ProcessProgressEventArgs : ProcessEventArgs
 | --- | --- |
 | [Cancel](../../groupdocs.signature/processprogresseventargs/cancel) { get; set; } | Indikerar om processen ska avbrytas. |
 | [ProcessedSignatures](../../groupdocs.signature/processprogresseventargs/processedsignatures) { get; set; } | Representerar mängden bearbetade signaturer. |
-| [Progress](../../groupdocs.signature/processprogresseventargs/progress) { get; set; } | Representerar framsteg i procent. Värdeintervallet är från 0 till 100. |
+| [Progress](../../groupdocs.signature/processprogresseventargs/progress) { get; set; } | Representerar framstegen i procent. Värdeintervallet är från 0 till 100. |
 | [Status](../../groupdocs.signature/processeventargs/status) { get; set; } | Indikerar aktuellt processtillstånd. |
-| [Ticks](../../groupdocs.signature/processprogresseventargs/ticks) { get; set; } | Representerar tid som spenderats i millisekunder sedan processstarthändelse. |
+| [Ticks](../../groupdocs.signature/processprogresseventargs/ticks) { get; set; } | Representerar tiden i millisekunder sedan process Start-händelse. |
 
 ### Se även
 

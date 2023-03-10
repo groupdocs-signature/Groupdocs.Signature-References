@@ -3,7 +3,7 @@ title: Brush
 second_title: GroupDocs.Signature för .NET API-referens
 description: Representerar basklass för olika borstar.
 type: docs
-weight: 180
+weight: 190
 url: /sv/net/groupdocs.signature.domain.extensions/brush/
 ---
 ## Brush class

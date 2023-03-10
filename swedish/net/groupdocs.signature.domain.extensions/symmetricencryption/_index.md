@@ -3,7 +3,7 @@ title: SymmetricEncryption
 second_title: GroupDocs.Signature för .NET API-referens
 description: Implementerar symmetriska standardalgoritmer för datakryptering med enkel nyckel och lösenordsfras salt.
 type: docs
-weight: 360
+weight: 380
 url: /sv/net/groupdocs.signature.domain.extensions/symmetricencryption/
 ---
 ## SymmetricEncryption class

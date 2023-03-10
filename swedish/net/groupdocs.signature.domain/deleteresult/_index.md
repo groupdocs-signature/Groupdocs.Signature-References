@@ -3,7 +3,7 @@ title: DeleteResult
 second_title: GroupDocs.Signature för .NET API-referens
 description: Resultat av borttagning av signaturer från dokumentet.
 type: docs
-weight: 120
+weight: 130
 url: /sv/net/groupdocs.signature.domain/deleteresult/
 ---
 ## DeleteResult class
@@ -18,8 +18,12 @@ public class DeleteResult : IResult
 
 | namn | Beskrivning |
 | --- | --- |
+| [DestinDocumentSize](../../groupdocs.signature.domain/deleteresult/destindocumentsize) { get; } | Returnerar uppdaterad dokumentstorlek. |
 | [Failed](../../groupdocs.signature.domain/deleteresult/failed) { get; } | Lista över signaturer som inte raderades[`BaseSignature`](../basesignature) . |
+| [ProcessingTime](../../groupdocs.signature.domain/deleteresult/processingtime) { get; } | Returnerar exekveringstiden för processen i millisekunder. |
+| [SourceDocumentSize](../../groupdocs.signature.domain/deleteresult/sourcedocumentsize) { get; } | Returnerar källdokumentets storlek. |
 | [Succeeded](../../groupdocs.signature.domain/deleteresult/succeeded) { get; } | Lista över framgångsrika borttagna signaturer[`BaseSignature`](../basesignature) . |
+| [TotalSignatures](../../groupdocs.signature.domain/deleteresult/totalsignatures) { get; } | Returnerar det totala antalet behandlade signaturer. |
 
 ### Se även
 

@@ -3,7 +3,7 @@ title: BarcodeVerifyOptions
 second_title: GroupDocs.Signature för .NET API-referens
 description: Representerar streckkodsverifieringsalternativen.
 type: docs
-weight: 1200
+weight: 1270
 url: /sv/net/groupdocs.signature.options/barcodeverifyoptions/
 ---
 ## BarcodeVerifyOptions class

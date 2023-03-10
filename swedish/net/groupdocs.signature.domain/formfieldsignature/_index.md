@@ -3,7 +3,7 @@ title: FormFieldSignature
 second_title: GroupDocs.Signature för .NET API-referens
 description: Innehåller egenskaper för formulärfältsignatur.
 type: docs
-weight: 440
+weight: 460
 url: /sv/net/groupdocs.signature.domain/formfieldsignature/
 ---
 ## FormFieldSignature class

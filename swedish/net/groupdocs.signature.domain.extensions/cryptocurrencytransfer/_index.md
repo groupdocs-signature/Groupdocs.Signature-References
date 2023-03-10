@@ -1,14 +1,14 @@
 ---
 title: CryptoCurrencyTransfer
 second_title: GroupDocs.Signature för .NET API-referens
-description: Representerar kryptovalutaöverföring ta emot eller skicka för QRkod.
+description: Representerar överföring av kryptovaluta ta emot eller skicka för QRkod.
 type: docs
-weight: 190
+weight: 200
 url: /sv/net/groupdocs.signature.domain.extensions/cryptocurrencytransfer/
 ---
 ## CryptoCurrencyTransfer class
 
-Representerar kryptovalutaöverföring (ta emot eller skicka) för QR-kod.
+Representerar överföring av kryptovaluta (ta emot eller skicka) för QR-kod.
 
 ```csharp
 public class CryptoCurrencyTransfer

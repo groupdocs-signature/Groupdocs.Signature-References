@@ -42,7 +42,7 @@ Returnerar instans av[`SignResult`](../../../groupdocs.signature.domain/signresu
 
 ## Sign(Stream, SignOptions, SaveOptions) {#sign_1}
 
-Signerar dokument med[`SignOptions`](../../../groupdocs.signature.options/signoptions) och sparar resultatet till en ström med fördefinierade[`SaveOptions`](../../../groupdocs.signature.options/saveoptions) .
+Signerar dokument med[`SignOptions`](../../../groupdocs.signature.options/signoptions)och sparar resultatet till en ström med fördefinierade[`SaveOptions`](../../../groupdocs.signature.options/saveoptions) .
 
 ```csharp
 public SignResult Sign(Stream document, SignOptions signOptions, SaveOptions saveOptions)
@@ -113,7 +113,7 @@ Returnerar instans av[`SignResult`](../../../groupdocs.signature.domain/signresu
 
 ## Sign(Stream, List&lt;SignOptions&gt;, SaveOptions) {#sign_3}
 
-Signerar dokument med samling av[`SignOptions`](../../../groupdocs.signature.options/signoptions) och sparar resultatet till en ström med fördefinierade[`SaveOptions`](../../../groupdocs.signature.options/saveoptions) .
+Signerar dokument med samling av[`SignOptions`](../../../groupdocs.signature.options/signoptions)och sparar resultatet till en ström med fördefinierade[`SaveOptions`](../../../groupdocs.signature.options/saveoptions) .
 
 ```csharp
 public SignResult Sign(Stream document, List<SignOptions> signOptionsList, SaveOptions saveOptions)

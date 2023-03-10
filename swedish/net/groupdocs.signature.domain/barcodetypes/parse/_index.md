@@ -3,7 +3,7 @@ title: Parse
 second_title: GroupDocs.Signature för .NET API-referens
 description: Returnerar streckkodstyp med pasringTypenamn. Om namnet på streckkoden är okänt  undantag kommer att kastas.
 type: docs
-weight: 640
+weight: 670
 url: /sv/net/groupdocs.signature.domain/barcodetypes/parse/
 ---
 ## BarcodeTypes.Parse method

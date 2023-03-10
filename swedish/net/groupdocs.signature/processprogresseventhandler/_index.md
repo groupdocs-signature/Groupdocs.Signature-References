@@ -3,7 +3,7 @@ title: ProcessProgressEventHandler
 second_title: GroupDocs.Signature för .NET API-referens
 description: Representerar en metodombud som kommer att hantera processer för förloppshändelser för signering verifiering och sökning.
 type: docs
-weight: 1770
+weight: 1850
 url: /sv/net/groupdocs.signature/processprogresseventhandler/
 ---
 ## ProcessProgressEventHandler delegate

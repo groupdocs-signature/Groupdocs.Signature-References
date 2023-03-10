@@ -3,7 +3,7 @@ title: ProcessLogs
 second_title: GroupDocs.Signature för .NET API-referens
 description: Samling av processloggar för dokumenthistorik.
 type: docs
-weight: 100
+weight: 110
 url: /sv/net/groupdocs.signature.domain/idocumentinfo/processlogs/
 ---
 ## IDocumentInfo.ProcessLogs property

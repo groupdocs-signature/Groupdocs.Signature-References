@@ -3,7 +3,7 @@ title: SpreadsheetPosition
 second_title: GroupDocs.Signature för .NET API-referens
 description: Definierar signaturposition för kalkylarksdokument.
 type: docs
-weight: 340
+weight: 360
 url: /sv/net/groupdocs.signature.domain.extensions/spreadsheetposition/
 ---
 ## SpreadsheetPosition class

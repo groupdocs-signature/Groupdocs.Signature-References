@@ -3,7 +3,7 @@ title: IDocumentInfo
 second_title: GroupDocs.Signature för .NET API-referens
 description: Definierar dokumentbeskrivningsegenskaper.
 type: docs
-weight: 490
+weight: 510
 url: /sv/net/groupdocs.signature.domain/idocumentinfo/
 ---
 ## IDocumentInfo interface
@@ -25,6 +25,7 @@ public interface IDocumentInfo
 | [FormFieldSignatures](../../groupdocs.signature.domain/idocumentinfo/formfieldsignatures) { get; } | Samling av dokument Form Fältsignaturer tillagda eller uppdaterade av[`Signature`](../../groupdocs.signature/signature) metoder. |
 | [ImageSignatures](../../groupdocs.signature.domain/idocumentinfo/imagesignatures) { get; } | Samling av dokumentbildsignaturer tillagda eller uppdaterade av[`Signature`](../../groupdocs.signature/signature) metoder. |
 | [MaxPageHeight](../../groupdocs.signature.domain/idocumentinfo/maxpageheight) { get; set; } | Anger max sidhöjd. |
+| [MetadataSignatures](../../groupdocs.signature.domain/idocumentinfo/metadatasignatures) { get; } | Samling av dokumentmetadatasignaturer. |
 | [PageCount](../../groupdocs.signature.domain/idocumentinfo/pagecount) { get; set; } | Dokumentsidor räknas. |
 | [Pages](../../groupdocs.signature.domain/idocumentinfo/pages) { get; set; } | Samling av beskrivningar av dokumentsidor. |
 | [ProcessLogs](../../groupdocs.signature.domain/idocumentinfo/processlogs) { get; } | Samling av processloggar för dokumenthistorik. |

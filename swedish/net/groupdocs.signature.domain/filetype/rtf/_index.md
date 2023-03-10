@@ -3,7 +3,7 @@ title: RTF
 second_title: GroupDocs.Signature för .NET API-referens
 description: Rich Text Format File .rtf representerar en metod för att koda formaterad text och grafik för användning i applikationer. Läs mer om detta filformathärhttps//wiki.fileformat.com/wordprocessing/rtf .
 type: docs
-weight: 400
+weight: 410
 url: /sv/net/groupdocs.signature.domain/filetype/rtf/
 ---
 ## FileType.RTF field

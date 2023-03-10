@@ -3,7 +3,7 @@ title: GroupDocsSignatureException
 second_title: GroupDocs.Signature för .NET API-referens
 description: Representerar de allmänna fel som uppstår under dokumentbehandling.
 type: docs
-weight: 1080
+weight: 1110
 url: /sv/net/groupdocs.signature/groupdocssignatureexception/
 ---
 ## GroupDocsSignatureException class
@@ -18,8 +18,8 @@ public class GroupDocsSignatureException : Exception
 
 | namn | Beskrivning |
 | --- | --- |
-| [GroupDocsSignatureException](groupdocssignatureexception#constructor)() | Initierar en ny instans av[`GroupDocsSignatureException`](../groupdocssignatureexception) class. |
-| [GroupDocsSignatureException](groupdocssignatureexception#constructor_2)(string) | Initierar en ny instans av[`GroupDocsSignatureException`](../groupdocssignatureexception)klass med ett specificerat felmeddelande. |
+| [GroupDocsSignatureException](groupdocssignatureexception#constructor)() | Initierar en ny instans av[`GroupDocsSignatureException`](../groupdocssignatureexception)class. |
+| [GroupDocsSignatureException](groupdocssignatureexception#constructor_2)(string) | Initierar en ny instans av[`GroupDocsSignatureException`](../groupdocssignatureexception) klass med ett specificerat felmeddelande. |
 | [GroupDocsSignatureException](groupdocssignatureexception#constructor_1)(Exception, string) | Initierar en ny instans av[`GroupDocsSignatureException`](../groupdocssignatureexception) klass med ett specificerat felmeddelande och ursprungligt undantag. |
 
 ## Metoder

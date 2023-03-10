@@ -3,7 +3,7 @@ title: TIF
 second_title: GroupDocs.Signature för .NET API-referens
 description: Taggad bildfil .tif representerar rasterbilder som är avsedda för användning på en mängd olika enheter som överensstämmer med denna filformatstandard. Den kan beskriva bilevel gråskala palettfärg och fullfärgsbilddata i flera färgrymder. Läs mer om detta filformathärhttps//wiki.fileformat.com/image/tiff .
 type: docs
-weight: 420
+weight: 430
 url: /sv/net/groupdocs.signature.domain/filetype/tif/
 ---
 ## FileType.TIF field

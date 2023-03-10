@@ -3,7 +3,7 @@ title: XLT
 second_title: GroupDocs.Signature för .NET API-referens
 description: Binär Excelmall .xlt representerar Excelmallfilformat. Läs mer om detta filformathärhttps//wiki.fileformat.com/spreadsheet/xlt .
 type: docs
-weight: 550
+weight: 560
 url: /sv/net/groupdocs.signature.domain/filetype/xlt/
 ---
 ## FileType.XLT field

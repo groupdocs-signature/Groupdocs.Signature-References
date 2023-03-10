@@ -3,7 +3,7 @@ title: ISMN
 second_title: GroupDocs.Signature för .NET API-referens
 description: ISMN streckkodstypobjekt.
 type: docs
-weight: 340
+weight: 370
 url: /sv/net/groupdocs.signature.domain/barcodetypes/ismn/
 ---
 ## BarcodeTypes.ISMN field

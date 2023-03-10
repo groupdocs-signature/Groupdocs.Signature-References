@@ -1,14 +1,14 @@
 ---
 title: ReturnContent
 second_title: GroupDocs.Signature för .NET API-referens
-description: Hämtar eller ställer in flagga för att få QRkodbildinnehåll för en signatur som placerades på dokumentsidan. Om denna flagga är inställd på sann kommer QRkodsignaturbildinnehållet att behålla rå bilddata enligt önskat formatReturnContentTypegroupdocs.signature.options/qrcodesignoptions/returncontenttype . Som standard är detta alternativ inaktiverat.
+description: Hämtar eller ställer in flagga för att få QRkodbildinnehåll för en signatur som placerades på dokumentsidan. Om denna flagga är satt till sann kommer QRkodsignaturbildinnehållet att behålla rå bilddata enligt önskat formatReturnContentTypegroupdocs.signature.options/qrcodesignoptions/returncontenttype . Som standard är detta alternativ inaktiverat.
 type: docs
 weight: 100
 url: /sv/net/groupdocs.signature.options/qrcodesignoptions/returncontent/
 ---
 ## QrCodeSignOptions.ReturnContent property
 
-Hämtar eller ställer in flagga för att få QR-kodbildinnehåll för en signatur som placerades på dokumentsidan. Om denna flagga är inställd på sann, kommer QR-kodsignaturbildinnehållet att behålla rå bilddata enligt önskat format[`ReturnContentType`](../returncontenttype) . Som standard är detta alternativ inaktiverat.
+Hämtar eller ställer in flagga för att få QR-kodbildinnehåll för en signatur som placerades på dokumentsidan. Om denna flagga är satt till sann, kommer QR-kodsignaturbildinnehållet att behålla rå bilddata enligt önskat format[`ReturnContentType`](../returncontenttype) . Som standard är detta alternativ inaktiverat.
 
 ```csharp
 public bool ReturnContent { get; set; }

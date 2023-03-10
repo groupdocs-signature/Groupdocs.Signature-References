@@ -3,7 +3,7 @@ title: ToSingle
 second_title: GroupDocs.Signature för .NET API-referens
 description: Konverteras till flytande.
 type: docs
-weight: 130
+weight: 140
 url: /sv/net/groupdocs.signature.domain/metadatasignature/tosingle/
 ---
 ## ToSingle() {#tosingle}

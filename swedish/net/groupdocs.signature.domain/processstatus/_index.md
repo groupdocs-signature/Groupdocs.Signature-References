@@ -3,7 +3,7 @@ title: ProcessStatus
 second_title: GroupDocs.Signature för .NET API-referens
 description: Anger status för signerings och verifieringsprocesser.
 type: docs
-weight: 740
+weight: 770
 url: /sv/net/groupdocs.signature.domain/processstatus/
 ---
 ## ProcessStatus enumeration

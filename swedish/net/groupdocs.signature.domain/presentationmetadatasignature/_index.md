@@ -3,7 +3,7 @@ title: PresentationMetadataSignature
 second_title: GroupDocs.Signature för .NET API-referens
 description: Innehåller egenskaper för presentationsmetadatasignatur.
 type: docs
-weight: 710
+weight: 740
 url: /sv/net/groupdocs.signature.domain/presentationmetadatasignature/
 ---
 ## PresentationMetadataSignature class
@@ -37,6 +37,7 @@ public sealed class PresentationMetadataSignature : MetadataSignature
 | [SignatureId](../../groupdocs.signature.domain/basesignature/signatureid) { get; } | Unik signaturidentifierare för att ändra signaturen i dokumentet över Uppdatera eller Ta bort metoder. Den här egenskapen kommer att ställas in automatiskt efter att Sign- eller Sökmetoden anropas. Om den här egenskapen sparades innan den kan ställas in manuellt för att manipulera signaturen. |
 | [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | Anger typen av signatur. |
 | [Top](../../groupdocs.signature.domain/basesignature/top) { get; set; } | Anger signaturens topposition. |
+| [Type](../../groupdocs.signature.domain/metadatasignature/type) { get; } | Anger metadatavärdetyp. |
 | [Value](../../groupdocs.signature.domain/metadatasignature/value) { get; set; } | Anger metadataobjekt. |
 | [Width](../../groupdocs.signature.domain/basesignature/width) { get; set; } | Anger signaturens bredd. |
 

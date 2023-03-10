@@ -3,7 +3,7 @@ title: PdfSaveFileFormat
 second_title: GroupDocs.Signature för .NET API-referens
 description: Definierar olika sparade filformat.
 type: docs
-weight: 670
+weight: 700
 url: /sv/net/groupdocs.signature.domain/pdfsavefileformat/
 ---
 ## PdfSaveFileFormat enumeration

@@ -3,7 +3,7 @@ title: TextHorizontalAlignment
 second_title: GroupDocs.Signature för .NET API-referens
 description: Anger horisontell justering av text inuti en signatur.
 type: docs
-weight: 940
+weight: 970
 url: /sv/net/groupdocs.signature.domain/texthorizontalalignment/
 ---
 ## TextHorizontalAlignment enumeration

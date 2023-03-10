@@ -3,7 +3,7 @@ title: Failed
 second_title: GroupDocs.Signature för .NET API-referens
 description: Lista över signaturer som inte bearbetadesBaseSignaturegroupdocs.signature.domain/basesignature .
 type: docs
-weight: 10
+weight: 20
 url: /sv/net/groupdocs.signature.domain/iresult/failed/
 ---
 ## IResult.Failed property

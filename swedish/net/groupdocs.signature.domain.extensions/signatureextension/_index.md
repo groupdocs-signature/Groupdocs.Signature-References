@@ -3,7 +3,7 @@ title: SignatureExtension
 second_title: GroupDocs.Signature för .NET API-referens
 description: Representerar basklass för signaturtillägg.
 type: docs
-weight: 310
+weight: 330
 url: /sv/net/groupdocs.signature.domain.extensions/signatureextension/
 ---
 ## SignatureExtension class

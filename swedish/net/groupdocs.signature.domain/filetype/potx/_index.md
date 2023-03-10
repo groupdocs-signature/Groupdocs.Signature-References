@@ -3,7 +3,7 @@ title: POTX
 second_title: GroupDocs.Signature för .NET API-referens
 description: PowerPoint Open XMLpresentationsmall .potx representerar Microsoft PowerPointmallpresentationer som skapats med Microsoft PowerPoint 2007 och senare. Läs mer om detta filformathärhttps//wiki.fileformat.com/presentation/potx .
 type: docs
-weight: 310
+weight: 320
 url: /sv/net/groupdocs.signature.domain/filetype/potx/
 ---
 ## FileType.POTX field

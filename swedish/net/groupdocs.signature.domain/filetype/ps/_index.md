@@ -3,7 +3,7 @@ title: PS
 second_title: GroupDocs.Signature för .NET API-referens
 description: PostScriptfil .ps
 type: docs
-weight: 380
+weight: 390
 url: /sv/net/groupdocs.signature.domain/filetype/ps/
 ---
 ## FileType.PS field

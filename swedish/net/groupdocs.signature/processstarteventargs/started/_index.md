@@ -1,14 +1,14 @@
 ---
 title: Started
 second_title: GroupDocs.Signature för .NET API-referens
-description: Representerar tidsmärke för processstart.
+description: Representerar tidsmärket för processstart.
 type: docs
 weight: 20
 url: /sv/net/groupdocs.signature/processstarteventargs/started/
 ---
 ## ProcessStartEventArgs.Started property
 
-Representerar tidsmärke för processstart.
+Representerar tidsmärket för processstart.
 
 ```csharp
 public DateTime Started { get; set; }

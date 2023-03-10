@@ -3,7 +3,7 @@ title: TextShadow
 second_title: GroupDocs.Signature för .NET API-referens
 description: Representerar textskuggegenskaper för textsignaturer. Resultatet kan variera beroende på signaturtyp och dokumentformat. TextShadow rekommenderas för användning med TextAsImagesignatur för alla dokumenttyper som stöds även med enkla TextSignature och TextSignature som vattenmärke vattenmärke för Spreadsheet .xslx och Presentations .pptx. Simple TextSignature for Words .docx rekommenderas också men har begränsad funktionalitet.
 type: docs
-weight: 380
+weight: 400
 url: /sv/net/groupdocs.signature.domain.extensions/textshadow/
 ---
 ## TextShadow class

@@ -3,7 +3,7 @@ title: SVG
 second_title: GroupDocs.Signature för .NET API-referens
 description: Scalable Vector Graphics File .svg är en Scalar Vector Graphicsfil som använder XMLbaserat textformat för att beskriva utseendet på en bild. Läs mer om detta filformathärhttps//wiki.fileformat.com/pagedescriptionlanguage/svg .
 type: docs
-weight: 410
+weight: 420
 url: /sv/net/groupdocs.signature.domain/filetype/svg/
 ---
 ## FileType.SVG field

@@ -3,7 +3,7 @@ title: PdfMetadataSignature
 second_title: GroupDocs.Signature för .NET API-referens
 description: Innehåller PDFmetadatasignaturegenskaper.
 type: docs
-weight: 650
+weight: 680
 url: /sv/net/groupdocs.signature.domain/pdfmetadatasignature/
 ---
 ## PdfMetadataSignature class
@@ -39,6 +39,7 @@ public sealed class PdfMetadataSignature : MetadataSignature
 | [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | Anger typen av signatur. |
 | [TagPrefix](../../groupdocs.signature.domain/pdfmetadatasignature/tagprefix) { get; set; } | Prefixtaggen för Pdf Metadata signaturnamn. Som standard är den här egenskapen inställd på "xmp". Möjliga värden är |
 | [Top](../../groupdocs.signature.domain/basesignature/top) { get; set; } | Anger signaturens topposition. |
+| [Type](../../groupdocs.signature.domain/metadatasignature/type) { get; } | Anger metadatavärdetyp. |
 | [Value](../../groupdocs.signature.domain/metadatasignature/value) { get; set; } | Anger metadataobjekt. |
 | [Width](../../groupdocs.signature.domain/basesignature/width) { get; set; } | Anger signaturens bredd. |
 

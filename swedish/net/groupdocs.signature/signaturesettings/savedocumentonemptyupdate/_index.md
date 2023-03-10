@@ -1,14 +1,14 @@
 ---
 title: SaveDocumentOnEmptyUpdate
 second_title: GroupDocs.Signature för .NET API-referens
-description: Hämtar eller ställer in flaggan för att återspara källdokument när uppdateringsmetoden inte har några signaturer att uppdatera. Om denna flagga är inställd på sant som standard kommer dokumentet att sparas med motsvarande historikprocesslogg datum och operationstyp även om uppdateringsmetoden har inga signaturer att uppdatera. När denna lägenhet är inställd på falskt källdokument kommer inte att ändras alls.
+description: Hämtar eller ställer in flaggan för att återspara källdokument när uppdateringsmetoden inte har några signaturer att uppdatera. Om denna flagga är inställd på sant som standard kommer dokumentet att sparas med motsvarande historikprocesslogg datum och operationstyp även om Uppdatering metod har inga signaturer att uppdatera. När denna lägenhet är inställd på falskt källdokument kommer inte att ändras alls.
 type: docs
-weight: 40
+weight: 70
 url: /sv/net/groupdocs.signature/signaturesettings/savedocumentonemptyupdate/
 ---
 ## SignatureSettings.SaveDocumentOnEmptyUpdate property
 
-Hämtar eller ställer in flaggan för att återspara källdokument när uppdateringsmetoden inte har några signaturer att uppdatera. Om denna flagga är inställd på sant (som standard) kommer dokumentet att sparas med motsvarande historikprocesslogg (datum och operationstyp) även om uppdateringsmetoden har inga signaturer att uppdatera. När denna lägenhet är inställd på falskt källdokument kommer inte att ändras alls.
+Hämtar eller ställer in flaggan för att återspara källdokument när uppdateringsmetoden inte har några signaturer att uppdatera. Om denna flagga är inställd på sant (som standard) kommer dokumentet att sparas med motsvarande historikprocesslogg (datum och operationstyp) även om Uppdatering metod har inga signaturer att uppdatera. När denna lägenhet är inställd på falskt källdokument kommer inte att ändras alls.
 
 ```csharp
 public bool SaveDocumentOnEmptyUpdate { get; set; }

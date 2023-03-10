@@ -3,7 +3,7 @@ title: OneCode
 second_title: GroupDocs.Signature för .NET API-referens
 description: OneCode streckkodstypobjekt.
 type: docs
-weight: 450
+weight: 480
 url: /sv/net/groupdocs.signature.domain/barcodetypes/onecode/
 ---
 ## BarcodeTypes.OneCode field

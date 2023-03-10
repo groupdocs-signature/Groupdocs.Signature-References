@@ -18,6 +18,7 @@ Namnutrymmet tillhandahåller klasser för att arbeta med dokumentrepresentation
 | [BarcodeTypes](./barcodetypes) | Behållare för streckkodstyper. |
 | [BaseSignature](./basesignature) | Beskriver basklass för signaturer. |
 | [Border](./border) | Representerar kantutseende |
+| [CertificateMetadataSignature](./certificatemetadatasignature) | Innehåller certifikatmetadatasignaturegenskaper. |
 | [CheckboxFormFieldSignature](./checkboxformfieldsignature) | Innehåller egenskaper för signatur för formulärfält för inmatning av kryssrutor. |
 | [ComboboxFormFieldSignature](./comboboxformfieldsignature) | Innehåller egenskaper för formulärfältsignatur i kombinationsrutan. |
 | [Corners](./corners) | Representerar hörnen på ett kvadratiskt grafiskt objekt. |
@@ -83,6 +84,7 @@ Namnutrymmet tillhandahåller klasser för att arbeta med dokumentrepresentation
 | [HorizontalAlignment](./horizontalalignment) | Anger horisontell justering av element på en dokumentsida. |
 | [ImageSaveFileFormat](./imagesavefileformat) | Definierar olika sparade filformat. |
 | [MeasureType](./measuretype) | Anger signaturmått på en dokumentsida. |
+| [MetadataType](./metadatatype) | Anger den stödda metadatasignaturdatatypen för värdet. |
 | [PdfDigitalSignatureType](./pdfdigitalsignaturetype) | Beskriver uppräkning av digitala PDF-signaturtyper. |
 | [PdfSaveFileFormat](./pdfsavefileformat) | Definierar olika sparade filformat. |
 | [PdfTextAnnotationBorderEffect](./pdftextannotationbordereffect) | Beskriver effekt som ska tillämpas på kanten av PDF-textanteckningarna. |

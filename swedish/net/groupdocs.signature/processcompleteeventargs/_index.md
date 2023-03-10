@@ -3,7 +3,7 @@ title: ProcessCompleteEventArgs
 second_title: GroupDocs.Signature för .NET API-referens
 description: Tillhandahåller data om fullständig händelse av signering verifiering och sökprocesser.
 type: docs
-weight: 1730
+weight: 1810
 url: /sv/net/groupdocs.signature/processcompleteeventargs/
 ---
 ## ProcessCompleteEventArgs class
@@ -19,9 +19,9 @@ public class ProcessCompleteEventArgs : ProcessEventArgs
 | namn | Beskrivning |
 | --- | --- |
 | [Canceled](../../groupdocs.signature/processcompleteeventargs/canceled) { get; } | Indikerar om processen avbröts. |
-| [Completed](../../groupdocs.signature/processcompleteeventargs/completed) { get; set; } | Representerar tidpunkten för processens slutförande. |
+| [Completed](../../groupdocs.signature/processcompleteeventargs/completed) { get; set; } | Representerar tidsmärket för processens slutförande. |
 | [Status](../../groupdocs.signature/processeventargs/status) { get; set; } | Indikerar aktuellt processtillstånd. |
-| [Ticks](../../groupdocs.signature/processcompleteeventargs/ticks) { get; set; } | Representerar tid i millisekunder som spenderats sedan processstarthändelse. |
+| [Ticks](../../groupdocs.signature/processcompleteeventargs/ticks) { get; set; } | Representerar tiden i millisekunder som spenderats sedan processstarthändelse. |
 | [TotalSignatures](../../groupdocs.signature/processcompleteeventargs/totalsignatures) { get; set; } | Representerar den totala mängden bearbetade signaturer. |
 
 ### Se även

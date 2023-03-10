@@ -3,7 +3,7 @@ title: POTM
 second_title: GroupDocs.Signature för .NET API-referens
 description: PowerPoint Open XML Makroaktiverad presentationsmall .potm är Microsoft PowerPointmallfiler med stöd för makron. POTMfiler skapas med PowerPoint 2007 eller senare och innehåller standardinställningar som kan användas för att skapa ytterligare presentationsfiler. Läs mer om detta filformathärhttps//wiki.fileformat.com/presentation/potm .
 type: docs
-weight: 300
+weight: 310
 url: /sv/net/groupdocs.signature.domain/filetype/potm/
 ---
 ## FileType.POTM field

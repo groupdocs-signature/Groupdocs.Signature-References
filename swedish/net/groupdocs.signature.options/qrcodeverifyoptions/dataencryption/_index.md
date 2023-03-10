@@ -1,14 +1,14 @@
 ---
 title: DataEncryption
 second_title: GroupDocs.Signature för .NET API-referens
-description: Får eller ställer in implementering avIDataEncryptiongroupdocs.signature.domain.extensions/idataencryptiongränssnitt för att koda och avkoda QRkodsignaturtextegenskaper.
+description: Får eller ställer in implementering avIDataEncryptiongroupdocs.signature.domain.extensions/idataencryption gränssnitt för att koda och avkoda QRkodsignaturtextegenskaper.
 type: docs
 weight: 20
 url: /sv/net/groupdocs.signature.options/qrcodeverifyoptions/dataencryption/
 ---
 ## QrCodeVerifyOptions.DataEncryption property
 
-Får eller ställer in implementering av[`IDataEncryption`](../../../groupdocs.signature.domain.extensions/idataencryption)gränssnitt för att koda och avkoda QR-kodsignaturtextegenskaper.
+Får eller ställer in implementering av[`IDataEncryption`](../../../groupdocs.signature.domain.extensions/idataencryption) gränssnitt för att koda och avkoda QR-kodsignaturtextegenskaper.
 
 ```csharp
 public IDataEncryption DataEncryption { get; set; }

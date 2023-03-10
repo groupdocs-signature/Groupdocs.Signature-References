@@ -3,7 +3,7 @@ title: DocumentType
 second_title: GroupDocs.Signature för .NET API-referens
 description: Definierar dokumenttypen.
 type: docs
-weight: 160
+weight: 170
 url: /sv/net/groupdocs.signature.domain/documenttype/
 ---
 ## DocumentType enumeration
@@ -24,6 +24,7 @@ public enum DocumentType
 | Presentation | `3` | Presentationsdokumenttyp. |
 | Spreadsheet | `4` | Dokumenttyp för kalkylark. |
 | Image | `5` | Bilddokumenttyp. |
+| Certificate | `6` | Certifikatfiltyp. |
 
 ### Se även
 

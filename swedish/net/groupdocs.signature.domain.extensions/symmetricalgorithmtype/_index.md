@@ -3,7 +3,7 @@ title: SymmetricAlgorithmType
 second_title: GroupDocs.Signature för .NET API-referens
 description: Representerar symmetrisk krypteringsalgoritmtyp.
 type: docs
-weight: 350
+weight: 370
 url: /sv/net/groupdocs.signature.domain.extensions/symmetricalgorithmtype/
 ---
 ## SymmetricAlgorithmType enumeration

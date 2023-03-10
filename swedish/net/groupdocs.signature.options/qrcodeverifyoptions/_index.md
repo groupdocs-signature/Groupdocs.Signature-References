@@ -3,7 +3,7 @@ title: QrCodeVerifyOptions
 second_title: GroupDocs.Signature för .NET API-referens
 description: Behåller alternativ för att verifiera dokumentets QRkodsignatur.
 type: docs
-weight: 1560
+weight: 1640
 url: /sv/net/groupdocs.signature.options/qrcodeverifyoptions/
 ---
 ## QrCodeVerifyOptions class
@@ -27,7 +27,7 @@ public class QrCodeVerifyOptions : TextVerifyOptions
 | namn | Beskrivning |
 | --- | --- |
 | [AllPages](../../groupdocs.signature.options/verifyoptions/allpages) { get; set; } | Flagga för att verifiera varje dokumentsida. Som standard är värdet true. |
-| [DataEncryption](../../groupdocs.signature.options/qrcodeverifyoptions/dataencryption) { get; set; } | Får eller ställer in implementering av[`IDataEncryption`](../../groupdocs.signature.domain.extensions/idataencryption)gränssnitt för att koda och avkoda QR-kodsignaturtextegenskaper. |
+| [DataEncryption](../../groupdocs.signature.options/qrcodeverifyoptions/dataencryption) { get; set; } | Får eller ställer in implementering av[`IDataEncryption`](../../groupdocs.signature.domain.extensions/idataencryption) gränssnitt för att koda och avkoda QR-kodsignaturtextegenskaper. |
 | [EncodeType](../../groupdocs.signature.options/qrcodeverifyoptions/encodetype) { get; set; } | Hämtar eller ställer in QR-kod Typverifiering. Den här egenskapen är valfri. |
 | [Extensions](../../groupdocs.signature.options/verifyoptions/extensions) { get; set; } | Ytterligare tillägg för verifiering av alternativa signaturalternativ. |
 | [FormTextFieldTitle](../../groupdocs.signature.options/textverifyoptions/formtextfieldtitle) { get; set; } | Hämtar eller ställer in titeln på formulärfältet för att verifiera det. Om denna egenskapsuppsättning kommer text endast att hittas i textformulärfält. |

@@ -3,7 +3,7 @@ title: TextShapeType
 second_title: GroupDocs.Signature för .NET API-referens
 description: Anger typer av textformer.
 type: docs
-weight: 960
+weight: 990
 url: /sv/net/groupdocs.signature.domain/textshapetype/
 ---
 ## TextShapeType enumeration

@@ -3,7 +3,7 @@ title: Pharmacode
 second_title: GroupDocs.Signature för .NET API-referens
 description: Läkemedelskod Streckkod Typ objekt.
 type: docs
-weight: 490
+weight: 520
 url: /sv/net/groupdocs.signature.domain/barcodetypes/pharmacode/
 ---
 ## BarcodeTypes.Pharmacode field

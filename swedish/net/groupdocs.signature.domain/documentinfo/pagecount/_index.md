@@ -3,7 +3,7 @@ title: PageCount
 second_title: GroupDocs.Signature för .NET API-referens
 description: Dokumentsidor räknas.
 type: docs
-weight: 90
+weight: 100
 url: /sv/net/groupdocs.signature.domain/documentinfo/pagecount/
 ---
 ## DocumentInfo.PageCount property

@@ -3,7 +3,7 @@ title: Extension
 second_title: GroupDocs.Signature för .NET API-referens
 description: Filnamnssuffix inklusive perioden . t.ex. .doc.
 type: docs
-weight: 580
+weight: 590
 url: /sv/net/groupdocs.signature.domain/filetype/extension/
 ---
 ## FileType.Extension property

@@ -3,7 +3,7 @@ title: TimeStamp
 second_title: GroupDocs.Signature för .NET API-referens
 description: Representerar data för att få tidsstämpel från tredje parts webbplats.
 type: docs
-weight: 1000
+weight: 1030
 url: /sv/net/groupdocs.signature.domain/timestamp/
 ---
 ## TimeStamp structure

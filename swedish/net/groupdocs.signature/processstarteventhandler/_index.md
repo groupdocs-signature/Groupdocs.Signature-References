@@ -3,7 +3,7 @@ title: ProcessStartEventHandler
 second_title: GroupDocs.Signature för .NET API-referens
 description: Representerar en metodombud som kommer att hantera processer vid starthändelser för signering verifiering och sökning.
 type: docs
-weight: 1790
+weight: 1870
 url: /sv/net/groupdocs.signature/processstarteventhandler/
 ---
 ## ProcessStartEventHandler delegate

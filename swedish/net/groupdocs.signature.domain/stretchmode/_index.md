@@ -3,7 +3,7 @@ title: StretchMode
 second_title: GroupDocs.Signature för .NET API-referens
 description: Representerar sträckningsläge för signaturområdet på en dokumentsida.
 type: docs
-weight: 920
+weight: 950
 url: /sv/net/groupdocs.signature.domain/stretchmode/
 ---
 ## StretchMode enumeration

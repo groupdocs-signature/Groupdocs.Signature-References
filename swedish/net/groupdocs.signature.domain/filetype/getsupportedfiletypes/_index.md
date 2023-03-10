@@ -3,7 +3,7 @@ title: GetSupportedFileTypes
 second_title: GroupDocs.Signature för .NET API-referens
 description: Hämtar filtyper som stöds
 type: docs
-weight: 630
+weight: 640
 url: /sv/net/groupdocs.signature.domain/filetype/getsupportedfiletypes/
 ---
 ## FileType.GetSupportedFileTypes method

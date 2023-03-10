@@ -3,7 +3,7 @@ title: PreviewSignatureOptions
 second_title: GroupDocs.Signature för .NET API-referens
 description: Representerar signaturförhandsgranskningsalternativ.
 type: docs
-weight: 1520
+weight: 1600
 url: /sv/net/groupdocs.signature.options/previewsignatureoptions/
 ---
 ## PreviewSignatureOptions class

@@ -3,7 +3,7 @@ title: ITF6
 second_title: GroupDocs.Signature för .NET API-referens
 description: ITF6 streckkodstypobjekt.
 type: docs
-weight: 380
+weight: 410
 url: /sv/net/groupdocs.signature.domain/barcodetypes/itf6/
 ---
 ## BarcodeTypes.ITF6 field

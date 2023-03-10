@@ -3,7 +3,7 @@ title: Corners
 second_title: GroupDocs.Signature för .NET API-referens
 description: Representerar hörnen på ett kvadratiskt grafiskt objekt.
 type: docs
-weight: 100
+weight: 110
 url: /sv/net/groupdocs.signature.domain/corners/
 ---
 ## Corners class

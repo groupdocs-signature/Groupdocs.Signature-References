@@ -3,7 +3,7 @@ title: GroupDocs.Signature.Options.Appearances
 second_title: GroupDocs.Signature för .NET API-referens
 description: Namnutrymmet tillhandahåller klasser för ytterligare signaturframträdanden.
 type: docs
-weight: 50
+weight: 60
 url: /sv/net/groupdocs.signature.options.appearances/
 ---
 Namnutrymmet tillhandahåller klasser för ytterligare signaturframträdanden.

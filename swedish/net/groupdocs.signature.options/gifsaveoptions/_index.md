@@ -3,7 +3,7 @@ title: GifSaveOptions
 second_title: GroupDocs.Signature för .NET API-referens
 description: Spara alternativ för gifformat för bilddokument.
 type: docs
-weight: 1310
+weight: 1390
 url: /sv/net/groupdocs.signature.options/gifsaveoptions/
 ---
 ## GifSaveOptions class

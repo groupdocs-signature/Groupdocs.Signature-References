@@ -3,7 +3,7 @@ title: PagesSetup
 second_title: GroupDocs.Signature för .NET API-referens
 description: Beskriver speciella dokumentsidor att arbeta med.
 type: docs
-weight: 1420
+weight: 1500
 url: /sv/net/groupdocs.signature.options/pagessetup/
 ---
 ## PagesSetup class
