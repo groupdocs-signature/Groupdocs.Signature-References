@@ -3,7 +3,7 @@ title: StampLine
 second_title: GroupDocs.Signature لمرجع .NET API
 description: تحديد خصائص خط الطوابع .
 type: docs
-weight: 880
+weight: 910
 url: /ar/net/groupdocs.signature.domain/stampline/
 ---
 ## StampLine class

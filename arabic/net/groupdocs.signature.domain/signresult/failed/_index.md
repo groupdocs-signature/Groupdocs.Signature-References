@@ -3,7 +3,7 @@ title: Failed
 second_title: GroupDocs.Signature لمرجع .NET API
 description: قائمة التوقيعات التي فشل إنشاؤها .
 type: docs
-weight: 10
+weight: 20
 url: /ar/net/groupdocs.signature.domain/signresult/failed/
 ---
 ## SignResult.Failed property

@@ -3,7 +3,7 @@ title: OneCode
 second_title: GroupDocs.Signature لمرجع .NET API
 description: كائن نوع الرمز الشريطي OneCode .
 type: docs
-weight: 450
+weight: 480
 url: /ar/net/groupdocs.signature.domain/barcodetypes/onecode/
 ---
 ## BarcodeTypes.OneCode field

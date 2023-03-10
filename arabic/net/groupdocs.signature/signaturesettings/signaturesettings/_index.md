@@ -1,14 +1,14 @@
 ---
 title: SignatureSettings
 second_title: GroupDocs.Signature لمرجع .NET API
-description: Default_Constructor
+description: إنشاء مثيل SignatureSettings الافتراضي بالقيم الافتراضية.
 type: docs
 weight: 10
 url: /ar/net/groupdocs.signature/signaturesettings/signaturesettings/
 ---
-## SignatureSettings constructor
+## SignatureSettings() {#constructor}
 
-Default_Constructor
+إنشاء مثيل SignatureSettings الافتراضي بالقيم الافتراضية.
 
 ```csharp
 public SignatureSettings()
@@ -16,6 +16,27 @@ public SignatureSettings()
 
 ### أنظر أيضا
 
+* class [SignatureSettings](../../signaturesettings)
+* مساحة الاسم [GroupDocs.Signature](../../signaturesettings)
+* المجسم [GroupDocs.Signature](../../../)
+
+---
+
+## SignatureSettings(ILogger) {#constructor_1}
+
+إنشاء مثيل SignatureSettings الافتراضي باستخدام تطبيق Logger .
+
+```csharp
+public SignatureSettings(ILogger logger)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| logger | ILogger |  |
+
+### أنظر أيضا
+
+* interface [ILogger](../../../groupdocs.signature.logging/ilogger)
 * class [SignatureSettings](../../signaturesettings)
 * مساحة الاسم [GroupDocs.Signature](../../signaturesettings)
 * المجسم [GroupDocs.Signature](../../../)

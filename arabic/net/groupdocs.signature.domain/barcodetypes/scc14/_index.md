@@ -3,7 +3,7 @@ title: SCC14
 second_title: GroupDocs.Signature لمرجع .NET API
 description: كائن نوع الرمز الشريطي SCC14 .
 type: docs
-weight: 540
+weight: 570
 url: /ar/net/groupdocs.signature.domain/barcodetypes/scc14/
 ---
 ## BarcodeTypes.SCC14 field

@@ -1,14 +1,14 @@
 ---
 title: Progress
 second_title: GroupDocs.Signature لمرجع .NET API
-description: يمثل التقدم في النسب المئوية. نطاق القيمة من 0 إلى 100.
+description: يمثل التقدم بالنسب المئوية. نطاق القيمة من 0 إلى 100.
 type: docs
 weight: 40
 url: /ar/net/groupdocs.signature/processprogresseventargs/progress/
 ---
 ## ProcessProgressEventArgs.Progress property
 
-يمثل التقدم في النسب المئوية. نطاق القيمة من 0 إلى 100.
+يمثل التقدم بالنسب المئوية. نطاق القيمة من 0 إلى 100.
 
 ```csharp
 public int Progress { get; set; }

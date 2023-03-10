@@ -3,7 +3,7 @@ title: FormFieldSearchOptions
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل خيارات البحث لتوقيعات حقل النموذج.
 type: docs
-weight: 1290
+weight: 1370
 url: /ar/net/groupdocs.signature.options/formfieldsearchoptions/
 ---
 ## FormFieldSearchOptions class
@@ -30,7 +30,7 @@ public class FormFieldSearchOptions : SearchOptions
 | [PagesSetup](../../groupdocs.signature.options/searchoptions/pagessetup) { get; set; } | خيارات لتحديد صفحات للبحث في التوقيع . |
 | [SkipExternal](../../groupdocs.signature.options/searchoptions/skipexternal) { get; set; } | قم بوضع علامة لإرجاع التوقيعات فقط التي تم وضع علامة عليها على أنها IsSignature. القيمة الافتراضية هي false التي تشير إلى إرجاع جميع التوقيعات التي تطابق المعايير المحددة. |
 | [Type](../../groupdocs.signature.options/formfieldsearchoptions/type) { get; set; } | يحدد نوع توقيع حقل النموذج إذا كان يجب البحث عنه. القيمة الافتراضية خالية. |
-| [Value](../../groupdocs.signature.options/formfieldsearchoptions/value) { get; set; } | يحدد قيمة توقيع حقل النموذج إذا كان يجب البحث عنه. القيمة الافتراضية خالية. |
+| [Value](../../groupdocs.signature.options/formfieldsearchoptions/value) { get; set; } | يحدد قيمة توقيع حقل النموذج إذا كان يجب البحث فيه. القيمة الافتراضية خالية. |
 
 ### ملاحظات
 

@@ -3,7 +3,7 @@ title: ShowDeletedSignaturesInfo
 second_title: GroupDocs.Signature لمرجع .NET API
 description: الحصول على أو تعيين علامة تتضمن التواقيع المحذوفة في نتيجة معلومات المستند. كل توقيعBaseSignaturegroupdocs.signature.domain/basesignature لديه علامة محذوفةDeletedgroupdocs.signature.domain/basesignature/deleted لاكتشاف ما إذا كان قد تم حذفه.
 type: docs
-weight: 50
+weight: 80
 url: /ar/net/groupdocs.signature/signaturesettings/showdeletedsignaturesinfo/
 ---
 ## SignatureSettings.ShowDeletedSignaturesInfo property

@@ -3,7 +3,7 @@ title: RadialGradientBrush
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل فرشاة التدرج الشعاعي .
 type: docs
-weight: 290
+weight: 310
 url: /ar/net/groupdocs.signature.domain.extensions/radialgradientbrush/
 ---
 ## RadialGradientBrush class

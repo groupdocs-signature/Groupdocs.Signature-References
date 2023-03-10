@@ -3,7 +3,7 @@ title: TextSignatures
 second_title: GroupDocs.Signature لمرجع .NET API
 description: تمت إضافة مجموعة تواقيع نص المستند أو تحديثها بواسطةSignaturegroupdocs.signature/signature الأساليب .
 type: docs
-weight: 140
+weight: 150
 url: /ar/net/groupdocs.signature.domain/idocumentinfo/textsignatures/
 ---
 ## IDocumentInfo.TextSignatures property

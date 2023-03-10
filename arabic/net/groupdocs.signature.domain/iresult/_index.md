@@ -3,7 +3,7 @@ title: IResult
 second_title: GroupDocs.Signature لمرجع .NET API
 description: واجهة مشتركة لنتيجة عملية التوقيع .
 type: docs
-weight: 510
+weight: 530
 url: /ar/net/groupdocs.signature.domain/iresult/
 ---
 ## IResult interface
@@ -18,8 +18,12 @@ public interface IResult
 
 | اسم | وصف |
 | --- | --- |
+| [DestinDocumentSize](../../groupdocs.signature.domain/iresult/destindocumentsize) { get; } | إرجاع حجم المستند الوجهة |
 | [Failed](../../groupdocs.signature.domain/iresult/failed) { get; } | قائمة التوقيعات التي لم تتم معالجتها[`BaseSignature`](../basesignature) . |
+| [ProcessingTime](../../groupdocs.signature.domain/iresult/processingtime) { get; } | إرجاع وقت تنفيذ العملية بالملي ثانية |
+| [SourceDocumentSize](../../groupdocs.signature.domain/iresult/sourcedocumentsize) { get; } | إرجاع حجم المستند المصدر |
 | [Succeeded](../../groupdocs.signature.domain/iresult/succeeded) { get; } | قائمة التوقيعات التي تمت معالجتها بنجاح[`BaseSignature`](../basesignature) . |
+| [TotalSignatures](../../groupdocs.signature.domain/iresult/totalsignatures) { get; } | إرجاع إجمالي التواقيع المعالجة |
 
 ### أنظر أيضا
 

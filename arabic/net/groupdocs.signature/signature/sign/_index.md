@@ -42,7 +42,7 @@ public SignResult Sign(Stream document, SignOptions signOptions)
 
 ## Sign(Stream, SignOptions, SaveOptions) {#sign_1}
 
-توقيع الوثيقة مع[`SignOptions`](../../../groupdocs.signature.options/signoptions) ويحفظ النتيجة في دفق محدد مسبقًا[`SaveOptions`](../../../groupdocs.signature.options/saveoptions) .
+توقيع الوثيقة مع[`SignOptions`](../../../groupdocs.signature.options/signoptions)ويحفظ النتيجة في دفق محدد مسبقًا[`SaveOptions`](../../../groupdocs.signature.options/saveoptions) .
 
 ```csharp
 public SignResult Sign(Stream document, SignOptions signOptions, SaveOptions saveOptions)
@@ -113,7 +113,7 @@ public SignResult Sign(Stream document, List<SignOptions> signOptionsList)
 
 ## Sign(Stream, List&lt;SignOptions&gt;, SaveOptions) {#sign_3}
 
-توقيع وثيقة مع مجموعة من[`SignOptions`](../../../groupdocs.signature.options/signoptions) ويحفظ النتيجة في دفق محدد مسبقًا[`SaveOptions`](../../../groupdocs.signature.options/saveoptions) .
+توقيع وثيقة مع مجموعة من[`SignOptions`](../../../groupdocs.signature.options/signoptions)ويحفظ النتيجة في دفق محدد مسبقًا[`SaveOptions`](../../../groupdocs.signature.options/saveoptions) .
 
 ```csharp
 public SignResult Sign(Stream document, List<SignOptions> signOptionsList, SaveOptions saveOptions)

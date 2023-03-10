@@ -3,7 +3,7 @@ title: ProcessType
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحدد العملية المدعومة بمستندات مثل المعلومات  والمعاينة  والتوقيع  والتحقق  والبحث  والتحديث  والحذف
 type: docs
-weight: 750
+weight: 780
 url: /ar/net/groupdocs.signature.domain/processtype/
 ---
 ## ProcessType enumeration

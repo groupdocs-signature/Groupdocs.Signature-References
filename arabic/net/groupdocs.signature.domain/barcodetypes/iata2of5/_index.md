@@ -3,7 +3,7 @@ title: IATA2of5
 second_title: GroupDocs.Signature لمرجع .NET API
 description: IATA2of5 كائن نوع الرمز الشريطي .
 type: docs
-weight: 310
+weight: 340
 url: /ar/net/groupdocs.signature.domain/barcodetypes/iata2of5/
 ---
 ## BarcodeTypes.IATA2of5 field

@@ -3,7 +3,7 @@ title: Event
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل تفاصيل حدث رمز الاستجابة السريعة القياسي .
 type: docs
-weight: 230
+weight: 250
 url: /ar/net/groupdocs.signature.domain.extensions/event/
 ---
 ## Event class

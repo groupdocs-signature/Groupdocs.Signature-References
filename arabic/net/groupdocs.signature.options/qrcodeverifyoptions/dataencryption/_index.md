@@ -1,14 +1,14 @@
 ---
 title: DataEncryption
 second_title: GroupDocs.Signature لمرجع .NET API
-description: يحصل أو يحدد تنفيذIDataEncryptiongroupdocs.signature.domain.extensions/idataencryptionواجهة لتشفير خصائص نص توقيع رمز الاستجابة السريعة وفك تشفيرها.
+description: يحصل أو يحدد تنفيذIDataEncryptiongroupdocs.signature.domain.extensions/idataencryption واجهة لتشفير خصائص نص توقيع رمز الاستجابة السريعة وفك تشفيرها.
 type: docs
 weight: 20
 url: /ar/net/groupdocs.signature.options/qrcodeverifyoptions/dataencryption/
 ---
 ## QrCodeVerifyOptions.DataEncryption property
 
-يحصل أو يحدد تنفيذ[`IDataEncryption`](../../../groupdocs.signature.domain.extensions/idataencryption)واجهة لتشفير خصائص نص توقيع رمز الاستجابة السريعة وفك تشفيرها.
+يحصل أو يحدد تنفيذ[`IDataEncryption`](../../../groupdocs.signature.domain.extensions/idataencryption) واجهة لتشفير خصائص نص توقيع رمز الاستجابة السريعة وفك تشفيرها.
 
 ```csharp
 public IDataEncryption DataEncryption { get; set; }

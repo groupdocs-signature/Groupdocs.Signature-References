@@ -3,7 +3,7 @@ title: UpdateResult
 second_title: GroupDocs.Signature لمرجع .NET API
 description: نتيجة تعديل التوقيعات في المستند.
 type: docs
-weight: 1010
+weight: 1040
 url: /ar/net/groupdocs.signature.domain/updateresult/
 ---
 ## UpdateResult class
@@ -18,8 +18,12 @@ public class UpdateResult : IResult
 
 | اسم | وصف |
 | --- | --- |
+| [DestinDocumentSize](../../groupdocs.signature.domain/updateresult/destindocumentsize) { get; } | إرجاع حجم المستند الوجهة |
 | [Failed](../../groupdocs.signature.domain/updateresult/failed) { get; } | قائمة التوقيعات التي لم يتم تحديثها[`BaseSignature`](../basesignature) . |
+| [ProcessingTime](../../groupdocs.signature.domain/updateresult/processingtime) { get; } | إرجاع وقت تنفيذ العملية بالملي ثانية |
+| [SourceDocumentSize](../../groupdocs.signature.domain/updateresult/sourcedocumentsize) { get; } | إرجاع حجم المستند المصدر |
 | [Succeeded](../../groupdocs.signature.domain/updateresult/succeeded) { get; } | قائمة التوقيعات التي تم تعديلها بنجاح[`BaseSignature`](../basesignature) . |
+| [TotalSignatures](../../groupdocs.signature.domain/updateresult/totalsignatures) { get; } | إرجاع إجمالي التواقيع المعالجة |
 
 ### أنظر أيضا
 

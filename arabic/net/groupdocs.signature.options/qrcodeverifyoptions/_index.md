@@ -3,7 +3,7 @@ title: QrCodeVerifyOptions
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحتفظ بالخيارات للتحقق من توقيع رمز الاستجابة السريعة للمستند .
 type: docs
-weight: 1560
+weight: 1640
 url: /ar/net/groupdocs.signature.options/qrcodeverifyoptions/
 ---
 ## QrCodeVerifyOptions class
@@ -27,7 +27,7 @@ public class QrCodeVerifyOptions : TextVerifyOptions
 | اسم | وصف |
 | --- | --- |
 | [AllPages](../../groupdocs.signature.options/verifyoptions/allpages) { get; set; } | قم بوضع علامة للتحقق من كل صفحة وثيقة. القيمة الافتراضية هي true. |
-| [DataEncryption](../../groupdocs.signature.options/qrcodeverifyoptions/dataencryption) { get; set; } | يحصل أو يحدد تنفيذ[`IDataEncryption`](../../groupdocs.signature.domain.extensions/idataencryption)واجهة لتشفير خصائص نص توقيع رمز الاستجابة السريعة وفك تشفيرها. |
+| [DataEncryption](../../groupdocs.signature.options/qrcodeverifyoptions/dataencryption) { get; set; } | يحصل أو يحدد تنفيذ[`IDataEncryption`](../../groupdocs.signature.domain.extensions/idataencryption) واجهة لتشفير خصائص نص توقيع رمز الاستجابة السريعة وفك تشفيرها. |
 | [EncodeType](../../groupdocs.signature.options/qrcodeverifyoptions/encodetype) { get; set; } | الحصول على أو تعيين التحقق من نوع رمز الاستجابة السريعة. هذه الخاصية اختيارية. |
 | [Extensions](../../groupdocs.signature.options/verifyoptions/extensions) { get; set; } | امتدادات إضافية للتحقق من خيارات التوقيع البديلة. |
 | [FormTextFieldTitle](../../groupdocs.signature.options/textverifyoptions/formtextfieldtitle) { get; set; } | الحصول على عنوان حقل النموذج أو تعيينه للتحقق منه. إذا كان سيتم العثور على نص مجموعة الخاصية هذه فقط في حقول النموذج النصي. |

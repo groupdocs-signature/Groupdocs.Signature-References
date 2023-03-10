@@ -3,7 +3,7 @@ title: MicroPdf417
 second_title: GroupDocs.Signature لمرجع .NET API
 description: MicroPdf417 كائن نوع الرمز الشريطي .
 type: docs
-weight: 430
+weight: 460
 url: /ar/net/groupdocs.signature.domain/barcodetypes/micropdf417/
 ---
 ## BarcodeTypes.MicroPdf417 field

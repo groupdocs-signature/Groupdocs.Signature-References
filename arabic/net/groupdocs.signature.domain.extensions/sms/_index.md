@@ -3,7 +3,7 @@ title: SMS
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل تفاصيل خدمة الرسائل القصيرة SMS .
 type: docs
-weight: 300
+weight: 320
 url: /ar/net/groupdocs.signature.domain.extensions/sms/
 ---
 ## SMS class

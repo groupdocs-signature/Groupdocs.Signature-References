@@ -3,7 +3,7 @@ title: MetadataSignOptions
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل خيارات توقيع البيانات الوصفية.
 type: docs
-weight: 1410
+weight: 1490
 url: /ar/net/groupdocs.signature.options/metadatasignoptions/
 ---
 ## MetadataSignOptions class

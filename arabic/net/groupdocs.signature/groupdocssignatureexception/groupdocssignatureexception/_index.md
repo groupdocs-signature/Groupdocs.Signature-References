@@ -1,14 +1,14 @@
 ---
 title: GroupDocsSignatureException
 second_title: GroupDocs.Signature لمرجع .NET API
-description: يقوم بتهيئة مثيل جديد لملفGroupDocsSignatureExceptiongroupdocs.signature/groupdocssignatureexception فئة .
+description: يقوم بتهيئة مثيل جديد لملفGroupDocsSignatureExceptiongroupdocs.signature/groupdocssignatureexceptionفئة .
 type: docs
 weight: 10
 url: /ar/net/groupdocs.signature/groupdocssignatureexception/groupdocssignatureexception/
 ---
 ## GroupDocsSignatureException() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`GroupDocsSignatureException`](../../groupdocssignatureexception) فئة .
+يقوم بتهيئة مثيل جديد لملف[`GroupDocsSignatureException`](../../groupdocssignatureexception)فئة .
 
 ```csharp
 public GroupDocsSignatureException()
@@ -24,7 +24,7 @@ public GroupDocsSignatureException()
 
 ## GroupDocsSignatureException(string) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`GroupDocsSignatureException`](../../groupdocssignatureexception)فئة برسالة خطأ محددة.
+يقوم بتهيئة مثيل جديد لملف[`GroupDocsSignatureException`](../../groupdocssignatureexception) فئة برسالة خطأ محددة.
 
 ```csharp
 public GroupDocsSignatureException(string message)

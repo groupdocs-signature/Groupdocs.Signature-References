@@ -3,7 +3,7 @@ title: SpreadsheetSaveFileFormat
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحدد تنسيقات حفظ مختلفة لمستندات جدول البيانات.
 type: docs
-weight: 850
+weight: 880
 url: /ar/net/groupdocs.signature.domain/spreadsheetsavefileformat/
 ---
 ## SpreadsheetSaveFileFormat enumeration

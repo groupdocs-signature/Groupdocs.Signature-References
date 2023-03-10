@@ -3,7 +3,7 @@ title: FormFieldSignature
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحتوي على خصائص توقيع حقل النموذج.
 type: docs
-weight: 440
+weight: 460
 url: /ar/net/groupdocs.signature.domain/formfieldsignature/
 ---
 ## FormFieldSignature class

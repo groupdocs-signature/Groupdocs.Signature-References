@@ -3,7 +3,7 @@ title: Succeeded
 second_title: GroupDocs.Signature لمرجع .NET API
 description: قائمة التوقيعات المحذوفة بنجاحBaseSignaturegroupdocs.signature.domain/basesignature .
 type: docs
-weight: 20
+weight: 50
 url: /ar/net/groupdocs.signature.domain/deleteresult/succeeded/
 ---
 ## DeleteResult.Succeeded property

@@ -3,7 +3,7 @@ title: SpreadsheetPosition
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحدد موضع التوقيع لمستندات جدول البيانات .
 type: docs
-weight: 340
+weight: 360
 url: /ar/net/groupdocs.signature.domain.extensions/spreadsheetposition/
 ---
 ## SpreadsheetPosition class

@@ -3,7 +3,7 @@ title: PSD
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل Adobe Photoshop Document .psd تنسيق ملف Adobe Photoshop الأصلي المستخدم في تصميم الرسومات وتطويرها. تعرف على المزيد حول تنسيق الملف هذاهناhttps//wiki.fileformat.com/image/psd .
 type: docs
-weight: 390
+weight: 400
 url: /ar/net/groupdocs.signature.domain/filetype/psd/
 ---
 ## FileType.PSD field

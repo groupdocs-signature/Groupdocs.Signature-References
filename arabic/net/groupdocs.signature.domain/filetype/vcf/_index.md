@@ -3,7 +3,7 @@ title: VCF
 second_title: GroupDocs.Signature لمرجع .NET API
 description: ملف vCard .vcf هو تنسيق ملف رقمي لتخزين معلومات جهات الاتصال. يستخدم التنسيق على نطاق واسع لتبادل البيانات بين تطبيقات تبادل المعلومات الشائعة . تعرف على المزيد حول تنسيق الملف هذاهناhttps//wiki.fileformat.com/email/vcf .
 type: docs
-weight: 470
+weight: 480
 url: /ar/net/groupdocs.signature.domain/filetype/vcf/
 ---
 ## FileType.VCF field

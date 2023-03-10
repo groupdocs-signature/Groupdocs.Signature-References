@@ -3,7 +3,7 @@ title: SignatureAppearance
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل مظهر التوقيع  خيارات إضافية للتطبيقات البديلة للتوقيع على صفحة المستند.
 type: docs
-weight: 1170
+weight: 1240
 url: /ar/net/groupdocs.signature.options.appearances/signatureappearance/
 ---
 ## SignatureAppearance class

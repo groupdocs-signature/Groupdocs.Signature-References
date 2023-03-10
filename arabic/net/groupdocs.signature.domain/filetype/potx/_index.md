@@ -3,7 +3,7 @@ title: POTX
 second_title: GroupDocs.Signature لمرجع .NET API
 description: PowerPoint Open XML Presentation Template .potx يمثل العروض التقديمية لقالب Microsoft PowerPoint التي تم إنشاؤها باستخدام Microsoft PowerPoint 2007 والإصدارات الأحدث. تعرف على المزيد حول تنسيق الملف هذاهناhttps//wiki.fileformat.com/presentation/potx .
 type: docs
-weight: 310
+weight: 320
 url: /ar/net/groupdocs.signature.domain/filetype/potx/
 ---
 ## FileType.POTX field

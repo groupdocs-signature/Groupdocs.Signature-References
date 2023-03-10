@@ -1,14 +1,14 @@
 ---
 title: Compression
 second_title: GroupDocs.Signature لمرجع .NET API
-description: الحصول على الضغط أو تعيينه. نرىBitmapCompressiongroupdocs.signature.options/bitmapcompression .
+description: الحصول على الضغط أو تعيينه. يرىBitmapCompressiongroupdocs.signature.options/bitmapcompression .
 type: docs
 weight: 30
 url: /ar/net/groupdocs.signature.options/bmpsaveoptions/compression/
 ---
 ## BmpSaveOptions.Compression property
 
-الحصول على الضغط أو تعيينه. نرى[`BitmapCompression`](../../bitmapcompression) .
+الحصول على الضغط أو تعيينه. يرى[`BitmapCompression`](../../bitmapcompression) .
 
 ```csharp
 public BitmapCompression Compression { get; set; }

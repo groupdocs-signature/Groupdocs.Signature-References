@@ -65,7 +65,7 @@ public Signature(Stream document, LoadOptions loadOptions)
 
 ## Signature(Stream, SignatureSettings) {#constructor_3}
 
-تهيئة مثيل جديد لـ[`Signature`](../../signature) مثيل فئة مع المستند المقدم بواسطة تيار و[`SignatureSettings`](../../signaturesettings) .
+تهيئة مثيل جديد لـ[`Signature`](../../signature)مثيل فئة مع المستند المقدم بواسطة تيار و[`SignatureSettings`](../../signaturesettings) .
 
 ```csharp
 public Signature(Stream document, SignatureSettings settings)

@@ -3,7 +3,7 @@ title: ImageAppearance
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يصف ميزات المظهر الموسعة لتوقيع الصورة .
 type: docs
-weight: 1130
+weight: 1200
 url: /ar/net/groupdocs.signature.options.appearances/imageappearance/
 ---
 ## ImageAppearance class

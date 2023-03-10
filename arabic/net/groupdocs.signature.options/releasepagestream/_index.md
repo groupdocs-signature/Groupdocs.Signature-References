@@ -3,7 +3,7 @@ title: ReleasePageStream
 second_title: GroupDocs.Signature لمرجع .NET API
 description: المفوض الذي يحدد طريقة إصدار دفق معاينة صفحة الإخراج.
 type: docs
-weight: 1570
+weight: 1650
 url: /ar/net/groupdocs.signature.options/releasepagestream/
 ---
 ## ReleasePageStream delegate

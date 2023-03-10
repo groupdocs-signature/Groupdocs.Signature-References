@@ -3,7 +3,7 @@ title: Extension
 second_title: GroupDocs.Signature لمرجع .NET API
 description: لاحقة اسم الملف بما في ذلك النقطة . مثل .doc .
 type: docs
-weight: 580
+weight: 590
 url: /ar/net/groupdocs.signature.domain/filetype/extension/
 ---
 ## FileType.Extension property

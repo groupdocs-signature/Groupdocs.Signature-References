@@ -3,7 +3,7 @@ title: BmpSaveOptions
 second_title: GroupDocs.Signature لمرجع .NET API
 description: Bmp خيارات الحفظ لمستندات الصور .
 type: docs
-weight: 1220
+weight: 1290
 url: /ar/net/groupdocs.signature.options/bmpsaveoptions/
 ---
 ## BmpSaveOptions class
@@ -26,7 +26,7 @@ public sealed class BmpSaveOptions : ImageSaveOptions
 | --- | --- |
 | [AddMissingExtenstion](../../groupdocs.signature.options/saveoptions/addmissingextenstion) { get; set; } | الحصول على علامة أو تعيينها لإضافة الامتداد تلقائيًا عندما تكون مفقودة في مسار ملف الإخراج القيمة الافتراضية هي false . |
 | [BitsPerPixel](../../groupdocs.signature.options/bmpsaveoptions/bitsperpixel) { get; set; } | الحصول على أو تعيين عدد بتات الصورة لكل بكسل. |
-| [Compression](../../groupdocs.signature.options/bmpsaveoptions/compression) { get; set; } | الحصول على الضغط أو تعيينه. نرى[`BitmapCompression`](../bitmapcompression) . |
+| [Compression](../../groupdocs.signature.options/bmpsaveoptions/compression) { get; set; } | الحصول على الضغط أو تعيينه. يرى[`BitmapCompression`](../bitmapcompression) . |
 | [FileFormat](../../groupdocs.signature.options/imagesaveoptions/fileformat) { get; set; } | الحصول على تنسيق ملف المستند الموقع أو تعيينه. |
 | [HorizontalResolution](../../groupdocs.signature.options/bmpsaveoptions/horizontalresolution) { get; set; } | الحصول على الدقة الأفقية أو تعيينها. ملاحظة نظرًا لتقريب الدقة الناتجة قد تختلف قليلاً عن الدقة التي تم تمريرها. |
 | [OverwriteExistingFiles](../../groupdocs.signature.options/saveoptions/overwriteexistingfiles) { get; set; } | يحصل أو يحدد ما إذا كان سيتم الكتابة فوق الملف الموجود بملف الإخراج الجديد. وإلا فسيتم إنشاء ملف جديد برقم كلاحقة. |

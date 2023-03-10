@@ -3,7 +3,7 @@ title: Standard2of5
 second_title: GroupDocs.Signature لمرجع .NET API
 description: كائن نوع الرمز الشريطي Standard2of5 .
 type: docs
-weight: 570
+weight: 600
 url: /ar/net/groupdocs.signature.domain/barcodetypes/standard2of5/
 ---
 ## BarcodeTypes.Standard2of5 field

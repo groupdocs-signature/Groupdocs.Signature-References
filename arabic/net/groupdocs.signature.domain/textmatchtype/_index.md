@@ -3,7 +3,7 @@ title: TextMatchType
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحدد نوع مطابقة النص في السلسلة .
 type: docs
-weight: 950
+weight: 980
 url: /ar/net/groupdocs.signature.domain/textmatchtype/
 ---
 ## TextMatchType enumeration

@@ -3,7 +3,7 @@ title: Succeeded
 second_title: GroupDocs.Signature لمرجع .NET API
 description: قائمة التوقيعات التي تم تعديلها بنجاحBaseSignaturegroupdocs.signature.domain/basesignature .
 type: docs
-weight: 20
+weight: 50
 url: /ar/net/groupdocs.signature.domain/updateresult/succeeded/
 ---
 ## UpdateResult.Succeeded property

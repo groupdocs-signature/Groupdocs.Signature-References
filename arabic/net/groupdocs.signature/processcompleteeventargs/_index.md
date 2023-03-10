@@ -3,7 +3,7 @@ title: ProcessCompleteEventArgs
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يوفر بيانات عن الحدث الكامل لعمليات التوقيع والتحقق والبحث.
 type: docs
-weight: 1730
+weight: 1810
 url: /ar/net/groupdocs.signature/processcompleteeventargs/
 ---
 ## ProcessCompleteEventArgs class
@@ -19,7 +19,7 @@ public class ProcessCompleteEventArgs : ProcessEventArgs
 | اسم | وصف |
 | --- | --- |
 | [Canceled](../../groupdocs.signature/processcompleteeventargs/canceled) { get; } | يشير إلى ما إذا كان قد تم إلغاء العملية . |
-| [Completed](../../groupdocs.signature/processcompleteeventargs/completed) { get; set; } | يمثل علامة وقت اكتمال العملية. |
+| [Completed](../../groupdocs.signature/processcompleteeventargs/completed) { get; set; } | يمثل علامة الوقت لإكمال العملية. |
 | [Status](../../groupdocs.signature/processeventargs/status) { get; set; } | يشير إلى حالة العملية الحالية . |
 | [Ticks](../../groupdocs.signature/processcompleteeventargs/ticks) { get; set; } | يمثل الوقت بالمللي ثانية الذي تم قضاؤه منذ حدث بدء العملية. |
 | [TotalSignatures](../../groupdocs.signature/processcompleteeventargs/totalsignatures) { get; set; } | يمثل الكمية الإجمالية للتوقيعات التي تمت معالجتها. |

@@ -3,7 +3,7 @@ title: DigitalSignatureAppearance
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يصف مظهر خط التوقيع للتوقيع الرقمي . يمكن تطبيق سطر توقيع واحد فقط لتوقيع رقمي واحد. يكون خط التوقيع دائمًا في الصفحة الأولى. قد تكون هذه الميزة مفيدة لتنسيقات الملفات .docx و .doc و .odt و. xlsx.
 type: docs
-weight: 1120
+weight: 1190
 url: /ar/net/groupdocs.signature.options.appearances/digitalsignatureappearance/
 ---
 ## DigitalSignatureAppearance class

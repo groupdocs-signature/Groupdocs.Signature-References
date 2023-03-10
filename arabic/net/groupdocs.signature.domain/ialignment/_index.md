@@ -3,7 +3,7 @@ title: IAlignment
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يصف محاذاة منطقة التوقيع في صفحة المستند.
 type: docs
-weight: 480
+weight: 500
 url: /ar/net/groupdocs.signature.domain/ialignment/
 ---
 ## IAlignment interface

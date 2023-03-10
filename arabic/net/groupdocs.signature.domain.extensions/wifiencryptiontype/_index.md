@@ -3,7 +3,7 @@ title: WiFiEncryptionType
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل نوع تشفير WiFi .
 type: docs
-weight: 420
+weight: 440
 url: /ar/net/groupdocs.signature.domain.extensions/wifiencryptiontype/
 ---
 ## WiFiEncryptionType enumeration

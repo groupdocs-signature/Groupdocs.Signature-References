@@ -3,7 +3,7 @@ title: PdfDigitalSignatureType
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يصف تعداد نوع التوقيع الرقمي بتنسيق PDF .
 type: docs
-weight: 640
+weight: 670
 url: /ar/net/groupdocs.signature.domain/pdfdigitalsignaturetype/
 ---
 ## PdfDigitalSignatureType enumeration

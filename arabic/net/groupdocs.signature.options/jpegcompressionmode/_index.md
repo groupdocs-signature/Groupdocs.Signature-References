@@ -3,7 +3,7 @@ title: JpegCompressionMode
 second_title: GroupDocs.Signature لمرجع .NET API
 description: تحديد أوضاع ضغط JPEG .
 type: docs
-weight: 1360
+weight: 1440
 url: /ar/net/groupdocs.signature.options/jpegcompressionmode/
 ---
 ## JpegCompressionMode enumeration
@@ -20,7 +20,7 @@ public enum JpegCompressionMode
 | --- | --- | --- |
 | Baseline | `0` | ضغط الخط الأساسي. |
 | Progressive | `1` | الضغط التدريجي. |
-| Lossless | `2` | ضغط بلا خسارة. استخدم نوع الضغط هذا بعناية لأن العديد من مشاهدي الصور لا يدعمونه. إذا كنت تستخدمه ، فحاول تعيين [`ColorType`](../jpegsaveoptions/colortype) الملكية لGrayscale أوRgb القيم. |
+| Lossless | `2` | ضغط بلا خسارة. استخدم نوع الضغط هذا بعناية لأن العديد من مشاهدي الصور لا يدعمونه. إذا كنت تستخدمه ، فحاول تعيين [`ColorType`](../jpegsaveoptions/colortype) الملكية لGrayscale أوRgb قيم. |
 | JpegLs | `3` | ضغط JPEG-LS. استخدم نوع الضغط هذا بعناية لأن العديد من مشاهدي الصور لا يدعمونه. إذا كنت تستخدمه ، فحاول تعيين [`ColorType`](../jpegsaveoptions/colortype) الملكية لGrayscale القيمة. |
 
 ### أنظر أيضا

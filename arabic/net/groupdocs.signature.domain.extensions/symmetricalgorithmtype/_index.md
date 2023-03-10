@@ -3,7 +3,7 @@ title: SymmetricAlgorithmType
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل نوع خوارزمية التشفير المتماثل.
 type: docs
-weight: 350
+weight: 370
 url: /ar/net/groupdocs.signature.domain.extensions/symmetricalgorithmtype/
 ---
 ## SymmetricAlgorithmType enumeration

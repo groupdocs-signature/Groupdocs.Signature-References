@@ -3,7 +3,7 @@ title: QrCodeSignatures
 second_title: GroupDocs.Signature لمرجع .NET API
 description: إضافة أو تحديث مجموعة تواقيع رمز الاستجابة السريعة للمستند بواسطةSignaturegroupdocs.signature/signature الأساليب .
 type: docs
-weight: 110
+weight: 120
 url: /ar/net/groupdocs.signature.domain/idocumentinfo/qrcodesignatures/
 ---
 ## IDocumentInfo.QrCodeSignatures property

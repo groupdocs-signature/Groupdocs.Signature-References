@@ -3,7 +3,7 @@ title: FileType
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل نوع الملف.
 type: docs
-weight: 430
+weight: 450
 url: /ar/net/groupdocs.signature.domain/filetype/
 ---
 ## FileType class
@@ -65,6 +65,7 @@ public sealed class FileType : IEquatable<FileType>
 | static readonly [OTT](../../groupdocs.signature.domain/filetype/ott) | قالب مستند OpenDocument (.ott) يمثل مستندات نموذجية تم إنشاؤها بواسطة التطبيقات وفقًا للتنسيق القياسي OpenDocument الخاص بـ OASIS. تعرف على المزيد حول تنسيق الملف هذا[هنا](https://wiki.fileformat.com/word-processing/ott) . |
 | static readonly [PCL](../../groupdocs.signature.domain/filetype/pcl) | مستند لغة أوامر الطابعة (.pcl) |
 | static readonly [PDF](../../groupdocs.signature.domain/filetype/pdf) | ملف تنسيق المستند المحمول (.pdf) هو نوع من المستندات التي أنشأتها Adobe في التسعينيات. كان الغرض من تنسيق الملف هذا هو تقديم معيار لتمثيل المستندات والمواد المرجعية الأخرى بتنسيق مستقل عن برامج التطبيقات والأجهزة وكذلك نظام التشغيل. تعرف على المزيد حول تنسيق الملف هذا[هنا](https://wiki.fileformat.com/view/pdf) . |
+| static readonly [PFX](../../groupdocs.signature.domain/filetype/pfx) | Scalable Vector Graphics File (.svg) هو ملف Scalar Vector Graphics يستخدم تنسيقًا نصيًا يستند إلى XML لوصف مظهر الصورة. تعرف على المزيد حول تنسيق الملف هذا[هنا](https://wiki.fileformat.com/page-description-language/svg) . |
 | static readonly [PNG](../../groupdocs.signature.domain/filetype/png) | Portable Network Graphic (.png) هو نوع من تنسيق ملف الصورة النقطية الذي يستخدم ضغطًا بدون فقدان البيانات. تم إنشاء تنسيق الملف هذا كبديل لتنسيق تبادل الرسومات (GIF) وليس له قيود على حقوق النشر . تعرف على المزيد حول تنسيق الملف هذا[هنا](https://wiki.fileformat.com/image/png) . |
 | static readonly [POT](../../groupdocs.signature.domain/filetype/pot) | قالب PowerPoint (.pot) يمثل ملفات قوالب Microsoft PowerPoint التي تم إنشاؤها بواسطة إصدارات PowerPoint 97-2003. تعرف على المزيد حول تنسيق الملف هذا[هنا](https://wiki.fileformat.com/presentation/pot) . |
 | static readonly [POTM](../../groupdocs.signature.domain/filetype/potm) | قالب العرض التقديمي لـ PowerPoint Open XML مع تمكين ماكرو (.potm) عبارة عن ملفات قالب Microsoft PowerPoint مع دعم لوحدات الماكرو. يتم إنشاء ملفات POTM باستخدام PowerPoint 2007 أو إصدار أحدث وتحتوي على الإعدادات الافتراضية التي يمكن استخدامها لإنشاء المزيد من ملفات العروض التقديمية . تعرف على المزيد حول تنسيق الملف هذا[هنا](https://wiki.fileformat.com/presentation/potm) . |

@@ -3,7 +3,7 @@ title: PPS
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يتم إنشاء عرض شرائح PowerPoint .pps باستخدام Microsoft PowerPoint لغرض عرض الشرائح. يتم دعم قراءة ملف PPS وإنشائه بواسطة Microsoft PowerPoint 972003. تعرف على المزيد حول تنسيق الملف هذاهناhttps//wiki.fileformat.com/presentation/pps .
 type: docs
-weight: 320
+weight: 330
 url: /ar/net/groupdocs.signature.domain/filetype/pps/
 ---
 ## FileType.PPS field

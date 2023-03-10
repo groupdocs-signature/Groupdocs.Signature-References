@@ -3,7 +3,7 @@ title: FormTextFieldType
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحدد أنواع النص لحقول نموذج مستند معالجة الكلمات.
 type: docs
-weight: 460
+weight: 480
 url: /ar/net/groupdocs.signature.domain/formtextfieldtype/
 ---
 ## FormTextFieldType enumeration

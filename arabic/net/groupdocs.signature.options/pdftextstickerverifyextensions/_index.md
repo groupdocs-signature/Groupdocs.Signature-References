@@ -3,7 +3,7 @@ title: PdfTextStickerVerifyExtensions
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يصف امتدادات التحقق من كائن ملصق PDF .
 type: docs
-weight: 1450
+weight: 1530
 url: /ar/net/groupdocs.signature.options/pdftextstickerverifyextensions/
 ---
 ## PdfTextStickerVerifyExtensions class

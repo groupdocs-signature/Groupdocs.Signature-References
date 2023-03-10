@@ -3,7 +3,7 @@ title: ProcessProgressEventArgs
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يوفر بيانات لحدث OnProgress الخاص بعمليات التوقيع والتحقق والبحث.
 type: docs
-weight: 1760
+weight: 1840
 url: /ar/net/groupdocs.signature/processprogresseventargs/
 ---
 ## ProcessProgressEventArgs class
@@ -26,7 +26,7 @@ public class ProcessProgressEventArgs : ProcessEventArgs
 | --- | --- |
 | [Cancel](../../groupdocs.signature/processprogresseventargs/cancel) { get; set; } | يشير إلى ما إذا كان يجب إلغاء العملية . |
 | [ProcessedSignatures](../../groupdocs.signature/processprogresseventargs/processedsignatures) { get; set; } | يمثل كمية التوقيعات التي تمت معالجتها. |
-| [Progress](../../groupdocs.signature/processprogresseventargs/progress) { get; set; } | يمثل التقدم في النسب المئوية. نطاق القيمة من 0 إلى 100. |
+| [Progress](../../groupdocs.signature/processprogresseventargs/progress) { get; set; } | يمثل التقدم بالنسب المئوية. نطاق القيمة من 0 إلى 100. |
 | [Status](../../groupdocs.signature/processeventargs/status) { get; set; } | يشير إلى حالة العملية الحالية . |
 | [Ticks](../../groupdocs.signature/processprogresseventargs/ticks) { get; set; } | يمثل الوقت المنقضي بالمللي ثانية منذ حدث بدء العملية. |
 

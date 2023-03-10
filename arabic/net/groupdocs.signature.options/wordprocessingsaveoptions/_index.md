@@ -3,7 +3,7 @@ title: WordProcessingSaveOptions
 second_title: GroupDocs.Signature لمرجع .NET API
 description: خيارات الحفظ لمستندات معالجة الكلمات.
 type: docs
-weight: 1710
+weight: 1790
 url: /ar/net/groupdocs.signature.options/wordprocessingsaveoptions/
 ---
 ## WordProcessingSaveOptions class

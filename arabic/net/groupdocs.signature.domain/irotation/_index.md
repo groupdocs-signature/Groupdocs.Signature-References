@@ -3,7 +3,7 @@ title: IRotation
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحدد خصائص تدوير التوقيع.
 type: docs
-weight: 520
+weight: 540
 url: /ar/net/groupdocs.signature.domain/irotation/
 ---
 ## IRotation interface

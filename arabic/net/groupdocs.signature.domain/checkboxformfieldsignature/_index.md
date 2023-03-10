@@ -3,7 +3,7 @@ title: CheckboxFormFieldSignature
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحتوي على خصائص توقيع حقل نموذج إدخال خانة الاختيار.
 type: docs
-weight: 70
+weight: 80
 url: /ar/net/groupdocs.signature.domain/checkboxformfieldsignature/
 ---
 ## CheckboxFormFieldSignature class

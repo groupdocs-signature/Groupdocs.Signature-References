@@ -1,14 +1,14 @@
 ---
 title: Completed
 second_title: GroupDocs.Signature لمرجع .NET API
-description: يمثل علامة وقت اكتمال العملية.
+description: يمثل علامة الوقت لإكمال العملية.
 type: docs
 weight: 20
 url: /ar/net/groupdocs.signature/processcompleteeventargs/completed/
 ---
 ## ProcessCompleteEventArgs.Completed property
 
-يمثل علامة وقت اكتمال العملية.
+يمثل علامة الوقت لإكمال العملية.
 
 ```csharp
 public DateTime Completed { get; set; }

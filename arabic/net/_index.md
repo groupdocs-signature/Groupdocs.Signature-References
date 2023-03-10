@@ -3,7 +3,7 @@ title: GroupDocs.Signature for .NET
 type: docs
 weight: 10
 url: /ar/net/
-description: GroupDocs يحتوي التوقيع الخاص بمراجع .NET API على أمثلة ومقتطفات التعليمات البرمجية ووثائق API. يوفر مساحات الأسماء والفئات والواجهات وتفاصيل API الأخرى.
+description: GroupDocs: يحتوي التوقيع الخاص بمراجع .NET API على أمثلة ومقتطفات التعليمات البرمجية ووثائق API. يوفر مساحات الأسماء والفئات والواجهات وتفاصيل API الأخرى.
 is_root: true
 ---
 ## مساحات الأسماء
@@ -13,6 +13,7 @@ is_root: true
 | [GroupDocs.Signature](./groupdocs.signature) | توفر مساحة الاسم فئات لتوقيع المستندات بتنسيقات مختلفة باستخدام الطوابع والرموز الشريطية ورموز QR والنص والصورة والبيانات الوصفية وحقل النموذج والتوقيعات الرقمية. |
 | [GroupDocs.Signature.Domain](./groupdocs.signature.domain) | توفر مساحة الاسم فئات للعمل مع تمثيل المستند. |
 | [GroupDocs.Signature.Domain.Extensions](./groupdocs.signature.domain.extensions) | توفر مساحة الاسم امتدادات لظهور التوقيع والوظائف الإضافية. |
+| [GroupDocs.Signature.Logging](./groupdocs.signature.logging) | توفر مساحة الاسم فئات لأغراض التسجيل. |
 | [GroupDocs.Signature.Options](./groupdocs.signature.options) | توفر مساحة الاسم فئات لتحديد خيارات إضافية عند تحميل المستندات وتوقيعها والتحقق منها والبحث عنها وحفظها. |
 | [GroupDocs.Signature.Options.Appearances](./groupdocs.signature.options.appearances) | توفر مساحة الاسم فئات لظهور توقيع إضافي. |
 

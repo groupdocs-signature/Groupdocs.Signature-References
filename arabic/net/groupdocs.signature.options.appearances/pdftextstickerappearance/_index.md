@@ -3,7 +3,7 @@ title: PdfTextStickerAppearance
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يصف مظهر كائن ملصق التعليقات التوضيحية النصية بتنسيق PDF ونافذة منبثقة للملصق .
 type: docs
-weight: 1160
+weight: 1230
 url: /ar/net/groupdocs.signature.options.appearances/pdftextstickerappearance/
 ---
 ## PdfTextStickerAppearance class

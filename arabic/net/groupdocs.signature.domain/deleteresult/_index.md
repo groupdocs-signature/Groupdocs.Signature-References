@@ -3,7 +3,7 @@ title: DeleteResult
 second_title: GroupDocs.Signature لمرجع .NET API
 description: نتيجة حذف التوقيع التوقيعات من المستند.
 type: docs
-weight: 120
+weight: 130
 url: /ar/net/groupdocs.signature.domain/deleteresult/
 ---
 ## DeleteResult class
@@ -18,8 +18,12 @@ public class DeleteResult : IResult
 
 | اسم | وصف |
 | --- | --- |
+| [DestinDocumentSize](../../groupdocs.signature.domain/deleteresult/destindocumentsize) { get; } | إرجاع حجم المستند المحدث. |
 | [Failed](../../groupdocs.signature.domain/deleteresult/failed) { get; } | قائمة التوقيعات التي لم يتم حذفها[`BaseSignature`](../basesignature) . |
+| [ProcessingTime](../../groupdocs.signature.domain/deleteresult/processingtime) { get; } | إرجاع وقت تنفيذ العملية بالمللي ثانية. |
+| [SourceDocumentSize](../../groupdocs.signature.domain/deleteresult/sourcedocumentsize) { get; } | إرجاع حجم المستند المصدر . |
 | [Succeeded](../../groupdocs.signature.domain/deleteresult/succeeded) { get; } | قائمة التوقيعات المحذوفة بنجاح[`BaseSignature`](../basesignature) . |
+| [TotalSignatures](../../groupdocs.signature.domain/deleteresult/totalsignatures) { get; } | إرجاع إجمالي التواقيع المعالجة. |
 
 ### أنظر أيضا
 

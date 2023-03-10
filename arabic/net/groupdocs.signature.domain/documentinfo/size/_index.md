@@ -3,7 +3,7 @@ title: Size
 second_title: GroupDocs.Signature لمرجع .NET API
 description: حجم المستند بالبايت .
 type: docs
-weight: 140
+weight: 150
 url: /ar/net/groupdocs.signature.domain/documentinfo/size/
 ---
 ## DocumentInfo.Size property

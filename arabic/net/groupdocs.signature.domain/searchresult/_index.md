@@ -3,7 +3,7 @@ title: SearchResult
 second_title: GroupDocs.Signature لمرجع .NET API
 description: نتيجة البحث عن التواقيع في المستند المحدد.
 type: docs
-weight: 800
+weight: 830
 url: /ar/net/groupdocs.signature.domain/searchresult/
 ---
 ## SearchResult class
@@ -11,14 +11,19 @@ url: /ar/net/groupdocs.signature.domain/searchresult/
 نتيجة البحث عن التواقيع في المستند المحدد.
 
 ```csharp
-public class SearchResult : IEnumerable<BaseSignature>
+public class SearchResult : IEnumerable<BaseSignature>, IResult
 ```
 
 ## الخصائص
 
 | اسم | وصف |
 | --- | --- |
-| [Signatures](../../groupdocs.signature.domain/searchresult/signatures) { get; } | قائمة التوقيعات المكتشفة[`BaseSignature`](../basesignature) . |
+| [DestinDocumentSize](../../groupdocs.signature.domain/searchresult/destindocumentsize) { get; } | إرجاع حجم المستند الوجهة. بالنسبة لطريقة البحث ، فإنها تُرجع دائمًا 0. |
+| [ProcessingTime](../../groupdocs.signature.domain/searchresult/processingtime) { get; } | إرجاع وقت تنفيذ عملية البحث بالميلي ثانية. |
+| [Signatures](../../groupdocs.signature.domain/searchresult/signatures) { get; } | قائمة التوقيعات التي تم العثور عليها[`BaseSignature`](../basesignature) . |
+| [SourceDocumentSize](../../groupdocs.signature.domain/searchresult/sourcedocumentsize) { get; } | إرجاع حجم المستند المصدر |
+| [Succeeded](../../groupdocs.signature.domain/searchresult/succeeded) { get; } | قائمة التوقيعات التي تم العثور عليها[`BaseSignature`](../basesignature) . ستكون هذه القائمة دائمًا مساوية لـ[`Signatures`](./signatures) الملكية . |
+| [TotalSignatures](../../groupdocs.signature.domain/searchresult/totalsignatures) { get; } | إرجاع إجمالي التواقيع المعالجة بواسطة عملية البحث |
 
 ## طُرق
 
@@ -30,6 +35,7 @@ public class SearchResult : IEnumerable<BaseSignature>
 ### أنظر أيضا
 
 * class [BaseSignature](../basesignature)
+* interface [IResult](../iresult)
 * مساحة الاسم [GroupDocs.Signature.Domain](../../groupdocs.signature.domain)
 * المجسم [GroupDocs.Signature](../../)
 

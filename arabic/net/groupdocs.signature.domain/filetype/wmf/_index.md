@@ -3,7 +3,7 @@ title: WMF
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل Windows Metafile .wmf Microsoft Windows Metafile WMF لتخزين بيانات الصور المتجهية وكذلك بصيغة الصور النقطية. تعرف على المزيد حول تنسيق الملف هذاهناhttps//wiki.fileformat.com/image/wmf .
 type: docs
-weight: 490
+weight: 500
 url: /ar/net/groupdocs.signature.domain/filetype/wmf/
 ---
 ## FileType.WMF field

@@ -3,7 +3,7 @@ title: GifSaveOptions
 second_title: GroupDocs.Signature لمرجع .NET API
 description: خيارات حفظ تنسيق Gif لمستندات الصورة.
 type: docs
-weight: 1310
+weight: 1390
 url: /ar/net/groupdocs.signature.options/gifsaveoptions/
 ---
 ## GifSaveOptions class

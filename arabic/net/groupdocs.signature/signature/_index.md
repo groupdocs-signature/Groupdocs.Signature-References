@@ -3,7 +3,7 @@ title: Signature
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل الفئة الرئيسية التي تتحكم في عملية توقيع المستند.
 type: docs
-weight: 1800
+weight: 1880
 url: /ar/net/groupdocs.signature/signature/
 ---
 ## Signature class
@@ -21,7 +21,7 @@ public class Signature : IDisposable
 | [Signature](signature#constructor)(Stream) | تهيئة مثيل جديد لـ[`Signature`](../signature) فئة مع المستند المقدم من تيار. |
 | [Signature](signature#constructor_4)(string) | تهيئة مثيل جديد لـ[`Signature`](../signature) مثيل فئة مع المستند المقدم بواسطة مسار الملف. |
 | [Signature](signature#constructor_1)(Stream, LoadOptions) | تهيئة مثيل جديد لـ[`Signature`](../signature) فئة مع المستند المقدم من خلال خيارات الدفق والتحميلLoadOptions . |
-| [Signature](signature#constructor_3)(Stream, SignatureSettings) | تهيئة مثيل جديد لـ[`Signature`](../signature) مثيل فئة مع المستند المقدم بواسطة تيار و[`SignatureSettings`](../signaturesettings) . |
+| [Signature](signature#constructor_3)(Stream, SignatureSettings) | تهيئة مثيل جديد لـ[`Signature`](../signature)مثيل فئة مع المستند المقدم بواسطة تيار و[`SignatureSettings`](../signaturesettings) . |
 | [Signature](signature#constructor_5)(string, LoadOptions) | تهيئة مثيل جديد لـ[`Signature`](../signature) مثيل فئة مع المستند المقدم بواسطة مسار الملف وLoadOptions . |
 | [Signature](signature#constructor_7)(string, SignatureSettings) | تهيئة مثيل جديد لـ[`Signature`](../signature) مثيل فئة مع المستند المقدم بواسطة مسار الملف و[`SignatureSettings`](../signaturesettings) . |
 | [Signature](signature#constructor_2)(Stream, LoadOptions, SignatureSettings) | تهيئة مثيل جديد لـ[`Signature`](../signature) مثيل فئة مع المستند المقدم من خيارات الدفق والتحميلLoadOptions والإعدادات[`SignatureSettings`](../signaturesettings) . |
@@ -48,8 +48,8 @@ public class Signature : IDisposable
 | [Sign](../../groupdocs.signature/signature/sign#sign)(Stream, SignOptions) | توقيع الوثيقة مع[`SignOptions`](../../groupdocs.signature.options/signoptions) ويحفظ النتيجة في تيار . |
 | [Sign](../../groupdocs.signature/signature/sign#sign_6)(string, List&lt;SignOptions&gt;) | توقيع وثيقة مع مجموعة من[`SignOptions`](../../groupdocs.signature.options/signoptions) ويحفظ النتيجة في مسار الملف المحدد. |
 | [Sign](../../groupdocs.signature/signature/sign#sign_4)(string, SignOptions) | توقيع الوثيقة مع[`SignOptions`](../../groupdocs.signature.options/signoptions) ويحفظ النتيجة في مسار الملف المحدد. |
-| [Sign](../../groupdocs.signature/signature/sign#sign_3)(Stream, List&lt;SignOptions&gt;, SaveOptions) | توقيع وثيقة مع مجموعة من[`SignOptions`](../../groupdocs.signature.options/signoptions) ويحفظ النتيجة في دفق محدد مسبقًا[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
-| [Sign](../../groupdocs.signature/signature/sign#sign_1)(Stream, SignOptions, SaveOptions) | توقيع الوثيقة مع[`SignOptions`](../../groupdocs.signature.options/signoptions) ويحفظ النتيجة في دفق محدد مسبقًا[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
+| [Sign](../../groupdocs.signature/signature/sign#sign_3)(Stream, List&lt;SignOptions&gt;, SaveOptions) | توقيع وثيقة مع مجموعة من[`SignOptions`](../../groupdocs.signature.options/signoptions)ويحفظ النتيجة في دفق محدد مسبقًا[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
+| [Sign](../../groupdocs.signature/signature/sign#sign_1)(Stream, SignOptions, SaveOptions) | توقيع الوثيقة مع[`SignOptions`](../../groupdocs.signature.options/signoptions)ويحفظ النتيجة في دفق محدد مسبقًا[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
 | [Sign](../../groupdocs.signature/signature/sign#sign_7)(string, List&lt;SignOptions&gt;, SaveOptions) | توقيع وثيقة مع مجموعة من[`SignOptions`](../../groupdocs.signature.options/signoptions) ويحفظ النتيجة إلى مسار الملف المحدد مع محدد مسبقًا[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
 | [Sign](../../groupdocs.signature/signature/sign#sign_5)(string, SignOptions, SaveOptions) | توقيع الوثيقة مع[`SignOptions`](../../groupdocs.signature.options/signoptions) ويحفظ النتيجة إلى مسار الملف المحدد مع محدد مسبقًا[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
 | [Update](../../groupdocs.signature/signature/update#update)(BaseSignature) | اجتازت التحديثات التوقيع[`BaseSignature`](../../groupdocs.signature.domain/basesignature) في المستند. |

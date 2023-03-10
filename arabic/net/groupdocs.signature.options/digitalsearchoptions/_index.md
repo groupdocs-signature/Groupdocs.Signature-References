@@ -3,7 +3,7 @@ title: DigitalSearchOptions
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل خيارات البحث عن التوقيعات الرقمية.
 type: docs
-weight: 1250
+weight: 1330
 url: /ar/net/groupdocs.signature.options/digitalsearchoptions/
 ---
 ## DigitalSearchOptions class

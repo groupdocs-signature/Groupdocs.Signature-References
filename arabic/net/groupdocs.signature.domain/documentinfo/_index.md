@@ -3,7 +3,7 @@ title: DocumentInfo
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحدد خصائص وصف الوثيقة.
 type: docs
-weight: 150
+weight: 160
 url: /ar/net/groupdocs.signature.domain/documentinfo/
 ---
 ## DocumentInfo class
@@ -18,7 +18,7 @@ public class DocumentInfo : IDocumentInfo
 
 | اسم | وصف |
 | --- | --- |
-| [DocumentInfo](documentinfo)() | يقوم بتهيئة مثيل جديد لملف[`DocumentInfo`](../documentinfo) فئة . |
+| [DocumentInfo](documentinfo)() | يقوم بتهيئة مثيل جديد لملف[`DocumentInfo`](../documentinfo)فئة . |
 
 ## الخصائص
 
@@ -31,6 +31,7 @@ public class DocumentInfo : IDocumentInfo
 | [FormFieldSignatures](../../groupdocs.signature.domain/documentinfo/formfieldsignatures) { get; } | مجموعة توقيعات حقل نموذج المستند التي تمت إضافتها أو تحديثها بواسطة[`Signature`](../../groupdocs.signature/signature) الأساليب . |
 | [ImageSignatures](../../groupdocs.signature.domain/documentinfo/imagesignatures) { get; } | تمت إضافة مجموعة توقيعات صورة المستند أو تحديثها بواسطة[`Signature`](../../groupdocs.signature/signature) الأساليب . |
 | [MaxPageHeight](../../groupdocs.signature.domain/documentinfo/maxpageheight) { get; set; } | يحدد أقصى ارتفاع للصفحة. |
+| [MetadataSignatures](../../groupdocs.signature.domain/documentinfo/metadatasignatures) { get; } | مجموعة تواقيع البيانات الوصفية للوثيقة . |
 | [PageCount](../../groupdocs.signature.domain/documentinfo/pagecount) { get; set; } | عدد صفحات المستند . |
 | [Pages](../../groupdocs.signature.domain/documentinfo/pages) { get; set; } | مجموعة أوصاف صفحات الوثيقة. |
 | [ProcessLogs](../../groupdocs.signature.domain/documentinfo/processlogs) { get; } | مجموعة من عمليات محفوظات المستندات مثل التوقيع والتحديث والحذف. |

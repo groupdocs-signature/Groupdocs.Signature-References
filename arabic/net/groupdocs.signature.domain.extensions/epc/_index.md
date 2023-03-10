@@ -3,7 +3,7 @@ title: EPC
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل رمز الاستجابة السريعة لمجلس المدفوعات الأوروبي.
 type: docs
-weight: 210
+weight: 230
 url: /ar/net/groupdocs.signature.domain.extensions/epc/
 ---
 ## EPC class

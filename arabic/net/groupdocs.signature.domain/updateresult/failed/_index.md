@@ -3,7 +3,7 @@ title: Failed
 second_title: GroupDocs.Signature لمرجع .NET API
 description: قائمة التوقيعات التي لم يتم تحديثهاBaseSignaturegroupdocs.signature.domain/basesignature .
 type: docs
-weight: 10
+weight: 20
 url: /ar/net/groupdocs.signature.domain/updateresult/failed/
 ---
 ## UpdateResult.Failed property

@@ -3,7 +3,7 @@ title: Equals
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحدد ما إذا كان التيارFileTypegroupdocs.signature.domain/filetypeهو نفسه كما هو محددFileTypegroupdocs.signature.domain/filetype الكائن .
 type: docs
-weight: 600
+weight: 610
 url: /ar/net/groupdocs.signature.domain/filetype/equals/
 ---
 ## Equals(FileType) {#equals}
@@ -52,7 +52,7 @@ public override bool Equals(object obj)
 
 ### قيمة الإرجاع
 
-إذا المعلمة[`FileType`](../../filetype) وهو نفس التيار[`FileType`](../../filetype) هدف؛ خلاف ذلك،
+لو المعلمة[`FileType`](../../filetype) وهو نفس التيار[`FileType`](../../filetype) هدف؛ خلاف ذلك،
 
 ```csharp
 true

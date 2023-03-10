@@ -3,7 +3,7 @@ title: PngColorType
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل نوع لون صورة PNG.
 type: docs
-weight: 1460
+weight: 1540
 url: /ar/net/groupdocs.signature.options/pngcolortype/
 ---
 ## PngColorType enumeration

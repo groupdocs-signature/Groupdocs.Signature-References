@@ -3,7 +3,7 @@ title: OPC
 second_title: GroupDocs.Signature لمرجع .NET API
 description: كائن نوع الرمز الشريطي لـ OPC .
 type: docs
-weight: 460
+weight: 490
 url: /ar/net/groupdocs.signature.domain/barcodetypes/opc/
 ---
 ## BarcodeTypes.OPC field

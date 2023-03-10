@@ -3,7 +3,7 @@ title: SSCC18
 second_title: GroupDocs.Signature لمرجع .NET API
 description: كائن نوع الرمز الشريطي SSCC18 .
 type: docs
-weight: 560
+weight: 590
 url: /ar/net/groupdocs.signature.domain/barcodetypes/sscc18/
 ---
 ## BarcodeTypes.SSCC18 field

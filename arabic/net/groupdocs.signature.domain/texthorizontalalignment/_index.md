@@ -3,7 +3,7 @@ title: TextHorizontalAlignment
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحدد محاذاة النص الأفقية داخل التوقيع.
 type: docs
-weight: 940
+weight: 970
 url: /ar/net/groupdocs.signature.domain/texthorizontalalignment/
 ---
 ## TextHorizontalAlignment enumeration

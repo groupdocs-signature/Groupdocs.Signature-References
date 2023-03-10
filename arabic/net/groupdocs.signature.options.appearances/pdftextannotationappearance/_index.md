@@ -3,7 +3,7 @@ title: PdfTextAnnotationAppearance
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يصف مظهر كائن التعليق التوضيحي النصي بتنسيق PDF العنوان والموضوع والمحتوى .
 type: docs
-weight: 1150
+weight: 1220
 url: /ar/net/groupdocs.signature.options.appearances/pdftextannotationappearance/
 ---
 ## PdfTextAnnotationAppearance class

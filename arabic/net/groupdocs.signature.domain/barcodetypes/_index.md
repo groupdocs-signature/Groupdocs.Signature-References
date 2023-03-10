@@ -60,6 +60,9 @@ public static class BarcodeTypes
 | static readonly [EAN8](../../groupdocs.signature.domain/barcodetypes/ean8) | كائن نوع الرمز الشريطي EAN8 . |
 | static readonly [GS1CodablockF](../../groupdocs.signature.domain/barcodetypes/gs1codablockf) | GS1CodablockF كائن نوع الرمز الشريطي . |
 | static readonly [GS1Code128](../../groupdocs.signature.domain/barcodetypes/gs1code128) | GS1 Code128 Barcode Type object. |
+| static readonly [GS1CompositeBar](../../groupdocs.signature.domain/barcodetypes/gs1compositebar) | كائن نوع الرمز الشريطي المركب GS1 . |
+| static readonly [HIBCCode128LIC](../../groupdocs.signature.domain/barcodetypes/hibccode128lic) | كائن نوع الرمز الشريطي 128 HIBC LIC . |
+| static readonly [HIBCCode39LIC](../../groupdocs.signature.domain/barcodetypes/hibccode39lic) | كائن نوع الرمز الشريطي 39 HIBC LIC . |
 | static readonly [IATA2of5](../../groupdocs.signature.domain/barcodetypes/iata2of5) | IATA2of5 كائن نوع الرمز الشريطي . |
 | static readonly [Interleaved2of5](../../groupdocs.signature.domain/barcodetypes/interleaved2of5) | كائن نوع الرمز الشريطي Interleaved2of5 . |
 | static readonly [ISBN](../../groupdocs.signature.domain/barcodetypes/isbn) | كائن نوع الرمز الشريطي لـ ISBN . |

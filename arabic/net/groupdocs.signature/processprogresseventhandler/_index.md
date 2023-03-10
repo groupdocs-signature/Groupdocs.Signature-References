@@ -3,7 +3,7 @@ title: ProcessProgressEventHandler
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل مفوض الطريقة الذي سيتعامل مع العمليات على أحداث التقدم للتوقيع والتحقق والبحث .
 type: docs
-weight: 1770
+weight: 1850
 url: /ar/net/groupdocs.signature/processprogresseventhandler/
 ---
 ## ProcessProgressEventHandler delegate

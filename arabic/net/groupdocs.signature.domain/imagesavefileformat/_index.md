@@ -3,7 +3,7 @@ title: ImageSaveFileFormat
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحدد تنسيقات ملفات الحفظ المختلفة.
 type: docs
-weight: 560
+weight: 580
 url: /ar/net/groupdocs.signature.domain/imagesavefileformat/
 ---
 ## ImageSaveFileFormat enumeration

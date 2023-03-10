@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: GroupDocs.Signature لمرجع .NET API
-description: طريقة الكتابة فوق يساوي لمقارنة خصائص تحويل العملات المشفرة
+description: طريقة الكتابة فوق يساوي لمقارنة خصائص تحويل العملة المشفرة
 type: docs
 weight: 70
 url: /ar/net/groupdocs.signature.domain.extensions/cryptocurrencytransfer/equals/
 ---
 ## CryptoCurrencyTransfer.Equals method
 
-طريقة الكتابة فوق يساوي لمقارنة خصائص تحويل العملات المشفرة
+طريقة الكتابة فوق يساوي لمقارنة خصائص تحويل العملة المشفرة
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,11 +16,11 @@ public override bool Equals(object obj)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| obj | Object | كائن تحويل العملات المشفرة للمقارنة به. |
+| obj | Object | كائن تحويل Cryptocurrency للمقارنة به. |
 
 ### قيمة الإرجاع
 
-يعود صحيحًا إذا كان كائن تحويل العملات المشفرة الذي تم تمريره له نفس النوع وجميع خصائصه تساوي خصائص هذا المثيل.
+يعود صحيحًا إذا كان كائن تحويل العملة المشفرة الذي تم تمريره له نفس النوع وجميع خصائصه تساوي خصائص المثيل هذه.
 
 ### أنظر أيضا
 

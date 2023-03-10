@@ -3,7 +3,7 @@ title: SolidBrush
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل فرشاة صلبة . يمكن استخدامه بدلاً من خاصية لون الخلفية .
 type: docs
-weight: 330
+weight: 350
 url: /ar/net/groupdocs.signature.domain.extensions/solidbrush/
 ---
 ## SolidBrush class

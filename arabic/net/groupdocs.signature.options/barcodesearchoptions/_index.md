@@ -3,7 +3,7 @@ title: BarcodeSearchOptions
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل خيارات البحث لتوقيعات الباركود.
 type: docs
-weight: 1180
+weight: 1250
 url: /ar/net/groupdocs.signature.options/barcodesearchoptions/
 ---
 ## BarcodeSearchOptions class

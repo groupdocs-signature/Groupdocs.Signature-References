@@ -3,7 +3,7 @@ title: GroupDocs.Signature.Options
 second_title: GroupDocs.Signature لمرجع .NET API
 description: توفر مساحة الاسم فئات لتحديد خيارات إضافية عند تحميل المستندات وتوقيعها والتحقق منها والبحث عنها وحفظها.
 type: docs
-weight: 40
+weight: 50
 url: /ar/net/groupdocs.signature.options/
 ---
 توفر مساحة الاسم فئات لتحديد خيارات إضافية عند تحميل المستندات وتوقيعها والتحقق منها والبحث عنها وحفظها.
@@ -16,6 +16,7 @@ url: /ar/net/groupdocs.signature.options/
 | [BarcodeSignOptions](./barcodesignoptions) | يمثل خيارات توقيع الباركود. |
 | [BarcodeVerifyOptions](./barcodeverifyoptions) | يمثل خيارات التحقق من الرمز الشريطي. |
 | [BmpSaveOptions](./bmpsaveoptions) | Bmp خيارات الحفظ لمستندات الصور . |
+| [CertificateVerifyOptions](./certificateverifyoptions) | يحتفظ بالخيارات للتحقق من مستندات الشهادة. |
 | [CreatePageStream](./createpagestream) | المفوض الذي يحدد طريقة إنشاء تدفق معاينة صفحة الإخراج. |
 | [CreateSignatureStream](./createsignaturestream) | المفوض الذي يحدد طريقة إنشاء تدفق معاينة توقيع الإخراج. |
 | [DigitalSearchOptions](./digitalsearchoptions) | يمثل خيارات البحث عن التوقيعات الرقمية. |

@@ -3,7 +3,7 @@ title: GroupDocsSignatureException
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل الأخطاء العامة التي تحدث أثناء معالجة المستند.
 type: docs
-weight: 1080
+weight: 1110
 url: /ar/net/groupdocs.signature/groupdocssignatureexception/
 ---
 ## GroupDocsSignatureException class
@@ -18,8 +18,8 @@ public class GroupDocsSignatureException : Exception
 
 | اسم | وصف |
 | --- | --- |
-| [GroupDocsSignatureException](groupdocssignatureexception#constructor)() | يقوم بتهيئة مثيل جديد لملف[`GroupDocsSignatureException`](../groupdocssignatureexception) فئة . |
-| [GroupDocsSignatureException](groupdocssignatureexception#constructor_2)(string) | يقوم بتهيئة مثيل جديد لملف[`GroupDocsSignatureException`](../groupdocssignatureexception)فئة برسالة خطأ محددة. |
+| [GroupDocsSignatureException](groupdocssignatureexception#constructor)() | يقوم بتهيئة مثيل جديد لملف[`GroupDocsSignatureException`](../groupdocssignatureexception)فئة . |
+| [GroupDocsSignatureException](groupdocssignatureexception#constructor_2)(string) | يقوم بتهيئة مثيل جديد لملف[`GroupDocsSignatureException`](../groupdocssignatureexception) فئة برسالة خطأ محددة. |
 | [GroupDocsSignatureException](groupdocssignatureexception#constructor_1)(Exception, string) | يقوم بتهيئة مثيل جديد لملف[`GroupDocsSignatureException`](../groupdocssignatureexception) فئة مع رسالة خطأ محددة واستثناء أصلي. |
 
 ## طُرق

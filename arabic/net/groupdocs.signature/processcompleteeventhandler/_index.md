@@ -3,7 +3,7 @@ title: ProcessCompleteEventHandler
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل مفوضًا للطريقة الذي سيتعامل مع العمليات على الأحداث الكاملة للتوقيع والتحقق والبحث.
 type: docs
-weight: 1740
+weight: 1820
 url: /ar/net/groupdocs.signature/processcompleteeventhandler/
 ---
 ## ProcessCompleteEventHandler delegate

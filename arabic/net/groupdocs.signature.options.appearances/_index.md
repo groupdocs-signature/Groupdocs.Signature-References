@@ -3,7 +3,7 @@ title: GroupDocs.Signature.Options.Appearances
 second_title: GroupDocs.Signature لمرجع .NET API
 description: توفر مساحة الاسم فئات لظهور توقيع إضافي.
 type: docs
-weight: 50
+weight: 60
 url: /ar/net/groupdocs.signature.options.appearances/
 ---
 توفر مساحة الاسم فئات لظهور توقيع إضافي.

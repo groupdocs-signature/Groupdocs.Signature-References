@@ -3,7 +3,7 @@ title: PdfMetadataSignature
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحتوي على خصائص توقيع بيانات تعريف Pdf .
 type: docs
-weight: 650
+weight: 680
 url: /ar/net/groupdocs.signature.domain/pdfmetadatasignature/
 ---
 ## PdfMetadataSignature class
@@ -39,6 +39,7 @@ public sealed class PdfMetadataSignature : MetadataSignature
 | [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | يحدد نوع التوقيع. |
 | [TagPrefix](../../groupdocs.signature.domain/pdfmetadatasignature/tagprefix) { get; set; } | علامة البادئة لاسم توقيع بيانات تعريف Pdf. يتم تعيين هذه الخاصية افتراضيًا على "xmp" . القيم المحتملة هي |
 | [Top](../../groupdocs.signature.domain/basesignature/top) { get; set; } | يحدد أعلى موضع للتوقيع . |
+| [Type](../../groupdocs.signature.domain/metadatasignature/type) { get; } | يحدد نوع قيمة البيانات الوصفية . |
 | [Value](../../groupdocs.signature.domain/metadatasignature/value) { get; set; } | تحديد كائن البيانات الوصفية . |
 | [Width](../../groupdocs.signature.domain/basesignature/width) { get; set; } | يحدد عرض التوقيع. |
 

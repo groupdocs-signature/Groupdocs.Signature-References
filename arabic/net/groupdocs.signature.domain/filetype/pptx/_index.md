@@ -3,7 +3,7 @@ title: PPTX
 second_title: GroupDocs.Signature لمرجع .NET API
 description: PowerPoint Open XML Presentation .pptx هي ملفات عرض تم إنشاؤها باستخدام تطبيق Microsoft PowerPoint الشهير. على عكس الإصدار السابق من تنسيق ملف العرض التقديمي PPT الذي كان ثنائيًا  يعتمد تنسيق PPTX على تنسيق ملف العرض التقديمي XML المفتوح لبرنامج Microsoft PowerPoint. تعرف على المزيد حول تنسيق الملف هذاهناhttps//wiki.fileformat.com/presentation/pptx .
 type: docs
-weight: 370
+weight: 380
 url: /ar/net/groupdocs.signature.domain/filetype/pptx/
 ---
 ## FileType.PPTX field

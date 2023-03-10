@@ -1,14 +1,14 @@
 ---
 title: Native
 second_title: GroupDocs.Signature لمرجع .NET API
-description: الحصول على أو تعيين السمة الأصلية. إذا تم تعيينه  يمكن استخدام توقيعات محددة للمستند.
+description: الحصول على أو تعيين السمة الأصلية. إذا تم تعيينه  فيمكن استخدام توقيعات محددة للمستند.
 type: docs
 weight: 140
 url: /ar/net/groupdocs.signature.options/textsignoptions/native/
 ---
 ## TextSignOptions.Native property
 
-الحصول على أو تعيين السمة الأصلية. إذا تم تعيينه ، يمكن استخدام توقيعات محددة للمستند.
+الحصول على أو تعيين السمة الأصلية. إذا تم تعيينه ، فيمكن استخدام توقيعات محددة للمستند.
 
 ```csharp
 public bool Native { get; set; }

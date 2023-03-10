@@ -3,7 +3,7 @@ title: ToList
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يوفر التحويل إلى قائمة التوقيعات المكتوبة بقوة.
 type: docs
-weight: 30
+weight: 80
 url: /ar/net/groupdocs.signature.domain/searchresult/tolist/
 ---
 ## SearchResult.ToList&lt;T&gt; method

@@ -3,7 +3,7 @@ title: ToString
 second_title: GroupDocs.Signature لمرجع .NET API
 description: التحويل إلى سلسلة مع تجاوز ToString  method
 type: docs
-weight: 140
+weight: 150
 url: /ar/net/groupdocs.signature.domain/metadatasignature/tostring/
 ---
 ## ToString() {#tostring}
@@ -21,34 +21,6 @@ public override string ToString()
 ### ملاحظات
 
 يحول خاصية منطقية إلى "صواب" أو "خطأ". بالنسبة لنوع بيانات آخر ، سيتم استخدام موفر تنسيق البيانات الافتراضي.
-
-### أنظر أيضا
-
-* class [MetadataSignature](../../metadatasignature)
-* مساحة الاسم [GroupDocs.Signature.Domain](../../metadatasignature)
-* المجسم [GroupDocs.Signature](../../../)
-
----
-
-## ToString(string) {#tostring_1}
-
-تحويل إلى سلسلة بالتنسيق المحدد
-
-```csharp
-public virtual string ToString(string format)
-```
-
-| معامل | يكتب | وصف |
-| --- | --- | --- |
-| format | String | سلسلة تنسيق البيانات. |
-
-### قيمة الإرجاع
-
-تُرجع قيمة توقيع البيانات الوصفية على هيئة سلسلة.
-
-### ملاحظات
-
-يحول خاصية منطقية إلى "True" أو "False" . سيتم استخدام معلومات خاصية الثقافة الافتراضية من خصائص SignatureSettings[`DefaultCulture`](../../../groupdocs.signature/signaturesettings/defaultculture)
 
 ### أنظر أيضا
 
@@ -78,6 +50,34 @@ public virtual string ToString(string format, IFormatProvider provider)
 ### ملاحظات
 
 يحول خاصية منطقية إلى "صواب" أو "خطأ".
+
+### أنظر أيضا
+
+* class [MetadataSignature](../../metadatasignature)
+* مساحة الاسم [GroupDocs.Signature.Domain](../../metadatasignature)
+* المجسم [GroupDocs.Signature](../../../)
+
+---
+
+## ToString(string) {#tostring_1}
+
+تحويل إلى سلسلة بالتنسيق المحدد
+
+```csharp
+public virtual string ToString(string format)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| format | String | سلسلة تنسيق البيانات. |
+
+### قيمة الإرجاع
+
+تُرجع قيمة توقيع البيانات الوصفية على هيئة سلسلة.
+
+### ملاحظات
+
+يحول خاصية منطقية إلى "True" أو "False" . سيتم استخدام معلومات خاصية الثقافة الافتراضية من خصائص SignatureSettings[`DefaultCulture`](../../../groupdocs.signature/signaturesettings/defaultculture)
 
 ### أنظر أيضا
 

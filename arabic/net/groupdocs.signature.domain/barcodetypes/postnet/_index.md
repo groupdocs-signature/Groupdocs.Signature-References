@@ -3,7 +3,7 @@ title: Postnet
 second_title: GroupDocs.Signature لمرجع .NET API
 description: كائن نوع الرمز الشريطي لـ Postnet .
 type: docs
-weight: 510
+weight: 540
 url: /ar/net/groupdocs.signature.domain/barcodetypes/postnet/
 ---
 ## BarcodeTypes.Postnet field

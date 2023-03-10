@@ -3,7 +3,7 @@ title: TryParse
 second_title: GroupDocs.Signature لمرجع .NET API
 description: إرجاع نوع رمز QRC مع اسم النوع السرّي. إذا كان اسم رمز QRCode غير معروف  لن يتم طرح أي استثناء ولكن الطريقة ستعيد قيمة فارغة.
 type: docs
-weight: 80
+weight: 110
 url: /ar/net/groupdocs.signature.domain/qrcodetypes/tryparse/
 ---
 ## QrCodeTypes.TryParse method

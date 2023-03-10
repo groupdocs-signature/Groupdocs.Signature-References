@@ -3,7 +3,7 @@ title: Parse
 second_title: GroupDocs.Signature لمرجع .NET API
 description: إرجاع نوع رمز QRC مع اسم النوع السرّي. إذا كان اسم رمز الاستجابة السريعة غير معروف  فسيتم طرح الاستثناء
 type: docs
-weight: 70
+weight: 100
 url: /ar/net/groupdocs.signature.domain/qrcodetypes/parse/
 ---
 ## QrCodeTypes.Parse method

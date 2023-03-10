@@ -3,7 +3,7 @@ title: StretchMode
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل وضع الامتداد لمنطقة التوقيع على صفحة المستند.
 type: docs
-weight: 920
+weight: 950
 url: /ar/net/groupdocs.signature.domain/stretchmode/
 ---
 ## StretchMode enumeration

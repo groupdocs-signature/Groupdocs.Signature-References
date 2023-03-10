@@ -3,7 +3,7 @@ title: SkipSerializationAttribute
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يوجه التسلسل لتخطي العضو.
 type: docs
-weight: 320
+weight: 340
 url: /ar/net/groupdocs.signature.domain.extensions/skipserializationattribute/
 ---
 ## SkipSerializationAttribute class

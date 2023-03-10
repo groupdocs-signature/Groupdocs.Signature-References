@@ -3,7 +3,7 @@ title: BitmapCompression
 second_title: GroupDocs.Signature لمرجع .NET API
 description: تحديد طرق مختلفة لضغط الصور النقطية.
 type: docs
-weight: 1210
+weight: 1280
 url: /ar/net/groupdocs.signature.options/bitmapcompression/
 ---
 ## BitmapCompression enumeration

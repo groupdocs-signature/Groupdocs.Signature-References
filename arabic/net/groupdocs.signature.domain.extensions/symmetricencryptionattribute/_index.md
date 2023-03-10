@@ -3,7 +3,7 @@ title: SymmetricEncryptionAttribute
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يوجه تسلسل المثيلات لتشفير / فك تشفير سلسلة تسلسل الكائن.
 type: docs
-weight: 370
+weight: 390
 url: /ar/net/groupdocs.signature.domain.extensions/symmetricencryptionattribute/
 ---
 ## SymmetricEncryptionAttribute class

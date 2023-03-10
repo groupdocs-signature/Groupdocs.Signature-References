@@ -3,7 +3,7 @@ title: JpegRoundingMode
 second_title: GroupDocs.Signature لمرجع .NET API
 description: تحديد أوضاع مختلفة لتقريب JPEG .
 type: docs
-weight: 1370
+weight: 1450
 url: /ar/net/groupdocs.signature.options/jpegroundingmode/
 ---
 ## JpegRoundingMode enumeration

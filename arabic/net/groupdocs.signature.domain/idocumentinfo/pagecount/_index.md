@@ -3,7 +3,7 @@ title: PageCount
 second_title: GroupDocs.Signature لمرجع .NET API
 description: عدد صفحات المستند .
 type: docs
-weight: 80
+weight: 90
 url: /ar/net/groupdocs.signature.domain/idocumentinfo/pagecount/
 ---
 ## IDocumentInfo.PageCount property

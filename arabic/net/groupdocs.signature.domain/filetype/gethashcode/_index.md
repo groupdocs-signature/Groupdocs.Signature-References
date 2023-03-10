@@ -3,7 +3,7 @@ title: GetHashCode
 second_title: GroupDocs.Signature لمرجع .NET API
 description: إرجاع كود التجزئة الحاليFileTypegroupdocs.signature.domain/filetype الكائن .
 type: docs
-weight: 610
+weight: 620
 url: /ar/net/groupdocs.signature.domain/filetype/gethashcode/
 ---
 ## FileType.GetHashCode method

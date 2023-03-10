@@ -1,14 +1,14 @@
 ---
 title: ShapeType
 second_title: GroupDocs.Signature لمرجع .NET API
-description: الحصول على نوع الشكل لوضع النص أو تعيينه. يمكن استخدام هذه الخاصية فقط مع SignatureImplementation  TextStamp. القيمة الافتراضية هي المستطيل .
+description: الحصول على نوع الشكل لوضع نص أو تعيينه. يمكن استخدام هذه الخاصية فقط مع SignatureImplementation  TextStamp. القيمة الافتراضية هي المستطيل .
 type: docs
 weight: 160
 url: /ar/net/groupdocs.signature.options/textsignoptions/shapetype/
 ---
 ## TextSignOptions.ShapeType property
 
-الحصول على نوع الشكل لوضع النص أو تعيينه. يمكن استخدام هذه الخاصية فقط مع SignatureImplementation = TextStamp. القيمة الافتراضية هي المستطيل .
+الحصول على نوع الشكل لوضع نص أو تعيينه. يمكن استخدام هذه الخاصية فقط مع SignatureImplementation = TextStamp. القيمة الافتراضية هي المستطيل .
 
 ```csharp
 public TextShapeType ShapeType { get; set; }
