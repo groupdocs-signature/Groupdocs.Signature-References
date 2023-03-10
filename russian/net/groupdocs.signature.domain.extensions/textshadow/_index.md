@@ -3,7 +3,7 @@ title: TextShadow
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет свойства тени текста для текстовых подписей. Результат может различаться в зависимости от типа подписи и формата документа. TextShadow рекомендуется для использования с подписью TextAsImage для всех поддерживаемых типов документов также с простой TextSignature и TextSignature в качестве водяного знака для электронных таблиц  .xslx и Презентации .pptx. Простая текстовая подпись для Word .docx также рекомендуется но имеет ограниченную функциональность.
 type: docs
-weight: 380
+weight: 400
 url: /ru/net/groupdocs.signature.domain.extensions/textshadow/
 ---
 ## TextShadow class

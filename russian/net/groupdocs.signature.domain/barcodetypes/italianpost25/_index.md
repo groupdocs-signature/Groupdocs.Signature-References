@@ -3,7 +3,7 @@ title: ItalianPost25
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Объект типа штрихкода ItalianPost25.
 type: docs
-weight: 360
+weight: 390
 url: /ru/net/groupdocs.signature.domain/barcodetypes/italianpost25/
 ---
 ## BarcodeTypes.ItalianPost25 field

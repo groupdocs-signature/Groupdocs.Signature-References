@@ -3,7 +3,7 @@ title: POTM
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Шаблон презентации PowerPoint Open XML с поддержкой макросов .potm  это файлы шаблонов Microsoft PowerPoint с поддержкой макросов. Файлы POTM создаются с помощью PowerPoint 2007 или более поздней версии и содержат параметры по умолчанию которые можно использовать для создания дополнительных файлов презентаций. Подробнее об этом формате файловздесьhttps//wiki.fileformat.com/presentation/potm .
 type: docs
-weight: 300
+weight: 310
 url: /ru/net/groupdocs.signature.domain/filetype/potm/
 ---
 ## FileType.POTM field

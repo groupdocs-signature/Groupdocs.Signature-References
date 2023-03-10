@@ -3,7 +3,7 @@ title: SearchOptions
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет извлечение подписей из параметров документа.
 type: docs
-weight: 1600
+weight: 1680
 url: /ru/net/groupdocs.signature.options/searchoptions/
 ---
 ## SearchOptions class
@@ -25,7 +25,7 @@ public abstract class SearchOptions
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * См. другие простые примеры по поиску различных электронных подписей с помощью GroupDocs.Signature: [https://docs.groupdocs.com/signature/net/search-for-electronic-signatures-in-document/](https://docs.groupdocs.com/signature/net/search-for-electronic-signatures-in-document/)
 * См. более сложные примеры поиска различных электронных подписей с помощью GroupDocs.Signature: [Расширенный поиск электронных подписей](https://docs.groupdocs.com/signature/net/searching/)

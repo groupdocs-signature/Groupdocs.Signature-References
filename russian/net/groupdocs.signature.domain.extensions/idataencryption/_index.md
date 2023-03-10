@@ -3,7 +3,7 @@ title: IDataEncryption
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Интерфейс шифрования для предоставления методов кодирования и декодирования объектов.
 type: docs
-weight: 250
+weight: 270
 url: /ru/net/groupdocs.signature.domain.extensions/idataencryption/
 ---
 ## IDataEncryption interface

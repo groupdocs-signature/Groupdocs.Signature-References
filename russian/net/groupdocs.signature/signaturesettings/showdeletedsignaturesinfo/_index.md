@@ -3,7 +3,7 @@ title: ShowDeletedSignaturesInfo
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Получает или устанавливает флаг который включает удаленные подписи в результат сведений о документе. Каждая подписьBaseSignaturegroupdocs.signature.domain/basesignature имеет удаленный флагDeletedgroupdocs.signature.domain/basesignature/deleted чтобы определить был ли он удален.
 type: docs
-weight: 50
+weight: 80
 url: /ru/net/groupdocs.signature/signaturesettings/showdeletedsignaturesinfo/
 ---
 ## SignatureSettings.ShowDeletedSignaturesInfo property

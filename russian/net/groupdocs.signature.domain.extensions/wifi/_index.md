@@ -3,7 +3,7 @@ title: WiFi
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет сведения о подключении к сети WiFi.
 type: docs
-weight: 410
+weight: 430
 url: /ru/net/groupdocs.signature.domain.extensions/wifi/
 ---
 ## WiFi class

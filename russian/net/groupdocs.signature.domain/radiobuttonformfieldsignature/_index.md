@@ -3,7 +3,7 @@ title: RadioButtonFormFieldSignature
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Содержит свойства подписи поля формы ввода переключателя.
 type: docs
-weight: 790
+weight: 820
 url: /ru/net/groupdocs.signature.domain/radiobuttonformfieldsignature/
 ---
 ## RadioButtonFormFieldSignature class

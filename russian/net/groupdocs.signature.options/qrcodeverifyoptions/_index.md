@@ -3,7 +3,7 @@ title: QrCodeVerifyOptions
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Сохраняет параметры для проверки подписи QRкода документа.
 type: docs
-weight: 1560
+weight: 1640
 url: /ru/net/groupdocs.signature.options/qrcodeverifyoptions/
 ---
 ## QrCodeVerifyOptions class
@@ -27,7 +27,7 @@ public class QrCodeVerifyOptions : TextVerifyOptions
 | Имя | Описание |
 | --- | --- |
 | [AllPages](../../groupdocs.signature.options/verifyoptions/allpages) { get; set; } | Флаг для проверки каждой страницы документа. По умолчанию значение равно true. |
-| [DataEncryption](../../groupdocs.signature.options/qrcodeverifyoptions/dataencryption) { get; set; } | Получает или задает реализацию[`IDataEncryption`](../../groupdocs.signature.domain.extensions/idataencryption)интерфейс для кодирования и декодирования свойств текста подписи QR-кода. |
+| [DataEncryption](../../groupdocs.signature.options/qrcodeverifyoptions/dataencryption) { get; set; } | Получает или задает реализацию[`IDataEncryption`](../../groupdocs.signature.domain.extensions/idataencryption) интерфейс для кодирования и декодирования свойств текста подписи QR-кода. |
 | [EncodeType](../../groupdocs.signature.options/qrcodeverifyoptions/encodetype) { get; set; } | Получает или задает проверку типа QR-кода. Это свойство является необязательным. |
 | [Extensions](../../groupdocs.signature.options/verifyoptions/extensions) { get; set; } | Дополнительные расширения для проверки альтернативных вариантов подписи. |
 | [FormTextFieldTitle](../../groupdocs.signature.options/textverifyoptions/formtextfieldtitle) { get; set; } | Получает или задает заголовок поля формы для его проверки. Если это свойство устанавливает текст, он будет найден только в текстовых полях формы. |
@@ -42,7 +42,7 @@ public class QrCodeVerifyOptions : TextVerifyOptions
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Базовое использование проверки электронной подписи QR-кода в GroupDocs.Signature: [ Электронная проверка подписи QR-кода в документе](https://docs.groupdocs.com/display/signaturenet/Verify+QR-code+signatures+in+the+document)
 * Расширенное использование настроек проверки электронной подписи QR-кода с помощью GroupDocs.Signature: [Расширенное использование подписи QR-кода eVerification в документе и дополнительные настройки](https://docs.groupdocs.com/display/signaturenet/Verify+QR-code+signatures)

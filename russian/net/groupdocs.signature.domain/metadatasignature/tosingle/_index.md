@@ -3,7 +3,7 @@ title: ToSingle
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Преобразует в число с плавающей запятой.
 type: docs
-weight: 130
+weight: 140
 url: /ru/net/groupdocs.signature.domain/metadatasignature/tosingle/
 ---
 ## ToSingle() {#tosingle}

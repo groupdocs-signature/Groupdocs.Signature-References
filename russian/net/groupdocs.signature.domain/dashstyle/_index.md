@@ -3,7 +3,7 @@ title: DashStyle
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет стиль штриховых линий в документах.
 type: docs
-weight: 110
+weight: 120
 url: /ru/net/groupdocs.signature.domain/dashstyle/
 ---
 ## DashStyle enumeration

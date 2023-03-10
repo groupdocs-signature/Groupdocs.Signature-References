@@ -3,7 +3,7 @@ title: TextHorizontalAlignment
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Задает горизонтальное выравнивание текста внутри подписи.
 type: docs
-weight: 940
+weight: 970
 url: /ru/net/groupdocs.signature.domain/texthorizontalalignment/
 ---
 ## TextHorizontalAlignment enumeration

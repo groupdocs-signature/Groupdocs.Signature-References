@@ -3,7 +3,7 @@ title: DigitalSignOptions
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет параметры цифровой подписи.
 type: docs
-weight: 1260
+weight: 1340
 url: /ru/net/groupdocs.signature.options/digitalsignoptions/
 ---
 ## DigitalSignOptions class
@@ -73,7 +73,7 @@ public class DigitalSignOptions : ImageSignOptions
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Базовое использование для создания ЭЦП с помощью GroupDocs.Signature: [Как подписать документ электронной цифровой подписью](https://docs.groupdocs.com/display/signaturenet/eSign+document+with+Digital+signature)
 * Расширенное использование настроек ЭЦП с GroupDocs.Signature: [Расширенное использование документа eSign с цифровой подписью и дополнительными настройками](https://docs.groupdocs.com/display/signaturenet/Sign+document+with+Digital+signature+-+advanced)

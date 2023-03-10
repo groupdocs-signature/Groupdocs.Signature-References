@@ -3,7 +3,7 @@ title: PZN
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Объект типа штрихкода PZN.
 type: docs
-weight: 520
+weight: 550
 url: /ru/net/groupdocs.signature.domain/barcodetypes/pzn/
 ---
 ## BarcodeTypes.PZN field

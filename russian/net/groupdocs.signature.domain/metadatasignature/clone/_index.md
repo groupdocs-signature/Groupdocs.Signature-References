@@ -3,7 +3,7 @@ title: Clone
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Экземпляр подписи метаданных клонирования.
 type: docs
-weight: 40
+weight: 50
 url: /ru/net/groupdocs.signature.domain/metadatasignature/clone/
 ---
 ## Clone() {#clone_1}

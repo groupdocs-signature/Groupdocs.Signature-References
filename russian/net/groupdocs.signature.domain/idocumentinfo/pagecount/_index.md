@@ -3,7 +3,7 @@ title: PageCount
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Количество страниц документа.
 type: docs
-weight: 80
+weight: 90
 url: /ru/net/groupdocs.signature.domain/idocumentinfo/pagecount/
 ---
 ## IDocumentInfo.PageCount property

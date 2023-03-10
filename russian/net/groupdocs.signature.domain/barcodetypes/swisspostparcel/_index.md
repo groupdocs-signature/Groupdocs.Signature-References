@@ -3,7 +3,7 @@ title: SwissPostParcel
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Объект типа штрихкода SwissPostParcel.
 type: docs
-weight: 580
+weight: 610
 url: /ru/net/groupdocs.signature.domain/barcodetypes/swisspostparcel/
 ---
 ## BarcodeTypes.SwissPostParcel field

@@ -3,7 +3,7 @@ title: TextSignatureImplementation
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Указывает тип реализации текстовой подписи PDF.
 type: docs
-weight: 980
+weight: 1010
 url: /ru/net/groupdocs.signature.domain/textsignatureimplementation/
 ---
 ## TextSignatureImplementation enumeration

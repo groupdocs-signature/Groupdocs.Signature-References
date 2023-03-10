@@ -3,7 +3,7 @@ title: Succeeded
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Список успешно измененных подписейBaseSignaturegroupdocs.signature.domain/basesignature .
 type: docs
-weight: 20
+weight: 50
 url: /ru/net/groupdocs.signature.domain/updateresult/succeeded/
 ---
 ## UpdateResult.Succeeded property

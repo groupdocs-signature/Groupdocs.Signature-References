@@ -20,7 +20,7 @@ public IDocumentInfo GetDocumentInfo()
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Узнайте больше о подписанном документе — типе файла, количестве страниц и многих других свойствах формата: [Как получить свойства документа в C#](https://docs.groupdocs.com/display/signaturenet/Get+document+information)
 

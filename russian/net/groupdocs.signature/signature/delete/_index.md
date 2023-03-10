@@ -24,7 +24,7 @@ public bool Delete(BaseSignature signature)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о том, как удалить электронную подпись из документа на C#: [Как удалить электронную подпись из документа с помощью GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Delete+signatures+from+documents)
 * Расширенные варианты использования удаления электронных подписей документов: [Как удалить разные типы электронных подписей из документа на С#](https://docs.groupdocs.com/display/signaturenet/Deleting)
@@ -56,7 +56,7 @@ public DeleteResult Delete(List<BaseSignature> signatures)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о том, как удалить электронную подпись из документа на C#: [Как удалить электронную подпись из документа с помощью GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Delete+signatures+from+documents)
 * Расширенные варианты использования удаления электронных подписей документов: [Как удалить разные типы электронных подписей из документа на С#](https://docs.groupdocs.com/display/signaturenet/Deleting)
@@ -89,7 +89,7 @@ public DeleteResult Delete(SignatureType signatureType)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о том, как удалить электронную подпись из документа на C#: [Как удалить электронные подписи определенного типа из документа с помощью GroupDocs.Signature](https://docs.groupdocs.com/signature/net/delete+signatures+of+the+certain+type/)
 * Расширенные варианты использования удаления электронных подписей документов: [Как удалить разные типы электронных подписей из документа на С#](https://docs.groupdocs.com/display/signaturenet/Deleting)
@@ -122,7 +122,7 @@ public DeleteResult Delete(List<SignatureType> signatureTypes)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о том, как удалить электронную подпись из документа на C#: [Как удалить электронные подписи определенного типа из документа с помощью GroupDocs.Signature](https://docs.groupdocs.com/signature/net/delete+signatures+of+the+certain+types/)
 * Расширенные варианты использования удаления электронных подписей документов: [Как удалить разные типы электронных подписей из документа на С#](https://docs.groupdocs.com/display/signaturenet/Deleting)
@@ -155,7 +155,7 @@ public bool Delete(string signatureId)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о том, как удалить электронную подпись из документа на C#: [Как удалить электронную подпись из документа с помощью GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Delete+signatures+from+documents)
 * Расширенные варианты использования удаления электронных подписей документов: [Как удалить разные типы электронных подписей из документа на С#](https://docs.groupdocs.com/display/signaturenet/Deleting)
@@ -186,7 +186,7 @@ public DeleteResult Delete(List<string> signatureIds)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о том, как удалить электронную подпись из документа на C#: [Как удалить электронную подпись из документа с помощью GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Delete+signatures+from+documents)
 * Расширенные варианты использования удаления электронных подписей документов: [Как удалить разные типы электронных подписей из документа на С#](https://docs.groupdocs.com/display/signaturenet/Deleting)

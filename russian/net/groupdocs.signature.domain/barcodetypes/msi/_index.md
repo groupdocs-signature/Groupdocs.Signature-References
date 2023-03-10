@@ -3,7 +3,7 @@ title: MSI
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Объект типа штрихкода MSI.
 type: docs
-weight: 440
+weight: 470
 url: /ru/net/groupdocs.signature.domain/barcodetypes/msi/
 ---
 ## BarcodeTypes.MSI field

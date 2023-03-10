@@ -3,7 +3,7 @@ title: ToBoolean
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Преобразует в логическое значение.
 type: docs
-weight: 80
+weight: 90
 url: /ru/net/groupdocs.signature.domain/metadatasignature/toboolean/
 ---
 ## MetadataSignature.ToBoolean method

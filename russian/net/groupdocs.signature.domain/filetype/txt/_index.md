@@ -3,7 +3,7 @@ title: TXT
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Файл обычного текста .txt представляет собой текстовый документ содержащий обычный текст в виде строк. Узнайте больше об этом формате файлаздесьhttps//wiki.fileformat.com/wordprocessing/txt .
 type: docs
-weight: 450
+weight: 460
 url: /ru/net/groupdocs.signature.domain/filetype/txt/
 ---
 ## FileType.TXT field

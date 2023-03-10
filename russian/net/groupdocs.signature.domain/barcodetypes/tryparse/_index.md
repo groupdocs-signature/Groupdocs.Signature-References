@@ -3,7 +3,7 @@ title: TryParse
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Возвращает тип штрихкода с именем pasringType. Если имя штрихкода неизвестно  исключение не будет выдано но метод вернет нулевое значение.
 type: docs
-weight: 650
+weight: 680
 url: /ru/net/groupdocs.signature.domain/barcodetypes/tryparse/
 ---
 ## BarcodeTypes.TryParse method

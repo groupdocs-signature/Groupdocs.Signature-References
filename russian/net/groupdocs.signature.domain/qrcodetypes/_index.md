@@ -3,7 +3,7 @@ title: QrCodeTypes
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Контейнер типов QRCode.
 type: docs
-weight: 780
+weight: 810
 url: /ru/net/groupdocs.signature.domain/qrcodetypes/
 ---
 ## QrCodeTypes class
@@ -35,6 +35,9 @@ public static class QrCodeTypes
 | static readonly [DataMatrix](../../groupdocs.signature.domain/qrcodetypes/datamatrix) | Объект DataMatrix QR-Code Type. |
 | static readonly [GS1DataMatrix](../../groupdocs.signature.domain/qrcodetypes/gs1datamatrix) | Объект типа QR-кода GS1 DataMatrix. |
 | static readonly [GS1QR](../../groupdocs.signature.domain/qrcodetypes/gs1qr) | Объект типа QR-кода GS1. |
+| static readonly [HIBCLICAztec](../../groupdocs.signature.domain/qrcodetypes/hibclicaztec) | Объект HIBC LIC Aztec QR-Code Type. |
+| static readonly [HIBCLICDataMatrix](../../groupdocs.signature.domain/qrcodetypes/hibclicdatamatrix) | HIBC LIC Data Matrix Объект типа QR-кода. |
+| static readonly [HIBCLICQR](../../groupdocs.signature.domain/qrcodetypes/hibclicqr) | Объект типа QR-кода HIBC LIC. |
 | static readonly [QR](../../groupdocs.signature.domain/qrcodetypes/qr) | QR Объект типа QR-кода. |
 
 ### Смотрите также

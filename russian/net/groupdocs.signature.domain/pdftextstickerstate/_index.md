@@ -3,7 +3,7 @@ title: PdfTextStickerState
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Описывает перечисление состояний наклейки текстовых аннотаций PDF.
 type: docs
-weight: 700
+weight: 730
 url: /ru/net/groupdocs.signature.domain/pdftextstickerstate/
 ---
 ## PdfTextStickerState enumeration

@@ -3,7 +3,7 @@ title: Event
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет стандартные сведения о событии QRкода.
 type: docs
-weight: 230
+weight: 250
 url: /ru/net/groupdocs.signature.domain.extensions/event/
 ---
 ## Event class

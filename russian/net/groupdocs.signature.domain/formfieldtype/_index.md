@@ -3,7 +3,7 @@ title: FormFieldType
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Определяет тип поля формы.
 type: docs
-weight: 450
+weight: 470
 url: /ru/net/groupdocs.signature.domain/formfieldtype/
 ---
 ## FormFieldType enumeration

@@ -18,6 +18,7 @@ url: /ru/net/groupdocs.signature.domain/
 | [BarcodeTypes](./barcodetypes) | Контейнер типов штрих-кодов. |
 | [BaseSignature](./basesignature) | Описывает базовый класс для подписей. |
 | [Border](./border) | Представляет внешний вид границы |
+| [CertificateMetadataSignature](./certificatemetadatasignature) | Содержит свойства подписи метаданных сертификата. |
 | [CheckboxFormFieldSignature](./checkboxformfieldsignature) | Содержит свойства подписи поля формы ввода флажка. |
 | [ComboboxFormFieldSignature](./comboboxformfieldsignature) | Содержит свойства подписи поля формы ввода со списком. |
 | [Corners](./corners) | Представляет углы квадратного графического объекта. |
@@ -83,6 +84,7 @@ url: /ru/net/groupdocs.signature.domain/
 | [HorizontalAlignment](./horizontalalignment) | Задает горизонтальное выравнивание элемента на странице документа. |
 | [ImageSaveFileFormat](./imagesavefileformat) | Определяет различные форматы файлов сохранения. |
 | [MeasureType](./measuretype) | Указывает единицы измерения подписи на странице документа. |
+| [MetadataType](./metadatatype) | Определяет поддерживаемый тип данных подписи метаданных значения. |
 | [PdfDigitalSignatureType](./pdfdigitalsignaturetype) | Описывает перечисление типа цифровой подписи PDF. |
 | [PdfSaveFileFormat](./pdfsavefileformat) | Определяет различные форматы файлов сохранения. |
 | [PdfTextAnnotationBorderEffect](./pdftextannotationbordereffect) | Описывает эффект, который следует применить к границе текстовых аннотаций PDF. |

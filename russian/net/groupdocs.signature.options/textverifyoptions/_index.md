@@ -3,7 +3,7 @@ title: TextVerifyOptions
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Сохраняет параметры для проверки текстовой подписи документа.
 type: docs
-weight: 1660
+weight: 1740
 url: /ru/net/groupdocs.signature.options/textverifyoptions/
 ---
 ## TextVerifyOptions class
@@ -40,7 +40,7 @@ public class TextVerifyOptions : VerifyOptions
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Основное использование проверки электронной подписи штрих-кода с помощью GroupDocs.Signature: [ Как eVerification подписи штрих-кода в документе](https://docs.groupdocs.com/display/signaturenet/Verify+Text+signatures+in+the+document)
 * Расширенное использование настроек проверки электронной подписи штрих-кода с помощью GroupDocs.Signature: [Расширенное использование подписей eVerification Barcode в документе и дополнительные настройки](https://docs.groupdocs.com/display/signaturenet/Verify+Text+signatures)

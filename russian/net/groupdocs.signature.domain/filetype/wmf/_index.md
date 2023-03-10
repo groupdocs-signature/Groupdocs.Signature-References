@@ -3,7 +3,7 @@ title: WMF
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Метафайл Windows .wmf представляет собой метафайл Microsoft Windows WMF для хранения векторных и растровых изображений. Подробнее об этом формате файлаздесьhttps//wiki.fileformat.com/image/wmf .
 type: docs
-weight: 490
+weight: 500
 url: /ru/net/groupdocs.signature.domain/filetype/wmf/
 ---
 ## FileType.WMF field

@@ -3,7 +3,7 @@ title: VerticalAlignment
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Задает вертикальное выравнивание элемента на странице документа.
 type: docs
-weight: 1030
+weight: 1060
 url: /ru/net/groupdocs.signature.domain/verticalalignment/
 ---
 ## VerticalAlignment enumeration

@@ -3,7 +3,7 @@ title: DeleteResult
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Результат удаления подписией из документа.
 type: docs
-weight: 120
+weight: 130
 url: /ru/net/groupdocs.signature.domain/deleteresult/
 ---
 ## DeleteResult class
@@ -18,8 +18,12 @@ public class DeleteResult : IResult
 
 | Имя | Описание |
 | --- | --- |
+| [DestinDocumentSize](../../groupdocs.signature.domain/deleteresult/destindocumentsize) { get; } | Возвращает обновленный размер документа. |
 | [Failed](../../groupdocs.signature.domain/deleteresult/failed) { get; } | Список подписей, которые не были удалены[`BaseSignature`](../basesignature) . |
+| [ProcessingTime](../../groupdocs.signature.domain/deleteresult/processingtime) { get; } | Возвращает время выполнения процесса в миллисекундах. |
+| [SourceDocumentSize](../../groupdocs.signature.domain/deleteresult/sourcedocumentsize) { get; } | Возвращает размер исходного документа. |
 | [Succeeded](../../groupdocs.signature.domain/deleteresult/succeeded) { get; } | Список успешно удаленных подписей[`BaseSignature`](../basesignature) . |
+| [TotalSignatures](../../groupdocs.signature.domain/deleteresult/totalsignatures) { get; } | Возвращает общее количество обработанных подписей. |
 
 ### Смотрите также
 

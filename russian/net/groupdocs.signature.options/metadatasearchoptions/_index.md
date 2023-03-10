@@ -3,7 +3,7 @@ title: MetadataSearchOptions
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет параметры поиска подписей метаданных.
 type: docs
-weight: 1400
+weight: 1480
 url: /ru/net/groupdocs.signature.options/metadatasearchoptions/
 ---
 ## MetadataSearchOptions class
@@ -35,7 +35,7 @@ public class MetadataSearchOptions : SearchOptions
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Основное использование поиска электронной подписи метаданных с помощью GroupDocs.Signature: [ Как выполнить электронный поиск подписей метаданных в документе](https://docs.groupdocs.com/display/signaturenet/Search+for+Metadata+e-signatures)
 * Расширенное использование настроек поиска электронной подписи Metadata с GroupDocs.Signature: [Расширенное использование подписей метаданных eSearch в документе и дополнительные настройки](https://docs.groupdocs.com/display/signaturenet/Search+for+built-in+Metadata+signatures)

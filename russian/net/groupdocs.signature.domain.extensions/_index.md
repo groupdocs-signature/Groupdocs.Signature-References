@@ -44,6 +44,7 @@ url: /ru/net/groupdocs.signature.domain.extensions/
 | перечисление | Описание |
 | --- | --- |
 | [CryptoCurrencyType](./cryptocurrencytype) | Представляет тип криптовалюты. |
+| [DataMatrixEncodeMode](./datamatrixencodemode) | Режим кодирования кодировщика DataMatrix, по умолчанию Auto |
 | [SymmetricAlgorithmType](./symmetricalgorithmtype) | Представляет тип алгоритма симметричного шифрования. |
 | [WiFiEncryptionType](./wifiencryptiontype) | Представляет тип шифрования WiFi. |
 

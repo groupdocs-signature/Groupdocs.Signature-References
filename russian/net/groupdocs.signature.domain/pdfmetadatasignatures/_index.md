@@ -3,7 +3,7 @@ title: PdfMetadataSignatures
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Содержит стандартные подписи метаданных которые будут использоваться для параметров подписи метаданных документа Pdf.
 type: docs
-weight: 660
+weight: 690
 url: /ru/net/groupdocs.signature.domain/pdfmetadatasignatures/
 ---
 ## PdfMetadataSignatures class

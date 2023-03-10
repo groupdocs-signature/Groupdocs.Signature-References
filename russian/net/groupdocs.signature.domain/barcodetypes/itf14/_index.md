@@ -3,7 +3,7 @@ title: ITF14
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Объект типа штрихкода ITF14.
 type: docs
-weight: 370
+weight: 400
 url: /ru/net/groupdocs.signature.domain/barcodetypes/itf14/
 ---
 ## BarcodeTypes.ITF14 field

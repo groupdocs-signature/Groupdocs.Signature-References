@@ -1,14 +1,14 @@
 ---
 title: GroupDocsSignatureException
 second_title: Справочник по API GroupDocs.Signature для .NET
-description: Инициализирует новый экземплярGroupDocsSignatureExceptiongroupdocs.signature/groupdocssignatureexception класс.
+description: Инициализирует новый экземплярGroupDocsSignatureExceptiongroupdocs.signature/groupdocssignatureexceptionкласс.
 type: docs
 weight: 10
 url: /ru/net/groupdocs.signature/groupdocssignatureexception/groupdocssignatureexception/
 ---
 ## GroupDocsSignatureException() {#constructor}
 
-Инициализирует новый экземпляр[`GroupDocsSignatureException`](../../groupdocssignatureexception) класс.
+Инициализирует новый экземпляр[`GroupDocsSignatureException`](../../groupdocssignatureexception)класс.
 
 ```csharp
 public GroupDocsSignatureException()
@@ -24,7 +24,7 @@ public GroupDocsSignatureException()
 
 ## GroupDocsSignatureException(string) {#constructor_2}
 
-Инициализирует новый экземпляр[`GroupDocsSignatureException`](../../groupdocssignatureexception)класс с указанным сообщением об ошибке.
+Инициализирует новый экземпляр[`GroupDocsSignatureException`](../../groupdocssignatureexception) класс с указанным сообщением об ошибке.
 
 ```csharp
 public GroupDocsSignatureException(string message)

@@ -3,7 +3,7 @@ title: ITextAlignment
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Определяет свойства выравнивания текста в текстовых подписях.
 type: docs
-weight: 530
+weight: 550
 url: /ru/net/groupdocs.signature.domain/itextalignment/
 ---
 ## ITextAlignment interface

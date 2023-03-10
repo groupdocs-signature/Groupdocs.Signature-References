@@ -3,7 +3,7 @@ title: BarcodeVerifyOptions
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет параметры проверки штрихкода.
 type: docs
-weight: 1200
+weight: 1270
 url: /ru/net/groupdocs.signature.options/barcodeverifyoptions/
 ---
 ## BarcodeVerifyOptions class
@@ -42,7 +42,7 @@ public class BarcodeVerifyOptions : TextVerifyOptions
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Основное использование проверки электронной подписи штрих-кода с помощью GroupDocs.Signature: [ Как eVerification подписи штрих-кода в документе](https://docs.groupdocs.com/display/signaturenet/Verify+Barcode+signatures+in+the+document)
 * Расширенное использование настроек проверки электронной подписи штрих-кода с помощью GroupDocs.Signature: [Расширенное использование подписей eVerification Barcode в документе и дополнительные настройки]()

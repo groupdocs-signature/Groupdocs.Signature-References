@@ -3,7 +3,7 @@ title: CryptoCurrencyType
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет тип криптовалюты.
 type: docs
-weight: 200
+weight: 210
 url: /ru/net/groupdocs.signature.domain.extensions/cryptocurrencytype/
 ---
 ## CryptoCurrencyType enumeration

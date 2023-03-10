@@ -3,7 +3,7 @@ title: WEBP
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Изображение WebP .webp  это современный формат файлов растровых вебизображений основанный на сжатии без потерь и с потерями. Он обеспечивает такое же качество изображения при значительном уменьшении размера изображения. Узнайте больше об этом формате файлаздесьhttps//wiki.fileformat.com/image/webp .
 type: docs
-weight: 480
+weight: 490
 url: /ru/net/groupdocs.signature.domain/filetype/webp/
 ---
 ## FileType.WEBP field

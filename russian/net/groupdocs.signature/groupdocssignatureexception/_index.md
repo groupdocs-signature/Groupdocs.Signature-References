@@ -3,7 +3,7 @@ title: GroupDocsSignatureException
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет общие ошибки возникающие при обработке документа.
 type: docs
-weight: 1080
+weight: 1110
 url: /ru/net/groupdocs.signature/groupdocssignatureexception/
 ---
 ## GroupDocsSignatureException class
@@ -18,8 +18,8 @@ public class GroupDocsSignatureException : Exception
 
 | Имя | Описание |
 | --- | --- |
-| [GroupDocsSignatureException](groupdocssignatureexception#constructor)() | Инициализирует новый экземпляр[`GroupDocsSignatureException`](../groupdocssignatureexception) класс. |
-| [GroupDocsSignatureException](groupdocssignatureexception#constructor_2)(string) | Инициализирует новый экземпляр[`GroupDocsSignatureException`](../groupdocssignatureexception)класс с указанным сообщением об ошибке. |
+| [GroupDocsSignatureException](groupdocssignatureexception#constructor)() | Инициализирует новый экземпляр[`GroupDocsSignatureException`](../groupdocssignatureexception)класс. |
+| [GroupDocsSignatureException](groupdocssignatureexception#constructor_2)(string) | Инициализирует новый экземпляр[`GroupDocsSignatureException`](../groupdocssignatureexception) класс с указанным сообщением об ошибке. |
 | [GroupDocsSignatureException](groupdocssignatureexception#constructor_1)(Exception, string) | Инициализирует новый экземпляр[`GroupDocsSignatureException`](../groupdocssignatureexception) класс с указанным сообщением об ошибке и исходным исключением. |
 
 ## Методы

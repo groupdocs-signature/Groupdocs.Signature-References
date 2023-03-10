@@ -3,7 +3,7 @@ title: GetData
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Получить объект из значения подписи метаданных через десериализацию.
 type: docs
-weight: 60
+weight: 70
 url: /ru/net/groupdocs.signature.domain/metadatasignature/getdata/
 ---
 ## GetData&lt;T&gt;() {#getdata}

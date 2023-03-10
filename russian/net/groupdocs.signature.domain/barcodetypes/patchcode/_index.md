@@ -3,7 +3,7 @@ title: PatchCode
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Объект типа штрихкода кода исправления.
 type: docs
-weight: 470
+weight: 500
 url: /ru/net/groupdocs.signature.domain/barcodetypes/patchcode/
 ---
 ## BarcodeTypes.PatchCode field

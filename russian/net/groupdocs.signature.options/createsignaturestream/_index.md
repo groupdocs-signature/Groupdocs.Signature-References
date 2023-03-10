@@ -3,7 +3,7 @@ title: CreateSignatureStream
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Делегат определяющий метод создания потока предварительного просмотра выходной подписи.
 type: docs
-weight: 1240
+weight: 1320
 url: /ru/net/groupdocs.signature.options/createsignaturestream/
 ---
 ## CreateSignatureStream delegate

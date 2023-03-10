@@ -24,7 +24,7 @@ public bool Update(BaseSignature signature)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее об обновлении существующих свойств электронной подписи с помощью GroupDocs.Signature: [Как обновить электронные подписи документов в C#](https://docs.groupdocs.com/display/signaturenet/Update+signatures+in+documents)
 * Более сложные варианты использования для обновления электронных подписей документов в зависимости от типа подписи: [Расширенные варианты использования обновления электронных подписей с помощью GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Updating)
@@ -56,7 +56,7 @@ public UpdateResult Update(List<BaseSignature> signatures)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее об обновлении существующих свойств электронной подписи с помощью GroupDocs.Signature: [Как обновить электронные подписи документов в C#](https://docs.groupdocs.com/display/signaturenet/Update+signatures+in+documents)
 * Более сложные варианты использования для обновления электронных подписей документов в зависимости от типа подписи: [Расширенные варианты использования обновления электронных подписей с помощью GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Updating)

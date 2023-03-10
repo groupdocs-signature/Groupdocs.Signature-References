@@ -3,7 +3,7 @@ title: LoadOptions
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Позволяет указать дополнительные параметры например пароль при открытии документа для подписи.
 type: docs
-weight: 1390
+weight: 1470
 url: /ru/net/groupdocs.signature.options/loadoptions/
 ---
 ## LoadOptions class

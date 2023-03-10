@@ -1,14 +1,14 @@
 ---
 title: Type
 second_title: Справочник по API GroupDocs.Signature для .NET
-description: Получает или задает один из поддерживаемых типов криптовалюты.
+description: Получает или устанавливает один из поддерживаемых типов криптовалюты.
 type: docs
 weight: 60
 url: /ru/net/groupdocs.signature.domain.extensions/cryptocurrencytransfer/type/
 ---
 ## CryptoCurrencyTransfer.Type property
 
-Получает или задает один из поддерживаемых типов криптовалюты.
+Получает или устанавливает один из поддерживаемых типов криптовалюты.
 
 ```csharp
 public CryptoCurrencyType Type { get; set; }

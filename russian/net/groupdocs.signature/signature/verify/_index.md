@@ -24,7 +24,7 @@ public VerificationResult Verify(VerifyOptions verifyOptions)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о проверке документов с электронной подписью с помощью GroupDocs.Signature: [Как проверить документ электронной подписью в С#](https://docs.groupdocs.com/display/signaturenet/Verify+document+for+signatures)
 
@@ -56,7 +56,7 @@ public VerificationResult Verify(List<VerifyOptions> verifyOptionsList)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о проверке документов с электронной подписью с помощью GroupDocs.Signature: [Как проверить документ электронной подписью в С#](https://docs.groupdocs.com/display/signaturenet/Verify+document+for+signatures)
 

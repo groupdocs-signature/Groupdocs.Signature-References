@@ -3,7 +3,7 @@ title: PdfDigitalSignatureAppearance
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Описывает внешний вид цифровой подписи в документах PDF.
 type: docs
-weight: 1140
+weight: 1210
 url: /ru/net/groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/
 ---
 ## PdfDigitalSignatureAppearance class
@@ -36,7 +36,7 @@ public sealed class PdfDigitalSignatureAppearance : SignatureAppearance
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Дополнительные простые примеры создания цифровых электронных подписей с помощью GroupDocs.Signature: [Расширенное подписание документа с помощью цифровых электронных подписей](https://docs.groupdocs.com/signature/net/sign-document-with-digital-signature-advanced/)
 * См. дополнительные примеры настройки различных электронных подписей с помощью GroupDocs.Signature: [Расширенные свойства электронных подписей](https://docs.groupdocs.com/signature/net/sign-documents-with-extra-digital-signature-properties/)

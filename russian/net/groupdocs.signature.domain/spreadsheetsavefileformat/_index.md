@@ -3,7 +3,7 @@ title: SpreadsheetSaveFileFormat
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Определяет различные форматы сохранения для электронных таблиц.
 type: docs
-weight: 850
+weight: 880
 url: /ru/net/groupdocs.signature.domain/spreadsheetsavefileformat/
 ---
 ## SpreadsheetSaveFileFormat enumeration

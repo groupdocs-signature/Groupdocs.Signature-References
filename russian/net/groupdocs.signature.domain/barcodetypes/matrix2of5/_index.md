@@ -3,7 +3,7 @@ title: Matrix2of5
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Объект типа штрихкода Matrix2of5.
 type: docs
-weight: 410
+weight: 440
 url: /ru/net/groupdocs.signature.domain/barcodetypes/matrix2of5/
 ---
 ## BarcodeTypes.Matrix2of5 field

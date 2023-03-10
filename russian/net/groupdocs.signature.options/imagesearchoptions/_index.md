@@ -3,7 +3,7 @@ title: ImageSearchOptions
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет параметры поиска подписей изображений.
 type: docs
-weight: 1330
+weight: 1410
 url: /ru/net/groupdocs.signature.options/imagesearchoptions/
 ---
 ## ImageSearchOptions class
@@ -35,7 +35,7 @@ public class ImageSearchOptions : SearchOptions
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Базовое использование поиска электронной подписи Image по GroupDocs.Signature: [ Как выполнить электронный поиск подписей изображений в документе](https://docs.groupdocs.com/display/signaturenet/Search+for+Image+e-signatures)
 * Расширенное использование настроек поиска электронной подписи Image с GroupDocs.Signature: [Расширенное использование подписей eSearch Image в документе и дополнительные настройки](https://docs.groupdocs.com/display/signaturenet/Advanced+search+for+Image+signatures)

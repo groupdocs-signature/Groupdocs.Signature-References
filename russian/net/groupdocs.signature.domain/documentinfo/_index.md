@@ -3,7 +3,7 @@ title: DocumentInfo
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Определяет свойства описания документа.
 type: docs
-weight: 150
+weight: 160
 url: /ru/net/groupdocs.signature.domain/documentinfo/
 ---
 ## DocumentInfo class
@@ -18,7 +18,7 @@ public class DocumentInfo : IDocumentInfo
 
 | Имя | Описание |
 | --- | --- |
-| [DocumentInfo](documentinfo)() | Инициализирует новый экземпляр[`DocumentInfo`](../documentinfo) класс. |
+| [DocumentInfo](documentinfo)() | Инициализирует новый экземпляр[`DocumentInfo`](../documentinfo)класс. |
 
 ## Характеристики
 
@@ -31,6 +31,7 @@ public class DocumentInfo : IDocumentInfo
 | [FormFieldSignatures](../../groupdocs.signature.domain/documentinfo/formfieldsignatures) { get; } | Коллекция подписей полей формы документа, добавленных или обновленных[`Signature`](../../groupdocs.signature/signature) методы. |
 | [ImageSignatures](../../groupdocs.signature.domain/documentinfo/imagesignatures) { get; } | Коллекция подписей изображений документов, добавленных или обновленных[`Signature`](../../groupdocs.signature/signature) методы. |
 | [MaxPageHeight](../../groupdocs.signature.domain/documentinfo/maxpageheight) { get; set; } | Определяет максимальную высоту страницы. |
+| [MetadataSignatures](../../groupdocs.signature.domain/documentinfo/metadatasignatures) { get; } | Коллекция подписей метаданных документа. |
 | [PageCount](../../groupdocs.signature.domain/documentinfo/pagecount) { get; set; } | Количество страниц документа. |
 | [Pages](../../groupdocs.signature.domain/documentinfo/pages) { get; set; } | Коллекция описаний страниц документа. |
 | [ProcessLogs](../../groupdocs.signature.domain/documentinfo/processlogs) { get; } | Коллекция процессов истории документа, таких как Sign, Update, Delete. |

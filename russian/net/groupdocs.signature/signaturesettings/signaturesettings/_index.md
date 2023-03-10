@@ -1,14 +1,14 @@
 ---
 title: SignatureSettings
 second_title: Справочник по API GroupDocs.Signature для .NET
-description: Конструктор по умолчанию.
+description: Создает экземпляр SignatureSettings по умолчанию со значениями по умолчанию.
 type: docs
 weight: 10
 url: /ru/net/groupdocs.signature/signaturesettings/signaturesettings/
 ---
-## SignatureSettings constructor
+## SignatureSettings() {#constructor}
 
-Конструктор по умолчанию.
+Создает экземпляр SignatureSettings по умолчанию со значениями по умолчанию.
 
 ```csharp
 public SignatureSettings()
@@ -16,6 +16,27 @@ public SignatureSettings()
 
 ### Смотрите также
 
+* class [SignatureSettings](../../signaturesettings)
+* пространство имен [GroupDocs.Signature](../../signaturesettings)
+* сборка [GroupDocs.Signature](../../../)
+
+---
+
+## SignatureSettings(ILogger) {#constructor_1}
+
+Создает экземпляр SignatureSettings по умолчанию с реализацией Logger.
+
+```csharp
+public SignatureSettings(ILogger logger)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| logger | ILogger |  |
+
+### Смотрите также
+
+* interface [ILogger](../../../groupdocs.signature.logging/ilogger)
 * class [SignatureSettings](../../signaturesettings)
 * пространство имен [GroupDocs.Signature](../../signaturesettings)
 * сборка [GroupDocs.Signature](../../../)

@@ -3,7 +3,7 @@ title: StampTypes
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Контейнер типов штампов.
 type: docs
-weight: 910
+weight: 940
 url: /ru/net/groupdocs.signature.domain/stamptypes/
 ---
 ## StampTypes class

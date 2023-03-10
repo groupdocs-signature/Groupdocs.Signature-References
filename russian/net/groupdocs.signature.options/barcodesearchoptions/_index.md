@@ -3,7 +3,7 @@ title: BarcodeSearchOptions
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет параметры поиска подписей штрихкода.
 type: docs
-weight: 1180
+weight: 1250
 url: /ru/net/groupdocs.signature.options/barcodesearchoptions/
 ---
 ## BarcodeSearchOptions class
@@ -38,7 +38,7 @@ public class BarcodeSearchOptions : SearchOptions
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Основное использование поиска электронной подписи штрих-кода с помощью GroupDocs.Signature: [ Как выполнить электронный поиск подписей штрих-кода в документе](https://docs.groupdocs.com/display/signaturenet/Search+for+Barcode+e-signatures)
 * Расширенное использование настроек поиска электронной подписи Barcode с GroupDocs.Signature: [Расширенное использование подписей штрих-кода eSearch в документе и дополнительные настройки](https://docs.groupdocs.com/display/signaturenet/Advanced+search+for+Barcode+signatures)

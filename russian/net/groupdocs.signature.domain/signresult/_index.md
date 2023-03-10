@@ -3,7 +3,7 @@ title: SignResult
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Результат процесса подписания документа с вновь созданными подписями.
 type: docs
-weight: 810
+weight: 840
 url: /ru/net/groupdocs.signature.domain/signresult/
 ---
 ## SignResult class
@@ -18,8 +18,12 @@ public class SignResult : IResult
 
 | Имя | Описание |
 | --- | --- |
+| [DestinDocumentSize](../../groupdocs.signature.domain/signresult/destindocumentsize) { get; } | Возвращает целевой документ size |
 | [Failed](../../groupdocs.signature.domain/signresult/failed) { get; } | Список подписей, которые не удалось создать. |
+| [ProcessingTime](../../groupdocs.signature.domain/signresult/processingtime) { get; } | Возвращает время выполнения процесса в миллисекундах |
+| [SourceDocumentSize](../../groupdocs.signature.domain/signresult/sourcedocumentsize) { get; } | Возвращает размер исходного документа |
 | [Succeeded](../../groupdocs.signature.domain/signresult/succeeded) { get; } | Список вновь созданных подписей[`BaseSignature`](../basesignature) . |
+| [TotalSignatures](../../groupdocs.signature.domain/signresult/totalsignatures) { get; } | Возвращает общее количество обработанных подписей |
 
 ### Смотрите также
 

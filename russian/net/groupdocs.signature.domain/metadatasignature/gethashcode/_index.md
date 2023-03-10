@@ -3,7 +3,7 @@ title: GetHashCode
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Переопределяет метод GetHashCode
 type: docs
-weight: 70
+weight: 80
 url: /ru/net/groupdocs.signature.domain/metadatasignature/gethashcode/
 ---
 ## MetadataSignature.GetHashCode method

@@ -3,7 +3,7 @@ title: TryParse
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Возвращает тип QRCode с именем pasringType. Если имя QRCode неизвестно  исключение не будет выброшено но метод вернет нулевое значение.
 type: docs
-weight: 80
+weight: 110
 url: /ru/net/groupdocs.signature.domain/qrcodetypes/tryparse/
 ---
 ## QrCodeTypes.TryParse method

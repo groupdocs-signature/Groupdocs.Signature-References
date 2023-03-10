@@ -3,7 +3,7 @@ title: TextSearchOptions
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет параметры поиска текстовых подписей.
 type: docs
-weight: 1640
+weight: 1720
 url: /ru/net/groupdocs.signature.options/textsearchoptions/
 ---
 ## TextSearchOptions class
@@ -35,7 +35,7 @@ public class TextSearchOptions : SearchOptions
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Базовое использование поиска текстовой электронной подписи по GroupDocs.Signature: [ Как выполнить электронный поиск текстовых подписей в документе](https://docs.groupdocs.com/display/signaturenet/Search+for+Text+e-signatures)
 * Расширенное использование настроек поиска Текстовой электронной подписи с GroupDocs.Signature: [Расширенное использование подписей eSearch Text в документе и дополнительные настройки](https://docs.groupdocs.com/display/signaturenet/Advanced+search+for+Text+signatures)

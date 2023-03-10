@@ -3,7 +3,7 @@ title: PreviewSignatureOptions.PreviewFormats
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Поддерживаемые форматы предварительного просмотра подписи
 type: docs
-weight: 1530
+weight: 1610
 url: /ru/net/groupdocs.signature.options/previewsignatureoptions.previewformats/
 ---
 ## PreviewSignatureOptions.PreviewFormats enumeration

@@ -3,7 +3,7 @@ title: UpcaGs1DatabarCoupon
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Объект типа штрихкода UpcaGs1DatabarCoupon.
 type: docs
-weight: 610
+weight: 640
 url: /ru/net/groupdocs.signature.domain/barcodetypes/upcags1databarcoupon/
 ---
 ## BarcodeTypes.UpcaGs1DatabarCoupon field

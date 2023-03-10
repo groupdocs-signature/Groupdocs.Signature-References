@@ -3,7 +3,7 @@ title: DocumentType
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Определяет тип документа.
 type: docs
-weight: 160
+weight: 170
 url: /ru/net/groupdocs.signature.domain/documenttype/
 ---
 ## DocumentType enumeration
@@ -24,6 +24,7 @@ public enum DocumentType
 | Presentation | `3` | Тип документа презентации. |
 | Spreadsheet | `4` | Тип табличного документа. |
 | Image | `5` | Тип документа изображения. |
+| Certificate | `6` | Тип файла сертификата. |
 
 ### Смотрите также
 

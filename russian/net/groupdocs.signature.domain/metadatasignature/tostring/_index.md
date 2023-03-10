@@ -3,7 +3,7 @@ title: ToString
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Преобразует в строку с переопределением метода ToString
 type: docs
-weight: 140
+weight: 150
 url: /ru/net/groupdocs.signature.domain/metadatasignature/tostring/
 ---
 ## ToString() {#tostring}
@@ -21,34 +21,6 @@ public override string ToString()
 ### Примечания
 
 Преобразует логическое свойство в "True" или "False". Для другого типа данных будет использоваться поставщик формата данных по умолчанию.
-
-### Смотрите также
-
-* class [MetadataSignature](../../metadatasignature)
-* пространство имен [GroupDocs.Signature.Domain](../../metadatasignature)
-* сборка [GroupDocs.Signature](../../../)
-
----
-
-## ToString(string) {#tostring_1}
-
-Преобразует в строку с указанным форматом
-
-```csharp
-public virtual string ToString(string format)
-```
-
-| Параметр | Тип | Описание |
-| --- | --- | --- |
-| format | String | Строка формата данных. |
-
-### Возвращаемое значение
-
-Возвращает значение подписи метаданных в виде строки.
-
-### Примечания
-
-Преобразует логическое свойство в "True" или "False". Информация о свойстве культуры по умолчанию будет использоваться из свойств SignatureSettings.[`DefaultCulture`](../../../groupdocs.signature/signaturesettings/defaultculture)
 
 ### Смотрите также
 
@@ -78,6 +50,34 @@ public virtual string ToString(string format, IFormatProvider provider)
 ### Примечания
 
 Преобразует логическое свойство в "True" или "False".
+
+### Смотрите также
+
+* class [MetadataSignature](../../metadatasignature)
+* пространство имен [GroupDocs.Signature.Domain](../../metadatasignature)
+* сборка [GroupDocs.Signature](../../../)
+
+---
+
+## ToString(string) {#tostring_1}
+
+Преобразует в строку с указанным форматом
+
+```csharp
+public virtual string ToString(string format)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| format | String | Строка формата данных. |
+
+### Возвращаемое значение
+
+Возвращает значение подписи метаданных в виде строки.
+
+### Примечания
+
+Преобразует логическое свойство в "True" или "False". Информация о свойстве культуры по умолчанию будет использоваться из свойств SignatureSettings.[`DefaultCulture`](../../../groupdocs.signature/signaturesettings/defaultculture)
 
 ### Смотрите также
 

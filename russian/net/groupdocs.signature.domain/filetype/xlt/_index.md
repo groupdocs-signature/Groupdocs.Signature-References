@@ -3,7 +3,7 @@ title: XLT
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Двоичный шаблон Excel .xlt представляет формат файла шаблона Excel. Узнайте больше об этом формате файлаздесьhttps//wiki.fileformat.com/spreadsheet/xlt .
 type: docs
-weight: 550
+weight: 560
 url: /ru/net/groupdocs.signature.domain/filetype/xlt/
 ---
 ## FileType.XLT field

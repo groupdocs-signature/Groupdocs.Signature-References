@@ -3,7 +3,7 @@ title: ProcessType
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Определяет поддерживаемый процесс с такими документами как Info Preview Sign Verify Search Update Delete
 type: docs
-weight: 750
+weight: 780
 url: /ru/net/groupdocs.signature.domain/processtype/
 ---
 ## ProcessType enumeration

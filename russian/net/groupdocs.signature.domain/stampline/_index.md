@@ -3,7 +3,7 @@ title: StampLine
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Укажите свойства линии штампа.
 type: docs
-weight: 880
+weight: 910
 url: /ru/net/groupdocs.signature.domain/stampline/
 ---
 ## StampLine class

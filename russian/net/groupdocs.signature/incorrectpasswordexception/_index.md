@@ -3,7 +3,7 @@ title: IncorrectPasswordException
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Исключение которое выдается если указан неверный пароль.
 type: docs
-weight: 1090
+weight: 1120
 url: /ru/net/groupdocs.signature/incorrectpasswordexception/
 ---
 ## IncorrectPasswordException class

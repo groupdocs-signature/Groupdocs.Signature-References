@@ -3,7 +3,7 @@ title: UPCE
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Объект типа штрихкода UPCE.
 type: docs
-weight: 620
+weight: 650
 url: /ru/net/groupdocs.signature.domain/barcodetypes/upce/
 ---
 ## BarcodeTypes.UPCE field

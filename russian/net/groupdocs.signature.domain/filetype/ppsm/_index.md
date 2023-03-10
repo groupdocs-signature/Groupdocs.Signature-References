@@ -3,7 +3,7 @@ title: PPSM
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Слайд PowerPoint Open XML с поддержкой макросов .ppsm представляет собой формат файла слайдшоу с поддержкой макросов созданный с помощью Microsoft PowerPoint 2007 или более поздней версии. Подробнее об этом формате файлаздесьhttps//wiki.fileformat.com/presentation/ppsm .
 type: docs
-weight: 330
+weight: 340
 url: /ru/net/groupdocs.signature.domain/filetype/ppsm/
 ---
 ## FileType.PPSM field

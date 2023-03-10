@@ -1,14 +1,14 @@
 ---
 title: Started
 second_title: Справочник по API GroupDocs.Signature для .NET
-description: Отметка времени начала процесса.
+description: Представляет временную метку запуска процесса.
 type: docs
 weight: 20
 url: /ru/net/groupdocs.signature/processstarteventargs/started/
 ---
 ## ProcessStartEventArgs.Started property
 
-Отметка времени начала процесса.
+Представляет временную метку запуска процесса.
 
 ```csharp
 public DateTime Started { get; set; }

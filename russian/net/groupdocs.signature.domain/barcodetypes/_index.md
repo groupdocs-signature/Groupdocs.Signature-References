@@ -60,6 +60,9 @@ public static class BarcodeTypes
 | static readonly [EAN8](../../groupdocs.signature.domain/barcodetypes/ean8) | Объект типа штрих-кода EAN8. |
 | static readonly [GS1CodablockF](../../groupdocs.signature.domain/barcodetypes/gs1codablockf) | Объект типа штрих-кода GS1CodablockF. |
 | static readonly [GS1Code128](../../groupdocs.signature.domain/barcodetypes/gs1code128) | Объект типа штрих-кода GS1 Code128. |
+| static readonly [GS1CompositeBar](../../groupdocs.signature.domain/barcodetypes/gs1compositebar) | Объект типа составного штрих-кода GS1. |
+| static readonly [HIBCCode128LIC](../../groupdocs.signature.domain/barcodetypes/hibccode128lic) | HIBC LIC 128 Объект типа штрих-кода. |
+| static readonly [HIBCCode39LIC](../../groupdocs.signature.domain/barcodetypes/hibccode39lic) | HIBC LIC 39 Объект типа штрих-кода. |
 | static readonly [IATA2of5](../../groupdocs.signature.domain/barcodetypes/iata2of5) | Объект типа штрих-кода IATA2of5. |
 | static readonly [Interleaved2of5](../../groupdocs.signature.domain/barcodetypes/interleaved2of5) | Interleaved2of5 Объект типа штрих-кода. |
 | static readonly [ISBN](../../groupdocs.signature.domain/barcodetypes/isbn) | Объект типа штрих-кода ISBN. |

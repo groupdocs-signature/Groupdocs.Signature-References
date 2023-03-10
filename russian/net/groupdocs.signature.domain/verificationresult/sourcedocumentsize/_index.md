@@ -1,17 +1,17 @@
 ---
-title: VerificationResult
+title: SourceDocumentSize
 second_title: Справочник по API GroupDocs.Signature для .NET
-description: Конструктор по умолчанию.
+description: Возвращает размер исходного документа в байтах
 type: docs
-weight: 10
-url: /ru/net/groupdocs.signature.domain/verificationresult/verificationresult/
+weight: 40
+url: /ru/net/groupdocs.signature.domain/verificationresult/sourcedocumentsize/
 ---
-## VerificationResult constructor
+## VerificationResult.SourceDocumentSize property
 
-Конструктор по умолчанию.
+Возвращает размер исходного документа в байтах
 
 ```csharp
-public VerificationResult()
+public long SourceDocumentSize { get; }
 ```
 
 ### Смотрите также

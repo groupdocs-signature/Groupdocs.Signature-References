@@ -3,7 +3,7 @@ title: Corners
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет углы квадратного графического объекта.
 type: docs
-weight: 100
+weight: 110
 url: /ru/net/groupdocs.signature.domain/corners/
 ---
 ## Corners class

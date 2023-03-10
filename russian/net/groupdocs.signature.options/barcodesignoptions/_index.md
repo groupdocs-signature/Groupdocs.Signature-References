@@ -3,7 +3,7 @@ title: BarcodeSignOptions
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет параметры подписи штрихкода.
 type: docs
-weight: 1190
+weight: 1260
 url: /ru/net/groupdocs.signature.options/barcodesignoptions/
 ---
 ## BarcodeSignOptions class
@@ -68,7 +68,7 @@ public class BarcodeSignOptions : TextSignOptions
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Основное использование создания электронной подписи штрих-кода с помощью GroupDocs.Signature: [Как подписать документ электронной подписью со штрих-кодом](https://docs.groupdocs.com/display/signaturenet/eSign+document+with+Barcode+signature)
 * Расширенное использование настроек электронной подписи штрих-кода с GroupDocs.Signature: [Расширенное использование документа eSign с подписью штрих-кода и дополнительными настройками](https://docs.groupdocs.com/display/signaturenet/Sign+document+with+Barcode+signature+and+additional+settings)

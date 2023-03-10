@@ -3,7 +3,7 @@ title: Failed
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Список сигнатур которые не были обновленыBaseSignaturegroupdocs.signature.domain/basesignature .
 type: docs
-weight: 10
+weight: 20
 url: /ru/net/groupdocs.signature.domain/updateresult/failed/
 ---
 ## UpdateResult.Failed property

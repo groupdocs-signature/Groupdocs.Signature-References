@@ -3,7 +3,7 @@ title: PdfSaveFileFormat
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Определяет различные форматы файлов сохранения.
 type: docs
-weight: 670
+weight: 700
 url: /ru/net/groupdocs.signature.domain/pdfsavefileformat/
 ---
 ## PdfSaveFileFormat enumeration

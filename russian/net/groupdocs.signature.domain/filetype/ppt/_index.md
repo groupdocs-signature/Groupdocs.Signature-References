@@ -3,7 +3,7 @@ title: PPT
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Презентация PowerPoint .ppt представляет собой файл PowerPoint состоящий из набора слайдов для отображения в виде слайдшоу. Он указывает формат двоичного файла используемый Microsoft PowerPoint 972003. Узнайте больше об этом формате файлаздесьhttps//wiki.fileformat.com/presentation/ppt .
 type: docs
-weight: 350
+weight: 360
 url: /ru/net/groupdocs.signature.domain/filetype/ppt/
 ---
 ## FileType.PPT field

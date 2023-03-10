@@ -3,7 +3,7 @@ title: ISMN
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Объект типа штрихкода ISMN.
 type: docs
-weight: 340
+weight: 370
 url: /ru/net/groupdocs.signature.domain/barcodetypes/ismn/
 ---
 ## BarcodeTypes.ISMN field

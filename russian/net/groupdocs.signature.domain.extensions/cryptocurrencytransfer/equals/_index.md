@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Справочник по API GroupDocs.Signature для .NET
-description: Перезаписывает метод Equals для сравнения свойств перевода криптовалюты
+description: Перезаписывает метод Equals для сравнения свойств передачи криптовалюты
 type: docs
 weight: 70
 url: /ru/net/groupdocs.signature.domain.extensions/cryptocurrencytransfer/equals/
 ---
 ## CryptoCurrencyTransfer.Equals method
 
-Перезаписывает метод Equals для сравнения свойств перевода криптовалюты
+Перезаписывает метод Equals для сравнения свойств передачи криптовалюты
 
 ```csharp
 public override bool Equals(object obj)
@@ -20,7 +20,7 @@ public override bool Equals(object obj)
 
 ### Возвращаемое значение
 
-Возвращает true, если переданный объект перевода криптовалюты имеет тот же тип и все его свойства равны свойствам этого экземпляра.
+Возвращает true, если переданный объект перевода криптовалюты имеет тот же тип и все его свойства равны свойствам данного экземпляра.
 
 ### Смотрите также
 

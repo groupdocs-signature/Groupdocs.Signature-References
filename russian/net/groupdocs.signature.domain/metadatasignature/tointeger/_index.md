@@ -3,7 +3,7 @@ title: ToInteger
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Преобразует в целое число.
 type: docs
-weight: 120
+weight: 130
 url: /ru/net/groupdocs.signature.domain/metadatasignature/tointeger/
 ---
 ## MetadataSignature.ToInteger method

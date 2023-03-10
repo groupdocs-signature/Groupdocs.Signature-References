@@ -3,7 +3,7 @@ title: StampTextRepeatType
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Задает тип повтора текста для строк штампа.
 type: docs
-weight: 890
+weight: 920
 url: /ru/net/groupdocs.signature.domain/stamptextrepeattype/
 ---
 ## StampTextRepeatType enumeration

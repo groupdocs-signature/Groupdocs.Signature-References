@@ -3,7 +3,7 @@ title: IATA2of5
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Объект типа штрихкода IATA2of5.
 type: docs
-weight: 310
+weight: 340
 url: /ru/net/groupdocs.signature.domain/barcodetypes/iata2of5/
 ---
 ## BarcodeTypes.IATA2of5 field

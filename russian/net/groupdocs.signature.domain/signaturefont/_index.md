@@ -3,7 +3,7 @@ title: SignatureFont
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Создает экземпляр класса SignatureFont для указания свойств шрифта.
 type: docs
-weight: 820
+weight: 850
 url: /ru/net/groupdocs.signature.domain/signaturefont/
 ---
 ## SignatureFont class

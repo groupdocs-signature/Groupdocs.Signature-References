@@ -3,7 +3,7 @@ title: PPS
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Слайдшоу PowerPoint .pps создаются с помощью Microsoft PowerPoint для целей слайдшоу. Чтение и создание файла PPS поддерживается Microsoft PowerPoint 972003. Узнайте больше об этом формате файлаздесьhttps//wiki.fileformat.com/presentation/pps .
 type: docs
-weight: 320
+weight: 330
 url: /ru/net/groupdocs.signature.domain/filetype/pps/
 ---
 ## FileType.PPS field

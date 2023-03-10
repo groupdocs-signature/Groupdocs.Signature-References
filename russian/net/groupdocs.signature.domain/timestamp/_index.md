@@ -3,7 +3,7 @@ title: TimeStamp
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет данные для получения отметки времени со стороннего сайта.
 type: docs
-weight: 1000
+weight: 1030
 url: /ru/net/groupdocs.signature.domain/timestamp/
 ---
 ## TimeStamp structure

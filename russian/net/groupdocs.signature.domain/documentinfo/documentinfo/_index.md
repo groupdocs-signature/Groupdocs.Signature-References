@@ -1,14 +1,14 @@
 ---
 title: DocumentInfo
 second_title: Справочник по API GroupDocs.Signature для .NET
-description: Инициализирует новый экземплярDocumentInfogroupdocs.signature.domain/documentinfo класс.
+description: Инициализирует новый экземплярDocumentInfogroupdocs.signature.domain/documentinfoкласс.
 type: docs
 weight: 10
 url: /ru/net/groupdocs.signature.domain/documentinfo/documentinfo/
 ---
 ## DocumentInfo constructor
 
-Инициализирует новый экземпляр[`DocumentInfo`](../../documentinfo) класс.
+Инициализирует новый экземпляр[`DocumentInfo`](../../documentinfo)класс.
 
 ```csharp
 public DocumentInfo()

@@ -3,7 +3,7 @@ title: PdfDigitalSignature
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Содержит свойства цифровой подписи Pdf.
 type: docs
-weight: 630
+weight: 660
 url: /ru/net/groupdocs.signature.domain/pdfdigitalsignature/
 ---
 ## PdfDigitalSignature class

@@ -3,7 +3,7 @@ title: SolidBrush
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет сплошную кисть. Может использоваться вместо свойства цвета фона.
 type: docs
-weight: 330
+weight: 350
 url: /ru/net/groupdocs.signature.domain.extensions/solidbrush/
 ---
 ## SolidBrush class

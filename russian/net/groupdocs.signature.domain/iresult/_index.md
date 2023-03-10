@@ -3,7 +3,7 @@ title: IResult
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Общий интерфейс для результата процесса подписи.
 type: docs
-weight: 510
+weight: 530
 url: /ru/net/groupdocs.signature.domain/iresult/
 ---
 ## IResult interface
@@ -18,8 +18,12 @@ public interface IResult
 
 | Имя | Описание |
 | --- | --- |
+| [DestinDocumentSize](../../groupdocs.signature.domain/iresult/destindocumentsize) { get; } | Возвращает целевой документ size |
 | [Failed](../../groupdocs.signature.domain/iresult/failed) { get; } | Список подписей, которые не были обработаны[`BaseSignature`](../basesignature) . |
+| [ProcessingTime](../../groupdocs.signature.domain/iresult/processingtime) { get; } | Возвращает время выполнения процесса в миллисекундах |
+| [SourceDocumentSize](../../groupdocs.signature.domain/iresult/sourcedocumentsize) { get; } | Возвращает размер исходного документа |
 | [Succeeded](../../groupdocs.signature.domain/iresult/succeeded) { get; } | Список успешно обработанных подписей[`BaseSignature`](../basesignature) . |
+| [TotalSignatures](../../groupdocs.signature.domain/iresult/totalsignatures) { get; } | Возвращает общее количество обработанных подписей |
 
 ### Смотрите также
 

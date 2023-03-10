@@ -3,7 +3,7 @@ title: UpdateResult
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Результат модификации подписей в документе.
 type: docs
-weight: 1010
+weight: 1040
 url: /ru/net/groupdocs.signature.domain/updateresult/
 ---
 ## UpdateResult class
@@ -18,8 +18,12 @@ public class UpdateResult : IResult
 
 | Имя | Описание |
 | --- | --- |
+| [DestinDocumentSize](../../groupdocs.signature.domain/updateresult/destindocumentsize) { get; } | Возвращает целевой документ size |
 | [Failed](../../groupdocs.signature.domain/updateresult/failed) { get; } | Список сигнатур, которые не были обновлены[`BaseSignature`](../basesignature) . |
+| [ProcessingTime](../../groupdocs.signature.domain/updateresult/processingtime) { get; } | Возвращает время выполнения процесса в миллисекундах |
+| [SourceDocumentSize](../../groupdocs.signature.domain/updateresult/sourcedocumentsize) { get; } | Возвращает размер исходного документа |
 | [Succeeded](../../groupdocs.signature.domain/updateresult/succeeded) { get; } | Список успешно измененных подписей[`BaseSignature`](../basesignature) . |
+| [TotalSignatures](../../groupdocs.signature.domain/updateresult/totalsignatures) { get; } | Возвращает общее количество обработанных подписей |
 
 ### Смотрите также
 

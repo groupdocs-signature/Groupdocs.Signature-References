@@ -3,7 +3,7 @@ title: RM4SCC
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Объект типа штрихкода RM4SCC.
 type: docs
-weight: 530
+weight: 560
 url: /ru/net/groupdocs.signature.domain/barcodetypes/rm4scc/
 ---
 ## BarcodeTypes.RM4SCC field

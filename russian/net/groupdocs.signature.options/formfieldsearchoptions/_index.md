@@ -3,7 +3,7 @@ title: FormFieldSearchOptions
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет параметры поиска подписей полей формы.
 type: docs
-weight: 1290
+weight: 1370
 url: /ru/net/groupdocs.signature.options/formfieldsearchoptions/
 ---
 ## FormFieldSearchOptions class
@@ -34,7 +34,7 @@ public class FormFieldSearchOptions : SearchOptions
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Базовое использование поиска электронной подписи FormField в GroupDocs.Signature: [ Как выполнить электронный поиск подписей FormField в документе](https://docs.groupdocs.com/display/signaturenet/Search+for+Form+Field+e-signatures)
 * Расширенное использование настроек поиска электронной подписи FormField с GroupDocs.Signature: [Расширенное использование подписей eSearch FormField в документе и дополнительные настройки](https://docs.groupdocs.com/display/signaturenet/Advanced+search+for+Form+Field+signatures)

@@ -3,7 +3,7 @@ title: ImageSaveOptions
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Параметры сохранения для документов изображений.
 type: docs
-weight: 1320
+weight: 1400
 url: /ru/net/groupdocs.signature.options/imagesaveoptions/
 ---
 ## ImageSaveOptions class

@@ -3,7 +3,7 @@ title: UPCA
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Объект типа штрихкода UPCA.
 type: docs
-weight: 590
+weight: 620
 url: /ru/net/groupdocs.signature.domain/barcodetypes/upca/
 ---
 ## BarcodeTypes.UPCA field

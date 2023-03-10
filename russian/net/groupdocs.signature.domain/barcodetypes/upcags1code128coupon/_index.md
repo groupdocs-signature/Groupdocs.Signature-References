@@ -3,7 +3,7 @@ title: UpcaGs1Code128Coupon
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: UpcaGs1Code128Объект типа штрихкода купона.
 type: docs
-weight: 600
+weight: 630
 url: /ru/net/groupdocs.signature.domain/barcodetypes/upcags1code128coupon/
 ---
 ## BarcodeTypes.UpcaGs1Code128Coupon field

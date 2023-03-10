@@ -3,7 +3,7 @@ title: GetHashCode
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Возвращает хешкод для текущегоFileTypegroupdocs.signature.domain/filetype объект.
 type: docs
-weight: 610
+weight: 620
 url: /ru/net/groupdocs.signature.domain/filetype/gethashcode/
 ---
 ## FileType.GetHashCode method

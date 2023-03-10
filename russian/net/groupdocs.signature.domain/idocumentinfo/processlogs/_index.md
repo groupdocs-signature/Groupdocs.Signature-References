@@ -3,7 +3,7 @@ title: ProcessLogs
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Сбор журналов обработки истории документов.
 type: docs
-weight: 100
+weight: 110
 url: /ru/net/groupdocs.signature.domain/idocumentinfo/processlogs/
 ---
 ## IDocumentInfo.ProcessLogs property

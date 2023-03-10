@@ -3,7 +3,7 @@ title: ITF6
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Объект типа штрихкода ITF6.
 type: docs
-weight: 380
+weight: 410
 url: /ru/net/groupdocs.signature.domain/barcodetypes/itf6/
 ---
 ## BarcodeTypes.ITF6 field

@@ -3,7 +3,7 @@ title: ToList
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Обеспечивает преобразование в строго типизированный список подписей.
 type: docs
-weight: 30
+weight: 80
 url: /ru/net/groupdocs.signature.domain/searchresult/tolist/
 ---
 ## SearchResult.ToList&lt;T&gt; method

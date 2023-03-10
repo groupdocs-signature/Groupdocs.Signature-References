@@ -20,7 +20,7 @@ public void GeneratePreview(PreviewOptions previewOptions)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Узнайте больше о том, как создать превью для страниц документа: [Как создать предварительный просмотр страниц документа с помощью GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Generate+document+pages+preview)
 

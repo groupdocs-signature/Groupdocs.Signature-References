@@ -1,14 +1,14 @@
 ---
 title: Signatures
 second_title: Справочник по API GroupDocs.Signature для .NET
-description: Список обнаруженных сигнатурBaseSignaturegroupdocs.signature.domain/basesignature .
+description: Список найденных подписейBaseSignaturegroupdocs.signature.domain/basesignature .
 type: docs
-weight: 10
+weight: 30
 url: /ru/net/groupdocs.signature.domain/searchresult/signatures/
 ---
 ## SearchResult.Signatures property
 
-Список обнаруженных сигнатур[`BaseSignature`](../../basesignature) .
+Список найденных подписей[`BaseSignature`](../../basesignature) .
 
 ```csharp
 public List<BaseSignature> Signatures { get; }

@@ -3,7 +3,7 @@ title: ISBN
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Объект типа штрихкода ISBN.
 type: docs
-weight: 330
+weight: 360
 url: /ru/net/groupdocs.signature.domain/barcodetypes/isbn/
 ---
 ## BarcodeTypes.ISBN field

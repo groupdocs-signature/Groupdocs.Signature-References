@@ -3,7 +3,7 @@ title: ToDouble
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Преобразуется в Double.
 type: docs
-weight: 110
+weight: 120
 url: /ru/net/groupdocs.signature.domain/metadatasignature/todouble/
 ---
 ## ToDouble() {#todouble}
