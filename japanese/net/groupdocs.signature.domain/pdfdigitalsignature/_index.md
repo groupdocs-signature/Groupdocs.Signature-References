@@ -1,0 +1,70 @@
+---
+title: PdfDigitalSignature
+second_title: GroupDocs.Signature for .NET API リファレンス
+description: Pdf デジタル署名のプロパティが含まれています
+type: docs
+weight: 660
+url: /ja/net/groupdocs.signature.domain/pdfdigitalsignature/
+---
+## PdfDigitalSignature class
+
+Pdf デジタル署名のプロパティが含まれています。
+
+```csharp
+public class PdfDigitalSignature : DigitalSignature
+```
+
+## コンストラクター
+
+| 名前 | 説明 |
+| --- | --- |
+| [PdfDigitalSignature](pdfdigitalsignature#constructor)() | 証明書なしで Pdf デジタル署名を初期化します。 |
+| [PdfDigitalSignature](pdfdigitalsignature#constructor_1)(X509Certificate2) | 指定された証明書で Pdf デジタル署名を作成します。 |
+| [PdfDigitalSignature](pdfdigitalsignature#constructor_2)(X509Store) | 指定された X509 ストアに基づいて Pdf デジタル署名を初期化します。指定されたストアからの最初の証明書が使用されます. |
+| [PdfDigitalSignature](pdfdigitalsignature#constructor_3)(X509Store, int) | 指定された X509 ストアと証明書のインデックスに基づいて Pdf デジタル署名を作成します。 |
+
+## プロパティ
+
+| 名前 | 説明 |
+| --- | --- |
+| [Certificate](../../groupdocs.signature.domain/digitalsignature/certificate) { get; set; } | X509 証明書を取得または設定します。 |
+| [CertificateStoreLocation](../../groupdocs.signature.domain/digitalsignature/certificatestorelocation) { get; set; } | 証明書の保存場所を指定します |
+| [CertificateStoreName](../../groupdocs.signature.domain/digitalsignature/certificatestorename) { get; set; } | 証明書のストア名を指定します。 |
+| [Comments](../../groupdocs.signature.domain/digitalsignature/comments) { get; set; } | 署名目的のコメントを取得または設定します。 |
+| [ContactInfo](../../groupdocs.signature.domain/pdfdigitalsignature/contactinfo) { get; set; } | 受信者が署名者 に連絡して署名を検証できるようにするために、署名者が提供する情報 (電話番号など)。 |
+| [CreatedOn](../../groupdocs.signature.domain/basesignature/createdon) { get; set; } | 署名の作成日を取得または設定します。 |
+| [Deleted](../../groupdocs.signature.domain/basesignature/deleted) { get; } | この署名がドキュメントから削除されたかどうかを示すフラグを取得します。 このプロパティは、削除された署名のリストを保持するためにドキュメント履歴ログ レコードにのみ使用されます。 |
+| [Height](../../groupdocs.signature.domain/basesignature/height) { get; set; } | 署名の高さを指定します。 |
+| [IsSignature](../../groupdocs.signature.domain/basesignature/issignature) { get; set; } | このコンポーネントが署名またはドキュメント コンテンツであるかどうかを示すフラグを取得または設定します。 このプロパティは Update メソッドで使用され、要素を署名 (true) またはドキュメント要素 (false) として設定します。 |
+| [IsValid](../../groupdocs.signature.domain/digitalsignature/isvalid) { get; set; } | このデジタル署名が有効で、ドキュメントが改ざんされていない場合は true を保持します。 |
+| [Left](../../groupdocs.signature.domain/basesignature/left) { get; set; } | 署名の左位置を指定します。 |
+| [Location](../../groupdocs.signature.domain/pdfdigitalsignature/location) { get; set; } | 署名の CPU ホスト名または物理的な場所. |
+| [ModifiedOn](../../groupdocs.signature.domain/basesignature/modifiedon) { get; set; } | 署名の変更日を取得または設定します。 |
+| [PageNumber](../../groupdocs.signature.domain/basesignature/pagenumber) { get; } | ページの署名が見つかったことを示します。 |
+| [Reason](../../groupdocs.signature.domain/pdfdigitalsignature/reason) { get; set; } | (同意しますРІР‚В¦). などの署名の理由 |
+| [ShowProperties](../../groupdocs.signature.domain/pdfdigitalsignature/showproperties) { get; set; } | 署名プロパティの表示/非表示を強制します。 ShowProperties が true の場合 signature フィールドには外観のフォーマットが事前定義されています { によってデジタル署名されています[`ContactInfo`](./contactinfo)日付: {Date} 理由: {[`Reason`](./reason)} 場所: {[`Location`](./location) } ShowProperties はデフォルトで true です。 |
+| [SignatureId](../../groupdocs.signature.domain/basesignature/signatureid) { get; } | Update メソッドまたは Delete メソッドでドキュメントの署名を変更するための一意の署名識別子。 このプロパティは、Sign メソッドまたは Search メソッドが呼び出された後に自動的に設定されます。 このプロパティが保存される前に手動で設定して署名を操作することができます。 |
+| [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | 署名のタイプを指定します。 |
+| [SignTime](../../groupdocs.signature.domain/digitalsignature/signtime) { get; set; } | ドキュメントが署名された時刻を取得または設定します。 |
+| [Thumbprint](../../groupdocs.signature.domain/digitalsignature/thumbprint) { get; } | 証明書の拇印を取得します。 |
+| [TimeStamp](../../groupdocs.signature.domain/pdfdigitalsignature/timestamp) { get; set; } | Pdf デジタル署名のタイム スタンプ。 デフォルト値は null です。 |
+| [Top](../../groupdocs.signature.domain/basesignature/top) { get; set; } | 折丁の先頭位置を指定します。 |
+| [Type](../../groupdocs.signature.domain/pdfdigitalsignature/type) { get; set; } | Pdf デジタル署名のタイプ. |
+| [Width](../../groupdocs.signature.domain/basesignature/width) { get; set; } | 署名の幅を指定します。 |
+| [XAdESType](../../groupdocs.signature.domain/digitalsignature/xadestype) { get; } | XAdES タイプ[`XAdESType`](../digitalsignature/xadestype).デフォルト値は None です (XAdES はオフです). 現時点では、XAdES 署名タイプはスプレッドシート ドキュメントに対してのみサポートされています. |
+
+## メソッド
+
+| 名前 | 説明 |
+| --- | --- |
+| override [Clone](../../groupdocs.signature.domain/pdfdigitalsignature/clone)() | バーコード署名インスタンスの複製. |
+| override [Equals](../../groupdocs.signature.domain/pdfdigitalsignature/equals)(object) | Equals メソッドを上書きして署名プロパティを比較します |
+| override [GetHashCode](../../groupdocs.signature.domain/pdfdigitalsignature/gethashcode)() | GetHashCode method をオーバーライドします |
+
+### 関連項目
+
+* class [DigitalSignature](../digitalsignature)
+* 名前空間 [GroupDocs.Signature.Domain](../../groupdocs.signature.domain)
+* 組み立て [GroupDocs.Signature](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.Signature.dll -->
