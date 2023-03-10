@@ -3,7 +3,7 @@ title: ProcessCompleteEventArgs
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: İmzalama doğrulama ve arama işlemlerinin tamamı hakkında veri sağlar.
 type: docs
-weight: 1730
+weight: 1810
 url: /tr/net/groupdocs.signature/processcompleteeventargs/
 ---
 ## ProcessCompleteEventArgs class

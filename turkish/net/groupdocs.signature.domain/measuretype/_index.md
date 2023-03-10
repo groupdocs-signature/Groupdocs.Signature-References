@@ -1,14 +1,14 @@
 ---
 title: MeasureType
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Bir belge sayfasındaki imza ölçü birimlerini belirtir.
+description: Belge sayfasındaki imza ölçü birimlerini belirtir.
 type: docs
-weight: 580
+weight: 600
 url: /tr/net/groupdocs.signature.domain/measuretype/
 ---
 ## MeasureType enumeration
 
-Bir belge sayfasındaki imza ölçü birimlerini belirtir.
+Belge sayfasındaki imza ölçü birimlerini belirtir.
 
 ```csharp
 public enum MeasureType
@@ -18,7 +18,7 @@ public enum MeasureType
 
 | İsim | Değer | Tanım |
 | --- | --- | --- |
-| Pixels | `0` | Piksel. |
+| Pixels | `0` | Pikseller. |
 | Percents | `1` | Sayfa boyutunun yüzdeleri. |
 | Millimeters | `2` | Milimetre. |
 

@@ -3,7 +3,7 @@ title: DigitalSearchOptions
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Dijital imzalar için arama seçeneklerini temsil eder.
 type: docs
-weight: 1250
+weight: 1330
 url: /tr/net/groupdocs.signature.options/digitalsearchoptions/
 ---
 ## DigitalSearchOptions class
@@ -26,20 +26,20 @@ public class DigitalSearchOptions : SearchOptions
 | --- | --- |
 | [AllPages](../../groupdocs.signature.options/searchoptions/allpages) { get; set; } | Her Belge sayfasında arama yapmak için işaretleyin. Varsayılan olarak bu değer true. olarak ayarlanmıştır. |
 | [Comments](../../groupdocs.signature.options/digitalsearchoptions/comments) { get; set; } | Aranacak Dijital imzanın yorumları. |
-| [IssuerName](../../groupdocs.signature.options/digitalsearchoptions/issuername) { get; set; } | Boş olmayan değerler için, aranacak sertifika verenin ayırt edici adını belirtir. |
+| [IssuerName](../../groupdocs.signature.options/digitalsearchoptions/issuername) { get; set; } | Boş olmayan değerler için aranacak sertifika verenin ayırt edici adını belirtir. |
 | [PageNumber](../../groupdocs.signature.options/searchoptions/pagenumber) { get; set; } | Arama için Belge sayfa numarasını alır veya ayarlar. Değer isteğe bağlıdır. |
 | [PagesSetup](../../groupdocs.signature.options/searchoptions/pagessetup) { get; set; } | İmza araması için sayfaları belirleme seçenekleri. |
 | [SignDateTimeFrom](../../groupdocs.signature.options/digitalsearchoptions/signdatetimefrom) { get; set; } | Aranacak Dijital imzanın tarih ve saat aralığı. Null yapılabilir değer yoksayılacak. |
 | [SignDateTimeTo](../../groupdocs.signature.options/digitalsearchoptions/signdatetimeto) { get; set; } | Aranacak Dijital imzanın tarih ve saat aralığı. Null yapılabilir değer yoksayılacak. |
 | [SkipExternal](../../groupdocs.signature.options/searchoptions/skipexternal) { get; set; } | Yalnızca IsSignature olarak işaretlenmiş imzaları döndürmek için işaretleyin. Varsayılan olarak, belirtilen ölçütlerle eşleşen tüm imzaların döndürüleceğini belirten false değeridir. |
-| [SubjectName](../../groupdocs.signature.options/digitalsearchoptions/subjectname) { get; set; } | Boş olmayan değerler için, aranacak sertifikanın ayırt edici konu adını belirtir. |
+| [SubjectName](../../groupdocs.signature.options/digitalsearchoptions/subjectname) { get; set; } | Boş olmayan değerler için aranacak sertifikanın ayırt edici konu adını belirtir. |
 
 ### Notlar
 
 **Daha fazla bilgi edin**
 
-* GroupDocs tarafından Dijital elektronik imza aramasının temel kullanımı.İmza: [ Bir belgede dijital imzalarda e-arama nasıl yapılır](https://docs.groupdocs.com/display/signaturenet/Search+for+Digital+e-signatures)
-* GroupDocs ile Dijital elektronik imza arama ayarlarının gelişmiş kullanımı.İmza: [Bir belgede eSearch Dijital imzalarının gelişmiş kullanımı ve ek ayarlar](https://docs.groupdocs.com/display/signaturenet/Advanced+search+for+Digital+signatures)
+* GroupDocs tarafından Dijital elektronik imza aramanın temel kullanımı. İmza: [ Bir belgedeki Dijital imzaları e-Arama](https://docs.groupdocs.com/display/signaturenet/Search+for+Digital+e-signatures)
+* GroupDocs.Signature ile Dijital elektronik imza arama ayarlarının gelişmiş kullanımı: [Bir belgede eSearch Digital imzalarının gelişmiş kullanımı ve ek ayarlar](https://docs.groupdocs.com/display/signaturenet/Advanced+search+for+Digital+signatures)
 
 ### Ayrıca bakınız
 

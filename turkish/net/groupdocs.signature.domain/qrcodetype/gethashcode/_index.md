@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Geçersiz kılınan yöntem belirli bir tür için karma işlevi işlevi görür.
+description: Geçersiz kılınan yöntem belirli bir tür için bir karma işlev işlevi görür.
 type: docs
 weight: 40
 url: /tr/net/groupdocs.signature.domain/qrcodetype/gethashcode/
 ---
 ## QrCodeType.GetHashCode method
 
-Geçersiz kılınan yöntem, belirli bir tür için karma işlevi işlevi görür.
+Geçersiz kılınan yöntem, belirli bir tür için bir karma işlev işlevi görür.
 
 ```csharp
 public override int GetHashCode()

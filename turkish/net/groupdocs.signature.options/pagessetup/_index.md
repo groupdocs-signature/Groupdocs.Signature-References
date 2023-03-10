@@ -3,7 +3,7 @@ title: PagesSetup
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Birlikte çalışılacak özel belge sayfalarını tanımlar.
 type: docs
-weight: 1420
+weight: 1500
 url: /tr/net/groupdocs.signature.options/pagessetup/
 ---
 ## PagesSetup class

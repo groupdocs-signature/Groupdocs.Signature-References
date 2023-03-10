@@ -3,7 +3,7 @@ title: VerifyExtensions
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Bir belge sayfasında alternatif imza uygulamaları için ek doğrulama seçeneklerini tutar.
 type: docs
-weight: 1690
+weight: 1770
 url: /tr/net/groupdocs.signature.options/verifyextensions/
 ---
 ## VerifyExtensions class

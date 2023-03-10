@@ -1,14 +1,14 @@
 ---
 title: PdfDigitalSignatureAppearance
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Varsayılan değerlerle imza görünümü nesnesi oluşturur.
+description: Varsayılan değerlerle imza görünüm nesnesi oluşturur.
 type: docs
 weight: 10
 url: /tr/net/groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/pdfdigitalsignatureappearance/
 ---
 ## PdfDigitalSignatureAppearance constructor
 
-Varsayılan değerlerle imza görünümü nesnesi oluşturur.
+Varsayılan değerlerle imza görünüm nesnesi oluşturur.
 
 ```csharp
 public PdfDigitalSignatureAppearance()

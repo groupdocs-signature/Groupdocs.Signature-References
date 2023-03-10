@@ -3,7 +3,7 @@ title: HorizontalAlignment
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Belge sayfasındaki öğenin yatay hizalamasını belirtir.
 type: docs
-weight: 470
+weight: 490
 url: /tr/net/groupdocs.signature.domain/horizontalalignment/
 ---
 ## HorizontalAlignment enumeration
@@ -18,10 +18,10 @@ public enum HorizontalAlignment
 
 | İsim | Değer | Tanım |
 | --- | --- | --- |
-| None | `0` | Nesne, genellikle Left özelliği kullanılarak açıkça konumlandırılır. |
-| Left | `1` | Nesnenin yatay hizalama tabanına hizalı bırakılacağını belirtir. |
+| None | `0` | Nesne, genellikle Sol özelliği kullanılarak açıkça konumlandırılmıştır. |
+| Left | `1` | Nesnenin yatay hizalama tabanına sola hizalı olacağını belirtir. |
 | Center | `2` | Nesnenin yatay hizalama tabanına göre ortalanacağını belirtir. |
-| Right | `3` | Nesnenin yatay hizalama tabanına doğru hizalanması gerektiğini belirtir. |
+| Right | `3` | Nesnenin yatay hizalama tabanına göre sağa hizalanacağını belirtir. |
 
 ### Ayrıca bakınız
 

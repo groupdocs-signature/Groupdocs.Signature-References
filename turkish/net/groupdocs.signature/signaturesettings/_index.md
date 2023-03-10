@@ -3,7 +3,7 @@ title: SignatureSettings
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Özelleştirme için ayarları tanımlarSignature./signature davranış.
 type: docs
-weight: 1810
+weight: 1890
 url: /tr/net/groupdocs.signature/signaturesettings/
 ---
 ## SignatureSettings class
@@ -18,16 +18,20 @@ public class SignatureSettings
 
 | İsim | Tanım |
 | --- | --- |
-| [SignatureSettings](signaturesettings)() | Default_Constructor |
+| [SignatureSettings](signaturesettings#constructor)() | Varsayılan SignatureSettings örneğini varsayılan değerlerle oluşturur. |
+| [SignatureSettings](signaturesettings#constructor_1)(ILogger) | Logger uygulamasıyla varsayılan SignatureSettings örneğini oluşturur. |
 
 ## Özellikleri
 
 | İsim | Tanım |
 | --- | --- |
 | [DefaultCulture](../../groupdocs.signature/signaturesettings/defaultculture) { get; set; } | Belge işleme sırasında kullanılacak varsayılan kültürü alır veya ayarlar. Varsayılan değer "en-US" şeklindedir. |
-| [SaveDocumentOnEmptyDelete](../../groupdocs.signature/signaturesettings/savedocumentonemptydelete) { get; set; } | Delete yönteminde kaldırılacak etkilenmiş imza olmadığında kaynak belgeyi yeniden kaydetmek için işaret alır veya ayarlar. Bu bayrak true olarak ayarlanırsa (varsayılan olarak), belge, Delete yöntemi kullanılsa bile karşılık gelen geçmiş işlem günlüğüyle (tarih ve işlem türü) kaydedilecektir. kaldırılacak imza yok. Bu düz ayar yanlış olarak ayarlandığında kaynak belge hiç değiştirilmeyecek. |
-| [SaveDocumentOnEmptyUpdate](../../groupdocs.signature/signaturesettings/savedocumentonemptyupdate) { get; set; } | Güncelleme yönteminin güncellenecek imzası olmadığında kaynak belgeyi yeniden kaydetmek için bayrağı alır veya ayarlar. Bu işaret true olarak ayarlanırsa (varsayılan olarak) belge, Güncelleme yönteminin sahip olduğu geçmiş işlem günlüğü (tarih ve işlem türü) ile kaydedilecektir. güncellenecek imza yok. Bu daire yanlış kaynak olarak ayarlandığında belge hiç değiştirilmeyecek. |
-| [ShowDeletedSignaturesInfo](../../groupdocs.signature/signaturesettings/showdeletedsignaturesinfo) { get; set; } | Silinen imzaları içeren bayrağı Belge Bilgileri sonucuna getirir veya ayarlar. Her İmza[`BaseSignature`](../../groupdocs.signature.domain/basesignature) Silinmiş bayrağı var[`Deleted`](../../groupdocs.signature.domain/basesignature/deleted) silinip silinmediğini tespit etmek için. |
+| [IncludeStandardMetadataSignatures](../../groupdocs.signature/signaturesettings/includestandardmetadatasignatures) { get; set; } | Yazar, Sahip, belge oluşturma tarihi, değiştirilme tarihi vb. gibi katıştırılmış standart belge meta veri imzalarını Meta Veri Listesine eklemek için bayrağı alır veya ayarlar. Bu bayrak yanlış olarak ayarlanırsa (varsayılan olarak) GetDocumentInfo bu meta verileri içermez imzalar. Bu bayrak doğru olarak ayarlandığında, belge bilgileri bu standart meta veri imzalarını içerecektir. |
+| [Logger](../../groupdocs.signature/signaturesettings/logger) { get; } | Günlük kaydı için kullanılan kaydedici uygulaması (Hatalar, Uyarılar, İzler).[`ILogger`](../../groupdocs.signature.logging/ilogger) . |
+| [LogLevel](../../groupdocs.signature/signaturesettings/loglevel) { get; set; } | Mesajları sınırlamak için günlüğe kaydetme düzeyi (Tümü, İzler, Uyarılar, Hatalar).[`LogLevel`](./loglevel) . varsayılan olarak Tüm seviye tipi ayarlanmıştır. |
+| [SaveDocumentOnEmptyDelete](../../groupdocs.signature/signaturesettings/savedocumentonemptydelete) { get; set; } | Delete yönteminde kaldırılacak etkilenmiş imza olmadığında kaynak belgeyi yeniden kaydetmek için işaret alır veya ayarlar. Silme yönteminde kaldırılacak imza yok. Bu düz ayar yanlış olarak ayarlandığında kaynak belge hiç değiştirilmeyecek. |
+| [SaveDocumentOnEmptyUpdate](../../groupdocs.signature/signaturesettings/savedocumentonemptyupdate) { get; set; } | Güncelleme yönteminin güncellenecek imzası olmadığında kaynak belgeyi yeniden kaydetmek için işaret alır veya ayarlar. Bu işaret doğru olarak ayarlanırsa (varsayılan olarak) belge, Güncelle olmasa bile ilgili geçmiş işlem günlüğüyle (tarih ve işlem türü) kaydedilecektir. yöntemin güncellenecek imzası yok. Bu düz ayar yanlış olarak ayarlandığında kaynak belge hiç değiştirilmeyecek. |
+| [ShowDeletedSignaturesInfo](../../groupdocs.signature/signaturesettings/showdeletedsignaturesinfo) { get; set; } | Belge Bilgileri sonucuna silinen imzaları içeren işareti alır veya ayarlar. Her İmza[`BaseSignature`](../../groupdocs.signature.domain/basesignature) Silinmiş bayrağı var[`Deleted`](../../groupdocs.signature.domain/basesignature/deleted) silinip silinmediğini tespit etmek için. |
 
 ### Ayrıca bakınız
 

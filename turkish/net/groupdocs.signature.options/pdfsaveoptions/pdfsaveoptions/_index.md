@@ -1,14 +1,14 @@
 ---
 title: PdfSaveOptions
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Varsayılan değerlerle yeni bir PdfSaveOptions sınıfı örneğini başlatır.
+description: Varsayılan değerlerle PdfSaveOptions sınıfının yeni bir örneğini başlatır.
 type: docs
 weight: 10
 url: /tr/net/groupdocs.signature.options/pdfsaveoptions/pdfsaveoptions/
 ---
 ## PdfSaveOptions() {#constructor}
 
-Varsayılan değerlerle yeni bir PdfSaveOptions sınıfı örneğini başlatır.
+Varsayılan değerlerle PdfSaveOptions sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PdfSaveOptions()
@@ -53,7 +53,7 @@ public PdfSaveOptions(bool overwriteExistingFile)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| overwriteExistingFile | Boolean | Aynı dosya ile imzalanmış dosyanın üzerine yazıp yazılmayacağını işaretleyin. |
+| overwriteExistingFile | Boolean | İmzalı dosyanın üzerine aynı dosyanın yazıp yazmayacağını işaretleyin. |
 
 ### Ayrıca bakınız
 
@@ -74,7 +74,7 @@ public PdfSaveOptions(PdfSaveFileFormat fileFormat, bool overwriteExistingFile)
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
 | fileFormat | PdfSaveFileFormat | Çıktı dosyası türü[`PdfSaveFileFormat`](../../../groupdocs.signature.domain/pdfsavefileformat). |
-| overwriteExistingFile | Boolean | Aynı dosya ile imzalanmış dosyanın üzerine yazıp yazılmayacağını işaretleyin. |
+| overwriteExistingFile | Boolean | İmzalı dosyanın üzerine aynı dosyanın yazıp yazmayacağını işaretleyin. |
 
 ### Ayrıca bakınız
 

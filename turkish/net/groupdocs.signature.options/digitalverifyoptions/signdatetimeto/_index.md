@@ -1,14 +1,14 @@
 ---
 title: SignDateTimeTo
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Doğrulanacak Dijital İmzanın tarih ve saat aralığı. Null yapılabilir değer yoksayılacak.
+description: Doğrulanacak Dijital İmzanın tarih ve zaman aralığı. Null yapılabilir değer yoksayılacak.
 type: docs
 weight: 120
 url: /tr/net/groupdocs.signature.options/digitalverifyoptions/signdatetimeto/
 ---
 ## DigitalVerifyOptions.SignDateTimeTo property
 
-Doğrulanacak Dijital İmzanın tarih ve saat aralığı. Null yapılabilir değer yoksayılacak.
+Doğrulanacak Dijital İmzanın tarih ve zaman aralığı. Null yapılabilir değer yoksayılacak.
 
 ```csharp
 public DateTime? SignDateTimeTo { get; set; }

@@ -3,7 +3,7 @@ title: ISMN
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: ISMN Barkod Türü nesnesi.
 type: docs
-weight: 340
+weight: 370
 url: /tr/net/groupdocs.signature.domain/barcodetypes/ismn/
 ---
 ## BarcodeTypes.ISMN field

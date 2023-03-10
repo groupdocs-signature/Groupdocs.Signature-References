@@ -3,7 +3,7 @@ title: TextSignatures
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Tarafından eklenen veya güncellenen belge metin imzaları koleksiyonuSignaturegroupdocs.signature/signature yöntemler.
 type: docs
-weight: 140
+weight: 150
 url: /tr/net/groupdocs.signature.domain/idocumentinfo/textsignatures/
 ---
 ## IDocumentInfo.TextSignatures property

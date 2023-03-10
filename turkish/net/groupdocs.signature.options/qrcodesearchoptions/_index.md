@@ -3,7 +3,7 @@ title: QrCodeSearchOptions
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: QR Kodu imzaları için arama seçeneklerini temsil eder.
 type: docs
-weight: 1540
+weight: 1620
 url: /tr/net/groupdocs.signature.options/qrcodesearchoptions/
 ---
 ## QrCodeSearchOptions class
@@ -32,8 +32,8 @@ public class QrCodeSearchOptions : SearchOptions
 | [MatchType](../../groupdocs.signature.options/qrcodesearchoptions/matchtype) { get; set; } | QR Kodu Metin Eşleme Türü aramasını alır veya ayarlar. Yalnızca Metin özelliği ayarlandığında kullanılır. |
 | [PageNumber](../../groupdocs.signature.options/searchoptions/pagenumber) { get; set; } | Arama için Belge sayfa numarasını alır veya ayarlar. Değer isteğe bağlıdır. |
 | [PagesSetup](../../groupdocs.signature.options/searchoptions/pagessetup) { get; set; } | İmza araması için sayfaları belirleme seçenekleri. |
-| [ReturnContent](../../groupdocs.signature.options/qrcodesearchoptions/returncontent) { get; set; } | Belge sayfasındaki imzanın QR Kodu görüntü içeriğini almak için bayrağı alır veya ayarlar. Bu bayrak doğru ayarlanırsa, QR Kodu imza görüntü içeriği ham görüntü verilerini gereken biçimde tutar[`ReturnContentType`](./returncontenttype) . Varsayılan olarak bu seçenek devre dışıdır. |
-| [ReturnContentType](../../groupdocs.signature.options/qrcodesearchoptions/returncontenttype) { get; set; } | ReturnContent özelliği etkinleştirildiğinde QR Kodu imzasının döndürülen görüntü içeriğinin dosya türünü belirtir. Varsayılan olarak Null olarak ayarlanır. Bu, QR-Code görüntü içeriğini orijinal biçimde döndürmek anlamına gelir. Bu görüntü formatı şurada belirtilmiştir:[`Format`](../../groupdocs.signature.domain/qrcodesignature/format) Desteklenen olası değerler şunlardır: FileType.JPEG, FileType.PNG, FileType.BMP. Sağlanan biçim desteklenmiyorsa, orijinal .png'deki QR Kodu görüntü içeriği döndürülür. |
+| [ReturnContent](../../groupdocs.signature.options/qrcodesearchoptions/returncontent) { get; set; } | Belge sayfasındaki imzanın QR-Code görüntü içeriğini kapmak için bayrağı alır veya ayarlar. Bu bayrak doğru olarak ayarlanırsa, QR-Code imza görüntüsü içeriği, ham görüntü verilerini gerekli formatta tutar[`ReturnContentType`](./returncontenttype) . Varsayılan olarak bu seçenek devre dışıdır. |
+| [ReturnContentType](../../groupdocs.signature.options/qrcodesearchoptions/returncontenttype) { get; set; } | ReturnContent özelliği etkinleştirildiğinde QR Kodu imzasının döndürülen görüntü içeriğinin dosya türünü belirtir. Varsayılan olarak Null olarak ayarlanmıştır. Bu, QR-Code görüntü içeriğini orijinal biçimde döndürmek anlamına gelir. Bu resim formatı şu adreste belirtilmiştir:[`Format`](../../groupdocs.signature.domain/qrcodesignature/format) Desteklenen olası değerler şunlardır: FileType.JPEG, FileType.PNG, FileType.BMP. Sağlanan biçim desteklenmiyorsa orijinal .png'deki QR-Code görüntü içeriği döndürülür. |
 | [SkipExternal](../../groupdocs.signature.options/searchoptions/skipexternal) { get; set; } | Yalnızca IsSignature olarak işaretlenmiş imzaları döndürmek için işaretleyin. Varsayılan olarak, belirtilen ölçütlerle eşleşen tüm imzaların döndürüleceğini belirten false değeridir. |
 | [Text](../../groupdocs.signature.options/qrcodesearchoptions/text) { get; set; } | Aranması ve eşleştirilmesi gerekiyorsa QR Kodu İmza Metnini belirtir. |
 

@@ -1,14 +1,14 @@
 ---
 title: BorderEffect
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Kenar efektini alır veya ayarlar.
+description: Sınır efektini alır veya ayarlar.
 type: docs
 weight: 30
 url: /tr/net/groupdocs.signature.options.appearances/pdftextannotationappearance/bordereffect/
 ---
 ## PdfTextAnnotationAppearance.BorderEffect property
 
-Kenar efektini alır veya ayarlar.
+Sınır efektini alır veya ayarlar.
 
 ```csharp
 public PdfTextAnnotationBorderEffect BorderEffect { get; set; }

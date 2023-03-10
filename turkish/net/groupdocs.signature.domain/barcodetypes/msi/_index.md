@@ -3,7 +3,7 @@ title: MSI
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: MSI Barkod Türü nesnesi.
 type: docs
-weight: 440
+weight: 470
 url: /tr/net/groupdocs.signature.domain/barcodetypes/msi/
 ---
 ## BarcodeTypes.MSI field

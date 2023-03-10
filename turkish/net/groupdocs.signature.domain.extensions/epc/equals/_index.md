@@ -20,7 +20,7 @@ public override bool Equals(object obj)
 
 ### Geri dönüş değeri
 
-Geçilen adres nesnesi aynı türe sahipse ve tüm özellikleri bu örnek özelliklerine eşitse true döndürür.
+Geçirilen adres nesnesi aynı türe sahipse ve tüm özellikleri bu örnek özelliklerine eşitse, true değerini döndürür.
 
 ### Ayrıca bakınız
 

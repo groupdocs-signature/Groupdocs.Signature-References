@@ -3,7 +3,7 @@ title: SignOptions
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: İmza seçeneklerini temsil eder.
 type: docs
-weight: 1610
+weight: 1690
 url: /tr/net/groupdocs.signature.options/signoptions/
 ---
 ## SignOptions class
@@ -22,7 +22,7 @@ public abstract class SignOptions
 | [Appearance](../../groupdocs.signature.options/signoptions/appearance) { get; set; } | Ek imza görünümü. |
 | [DocumentType](../../groupdocs.signature.options/signoptions/documenttype) { get; set; } | İmza Seçeneklerinin Belge Türünü alın veya ayarlayın[`DocumentType`](../../groupdocs.signature.domain/documenttype) |
 | [Extensions](../../groupdocs.signature.options/signoptions/extensions) { get; } | İmza Uzantıları. |
-| virtual [PageNumber](../../groupdocs.signature.options/signoptions/pagenumber) { get; set; } | İmzalama için belge sayfa numarasını alır veya ayarlar. Minimum ve varsayılan değer 1. |
+| virtual [PageNumber](../../groupdocs.signature.options/signoptions/pagenumber) { get; set; } | İmza için belge sayfa numarasını alır veya ayarlar. Minimum ve varsayılan değer 1. 'dir. |
 | virtual [PagesSetup](../../groupdocs.signature.options/signoptions/pagessetup) { get; set; } | İmzalanacak sayfaları belirtmek için seçenekler. |
 | [SignatureType](../../groupdocs.signature.options/signoptions/signaturetype) { get; } | İmza Türünü Alın[`SignatureType`](../../groupdocs.signature.domain/signaturetype) |
 | [ZOrder](../../groupdocs.signature.options/signoptions/zorder) { get; set; } | Metin imzasının Z sırası konumunu alır veya ayarlar. Çakışan imzaların görüntülenme sırasını belirler. |

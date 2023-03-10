@@ -3,7 +3,7 @@ title: PreviewOptions
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Belge önizleme seçeneklerini temsil eder.
 type: docs
-weight: 1500
+weight: 1580
 url: /tr/net/groupdocs.signature.options/previewoptions/
 ---
 ## PreviewOptions class

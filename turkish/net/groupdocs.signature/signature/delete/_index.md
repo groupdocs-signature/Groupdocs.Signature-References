@@ -26,7 +26,7 @@ public bool Delete(BaseSignature signature)
 
 **Daha fazla bilgi edin**
 
-* C#'da elektronik imzanın belgeden nasıl silineceği hakkında daha fazla bilgi: [GroupDocs.Signature ile belgeden e-imza nasıl silinir](https://docs.groupdocs.com/display/signaturenet/Delete+signatures+from+documents)
+* C#'ta belgeden elektronik imzanın nasıl silineceği hakkında daha fazla bilgi: [e-İmza, GroupDocs.Signature ile belgeden nasıl silinir?](https://docs.groupdocs.com/display/signaturenet/Delete+signatures+from+documents)
 * Belge e-İmzalarını silmeye ilişkin gelişmiş kullanım örnekleri: [C#'daki belgeden farklı e-imza türleri nasıl silinir?](https://docs.groupdocs.com/display/signaturenet/Deleting)
 
 ### Ayrıca bakınız
@@ -58,7 +58,7 @@ DeleteResult'u döndürür[`DeleteResult`](../../../groupdocs.signature.domain/d
 
 **Daha fazla bilgi edin**
 
-* C#'da elektronik imzanın belgeden nasıl silineceği hakkında daha fazla bilgi: [GroupDocs.Signature ile belgeden e-imza nasıl silinir](https://docs.groupdocs.com/display/signaturenet/Delete+signatures+from+documents)
+* C#'ta belgeden elektronik imzanın nasıl silineceği hakkında daha fazla bilgi: [e-İmza, GroupDocs.Signature ile belgeden nasıl silinir?](https://docs.groupdocs.com/display/signaturenet/Delete+signatures+from+documents)
 * Belge e-İmzalarını silmeye ilişkin gelişmiş kullanım örnekleri: [C#'daki belgeden farklı e-imza türleri nasıl silinir?](https://docs.groupdocs.com/display/signaturenet/Deleting)
 
 ### Ayrıca bakınız
@@ -91,7 +91,7 @@ DeleteResult'u döndürür[`DeleteResult`](../../../groupdocs.signature.domain/d
 
 **Daha fazla bilgi edin**
 
-* C#'da elektronik imzanın belgeden nasıl silineceği hakkında daha fazla bilgi: [GroupDocs.Signature ile belgeden belirli türdeki e-İmzalar nasıl silinir?](https://docs.groupdocs.com/signature/net/delete+signatures+of+the+certain+type/)
+* C#'ta belgeden elektronik imzanın nasıl silineceği hakkında daha fazla bilgi: [GroupDocs.Signature ile belgeden belirli türdeki e-İmzalar nasıl silinir?](https://docs.groupdocs.com/signature/net/delete+signatures+of+the+certain+type/)
 * Belge e-İmzalarını silmeye ilişkin gelişmiş kullanım örnekleri: [C#'daki belgeden farklı e-imza türleri nasıl silinir?](https://docs.groupdocs.com/display/signaturenet/Deleting)
 
 ### Ayrıca bakınız
@@ -124,7 +124,7 @@ DeleteResult'u döndürür[`DeleteResult`](../../../groupdocs.signature.domain/d
 
 **Daha fazla bilgi edin**
 
-* C#'da elektronik imzanın belgeden nasıl silineceği hakkında daha fazla bilgi: [GroupDocs.Signature ile belgeden belirli türdeki e-İmzalar nasıl silinir?](https://docs.groupdocs.com/signature/net/delete+signatures+of+the+certain+types/)
+* C#'ta belgeden elektronik imzanın nasıl silineceği hakkında daha fazla bilgi: [GroupDocs.Signature ile belgeden belirli türdeki e-İmzalar nasıl silinir?](https://docs.groupdocs.com/signature/net/delete+signatures+of+the+certain+types/)
 * Belge e-İmzalarını silmeye ilişkin gelişmiş kullanım örnekleri: [C#'daki belgeden farklı e-imza türleri nasıl silinir?](https://docs.groupdocs.com/display/signaturenet/Deleting)
 
 ### Ayrıca bakınız
@@ -157,7 +157,7 @@ public bool Delete(string signatureId)
 
 **Daha fazla bilgi edin**
 
-* C#'da elektronik imzanın belgeden nasıl silineceği hakkında daha fazla bilgi: [GroupDocs.Signature ile belgeden e-imza nasıl silinir](https://docs.groupdocs.com/display/signaturenet/Delete+signatures+from+documents)
+* C#'ta belgeden elektronik imzanın nasıl silineceği hakkında daha fazla bilgi: [e-İmza, GroupDocs.Signature ile belgeden nasıl silinir?](https://docs.groupdocs.com/display/signaturenet/Delete+signatures+from+documents)
 * Belge e-İmzalarını silmeye ilişkin gelişmiş kullanım örnekleri: [C#'daki belgeden farklı e-imza türleri nasıl silinir?](https://docs.groupdocs.com/display/signaturenet/Deleting)
 
 ### Ayrıca bakınız
@@ -188,7 +188,7 @@ DeleteResult'u döndürür[`DeleteResult`](../../../groupdocs.signature.domain/d
 
 **Daha fazla bilgi edin**
 
-* C#'da elektronik imzanın belgeden nasıl silineceği hakkında daha fazla bilgi: [GroupDocs.Signature ile belgeden e-imza nasıl silinir](https://docs.groupdocs.com/display/signaturenet/Delete+signatures+from+documents)
+* C#'ta belgeden elektronik imzanın nasıl silineceği hakkında daha fazla bilgi: [e-İmza, GroupDocs.Signature ile belgeden nasıl silinir?](https://docs.groupdocs.com/display/signaturenet/Delete+signatures+from+documents)
 * Belge e-İmzalarını silmeye ilişkin gelişmiş kullanım örnekleri: [C#'daki belgeden farklı e-imza türleri nasıl silinir?](https://docs.groupdocs.com/display/signaturenet/Deleting)
 
 ### Ayrıca bakınız

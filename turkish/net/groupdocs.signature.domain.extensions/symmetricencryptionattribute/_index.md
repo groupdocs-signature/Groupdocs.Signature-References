@@ -1,14 +1,14 @@
 ---
 title: SymmetricEncryptionAttribute
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Nesne serileştirme dizesini şifrelemek/şifresini çözmek için örnek serileştirme talimatı verir.
+description: Nesne serileştirme dizesini şifrelemek / şifresini çözmek için örnek serileştirme talimatı verir.
 type: docs
-weight: 370
+weight: 390
 url: /tr/net/groupdocs.signature.domain.extensions/symmetricencryptionattribute/
 ---
 ## SymmetricEncryptionAttribute class
 
-Nesne serileştirme dizesini şifrelemek/şifresini çözmek için örnek serileştirme talimatı verir.
+Nesne serileştirme dizesini şifrelemek / şifresini çözmek için örnek serileştirme talimatı verir.
 
 ```csharp
 [AttributeUsage(AttributeTargets.Class | AttributeTargets.Struct)]
@@ -26,7 +26,7 @@ public sealed class SymmetricEncryptionAttribute : Attribute, IDataEncryption
 
 | İsim | Tanım |
 | --- | --- |
-| [Decode](../../groupdocs.signature.domain.extensions/symmetricencryptionattribute/decode)(string) | Algoritma türü, anahtar ve tuz parametrelerine dayalı olarak geçirilen dizenin şifresini çözer |
+| [Decode](../../groupdocs.signature.domain.extensions/symmetricencryptionattribute/decode)(string) | Algoritma türü, anahtar ve tuz parametrelerine dayalı olarak iletilen dizenin şifresini çözer |
 | [Encode](../../groupdocs.signature.domain.extensions/symmetricencryptionattribute/encode)(string) | Sağlanan algoritma türü, anahtar ve tuz parametrelerine dayalı olarak diziyi şifreler |
 
 ### Ayrıca bakınız

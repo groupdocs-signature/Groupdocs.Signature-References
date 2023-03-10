@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Adres özelliklerini karşılaştırmak için Eşittir yönteminin Üzerine Yazılır
+description: Adres özelliklerini karşılaştırmak için Equals yönteminin üzerine yazar
 type: docs
 weight: 70
 url: /tr/net/groupdocs.signature.domain.extensions/address/equals/
 ---
 ## Address.Equals method
 
-Adres özelliklerini karşılaştırmak için Eşittir yönteminin Üzerine Yazılır
+Adres özelliklerini karşılaştırmak için Equals yönteminin üzerine yazar
 
 ```csharp
 public override bool Equals(object obj)
@@ -20,7 +20,7 @@ public override bool Equals(object obj)
 
 ### Geri dönüş değeri
 
-Geçilen adres nesnesi aynı türe sahipse ve tüm özellikleri bu örnek özelliklerine eşitse true döndürür.
+Geçirilen adres nesnesi aynı türe sahipse ve tüm özellikleri bu örnek özelliklerine eşitse, true değerini döndürür.
 
 ### Ayrıca bakınız
 

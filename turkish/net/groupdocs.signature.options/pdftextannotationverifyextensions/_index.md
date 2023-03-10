@@ -3,7 +3,7 @@ title: PdfTextAnnotationVerifyExtensions
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: PDF metin ek açıklama nesnesinin doğrulama uzantılarını açıklar
 type: docs
-weight: 1440
+weight: 1520
 url: /tr/net/groupdocs.signature.options/pdftextannotationverifyextensions/
 ---
 ## PdfTextAnnotationVerifyExtensions class

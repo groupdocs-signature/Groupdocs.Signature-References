@@ -3,7 +3,7 @@ title: DeleteResult
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Belgeden imzaların silinmesinin sonucu.
 type: docs
-weight: 120
+weight: 130
 url: /tr/net/groupdocs.signature.domain/deleteresult/
 ---
 ## DeleteResult class
@@ -18,8 +18,12 @@ public class DeleteResult : IResult
 
 | İsim | Tanım |
 | --- | --- |
+| [DestinDocumentSize](../../groupdocs.signature.domain/deleteresult/destindocumentsize) { get; } | Güncellenmiş belge boyutunu döndürür. |
 | [Failed](../../groupdocs.signature.domain/deleteresult/failed) { get; } | Silinmemiş imzaların listesi[`BaseSignature`](../basesignature) . |
+| [ProcessingTime](../../groupdocs.signature.domain/deleteresult/processingtime) { get; } | İşlemin yürütme süresini milisaniye cinsinden döndürür. |
+| [SourceDocumentSize](../../groupdocs.signature.domain/deleteresult/sourcedocumentsize) { get; } | Kaynak belge boyutunu döndürür. |
 | [Succeeded](../../groupdocs.signature.domain/deleteresult/succeeded) { get; } | Başarıyla silinen imzaların listesi[`BaseSignature`](../basesignature) . |
+| [TotalSignatures](../../groupdocs.signature.domain/deleteresult/totalsignatures) { get; } | Toplam işlenen imzaları döndürür. |
 
 ### Ayrıca bakınız
 

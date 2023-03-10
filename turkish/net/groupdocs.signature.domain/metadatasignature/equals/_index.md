@@ -3,7 +3,7 @@ title: Equals
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: İmza özelliklerini karşılaştırmak için Equals yönteminin üzerine yazar
 type: docs
-weight: 50
+weight: 60
 url: /tr/net/groupdocs.signature.domain/metadatasignature/equals/
 ---
 ## MetadataSignature.Equals method

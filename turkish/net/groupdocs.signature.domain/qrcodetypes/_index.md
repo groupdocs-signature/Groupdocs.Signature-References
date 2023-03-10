@@ -3,7 +3,7 @@ title: QrCodeTypes
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: QRCode Türleri kabı.
 type: docs
-weight: 780
+weight: 810
 url: /tr/net/groupdocs.signature.domain/qrcodetypes/
 ---
 ## QrCodeTypes class
@@ -35,6 +35,9 @@ public static class QrCodeTypes
 | static readonly [DataMatrix](../../groupdocs.signature.domain/qrcodetypes/datamatrix) | DataMatrix QR Kodu Türü nesnesi. |
 | static readonly [GS1DataMatrix](../../groupdocs.signature.domain/qrcodetypes/gs1datamatrix) | GS1 DataMatrix QR-Code Type object. |
 | static readonly [GS1QR](../../groupdocs.signature.domain/qrcodetypes/gs1qr) | GS1 QR Kodu Türü nesnesi. |
+| static readonly [HIBCLICAztec](../../groupdocs.signature.domain/qrcodetypes/hibclicaztec) | HIBC LIC Aztek QR Kodu Türü object. |
+| static readonly [HIBCLICDataMatrix](../../groupdocs.signature.domain/qrcodetypes/hibclicdatamatrix) | HIBC LIC Veri Matrisi QR Kodu Türü object. |
+| static readonly [HIBCLICQR](../../groupdocs.signature.domain/qrcodetypes/hibclicqr) | HIBC LIC QR Kodu Türü object. |
 | static readonly [QR](../../groupdocs.signature.domain/qrcodetypes/qr) | QR QR Kodu Türü object. |
 
 ### Ayrıca bakınız

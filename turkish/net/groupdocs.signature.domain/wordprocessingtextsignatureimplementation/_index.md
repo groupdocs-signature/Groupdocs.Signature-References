@@ -3,7 +3,7 @@ title: WordProcessingTextSignatureImplementation
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: WordProcessing belgeleri için metin imza uygulamasının türünü belirtir.
 type: docs
-weight: 1060
+weight: 1090
 url: /tr/net/groupdocs.signature.domain/wordprocessingtextsignatureimplementation/
 ---
 ## WordProcessingTextSignatureImplementation enumeration

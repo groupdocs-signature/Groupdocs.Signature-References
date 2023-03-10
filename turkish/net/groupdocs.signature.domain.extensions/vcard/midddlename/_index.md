@@ -1,14 +1,14 @@
 ---
 title: MidddleName
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Kişi Orta Adını alır veya ayarlar.
+description: Kişinin Orta Adını alır veya ayarlar.
 type: docs
 weight: 120
 url: /tr/net/groupdocs.signature.domain.extensions/vcard/midddlename/
 ---
 ## VCard.MidddleName property
 
-Kişi Orta Adını alır veya ayarlar.
+Kişinin Orta Adını alır veya ayarlar.
 
 ```csharp
 public string MidddleName { get; set; }

@@ -3,7 +3,7 @@ title: SignatureType
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: İmzala Doğrula Ara Güncelle Sil gibi çeşitli işlemler için desteklenen imza türlerini tanımlar
 type: docs
-weight: 830
+weight: 860
 url: /tr/net/groupdocs.signature.domain/signaturetype/
 ---
 ## SignatureType enumeration

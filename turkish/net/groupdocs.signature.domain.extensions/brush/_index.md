@@ -3,7 +3,7 @@ title: Brush
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Çeşitli fırçalar için temel sınıfı temsil eder.
 type: docs
-weight: 180
+weight: 190
 url: /tr/net/groupdocs.signature.domain.extensions/brush/
 ---
 ## Brush class

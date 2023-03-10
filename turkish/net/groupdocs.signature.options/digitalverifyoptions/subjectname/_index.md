@@ -1,14 +1,14 @@
 ---
 title: SubjectName
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Doğrulanacak sertifikanın konu ayırt edici adı. Değer büyük/küçük harf duyarlıdır. Bu özellik ayarlanırsa doğrulama İmza konu adının iletilen değeri içerip içermediğini kontrol eder
+description: Doğrulanacak sertifikanın konu ayırt edici adı. Değer büyük/küçük harfe duyarlıdır. Bu özellik ayarlanırsa doğrulama İmza konu adının geçen değeri içerip içermediğini veya ona eşit olup olmadığını kontrol eder
 type: docs
 weight: 130
 url: /tr/net/groupdocs.signature.options/digitalverifyoptions/subjectname/
 ---
 ## DigitalVerifyOptions.SubjectName property
 
-Doğrulanacak sertifikanın konu ayırt edici adı. Değer büyük/küçük harf duyarlıdır. Bu özellik ayarlanırsa, doğrulama, İmza konu adının iletilen değeri içerip içermediğini kontrol eder
+Doğrulanacak sertifikanın konu ayırt edici adı. Değer büyük/küçük harfe duyarlıdır. Bu özellik ayarlanırsa doğrulama, İmza konu adının geçen değeri içerip içermediğini veya ona eşit olup olmadığını kontrol eder
 
 ```csharp
 public string SubjectName { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Keywords
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Pdf Belge oluşturucu meta veri özelliği
+description: Pdf Belge oluşturucu meta verisi özelliği
 type: docs
 weight: 70
 url: /tr/net/groupdocs.signature.domain/pdfmetadatasignatures/keywords/
 ---
 ## PdfMetadataSignatures.Keywords property
 
-Pdf Belge oluşturucu meta veri özelliği
+Pdf Belge oluşturucu meta verisi özelliği
 
 ```csharp
 public static PdfMetadataSignature Keywords { get; }

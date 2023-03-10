@@ -3,7 +3,7 @@ title: IDataSerializer
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Nesne serileştirme ve seri kaldırma yöntemleri sağlamak için seri hale getirme arabirimi.
 type: docs
-weight: 260
+weight: 280
 url: /tr/net/groupdocs.signature.domain.extensions/idataserializer/
 ---
 ## IDataSerializer interface

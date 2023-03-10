@@ -1,14 +1,14 @@
 ---
 title: SignatureId
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: İmzayı ayırt etmek için benzersiz değer. Önizleme seçeneklerini belirlemek için SignatureIdyi kullanın.
+description: İmzayı ayırt etmek için benzersiz değer. Önizleme seçeneklerini belirlemek için SignatureId kullanın.
 type: docs
 weight: 30
 url: /tr/net/groupdocs.signature.options/previewsignatureoptions/signatureid/
 ---
 ## PreviewSignatureOptions.SignatureId property
 
-İmzayı ayırt etmek için benzersiz değer. Önizleme seçeneklerini belirlemek için SignatureId'yi kullanın.
+İmzayı ayırt etmek için benzersiz değer. Önizleme seçeneklerini belirlemek için SignatureId kullanın.
 
 ```csharp
 public string SignatureId { get; set; }

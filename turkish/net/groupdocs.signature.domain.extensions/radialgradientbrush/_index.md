@@ -3,7 +3,7 @@ title: RadialGradientBrush
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Radyal degrade fırçayı temsil eder.
 type: docs
-weight: 290
+weight: 310
 url: /tr/net/groupdocs.signature.domain.extensions/radialgradientbrush/
 ---
 ## RadialGradientBrush class

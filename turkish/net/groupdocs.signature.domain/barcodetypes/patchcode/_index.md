@@ -3,7 +3,7 @@ title: PatchCode
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Yama Kodu Barkod Türü object.
 type: docs
-weight: 470
+weight: 500
 url: /tr/net/groupdocs.signature.domain/barcodetypes/patchcode/
 ---
 ## BarcodeTypes.PatchCode field

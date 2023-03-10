@@ -1,14 +1,14 @@
 ---
 title: PdfTextAnnotationAppearance
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: PDF metin açıklama nesnesinin Başlık Konu İçerik görünümünü açıklar.
+description: PDF metin açıklama nesnesinin Başlık Konu İçerik görünümünü tanımlar.
 type: docs
-weight: 1150
+weight: 1220
 url: /tr/net/groupdocs.signature.options.appearances/pdftextannotationappearance/
 ---
 ## PdfTextAnnotationAppearance class
 
-PDF metin açıklama nesnesinin (Başlık, Konu, İçerik) görünümünü açıklar.
+PDF metin açıklama nesnesinin (Başlık, Konu, İçerik) görünümünü tanımlar.
 
 ```csharp
 public class PdfTextAnnotationAppearance : SignatureAppearance
@@ -18,20 +18,20 @@ public class PdfTextAnnotationAppearance : SignatureAppearance
 
 | İsim | Tanım |
 | --- | --- |
-| [PdfTextAnnotationAppearance](pdftextannotationappearance#constructor)() | PDF imza metni açıklama görünüm nesnesi oluşturur. |
-| [PdfTextAnnotationAppearance](pdftextannotationappearance#constructor_1)(string, string, string) | Belirtilen değerlerle (başlık, konu, içerik) PDF imza metni ek açıklaması oluşturur. |
+| [PdfTextAnnotationAppearance](pdftextannotationappearance#constructor)() | PDF imza metni ek açıklama görünüm nesnesi oluşturur. |
+| [PdfTextAnnotationAppearance](pdftextannotationappearance#constructor_1)(string, string, string) | Belirtilen değerlerle (başlık, konu, içerik) PDF imza metni notu oluşturur. |
 
 ## Özellikleri
 
 | İsim | Tanım |
 | --- | --- |
-| [Border](../../groupdocs.signature.options.appearances/pdftextannotationappearance/border) { get; set; } | Farklı sınır ayarlarını alır veya ayarlar |
-| [BorderEffect](../../groupdocs.signature.options.appearances/pdftextannotationappearance/bordereffect) { get; set; } | Kenar efektini alır veya ayarlar. |
-| [BorderEffectIntensity](../../groupdocs.signature.options.appearances/pdftextannotationappearance/bordereffectintensity) { get; set; } | Kenar efekti yoğunluğunu alır veya ayarlar. Geçerli değer aralığı: [0,.2]. |
-| [Contents](../../groupdocs.signature.options.appearances/pdftextannotationappearance/contents) { get; set; } | Açıklama nesnesinin içeriğini alır veya ayarlar. |
+| [Border](../../groupdocs.signature.options.appearances/pdftextannotationappearance/border) { get; set; } | Farklı sınır ayarları alır veya ayarlar |
+| [BorderEffect](../../groupdocs.signature.options.appearances/pdftextannotationappearance/bordereffect) { get; set; } | Sınır efektini alır veya ayarlar. |
+| [BorderEffectIntensity](../../groupdocs.signature.options.appearances/pdftextannotationappearance/bordereffectintensity) { get; set; } | Sınır efekti yoğunluğunu alır veya ayarlar. Geçerli değer aralığı: [0..2]. |
+| [Contents](../../groupdocs.signature.options.appearances/pdftextannotationappearance/contents) { get; set; } | Ek açıklama nesnesinin içeriğini alır veya ayarlar. |
 | [HCornerRadius](../../groupdocs.signature.options.appearances/pdftextannotationappearance/hcornerradius) { get; set; } | Yatay köşe yarıçapını alır veya ayarlar. |
 | [Subject](../../groupdocs.signature.options.appearances/pdftextannotationappearance/subject) { get; set; } | Nesnenin açıklamasını temsil eden Konuyu alır veya ayarlar. |
-| [Title](../../groupdocs.signature.options.appearances/pdftextannotationappearance/title) { get; set; } | Açıklama nesnesinin başlık çubuğunda görüntülenecek bir Başlık alır veya ayarlar. |
+| [Title](../../groupdocs.signature.options.appearances/pdftextannotationappearance/title) { get; set; } | Ek açıklama nesnesinin başlık çubuğunda görüntülenecek bir Başlık alır veya ayarlar. |
 | [VCornerRadius](../../groupdocs.signature.options.appearances/pdftextannotationappearance/vcornerradius) { get; set; } | Dikey köşe yarıçapını alır veya ayarlar. |
 
 ### Ayrıca bakınız

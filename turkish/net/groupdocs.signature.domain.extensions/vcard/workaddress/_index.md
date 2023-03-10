@@ -1,14 +1,14 @@
 ---
 title: WorkAddress
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: İş Adresi özelliklerini alır veya ayarlar. Bu özellik varsayılan olarak başlatılmadı.
+description: İş Adresi özelliklerini alır veya ayarlar. Bu özellik varsayılan olarak başlatılmamış.
 type: docs
 weight: 140
 url: /tr/net/groupdocs.signature.domain.extensions/vcard/workaddress/
 ---
 ## VCard.WorkAddress property
 
-İş Adresi özelliklerini alır veya ayarlar. Bu özellik varsayılan olarak başlatılmadı.
+İş Adresi özelliklerini alır veya ayarlar. Bu özellik varsayılan olarak başlatılmamış.
 
 ```csharp
 public Address WorkAddress { get; set; }

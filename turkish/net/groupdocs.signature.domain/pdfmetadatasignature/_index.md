@@ -3,7 +3,7 @@ title: PdfMetadataSignature
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Pdf Meta veri imza özelliklerini içerir.
 type: docs
-weight: 650
+weight: 680
 url: /tr/net/groupdocs.signature.domain/pdfmetadatasignature/
 ---
 ## PdfMetadataSignature class
@@ -39,6 +39,7 @@ public sealed class PdfMetadataSignature : MetadataSignature
 | [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | İmza türünü belirtir. |
 | [TagPrefix](../../groupdocs.signature.domain/pdfmetadatasignature/tagprefix) { get; set; } | Pdf Meta veri imza adının önek etiketi. Varsayılan olarak bu özellik "xmp" olarak ayarlanmıştır. Olası değerler: |
 | [Top](../../groupdocs.signature.domain/basesignature/top) { get; set; } | İmzanın en üst konumunu belirtir. |
+| [Type](../../groupdocs.signature.domain/metadatasignature/type) { get; } | Meta veri değeri türünü belirtir. |
 | [Value](../../groupdocs.signature.domain/metadatasignature/value) { get; set; } | Meta veri nesnesini belirtir. |
 | [Width](../../groupdocs.signature.domain/basesignature/width) { get; set; } | İmza genişliğini belirtir. |
 

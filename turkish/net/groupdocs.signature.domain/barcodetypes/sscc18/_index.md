@@ -3,7 +3,7 @@ title: SSCC18
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: SSCC18 Barkod Türü nesnesi.
 type: docs
-weight: 560
+weight: 590
 url: /tr/net/groupdocs.signature.domain/barcodetypes/sscc18/
 ---
 ## BarcodeTypes.SSCC18 field

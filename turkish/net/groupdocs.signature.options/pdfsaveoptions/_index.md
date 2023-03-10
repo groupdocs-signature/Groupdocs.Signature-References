@@ -1,14 +1,14 @@
 ---
 title: PdfSaveOptions
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: PDF belgeleri için seçenekleri kaydedin.
+description: PDF belgeleri için kaydetme seçenekleri.
 type: docs
-weight: 1430
+weight: 1510
 url: /tr/net/groupdocs.signature.options/pdfsaveoptions/
 ---
 ## PdfSaveOptions class
 
-PDF belgeleri için seçenekleri kaydedin.
+PDF belgeleri için kaydetme seçenekleri.
 
 ```csharp
 public class PdfSaveOptions : SaveOptions
@@ -18,7 +18,7 @@ public class PdfSaveOptions : SaveOptions
 
 | İsim | Tanım |
 | --- | --- |
-| [PdfSaveOptions](pdfsaveoptions#constructor)() | Varsayılan değerlerle yeni bir PdfSaveOptions sınıfı örneğini başlatır. |
+| [PdfSaveOptions](pdfsaveoptions#constructor)() | Varsayılan değerlerle PdfSaveOptions sınıfının yeni bir örneğini başlatır. |
 | [PdfSaveOptions](pdfsaveoptions#constructor_1)(bool) | Üzerine yazma bayrağıyla PdfSaveOptions sınıfının yeni bir örneğini başlatır. |
 | [PdfSaveOptions](pdfsaveoptions#constructor_2)(PdfSaveFileFormat) | Belirtilen çıktı dosyası biçimiyle PdfSaveOptions sınıfının yeni bir örneğini başlatır. |
 | [PdfSaveOptions](pdfsaveoptions#constructor_3)(PdfSaveFileFormat, bool) | Belirtilen çıktı dosyası biçimi ve üzerine yazma bayrağıyla PdfSaveOptions sınıfının yeni bir örneğini başlatır. |

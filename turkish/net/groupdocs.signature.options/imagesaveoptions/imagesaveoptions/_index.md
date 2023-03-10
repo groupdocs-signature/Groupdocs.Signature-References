@@ -1,14 +1,14 @@
 ---
 title: ImageSaveOptions
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Varsayılan değerlerle ImagesSaveOptions sınıfının yeni bir örneğini başlatır.
+description: Varsayılan değerlerle yeni bir ImagesSaveOptions sınıfı örneğini başlatır.
 type: docs
 weight: 10
 url: /tr/net/groupdocs.signature.options/imagesaveoptions/imagesaveoptions/
 ---
 ## ImageSaveOptions() {#constructor}
 
-Varsayılan değerlerle ImagesSaveOptions sınıfının yeni bir örneğini başlatır.
+Varsayılan değerlerle yeni bir ImagesSaveOptions sınıfı örneğini başlatır.
 
 ```csharp
 public ImageSaveOptions()
@@ -24,7 +24,7 @@ public ImageSaveOptions()
 
 ## ImageSaveOptions(bool) {#constructor_1}
 
-Üzerine yazma bayrağıyla ImagesSaveOptions sınıfının yeni bir örneğini başlatır.
+Üzerine yazma bayrağıyla yeni bir ImagesSaveOptions sınıfı örneği başlatır.
 
 ```csharp
 public ImageSaveOptions(bool overwriteExistingFile)
@@ -32,7 +32,7 @@ public ImageSaveOptions(bool overwriteExistingFile)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| overwriteExistingFile | Boolean | Aynı dosya ile imzalanmış dosyanın üzerine yazıp yazılmayacağını işaretleyin. |
+| overwriteExistingFile | Boolean | İmzalı dosyanın üzerine aynı dosyanın yazıp yazmayacağını işaretleyin. |
 
 ### Ayrıca bakınız
 
@@ -44,7 +44,7 @@ public ImageSaveOptions(bool overwriteExistingFile)
 
 ## ImageSaveOptions(ImageSaveFileFormat, bool) {#constructor_2}
 
-Belirtilen çıktı türü ve üzerine yazma bayrağıyla ImagesSaveOptions sınıfının yeni bir örneğini başlatır.
+Belirtilen çıktı türü ve üzerine yazma bayrağıyla yeni bir ImagesSaveOptions sınıfı örneğini başlatır.
 
 ```csharp
 public ImageSaveOptions(ImageSaveFileFormat fileFormat, bool overwriteExistingFile)
@@ -53,7 +53,7 @@ public ImageSaveOptions(ImageSaveFileFormat fileFormat, bool overwriteExistingFi
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
 | fileFormat | ImageSaveFileFormat | Çıktı dosyası türü[`ImageSaveFileFormat`](../../../groupdocs.signature.domain/imagesavefileformat). |
-| overwriteExistingFile | Boolean | Aynı dosya ile imzalanmış dosyanın üzerine yazıp yazılmayacağını işaretleyin. |
+| overwriteExistingFile | Boolean | İmzalı dosyanın üzerine aynı dosyanın yazıp yazmayacağını işaretleyin. |
 
 ### Ayrıca bakınız
 

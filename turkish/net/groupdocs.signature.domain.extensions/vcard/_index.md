@@ -1,14 +1,14 @@
 ---
 title: VCard
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Elektronik Kartvizit standart iletişim ayrıntılarını temsil eder.
+description: Elektronik Kartvizit standart iletişim bilgilerini temsil eder.
 type: docs
-weight: 400
+weight: 420
 url: /tr/net/groupdocs.signature.domain.extensions/vcard/
 ---
 ## VCard class
 
-Elektronik Kartvizit standart iletişim ayrıntılarını temsil eder.
+Elektronik Kartvizit standart iletişim bilgilerini temsil eder.
 
 ```csharp
 public class VCard
@@ -26,17 +26,17 @@ public class VCard
 | --- | --- |
 | [BirthDay](../../groupdocs.signature.domain.extensions/vcard/birthday) { get; set; } | Kişi doğum gününü alır veya ayarlar. |
 | [CellPhone](../../groupdocs.signature.domain.extensions/vcard/cellphone) { get; set; } | Cep telefonu numarasını alır veya ayarlar. |
-| [Company](../../groupdocs.signature.domain.extensions/vcard/company) { get; set; } | İlgili kişiyi alır veya ayarlar. |
+| [Company](../../groupdocs.signature.domain.extensions/vcard/company) { get; set; } | Kişi Şirketini alır veya ayarlar. |
 | [Email](../../groupdocs.signature.domain.extensions/vcard/email) { get; set; } | İletişim e-postasını alır veya ayarlar. |
 | [FirstName](../../groupdocs.signature.domain.extensions/vcard/firstname) { get; set; } | Kişi Adını alır veya ayarlar. |
 | [HomeAddress](../../groupdocs.signature.domain.extensions/vcard/homeaddress) { get; set; } | Ev Adresi özelliklerini alır veya ayarlar. Bu özellik varsayılan olarak başlatılmamış. |
-| [HomePhone](../../groupdocs.signature.domain.extensions/vcard/homephone) { get; set; } | Ev telefon numarasını alır veya ayarlar. |
+| [HomePhone](../../groupdocs.signature.domain.extensions/vcard/homephone) { get; set; } | Ev telefonu numarasını alır veya ayarlar. |
 | [Initials](../../groupdocs.signature.domain.extensions/vcard/initials) { get; set; } | Kişi baş harflerini alır veya ayarlar. |
 | [JobTitle](../../groupdocs.signature.domain.extensions/vcard/jobtitle) { get; set; } | Kişi İş Unvanını alır veya ayarlar. |
-| [LastName](../../groupdocs.signature.domain.extensions/vcard/lastname) { get; set; } | Kişi Soyadı'nı alır veya ayarlar. |
-| [MidddleName](../../groupdocs.signature.domain.extensions/vcard/midddlename) { get; set; } | Kişi Orta Adını alır veya ayarlar. |
+| [LastName](../../groupdocs.signature.domain.extensions/vcard/lastname) { get; set; } | Kişinin Soyadı'nı alır veya ayarlar. |
+| [MidddleName](../../groupdocs.signature.domain.extensions/vcard/midddlename) { get; set; } | Kişinin Orta Adını alır veya ayarlar. |
 | [Url](../../groupdocs.signature.domain.extensions/vcard/url) { get; set; } | Kişi URL'sini alır veya ayarlar. |
-| [WorkAddress](../../groupdocs.signature.domain.extensions/vcard/workaddress) { get; set; } | İş Adresi özelliklerini alır veya ayarlar. Bu özellik varsayılan olarak başlatılmadı. |
+| [WorkAddress](../../groupdocs.signature.domain.extensions/vcard/workaddress) { get; set; } | İş Adresi özelliklerini alır veya ayarlar. Bu özellik varsayılan olarak başlatılmamış. |
 | [WorkPhone](../../groupdocs.signature.domain.extensions/vcard/workphone) { get; set; } | İş telefon numarasını alır veya ayarlar. |
 
 ## yöntemler

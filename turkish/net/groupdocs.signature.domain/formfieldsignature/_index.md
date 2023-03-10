@@ -3,7 +3,7 @@ title: FormFieldSignature
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Form alanı imza özelliklerini içerir.
 type: docs
-weight: 440
+weight: 460
 url: /tr/net/groupdocs.signature.domain/formfieldsignature/
 ---
 ## FormFieldSignature class
@@ -37,7 +37,7 @@ public abstract class FormFieldSignature : BaseSignature
 
 | İsim | Tanım |
 | --- | --- |
-| override [Clone](../../groupdocs.signature.domain/formfieldsignature/clone)() | FormField Signature örneğini klonlayın. |
+| override [Clone](../../groupdocs.signature.domain/formfieldsignature/clone)() | FormField Signature örneğini Klonla. |
 | override [Equals](../../groupdocs.signature.domain/formfieldsignature/equals)(object) | İmza özelliklerini karşılaştırmak için Equals yönteminin üzerine yazar |
 | override [GetHashCode](../../groupdocs.signature.domain/formfieldsignature/gethashcode)() | GetHashCode yöntemini geçersiz kılar |
 

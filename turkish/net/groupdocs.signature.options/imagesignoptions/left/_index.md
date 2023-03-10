@@ -1,14 +1,14 @@
 ---
 title: Left
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Ölçü değerleri de Belge Sayfasında İmzanın Sol X konumu piksel yüzde veya milimetre bkz.MeasureTypegroupdocs.signature.domain/measuretype LocationMeasureType. yatay hizalama belirtilmemişse çalışır.
+description: Ölçü değerlerinde Belge Sayfasında İmzanın Sol X konumu piksel yüzde veya milimetre bkz.MeasureTypegroupdocs.signature.domain/measuretype LocationMeasureType. yatay hizalama belirtilmemişse çalışır.
 type: docs
 weight: 90
 url: /tr/net/groupdocs.signature.options/imagesignoptions/left/
 ---
 ## ImageSignOptions.Left property
 
-Ölçü değerleri 'de Belge Sayfasında İmzanın Sol X konumu (piksel, yüzde veya milimetre bkz.[`MeasureType`](../../../groupdocs.signature.domain/measuretype) LocationMeasureType). (yatay hizalama belirtilmemişse çalışır).
+Ölçü değerlerinde Belge Sayfasında İmzanın Sol X konumu (piksel, yüzde veya milimetre bkz.[`MeasureType`](../../../groupdocs.signature.domain/measuretype) LocationMeasureType). (yatay hizalama belirtilmemişse çalışır).
 
 ```csharp
 public virtual int Left { get; set; }

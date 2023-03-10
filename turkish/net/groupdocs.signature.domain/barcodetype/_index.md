@@ -26,8 +26,8 @@ public sealed class BarcodeType : IEquatable<BarcodeType>
 | İsim | Tanım |
 | --- | --- |
 | [Equals](../../groupdocs.signature.domain/barcodetype/equals#equals)(BarcodeType) | Belirtilen BarcodeType'ın geçerli nesneye eşit olup olmadığını belirler. |
-| override [Equals](../../groupdocs.signature.domain/barcodetype/equals#equals_1)(object) | Geçersiz kılınan yöntem, belirtilen System.Object öğesinin geçerli System.Object. değerine eşit olup olmadığını belirler. |
-| override [GetHashCode](../../groupdocs.signature.domain/barcodetype/gethashcode)() | Geçersiz kılınan yöntem, belirli bir tür için karma işlevi işlevi görür. |
+| override [Equals](../../groupdocs.signature.domain/barcodetype/equals#equals_1)(object) | Geçersiz kılma yöntemi, belirtilen System.Object öğesinin geçerli System.Object. değerine eşit olup olmadığını belirler. |
+| override [GetHashCode](../../groupdocs.signature.domain/barcodetype/gethashcode)() | Geçersiz kılınan yöntem, belirli bir tür için bir karma işlev işlevi görür. |
 
 ### Ayrıca bakınız
 

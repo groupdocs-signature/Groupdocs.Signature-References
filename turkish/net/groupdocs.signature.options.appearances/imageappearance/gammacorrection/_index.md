@@ -1,14 +1,14 @@
 ---
 title: GammaCorrection
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Görüntü gamasını alır veya ayarlar. Varsayılan değer 1dir ve görüntünün orijinal gamasına karşılık gelir.
+description: Görüntü gammasını alır veya ayarlar. Varsayılan değer 1dir görüntünün orijinal gammasına karşılık gelir.
 type: docs
 weight: 40
 url: /tr/net/groupdocs.signature.options.appearances/imageappearance/gammacorrection/
 ---
 ## ImageAppearance.GammaCorrection property
 
-Görüntü gamasını alır veya ayarlar. Varsayılan değer 1'dir ve görüntünün orijinal gamasına karşılık gelir.
+Görüntü gammasını alır veya ayarlar. Varsayılan değer 1'dir, görüntünün orijinal gammasına karşılık gelir.
 
 ```csharp
 public float GammaCorrection { get; set; }

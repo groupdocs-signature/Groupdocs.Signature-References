@@ -1,14 +1,14 @@
 ---
 title: ShowDeletedSignaturesInfo
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Silinen imzaları içeren bayrağı Belge Bilgileri sonucuna getirir veya ayarlar. Her İmzaBaseSignaturegroupdocs.signature.domain/basesignature Silinmiş bayrağı varDeletedgroupdocs.signature.domain/basesignature/deleted silinip silinmediğini tespit etmek için.
+description: Belge Bilgileri sonucuna silinen imzaları içeren işareti alır veya ayarlar. Her İmzaBaseSignaturegroupdocs.signature.domain/basesignature Silinmiş bayrağı varDeletedgroupdocs.signature.domain/basesignature/deleted silinip silinmediğini tespit etmek için.
 type: docs
-weight: 50
+weight: 80
 url: /tr/net/groupdocs.signature/signaturesettings/showdeletedsignaturesinfo/
 ---
 ## SignatureSettings.ShowDeletedSignaturesInfo property
 
-Silinen imzaları içeren bayrağı Belge Bilgileri sonucuna getirir veya ayarlar. Her İmza[`BaseSignature`](../../../groupdocs.signature.domain/basesignature) Silinmiş bayrağı var[`Deleted`](../../../groupdocs.signature.domain/basesignature/deleted) silinip silinmediğini tespit etmek için.
+Belge Bilgileri sonucuna silinen imzaları içeren işareti alır veya ayarlar. Her İmza[`BaseSignature`](../../../groupdocs.signature.domain/basesignature) Silinmiş bayrağı var[`Deleted`](../../../groupdocs.signature.domain/basesignature/deleted) silinip silinmediğini tespit etmek için.
 
 ```csharp
 public bool ShowDeletedSignaturesInfo { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Aranıp eşleşmesi gerekiyorsa Meta Veri İmza adını belirtir.
+description: Aranması ve eşleşmesi gerekiyorsa Meta Veri İmzası adını belirtir.
 type: docs
 weight: 40
 url: /tr/net/groupdocs.signature.options/metadatasearchoptions/name/
 ---
 ## MetadataSearchOptions.Name property
 
-Aranıp eşleşmesi gerekiyorsa Meta Veri İmza adını belirtir.
+Aranması ve eşleşmesi gerekiyorsa Meta Veri İmzası adını belirtir.
 
 ```csharp
 public string Name { get; set; }

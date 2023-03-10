@@ -3,7 +3,7 @@ title: ITransparency
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Farklı nesneler için Saydamlık özelliğini tanımlayın views
 type: docs
-weight: 540
+weight: 560
 url: /tr/net/groupdocs.signature.domain/itransparency/
 ---
 ## ITransparency interface

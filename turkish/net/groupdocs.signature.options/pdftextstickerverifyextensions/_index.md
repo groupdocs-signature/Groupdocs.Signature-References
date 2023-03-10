@@ -3,7 +3,7 @@ title: PdfTextStickerVerifyExtensions
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: PDF çıkartma nesnesinin doğrulama uzantılarını açıklar.
 type: docs
-weight: 1450
+weight: 1530
 url: /tr/net/groupdocs.signature.options/pdftextstickerverifyextensions/
 ---
 ## PdfTextStickerVerifyExtensions class

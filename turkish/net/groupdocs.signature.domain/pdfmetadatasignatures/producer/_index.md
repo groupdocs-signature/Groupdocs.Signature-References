@@ -1,14 +1,14 @@
 ---
 title: Producer
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Pdf Document Producer meta veri özelliği.
+description: Pdf Belge Üreticisi meta veri özelliği.
 type: docs
 weight: 100
 url: /tr/net/groupdocs.signature.domain/pdfmetadatasignatures/producer/
 ---
 ## PdfMetadataSignatures.Producer property
 
-Pdf Document Producer meta veri özelliği.
+Pdf Belge Üreticisi meta veri özelliği.
 
 ```csharp
 public static PdfMetadataSignature Producer { get; }

@@ -26,8 +26,8 @@ public bool Update(BaseSignature signature)
 
 **Daha fazla bilgi edin**
 
-* GroupDocs kullanılarak mevcut elektronik imza özelliklerinin nasıl güncelleneceği hakkında daha fazla bilgi.İmza: [C#'ta belge e-imzaları nasıl güncellenir?](https://docs.groupdocs.com/display/signaturenet/Update+signatures+in+documents)
-* İmza türüne bağlı olarak belge elektronik imzalarını güncellemenin daha gelişmiş kullanım durumları: [GroupDocs.Signature ile elektronik imza güncellemelerinin gelişmiş kullanım durumları](https://docs.groupdocs.com/display/signaturenet/Updating)
+* GroupDocs.Signature kullanılarak mevcut elektronik imza özelliklerinin nasıl güncelleneceği hakkında daha fazla bilgi: [C# dilinde belge e-imzaları nasıl güncellenir?](https://docs.groupdocs.com/display/signaturenet/Update+signatures+in+documents)
+* İmza türüne bağlı olarak belge elektronik imzalarını güncellemenin daha gelişmiş kullanım örnekleri: [GroupDocs.Signature ile güncellenen elektronik imzaların gelişmiş kullanım örnekleri](https://docs.groupdocs.com/display/signaturenet/Updating)
 
 ### Ayrıca bakınız
 
@@ -52,14 +52,14 @@ public UpdateResult Update(List<BaseSignature> signatures)
 
 ### Geri dönüş değeri
 
-UpdateResult döndürür[`UpdateResult`](../../../groupdocs.signature.domain/updateresult) başarıyla güncellenen imzaların ve başarısız olanların listesiyle.
+UpdateResult'u döndürür[`UpdateResult`](../../../groupdocs.signature.domain/updateresult) başarıyla güncellenen imzaların ve başarısız olanların listesiyle.
 
 ### Notlar
 
 **Daha fazla bilgi edin**
 
-* GroupDocs kullanılarak mevcut elektronik imza özelliklerinin nasıl güncelleneceği hakkında daha fazla bilgi.İmza: [C#'ta belge e-imzaları nasıl güncellenir?](https://docs.groupdocs.com/display/signaturenet/Update+signatures+in+documents)
-* İmza türüne bağlı olarak belge elektronik imzalarını güncellemenin daha gelişmiş kullanım durumları: [GroupDocs.Signature ile elektronik imza güncellemelerinin gelişmiş kullanım durumları](https://docs.groupdocs.com/display/signaturenet/Updating)
+* GroupDocs.Signature kullanılarak mevcut elektronik imza özelliklerinin nasıl güncelleneceği hakkında daha fazla bilgi: [C# dilinde belge e-imzaları nasıl güncellenir?](https://docs.groupdocs.com/display/signaturenet/Update+signatures+in+documents)
+* İmza türüne bağlı olarak belge elektronik imzalarını güncellemenin daha gelişmiş kullanım örnekleri: [GroupDocs.Signature ile güncellenen elektronik imzaların gelişmiş kullanım örnekleri](https://docs.groupdocs.com/display/signaturenet/Updating)
 
 ### Ayrıca bakınız
 

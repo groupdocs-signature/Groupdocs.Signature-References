@@ -1,14 +1,14 @@
 ---
 title: FormTextFieldType
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: İçine metin imzası koymak için form alanının türünü alır veya ayarlar. Bu özellik yalnızca SignatureImplementation ile kullanılabilir  TextToFormField. Değer varsayılan olarak AllTextTypes.
+description: Metin imzası koymak için form alanının türünü alır veya ayarlar. Bu özellik yalnızca SignatureImplementation  TextToFormField. ile kullanılabilir. Varsayılan değer AllTextTypes. dir.
 type: docs
 weight: 70
 url: /tr/net/groupdocs.signature.options/textsignoptions/formtextfieldtype/
 ---
 ## TextSignOptions.FormTextFieldType property
 
-İçine metin imzası koymak için form alanının türünü alır veya ayarlar. Bu özellik yalnızca SignatureImplementation ile kullanılabilir = TextToFormField. Değer varsayılan olarak AllTextTypes.
+Metin imzası koymak için form alanının türünü alır veya ayarlar. Bu özellik yalnızca SignatureImplementation = TextToFormField. ile kullanılabilir. Varsayılan değer AllTextTypes. 'dir.
 
 ```csharp
 public FormTextFieldType FormTextFieldType { get; set; }

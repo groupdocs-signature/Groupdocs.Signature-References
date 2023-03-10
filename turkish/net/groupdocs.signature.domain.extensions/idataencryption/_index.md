@@ -3,7 +3,7 @@ title: IDataEncryption
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Nesne kodlama ve kod çözme yöntemleri sağlamak için şifreleme arabirimi.
 type: docs
-weight: 250
+weight: 270
 url: /tr/net/groupdocs.signature.domain.extensions/idataencryption/
 ---
 ## IDataEncryption interface

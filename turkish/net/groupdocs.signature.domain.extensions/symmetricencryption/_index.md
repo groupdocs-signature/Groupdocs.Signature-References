@@ -3,7 +3,7 @@ title: SymmetricEncryption
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Tek anahtar ve parola salt ile veri şifreleme için standart simetrik algoritmalar uygular.
 type: docs
-weight: 360
+weight: 380
 url: /tr/net/groupdocs.signature.domain.extensions/symmetricencryption/
 ---
 ## SymmetricEncryption class

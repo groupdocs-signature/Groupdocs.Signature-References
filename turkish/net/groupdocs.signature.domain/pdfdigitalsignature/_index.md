@@ -3,7 +3,7 @@ title: PdfDigitalSignature
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Pdf Dijital imza özelliklerini içerir.
 type: docs
-weight: 630
+weight: 660
 url: /tr/net/groupdocs.signature.domain/pdfdigitalsignature/
 ---
 ## PdfDigitalSignature class

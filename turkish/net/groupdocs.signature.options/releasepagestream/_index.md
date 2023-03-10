@@ -3,7 +3,7 @@ title: ReleasePageStream
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Çıktı sayfası önizleme akışını yayınlama yöntemini tanımlayan temsilci.
 type: docs
-weight: 1570
+weight: 1650
 url: /tr/net/groupdocs.signature.options/releasepagestream/
 ---
 ## ReleasePageStream delegate
@@ -17,7 +17,7 @@ public delegate void ReleasePageStream(int pageNumber, Stream pageStream);
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
 | pageNumber | Int32 | Önizlenen sayfa sayısı. |
-| pageStream | Stream | Yayınlanacak sayfa akışı. |
+| pageStream | Stream | Serbest bırakılacak sayfa akışı. |
 
 ### Ayrıca bakınız
 

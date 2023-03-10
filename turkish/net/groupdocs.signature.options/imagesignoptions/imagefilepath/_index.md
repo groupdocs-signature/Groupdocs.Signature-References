@@ -1,14 +1,14 @@
 ---
 title: ImageFilePath
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: İmza resim dosyası yolunu alır veya ayarlar. Bu özellik yalnızca ImageStream belirtilmemişse kullanılır.
+description: İmza görüntü dosyası yolunu alır veya ayarlar. Bu özellik yalnızca ImageStream belirtilmemişse kullanılır.
 type: docs
 weight: 70
 url: /tr/net/groupdocs.signature.options/imagesignoptions/imagefilepath/
 ---
 ## ImageSignOptions.ImageFilePath property
 
-İmza resim dosyası yolunu alır veya ayarlar. Bu özellik yalnızca ImageStream belirtilmemişse kullanılır.
+İmza görüntü dosyası yolunu alır veya ayarlar. Bu özellik yalnızca ImageStream belirtilmemişse kullanılır.
 
 ```csharp
 public string ImageFilePath { get; set; }

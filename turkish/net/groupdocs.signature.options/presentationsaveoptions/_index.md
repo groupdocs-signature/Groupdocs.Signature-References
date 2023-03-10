@@ -3,7 +3,7 @@ title: PresentationSaveOptions
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Sunum belgeleri için kaydetme seçenekleri.
 type: docs
-weight: 1490
+weight: 1570
 url: /tr/net/groupdocs.signature.options/presentationsaveoptions/
 ---
 ## PresentationSaveOptions class

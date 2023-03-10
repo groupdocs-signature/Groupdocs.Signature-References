@@ -1,14 +1,14 @@
 ---
 title: PresentationMetadataSignature
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Önceden tanımlanmış ad ve boş değer ile Sunum Meta Veri İmzası oluşturur
+description: Önceden tanımlanmış ad ve boş değerle Sunum Meta Veri İmzası oluşturur
 type: docs
 weight: 10
 url: /tr/net/groupdocs.signature.domain/presentationmetadatasignature/presentationmetadatasignature/
 ---
 ## PresentationMetadataSignature(string) {#constructor}
 
-Önceden tanımlanmış ad ve boş değer ile Sunum Meta Veri İmzası oluşturur
+Önceden tanımlanmış ad ve boş değerle Sunum Meta Veri İmzası oluşturur
 
 ```csharp
 public PresentationMetadataSignature(string name)
@@ -16,7 +16,7 @@ public PresentationMetadataSignature(string name)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| name | String | Sunum Meta Veri İmza adı |
+| name | String | Sunum Meta Verileri İmza adı |
 
 ### Ayrıca bakınız
 

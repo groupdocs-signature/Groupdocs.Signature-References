@@ -3,7 +3,7 @@ title: DigitalFormFieldSignature
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Pdf Belgeleri için dijital imza giriş formu alanı özelliklerini içerir.
 type: docs
-weight: 130
+weight: 140
 url: /tr/net/groupdocs.signature.domain/digitalformfieldsignature/
 ---
 ## DigitalFormFieldSignature class
@@ -44,7 +44,7 @@ public sealed class DigitalFormFieldSignature : FormFieldSignature
 
 | İsim | Tanım |
 | --- | --- |
-| override [Clone](../../groupdocs.signature.domain/digitalformfieldsignature/clone)() | FormField Signature örneğini klonlayın. |
+| override [Clone](../../groupdocs.signature.domain/digitalformfieldsignature/clone)() | FormField Signature örneğini Klonla. |
 | override [Equals](../../groupdocs.signature.domain/digitalformfieldsignature/equals)(object) | İmza özelliklerini karşılaştırmak için Equals yönteminin üzerine yazar |
 | override [GetHashCode](../../groupdocs.signature.domain/digitalformfieldsignature/gethashcode)() | GetHashCode yöntemini geçersiz kılar |
 

@@ -1,14 +1,14 @@
 ---
 title: ProcessStartEventHandler
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: İmzalama doğrulama ve arama için başlatma olaylarındaki süreçleri işleyecek bir yöntem temsilcisini temsil eder.
+description: İmzalama doğrulama ve arama için başlangıç olaylarındaki süreçleri işleyecek bir yöntem temsilcisini temsil eder.
 type: docs
-weight: 1790
+weight: 1870
 url: /tr/net/groupdocs.signature/processstarteventhandler/
 ---
 ## ProcessStartEventHandler delegate
 
-İmzalama, doğrulama ve arama için başlatma olaylarındaki süreçleri işleyecek bir yöntem temsilcisini temsil eder.
+İmzalama, doğrulama ve arama için başlangıç olaylarındaki süreçleri işleyecek bir yöntem temsilcisini temsil eder.
 
 ```csharp
 public delegate void ProcessStartEventHandler(Signature signature, ProcessStartEventArgs args);

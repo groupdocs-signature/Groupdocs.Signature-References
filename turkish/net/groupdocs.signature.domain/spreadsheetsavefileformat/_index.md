@@ -3,7 +3,7 @@ title: SpreadsheetSaveFileFormat
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Elektronik Tablo belgeleri için farklı kaydetme biçimleri tanımlar.
 type: docs
-weight: 850
+weight: 880
 url: /tr/net/groupdocs.signature.domain/spreadsheetsavefileformat/
 ---
 ## SpreadsheetSaveFileFormat enumeration
@@ -18,19 +18,19 @@ public enum SpreadsheetSaveFileFormat
 
 | İsim | Değer | Tanım |
 | --- | --- | --- |
-| Default | `0` | Dosya formatı değiştirilmeyecektir. |
+| Default | `0` | Dosya formatı değiştirilmeyecek. |
 | CSV | `1` | Belgeyi virgülle ayrılmış değer dosyası olarak kaydeder. |
 | Excel97To2003 | `5` | Belgeyi Microsoft Excel 97-2003 çalışma kitabı (.xls) olarak kaydeder. |
 | Xlsx | `6` | Belgeyi bir Microsoft Excel OpenXML çalışma kitabına kaydeder. |
-| Xlsm | `7` | Belgeyi Microsoft Excel makro etkin çalışma kitabı olarak kaydeder. |
+| Xlsm | `7` | Belgeyi Microsoft Excel makro özellikli çalışma kitabı olarak kaydeder. |
 | Xltx | `8` | Belgeyi Microsoft Excel şablonu olarak kaydeder. |
-| Xltm | `9` | Belgeyi Microsoft Excel makro etkin şablon olarak kaydeder. |
+| Xltm | `9` | Belgeyi Microsoft Excel makro özellikli şablon olarak kaydeder. |
 | Xlam | `10` | Belgeyi Microsoft Excel makro etkin eklenti olarak kaydeder. |
 | Pdf | `13` | Belgeyi bir PDF dosyası olarak kaydeder. |
 | ODS | `14` | Belgeyi Open Office çalışma kitabı olarak kaydeder. |
 | Xlsb | `16` | Belgeyi Microsoft Excel İkili çalışma kitabı olarak kaydeder. |
 | XPS | `20` | Belgeyi XML Kağıt Belirtim Dosyası olarak kaydeder. |
-| TIFF | `21` | Belgeyi Etiketli Görüntü Dosyası Formatında kaydeder. |
+| TIFF | `21` | Belgeyi Etiketli Görüntü Dosyası Biçiminde kaydeder. |
 | SVG | `22` | Belgeyi Ölçeklenebilir Vektör Grafikleri dosyası olarak kaydeder. |
 | Dif | `30` | Belgeyi Veri Değişim Formatında kaydeder. |
 | Emf | `31` | Belgeyi Windows Gelişmiş Meta Dosyası biçiminde kaydeder. |

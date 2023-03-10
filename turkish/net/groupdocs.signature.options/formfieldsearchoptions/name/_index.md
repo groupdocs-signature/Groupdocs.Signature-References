@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Aranması gerekiyorsa form alanı imza adının normal ifade modelini belirtir. metin olarak basit veya abcd gibi normal ifadeler olarak kullanabilirsiniz. Varsayılan değer boş dizedir.
+description: Aranması gerekiyorsa form alanı imza adının normal ifade modelini belirtir. Basit olarak metin veya abcd gibi normal ifade olarak kullanabilirsiniz. Varsayılan değer boş string.
 type: docs
 weight: 20
 url: /tr/net/groupdocs.signature.options/formfieldsearchoptions/name/
 ---
 ## FormFieldSearchOptions.Name property
 
-Aranması gerekiyorsa, form alanı imza adının normal ifade modelini belirtir. "metin" olarak basit veya "abc\d+" gibi normal ifadeler olarak kullanabilirsiniz. Varsayılan değer boş dizedir.
+Aranması gerekiyorsa, form alanı imza adının normal ifade modelini belirtir. Basit olarak "metin" veya "abc\d+" gibi normal ifade olarak kullanabilirsiniz. Varsayılan değer boş string.
 
 ```csharp
 public string Name { get; set; }

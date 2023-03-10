@@ -1,14 +1,14 @@
 ---
 title: ReturnContentType
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: ReturnContent özelliği etkinleştirildiğinde görüntü imzasının döndürülen içeriğinin dosya türünü belirtir. Varsayılan olarak Null olarak ayarlanmıştır. Bu görüntü içeriğini orijinal biçimde döndürmek anlamına gelir. Bu resim formatı şu adreste belirtilmiştirFormatgroupdocs.signature.domain/imagesignature/format Desteklenen olası değerler şunlardır FileType.JPEG FileType.PNG FileType.BMP. Sağlanan biçim desteklenmiyorsa orijinal biçimdeki resim içeriği döndürülecektir.
+description: ReturnContent özelliği etkinleştirildiğinde görüntü imzasının döndürülen içeriğinin dosya türünü belirtir. Varsayılan olarak Null olarak ayarlanmıştır. Bu görüntü içeriğini orijinal biçimde döndürmek anlamına gelir. Bu resim formatı şu adreste belirtilmiştirFormatgroupdocs.signature.domain/imagesignature/format Desteklenen olası değerler şunlardır FileType.JPEG FileType.PNG FileType.BMP. Sağlanan biçim desteklenmiyorsa resim içeriği orijinal biçimde döndürülür.
 type: docs
 weight: 50
 url: /tr/net/groupdocs.signature.options/imagesearchoptions/returncontenttype/
 ---
 ## ImageSearchOptions.ReturnContentType property
 
-ReturnContent özelliği etkinleştirildiğinde görüntü imzasının döndürülen içeriğinin dosya türünü belirtir. Varsayılan olarak Null olarak ayarlanmıştır. Bu, görüntü içeriğini orijinal biçimde döndürmek anlamına gelir. Bu resim formatı şu adreste belirtilmiştir:[`Format`](../../../groupdocs.signature.domain/imagesignature/format) Desteklenen olası değerler şunlardır: FileType.JPEG, FileType.PNG, FileType.BMP. Sağlanan biçim desteklenmiyorsa, orijinal biçimdeki resim içeriği döndürülecektir.
+ReturnContent özelliği etkinleştirildiğinde görüntü imzasının döndürülen içeriğinin dosya türünü belirtir. Varsayılan olarak Null olarak ayarlanmıştır. Bu, görüntü içeriğini orijinal biçimde döndürmek anlamına gelir. Bu resim formatı şu adreste belirtilmiştir:[`Format`](../../../groupdocs.signature.domain/imagesignature/format) Desteklenen olası değerler şunlardır: FileType.JPEG, FileType.PNG, FileType.BMP. Sağlanan biçim desteklenmiyorsa, resim içeriği orijinal biçimde döndürülür.
 
 ```csharp
 public FileType ReturnContentType { get; set; }

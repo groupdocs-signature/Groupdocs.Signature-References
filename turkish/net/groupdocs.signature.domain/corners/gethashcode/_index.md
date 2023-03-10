@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Benzersiz karma kod değeri elde etmeyi geçersiz kılar
+description: Benzersiz karma kod value elde edilmesini geçersiz kılar
 type: docs
 weight: 100
 url: /tr/net/groupdocs.signature.domain/corners/gethashcode/
 ---
 ## Corners.GetHashCode method
 
-Benzersiz karma kod değeri elde etmeyi geçersiz kılar
+Benzersiz karma kod value elde edilmesini geçersiz kılar
 
 ```csharp
 public override int GetHashCode()

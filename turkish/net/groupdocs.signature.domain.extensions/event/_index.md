@@ -3,7 +3,7 @@ title: Event
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Standart QR Kodu Olay ayrıntılarını temsil eder.
 type: docs
-weight: 230
+weight: 250
 url: /tr/net/groupdocs.signature.domain.extensions/event/
 ---
 ## Event class

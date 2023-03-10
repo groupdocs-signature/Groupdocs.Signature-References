@@ -3,7 +3,7 @@ title: SearchResult
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Belirtilen belgede imza aramanın sonucu.
 type: docs
-weight: 800
+weight: 830
 url: /tr/net/groupdocs.signature.domain/searchresult/
 ---
 ## SearchResult class
@@ -11,14 +11,19 @@ url: /tr/net/groupdocs.signature.domain/searchresult/
 Belirtilen belgede imza aramanın sonucu.
 
 ```csharp
-public class SearchResult : IEnumerable<BaseSignature>
+public class SearchResult : IEnumerable<BaseSignature>, IResult
 ```
 
 ## Özellikleri
 
 | İsim | Tanım |
 | --- | --- |
-| [Signatures](../../groupdocs.signature.domain/searchresult/signatures) { get; } | Algılanan imzaların listesi[`BaseSignature`](../basesignature) . |
+| [DestinDocumentSize](../../groupdocs.signature.domain/searchresult/destindocumentsize) { get; } | Hedef belge boyutunu döndürür. Arama yöntemi için her zaman 0. değerini döndürür. |
+| [ProcessingTime](../../groupdocs.signature.domain/searchresult/processingtime) { get; } | Arama işleminin yürütme süresini milisaniye cinsinden döndürür. |
+| [Signatures](../../groupdocs.signature.domain/searchresult/signatures) { get; } | Bulunan imzaların listesi[`BaseSignature`](../basesignature) . |
+| [SourceDocumentSize](../../groupdocs.signature.domain/searchresult/sourcedocumentsize) { get; } | Kaynak belge boyutunu döndürür |
+| [Succeeded](../../groupdocs.signature.domain/searchresult/succeeded) { get; } | Bulunan imzaların listesi[`BaseSignature`](../basesignature) . Bu liste her zaman şuna eşit olacaktır:[`Signatures`](./signatures) özellik. |
+| [TotalSignatures](../../groupdocs.signature.domain/searchresult/totalsignatures) { get; } | Arama işlemi tarafından işlenen toplam imzaları döndürür |
 
 ## yöntemler
 
@@ -30,6 +35,7 @@ public class SearchResult : IEnumerable<BaseSignature>
 ### Ayrıca bakınız
 
 * class [BaseSignature](../basesignature)
+* interface [IResult](../iresult)
 * ad alanı [GroupDocs.Signature.Domain](../../groupdocs.signature.domain)
 * toplantı [GroupDocs.Signature](../../)
 

@@ -1,14 +1,14 @@
 ---
 title: Content
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: türündeki görüntü ikili veri içeriğini belirtirFormatgroupdocs.signature.domain/imagesignature/format . Varsayılan olarak bu özellik ayarlanmaz. Özelliği kullanReturnContentgroupdocs.signature.options/imagesearchoptions/returncontent bu özelliği etkinleştirmek için.
+description: türündeki görüntü ikili veri içeriğini belirtirFormatgroupdocs.signature.domain/imagesignature/format . Varsayılan olarak bu özellik ayarlanmayacaktır. Özelliği kullanReturnContentgroupdocs.signature.options/imagesearchoptions/returncontent bu özelliği etkinleştirmek için.
 type: docs
 weight: 20
 url: /tr/net/groupdocs.signature.domain/imagesignature/content/
 ---
 ## ImageSignature.Content property
 
-türündeki görüntü ikili veri içeriğini belirtir[`Format`](../format) . Varsayılan olarak bu özellik ayarlanmaz. Özelliği kullan[`ReturnContent`](../../../groupdocs.signature.options/imagesearchoptions/returncontent) bu özelliği etkinleştirmek için.
+türündeki görüntü ikili veri içeriğini belirtir[`Format`](../format) . Varsayılan olarak bu özellik ayarlanmayacaktır. Özelliği kullan[`ReturnContent`](../../../groupdocs.signature.options/imagesearchoptions/returncontent) bu özelliği etkinleştirmek için.
 
 ```csharp
 public byte[] Content { get; }

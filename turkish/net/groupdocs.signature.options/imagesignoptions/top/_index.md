@@ -1,14 +1,14 @@
 ---
 title: Top
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Ölçü değerleri de Belge Sayfasında İmzanın Üst Y Konumu piksel yüzde veya milimetre bkz.MeasureTypegroupdocs.signature.domain/measuretype LocationMeasureType. dikey hizalama belirtilmemişse çalışır.
+description: Ölçüm değerlerinde Belge Sayfasındaki İmzanın Üst Y Konumu piksel yüzde veya milimetre bkz.MeasureTypegroupdocs.signature.domain/measuretype LocationMeasureType. dikey hizalama belirtilmemişse çalışır.
 type: docs
 weight: 170
 url: /tr/net/groupdocs.signature.options/imagesignoptions/top/
 ---
 ## ImageSignOptions.Top property
 
-Ölçü değerleri 'de Belge Sayfasında İmzanın Üst Y Konumu (piksel, yüzde veya milimetre bkz.[`MeasureType`](../../../groupdocs.signature.domain/measuretype) LocationMeasureType). (dikey hizalama belirtilmemişse çalışır).
+Ölçüm değerlerinde Belge Sayfasındaki İmzanın Üst Y Konumu (piksel, yüzde veya milimetre bkz.[`MeasureType`](../../../groupdocs.signature.domain/measuretype) LocationMeasureType). (dikey hizalama belirtilmemişse çalışır).
 
 ```csharp
 public virtual int Top { get; set; }

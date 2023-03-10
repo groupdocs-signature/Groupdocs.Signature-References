@@ -13,11 +13,12 @@ Ad alanı, belge temsiliyle çalışmak için sınıflar sağlar.
 | Sınıf | Tanım |
 | --- | --- |
 | [Background](./background) | Arka plan görünümünü temsil eder |
-| [BarcodeSignature](./barcodesignature) | Barkod İmzası özelliklerini içerir. |
+| [BarcodeSignature](./barcodesignature) | Barkod İmza özelliklerini içerir. |
 | [BarcodeType](./barcodetype) | Barkod türü özelliklerini belirtir. |
-| [BarcodeTypes](./barcodetypes) | Barkod Türleri kapsayıcısı. |
+| [BarcodeTypes](./barcodetypes) | Barkod Türleri kabı. |
 | [BaseSignature](./basesignature) | İmzalar için temel sınıfı tanımlar. |
 | [Border](./border) | Sınır görünümünü temsil eder |
+| [CertificateMetadataSignature](./certificatemetadatasignature) | Sertifika Meta Veri İmza özelliklerini içerir. |
 | [CheckboxFormFieldSignature](./checkboxformfieldsignature) | Onay kutusu giriş formu alanı imza özelliklerini içerir. |
 | [ComboboxFormFieldSignature](./comboboxformfieldsignature) | Açılan kutu giriş formu alanı imza özelliklerini içerir. |
 | [Corners](./corners) | Kare bir grafik nesnenin köşelerini temsil eder. |
@@ -36,7 +37,7 @@ Ad alanı, belge temsiliyle çalışmak için sınıflar sağlar.
 | [PdfDigitalSignature](./pdfdigitalsignature) | Pdf Dijital imza özelliklerini içerir. |
 | [PdfMetadataSignature](./pdfmetadatasignature) | Pdf Meta veri imza özelliklerini içerir. |
 | [PdfMetadataSignatures](./pdfmetadatasignatures) | Pdf belgesi Meta Veri İmza Seçenekleri için kullanılacak standart Meta veri imzalarını içerir. |
-| [PresentationMetadataSignature](./presentationmetadatasignature) | Sunum meta veri imza özelliklerini içerir. |
+| [PresentationMetadataSignature](./presentationmetadatasignature) | Sunum meta verileri imza özelliklerini içerir. |
 | [ProcessLog](./processlog) | Belge işlem ayrıntılarını temsil eder. |
 | [QrCodeSignature](./qrcodesignature) | QR kodu imza özelliklerini içerir. |
 | [QrCodeType](./qrcodetype) | QRCode türü özelliklerini belirtin. |
@@ -46,12 +47,12 @@ Ad alanı, belge temsiliyle çalışmak için sınıflar sağlar.
 | [SignatureFont](./signaturefont) | Font özelliklerini belirtmek için SignatureFont sınıfı örneğini oluşturur. |
 | [SignResult](./signresult) | Yeni oluşturulan imzalara sahip belge için imzalama işleminin sonucu. |
 | [SpreadsheetMetadataSignature](./spreadsheetmetadatasignature) | Elektronik Tablo Meta Veri İmzası özelliklerini içerir. |
-| [SquareBorder](./squareborder) | Kare damga çizgisi için Kenarlık çizgisi özelliklerini korumak için örnek. |
+| [SquareBorder](./squareborder) | Kare damga satırı için Sınır çizgisi özelliklerini korumak için örnek. |
 | [StampLine](./stampline) | Damga satırı özelliklerini belirtin. |
 | [StampType](./stamptype) | Damga türü özelliklerini belirtin. |
 | [StampTypes](./stamptypes) | Damga türleri kabı. |
 | [TextFormFieldSignature](./textformfieldsignature) | Pdf Document için metin giriş formu alanı imza özelliklerini içerir |
-| [TextSignature](./textsignature) | Metin imzası özelliklerini içerir. |
+| [TextSignature](./textsignature) | Metin imza özelliklerini içerir. |
 | [UpdateResult](./updateresult) | Belgedeki imzaların değiştirilmesinin sonucu. |
 | [VerificationResult](./verificationresult) | Doğrulama işleminin sonuçlarının tutulacağı örnek. |
 | [WordProcessingMetadataSignature](./wordprocessingmetadatasignature) | WordProcessing Metadata Signature özelliklerini içerir. |
@@ -64,9 +65,9 @@ Ad alanı, belge temsiliyle çalışmak için sınıflar sağlar.
 
 | Arayüz | Tanım |
 | --- | --- |
-| [IAlignment](./ialignment) | Bir belge sayfasındaki imza alanı hizalamasını açıklar. |
+| [IAlignment](./ialignment) | Belge sayfasındaki imza alanı hizalamasını açıklar. |
 | [IDocumentInfo](./idocumentinfo) | Belge açıklama özelliklerini tanımlar. |
-| [IRectangle](./irectangle) | Bir belge sayfasındaki imza alanı için arayüz özelliklerini tanımlar. |
+| [IRectangle](./irectangle) | Belge sayfasındaki imza alanı için arayüz özelliklerini tanımlar. |
 | [IResult](./iresult) | İmza işlemi sonucu için ortak arayüz. |
 | [IRotation](./irotation) | İmza dönüşü için özellikleri tanımlar. |
 | [ITextAlignment](./itextalignment) | Metin imzalarındaki metin için hizalama özelliklerini tanımlar. |
@@ -81,16 +82,17 @@ Ad alanı, belge temsiliyle çalışmak için sınıflar sağlar.
 | [FormFieldType](./formfieldtype) | Form Alanı türünü belirtir. |
 | [FormTextFieldType](./formtextfieldtype) | WordsProcessing belge form alanları için metin türlerini tanımlar. |
 | [HorizontalAlignment](./horizontalalignment) | Belge sayfasındaki öğenin yatay hizalamasını belirtir. |
-| [ImageSaveFileFormat](./imagesavefileformat) | Farklı kaydetme dosyası biçimlerini tanımlar. |
-| [MeasureType](./measuretype) | Bir belge sayfasındaki imza ölçü birimlerini belirtir. |
-| [PdfDigitalSignatureType](./pdfdigitalsignaturetype) | PDF dijital imza türünün numaralandırılmasını açıklar. |
-| [PdfSaveFileFormat](./pdfsavefileformat) | Farklı kaydetme dosyası biçimlerini tanımlar. |
+| [ImageSaveFileFormat](./imagesavefileformat) | Farklı kaydetme dosyası formatlarını tanımlar. |
+| [MeasureType](./measuretype) | Belge sayfasındaki imza ölçü birimlerini belirtir. |
+| [MetadataType](./metadatatype) | Değerin desteklenen Meta veri imza veri türünü belirtir. |
+| [PdfDigitalSignatureType](./pdfdigitalsignaturetype) | PDF dijital imza türünün numaralandırmasını açıklar. |
+| [PdfSaveFileFormat](./pdfsavefileformat) | Farklı kaydetme dosyası formatlarını tanımlar. |
 | [PdfTextAnnotationBorderEffect](./pdftextannotationbordereffect) | PDF metin açıklamalarının kenarına uygulanması gereken efekti tanımlar. |
 | [PdfTextStickerIcon](./pdftextstickericon) | PDF Metin not çıkartma simgesi görünümünün numaralandırmasını açıklar. |
 | [PdfTextStickerState](./pdftextstickerstate) | PDF metin açıklama etiketi durumlarının numaralandırılmasını açıklar. |
-| [PresentationSaveFileFormat](./presentationsavefileformat) | Farklı kaydetme dosyası biçimlerini tanımlar. |
+| [PresentationSaveFileFormat](./presentationsavefileformat) | Farklı kaydetme dosyası formatlarını tanımlar. |
 | [ProcessStatus](./processstatus) | İmzalama ve doğrulama işlemlerinin durumunu belirtir. |
-| [ProcessType](./processtype) | Bilgi, Önizleme, İmzala, Doğrula, Ara, Güncelle, Sil gibi belgelerle desteklenen süreci tanımlar |
+| [ProcessType](./processtype) | Bilgi, Önizleme, İmzalama, Doğrulama, Arama, Güncelleme, Sil gibi belgelerle desteklenen süreci tanımlar |
 | [SignatureType](./signaturetype) | İmzala, Doğrula, Ara, Güncelle, Sil gibi çeşitli işlemler için desteklenen imza türlerini tanımlar |
 | [SpreadsheetSaveFileFormat](./spreadsheetsavefileformat) | Elektronik Tablo belgeleri için farklı kaydetme biçimleri tanımlar. |
 | [StampBackgroundCropType](./stampbackgroundcroptype) | Damga öğeleri üzerindeki arka plan katmanının kırpma türünü belirtir. |

@@ -3,7 +3,7 @@ title: TryParse
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: pasringType adıyla Barkod türünü döndürür. Barkodun adı bilinmiyorsa  İstisna oluşturulmaz ancak yöntem boş değer döndürür.
 type: docs
-weight: 650
+weight: 680
 url: /tr/net/groupdocs.signature.domain/barcodetypes/tryparse/
 ---
 ## BarcodeTypes.TryParse method

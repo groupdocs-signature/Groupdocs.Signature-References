@@ -1,14 +1,14 @@
 ---
 title: VerifyOptions
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Belgeyi doğrulama seçeneklerini tutar.
+description: Belgeyi doğrulama seçeneklerini korur.
 type: docs
-weight: 1700
+weight: 1780
 url: /tr/net/groupdocs.signature.options/verifyoptions/
 ---
 ## VerifyOptions class
 
-Belgeyi doğrulama seçeneklerini tutar.
+Belgeyi doğrulama seçeneklerini korur.
 
 ```csharp
 public abstract class VerifyOptions
@@ -18,10 +18,10 @@ public abstract class VerifyOptions
 
 | İsim | Tanım |
 | --- | --- |
-| [AllPages](../../groupdocs.signature.options/verifyoptions/allpages) { get; set; } | Her belge sayfasını doğrulamak için işaretleyin. Varsayılan değer true'dur. |
+| [AllPages](../../groupdocs.signature.options/verifyoptions/allpages) { get; set; } | Her belge sayfasını doğrulamak için işaretleyin. Varsayılan değer olarak true. |
 | [Extensions](../../groupdocs.signature.options/verifyoptions/extensions) { get; set; } | Alternatif imza seçenekleri doğrulaması için ek uzantılar. |
 | [IsValid](../../groupdocs.signature.options/verifyoptions/isvalid) { get; } | Geçerli özellik bayrağı. |
-| virtual [PageNumber](../../groupdocs.signature.options/verifyoptions/pagenumber) { get; set; } | Doğrulanacak Belge Sayfa Numarası. Özellik ayarlanmazsa - Belgesinin tüm Sayfaları ilk oluşum için doğrulanır. Minimum değer 1. |
+| virtual [PageNumber](../../groupdocs.signature.options/verifyoptions/pagenumber) { get; set; } | Doğrulanacak Belge Sayfa Numarası. Özellik ayarlanmazsa - Belgesinin tüm Sayfaları ilk geçtiği için doğrulanacaktır. Minimum değer: 1. |
 | virtual [PagesSetup](../../groupdocs.signature.options/verifyoptions/pagessetup) { get; set; } | Doğrulanacak sayfaları belirtmek için Sayfa Seçenekleri. |
 
 ### Ayrıca bakınız

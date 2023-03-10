@@ -3,7 +3,7 @@ title: ComboboxFormFieldSignature
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Açılan kutu giriş formu alanı imza özelliklerini içerir.
 type: docs
-weight: 90
+weight: 100
 url: /tr/net/groupdocs.signature.domain/comboboxformfieldsignature/
 ---
 ## ComboboxFormFieldSignature class
@@ -47,7 +47,7 @@ public sealed class ComboboxFormFieldSignature : FormFieldSignature
 
 | İsim | Tanım |
 | --- | --- |
-| override [Clone](../../groupdocs.signature.domain/comboboxformfieldsignature/clone)() | FormField Signature örneğini klonlayın. |
+| override [Clone](../../groupdocs.signature.domain/comboboxformfieldsignature/clone)() | FormField Signature örneğini Klonla. |
 | override [Equals](../../groupdocs.signature.domain/comboboxformfieldsignature/equals)(object) | İmza özelliklerini karşılaştırmak için Equals yönteminin üzerine yazar |
 | override [GetHashCode](../../groupdocs.signature.domain/comboboxformfieldsignature/gethashcode)() | GetHashCode yöntemini geçersiz kılar |
 

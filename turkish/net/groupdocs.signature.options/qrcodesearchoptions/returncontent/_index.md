@@ -1,14 +1,14 @@
 ---
 title: ReturnContent
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Belge sayfasındaki imzanın QR Kodu görüntü içeriğini almak için bayrağı alır veya ayarlar. Bu bayrak doğru ayarlanırsa QR Kodu imza görüntü içeriği ham görüntü verilerini gereken biçimde tutarReturnContentTypegroupdocs.signature.options/qrcodesearchoptions/returncontenttype . Varsayılan olarak bu seçenek devre dışıdır.
+description: Belge sayfasındaki imzanın QRCode görüntü içeriğini kapmak için bayrağı alır veya ayarlar. Bu bayrak doğru olarak ayarlanırsa QRCode imza görüntüsü içeriği ham görüntü verilerini gerekli formatta tutarReturnContentTypegroupdocs.signature.options/qrcodesearchoptions/returncontenttype . Varsayılan olarak bu seçenek devre dışıdır.
 type: docs
 weight: 50
 url: /tr/net/groupdocs.signature.options/qrcodesearchoptions/returncontent/
 ---
 ## QrCodeSearchOptions.ReturnContent property
 
-Belge sayfasındaki imzanın QR Kodu görüntü içeriğini almak için bayrağı alır veya ayarlar. Bu bayrak doğru ayarlanırsa, QR Kodu imza görüntü içeriği ham görüntü verilerini gereken biçimde tutar[`ReturnContentType`](../returncontenttype) . Varsayılan olarak bu seçenek devre dışıdır.
+Belge sayfasındaki imzanın QR-Code görüntü içeriğini kapmak için bayrağı alır veya ayarlar. Bu bayrak doğru olarak ayarlanırsa, QR-Code imza görüntüsü içeriği, ham görüntü verilerini gerekli formatta tutar[`ReturnContentType`](../returncontenttype) . Varsayılan olarak bu seçenek devre dışıdır.
 
 ```csharp
 public bool ReturnContent { get; set; }

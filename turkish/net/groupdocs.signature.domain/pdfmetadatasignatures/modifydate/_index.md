@@ -1,14 +1,14 @@
 ---
 title: ModifyDate
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Pdf Belge değiştirilme tarihi meta veri özelliği.
+description: Pdf Belgesi değiştirilme tarihi meta veri özelliği.
 type: docs
 weight: 90
 url: /tr/net/groupdocs.signature.domain/pdfmetadatasignatures/modifydate/
 ---
 ## PdfMetadataSignatures.ModifyDate property
 
-Pdf Belge değiştirilme tarihi meta veri özelliği.
+Pdf Belgesi değiştirilme tarihi meta veri özelliği.
 
 ```csharp
 public static PdfMetadataSignature ModifyDate { get; }

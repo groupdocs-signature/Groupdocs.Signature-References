@@ -1,14 +1,14 @@
 ---
 title: Content
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Türün Barkod ikili veri görüntü içeriğini belirtirFormatgroupdocs.signature.domain/barcodesignature/format . Varsayılan olarak bu özellik ayarlanmaz. Özelliği kullanReturnContentgroupdocs.signature.options/barcodesearchoptions/returncontent bu özelliği etkinleştirmek için.
+description: Türün Barkod ikili veri görüntü içeriğini belirtirFormatgroupdocs.signature.domain/barcodesignature/format . Varsayılan olarak bu özellik ayarlanmayacaktır. Özelliği kullanReturnContentgroupdocs.signature.options/barcodesearchoptions/returncontent bu özelliği etkinleştirmek için.
 type: docs
 weight: 20
 url: /tr/net/groupdocs.signature.domain/barcodesignature/content/
 ---
 ## BarcodeSignature.Content property
 
-Türün Barkod ikili veri görüntü içeriğini belirtir[`Format`](../format) . Varsayılan olarak bu özellik ayarlanmaz. Özelliği kullan[`ReturnContent`](../../../groupdocs.signature.options/barcodesearchoptions/returncontent) bu özelliği etkinleştirmek için.
+Türün Barkod ikili veri görüntü içeriğini belirtir[`Format`](../format) . Varsayılan olarak bu özellik ayarlanmayacaktır. Özelliği kullan[`ReturnContent`](../../../groupdocs.signature.options/barcodesearchoptions/returncontent) bu özelliği etkinleştirmek için.
 
 ```csharp
 public byte[] Content { get; }

@@ -3,7 +3,7 @@ title: Planet
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Gezegen Barkod Türü nesnesi.
 type: docs
-weight: 500
+weight: 530
 url: /tr/net/groupdocs.signature.domain/barcodetypes/planet/
 ---
 ## BarcodeTypes.Planet field

@@ -3,7 +3,7 @@ title: StretchMode
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Bir belge sayfasında imza alanının genişletilmiş modunu temsil eder.
 type: docs
-weight: 920
+weight: 950
 url: /tr/net/groupdocs.signature.domain/stretchmode/
 ---
 ## StretchMode enumeration

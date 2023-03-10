@@ -1,14 +1,14 @@
 ---
 title: Company
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: İlgili kişiyi alır veya ayarlar.
+description: Kişi Şirketini alır veya ayarlar.
 type: docs
 weight: 40
 url: /tr/net/groupdocs.signature.domain.extensions/vcard/company/
 ---
 ## VCard.Company property
 
-İlgili kişiyi alır veya ayarlar.
+Kişi Şirketini alır veya ayarlar.
 
 ```csharp
 public string Company { get; set; }

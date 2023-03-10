@@ -3,7 +3,7 @@ title: ToString
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Geçerli nesneyi temsil eden bir dize döndürür.
 type: docs
-weight: 620
+weight: 630
 url: /tr/net/groupdocs.signature.domain/filetype/tostring/
 ---
 ## FileType.ToString method

@@ -1,14 +1,14 @@
 ---
 title: IncorrectPasswordException
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Belirtilen parola yanlış olduğunda oluşturulan özel durum.
+description: Belirtilen şifre yanlış olduğunda atılan istisna.
 type: docs
-weight: 1090
+weight: 1120
 url: /tr/net/groupdocs.signature/incorrectpasswordexception/
 ---
 ## IncorrectPasswordException class
 
-Belirtilen parola yanlış olduğunda oluşturulan özel durum.
+Belirtilen şifre yanlış olduğunda atılan istisna.
 
 ```csharp
 public class IncorrectPasswordException : GroupDocsSignatureException

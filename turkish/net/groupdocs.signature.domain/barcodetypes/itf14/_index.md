@@ -3,7 +3,7 @@ title: ITF14
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: ITF14 Barkod Türü nesnesi.
 type: docs
-weight: 370
+weight: 400
 url: /tr/net/groupdocs.signature.domain/barcodetypes/itf14/
 ---
 ## BarcodeTypes.ITF14 field

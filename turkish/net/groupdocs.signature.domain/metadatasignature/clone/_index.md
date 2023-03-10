@@ -3,7 +3,7 @@ title: Clone
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Klon Meta Veri İmza örneği.
 type: docs
-weight: 40
+weight: 50
 url: /tr/net/groupdocs.signature.domain/metadatasignature/clone/
 ---
 ## Clone() {#clone_1}

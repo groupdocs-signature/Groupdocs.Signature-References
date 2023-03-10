@@ -3,7 +3,7 @@ title: FormatAttribute
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Nesneleri serileştirmeye üyeyi belirtilen ad ve format ile seri hale getirme talimatı verir.
 type: docs
-weight: 240
+weight: 260
 url: /tr/net/groupdocs.signature.domain.extensions/formatattribute/
 ---
 ## FormatAttribute class

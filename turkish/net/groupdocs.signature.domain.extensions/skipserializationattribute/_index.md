@@ -3,7 +3,7 @@ title: SkipSerializationAttribute
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Serileştirmeye üyeyi atlaması talimatını verir.
 type: docs
-weight: 320
+weight: 340
 url: /tr/net/groupdocs.signature.domain.extensions/skipserializationattribute/
 ---
 ## SkipSerializationAttribute class

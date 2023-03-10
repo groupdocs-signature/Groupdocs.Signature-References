@@ -3,7 +3,7 @@ title: SwissPostParcel
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: SwissPostParcel Barkod Türü nesnesi.
 type: docs
-weight: 580
+weight: 610
 url: /tr/net/groupdocs.signature.domain/barcodetypes/swisspostparcel/
 ---
 ## BarcodeTypes.SwissPostParcel field

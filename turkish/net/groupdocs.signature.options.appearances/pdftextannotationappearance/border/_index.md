@@ -1,14 +1,14 @@
 ---
 title: Border
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Farklı sınır ayarlarını alır veya ayarlar
+description: Farklı sınır ayarları alır veya ayarlar
 type: docs
 weight: 20
 url: /tr/net/groupdocs.signature.options.appearances/pdftextannotationappearance/border/
 ---
 ## PdfTextAnnotationAppearance.Border property
 
-Farklı sınır ayarlarını alır veya ayarlar
+Farklı sınır ayarları alır veya ayarlar
 
 ```csharp
 public Border Border { get; set; }

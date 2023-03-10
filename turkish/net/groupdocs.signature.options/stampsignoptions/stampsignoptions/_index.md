@@ -34,8 +34,8 @@ public StampSignOptions(int left, int top, int width, int height)
 | --- | --- | --- |
 | left | Int32 | Damga İmzasının sol üst kenarının x koordinatı |
 | top | Int32 | Damga İmzasının sol üst kenarının y koordinatı |
-| width | Int32 | Damga İmzasının Genişliği |
-| height | Int32 | Damga İmzasının Yüksekliği |
+| width | Int32 | Damga İmzasının genişliği |
+| height | Int32 | Damga İmzasının yüksekliği |
 
 ### Ayrıca bakınız
 

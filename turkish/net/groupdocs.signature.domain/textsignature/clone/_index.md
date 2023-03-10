@@ -1,14 +1,14 @@
 ---
 title: Clone
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Metin İmzası örneğini Klonla.
+description: Metin İmzasını Kopyala örneği.
 type: docs
 weight: 50
 url: /tr/net/groupdocs.signature.domain/textsignature/clone/
 ---
 ## TextSignature.Clone method
 
-Metin İmzası örneğini Klonla.
+Metin İmzasını Kopyala örneği.
 
 ```csharp
 public override object Clone()

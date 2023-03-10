@@ -3,7 +3,7 @@ title: SearchOptions
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Belge seçeneklerinden imzaları ayıklamayı temsil eder.
 type: docs
-weight: 1600
+weight: 1680
 url: /tr/net/groupdocs.signature.options/searchoptions/
 ---
 ## SearchOptions class

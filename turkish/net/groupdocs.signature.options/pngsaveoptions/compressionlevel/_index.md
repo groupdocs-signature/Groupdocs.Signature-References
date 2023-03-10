@@ -1,14 +1,14 @@
 ---
 title: CompressionLevel
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: 09 aralığında png görüntü sıkıştırma düzeyi burada 9 maksimum sıkıştırma ve 0 depolama modudur.
+description: 9un maksimum sıkıştırma olduğu ve 0ın depolama modu olduğu 09 aralığında png görüntü sıkıştırma düzeyi.
 type: docs
 weight: 40
 url: /tr/net/groupdocs.signature.options/pngsaveoptions/compressionlevel/
 ---
 ## PngSaveOptions.CompressionLevel property
 
-0-9 aralığında png görüntü sıkıştırma düzeyi, burada 9 maksimum sıkıştırma ve 0 depolama modudur.
+9'un maksimum sıkıştırma olduğu ve 0'ın depolama modu olduğu 0-9 aralığında png görüntü sıkıştırma düzeyi.
 
 ```csharp
 public int CompressionLevel { get; set; }

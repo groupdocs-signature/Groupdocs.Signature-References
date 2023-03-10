@@ -1,14 +1,14 @@
 ---
 title: IAlignment
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Bir belge sayfasındaki imza alanı hizalamasını açıklar.
+description: Belge sayfasındaki imza alanı hizalamasını açıklar.
 type: docs
-weight: 480
+weight: 500
 url: /tr/net/groupdocs.signature.domain/ialignment/
 ---
 ## IAlignment interface
 
-Bir belge sayfasındaki imza alanı hizalamasını açıklar.
+Belge sayfasındaki imza alanı hizalamasını açıklar.
 
 ```csharp
 public interface IAlignment
@@ -18,10 +18,10 @@ public interface IAlignment
 
 | İsim | Tanım |
 | --- | --- |
-| [HorizontalAlignment](../../groupdocs.signature.domain/ialignment/horizontalalignment) { get; set; } | Bir belge sayfasında Resmin yatay hizalaması. |
-| [Margin](../../groupdocs.signature.domain/ialignment/margin) { get; set; } | Görüntü ve Belge kenarları arasında varsayılan olarak belirtilen boşluğu alır (yatay veya dikey hizalama belirtilmişse çalışır). |
+| [HorizontalAlignment](../../groupdocs.signature.domain/ialignment/horizontalalignment) { get; set; } | Belge sayfasındaki Görüntünün yatay hizalaması. |
+| [Margin](../../groupdocs.signature.domain/ialignment/margin) { get; set; } | Görüntü ve Belge kenarları arasında varsayılan olarak belirtilen boşluğu alır (yatay veya dikey hizalama belirtilirse çalışır). |
 | [MarginMeasureType](../../groupdocs.signature.domain/ialignment/marginmeasuretype) { get; set; } | Marj ölçüm türü (piksel, yüzde veya milimetre). |
-| [VerticalAlignment](../../groupdocs.signature.domain/ialignment/verticalalignment) { get; set; } | Resmin bir belge sayfasındaki dikey hizalaması. |
+| [VerticalAlignment](../../groupdocs.signature.domain/ialignment/verticalalignment) { get; set; } | Bir belge sayfasında Görüntünün dikey hizalaması. |
 
 ### Ayrıca bakınız
 

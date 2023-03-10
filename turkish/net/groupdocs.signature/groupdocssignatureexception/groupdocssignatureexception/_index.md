@@ -1,14 +1,14 @@
 ---
 title: GroupDocsSignatureException
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Yeni bir örneğini başlatırGroupDocsSignatureExceptiongroupdocs.signature/groupdocssignatureexception sınıf.
+description: Yeni bir örneğini başlatır.GroupDocsSignatureExceptiongroupdocs.signature/groupdocssignatureexceptionsınıf.
 type: docs
 weight: 10
 url: /tr/net/groupdocs.signature/groupdocssignatureexception/groupdocssignatureexception/
 ---
 ## GroupDocsSignatureException() {#constructor}
 
-Yeni bir örneğini başlatır[`GroupDocsSignatureException`](../../groupdocssignatureexception) sınıf.
+Yeni bir örneğini başlatır.[`GroupDocsSignatureException`](../../groupdocssignatureexception)sınıf.
 
 ```csharp
 public GroupDocsSignatureException()
@@ -24,7 +24,7 @@ public GroupDocsSignatureException()
 
 ## GroupDocsSignatureException(string) {#constructor_2}
 
-Yeni bir örneğini başlatır[`GroupDocsSignatureException`](../../groupdocssignatureexception)belirtilen bir hata mesajına sahip sınıf.
+Yeni bir örneğini başlatır.[`GroupDocsSignatureException`](../../groupdocssignatureexception) belirtilen bir hata mesajına sahip sınıf.
 
 ```csharp
 public GroupDocsSignatureException(string message)
@@ -44,7 +44,7 @@ public GroupDocsSignatureException(string message)
 
 ## GroupDocsSignatureException(Exception, string) {#constructor_1}
 
-Yeni bir örneğini başlatır[`GroupDocsSignatureException`](../../groupdocssignatureexception) belirtilen bir hata mesajı ve orijinal istisna ile sınıf.
+Yeni bir örneğini başlatır.[`GroupDocsSignatureException`](../../groupdocssignatureexception) belirtilen bir hata mesajı ve orijinal istisna ile sınıf.
 
 ```csharp
 public GroupDocsSignatureException(Exception ex, string message)

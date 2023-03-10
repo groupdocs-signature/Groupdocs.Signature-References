@@ -16,7 +16,7 @@ public byte PixelAspectRatio { get; set; }
 
 ### Notlar
 
-Piksel En Boy Oranı - Orijinal görüntüdeki pikselin en boy oranının bir yaklaşıklığını hesaplamak için kullanılan faktör. Alanın değeri 0 değilse, en boy oranının bu tahmini şu formüle göre hesaplanır: En Boy Oranı = (Piksel En Boy Oranı + 15) / 64 Piksel En Boy Oranı, piksel genişliğinin bölümü olarak tanımlanır yüksekliğinin üzerinde. Bu alandaki range değeri, 1/64'lük artışlarla 4:1'lik en geniş pikselin 1:4'lük en uzun pikseline belirtilmesine izin verir. Değerler : 0 - En boy oranı bilgisi verilmez. 1..255 - Hesaplamada kullanılan değer.
+Piksel En Boy Oranı - Orijinal görüntüdeki pikselin en boy oranının yaklaşık olarak hesaplanmasında kullanılan faktör. Alanın değeri 0 değilse, en boy oranına ilişkin bu yaklaşım şu formüle göre hesaplanır: En Boy Oranı = (Piksel En Boy Oranı + 15) / 64 Piksel En Boy Oranı, pikselin genişliğinin bölümü olarak tanımlanır yüksekliğinin üzerinde. Bu alandaki range değeri, 1/64'lük artışlarla 4:1'lik en geniş pikselden 1:4'lük en uzun piksele kadar belirtilmesine izin verir. Değerler : 0 - En boy oranı bilgisi verilmez. 1..255 - Hesaplamada kullanılan değer.
 
 ### Ayrıca bakınız
 

@@ -1,14 +1,14 @@
 ---
 title: PresentationSaveFileFormat
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Farklı kaydetme dosyası biçimlerini tanımlar.
+description: Farklı kaydetme dosyası formatlarını tanımlar.
 type: docs
-weight: 720
+weight: 750
 url: /tr/net/groupdocs.signature.domain/presentationsavefileformat/
 ---
 ## PresentationSaveFileFormat enumeration
 
-Farklı kaydetme dosyası biçimlerini tanımlar.
+Farklı kaydetme dosyası formatlarını tanımlar.
 
 ```csharp
 public enum PresentationSaveFileFormat
@@ -18,7 +18,7 @@ public enum PresentationSaveFileFormat
 
 | İsim | Değer | Tanım |
 | --- | --- | --- |
-| Default | `0` | Dosya Formatı değiştirilmeyecektir. |
+| Default | `0` | Dosya Biçimi değiştirilmeyecek. |
 | Pps | `1` | Belgeyi Microsoft Power Point 97-2003 slayt gösterisi olarak kaydeder. |
 | Ppt | `2` | Belgeyi Microsoft Power Point 97-2003 sunumu olarak kaydeder. |
 | Pdf | `3` | Belgeyi PDF formatında kaydeder. |

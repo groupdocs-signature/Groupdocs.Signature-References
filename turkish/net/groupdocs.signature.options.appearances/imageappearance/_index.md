@@ -1,14 +1,14 @@
 ---
 title: ImageAppearance
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Görüntü İmzası için genişletilmiş görünüm özelliklerini açıklar.
+description: Image Signature için genişletilmiş görünüm özelliklerini açıklar.
 type: docs
-weight: 1130
+weight: 1200
 url: /tr/net/groupdocs.signature.options.appearances/imageappearance/
 ---
 ## ImageAppearance class
 
-Görüntü İmzası için genişletilmiş görünüm özelliklerini açıklar.
+Image Signature için genişletilmiş görünüm özelliklerini açıklar.
 
 ```csharp
 public class ImageAppearance : SignatureAppearance
@@ -26,8 +26,8 @@ public class ImageAppearance : SignatureAppearance
 | --- | --- |
 | [Brightness](../../groupdocs.signature.options.appearances/imageappearance/brightness) { get; set; } | Görüntü parlaklığını alır veya ayarlar. Varsayılan değer 1'dir, görüntünün orijinal parlaklığına karşılık gelir. |
 | [Contrast](../../groupdocs.signature.options.appearances/imageappearance/contrast) { get; set; } | Görüntü kontrastını alır veya ayarlar. Varsayılan değer 1'dir, görüntünün orijinal kontrastına karşılık gelir. |
-| [GammaCorrection](../../groupdocs.signature.options.appearances/imageappearance/gammacorrection) { get; set; } | Görüntü gamasını alır veya ayarlar. Varsayılan değer 1'dir ve görüntünün orijinal gamasına karşılık gelir. |
-| [Grayscale](../../groupdocs.signature.options.appearances/imageappearance/grayscale) { get; set; } | Gri tonlamalı filtre gerekliyse bu bayrağı true olarak ayarlayın. |
+| [GammaCorrection](../../groupdocs.signature.options.appearances/imageappearance/gammacorrection) { get; set; } | Görüntü gammasını alır veya ayarlar. Varsayılan değer 1'dir, görüntünün orijinal gammasına karşılık gelir. |
+| [Grayscale](../../groupdocs.signature.options.appearances/imageappearance/grayscale) { get; set; } | Gri tonlamalı filtre gerekiyorsa bu bayrağı true olarak ayarlayın. |
 
 ### Ayrıca bakınız
 

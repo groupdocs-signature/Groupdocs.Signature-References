@@ -1,14 +1,14 @@
 ---
 title: Password
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Gerekirse Dijital Sertifikanın Şifresi.
+description: Gerekirse Dijital Sertifika Şifresi.
 type: docs
 weight: 90
 url: /tr/net/groupdocs.signature.options/digitalverifyoptions/password/
 ---
 ## DigitalVerifyOptions.Password property
 
-Gerekirse Dijital Sertifikanın Şifresi.
+Gerekirse Dijital Sertifika Şifresi.
 
 ```csharp
 public string Password { get; set; }

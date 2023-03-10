@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Kripto para birimi transfer özelliklerini karşılaştırmak için Equals yönteminin üzerine yazar
+description: Cryptocurrency transfer özelliklerini karşılaştırmak için Equals yönteminin üzerine yazar
 type: docs
 weight: 70
 url: /tr/net/groupdocs.signature.domain.extensions/cryptocurrencytransfer/equals/
 ---
 ## CryptoCurrencyTransfer.Equals method
 
-Kripto para birimi transfer özelliklerini karşılaştırmak için Equals yönteminin üzerine yazar
+Cryptocurrency transfer özelliklerini karşılaştırmak için Equals yönteminin üzerine yazar
 
 ```csharp
 public override bool Equals(object obj)
@@ -20,7 +20,7 @@ public override bool Equals(object obj)
 
 ### Geri dönüş değeri
 
-Kripto para birimi transfer nesnesi aynı türe sahipse ve tüm özellikleri bu örnek özelliklerine eşitse, true değerini döndürür.
+Geçirilen Cryptocurrency transfer nesnesi aynı türe sahipse ve tüm özellikleri bu örnek özelliklerine eşitse true değerini döndürür.
 
 ### Ayrıca bakınız
 

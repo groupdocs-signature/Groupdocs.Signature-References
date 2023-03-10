@@ -3,7 +3,7 @@ title: Matrix2of5
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Matrix2of5 Barkod Türü nesnesi.
 type: docs
-weight: 410
+weight: 440
 url: /tr/net/groupdocs.signature.domain/barcodetypes/matrix2of5/
 ---
 ## BarcodeTypes.Matrix2of5 field

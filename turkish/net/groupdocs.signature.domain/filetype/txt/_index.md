@@ -1,14 +1,14 @@
 ---
 title: TXT
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Düz Metin Dosyası .txt satır biçiminde düz metin içeren bir metin belgesini temsil eder. Bu dosya biçimi hakkında daha fazla bilgi edininburadahttps//wiki.fileformat.com/wordprocessing/txt .
+description: Düz Metin Dosyası .txt satır biçiminde düz metin içeren bir metin belgesini temsil eder. Bu dosya biçimi hakkında daha fazla bilgi edininBuradahttps//wiki.fileformat.com/wordprocessing/txt .
 type: docs
-weight: 450
+weight: 460
 url: /tr/net/groupdocs.signature.domain/filetype/txt/
 ---
 ## FileType.TXT field
 
-Düz Metin Dosyası (.txt), satır biçiminde düz metin içeren bir metin belgesini temsil eder. Bu dosya biçimi hakkında daha fazla bilgi edinin[burada](https://wiki.fileformat.com/word-processing/txt) .
+Düz Metin Dosyası (.txt), satır biçiminde düz metin içeren bir metin belgesini temsil eder. Bu dosya biçimi hakkında daha fazla bilgi edinin[Burada](https://wiki.fileformat.com/word-processing/txt) .
 
 ```csharp
 public static readonly FileType TXT;

@@ -3,7 +3,7 @@ title: TextureBrush
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Doku fırçasını temsil eder.
 type: docs
-weight: 390
+weight: 410
 url: /tr/net/groupdocs.signature.domain.extensions/texturebrush/
 ---
 ## TextureBrush class
@@ -20,14 +20,14 @@ public class TextureBrush : Brush
 | --- | --- |
 | [TextureBrush](texturebrush#constructor)() | Varsayılan değerlerle TextureBrush sınıfının yeni bir örneğini başlatır. |
 | [TextureBrush](texturebrush#constructor_1)(Stream) | Görüntü akışı seçeneğiyle TextureBrush sınıfının yeni bir örneğini başlatır. |
-| [TextureBrush](texturebrush#constructor_2)(string) | Görüntü dosyasıyla TextureBrush sınıfının yeni bir örneğini başlatır. |
+| [TextureBrush](texturebrush#constructor_2)(string) | Image file. ile TextureBrush sınıfının yeni bir örneğini başlatır |
 
 ## Özellikleri
 
 | İsim | Tanım |
 | --- | --- |
 | [ImageFilePath](../../groupdocs.signature.domain.extensions/texturebrush/imagefilepath) { get; set; } | Doku görüntü dosyası yolunu alır veya ayarlar. Bu özellik yalnızca ImageStream belirtilmemişse kullanılır. |
-| [ImageStream](../../groupdocs.signature.domain.extensions/texturebrush/imagestream) { get; set; } | Doku görüntüsü akışını alır veya ayarlar. Bu özellik belirtilirse, bunun yerine her zaman kullanılır ImageFilePath. |
+| [ImageStream](../../groupdocs.signature.domain.extensions/texturebrush/imagestream) { get; set; } | Doku görüntü akışını alır veya ayarlar. Bu özellik belirtilirse, her zaman bunun yerine ImageFilePath. kullanılır. |
 
 ### Ayrıca bakınız
 

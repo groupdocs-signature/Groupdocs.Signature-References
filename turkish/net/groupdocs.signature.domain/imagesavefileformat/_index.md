@@ -1,14 +1,14 @@
 ---
 title: ImageSaveFileFormat
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Farklı kaydetme dosyası biçimlerini tanımlar.
+description: Farklı kaydetme dosyası formatlarını tanımlar.
 type: docs
-weight: 560
+weight: 580
 url: /tr/net/groupdocs.signature.domain/imagesavefileformat/
 ---
 ## ImageSaveFileFormat enumeration
 
-Farklı kaydetme dosyası biçimlerini tanımlar.
+Farklı kaydetme dosyası formatlarını tanımlar.
 
 ```csharp
 public enum ImageSaveFileFormat
@@ -18,9 +18,9 @@ public enum ImageSaveFileFormat
 
 | İsim | Değer | Tanım |
 | --- | --- | --- |
-| Default | `0` | Dosya Formatı değiştirilmeyecektir. |
-| Bmp | `1` | Belgeyi Bmp biçiminde kaydeder. |
-| Gif | `2` | Belgeyi Gif biçiminde kaydeder. |
+| Default | `0` | Dosya Biçimi değiştirilmeyecek. |
+| Bmp | `1` | Belgeyi Bmp formatında kaydeder. |
+| Gif | `2` | Belgeyi Gif formatında kaydeder. |
 | Jpg | `3` | Belgeyi Jpg formatında kaydeder. |
 | Png | `4` | Belgeyi Png formatında kaydeder. |
 | Psd | `5` | Belgeyi Psd formatında kaydeder. |

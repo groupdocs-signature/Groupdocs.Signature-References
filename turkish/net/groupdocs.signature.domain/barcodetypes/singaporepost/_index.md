@@ -3,7 +3,7 @@ title: SingaporePost
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: SingaporePost Barkod Türü object.
 type: docs
-weight: 550
+weight: 580
 url: /tr/net/groupdocs.signature.domain/barcodetypes/singaporepost/
 ---
 ## BarcodeTypes.SingaporePost field

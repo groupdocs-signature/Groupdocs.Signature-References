@@ -3,7 +3,7 @@ title: ExportImageSaveOptions
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Belgeleri image. olarak dışa aktarmak için kaydetme seçenekleri
 type: docs
-weight: 1280
+weight: 1360
 url: /tr/net/groupdocs.signature.options/exportimagesaveoptions/
 ---
 ## ExportImageSaveOptions class

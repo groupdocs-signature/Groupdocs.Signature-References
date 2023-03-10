@@ -3,7 +3,7 @@ title: PdfTextStickerState
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: PDF metin açıklama etiketi durumlarının numaralandırılmasını açıklar.
 type: docs
-weight: 700
+weight: 730
 url: /tr/net/groupdocs.signature.domain/pdftextstickerstate/
 ---
 ## PdfTextStickerState enumeration

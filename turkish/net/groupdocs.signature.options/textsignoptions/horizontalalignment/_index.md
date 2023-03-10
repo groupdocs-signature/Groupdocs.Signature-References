@@ -1,14 +1,14 @@
 ---
 title: HorizontalAlignment
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Belge sayfasında imzanın yatay hizalaması.
+description: Belge sayfasında yatay imza hizalaması.
 type: docs
 weight: 90
 url: /tr/net/groupdocs.signature.options/textsignoptions/horizontalalignment/
 ---
 ## TextSignOptions.HorizontalAlignment property
 
-Belge sayfasında imzanın yatay hizalaması.
+Belge sayfasında yatay imza hizalaması.
 
 ```csharp
 public HorizontalAlignment HorizontalAlignment { get; set; }

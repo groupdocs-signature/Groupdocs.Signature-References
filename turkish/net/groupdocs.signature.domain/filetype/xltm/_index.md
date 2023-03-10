@@ -1,14 +1,14 @@
 ---
 title: XLTM
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Excel Office OpenXML dosya Şablonu .xltm Excel Şablon Dosya Biçimini temsil eder. Bu dosya biçimi hakkında daha fazla bilgi edininburadahttps//wiki.fileformat.com/spreadsheet/xltm .
+description: Excel Office OpenXML dosya Şablonu .xltm Excel Şablon Dosya Biçimini temsil eder. Bu dosya biçimi hakkında daha fazla bilgi edininBuradahttps//wiki.fileformat.com/spreadsheet/xltm .
 type: docs
-weight: 560
+weight: 570
 url: /tr/net/groupdocs.signature.domain/filetype/xltm/
 ---
 ## FileType.XLTM field
 
-Excel Office OpenXML dosya Şablonu (.xltm), Excel Şablon Dosya Biçimini temsil eder. Bu dosya biçimi hakkında daha fazla bilgi edinin[burada](https://wiki.fileformat.com/spreadsheet/xltm) .
+Excel Office OpenXML dosya Şablonu (.xltm), Excel Şablon Dosya Biçimini temsil eder. Bu dosya biçimi hakkında daha fazla bilgi edinin[Burada](https://wiki.fileformat.com/spreadsheet/xltm) .
 
 ```csharp
 public static readonly FileType XLTM;

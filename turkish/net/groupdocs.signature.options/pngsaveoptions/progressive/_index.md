@@ -1,14 +1,14 @@
 ---
 title: Progressive
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Bu PngSaveOptionsın aşamalı olup olmadığını belirten bir değer alır veya ayarlar.
+description: Bu PngSaveOptionsın aşamalı olup olmadığını gösteren bir değer alır veya ayarlar.
 type: docs
 weight: 60
 url: /tr/net/groupdocs.signature.options/pngsaveoptions/progressive/
 ---
 ## PngSaveOptions.Progressive property
 
-Bu PngSaveOptions'ın aşamalı olup olmadığını belirten bir değer alır veya ayarlar.
+Bu PngSaveOptions'ın aşamalı olup olmadığını gösteren bir değer alır veya ayarlar.
 
 ```csharp
 public bool Progressive { get; set; }

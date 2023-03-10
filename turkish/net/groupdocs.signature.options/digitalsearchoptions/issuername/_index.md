@@ -8,7 +8,7 @@ url: /tr/net/groupdocs.signature.options/digitalsearchoptions/issuername/
 ---
 ## DigitalSearchOptions.IssuerName property
 
-Boş olmayan değerler için, aranacak sertifika verenin ayırt edici adını belirtir.
+Boş olmayan değerler için aranacak sertifika verenin ayırt edici adını belirtir.
 
 ```csharp
 public string IssuerName { get; set; }

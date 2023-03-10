@@ -3,7 +3,7 @@ title: ProcessLogs
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: İmzala Güncelle Sil gibi belge geçmişi işlemlerinin toplanması.
 type: docs
-weight: 110
+weight: 120
 url: /tr/net/groupdocs.signature.domain/documentinfo/processlogs/
 ---
 ## DocumentInfo.ProcessLogs property

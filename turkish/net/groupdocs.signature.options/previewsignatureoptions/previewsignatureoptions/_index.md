@@ -17,7 +17,7 @@ public PreviewSignatureOptions(SignOptions signOptions, CreateSignatureStream cr
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
 | signOptions | SignOptions | Önizleme oluşturmak için imza seçenekleri. |
-| createSignatureStream | CreateSignatureStream | Çıktı imzası önizleme akışı oluşturma yöntemini tanımlayan temsilci. |
+| createSignatureStream | CreateSignatureStream | Çıktı imza önizleme akışı oluşturmak için yöntemi tanımlayan temsilci. |
 
 ### Ayrıca bakınız
 
@@ -41,8 +41,8 @@ public PreviewSignatureOptions(SignOptions signOptions,
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
 | signOptions | SignOptions | Önizleme oluşturmak için imza seçenekleri. |
-| createSignatureStream | CreateSignatureStream | Çıktı imzası önizleme akışı oluşturma yöntemini tanımlayan temsilci. |
-| releaseSignatureStream | ReleaseSignatureStream | Çıktı imzası önizleme akışını serbest bırakma yöntemini tanımlayan temsilci. |
+| createSignatureStream | CreateSignatureStream | Çıktı imza önizleme akışı oluşturmak için yöntemi tanımlayan temsilci. |
+| releaseSignatureStream | ReleaseSignatureStream | Çıktı imza önizleme akışını serbest bırakmak için yöntemi tanımlayan temsilci. |
 
 ### Ayrıca bakınız
 

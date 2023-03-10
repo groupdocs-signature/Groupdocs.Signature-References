@@ -3,7 +3,7 @@ title: ProcessLog
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Belge işlem ayrıntılarını temsil eder.
 type: docs
-weight: 730
+weight: 760
 url: /tr/net/groupdocs.signature.domain/processlog/
 ---
 ## ProcessLog class

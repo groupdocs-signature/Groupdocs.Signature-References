@@ -3,7 +3,7 @@ title: CreateSignatureStream
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Çıktı imza önizleme akışı oluşturmak için yöntemi tanımlayan temsilci.
 type: docs
-weight: 1240
+weight: 1320
 url: /tr/net/groupdocs.signature.options/createsignaturestream/
 ---
 ## CreateSignatureStream delegate

@@ -16,7 +16,7 @@ public byte ColorResolution { get; set; }
 
 ### Notlar
 
-Renk Çözünürlüğü - Orijinal görüntüsü için kullanılabilen birincil renk başına bit sayısı, eksi 1. Bu değer, grafikte kullanılan renklerin gerçekte sayısını değil, grafikteki renklerin seçildiği öğesinden itibaren tüm paletin boyutunu temsil eder. Örneğin, bu alandaki değer 3 ise, o zaman orijinal görüntünün paletinde, görüntüyü oluşturmak için her birincil renk için mevcut 4 bit vardı. Bu değer, kaynak makinede tüm paletteki her renk kullanılabilir olmasa bile orijinal paletin zenginliğini gösterecek şekilde ayarlanmalıdır.
+Renk Çözünürlüğü - Orijinal görüntüsü için kullanılabilen birincil renk başına bit sayısı, eksi 1. Bu değer, grafikte kullanılan renklerin sayısını değil, grafikteki renklerin seçildiği 'den tüm paletin boyutunu temsil eder. Örneğin, bu alandaki değer 3 ise, orijinal görüntünün paletinde görüntüyü oluşturmak için birincil renk başına 4 bit kullanılabilir bulunur. Bu değer, tüm paletteki her renk kaynak makinede mevcut olmasa bile orijinal paletin zenginliğini gösterecek şekilde ayarlanmalıdır.
 
 ### Ayrıca bakınız
 

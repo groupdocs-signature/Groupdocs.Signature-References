@@ -1,14 +1,14 @@
 ---
 title: Format
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Barkod imza görüntüsünün biçimini belirtir.
+description: Barkod imza görüntüsünün formatını belirtir.
 type: docs
 weight: 40
 url: /tr/net/groupdocs.signature.domain/barcodesignature/format/
 ---
 ## BarcodeSignature.Format property
 
-Barkod imza görüntüsünün biçimini belirtir.
+Barkod imza görüntüsünün formatını belirtir.
 
 ```csharp
 public FileType Format { get; }

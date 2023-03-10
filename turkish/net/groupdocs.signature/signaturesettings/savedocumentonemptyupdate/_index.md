@@ -1,14 +1,14 @@
 ---
 title: SaveDocumentOnEmptyUpdate
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Güncelleme yönteminin güncellenecek imzası olmadığında kaynak belgeyi yeniden kaydetmek için bayrağı alır veya ayarlar. Bu işaret true olarak ayarlanırsa varsayılan olarak belge Güncelleme yönteminin sahip olduğu geçmiş işlem günlüğü tarih ve işlem türü ile kaydedilecektir. güncellenecek imza yok. Bu daire yanlış kaynak olarak ayarlandığında belge hiç değiştirilmeyecek.
+description: Güncelleme yönteminin güncellenecek imzası olmadığında kaynak belgeyi yeniden kaydetmek için işaret alır veya ayarlar. Bu işaret doğru olarak ayarlanırsa varsayılan olarak belge Güncelle olmasa bile ilgili geçmiş işlem günlüğüyle tarih ve işlem türü kaydedilecektir. yöntemin güncellenecek imzası yok. Bu düz ayar yanlış olarak ayarlandığında kaynak belge hiç değiştirilmeyecek.
 type: docs
-weight: 40
+weight: 70
 url: /tr/net/groupdocs.signature/signaturesettings/savedocumentonemptyupdate/
 ---
 ## SignatureSettings.SaveDocumentOnEmptyUpdate property
 
-Güncelleme yönteminin güncellenecek imzası olmadığında kaynak belgeyi yeniden kaydetmek için bayrağı alır veya ayarlar. Bu işaret true olarak ayarlanırsa (varsayılan olarak) belge, Güncelleme yönteminin sahip olduğu geçmiş işlem günlüğü (tarih ve işlem türü) ile kaydedilecektir. güncellenecek imza yok. Bu daire yanlış kaynak olarak ayarlandığında belge hiç değiştirilmeyecek.
+Güncelleme yönteminin güncellenecek imzası olmadığında kaynak belgeyi yeniden kaydetmek için işaret alır veya ayarlar. Bu işaret doğru olarak ayarlanırsa (varsayılan olarak) belge, Güncelle olmasa bile ilgili geçmiş işlem günlüğüyle (tarih ve işlem türü) kaydedilecektir. yöntemin güncellenecek imzası yok. Bu düz ayar yanlış olarak ayarlandığında kaynak belge hiç değiştirilmeyecek.
 
 ```csharp
 public bool SaveDocumentOnEmptyUpdate { get; set; }

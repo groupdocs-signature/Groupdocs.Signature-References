@@ -1,14 +1,14 @@
 ---
 title: EMF
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Gelişmiş Windows Meta Dosyası .emf cihazdan bağımsız olarak grafik görüntüleri temsil eder. EMFnin meta dosyaları herhangi bir çıktı aygıtında ayrıştırıldıktan sonra depolanan görüntüyü işleyebilen kronolojik sırada yer alan değişken uzunluklu kayıtlardan oluşur. Bu dosya formatı hakkında daha fazla bilgi edininburadahttps//wiki.fileformat.com/image/emf .
+description: Gelişmiş Windows Meta Dosyası .emf cihazdan bağımsız olarak grafik görüntüleri temsil eder. EMFnin meta dosyaları herhangi bir çıktı aygıtında ayrıştırıldıktan sonra depolanan görüntüyü işleyebilen kronolojik sırada yer alan değişken uzunluklu kayıtlardan oluşur. Bu dosya formatı hakkında daha fazla bilgi edininBuradahttps//wiki.fileformat.com/image/emf .
 type: docs
 weight: 140
 url: /tr/net/groupdocs.signature.domain/filetype/emf/
 ---
 ## FileType.EMF field
 
-Gelişmiş Windows Meta Dosyası (.emf), cihazdan bağımsız olarak grafik görüntüleri temsil eder. EMF'nin meta dosyaları, herhangi bir çıktı aygıtında ayrıştırıldıktan sonra depolanan görüntüyü işleyebilen, kronolojik sırada yer alan değişken uzunluklu kayıtlardan oluşur. Bu dosya formatı hakkında daha fazla bilgi edinin[burada](https://wiki.fileformat.com/image/emf) .
+Gelişmiş Windows Meta Dosyası (.emf), cihazdan bağımsız olarak grafik görüntüleri temsil eder. EMF'nin meta dosyaları, herhangi bir çıktı aygıtında ayrıştırıldıktan sonra depolanan görüntüyü işleyebilen, kronolojik sırada yer alan değişken uzunluklu kayıtlardan oluşur. Bu dosya formatı hakkında daha fazla bilgi edinin[Burada](https://wiki.fileformat.com/image/emf) .
 
 ```csharp
 public static readonly FileType EMF;

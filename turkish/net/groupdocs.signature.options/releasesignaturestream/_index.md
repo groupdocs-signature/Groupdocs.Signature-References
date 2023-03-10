@@ -3,7 +3,7 @@ title: ReleaseSignatureStream
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Çıktı imza ön izleme akışını yayınlama yöntemini tanımlayan temsilci.
 type: docs
-weight: 1580
+weight: 1660
 url: /tr/net/groupdocs.signature.options/releasesignaturestream/
 ---
 ## ReleaseSignatureStream delegate

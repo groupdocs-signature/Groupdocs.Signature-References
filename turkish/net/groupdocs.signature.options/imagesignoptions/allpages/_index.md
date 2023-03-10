@@ -1,14 +1,14 @@
 ---
 title: AllPages
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Tüm belge sayfalarına imza koyun. Bu özellik yalnızca çok kareli görüntü biçimleri Tiff için kullanılabilir.
+description: Tüm belge sayfalarına imza koy. Bu özellik yalnızca çok çerçeveli görüntü biçimleri Tiff için kullanılabilir.
 type: docs
 weight: 30
 url: /tr/net/groupdocs.signature.options/imagesignoptions/allpages/
 ---
 ## ImageSignOptions.AllPages property
 
-Tüm belge sayfalarına imza koyun. Bu özellik yalnızca çok kareli görüntü biçimleri (Tiff) için kullanılabilir.
+Tüm belge sayfalarına imza koy. Bu özellik yalnızca çok çerçeveli görüntü biçimleri (Tiff) için kullanılabilir.
 
 ```csharp
 public override bool AllPages { get; set; }

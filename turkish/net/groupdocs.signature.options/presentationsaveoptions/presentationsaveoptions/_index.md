@@ -53,7 +53,7 @@ public PresentationSaveOptions(bool overwriteExistingFile)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| overwriteExistingFile | Boolean | Aynı dosya ile imzalanmış dosyanın üzerine yazıp yazılmayacağını işaretleyin. |
+| overwriteExistingFile | Boolean | İmzalı dosyanın üzerine aynı dosyanın yazıp yazmayacağını işaretleyin. |
 
 ### Ayrıca bakınız
 
@@ -74,7 +74,7 @@ public PresentationSaveOptions(PresentationSaveFileFormat fileFormat, bool overw
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
 | fileFormat | PresentationSaveFileFormat | Çıktı dosyası türü[`PresentationSaveFileFormat`](../../../groupdocs.signature.domain/presentationsavefileformat). |
-| overwriteExistingFile | Boolean | Aynı dosya ile imzalanmış dosyanın üzerine yazıp yazılmayacağını işaretleyin. |
+| overwriteExistingFile | Boolean | İmzalı dosyanın üzerine aynı dosyanın yazıp yazmayacağını işaretleyin. |
 
 ### Ayrıca bakınız
 

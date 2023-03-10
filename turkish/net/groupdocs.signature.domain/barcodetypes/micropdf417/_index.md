@@ -3,7 +3,7 @@ title: MicroPdf417
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: MicroPdf417 Barkod Türü nesnesi.
 type: docs
-weight: 430
+weight: 460
 url: /tr/net/groupdocs.signature.domain/barcodetypes/micropdf417/
 ---
 ## BarcodeTypes.MicroPdf417 field

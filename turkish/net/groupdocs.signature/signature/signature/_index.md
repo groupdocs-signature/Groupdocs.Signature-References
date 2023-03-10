@@ -22,8 +22,8 @@ public Signature(Stream document)
 
 **Daha fazla bilgi edin**
 
-* GroupDocs tarafından desteklenen dosya türleri hakkında daha fazla bilgi.Signature: [GroupDocs.Signature tarafından desteklenen belge biçimleri](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
-* GroupDocs hakkında daha fazla bilgi. .NET özellikleri için imza: [Geliştirici Kılavuzu](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
+* GroupDocs.Signature tarafından desteklenen dosya türleri hakkında daha fazla bilgi: [GroupDocs.Signature tarafından desteklenen belge biçimleri](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
+* GroupDocs.Signature for .NET özellikleri hakkında daha fazla bilgi: [Geliştirici Kılavuzu](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
 
 ### Ayrıca bakınız
 
@@ -35,7 +35,7 @@ public Signature(Stream document)
 
 ## Signature(Stream, LoadOptions) {#constructor_1}
 
-Yeni örneğini başlatır[`Signature`](../../signature) akış ve yükleme seçenekleri tarafından sağlanan belgeye sahip sınıfLoadOptions .
+Yeni örneğini başlatır[`Signature`](../../signature) akış ve yükleme seçenekleri tarafından sağlanan belgeli sınıfLoadOptions .
 
 ```csharp
 public Signature(Stream document, LoadOptions loadOptions)
@@ -50,9 +50,9 @@ public Signature(Stream document, LoadOptions loadOptions)
 
 **Daha fazla bilgi edin**
 
-* GroupDocs tarafından desteklenen dosya türleri hakkında daha fazla bilgi.Signature: [GroupDocs.Signature tarafından desteklenen belge biçimleri](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
-* GroupDocs hakkında daha fazla bilgi. .NET özellikleri için imza: [Geliştirici Kılavuzu](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
-* Parola korumalı belgeleri ve farklı depolardaki belgeleri açma ve e-imzalama hakkında daha fazla bilgi: [GroupDocs.Signature kullanarak belgeleri yükleyin ve e-imzalayın](https://docs.groupdocs.com/display/signaturenet/Loading)
+* GroupDocs.Signature tarafından desteklenen dosya türleri hakkında daha fazla bilgi: [GroupDocs.Signature tarafından desteklenen belge biçimleri](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
+* GroupDocs.Signature for .NET özellikleri hakkında daha fazla bilgi: [Geliştirici Kılavuzu](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
+* Parola korumalı belgelerin ve farklı depolardaki belgelerin nasıl açılacağı ve e-İmzalanacağı hakkında daha fazla bilgi: [GroupDocs.Signature kullanarak belgeleri yükleyin ve e-İmzalayın](https://docs.groupdocs.com/display/signaturenet/Loading)
 
 ### Ayrıca bakınız
 
@@ -65,7 +65,7 @@ public Signature(Stream document, LoadOptions loadOptions)
 
 ## Signature(Stream, SignatureSettings) {#constructor_3}
 
-Yeni örneğini başlatır[`Signature`](../../signature) akış tarafından sağlanan belgeyle sınıf örneği ve[`SignatureSettings`](../../signaturesettings) .
+Yeni örneğini başlatır[`Signature`](../../signature)akış tarafından sağlanan belge ile sınıf örneği ve[`SignatureSettings`](../../signaturesettings) .
 
 ```csharp
 public Signature(Stream document, SignatureSettings settings)
@@ -80,8 +80,8 @@ public Signature(Stream document, SignatureSettings settings)
 
 **Daha fazla bilgi edin**
 
-* GroupDocs tarafından desteklenen dosya türleri hakkında daha fazla bilgi.Signature: [GroupDocs.Signature tarafından desteklenen belge biçimleri](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
-* GroupDocs hakkında daha fazla bilgi. .NET özellikleri için imza: [Geliştirici Kılavuzu](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
+* GroupDocs.Signature tarafından desteklenen dosya türleri hakkında daha fazla bilgi: [GroupDocs.Signature tarafından desteklenen belge biçimleri](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
+* GroupDocs.Signature for .NET özellikleri hakkında daha fazla bilgi: [Geliştirici Kılavuzu](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
 
 ### Ayrıca bakınız
 
@@ -110,9 +110,9 @@ public Signature(Stream document, LoadOptions loadOptions, SignatureSettings set
 
 **Daha fazla bilgi edin**
 
-* GroupDocs tarafından desteklenen dosya türleri hakkında daha fazla bilgi.Signature: [GroupDocs.Signature tarafından desteklenen belge biçimleri](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
-* GroupDocs hakkında daha fazla bilgi. .NET özellikleri için imza: [Geliştirici Kılavuzu](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
-* Parola korumalı belgeleri ve farklı depolardaki belgeleri açma ve e-imzalama hakkında daha fazla bilgi: [GroupDocs.Signature kullanarak belgeleri yükleyin ve e-imzalayın](https://docs.groupdocs.com/display/signaturenet/Loading)
+* GroupDocs.Signature tarafından desteklenen dosya türleri hakkında daha fazla bilgi: [GroupDocs.Signature tarafından desteklenen belge biçimleri](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
+* GroupDocs.Signature for .NET özellikleri hakkında daha fazla bilgi: [Geliştirici Kılavuzu](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
+* Parola korumalı belgelerin ve farklı depolardaki belgelerin nasıl açılacağı ve e-İmzalanacağı hakkında daha fazla bilgi: [GroupDocs.Signature kullanarak belgeleri yükleyin ve e-İmzalayın](https://docs.groupdocs.com/display/signaturenet/Loading)
 
 ### Ayrıca bakınız
 
@@ -126,7 +126,7 @@ public Signature(Stream document, LoadOptions loadOptions, SignatureSettings set
 
 ## Signature(string) {#constructor_4}
 
-Yeni örneğini başlatır[`Signature`](../../signature) dosya yolu tarafından sağlanan belgeye sahip sınıf örneği.
+Yeni örneğini başlatır[`Signature`](../../signature) dosya yolu. tarafından sağlanan belge ile sınıf örneği
 
 ```csharp
 public Signature(string filePath)
@@ -140,8 +140,8 @@ public Signature(string filePath)
 
 **Daha fazla bilgi edin**
 
-* GroupDocs tarafından desteklenen dosya türleri hakkında daha fazla bilgi.Signature: [GroupDocs.Signature tarafından desteklenen belge biçimleri](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
-* GroupDocs hakkında daha fazla bilgi. .NET özellikleri için imza: [Geliştirici Kılavuzu](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
+* GroupDocs.Signature tarafından desteklenen dosya türleri hakkında daha fazla bilgi: [GroupDocs.Signature tarafından desteklenen belge biçimleri](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
+* GroupDocs.Signature for .NET özellikleri hakkında daha fazla bilgi: [Geliştirici Kılavuzu](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
 
 ### Ayrıca bakınız
 
@@ -168,9 +168,9 @@ public Signature(string filePath, LoadOptions loadOptions)
 
 **Daha fazla bilgi edin**
 
-* GroupDocs tarafından desteklenen dosya türleri hakkında daha fazla bilgi.Signature: [GroupDocs.Signature tarafından desteklenen belge biçimleri](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
-* GroupDocs hakkında daha fazla bilgi. .NET özellikleri için imza: [Geliştirici Kılavuzu](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
-* Parola korumalı belgeleri ve farklı depolardaki belgeleri açma ve e-imzalama hakkında daha fazla bilgi: [GroupDocs.Signature kullanarak belgeleri yükleyin ve e-imzalayın](https://docs.groupdocs.com/display/signaturenet/Loading)
+* GroupDocs.Signature tarafından desteklenen dosya türleri hakkında daha fazla bilgi: [GroupDocs.Signature tarafından desteklenen belge biçimleri](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
+* GroupDocs.Signature for .NET özellikleri hakkında daha fazla bilgi: [Geliştirici Kılavuzu](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
+* Parola korumalı belgelerin ve farklı depolardaki belgelerin nasıl açılacağı ve e-İmzalanacağı hakkında daha fazla bilgi: [GroupDocs.Signature kullanarak belgeleri yükleyin ve e-İmzalayın](https://docs.groupdocs.com/display/signaturenet/Loading)
 
 ### Ayrıca bakınız
 
@@ -198,8 +198,8 @@ public Signature(string filePath, SignatureSettings settings)
 
 **Daha fazla bilgi edin**
 
-* GroupDocs tarafından desteklenen dosya türleri hakkında daha fazla bilgi.Signature: [GroupDocs.Signature tarafından desteklenen belge biçimleri](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
-* GroupDocs hakkında daha fazla bilgi. .NET özellikleri için imza: [Geliştirici Kılavuzu](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
+* GroupDocs.Signature tarafından desteklenen dosya türleri hakkında daha fazla bilgi: [GroupDocs.Signature tarafından desteklenen belge biçimleri](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
+* GroupDocs.Signature for .NET özellikleri hakkında daha fazla bilgi: [Geliştirici Kılavuzu](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
 
 ### Ayrıca bakınız
 
@@ -212,7 +212,7 @@ public Signature(string filePath, SignatureSettings settings)
 
 ## Signature(string, LoadOptions, SignatureSettings) {#constructor_6}
 
-Yeni örneğini başlatır[`Signature`](../../signature) dosya yolu tarafından sağlanan belge ile sınıf örneği,LoadOptions ve[`SignatureSettings`](../../signaturesettings) .
+Yeni örneğini başlatır[`Signature`](../../signature) dosya yolu tarafından sağlanan belge ile sınıf örneği,LoadOptions Ve[`SignatureSettings`](../../signaturesettings) .
 
 ```csharp
 public Signature(string filePath, LoadOptions loadOptions, SignatureSettings settings)
@@ -228,9 +228,9 @@ public Signature(string filePath, LoadOptions loadOptions, SignatureSettings set
 
 **Daha fazla bilgi edin**
 
-* GroupDocs tarafından desteklenen dosya türleri hakkında daha fazla bilgi.Signature: [GroupDocs.Signature tarafından desteklenen belge biçimleri](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
-* GroupDocs hakkında daha fazla bilgi. .NET özellikleri için imza: [Geliştirici Kılavuzu](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
-* Parola korumalı belgeleri ve farklı depolardaki belgeleri açma ve e-imzalama hakkında daha fazla bilgi: [GroupDocs.Signature kullanarak belgeleri yükleyin ve e-imzalayın](https://docs.groupdocs.com/display/signaturenet/Loading)
+* GroupDocs.Signature tarafından desteklenen dosya türleri hakkında daha fazla bilgi: [GroupDocs.Signature tarafından desteklenen belge biçimleri](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
+* GroupDocs.Signature for .NET özellikleri hakkında daha fazla bilgi: [Geliştirici Kılavuzu](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
+* Parola korumalı belgelerin ve farklı depolardaki belgelerin nasıl açılacağı ve e-İmzalanacağı hakkında daha fazla bilgi: [GroupDocs.Signature kullanarak belgeleri yükleyin ve e-İmzalayın](https://docs.groupdocs.com/display/signaturenet/Loading)
 
 ### Ayrıca bakınız
 

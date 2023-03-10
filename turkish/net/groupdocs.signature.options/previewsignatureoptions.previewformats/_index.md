@@ -1,14 +1,14 @@
 ---
 title: PreviewSignatureOptions.PreviewFormats
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: İmza önizlemesi desteklenen biçimler
+description: İmza önizlemesi desteklenen formatlar
 type: docs
-weight: 1530
+weight: 1610
 url: /tr/net/groupdocs.signature.options/previewsignatureoptions.previewformats/
 ---
 ## PreviewSignatureOptions.PreviewFormats enumeration
 
-İmza önizlemesi desteklenen biçimler
+İmza önizlemesi desteklenen formatlar
 
 ```csharp
 public enum PreviewFormats

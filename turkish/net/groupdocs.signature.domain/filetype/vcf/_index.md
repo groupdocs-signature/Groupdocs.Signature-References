@@ -1,14 +1,14 @@
 ---
 title: VCF
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: vCard Dosyası .vcf iletişim bilgilerini depolamak için kullanılan bir dijital dosya biçimidir. Biçim popüler bilgi alışverişi uygulamaları arasında veri alışverişi için yaygın olarak kullanılır. Bu dosya biçimi hakkında daha fazla bilgi edininburadahttps//wiki.fileformat.com/email/vcf .
+description: vCard Dosyası .vcf iletişim bilgilerini depolamak için kullanılan bir dijital dosya biçimidir. Biçim popüler bilgi alışverişi uygulamaları arasında veri alışverişi için yaygın olarak kullanılır. Bu dosya biçimi hakkında daha fazla bilgi edininBuradahttps//wiki.fileformat.com/email/vcf .
 type: docs
-weight: 470
+weight: 480
 url: /tr/net/groupdocs.signature.domain/filetype/vcf/
 ---
 ## FileType.VCF field
 
-vCard Dosyası (.vcf), iletişim bilgilerini depolamak için kullanılan bir dijital dosya biçimidir. Biçim, popüler bilgi alışverişi uygulamaları arasında veri alışverişi için yaygın olarak kullanılır. Bu dosya biçimi hakkında daha fazla bilgi edinin[burada](https://wiki.fileformat.com/email/vcf) .
+vCard Dosyası (.vcf), iletişim bilgilerini depolamak için kullanılan bir dijital dosya biçimidir. Biçim, popüler bilgi alışverişi uygulamaları arasında veri alışverişi için yaygın olarak kullanılır. Bu dosya biçimi hakkında daha fazla bilgi edinin[Burada](https://wiki.fileformat.com/email/vcf) .
 
 ```csharp
 public static readonly FileType VCF;

@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Geçersiz kılma method ye eşittir
+description: Geçersiz kılma eşittir method
 type: docs
 weight: 90
 url: /tr/net/groupdocs.signature.domain/corners/equals/
 ---
 ## Corners.Equals method
 
-Geçersiz kılma, method 'ye eşittir
+Geçersiz kılma eşittir method
 
 ```csharp
 public override bool Equals(object obj)

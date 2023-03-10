@@ -3,7 +3,7 @@ title: TiffSaveOptions
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Görüntü belgeleri için Tiff Kaydetme seçenekleri.
 type: docs
-weight: 1680
+weight: 1760
 url: /tr/net/groupdocs.signature.options/tiffsaveoptions/
 ---
 ## TiffSaveOptions class

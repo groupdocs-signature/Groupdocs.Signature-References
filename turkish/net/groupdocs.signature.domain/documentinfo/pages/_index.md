@@ -3,7 +3,7 @@ title: Pages
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Belge sayfaları açıklamalarının toplanması.
 type: docs
-weight: 100
+weight: 110
 url: /tr/net/groupdocs.signature.domain/documentinfo/pages/
 ---
 ## DocumentInfo.Pages property

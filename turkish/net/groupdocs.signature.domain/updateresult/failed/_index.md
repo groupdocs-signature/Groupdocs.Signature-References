@@ -3,7 +3,7 @@ title: Failed
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Güncellenmemiş imzaların listesiBaseSignaturegroupdocs.signature.domain/basesignature .
 type: docs
-weight: 10
+weight: 20
 url: /tr/net/groupdocs.signature.domain/updateresult/failed/
 ---
 ## UpdateResult.Failed property

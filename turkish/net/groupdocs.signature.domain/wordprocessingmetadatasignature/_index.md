@@ -3,7 +3,7 @@ title: WordProcessingMetadataSignature
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: WordProcessing Metadata Signature özelliklerini içerir.
 type: docs
-weight: 1040
+weight: 1070
 url: /tr/net/groupdocs.signature.domain/wordprocessingmetadatasignature/
 ---
 ## WordProcessingMetadataSignature class
@@ -37,6 +37,7 @@ public sealed class WordProcessingMetadataSignature : MetadataSignature
 | [SignatureId](../../groupdocs.signature.domain/basesignature/signatureid) { get; } | Belgedeki imzayı Güncelleme veya Silme yöntemleri üzerinden değiştirmek için benzersiz imza tanımlayıcı. Bu özellik, İmzalama veya Arama yöntemi çağrıldıktan sonra otomatik olarak ayarlanacaktır. Bu özellik, imzayı değiştirmek için manuel olarak ayarlanmadan önce kaydedilmişse. |
 | [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | İmza türünü belirtir. |
 | [Top](../../groupdocs.signature.domain/basesignature/top) { get; set; } | İmzanın en üst konumunu belirtir. |
+| [Type](../../groupdocs.signature.domain/metadatasignature/type) { get; } | Meta veri değeri türünü belirtir. |
 | [Value](../../groupdocs.signature.domain/metadatasignature/value) { get; set; } | Meta veri nesnesini belirtir. |
 | [Width](../../groupdocs.signature.domain/basesignature/width) { get; set; } | İmza genişliğini belirtir. |
 

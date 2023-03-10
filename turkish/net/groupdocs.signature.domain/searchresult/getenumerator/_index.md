@@ -3,7 +3,7 @@ title: GetEnumerator
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Numaralandırıcıyı döndürür.
 type: docs
-weight: 20
+weight: 70
 url: /tr/net/groupdocs.signature.domain/searchresult/getenumerator/
 ---
 ## SearchResult.GetEnumerator method

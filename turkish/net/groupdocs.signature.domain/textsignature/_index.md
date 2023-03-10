@@ -1,14 +1,14 @@
 ---
 title: TextSignature
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Metin imzası özelliklerini içerir.
+description: Metin imza özelliklerini içerir.
 type: docs
-weight: 970
+weight: 1000
 url: /tr/net/groupdocs.signature.domain/textsignature/
 ---
 ## TextSignature class
 
-Metin imzası özelliklerini içerir.
+Metin imza özelliklerini içerir.
 
 ```csharp
 public class TextSignature : BaseSignature
@@ -18,7 +18,7 @@ public class TextSignature : BaseSignature
 
 | İsim | Tanım |
 | --- | --- |
-| [TextSignature](textsignature)(string) | Arama işleminden sonra elde edilen imza tanımlayıcılı TextSignature nesnesini başlat. Bu benzersiz tanımlayıcı, belge imza bilgi katmanından bu imza için ek özellikler bulmak için kullanılır. |
+| [TextSignature](textsignature)(string) | TextSignature nesnesini, arama işleminden sonra elde edilen imza tanımlayıcıyla başlat. Bu benzersiz tanımlayıcı, belge imza bilgisi katmanından bu imza için ek özellikler bulmak için kullanılır. |
 
 ## Özellikleri
 
@@ -30,7 +30,7 @@ public class TextSignature : BaseSignature
 | [IsSignature](../../groupdocs.signature.domain/basesignature/issignature) { get; set; } | Bu bileşenin İmza mı yoksa belge içeriği mi olduğunu belirtmek için işaret alın veya ayarlayın. Bu özellik, öğeyi imza (doğru) veya belge öğesi (yanlış) olarak ayarlamak için Update yöntemiyle birlikte kullanılıyor. |
 | [Left](../../groupdocs.signature.domain/basesignature/left) { get; set; } | İmzanın sol konumunu belirtir. |
 | [ModifiedOn](../../groupdocs.signature.domain/basesignature/modifiedon) { get; set; } | İmza değiştirme tarihini alın veya ayarlayın. |
-| [Native](../../groupdocs.signature.domain/textsignature/native) { get; set; } | Yerel özniteliği belirtir. İmzanın belgeye özel olması doğrudur. |
+| [Native](../../groupdocs.signature.domain/textsignature/native) { get; set; } | Yerel özniteliği belirtir. İmza belgeye özel ise doğrudur. |
 | [PageNumber](../../groupdocs.signature.domain/basesignature/pagenumber) { get; } | . üzerinde bulunan sayfa imzasını belirtir |
 | [SignatureId](../../groupdocs.signature.domain/basesignature/signatureid) { get; } | Belgedeki imzayı Güncelleme veya Silme yöntemleri üzerinden değiştirmek için benzersiz imza tanımlayıcı. Bu özellik, İmzalama veya Arama yöntemi çağrıldıktan sonra otomatik olarak ayarlanacaktır. Bu özellik, imzayı değiştirmek için manuel olarak ayarlanmadan önce kaydedilmişse. |
 | [SignatureImplementation](../../groupdocs.signature.domain/textsignature/signatureimplementation) { get; } | Metin imza uygulamasını belirtir. |
@@ -43,7 +43,7 @@ public class TextSignature : BaseSignature
 
 | İsim | Tanım |
 | --- | --- |
-| override [Clone](../../groupdocs.signature.domain/textsignature/clone)() | Metin İmzası örneğini Klonla. |
+| override [Clone](../../groupdocs.signature.domain/textsignature/clone)() | Metin İmzasını Kopyala örneği. |
 | override [Equals](../../groupdocs.signature.domain/textsignature/equals)(object) | İmza özelliklerini karşılaştırmak için Equals yönteminin üzerine yazar |
 | override [GetHashCode](../../groupdocs.signature.domain/textsignature/gethashcode)() | GetHashCode yöntemini geçersiz kılar |
 

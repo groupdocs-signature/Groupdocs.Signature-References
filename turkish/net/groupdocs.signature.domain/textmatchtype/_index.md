@@ -3,7 +3,7 @@ title: TextMatchType
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: string. içindeki metin eşleme türünü belirtir
 type: docs
-weight: 950
+weight: 980
 url: /tr/net/groupdocs.signature.domain/textmatchtype/
 ---
 ## TextMatchType enumeration

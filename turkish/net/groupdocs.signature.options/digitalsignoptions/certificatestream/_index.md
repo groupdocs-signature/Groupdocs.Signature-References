@@ -1,14 +1,14 @@
 ---
 title: CertificateStream
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Dijital sertifika akışını alır veya ayarlar. Bu özellik belirtilirse bunun yerine her zaman kullanılır CertificateFilePath.
+description: Dijital sertifika akışını alır veya ayarlar. Bu özellik belirtilirse her zaman yerine CertificateFilePath. kullanılır.
 type: docs
 weight: 30
 url: /tr/net/groupdocs.signature.options/digitalsignoptions/certificatestream/
 ---
 ## DigitalSignOptions.CertificateStream property
 
-Dijital sertifika akışını alır veya ayarlar. Bu özellik belirtilirse, bunun yerine her zaman kullanılır CertificateFilePath.
+Dijital sertifika akışını alır veya ayarlar. Bu özellik belirtilirse, her zaman yerine CertificateFilePath. kullanılır.
 
 ```csharp
 public Stream CertificateStream { get; set; }

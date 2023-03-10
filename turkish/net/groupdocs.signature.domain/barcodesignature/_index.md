@@ -1,14 +1,14 @@
 ---
 title: BarcodeSignature
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Barkod İmzası özelliklerini içerir.
+description: Barkod İmza özelliklerini içerir.
 type: docs
 weight: 20
 url: /tr/net/groupdocs.signature.domain/barcodesignature/
 ---
 ## BarcodeSignature class
 
-Barkod İmzası özelliklerini içerir.
+Barkod İmza özelliklerini içerir.
 
 ```csharp
 public class BarcodeSignature : BaseSignature
@@ -18,17 +18,17 @@ public class BarcodeSignature : BaseSignature
 
 | İsim | Tanım |
 | --- | --- |
-| [BarcodeSignature](barcodesignature)(string) | Arama işleminden sonra elde edilen imza tanımlayıcılı BarcodeSignature nesnesini başlat. Bu benzersiz tanımlayıcı, belge imza bilgi katmanından bu imza için ek özellikler bulmak için kullanılır. |
+| [BarcodeSignature](barcodesignature)(string) | BarcodeSignature nesnesini, arama işleminden sonra elde edilen imza tanımlayıcısı ile başlat. Bu benzersiz tanımlayıcı, belge imza bilgisi katmanından bu imza için ek özellikler bulmak için kullanılır. |
 
 ## Özellikleri
 
 | İsim | Tanım |
 | --- | --- |
-| [Content](../../groupdocs.signature.domain/barcodesignature/content) { get; } | Türün Barkod ikili veri görüntü içeriğini belirtir[`Format`](./format) . Varsayılan olarak bu özellik ayarlanmaz. Özelliği kullan[`ReturnContent`](../../groupdocs.signature.options/barcodesearchoptions/returncontent) bu özelliği etkinleştirmek için. |
+| [Content](../../groupdocs.signature.domain/barcodesignature/content) { get; } | Türün Barkod ikili veri görüntü içeriğini belirtir[`Format`](./format) . Varsayılan olarak bu özellik ayarlanmayacaktır. Özelliği kullan[`ReturnContent`](../../groupdocs.signature.options/barcodesearchoptions/returncontent) bu özelliği etkinleştirmek için. |
 | [CreatedOn](../../groupdocs.signature.domain/basesignature/createdon) { get; set; } | İmza oluşturma tarihini alın veya ayarlayın. |
 | [Deleted](../../groupdocs.signature.domain/basesignature/deleted) { get; } | Bu imzanın belgeden silinip silinmediğini gösteren bayrağı alın. Bu özellik, silinen imzaların listesini tutmak için yalnızca belge geçmişi günlük kayıtları için kullanılır. |
 | [EncodeType](../../groupdocs.signature.domain/barcodesignature/encodetype) { get; } | Barkod Kodlama Türünü belirtir. |
-| [Format](../../groupdocs.signature.domain/barcodesignature/format) { get; } | Barkod imza görüntüsünün biçimini belirtir. |
+| [Format](../../groupdocs.signature.domain/barcodesignature/format) { get; } | Barkod imza görüntüsünün formatını belirtir. |
 | [Height](../../groupdocs.signature.domain/basesignature/height) { get; set; } | İmzanın yüksekliğini belirtir. |
 | [IsSignature](../../groupdocs.signature.domain/basesignature/issignature) { get; set; } | Bu bileşenin İmza mı yoksa belge içeriği mi olduğunu belirtmek için işaret alın veya ayarlayın. Bu özellik, öğeyi imza (doğru) veya belge öğesi (yanlış) olarak ayarlamak için Update yöntemiyle birlikte kullanılıyor. |
 | [Left](../../groupdocs.signature.domain/basesignature/left) { get; set; } | İmzanın sol konumunu belirtir. |

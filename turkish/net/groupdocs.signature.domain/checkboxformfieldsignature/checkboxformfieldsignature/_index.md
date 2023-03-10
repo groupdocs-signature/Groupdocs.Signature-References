@@ -28,7 +28,7 @@ public CheckboxFormFieldSignature(string name)
 
 ## CheckboxFormFieldSignature(string, bool) {#constructor_1}
 
-Önceden tanımlanmış ad ve değerle CheckboxFormFieldSignature oluşturur
+CheckboxFormFieldSignature'ı önceden tanımlanmış ad ve değerle oluşturur
 
 ```csharp
 public CheckboxFormFieldSignature(string name, bool isChecked)

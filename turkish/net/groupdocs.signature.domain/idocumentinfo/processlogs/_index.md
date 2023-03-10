@@ -3,7 +3,7 @@ title: ProcessLogs
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Belge geçmişi işlem günlüklerinin toplanması.
 type: docs
-weight: 100
+weight: 110
 url: /tr/net/groupdocs.signature.domain/idocumentinfo/processlogs/
 ---
 ## IDocumentInfo.ProcessLogs property

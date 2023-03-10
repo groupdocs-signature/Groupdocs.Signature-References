@@ -1,14 +1,14 @@
 ---
 title: BorderEffectIntensity
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Kenar efekti yoğunluğunu alır veya ayarlar. Geçerli değer aralığı 0.2.
+description: Sınır efekti yoğunluğunu alır veya ayarlar. Geçerli değer aralığı 0..2.
 type: docs
 weight: 40
 url: /tr/net/groupdocs.signature.options.appearances/pdftextannotationappearance/bordereffectintensity/
 ---
 ## PdfTextAnnotationAppearance.BorderEffectIntensity property
 
-Kenar efekti yoğunluğunu alır veya ayarlar. Geçerli değer aralığı: [0,.2].
+Sınır efekti yoğunluğunu alır veya ayarlar. Geçerli değer aralığı: [0..2].
 
 ```csharp
 public int BorderEffectIntensity { get; set; }

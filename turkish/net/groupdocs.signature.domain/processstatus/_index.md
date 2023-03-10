@@ -3,7 +3,7 @@ title: ProcessStatus
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: İmzalama ve doğrulama işlemlerinin durumunu belirtir.
 type: docs
-weight: 740
+weight: 770
 url: /tr/net/groupdocs.signature.domain/processstatus/
 ---
 ## ProcessStatus enumeration

@@ -3,7 +3,7 @@ title: Value
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Meta veri nesnesini belirtir.
 type: docs
-weight: 30
+weight: 40
 url: /tr/net/groupdocs.signature.domain/metadatasignature/value/
 ---
 ## MetadataSignature.Value property

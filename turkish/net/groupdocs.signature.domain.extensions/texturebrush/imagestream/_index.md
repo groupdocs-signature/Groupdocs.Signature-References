@@ -1,14 +1,14 @@
 ---
 title: ImageStream
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Doku görüntüsü akışını alır veya ayarlar. Bu özellik belirtilirse bunun yerine her zaman kullanılır ImageFilePath.
+description: Doku görüntü akışını alır veya ayarlar. Bu özellik belirtilirse her zaman bunun yerine ImageFilePath. kullanılır.
 type: docs
 weight: 30
 url: /tr/net/groupdocs.signature.domain.extensions/texturebrush/imagestream/
 ---
 ## TextureBrush.ImageStream property
 
-Doku görüntüsü akışını alır veya ayarlar. Bu özellik belirtilirse, bunun yerine her zaman kullanılır ImageFilePath.
+Doku görüntü akışını alır veya ayarlar. Bu özellik belirtilirse, her zaman bunun yerine ImageFilePath. kullanılır.
 
 ```csharp
 public Stream ImageStream { get; set; }

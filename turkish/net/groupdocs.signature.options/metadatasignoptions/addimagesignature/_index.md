@@ -1,14 +1,14 @@
 ---
 title: AddImageSignature
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Geçirilen bağımsız değişkenlerle yeni ImageMetadataSignature oluşturur ve onu koleksiyona ekler.
+description: Geçirilen bağımsız değişkenlerle yeni ImageMetadataSignature oluşturur ve koleksiyona ekler.
 type: docs
 weight: 50
 url: /tr/net/groupdocs.signature.options/metadatasignoptions/addimagesignature/
 ---
 ## MetadataSignOptions.AddImageSignature method
 
-Geçirilen bağımsız değişkenlerle yeni ImageMetadataSignature oluşturur ve onu koleksiyona ekler.
+Geçirilen bağımsız değişkenlerle yeni ImageMetadataSignature oluşturur ve koleksiyona ekler.
 
 ```csharp
 public ImageMetadataSignature AddImageSignature(ushort id, object value)

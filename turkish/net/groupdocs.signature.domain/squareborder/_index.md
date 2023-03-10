@@ -1,14 +1,14 @@
 ---
 title: SquareBorder
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Kare damga çizgisi için Kenarlık çizgisi özelliklerini korumak için örnek.
+description: Kare damga satırı için Sınır çizgisi özelliklerini korumak için örnek.
 type: docs
-weight: 860
+weight: 890
 url: /tr/net/groupdocs.signature.domain/squareborder/
 ---
 ## SquareBorder class
 
-Kare damga çizgisi için Kenarlık çizgisi özelliklerini korumak için örnek.
+Kare damga satırı için Sınır çizgisi özelliklerini korumak için örnek.
 
 ```csharp
 public class SquareBorder : Border
@@ -19,7 +19,7 @@ public class SquareBorder : Border
 | İsim | Tanım |
 | --- | --- |
 | [SquareBorder](squareborder#constructor_1)(Corners) | Köşe yarıçapı değerleri ile SquareBorderLine oluşturur. |
-| [SquareBorder](squareborder#constructor)(double) | Yuvarlatılmış köşe yarıçaplı SquareBorderLine oluşturur. |
+| [SquareBorder](squareborder#constructor)(double) | Yuvarlatılmış köşe yarıçapına sahip KareBorderLine oluşturur. |
 
 ## Özellikleri
 

@@ -1,14 +1,14 @@
 ---
 title: SaveDocumentOnEmptyDelete
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Delete yönteminde kaldırılacak etkilenmiş imza olmadığında kaynak belgeyi yeniden kaydetmek için işaret alır veya ayarlar. Bu bayrak true olarak ayarlanırsa varsayılan olarak belge Delete yöntemi kullanılsa bile karşılık gelen geçmiş işlem günlüğüyle tarih ve işlem türü kaydedilecektir. kaldırılacak imza yok. Bu düz ayar yanlış olarak ayarlandığında kaynak belge hiç değiştirilmeyecek.
+description: Delete yönteminde kaldırılacak etkilenmiş imza olmadığında kaynak belgeyi yeniden kaydetmek için işaret alır veya ayarlar. Silme yönteminde kaldırılacak imza yok. Bu düz ayar yanlış olarak ayarlandığında kaynak belge hiç değiştirilmeyecek.
 type: docs
-weight: 30
+weight: 60
 url: /tr/net/groupdocs.signature/signaturesettings/savedocumentonemptydelete/
 ---
 ## SignatureSettings.SaveDocumentOnEmptyDelete property
 
-Delete yönteminde kaldırılacak etkilenmiş imza olmadığında kaynak belgeyi yeniden kaydetmek için işaret alır veya ayarlar. Bu bayrak true olarak ayarlanırsa (varsayılan olarak), belge, Delete yöntemi kullanılsa bile karşılık gelen geçmiş işlem günlüğüyle (tarih ve işlem türü) kaydedilecektir. kaldırılacak imza yok. Bu düz ayar yanlış olarak ayarlandığında kaynak belge hiç değiştirilmeyecek.
+Delete yönteminde kaldırılacak etkilenmiş imza olmadığında kaynak belgeyi yeniden kaydetmek için işaret alır veya ayarlar. Silme yönteminde kaldırılacak imza yok. Bu düz ayar yanlış olarak ayarlandığında kaynak belge hiç değiştirilmeyecek.
 
 ```csharp
 public bool SaveDocumentOnEmptyDelete { get; set; }

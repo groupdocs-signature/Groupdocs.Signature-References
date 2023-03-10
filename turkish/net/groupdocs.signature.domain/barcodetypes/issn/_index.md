@@ -3,7 +3,7 @@ title: ISSN
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: ISSN Barkod Türü nesnesi.
 type: docs
-weight: 350
+weight: 380
 url: /tr/net/groupdocs.signature.domain/barcodetypes/issn/
 ---
 ## BarcodeTypes.ISSN field

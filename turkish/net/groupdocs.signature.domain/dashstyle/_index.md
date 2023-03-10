@@ -3,7 +3,7 @@ title: DashStyle
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Belgelerde kısa çizgi çizme stilini temsil eder.
 type: docs
-weight: 110
+weight: 120
 url: /tr/net/groupdocs.signature.domain/dashstyle/
 ---
 ## DashStyle enumeration

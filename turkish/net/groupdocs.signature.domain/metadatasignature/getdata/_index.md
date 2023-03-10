@@ -3,7 +3,7 @@ title: GetData
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Seri kaldırma üzerinden Meta Veri İmza Değerinden nesne elde edin.
 type: docs
-weight: 60
+weight: 70
 url: /tr/net/groupdocs.signature.domain/metadatasignature/getdata/
 ---
 ## GetData&lt;T&gt;() {#getdata}

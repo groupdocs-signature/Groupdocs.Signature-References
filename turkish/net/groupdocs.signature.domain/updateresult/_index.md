@@ -3,7 +3,7 @@ title: UpdateResult
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Belgedeki imzaların değiştirilmesinin sonucu.
 type: docs
-weight: 1010
+weight: 1040
 url: /tr/net/groupdocs.signature.domain/updateresult/
 ---
 ## UpdateResult class
@@ -18,8 +18,12 @@ public class UpdateResult : IResult
 
 | İsim | Tanım |
 | --- | --- |
+| [DestinDocumentSize](../../groupdocs.signature.domain/updateresult/destindocumentsize) { get; } | Hedef belge boyutunu döndürür |
 | [Failed](../../groupdocs.signature.domain/updateresult/failed) { get; } | Güncellenmemiş imzaların listesi[`BaseSignature`](../basesignature) . |
+| [ProcessingTime](../../groupdocs.signature.domain/updateresult/processingtime) { get; } | İşlemin yürütme süresini milisaniye cinsinden döndürür |
+| [SourceDocumentSize](../../groupdocs.signature.domain/updateresult/sourcedocumentsize) { get; } | Kaynak belge boyutunu döndürür |
 | [Succeeded](../../groupdocs.signature.domain/updateresult/succeeded) { get; } | Başarıyla değiştirilen imzaların listesi[`BaseSignature`](../basesignature) . |
+| [TotalSignatures](../../groupdocs.signature.domain/updateresult/totalsignatures) { get; } | Toplam işlenen imzaları döndürür |
 
 ### Ayrıca bakınız
 

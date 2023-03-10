@@ -3,7 +3,7 @@ title: WordProcessingSaveOptions
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Kelime İşleme belgeleri için kaydetme seçenekleri.
 type: docs
-weight: 1710
+weight: 1790
 url: /tr/net/groupdocs.signature.options/wordprocessingsaveoptions/
 ---
 ## WordProcessingSaveOptions class

@@ -1,14 +1,14 @@
 ---
 title: PdfDigitalSignatureAppearance
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Dijital İmzanın PDF belgelerindeki görünümünü açıklar.
+description: PDF belgelerindeki Dijital İmzanın görünümünü açıklar.
 type: docs
-weight: 1140
+weight: 1210
 url: /tr/net/groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/
 ---
 ## PdfDigitalSignatureAppearance class
 
-Dijital İmzanın PDF belgelerindeki görünümünü açıklar.
+PDF belgelerindeki Dijital İmzanın görünümünü açıklar.
 
 ```csharp
 public sealed class PdfDigitalSignatureAppearance : SignatureAppearance
@@ -18,19 +18,19 @@ public sealed class PdfDigitalSignatureAppearance : SignatureAppearance
 
 | İsim | Tanım |
 | --- | --- |
-| [PdfDigitalSignatureAppearance](pdfdigitalsignatureappearance)() | Varsayılan değerlerle imza görünümü nesnesi oluşturur. |
+| [PdfDigitalSignatureAppearance](pdfdigitalsignatureappearance)() | Varsayılan değerlerle imza görünüm nesnesi oluşturur. |
 
 ## Özellikleri
 
 | İsim | Tanım |
 | --- | --- |
-| [Background](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/background) { get; set; } | İmza görünümünün arka plan rengini alın veya ayarlayın. Varsayılan değer SystemColors.Windows |
+| [Background](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/background) { get; set; } | İmza görünümünün arka plan rengini alın veya ayarlayın. Varsayılan değer SystemColors'dır.Windows |
 | [ContactInfoLabel](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/contactinfolabel) { get; set; } | Kişi bilgisi etiketini alır veya ayarlar. Varsayılan değer: "Contact". bu değer boşsa, dijital imza alanında hiçbir kişi etiketi görünmez. |
 | [DateSignedAtLabel](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/datesignedatlabel) { get; set; } | Tarih imzalı etiketi alır veya ayarlar. Varsayılan değer: "Tarih". |
 | [DigitalSignedLabel](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/digitalsignedlabel) { get; set; } | Dijital imzalı etiketi alır veya ayarlar. Varsayılan değer: "Dijital olarak imzalayan". |
-| [FontFamilyName](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/fontfamilyname) { get; set; } | Etiketleri görüntülemek için Yazı Tipi aile adını alır veya ayarlar. Varsayılan değer "Arial"dir. |
-| [FontSize](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/fontsize) { get; set; } | Etiketleri görüntülemek için Yazı Tipi boyutunu alır veya ayarlar. Varsayılan değer 10. |
-| [Foreground](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/foreground) { get; set; } | İmza görünümünün ön plan metin rengini alın veya ayarlayın. Varsayılan değer Color.FromArgb(76, 100, 255) |
+| [FontFamilyName](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/fontfamilyname) { get; set; } | Etiketleri görüntülemek için Font aile adını alır veya ayarlar. Varsayılan değer "Arial"dır. |
+| [FontSize](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/fontsize) { get; set; } | Etiketleri görüntülemek için Yazı tipi boyutunu alır veya ayarlar. Varsayılan değer 10. 'dir. |
+| [Foreground](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/foreground) { get; set; } | İmza görünümünün ön plan metin rengini alın veya ayarlayın. Varsayılan değer Color'dır.FromArgb(76, 100, 255) |
 | [LocationLabel](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/locationlabel) { get; set; } | Konum etiketini alır veya ayarlar. Varsayılan değer: "Konum". bu değer boşsa dijital imza alanında konum etiketi görünmez. |
 | [ReasonLabel](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/reasonlabel) { get; set; } | Neden etiketini alır veya ayarlar. Varsayılan değer: "Reason". bu değer boşsa, dijital imza alanında hiçbir neden etiketi görünmez. |
 
@@ -38,7 +38,7 @@ public sealed class PdfDigitalSignatureAppearance : SignatureAppearance
 
 **Daha fazla bilgi edin**
 
-* GroupDocs ile dijital elektronik imza oluşturmaya ilişkin daha basit örneklere bakın.Signature: [Dijital elektronik imzalı gelişmiş imzalama belgesi](https://docs.groupdocs.com/signature/net/sign-document-with-digital-signature-advanced/)
+* GroupDocs.Signature ile dijital elektronik imza oluşturmaya ilişkin diğer basit örnekleri görün: [Dijital elektronik imzalı gelişmiş imzalama belgesi](https://docs.groupdocs.com/signature/net/sign-document-with-digital-signature-advanced/)
 * GroupDocs.Signature ile çeşitli elektronik imza ayarlarının daha gelişmiş örneklerini görün: [Gelişmiş elektronik imza özellikleri](https://docs.groupdocs.com/signature/net/sign-documents-with-extra-digital-signature-properties/)
 
 ### Ayrıca bakınız

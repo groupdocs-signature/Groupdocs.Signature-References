@@ -1,14 +1,14 @@
 ---
 title: Contact
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Doğrulanacak Kişi İmzası.
+description: Doğrulanacak İmza İlgili Kişisi.
 type: docs
 weight: 60
 url: /tr/net/groupdocs.signature.options/digitalverifyoptions/contact/
 ---
 ## DigitalVerifyOptions.Contact property
 
-Doğrulanacak Kişi İmzası.
+Doğrulanacak İmza İlgili Kişisi.
 
 ```csharp
 public string Contact { get; set; }

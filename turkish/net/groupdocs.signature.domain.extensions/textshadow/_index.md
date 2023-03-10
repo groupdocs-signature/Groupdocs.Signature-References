@@ -3,7 +3,7 @@ title: TextShadow
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Metin imzaları için metin gölgesi özelliklerini temsil eder. Sonuç imza türüne ve belge biçimine bağlı olarak değişebilir. TextShadow desteklenen tüm belge türleri için TextAsImage imzasıyla ayrıca Elektronik Tablolar için filigran olarak basit TextSignature ve TextSignature ile birlikte kullanılması önerilir  .xslx ve Sunumlar .pptx. Simple TextSignature for Words .docx de önerilir ancak sınırlı işlevselliğe sahiptir.
 type: docs
-weight: 380
+weight: 400
 url: /tr/net/groupdocs.signature.domain.extensions/textshadow/
 ---
 ## TextShadow class
@@ -25,10 +25,10 @@ public class TextShadow : SignatureExtension
 | İsim | Tanım |
 | --- | --- |
 | [Angle](../../groupdocs.signature.domain.extensions/textshadow/angle) { get; set; } | Metne göre gölge yerleştirmek için açıyı alır veya ayarlar. Varsayılan değer 0. 'dir. |
-| [Blur](../../groupdocs.signature.domain.extensions/textshadow/blur) { get; set; } | Gölgenin bulanıklığını alır veya ayarlar. Varsayılan değer 4. |
+| [Blur](../../groupdocs.signature.domain.extensions/textshadow/blur) { get; set; } | Gölgenin bulanıklığını alır veya ayarlar. Varsayılan değer 4. 'dir. |
 | [Color](../../groupdocs.signature.domain.extensions/textshadow/color) { get; set; } | Gölgenin rengini alır veya ayarlar. Varsayılan değer Siyah'tır. |
 | [Distance](../../groupdocs.signature.domain.extensions/textshadow/distance) { get; set; } | Metinden gölgeye olan mesafeyi alır veya ayarlar. Varsayılan değer 1. 'dir. |
-| [Transparency](../../groupdocs.signature.domain.extensions/textshadow/transparency) { get; set; } | Gölgenin şeffaflığını alır veya ayarlar. Varsayılan değer 0. |
+| [Transparency](../../groupdocs.signature.domain.extensions/textshadow/transparency) { get; set; } | Gölgenin şeffaflığını alır veya ayarlar. Varsayılan değer 0. 'dir. |
 
 ## yöntemler
 

@@ -3,7 +3,7 @@ title: SMS
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: SMS kısa mesaj hizmeti ayrıntılarını temsil eder.
 type: docs
-weight: 300
+weight: 320
 url: /tr/net/groupdocs.signature.domain.extensions/sms/
 ---
 ## SMS class

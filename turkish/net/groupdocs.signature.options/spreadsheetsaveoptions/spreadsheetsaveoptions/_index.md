@@ -54,7 +54,7 @@ public SpreadsheetSaveOptions(SpreadsheetSaveFileFormat fileFormat, bool overwri
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
 | fileFormat | SpreadsheetSaveFileFormat | Çıktı dosyası biçimini belirtir. |
-| overwriteExistingFile | Boolean | Aynı dosya ile imzalanmış dosyanın üzerine yazıp yazılmayacağını işaretleyin. |
+| overwriteExistingFile | Boolean | İmzalı dosyanın üzerine aynı dosyanın yazıp yazmayacağını işaretleyin. |
 
 ### Ayrıca bakınız
 

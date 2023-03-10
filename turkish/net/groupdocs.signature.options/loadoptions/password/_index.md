@@ -1,14 +1,14 @@
 ---
 title: Password
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Korumalı bir belgeyi açmak için parola alır veya ayarlar. Ayrıca imzalı belgeyi korumalı olarak kaydetmek için kullanılır.
+description: Korumalı bir belgeyi açmak için parola alır veya ayarlar. İmzalı belgeyi korumalı olarak kaydetmek için de kullanılır.
 type: docs
 weight: 30
 url: /tr/net/groupdocs.signature.options/loadoptions/password/
 ---
 ## LoadOptions.Password property
 
-Korumalı bir belgeyi açmak için parola alır veya ayarlar. Ayrıca imzalı belgeyi korumalı olarak kaydetmek için kullanılır.
+Korumalı bir belgeyi açmak için parola alır veya ayarlar. İmzalı belgeyi korumalı olarak kaydetmek için de kullanılır.
 
 ```csharp
 public string Password { get; set; }

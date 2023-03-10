@@ -3,7 +3,7 @@ title: Equals
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Mevcut olup olmadığını belirler.FileTypegroupdocs.signature.domain/filetypebelirtilenle aynıFileTypegroupdocs.signature.domain/filetype nesne.
 type: docs
-weight: 600
+weight: 610
 url: /tr/net/groupdocs.signature.domain/filetype/equals/
 ---
 ## Equals(FileType) {#equals}
@@ -20,7 +20,7 @@ public bool Equals(FileType other)
 
 ### Geri dönüş değeri
 
-ikisi de olursa[`FileType`](../../filetype) nesneler aynıdır; aksi halde,
+ikisi de olursa[`FileType`](../../filetype) nesneler aynıdır; aksi takdirde,
 
 ```csharp
 true
@@ -52,7 +52,7 @@ public override bool Equals(object obj)
 
 ### Geri dönüş değeri
 
-eğer parametre[`FileType`](../../filetype) ve şu anki ile aynı[`FileType`](../../filetype) nesne; aksi halde,
+eğer parametre[`FileType`](../../filetype) ve şu anki ile aynı[`FileType`](../../filetype) nesne; aksi takdirde,
 
 ```csharp
 true

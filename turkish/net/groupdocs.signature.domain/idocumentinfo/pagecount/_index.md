@@ -1,14 +1,14 @@
 ---
 title: PageCount
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Belge sayfaları sayısı.
+description: Belge sayfa sayısı.
 type: docs
-weight: 80
+weight: 90
 url: /tr/net/groupdocs.signature.domain/idocumentinfo/pagecount/
 ---
 ## IDocumentInfo.PageCount property
 
-Belge sayfaları sayısı.
+Belge sayfa sayısı.
 
 ```csharp
 public int PageCount { get; set; }

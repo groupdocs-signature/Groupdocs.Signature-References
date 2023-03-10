@@ -3,7 +3,7 @@ title: RadioButtonFormFieldSignature
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Radyo düğmesi giriş formu alanı imza özelliklerini içerir.
 type: docs
-weight: 790
+weight: 820
 url: /tr/net/groupdocs.signature.domain/radiobuttonformfieldsignature/
 ---
 ## RadioButtonFormFieldSignature class
@@ -47,7 +47,7 @@ public sealed class RadioButtonFormFieldSignature : FormFieldSignature
 
 | İsim | Tanım |
 | --- | --- |
-| override [Clone](../../groupdocs.signature.domain/radiobuttonformfieldsignature/clone)() | FormField Signature örneğini klonlayın. |
+| override [Clone](../../groupdocs.signature.domain/radiobuttonformfieldsignature/clone)() | FormField Signature örneğini Klonla. |
 | override [Equals](../../groupdocs.signature.domain/radiobuttonformfieldsignature/equals)(object) | İmza özelliklerini karşılaştırmak için Equals yönteminin üzerine yazar |
 | override [GetHashCode](../../groupdocs.signature.domain/radiobuttonformfieldsignature/gethashcode)() | GetHashCode yöntemini geçersiz kılar |
 

@@ -3,7 +3,7 @@ title: Parse
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: pasringType adıyla QRCode türünü döndürür. QRCodeun adı bilinmiyorsa  İstisna throw olacaktır
 type: docs
-weight: 70
+weight: 100
 url: /tr/net/groupdocs.signature.domain/qrcodetypes/parse/
 ---
 ## QrCodeTypes.Parse method

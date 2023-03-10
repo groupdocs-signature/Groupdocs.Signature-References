@@ -1,14 +1,14 @@
 ---
 title: DigitalSignOptions
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: DigitalSignOptions sınıfının varsayılan değerlerle yeni bir örneğini başlatır.
+description: DigitalSignOptions sınıfının yeni bir örneğini varsayılan değerlerle başlatır.
 type: docs
 weight: 10
 url: /tr/net/groupdocs.signature.options/digitalsignoptions/digitalsignoptions/
 ---
 ## DigitalSignOptions() {#constructor}
 
-DigitalSignOptions sınıfının varsayılan değerlerle yeni bir örneğini başlatır.
+DigitalSignOptions sınıfının yeni bir örneğini varsayılan değerlerle başlatır.
 
 ```csharp
 public DigitalSignOptions()
@@ -64,7 +64,7 @@ public DigitalSignOptions(Stream certificateStream)
 
 ## DigitalSignOptions(string, string) {#constructor_6}
 
-Sertifika dosyası ve görüntü dosyasıyla DigitalSignOptions sınıfının yeni bir örneğini başlatır.
+Sertifika dosyası ve resim dosyasıyla DigitalSignOptions sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public DigitalSignOptions(string certificateFilePath, string imageFilePath)
@@ -85,7 +85,7 @@ public DigitalSignOptions(string certificateFilePath, string imageFilePath)
 
 ## DigitalSignOptions(string, Stream) {#constructor_5}
 
-Sertifika dosyası ve görüntü akışıyla DigitalSignOptions sınıfının yeni bir örneğini başlatır.
+Sertifika dosyası ve görüntü akışı ile DigitalSignOptions sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public DigitalSignOptions(string certificateFilePath, Stream appearenceImageStream)
@@ -127,7 +127,7 @@ public DigitalSignOptions(Stream certificateStream, string imageFilePath)
 
 ## DigitalSignOptions(Stream, Stream) {#constructor_2}
 
-Sertifika akışı ve görüntü akışıyla DigitalSignOptions sınıfının yeni bir örneğini başlatır.
+Sertifika akışı ve görüntü akışı ile DigitalSignOptions sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public DigitalSignOptions(Stream certificateStream, Stream appearenceImageStream)

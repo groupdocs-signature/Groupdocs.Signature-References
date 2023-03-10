@@ -8,7 +8,7 @@ url: /tr/net/groupdocs.signature.options/formfieldsearchoptions/value/
 ---
 ## FormFieldSearchOptions.Value property
 
-Aranması gerekiyorsa, form alanı imzasının değerini belirtir. Varsayılan değer null.
+Aranması gerekiyorsa form alanı imzasının değerini belirtir. Varsayılan değer null.
 
 ```csharp
 public object Value { get; set; }

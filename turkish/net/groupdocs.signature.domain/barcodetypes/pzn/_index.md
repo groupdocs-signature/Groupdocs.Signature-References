@@ -3,7 +3,7 @@ title: PZN
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: PZN Barkod Türü nesnesi.
 type: docs
-weight: 520
+weight: 550
 url: /tr/net/groupdocs.signature.domain/barcodetypes/pzn/
 ---
 ## BarcodeTypes.PZN field

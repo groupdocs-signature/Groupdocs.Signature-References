@@ -1,14 +1,14 @@
 ---
 title: DigitalSignatureAppearance
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Sayısal İmza için İmza Satırının görünümünü açıklar. Bir İmza Satırı yalnızca bir Sayısal İmza için uygulanabilir. İmza Satırı her zaman ilk sayfadadır. Bu özellik .docx .doc .odt ve .xlsx dosya biçimleri için faydalı olabilir.
+description: Dijital İmza için İmza Satırının görünümünü tanımlar. Bir İmza Satırı yalnızca bir Dijital İmza için uygulanabilir. İmza Satırı her zaman ilk sayfadadır. Bu özellik .docx .doc .odt ve .xlsx dosya biçimleri için yararlı olabilir.
 type: docs
-weight: 1120
+weight: 1190
 url: /tr/net/groupdocs.signature.options.appearances/digitalsignatureappearance/
 ---
 ## DigitalSignatureAppearance class
 
-Sayısal İmza için İmza Satırının görünümünü açıklar. Bir İmza Satırı yalnızca bir Sayısal İmza için uygulanabilir. İmza Satırı her zaman ilk sayfadadır. Bu özellik .docx, .doc, .odt ve .xlsx dosya biçimleri için faydalı olabilir.
+Dijital İmza için İmza Satırının görünümünü tanımlar. Bir İmza Satırı yalnızca bir Dijital İmza için uygulanabilir. İmza Satırı her zaman ilk sayfadadır. Bu özellik .docx, .doc, .odt ve .xlsx dosya biçimleri için yararlı olabilir.
 
 ```csharp
 public sealed class DigitalSignatureAppearance : SignatureAppearance

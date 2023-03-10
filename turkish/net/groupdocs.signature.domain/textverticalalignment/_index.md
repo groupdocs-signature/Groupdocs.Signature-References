@@ -3,7 +3,7 @@ title: TextVerticalAlignment
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Bir imza içindeki metnin dikey hizalamasını belirtir.
 type: docs
-weight: 990
+weight: 1020
 url: /tr/net/groupdocs.signature.domain/textverticalalignment/
 ---
 ## TextVerticalAlignment enumeration
@@ -19,8 +19,8 @@ public enum TextVerticalAlignment
 | İsim | Değer | Tanım |
 | --- | --- | --- |
 | Top | `1` | Metnin dikey hizalama tabanına göre üste hizalandığını belirtir. |
-| Center | `2` | Metnin dikey hizalama tabanına ortalandığını belirtir. |
-| Bottom | `3` | Metnin dikey hizalama tabanına alttan hizalı olduğunu belirtir. |
+| Center | `2` | Metnin dikey hizalama tabanına göre ortalandığını belirtir. |
+| Bottom | `3` | Metnin dikey hizalama tabanına göre alta hizalandığını belirtir. |
 
 ### Ayrıca bakınız
 

@@ -1,14 +1,14 @@
 ---
 title: Foreground
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: İmza görünümünün ön plan metin rengini alın veya ayarlayın. Varsayılan değer Color.FromArgb76 100 255
+description: İmza görünümünün ön plan metin rengini alın veya ayarlayın. Varsayılan değer Colordır.FromArgb76 100 255
 type: docs
 weight: 80
 url: /tr/net/groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/foreground/
 ---
 ## PdfDigitalSignatureAppearance.Foreground property
 
-İmza görünümünün ön plan metin rengini alın veya ayarlayın. Varsayılan değer Color.FromArgb(76, 100, 255)
+İmza görünümünün ön plan metin rengini alın veya ayarlayın. Varsayılan değer Color'dır.FromArgb(76, 100, 255)
 
 ```csharp
 public Color Foreground { get; set; }
