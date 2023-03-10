@@ -1,14 +1,14 @@
 ---
 title: SignatureSettings
 second_title: Referencia de API de GroupDocs.Signature para .NET
-description: Constructor predeterminado
+description: Crea una instancia predeterminada de SignatureSettings con valores predeterminados.
 type: docs
 weight: 10
 url: /es/net/groupdocs.signature/signaturesettings/signaturesettings/
 ---
-## SignatureSettings constructor
+## SignatureSettings() {#constructor}
 
-Constructor predeterminado
+Crea una instancia predeterminada de SignatureSettings con valores predeterminados.
 
 ```csharp
 public SignatureSettings()
@@ -16,6 +16,27 @@ public SignatureSettings()
 
 ### Ver también
 
+* class [SignatureSettings](../../signaturesettings)
+* espacio de nombres [GroupDocs.Signature](../../signaturesettings)
+* asamblea [GroupDocs.Signature](../../../)
+
+---
+
+## SignatureSettings(ILogger) {#constructor_1}
+
+Crea una instancia predeterminada de SignatureSettings con la implementación de Logger.
+
+```csharp
+public SignatureSettings(ILogger logger)
+```
+
+| Parámetro | Escribe | Descripción |
+| --- | --- | --- |
+| logger | ILogger |  |
+
+### Ver también
+
+* interface [ILogger](../../../groupdocs.signature.logging/ilogger)
 * class [SignatureSettings](../../signaturesettings)
 * espacio de nombres [GroupDocs.Signature](../../signaturesettings)
 * asamblea [GroupDocs.Signature](../../../)

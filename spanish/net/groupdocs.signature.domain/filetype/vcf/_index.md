@@ -3,7 +3,7 @@ title: VCF
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: vCard File .vcf es un formato de archivo digital para almacenar información de contacto. El formato es ampliamente utilizado para el intercambio de datos entre aplicaciones populares de intercambio de información. Más información sobre este formato de archivoaquíhttps//wiki.fileformat.com/email/vcf .
 type: docs
-weight: 470
+weight: 480
 url: /es/net/groupdocs.signature.domain/filetype/vcf/
 ---
 ## FileType.VCF field

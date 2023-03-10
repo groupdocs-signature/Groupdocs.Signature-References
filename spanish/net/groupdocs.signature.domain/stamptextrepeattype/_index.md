@@ -3,7 +3,7 @@ title: StampTextRepeatType
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Especifica el tipo de repetición de texto para las líneas de sello.
 type: docs
-weight: 890
+weight: 920
 url: /es/net/groupdocs.signature.domain/stamptextrepeattype/
 ---
 ## StampTextRepeatType enumeration

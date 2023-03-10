@@ -3,7 +3,7 @@ title: TextVerticalAlignment
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Especifica la alineación vertical del texto dentro de una firma.
 type: docs
-weight: 990
+weight: 1020
 url: /es/net/groupdocs.signature.domain/textverticalalignment/
 ---
 ## TextVerticalAlignment enumeration

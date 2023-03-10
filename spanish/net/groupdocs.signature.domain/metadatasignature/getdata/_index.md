@@ -3,7 +3,7 @@ title: GetData
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Obtener objeto del valor de la firma de metadatos sobre la deserialización.
 type: docs
-weight: 60
+weight: 70
 url: /es/net/groupdocs.signature.domain/metadatasignature/getdata/
 ---
 ## GetData&lt;T&gt;() {#getdata}

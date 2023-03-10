@@ -3,7 +3,7 @@ title: PPT
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Presentación de PowerPoint .ppt representa un archivo de PowerPoint que consta de una colección de diapositivas para mostrarlas como presentación de diapositivas. Especifica el formato de archivo binario utilizado por Microsoft PowerPoint 972003. Más información sobre este formato de archivoaquíhttps//wiki.fileformat.com/presentation/ppt .
 type: docs
-weight: 350
+weight: 360
 url: /es/net/groupdocs.signature.domain/filetype/ppt/
 ---
 ## FileType.PPT field

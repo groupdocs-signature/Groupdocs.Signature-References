@@ -3,7 +3,7 @@ title: ImageMetadataSignature
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Contiene propiedades de firma de metadatos de imagen.
 type: docs
-weight: 550
+weight: 570
 url: /es/net/groupdocs.signature.domain/imagemetadatasignature/
 ---
 ## ImageMetadataSignature class
@@ -39,6 +39,7 @@ public sealed class ImageMetadataSignature : MetadataSignature
 | [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | Especifica el tipo de firma. |
 | [Size](../../groupdocs.signature.domain/imagemetadatasignature/size) { get; } | Valor de solo lectura para obtener el tamaño de los metadatos value |
 | [Top](../../groupdocs.signature.domain/basesignature/top) { get; set; } | Especifica la posición superior de la firma. |
+| [Type](../../groupdocs.signature.domain/metadatasignature/type) { get; } | Especifica el tipo de valor de metadatos. |
 | [Value](../../groupdocs.signature.domain/metadatasignature/value) { get; set; } | Especifica el objeto de metadatos. |
 | [Width](../../groupdocs.signature.domain/basesignature/width) { get; set; } | Especifica el ancho de la firma. |
 

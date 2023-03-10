@@ -3,7 +3,7 @@ title: ToString
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Convierte a cadena con anular el método ToString
 type: docs
-weight: 140
+weight: 150
 url: /es/net/groupdocs.signature.domain/metadatasignature/tostring/
 ---
 ## ToString() {#tostring}
@@ -21,34 +21,6 @@ Devuelve el valor de la firma de metadatos como cadena.
 ### Observaciones
 
 Convierte una propiedad booleana en "Verdadero" o "Falso". Para otro tipo de datos, se utilizará el proveedor de formato de datos predeterminado.
-
-### Ver también
-
-* class [MetadataSignature](../../metadatasignature)
-* espacio de nombres [GroupDocs.Signature.Domain](../../metadatasignature)
-* asamblea [GroupDocs.Signature](../../../)
-
----
-
-## ToString(string) {#tostring_1}
-
-Convierte a cadena con formato especificado
-
-```csharp
-public virtual string ToString(string format)
-```
-
-| Parámetro | Escribe | Descripción |
-| --- | --- | --- |
-| format | String | Cadena de formato de datos. |
-
-### Valor_devuelto
-
-Devuelve el valor de la firma de metadatos como cadena.
-
-### Observaciones
-
-Convierte una propiedad booleana en "Verdadero" o "Falso". La información de la propiedad cultural predeterminada se usará desde las propiedades de SignatureSettings[`DefaultCulture`](../../../groupdocs.signature/signaturesettings/defaultculture)
 
 ### Ver también
 
@@ -78,6 +50,34 @@ Devuelve el valor de la firma de metadatos como cadena.
 ### Observaciones
 
 Convierte una propiedad booleana en "Verdadero" o "Falso".
+
+### Ver también
+
+* class [MetadataSignature](../../metadatasignature)
+* espacio de nombres [GroupDocs.Signature.Domain](../../metadatasignature)
+* asamblea [GroupDocs.Signature](../../../)
+
+---
+
+## ToString(string) {#tostring_1}
+
+Convierte a cadena con formato especificado
+
+```csharp
+public virtual string ToString(string format)
+```
+
+| Parámetro | Escribe | Descripción |
+| --- | --- | --- |
+| format | String | Cadena de formato de datos. |
+
+### Valor_devuelto
+
+Devuelve el valor de la firma de metadatos como cadena.
+
+### Observaciones
+
+Convierte una propiedad booleana en "Verdadero" o "Falso". La información de la propiedad cultural predeterminada se usará desde las propiedades de SignatureSettings[`DefaultCulture`](../../../groupdocs.signature/signaturesettings/defaultculture)
 
 ### Ver también
 

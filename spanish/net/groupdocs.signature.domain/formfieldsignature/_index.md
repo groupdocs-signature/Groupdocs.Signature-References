@@ -3,7 +3,7 @@ title: FormFieldSignature
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Contiene propiedades de firma de campo de formulario.
 type: docs
-weight: 440
+weight: 460
 url: /es/net/groupdocs.signature.domain/formfieldsignature/
 ---
 ## FormFieldSignature class

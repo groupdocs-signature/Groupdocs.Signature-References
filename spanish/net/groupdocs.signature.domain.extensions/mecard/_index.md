@@ -3,7 +3,7 @@ title: MeCard
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Representa los datos de contacto estándar de MeCard.
 type: docs
-weight: 280
+weight: 300
 url: /es/net/groupdocs.signature.domain.extensions/mecard/
 ---
 ## MeCard class

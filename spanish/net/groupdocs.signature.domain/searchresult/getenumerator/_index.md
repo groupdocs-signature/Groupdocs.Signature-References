@@ -3,7 +3,7 @@ title: GetEnumerator
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Devuelve el enumerador.
 type: docs
-weight: 20
+weight: 70
 url: /es/net/groupdocs.signature.domain/searchresult/getenumerator/
 ---
 ## SearchResult.GetEnumerator method

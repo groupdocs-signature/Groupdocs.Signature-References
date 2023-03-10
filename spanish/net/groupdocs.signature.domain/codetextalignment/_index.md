@@ -3,7 +3,7 @@ title: CodeTextAlignment
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Alineación del texto del código para códigos de barras y códigos QR.
 type: docs
-weight: 80
+weight: 90
 url: /es/net/groupdocs.signature.domain/codetextalignment/
 ---
 ## CodeTextAlignment enumeration

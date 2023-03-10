@@ -3,7 +3,7 @@ title: ProcessLogs
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Recopilación de registros de proceso de historial de documentos.
 type: docs
-weight: 100
+weight: 110
 url: /es/net/groupdocs.signature.domain/idocumentinfo/processlogs/
 ---
 ## IDocumentInfo.ProcessLogs property

@@ -3,7 +3,7 @@ title: QrCodeTypes
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Contenedor de tipos de código QR.
 type: docs
-weight: 780
+weight: 810
 url: /es/net/groupdocs.signature.domain/qrcodetypes/
 ---
 ## QrCodeTypes class
@@ -35,6 +35,9 @@ public static class QrCodeTypes
 | static readonly [DataMatrix](../../groupdocs.signature.domain/qrcodetypes/datamatrix) | Objeto de tipo de código QR de DataMatrix. |
 | static readonly [GS1DataMatrix](../../groupdocs.signature.domain/qrcodetypes/gs1datamatrix) | GS1 DataMatrix QR-Code Tipo objeto. |
 | static readonly [GS1QR](../../groupdocs.signature.domain/qrcodetypes/gs1qr) | GS1 QR-Code Tipo objeto. |
+| static readonly [HIBCLICAztec](../../groupdocs.signature.domain/qrcodetypes/hibclicaztec) | HIBC LIC Aztec QR-Code Tipo objeto. |
+| static readonly [HIBCLICDataMatrix](../../groupdocs.signature.domain/qrcodetypes/hibclicdatamatrix) | Objeto de tipo de código QR de matriz de datos HIBC LIC. |
+| static readonly [HIBCLICQR](../../groupdocs.signature.domain/qrcodetypes/hibclicqr) | HIBC LIC QR-Code Tipo objeto. |
 | static readonly [QR](../../groupdocs.signature.domain/qrcodetypes/qr) | QR QR-Code Tipo objeto. |
 
 ### Ver también

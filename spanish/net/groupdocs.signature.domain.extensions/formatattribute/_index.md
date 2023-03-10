@@ -3,7 +3,7 @@ title: FormatAttribute
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Indica a la serialización de objetos que serialice el miembro con el nombre y el formato especificados
 type: docs
-weight: 240
+weight: 260
 url: /es/net/groupdocs.signature.domain.extensions/formatattribute/
 ---
 ## FormatAttribute class

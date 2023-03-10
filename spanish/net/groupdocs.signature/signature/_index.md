@@ -3,7 +3,7 @@ title: Signature
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Representa la clase principal que controla el proceso de firma de documentos.
 type: docs
-weight: 1800
+weight: 1880
 url: /es/net/groupdocs.signature/signature/
 ---
 ## Signature class
@@ -21,7 +21,7 @@ public class Signature : IDisposable
 | [Signature](signature#constructor)(Stream) | Inicializa una nueva instancia de[`Signature`](../signature) clase con documento proporcionado por stream. |
 | [Signature](signature#constructor_4)(string) | Inicializa una nueva instancia de[`Signature`](../signature) instancia de clase con documento proporcionado por la ruta del archivo. |
 | [Signature](signature#constructor_1)(Stream, LoadOptions) | Inicializa una nueva instancia de[`Signature`](../signature) clase con documento proporcionado por flujo y opciones de cargaLoadOptions . |
-| [Signature](signature#constructor_3)(Stream, SignatureSettings) | Inicializa una nueva instancia de[`Signature`](../signature) instancia de clase con documento proporcionado por stream y[`SignatureSettings`](../signaturesettings) . |
+| [Signature](signature#constructor_3)(Stream, SignatureSettings) | Inicializa una nueva instancia de[`Signature`](../signature)instancia de clase con documento proporcionado por stream y[`SignatureSettings`](../signaturesettings) . |
 | [Signature](signature#constructor_5)(string, LoadOptions) | Inicializa una nueva instancia de[`Signature`](../signature) instancia de clase con documento proporcionado por ruta de archivo yLoadOptions . |
 | [Signature](signature#constructor_7)(string, SignatureSettings) | Inicializa una nueva instancia de[`Signature`](../signature) instancia de clase con documento proporcionado por ruta de archivo y[`SignatureSettings`](../signaturesettings) . |
 | [Signature](signature#constructor_2)(Stream, LoadOptions, SignatureSettings) | Inicializa una nueva instancia de[`Signature`](../signature) instancia de clase con documento proporcionado por flujo, opciones de cargaLoadOptions y ajustes[`SignatureSettings`](../signaturesettings) . |
@@ -48,8 +48,8 @@ public class Signature : IDisposable
 | [Sign](../../groupdocs.signature/signature/sign#sign)(Stream, SignOptions) | Firma documento con[`SignOptions`](../../groupdocs.signature.options/signoptions) y guarda el resultado en un stream. |
 | [Sign](../../groupdocs.signature/signature/sign#sign_6)(string, List&lt;SignOptions&gt;) | Firma documento con cobro de[`SignOptions`](../../groupdocs.signature.options/signoptions) y guarda el resultado en la ruta de archivo especificada. |
 | [Sign](../../groupdocs.signature/signature/sign#sign_4)(string, SignOptions) | Firma documento con[`SignOptions`](../../groupdocs.signature.options/signoptions) y guarda el resultado en la ruta de archivo especificada. |
-| [Sign](../../groupdocs.signature/signature/sign#sign_3)(Stream, List&lt;SignOptions&gt;, SaveOptions) | Firma documento con cobro de[`SignOptions`](../../groupdocs.signature.options/signoptions) y guarda el resultado en una secuencia con predefinido[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
-| [Sign](../../groupdocs.signature/signature/sign#sign_1)(Stream, SignOptions, SaveOptions) | Firma documento con[`SignOptions`](../../groupdocs.signature.options/signoptions) y guarda el resultado en una secuencia con predefinido[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
+| [Sign](../../groupdocs.signature/signature/sign#sign_3)(Stream, List&lt;SignOptions&gt;, SaveOptions) | Firma documento con cobro de[`SignOptions`](../../groupdocs.signature.options/signoptions) guarda el resultado en una secuencia con predefinido[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
+| [Sign](../../groupdocs.signature/signature/sign#sign_1)(Stream, SignOptions, SaveOptions) | Firma documento con[`SignOptions`](../../groupdocs.signature.options/signoptions) guarda el resultado en una secuencia con predefinido[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
 | [Sign](../../groupdocs.signature/signature/sign#sign_7)(string, List&lt;SignOptions&gt;, SaveOptions) | Firma documento con cobro de[`SignOptions`](../../groupdocs.signature.options/signoptions) y guarda el resultado en la ruta de archivo especificada con predefinido[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
 | [Sign](../../groupdocs.signature/signature/sign#sign_5)(string, SignOptions, SaveOptions) | Firma documento con[`SignOptions`](../../groupdocs.signature.options/signoptions) y guarda el resultado en la ruta de archivo especificada con predefinido[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
 | [Update](../../groupdocs.signature/signature/update#update)(BaseSignature) | Actualizaciones aprobadas firma[`BaseSignature`](../../groupdocs.signature.domain/basesignature) en el documento. |

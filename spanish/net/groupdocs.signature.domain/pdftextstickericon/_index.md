@@ -3,7 +3,7 @@ title: PdfTextStickerIcon
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Describe la enumeración de la apariencia del icono de etiqueta de anotación de texto PDF.
 type: docs
-weight: 690
+weight: 720
 url: /es/net/groupdocs.signature.domain/pdftextstickericon/
 ---
 ## PdfTextStickerIcon enumeration

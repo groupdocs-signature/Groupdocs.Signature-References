@@ -3,7 +3,7 @@ title: SearchResult
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Resultado de la búsqueda de firmas en el documento especificado.
 type: docs
-weight: 800
+weight: 830
 url: /es/net/groupdocs.signature.domain/searchresult/
 ---
 ## SearchResult class
@@ -11,14 +11,19 @@ url: /es/net/groupdocs.signature.domain/searchresult/
 Resultado de la búsqueda de firmas en el documento especificado.
 
 ```csharp
-public class SearchResult : IEnumerable<BaseSignature>
+public class SearchResult : IEnumerable<BaseSignature>, IResult
 ```
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [Signatures](../../groupdocs.signature.domain/searchresult/signatures) { get; } | Lista de firmas detectadas[`BaseSignature`](../basesignature) . |
+| [DestinDocumentSize](../../groupdocs.signature.domain/searchresult/destindocumentsize) { get; } | Devuelve el tamaño del documento de destino. Para el método de búsqueda, siempre devuelve 0. |
+| [ProcessingTime](../../groupdocs.signature.domain/searchresult/processingtime) { get; } | Devuelve el tiempo de ejecución del proceso de búsqueda en milisegundos. |
+| [Signatures](../../groupdocs.signature.domain/searchresult/signatures) { get; } | Lista de firmas encontradas[`BaseSignature`](../basesignature) . |
+| [SourceDocumentSize](../../groupdocs.signature.domain/searchresult/sourcedocumentsize) { get; } | Devuelve el tamaño del documento de origen |
+| [Succeeded](../../groupdocs.signature.domain/searchresult/succeeded) { get; } | Lista de firmas encontradas[`BaseSignature`](../basesignature) . Esta lista será siempre igual a[`Signatures`](./signatures) propiedad. |
+| [TotalSignatures](../../groupdocs.signature.domain/searchresult/totalsignatures) { get; } | Devuelve el total de firmas procesadas por el proceso de búsqueda |
 
 ## Métodos
 
@@ -30,6 +35,7 @@ public class SearchResult : IEnumerable<BaseSignature>
 ### Ver también
 
 * class [BaseSignature](../basesignature)
+* interface [IResult](../iresult)
 * espacio de nombres [GroupDocs.Signature.Domain](../../groupdocs.signature.domain)
 * asamblea [GroupDocs.Signature](../../)
 

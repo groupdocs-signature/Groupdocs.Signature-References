@@ -3,7 +3,7 @@ title: VCard
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Representa los datos de contacto estándar de la tarjeta de presentación electrónica.
 type: docs
-weight: 400
+weight: 420
 url: /es/net/groupdocs.signature.domain.extensions/vcard/
 ---
 ## VCard class

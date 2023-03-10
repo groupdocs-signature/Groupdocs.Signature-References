@@ -3,7 +3,7 @@ title: Pharmacode
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Código farmacéutico Código de barras Tipo objeto.
 type: docs
-weight: 490
+weight: 520
 url: /es/net/groupdocs.signature.domain/barcodetypes/pharmacode/
 ---
 ## BarcodeTypes.Pharmacode field

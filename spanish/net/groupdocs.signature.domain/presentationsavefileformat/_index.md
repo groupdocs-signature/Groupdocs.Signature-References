@@ -3,7 +3,7 @@ title: PresentationSaveFileFormat
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Define diferentes formatos de archivos guardados.
 type: docs
-weight: 720
+weight: 750
 url: /es/net/groupdocs.signature.domain/presentationsavefileformat/
 ---
 ## PresentationSaveFileFormat enumeration

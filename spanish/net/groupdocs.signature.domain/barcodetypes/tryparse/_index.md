@@ -3,7 +3,7 @@ title: TryParse
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Devuelve el tipo de código de barras con el nombre pasringType. Si se desconoce el nombre del código de barras no se generará ninguna excepción pero el método devolverá un valor nulo.
 type: docs
-weight: 650
+weight: 680
 url: /es/net/groupdocs.signature.domain/barcodetypes/tryparse/
 ---
 ## BarcodeTypes.TryParse method

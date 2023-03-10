@@ -3,7 +3,7 @@ title: ProcessType
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Define el proceso admitido con documentos como Información Vista previa Firmar Verificar Buscar Actualizar Eliminar
 type: docs
-weight: 750
+weight: 780
 url: /es/net/groupdocs.signature.domain/processtype/
 ---
 ## ProcessType enumeration

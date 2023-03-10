@@ -3,7 +3,7 @@ title: UpcaGs1DatabarCoupon
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: UpcaGs1DatabarCoupon Tipo de código de barras object.
 type: docs
-weight: 610
+weight: 640
 url: /es/net/groupdocs.signature.domain/barcodetypes/upcags1databarcoupon/
 ---
 ## BarcodeTypes.UpcaGs1DatabarCoupon field

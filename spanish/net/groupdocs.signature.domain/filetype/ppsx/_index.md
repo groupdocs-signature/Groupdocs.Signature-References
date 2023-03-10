@@ -3,7 +3,7 @@ title: PPSX
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Los archivos PowerPoint Open XML Slide Show .ppsx se crean utilizando Microsoft PowerPoint 2007 y superior para el propósito de presentación de diapositivas. Más información sobre este formato de archivoaquíhttps//wiki.fileformat.com/presentation/ppsx .
 type: docs
-weight: 340
+weight: 350
 url: /es/net/groupdocs.signature.domain/filetype/ppsx/
 ---
 ## FileType.PPSX field

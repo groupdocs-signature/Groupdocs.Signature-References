@@ -18,7 +18,7 @@ public TimeStamp(string url, string user, string password)
 | --- | --- | --- |
 | url | String | URL del sitio de terceros. |
 | user | String | Usuario. |
-| password | String | Clave. |
+| password | String | Contraseña. |
 
 ### Ver también
 

@@ -3,7 +3,7 @@ title: BarcodeSignOptions
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Representa las opciones de firma de código de barras.
 type: docs
-weight: 1190
+weight: 1260
 url: /es/net/groupdocs.signature.options/barcodesignoptions/
 ---
 ## BarcodeSignOptions class

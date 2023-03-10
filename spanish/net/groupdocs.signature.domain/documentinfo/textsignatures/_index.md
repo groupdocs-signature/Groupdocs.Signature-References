@@ -3,7 +3,7 @@ title: TextSignatures
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Colección de firmas de texto de documentos.
 type: docs
-weight: 150
+weight: 160
 url: /es/net/groupdocs.signature.domain/documentinfo/textsignatures/
 ---
 ## DocumentInfo.TextSignatures property

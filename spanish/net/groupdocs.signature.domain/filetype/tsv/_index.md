@@ -3,7 +3,7 @@ title: TSV
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: El archivo de valores separados por tabulaciones .tsv representa datos separados por tabulaciones en formato de texto sin formato. Más información sobre este formato de archivoaquíhttps//wiki.fileformat.com/spreadsheet/tsv .
 type: docs
-weight: 440
+weight: 450
 url: /es/net/groupdocs.signature.domain/filetype/tsv/
 ---
 ## FileType.TSV field

@@ -18,6 +18,7 @@ El espacio de nombres proporciona clases para trabajar con la representación de
 | [BarcodeTypes](./barcodetypes) | Contenedor de tipos de código de barras. |
 | [BaseSignature](./basesignature) | Describe la clase base para firmas. |
 | [Border](./border) | Representa la apariencia del borde |
+| [CertificateMetadataSignature](./certificatemetadatasignature) | Contiene propiedades de firma de metadatos de certificado. |
 | [CheckboxFormFieldSignature](./checkboxformfieldsignature) | Contiene propiedades de firma de campo de formulario de entrada de casilla de verificación. |
 | [ComboboxFormFieldSignature](./comboboxformfieldsignature) | Contiene propiedades de firma de campo de formulario de entrada de cuadro combinado. |
 | [Corners](./corners) | Representa las esquinas de un objeto gráfico cuadrado. |
@@ -83,6 +84,7 @@ El espacio de nombres proporciona clases para trabajar con la representación de
 | [HorizontalAlignment](./horizontalalignment) | Especifica la alineación horizontal del elemento en una página del documento. |
 | [ImageSaveFileFormat](./imagesavefileformat) | Define diferentes formatos de archivos guardados. |
 | [MeasureType](./measuretype) | Especifica unidades de medida de firma en una página de documento. |
+| [MetadataType](./metadatatype) | Especifica el tipo de datos de firma de metadatos compatible del valor. |
 | [PdfDigitalSignatureType](./pdfdigitalsignaturetype) | Describe la enumeración del tipo de firma digital PDF. |
 | [PdfSaveFileFormat](./pdfsavefileformat) | Define diferentes formatos de archivos guardados. |
 | [PdfTextAnnotationBorderEffect](./pdftextannotationbordereffect) | Describe el efecto que debe aplicarse al borde de las anotaciones de texto PDF. |

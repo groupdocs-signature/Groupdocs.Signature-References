@@ -3,7 +3,7 @@ title: ImageSearchOptions
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Representa las opciones de búsqueda de firmas de imágenes.
 type: docs
-weight: 1330
+weight: 1410
 url: /es/net/groupdocs.signature.options/imagesearchoptions/
 ---
 ## ImageSearchOptions class

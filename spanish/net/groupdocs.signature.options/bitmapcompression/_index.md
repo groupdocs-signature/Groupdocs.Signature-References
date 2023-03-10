@@ -3,7 +3,7 @@ title: BitmapCompression
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Especifica diferentes métodos de compresión de mapa de bits.
 type: docs
-weight: 1210
+weight: 1280
 url: /es/net/groupdocs.signature.options/bitmapcompression/
 ---
 ## BitmapCompression enumeration

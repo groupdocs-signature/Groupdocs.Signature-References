@@ -3,7 +3,7 @@ title: MeasureType
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Especifica unidades de medida de firma en una página de documento.
 type: docs
-weight: 580
+weight: 600
 url: /es/net/groupdocs.signature.domain/measuretype/
 ---
 ## MeasureType enumeration

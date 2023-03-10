@@ -3,7 +3,7 @@ title: Matrix2of5
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Matrix2of5 Objeto de tipo de código de barras.
 type: docs
-weight: 410
+weight: 440
 url: /es/net/groupdocs.signature.domain/barcodetypes/matrix2of5/
 ---
 ## BarcodeTypes.Matrix2of5 field

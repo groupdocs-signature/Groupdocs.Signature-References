@@ -3,7 +3,7 @@ title: MetadataSignatureCollection
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Colección de objetos de firma de metadatos.
 type: docs
-weight: 600
+weight: 620
 url: /es/net/groupdocs.signature.domain/metadatasignaturecollection/
 ---
 ## MetadataSignatureCollection class

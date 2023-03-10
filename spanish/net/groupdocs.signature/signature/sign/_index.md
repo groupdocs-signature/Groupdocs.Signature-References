@@ -42,7 +42,7 @@ Devuelve instancia de[`SignResult`](../../../groupdocs.signature.domain/signresu
 
 ## Sign(Stream, SignOptions, SaveOptions) {#sign_1}
 
-Firma documento con[`SignOptions`](../../../groupdocs.signature.options/signoptions) y guarda el resultado en una secuencia con predefinido[`SaveOptions`](../../../groupdocs.signature.options/saveoptions) .
+Firma documento con[`SignOptions`](../../../groupdocs.signature.options/signoptions) guarda el resultado en una secuencia con predefinido[`SaveOptions`](../../../groupdocs.signature.options/saveoptions) .
 
 ```csharp
 public SignResult Sign(Stream document, SignOptions signOptions, SaveOptions saveOptions)
@@ -113,7 +113,7 @@ Devuelve instancia de[`SignResult`](../../../groupdocs.signature.domain/signresu
 
 ## Sign(Stream, List&lt;SignOptions&gt;, SaveOptions) {#sign_3}
 
-Firma documento con cobro de[`SignOptions`](../../../groupdocs.signature.options/signoptions) y guarda el resultado en una secuencia con predefinido[`SaveOptions`](../../../groupdocs.signature.options/saveoptions) .
+Firma documento con cobro de[`SignOptions`](../../../groupdocs.signature.options/signoptions) guarda el resultado en una secuencia con predefinido[`SaveOptions`](../../../groupdocs.signature.options/saveoptions) .
 
 ```csharp
 public SignResult Sign(Stream document, List<SignOptions> signOptionsList, SaveOptions saveOptions)

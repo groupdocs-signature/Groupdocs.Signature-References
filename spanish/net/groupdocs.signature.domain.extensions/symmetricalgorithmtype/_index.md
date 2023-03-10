@@ -3,7 +3,7 @@ title: SymmetricAlgorithmType
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Representa el tipo de algoritmo de cifrado simétrico.
 type: docs
-weight: 350
+weight: 370
 url: /es/net/groupdocs.signature.domain.extensions/symmetricalgorithmtype/
 ---
 ## SymmetricAlgorithmType enumeration

@@ -3,7 +3,7 @@ title: StampType
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Especifique las propiedades del tipo de sello.
 type: docs
-weight: 900
+weight: 930
 url: /es/net/groupdocs.signature.domain/stamptype/
 ---
 ## StampType class

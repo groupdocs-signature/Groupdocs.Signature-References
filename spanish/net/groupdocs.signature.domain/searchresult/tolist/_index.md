@@ -3,7 +3,7 @@ title: ToList
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Proporciona conversión a una lista de firmas fuertemente tipadas.
 type: docs
-weight: 30
+weight: 80
 url: /es/net/groupdocs.signature.domain/searchresult/tolist/
 ---
 ## SearchResult.ToList&lt;T&gt; method

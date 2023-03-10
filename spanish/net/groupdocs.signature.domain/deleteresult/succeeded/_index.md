@@ -3,7 +3,7 @@ title: Succeeded
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Lista de firmas eliminadas con éxitoBaseSignaturegroupdocs.signature.domain/basesignature .
 type: docs
-weight: 20
+weight: 50
 url: /es/net/groupdocs.signature.domain/deleteresult/succeeded/
 ---
 ## DeleteResult.Succeeded property

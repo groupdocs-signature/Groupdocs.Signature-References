@@ -3,7 +3,7 @@ title: TXT
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Archivo de texto sin formato .txt representa un documento de texto que contiene texto sin formato en forma de líneas. Más información sobre este formato de archivoaquíhttps//wiki.fileformat.com/wordprocessing/txt .
 type: docs
-weight: 450
+weight: 460
 url: /es/net/groupdocs.signature.domain/filetype/txt/
 ---
 ## FileType.TXT field

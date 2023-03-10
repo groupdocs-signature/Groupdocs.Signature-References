@@ -3,7 +3,7 @@ title: Clone
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Clonar instancia de firma de metadatos.
 type: docs
-weight: 40
+weight: 50
 url: /es/net/groupdocs.signature.domain/metadatasignature/clone/
 ---
 ## Clone() {#clone_1}
@@ -40,7 +40,7 @@ public virtual MetadataSignature Clone(object value)
 
 ### Valor_devuelto
 
-Devuelve una instancia de firma de metadatos clonada con un valor dado.
+Devuelve una instancia de firma de metadatos clonada con un valor determinado.
 
 ### Ver también
 
