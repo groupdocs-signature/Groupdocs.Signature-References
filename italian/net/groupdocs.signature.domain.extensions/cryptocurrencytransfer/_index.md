@@ -1,14 +1,14 @@
 ---
 title: CryptoCurrencyTransfer
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Rappresenta il trasferimento di valuta Crypto ricezione o invio per QRCode.
+description: Rappresenta il trasferimento di criptovaluta ricezione o invio per QRCode.
 type: docs
-weight: 190
+weight: 200
 url: /it/net/groupdocs.signature.domain.extensions/cryptocurrencytransfer/
 ---
 ## CryptoCurrencyTransfer class
 
-Rappresenta il trasferimento di valuta Crypto (ricezione o invio) per QR-Code.
+Rappresenta il trasferimento di criptovaluta (ricezione o invio) per QR-Code.
 
 ```csharp
 public class CryptoCurrencyTransfer
@@ -34,7 +34,7 @@ public class CryptoCurrencyTransfer
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Equals](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/equals)(object) | Sovrascrive il metodo Equals per confrontare le proprietà di trasferimento di valuta Crypto |
+| override [Equals](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/equals)(object) | Sovrascrive il metodo Equals per confrontare le proprietà del trasferimento di criptovaluta |
 | override [GetHashCode](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/gethashcode)() | Sostituisce il metodo GetHashCode |
 
 ### Guarda anche

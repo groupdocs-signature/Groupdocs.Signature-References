@@ -1,14 +1,14 @@
 ---
 title: AddMissingExtenstion
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Ottiene o imposta il flag per aggiungere automaticamente lestensione quando mancava nel file di output percorso Il valore predefinito è false.
+description: Ottiene o imposta il flag per aggiungere automaticamente lestensione quando mancava nel file di output path Il valore predefinito è false.
 type: docs
 weight: 20
 url: /it/net/groupdocs.signature.options/saveoptions/addmissingextenstion/
 ---
 ## SaveOptions.AddMissingExtenstion property
 
-Ottiene o imposta il flag per aggiungere automaticamente l'estensione quando mancava nel file di output percorso Il valore predefinito è false.
+Ottiene o imposta il flag per aggiungere automaticamente l'estensione quando mancava nel file di output path Il valore predefinito è false.
 
 ```csharp
 public bool AddMissingExtenstion { get; set; }

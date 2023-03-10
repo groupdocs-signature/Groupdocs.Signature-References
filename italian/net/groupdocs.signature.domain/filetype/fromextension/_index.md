@@ -3,7 +3,7 @@ title: FromExtension
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Associa lestensione del file al tipo di file.
 type: docs
-weight: 570
+weight: 580
 url: /it/net/groupdocs.signature.domain/filetype/fromextension/
 ---
 ## FileType.FromExtension method

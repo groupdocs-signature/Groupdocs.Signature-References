@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Specifica il nome della firma dei metadati se deve essere ricercato e confrontato.
+description: Specifica il nome della firma dei metadati se deve essere cercato e abbinato.
 type: docs
 weight: 40
 url: /it/net/groupdocs.signature.options/metadatasearchoptions/name/
 ---
 ## MetadataSearchOptions.Name property
 
-Specifica il nome della firma dei metadati se deve essere ricercato e confrontato.
+Specifica il nome della firma dei metadati se deve essere cercato e abbinato.
 
 ```csharp
 public string Name { get; set; }

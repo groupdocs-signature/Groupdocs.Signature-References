@@ -24,7 +24,7 @@ Restituisce l'istanza di[`SearchResult`](../../../groupdocs.signature.domain/sea
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sulla ricerca di firme elettroniche in un documento utilizzando GroupDocs.Signature: [Come cercare firme elettroniche all'interno di un documento usando C#](https://docs.groupdocs.com/display/signaturenet/Search+for+electronic+signatures+in+document)
 * Ulteriori informazioni sulla ricerca di firme elettroniche in base al tipo di firma elettronica: [Casi d'uso avanzati di ricerca di firme elettroniche con GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Searching)
@@ -58,7 +58,7 @@ Restituisce l'elenco delle firme trovate.
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sulla ricerca di firme elettroniche in un documento utilizzando GroupDocs.Signature: [Come cercare firme elettroniche all'interno di un documento usando C#](https://docs.groupdocs.com/display/signaturenet/Search+for+electronic+signatures+in+document)
 * Ulteriori informazioni sulla ricerca di firme elettroniche in base al tipo di firma elettronica: [Casi d'uso avanzati di ricerca di firme elettroniche con GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Searching)
@@ -92,7 +92,7 @@ Restituisce l'elenco delle firme trovate con il tipo esatto.
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sulla ricerca di firme elettroniche in un documento utilizzando GroupDocs.Signature: [Come cercare firme elettroniche all'interno di un documento usando C#](https://docs.groupdocs.com/display/signaturenet/Search+for+electronic+signatures+in+document)
 * Ulteriori informazioni sulla ricerca di firme elettroniche in base al tipo di firma elettronica: [Casi d'uso avanzati di ricerca di firme elettroniche con GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Searching)
@@ -125,7 +125,7 @@ Restituisce l'istanza di[`SearchResult`](../../../groupdocs.signature.domain/sea
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sulla ricerca di firme elettroniche in un documento utilizzando GroupDocs.Signature: [Come cercare firme elettroniche all'interno di un documento usando C#](https://docs.groupdocs.com/display/signaturenet/Search+for+electronic+signatures+in+document)
 * Ulteriori informazioni sulla ricerca di firme elettroniche in base al tipo di firma elettronica: [Casi d'uso avanzati di ricerca di firme elettroniche con GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Searching)

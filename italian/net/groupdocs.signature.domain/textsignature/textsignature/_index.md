@@ -16,7 +16,7 @@ public TextSignature(string signatureId)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| signatureId | String | Identificatore di firma univoco ottenuto tramite segno o metodo di ricerca. |
+| signatureId | String | Identificatore univoco della firma ottenuto tramite segno o metodo di ricerca. |
 
 ### Guarda anche
 

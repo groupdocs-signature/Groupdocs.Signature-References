@@ -1,14 +1,14 @@
 ---
 title: TextShapeType
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Specifica i tipi di forme di testo.
+description: Specifica i tipi di forme del testo.
 type: docs
-weight: 960
+weight: 990
 url: /it/net/groupdocs.signature.domain/textshapetype/
 ---
 ## TextShapeType enumeration
 
-Specifica i tipi di forme di testo.
+Specifica i tipi di forme del testo.
 
 ```csharp
 public enum TextShapeType
@@ -19,11 +19,11 @@ public enum TextShapeType
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
 | Rectangle | `1` | Rettangolo. |
-| RoundRectangle | `2` | RoundRettangolo. |
+| RoundRectangle | `2` | RoundRectangle. |
 | Ellipse | `3` | Ellisse. |
 | Diamond | `4` | Diamante. |
 | Triangle | `5` | Triangolo. |
-| RightTriangle | `6` | triangolo destro. |
+| RightTriangle | `6` | Triangolo destro. |
 | Parallelogram | `7` | Parallelogramma. |
 | Trapezoid | `8` | Trapezio. |
 | Hexagon | `9` | Esagono. |
@@ -141,22 +141,22 @@ public enum TextShapeType
 | FlowChartPunchedTape | `122` | Diagramma di flusso Nastro perforato. |
 | FlowChartSummingJunction | `123` | FlowChartSummingJunction. |
 | FlowChartOr | `124` | Diagramma di flussoOr. |
-| FlowChartCollate | `125` | Fascicola diagramma di flusso. |
-| FlowChartSort | `126` | FlowChartOrt. |
+| FlowChartCollate | `125` | FlowChartCollate. |
+| FlowChartSort | `126` | FlowChartSort. |
 | FlowChartExtract | `127` | Estratto diagramma di flusso. |
 | FlowChartMerge | `128` | FlowChartOfflineStorage. |
 | FlowChartOfflineStorage | `129` | FlowChartOfflineStorage. |
 | FlowChartOnlineStorage | `130` | FlowChartOnlineStorage. |
-| FlowChartMagneticTape | `131` | Diagramma di flussoMagneticTape. |
+| FlowChartMagneticTape | `131` | Diagramma di flussoNastro magnetico. |
 | FlowChartMagneticDisk | `132` | Diagramma di flussoDisco magnetico. |
-| FlowChartMagneticDrum | `133` | Diagramma di flussoMagneticDrum. |
+| FlowChartMagneticDrum | `133` | Diagramma di flusso Tamburo magnetico. |
 | FlowChartDisplay | `134` | Visualizzazione diagramma di flusso. |
 | FlowChartDelay | `135` | Ritardo diagramma di flusso. |
-| TextPlainText | `136` | TextSempreTesto. |
+| TextPlainText | `136` | TestoTestoPian. |
 | TextStop | `137` | TextStop. |
-| TextTriangle | `138` | Triangolo di testo. |
-| TextTriangleInverted | `139` | Triangolo di testo invertito. |
-| TextChevron | `140` | TextChevron. |
+| TextTriangle | `138` | TriangoloTesto. |
+| TextTriangleInverted | `139` | TestoTriangoloInvertito. |
+| TextChevron | `140` | TestoChevron. |
 | TextChevronInverted | `141` | Testo Chevron invertito. |
 | TextRingInside | `142` | TextRingInside. |
 | TextRingOutside | `143` | TextRingOutside. |
@@ -179,14 +179,14 @@ public enum TextShapeType
 | TextInflate | `160` | TextInflate. |
 | TextDeflate | `161` | TextDeflate. |
 | TextInflateBottom | `162` | TextInflateBottom. |
-| TextDeflateBottom | `163` | TextDeflateBottom. |
-| TextInflateTop | `164` | TextInflatTop. |
-| TextDeflateTop | `165` | TextDeflateTop. |
-| TextDeflateInflate | `166` | TextDeflateInflate. |
-| TextDeflateInflateDeflate | `167` | TextDeflateInflateDeflate. |
+| TextDeflateBottom | `163` | TestoDeflateBottom. |
+| TextInflateTop | `164` | TextInflateTop. |
+| TextDeflateTop | `165` | TestoDeflateTop. |
+| TextDeflateInflate | `166` | TestoDeflateInflate. |
+| TextDeflateInflateDeflate | `167` | TestoDeflateInflateDeflate. |
 | TextFadeRight | `168` | TextFadeRight. |
 | TextFadeLeft | `169` | TextFadeLeft. |
-| TextFadeUp | `170` | Dissolvenza testo in su. |
+| TextFadeUp | `170` | TextFadeUp. |
 | TextFadeDown | `171` | TextFadeDown. |
 | TextSlantUp | `172` | TextSlantUp. |
 | TextSlantDown | `173` | TestoSlantDown. |

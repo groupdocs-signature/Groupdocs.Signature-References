@@ -1,14 +1,14 @@
 ---
 title: AustralianPosteParcel
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Oggetto tipo codice a barre eParcel Posta australiana.
+description: Oggetto tipo codice a barre Poste australiane eParcel.
 type: docs
 weight: 30
 url: /it/net/groupdocs.signature.domain/barcodetypes/australianposteparcel/
 ---
 ## BarcodeTypes.AustralianPosteParcel field
 
-Oggetto tipo codice a barre eParcel Posta australiana.
+Oggetto tipo codice a barre Poste australiane eParcel.
 
 ```csharp
 public static readonly BarcodeType AustralianPosteParcel;

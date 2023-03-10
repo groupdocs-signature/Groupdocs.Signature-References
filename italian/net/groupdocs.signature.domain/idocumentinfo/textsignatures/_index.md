@@ -3,7 +3,7 @@ title: TextSignatures
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Raccolta di firme di testo del documento aggiunte o aggiornate daSignaturegroupdocs.signature/signature metodi.
 type: docs
-weight: 140
+weight: 150
 url: /it/net/groupdocs.signature.domain/idocumentinfo/textsignatures/
 ---
 ## IDocumentInfo.TextSignatures property

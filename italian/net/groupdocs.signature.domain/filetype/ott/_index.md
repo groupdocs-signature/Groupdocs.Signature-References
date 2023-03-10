@@ -1,14 +1,14 @@
 ---
 title: OTT
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: OpenDocument Document Template .ott rappresenta i documenti modello generati dalle applicazioni in conformità con il formato standard OpenDocument di OASIS. Ulteriori informazioni su questo formato di filequihttps//wiki.fileformat.com/wordprocessing/ott .
+description: OpenDocument Document Template .ott rappresenta i documenti modello generati dalle applicazioni in conformità con il formato standard OpenDocument di OASIS. Ulteriori informazioni su questo formato di fileQuihttps//wiki.fileformat.com/wordprocessing/ott .
 type: docs
 weight: 250
 url: /it/net/groupdocs.signature.domain/filetype/ott/
 ---
 ## FileType.OTT field
 
-OpenDocument Document Template (.ott) rappresenta i documenti modello generati dalle applicazioni in conformità con il formato standard OpenDocument di OASIS. Ulteriori informazioni su questo formato di file[qui](https://wiki.fileformat.com/word-processing/ott) .
+OpenDocument Document Template (.ott) rappresenta i documenti modello generati dalle applicazioni in conformità con il formato standard OpenDocument di OASIS. Ulteriori informazioni su questo formato di file[Qui](https://wiki.fileformat.com/word-processing/ott) .
 
 ```csharp
 public static readonly FileType OTT;

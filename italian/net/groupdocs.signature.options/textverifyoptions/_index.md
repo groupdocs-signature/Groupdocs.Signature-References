@@ -3,7 +3,7 @@ title: TextVerifyOptions
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Mantiene le opzioni per verificare la firma del testo del documento.
 type: docs
-weight: 1660
+weight: 1740
 url: /it/net/groupdocs.signature.options/textverifyoptions/
 ---
 ## TextVerifyOptions class
@@ -40,7 +40,7 @@ public class TextVerifyOptions : VerifyOptions
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Utilizzo di base della verifica per la firma elettronica del codice a barre da parte di GroupDocs.Signature: [ Come eVerification Firme di codici a barre in un documento](https://docs.groupdocs.com/display/signaturenet/Verify+Text+signatures+in+the+document)
 * Utilizzo avanzato delle impostazioni di verifica per la firma elettronica del codice a barre con GroupDocs.Signature: [Utilizzo avanzato delle firme dei codici a barre eVerification in un documento e impostazioni aggiuntive](https://docs.groupdocs.com/display/signaturenet/Verify+Text+signatures)

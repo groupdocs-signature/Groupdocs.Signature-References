@@ -3,7 +3,7 @@ title: GetHashCode
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Restituisce il codice hash per la correnteFileTypegroupdocs.signature.domain/filetype oggetto.
 type: docs
-weight: 610
+weight: 620
 url: /it/net/groupdocs.signature.domain/filetype/gethashcode/
 ---
 ## FileType.GetHashCode method

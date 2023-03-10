@@ -1,14 +1,14 @@
 ---
 title: PixelAspectRatio
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Ottiene o imposta le proporzioni dei pixel GIF.
+description: Ottiene o imposta le proporzioni pixel GIF.
 type: docs
 weight: 80
 url: /it/net/groupdocs.signature.options/gifsaveoptions/pixelaspectratio/
 ---
 ## GifSaveOptions.PixelAspectRatio property
 
-Ottiene o imposta le proporzioni dei pixel GIF.
+Ottiene o imposta le proporzioni pixel GIF.
 
 ```csharp
 public byte PixelAspectRatio { get; set; }
@@ -16,7 +16,7 @@ public byte PixelAspectRatio { get; set; }
 
 ### Osservazioni
 
-Proporzioni pixel - Fattore utilizzato per calcolare un'approssimazione delle proporzioni del pixel nell'immagine originale. Se il valore del campo non è 0, questa approssimazione delle proporzioni viene calcolata in base alla formula: Aspect Ratio = (Pixel Aspect Ratio + 15) / 64 Il Pixel Aspect Ratio è definito come il quoziente della larghezza del pixel oltre la sua altezza. L'intervallo di valori in questo campo consente di specificare dal pixel più largo di 4:1 al pixel più alto di 1:4 con incrementi di 1/64. Valori: 0 - Non vengono fornite informazioni sulle proporzioni . 1..255 - Valore utilizzato nel calcolo.
+Pixel Aspect Ratio - Fattore utilizzato per calcolare un'approssimazione del rapporto aspect del pixel nell'immagine originale. Se il valore del campo non è 0, questa approssimazione delle proporzioni viene calcolata in base alla formula: Aspect Ratio = (Pixel Aspect Ratio + 15) / 64 Pixel Aspect Ratio è definito come quoziente della larghezza del pixel oltre la sua altezza. L'intervallo di valori in questo campo consente di specificare dal pixel più largo di 4:1 al pixel più alto di 1:4 in incrementi di 1/64. Valori: 0 - Non viene fornita alcuna informazione sulle proporzioni . 1..255 - Valore utilizzato nel calcolo.
 
 ### Guarda anche
 

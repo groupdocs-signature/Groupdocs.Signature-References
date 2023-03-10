@@ -1,14 +1,14 @@
 ---
 title: PCL
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Documento del linguaggio dei comandi della stampante .pcl
+description: Documento linguaggio comando stampante .pcl
 type: docs
 weight: 260
 url: /it/net/groupdocs.signature.domain/filetype/pcl/
 ---
 ## FileType.PCL field
 
-Documento del linguaggio dei comandi della stampante (.pcl)
+Documento linguaggio comando stampante (.pcl)
 
 ```csharp
 public static readonly FileType PCL;

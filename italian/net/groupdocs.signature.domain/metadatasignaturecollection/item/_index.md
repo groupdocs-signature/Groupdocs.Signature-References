@@ -16,7 +16,7 @@ public MetadataSignature this[string name] { get; }
 
 | Parametro | Descrizione |
 | --- | --- |
-| name | Il nome senza distinzione tra maiuscole e minuscole della proprietà da recuperare. |
+| name | Nome senza distinzione tra maiuscole e minuscole della proprietà da recuperare. |
 
 ### Valore di ritorno
 

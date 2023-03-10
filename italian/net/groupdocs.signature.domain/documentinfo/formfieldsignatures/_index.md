@@ -1,14 +1,14 @@
 ---
 title: FormFieldSignatures
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Raccolta documenti Form Field firme aggiunte o aggiornate daSignaturegroupdocs.signature/signature metodi.
+description: Raccolta del documento Modulo Firme di campo aggiunte o aggiornate daSignaturegroupdocs.signature/signature metodi.
 type: docs
 weight: 60
 url: /it/net/groupdocs.signature.domain/documentinfo/formfieldsignatures/
 ---
 ## DocumentInfo.FormFieldSignatures property
 
-Raccolta documenti Form Field firme aggiunte o aggiornate da[`Signature`](../../../groupdocs.signature/signature) metodi.
+Raccolta del documento Modulo Firme di campo aggiunte o aggiornate da[`Signature`](../../../groupdocs.signature/signature) metodi.
 
 ```csharp
 public IList<FormFieldSignature> FormFieldSignatures { get; }

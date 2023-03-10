@@ -1,14 +1,14 @@
 ---
 title: SignatureImplementation
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Specifica limplementazione della firma del testo.
+description: Specifica limplementazione della firma testuale.
 type: docs
 weight: 30
 url: /it/net/groupdocs.signature.domain/textsignature/signatureimplementation/
 ---
 ## TextSignature.SignatureImplementation property
 
-Specifica l'implementazione della firma del testo.
+Specifica l'implementazione della firma testuale.
 
 ```csharp
 public TextSignatureImplementation SignatureImplementation { get; }

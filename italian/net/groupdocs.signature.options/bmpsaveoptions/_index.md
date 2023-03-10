@@ -1,14 +1,14 @@
 ---
 title: BmpSaveOptions
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Opzioni di salvataggio Bmp per i documenti immagine.
+description: Bmp Opzioni di salvataggio per documenti immagine.
 type: docs
-weight: 1220
+weight: 1290
 url: /it/net/groupdocs.signature.options/bmpsaveoptions/
 ---
 ## BmpSaveOptions class
 
-Opzioni di salvataggio Bmp per i documenti immagine.
+Bmp Opzioni di salvataggio per documenti immagine.
 
 ```csharp
 public sealed class BmpSaveOptions : ImageSaveOptions
@@ -24,15 +24,15 @@ public sealed class BmpSaveOptions : ImageSaveOptions
 
 | Nome | Descrizione |
 | --- | --- |
-| [AddMissingExtenstion](../../groupdocs.signature.options/saveoptions/addmissingextenstion) { get; set; } | Ottiene o imposta il flag per aggiungere automaticamente l'estensione quando mancava nel file di output percorso Il valore predefinito è false. |
-| [BitsPerPixel](../../groupdocs.signature.options/bmpsaveoptions/bitsperpixel) { get; set; } | Ottiene o imposta il conteggio dei bit dell'immagine per pixel. |
+| [AddMissingExtenstion](../../groupdocs.signature.options/saveoptions/addmissingextenstion) { get; set; } | Ottiene o imposta il flag per aggiungere automaticamente l'estensione quando mancava nel file di output path Il valore predefinito è false. |
+| [BitsPerPixel](../../groupdocs.signature.options/bmpsaveoptions/bitsperpixel) { get; set; } | Ottiene o imposta i bit dell'immagine per numero di pixel. |
 | [Compression](../../groupdocs.signature.options/bmpsaveoptions/compression) { get; set; } | Ottiene o imposta la compressione. Vedere[`BitmapCompression`](../bitmapcompression) . |
 | [FileFormat](../../groupdocs.signature.options/imagesaveoptions/fileformat) { get; set; } | Ottiene o imposta il formato file del documento firmato. |
-| [HorizontalResolution](../../groupdocs.signature.options/bmpsaveoptions/horizontalresolution) { get; set; } | Ottiene o imposta la risoluzione orizzontale. Nota a causa dell'arrotondamento, la risoluzione risultante potrebbe differire leggermente da quella passata. |
-| [OverwriteExistingFiles](../../groupdocs.signature.options/saveoptions/overwriteexistingfiles) { get; set; } | Ottiene o imposta se sovrascrivere il file esistente con il nuovo file di output. Altrimenti verrà creato un nuovo file con il numero come suffisso. Per impostazione predefinita, questo valore impostato su true significa che il file verrà sovrascritto. |
-| [Password](../../groupdocs.signature.options/saveoptions/password) { get; set; } | Ottiene o imposta la password per salvare il documento firmato con protezione tramite password. Questa proprietà non è supportata per i documenti Immagine. |
-| [UseOriginalPassword](../../groupdocs.signature.options/saveoptions/useoriginalpassword) { get; set; } | Ottiene o imposta se utilizzare la password da LoadOptions per salvare il documento firmato come protetto. Il valore predefinito è true. Questa proprietà non è supportata per i documenti Immagine. |
-| [VerticalResolution](../../groupdocs.signature.options/bmpsaveoptions/verticalresolution) { get; set; } | Ottiene o imposta la risoluzione verticale. Nota a causa dell'arrotondamento, la risoluzione risultante potrebbe differire leggermente da quella passata. |
+| [HorizontalResolution](../../groupdocs.signature.options/bmpsaveoptions/horizontalresolution) { get; set; } | Ottiene o imposta la risoluzione orizzontale. Nota a causa dell'arrotondamento, la risoluzione risultante potrebbe differire leggermente da quella approvata. |
+| [OverwriteExistingFiles](../../groupdocs.signature.options/saveoptions/overwriteexistingfiles) { get; set; } | Ottiene o imposta se sovrascrivere il file esistente con il nuovo file di output. Altrimenti verrà creato un nuovo file con numero come suffisso. Per impostazione predefinita, questo valore è impostato su true, il che significa che il file verrà sovrascritto. |
+| [Password](../../groupdocs.signature.options/saveoptions/password) { get; set; } | Ottiene o imposta la password per salvare il documento firmato con protezione tramite password. Questa proprietà non è supportata per i documenti immagine. |
+| [UseOriginalPassword](../../groupdocs.signature.options/saveoptions/useoriginalpassword) { get; set; } | Ottiene o imposta se utilizzare la password di LoadOptions per salvare il documento firmato come protetto. Il valore predefinito è true. Questa proprietà non è supportata per i documenti immagine. |
+| [VerticalResolution](../../groupdocs.signature.options/bmpsaveoptions/verticalresolution) { get; set; } | Ottiene o imposta la risoluzione verticale. Nota a causa dell'arrotondamento, la risoluzione risultante potrebbe differire leggermente da quella approvata. |
 
 ### Guarda anche
 

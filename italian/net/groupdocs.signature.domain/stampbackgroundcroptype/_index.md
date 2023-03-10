@@ -3,7 +3,7 @@ title: StampBackgroundCropType
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Specifica il tipo di ritaglio del livello di sfondo sugli elementi Timbro.
 type: docs
-weight: 870
+weight: 900
 url: /it/net/groupdocs.signature.domain/stampbackgroundcroptype/
 ---
 ## StampBackgroundCropType enumeration
@@ -18,7 +18,7 @@ public enum StampBackgroundCropType
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| None | `0` | Nessun ritaglio: tutto il rettangolo dell'area della firma verrà riempito con lo sfondo. |
+| None | `0` | Nessun ritaglio: tutti i rettangoli dell'area della firma verranno riempiti con lo sfondo. |
 | OuterArea | `1` | Ritaglia lo sfondo in base alla linea esterna esterna. |
 | MiddleArea | `2` | Ritaglia lo sfondo tra le linee esterne e interne. |
 | InnerArea | `3` | Ritaglia lo sfondo per linea interna. |

@@ -1,14 +1,14 @@
 ---
 title: InnerLines
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Elenco di linee interne renderizzate come un insieme di rettangoli.
+description: Elenco delle linee interne visualizzate come insieme di rettangoli.
 type: docs
 weight: 50
 url: /it/net/groupdocs.signature.options/stampsignoptions/innerlines/
 ---
 ## StampSignOptions.InnerLines property
 
-Elenco di linee interne renderizzate come un insieme di rettangoli.
+Elenco delle linee interne visualizzate come insieme di rettangoli.
 
 ```csharp
 public List<StampLine> InnerLines { get; }

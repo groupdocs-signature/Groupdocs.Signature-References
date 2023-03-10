@@ -1,14 +1,14 @@
 ---
 title: SpreadsheetMetadataSignature
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Contiene le proprietà della firma dei metadati del foglio di lavoro.
+description: Contiene le proprietà della firma dei metadati del foglio di calcolo.
 type: docs
-weight: 840
+weight: 870
 url: /it/net/groupdocs.signature.domain/spreadsheetmetadatasignature/
 ---
 ## SpreadsheetMetadataSignature class
 
-Contiene le proprietà della firma dei metadati del foglio di lavoro.
+Contiene le proprietà della firma dei metadati del foglio di calcolo.
 
 ```csharp
 public sealed class SpreadsheetMetadataSignature : MetadataSignature
@@ -18,7 +18,7 @@ public sealed class SpreadsheetMetadataSignature : MetadataSignature
 
 | Nome | Descrizione |
 | --- | --- |
-| [SpreadsheetMetadataSignature](spreadsheetmetadatasignature#constructor)(string) | Crea la firma dei metadati del foglio di calcolo con nome predefinito e valore vuoto. |
+| [SpreadsheetMetadataSignature](spreadsheetmetadatasignature#constructor)(string) | Crea la firma dei metadati del foglio di calcolo con un nome predefinito e un valore vuoto. |
 | [SpreadsheetMetadataSignature](spreadsheetmetadatasignature#constructor_1)(string, object) | Crea la firma dei metadati del foglio di calcolo con valori predefiniti. |
 
 ## Proprietà
@@ -37,6 +37,7 @@ public sealed class SpreadsheetMetadataSignature : MetadataSignature
 | [SignatureId](../../groupdocs.signature.domain/basesignature/signatureid) { get; } | Identificatore di firma univoco per modificare la firma nel documento tramite i metodi Update o Delete. Questa proprietà verrà impostata automaticamente dopo la chiamata al metodo Sign o Search. Se questa proprietà è stata salvata prima, può essere impostata manualmente per manipolare la firma. |
 | [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | Specifica il tipo di firma. |
 | [Top](../../groupdocs.signature.domain/basesignature/top) { get; set; } | Specifica la posizione superiore della firma. |
+| [Type](../../groupdocs.signature.domain/metadatasignature/type) { get; } | Specifica il tipo di valore dei metadati. |
 | [Value](../../groupdocs.signature.domain/metadatasignature/value) { get; set; } | Specifica l'oggetto dei metadati. |
 | [Width](../../groupdocs.signature.domain/basesignature/width) { get; set; } | Specifica la larghezza della firma. |
 
@@ -45,7 +46,7 @@ public sealed class SpreadsheetMetadataSignature : MetadataSignature
 | Nome | Descrizione |
 | --- | --- |
 | override [Clone](../../groupdocs.signature.domain/spreadsheetmetadatasignature/clone#clone_1)() | Clona istanza firma metadati. |
-| override [Clone](../../groupdocs.signature.domain/spreadsheetmetadatasignature/clone#clone)(object) | Clona l'istanza della firma dei metadati del foglio di calcolo con un valore specificato. |
+| override [Clone](../../groupdocs.signature.domain/spreadsheetmetadatasignature/clone#clone)(object) | Clona l'istanza della firma dei metadati del foglio di calcolo con un determinato valore. |
 | override [Equals](../../groupdocs.signature.domain/metadatasignature/equals)(object) | Sovrascrive il metodo Equals per confrontare le proprietà della firma |
 | [GetData&lt;T&gt;](../../groupdocs.signature.domain/metadatasignature/getdata)() | Ottieni l'oggetto dal valore della firma dei metadati tramite la deserializzazione. |
 | [GetData&lt;T&gt;](../../groupdocs.signature.domain/metadatasignature/getdata)(IDataEncryption) | Ottieni l'oggetto dal testo della firma dei metadati tramite la deserializzazione. |

@@ -3,7 +3,7 @@ title: PresentationSaveOptions
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Opzioni di salvataggio per i documenti di presentazione.
 type: docs
-weight: 1490
+weight: 1570
 url: /it/net/groupdocs.signature.options/presentationsaveoptions/
 ---
 ## PresentationSaveOptions class
@@ -27,11 +27,11 @@ public class PresentationSaveOptions : SaveOptions
 
 | Nome | Descrizione |
 | --- | --- |
-| [AddMissingExtenstion](../../groupdocs.signature.options/saveoptions/addmissingextenstion) { get; set; } | Ottiene o imposta il flag per aggiungere automaticamente l'estensione quando mancava nel file di output percorso Il valore predefinito è false. |
+| [AddMissingExtenstion](../../groupdocs.signature.options/saveoptions/addmissingextenstion) { get; set; } | Ottiene o imposta il flag per aggiungere automaticamente l'estensione quando mancava nel file di output path Il valore predefinito è false. |
 | [FileFormat](../../groupdocs.signature.options/presentationsaveoptions/fileformat) { get; set; } | Ottiene o imposta il formato file del documento firmato. |
-| [OverwriteExistingFiles](../../groupdocs.signature.options/saveoptions/overwriteexistingfiles) { get; set; } | Ottiene o imposta se sovrascrivere il file esistente con il nuovo file di output. Altrimenti verrà creato un nuovo file con il numero come suffisso. Per impostazione predefinita, questo valore impostato su true significa che il file verrà sovrascritto. |
-| [Password](../../groupdocs.signature.options/saveoptions/password) { get; set; } | Ottiene o imposta la password per salvare il documento firmato con protezione tramite password. Questa proprietà non è supportata per i documenti Immagine. |
-| [UseOriginalPassword](../../groupdocs.signature.options/saveoptions/useoriginalpassword) { get; set; } | Ottiene o imposta se utilizzare la password da LoadOptions per salvare il documento firmato come protetto. Il valore predefinito è true. Questa proprietà non è supportata per i documenti Immagine. |
+| [OverwriteExistingFiles](../../groupdocs.signature.options/saveoptions/overwriteexistingfiles) { get; set; } | Ottiene o imposta se sovrascrivere il file esistente con il nuovo file di output. Altrimenti verrà creato un nuovo file con numero come suffisso. Per impostazione predefinita, questo valore è impostato su true, il che significa che il file verrà sovrascritto. |
+| [Password](../../groupdocs.signature.options/saveoptions/password) { get; set; } | Ottiene o imposta la password per salvare il documento firmato con protezione tramite password. Questa proprietà non è supportata per i documenti immagine. |
+| [UseOriginalPassword](../../groupdocs.signature.options/saveoptions/useoriginalpassword) { get; set; } | Ottiene o imposta se utilizzare la password di LoadOptions per salvare il documento firmato come protetto. Il valore predefinito è true. Questa proprietà non è supportata per i documenti immagine. |
 
 ### Guarda anche
 

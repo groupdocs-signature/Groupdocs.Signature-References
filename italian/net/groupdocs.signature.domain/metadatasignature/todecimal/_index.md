@@ -3,7 +3,7 @@ title: ToDecimal
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Converte in decimale.
 type: docs
-weight: 100
+weight: 110
 url: /it/net/groupdocs.signature.domain/metadatasignature/todecimal/
 ---
 ## ToDecimal() {#todecimal}

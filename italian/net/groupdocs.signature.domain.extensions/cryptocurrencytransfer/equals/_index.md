@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Sovrascrive il metodo Equals per confrontare le proprietà di trasferimento di valuta Crypto
+description: Sovrascrive il metodo Equals per confrontare le proprietà del trasferimento di criptovaluta
 type: docs
 weight: 70
 url: /it/net/groupdocs.signature.domain.extensions/cryptocurrencytransfer/equals/
 ---
 ## CryptoCurrencyTransfer.Equals method
 
-Sovrascrive il metodo Equals per confrontare le proprietà di trasferimento di valuta Crypto
+Sovrascrive il metodo Equals per confrontare le proprietà del trasferimento di criptovaluta
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,11 +16,11 @@ public override bool Equals(object obj)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| obj | Object | Oggetto di trasferimento di valuta crittografica con cui confrontare. |
+| obj | Object | Oggetto di trasferimento di criptovaluta da confrontare. |
 
 ### Valore di ritorno
 
-Restituisce true se l'oggetto di trasferimento di valuta Crypto passato ha lo stesso tipo e tutte le sue proprietà sono uguali alle proprietà di questa istanza.
+Restituisce vero se l'oggetto di trasferimento di criptovaluta passato ha lo stesso tipo e tutte le sue proprietà sono uguali alle proprietà di questa istanza.
 
 ### Guarda anche
 

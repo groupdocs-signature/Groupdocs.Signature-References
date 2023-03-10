@@ -1,14 +1,14 @@
 ---
 title: SaveDocumentOnEmptyUpdate
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Ottiene o imposta il flag per salvare nuovamente il documento di origine quando il metodo di aggiornamento non ha firme da aggiornare. Se questo flag è impostato su true per impostazione predefinita il documento verrà salvato con il registro del processo della cronologia corrispondente data e tipo di operazione anche se il metodo di aggiornamento ha nessuna firma da aggiornare. Quando questo flat è impostato su false il documento di origine non verrà modificato affatto.
+description: Ottiene o imposta il flag per salvare nuovamente il documento di origine quando il metodo Update non ha firme da aggiornare. Se questo flag è impostato su true per impostazione predefinita il documento verrà salvato con il registro del processo di cronologia corrispondente data e tipo di operazione anche se Update il metodo non ha firme da aggiornare. Quando questo flat è impostato su false il documento di origine non verrà modificato affatto.
 type: docs
-weight: 40
+weight: 70
 url: /it/net/groupdocs.signature/signaturesettings/savedocumentonemptyupdate/
 ---
 ## SignatureSettings.SaveDocumentOnEmptyUpdate property
 
-Ottiene o imposta il flag per salvare nuovamente il documento di origine quando il metodo di aggiornamento non ha firme da aggiornare. Se questo flag è impostato su true (per impostazione predefinita), il documento verrà salvato con il registro del processo della cronologia corrispondente (data e tipo di operazione) anche se il metodo di aggiornamento ha nessuna firma da aggiornare. Quando questo flat è impostato su false, il documento di origine non verrà modificato affatto.
+Ottiene o imposta il flag per salvare nuovamente il documento di origine quando il metodo Update non ha firme da aggiornare. Se questo flag è impostato su true (per impostazione predefinita), il documento verrà salvato con il registro del processo di cronologia corrispondente (data e tipo di operazione) anche se Update il metodo non ha firme da aggiornare. Quando questo flat è impostato su false, il documento di origine non verrà modificato affatto.
 
 ```csharp
 public bool SaveDocumentOnEmptyUpdate { get; set; }

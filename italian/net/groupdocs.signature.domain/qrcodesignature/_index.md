@@ -3,7 +3,7 @@ title: QrCodeSignature
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Contiene le proprietà della firma del codice QR.
 type: docs
-weight: 760
+weight: 790
 url: /it/net/groupdocs.signature.domain/qrcodesignature/
 ---
 ## QrCodeSignature class
@@ -18,7 +18,7 @@ public class QrCodeSignature : BaseSignature
 
 | Nome | Descrizione |
 | --- | --- |
-| [QrCodeSignature](qrcodesignature)(string) | Inizializza oggetto QrCodeSignature con identificatore di firma ottenuto dopo il processo di ricerca. Questo identificatore univoco viene utilizzato per trovare proprietà aggiuntive per questa firma dal livello di informazioni sulla firma del documento. |
+| [QrCodeSignature](qrcodesignature)(string) | Inizializza l'oggetto QrCodeSignature con l'identificatore della firma ottenuto dopo il processo di ricerca. Questo identificatore univoco viene utilizzato per trovare proprietà aggiuntive per questa firma dal livello delle informazioni sulla firma del documento. |
 
 ## Proprietà
 
@@ -46,8 +46,8 @@ public class QrCodeSignature : BaseSignature
 | --- | --- |
 | override [Clone](../../groupdocs.signature.domain/qrcodesignature/clone)() | Clona istanza firma codice QR. |
 | override [Equals](../../groupdocs.signature.domain/qrcodesignature/equals)(object) | Sovrascrive il metodo Equals per confrontare le proprietà della firma |
-| [GetData&lt;T&gt;](../../groupdocs.signature.domain/qrcodesignature/getdata#getdata)() | Ottieni oggetto da QR-Code Firma Testo su deserializzazione. |
-| [GetData&lt;T&gt;](../../groupdocs.signature.domain/qrcodesignature/getdata#getdata_1)(IDataEncryption) | Ottieni oggetto da QR-Code Firma Testo su deserializzazione. |
+| [GetData&lt;T&gt;](../../groupdocs.signature.domain/qrcodesignature/getdata#getdata)() | Ottieni oggetto dal testo della firma del codice QR tramite deserializzazione. |
+| [GetData&lt;T&gt;](../../groupdocs.signature.domain/qrcodesignature/getdata#getdata_1)(IDataEncryption) | Ottieni oggetto dal testo della firma del codice QR tramite deserializzazione. |
 | override [GetHashCode](../../groupdocs.signature.domain/qrcodesignature/gethashcode)() | Sostituisce il metodo GetHashCode |
 
 ### Guarda anche

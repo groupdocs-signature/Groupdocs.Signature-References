@@ -3,7 +3,7 @@ title: ProcessLogs
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Raccolta dei log del processo di cronologia dei documenti.
 type: docs
-weight: 100
+weight: 110
 url: /it/net/groupdocs.signature.domain/idocumentinfo/processlogs/
 ---
 ## IDocumentInfo.ProcessLogs property

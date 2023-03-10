@@ -1,14 +1,14 @@
 ---
 title: Password
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Ottiene o imposta la password per salvare il documento firmato con protezione tramite password. Questa proprietà non è supportata per i documenti Immagine.
+description: Ottiene o imposta la password per salvare il documento firmato con protezione tramite password. Questa proprietà non è supportata per i documenti immagine.
 type: docs
 weight: 40
 url: /it/net/groupdocs.signature.options/saveoptions/password/
 ---
 ## SaveOptions.Password property
 
-Ottiene o imposta la password per salvare il documento firmato con protezione tramite password. Questa proprietà non è supportata per i documenti Immagine.
+Ottiene o imposta la password per salvare il documento firmato con protezione tramite password. Questa proprietà non è supportata per i documenti immagine.
 
 ```csharp
 public string Password { get; set; }

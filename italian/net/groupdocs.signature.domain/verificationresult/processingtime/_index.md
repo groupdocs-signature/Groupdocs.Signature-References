@@ -1,17 +1,17 @@
 ---
-title: VerificationResult
+title: ProcessingTime
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Default_Costruttore
+description: Restituisce il tempo di esecuzione del processo in millisecondi.
 type: docs
-weight: 10
-url: /it/net/groupdocs.signature.domain/verificationresult/verificationresult/
+weight: 30
+url: /it/net/groupdocs.signature.domain/verificationresult/processingtime/
 ---
-## VerificationResult constructor
+## VerificationResult.ProcessingTime property
 
-Default_Costruttore
+Restituisce il tempo di esecuzione del processo in millisecondi.
 
 ```csharp
-public VerificationResult()
+public long ProcessingTime { get; }
 ```
 
 ### Guarda anche

@@ -1,14 +1,14 @@
 ---
 title: NameMatchType
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Ottiene o imposta il nome dei metadati Ricerca del tipo di corrispondenza. Viene utilizzato solo quando è impostata la proprietà Nome.
+description: Ottiene o imposta il nome dei metadati Ricerca del tipo di corrispondenza. Viene utilizzato solo quando è impostata la proprietà Name.
 type: docs
 weight: 50
 url: /it/net/groupdocs.signature.options/metadatasearchoptions/namematchtype/
 ---
 ## MetadataSearchOptions.NameMatchType property
 
-Ottiene o imposta il nome dei metadati Ricerca del tipo di corrispondenza. Viene utilizzato solo quando è impostata la proprietà Nome.
+Ottiene o imposta il nome dei metadati Ricerca del tipo di corrispondenza. Viene utilizzato solo quando è impostata la proprietà Name.
 
 ```csharp
 public TextMatchType NameMatchType { get; set; }

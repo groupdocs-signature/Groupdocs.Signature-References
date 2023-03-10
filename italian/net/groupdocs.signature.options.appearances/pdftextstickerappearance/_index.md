@@ -1,14 +1,14 @@
 ---
 title: PdfTextStickerAppearance
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Descrive laspetto delloggetto adesivo annotazione testo PDF e la finestra a comparsa delladesivo.
+description: Descrive laspetto delloggetto adesivo dellannotazione di testo PDF e la finestra a comparsa delladesivo.
 type: docs
-weight: 1160
+weight: 1230
 url: /it/net/groupdocs.signature.options.appearances/pdftextstickerappearance/
 ---
 ## PdfTextStickerAppearance class
 
-Descrive l'aspetto dell'oggetto adesivo annotazione testo PDF e la finestra a comparsa dell'adesivo.
+Descrive l'aspetto dell'oggetto adesivo dell'annotazione di testo PDF e la finestra a comparsa dell'adesivo.
 
 ```csharp
 public sealed class PdfTextStickerAppearance : SignatureAppearance
@@ -24,10 +24,10 @@ public sealed class PdfTextStickerAppearance : SignatureAppearance
 
 | Nome | Descrizione |
 | --- | --- |
-| static [DefaultAppearance](../../groupdocs.signature.options.appearances/pdftextstickerappearance/defaultappearance) { get; } | Ottiene l'aspetto predefinito per l'adesivo. Queste proprietà vengono applicate come predefinite se la proprietà Options.SignatureAppearance non è specificata. Le proprietà possono essere modificate dall'utente in qualsiasi momento. |
-| [Contents](../../groupdocs.signature.options.appearances/pdftextstickerappearance/contents) { get; set; } | Ottiene o imposta il contenuto della finestra pop-up. |
+| static [DefaultAppearance](../../groupdocs.signature.options.appearances/pdftextstickerappearance/defaultappearance) { get; } | Ottiene l'aspetto predefinito per l'adesivo. Queste proprietà vengono applicate per impostazione predefinita se la proprietà Options.SignatureAppearance non è specificata. Le proprietà possono essere modificate dall'utente in qualsiasi momento. |
+| [Contents](../../groupdocs.signature.options.appearances/pdftextstickerappearance/contents) { get; set; } | Ottiene o imposta il contenuto della finestra a comparsa. |
 | [Icon](../../groupdocs.signature.options.appearances/pdftextstickerappearance/icon) { get; set; } | Ottiene o imposta l'icona dell'adesivo. |
-| [Opened](../../groupdocs.signature.options.appearances/pdftextstickerappearance/opened) { get; set; } | Imposta se la finestra pop-up dell'adesivo verrà aperta per impostazione predefinita. |
+| [Opened](../../groupdocs.signature.options.appearances/pdftextstickerappearance/opened) { get; set; } | Imposta se la finestra pop-up degli adesivi verrà aperta per impostazione predefinita. |
 | [Subject](../../groupdocs.signature.options.appearances/pdftextstickerappearance/subject) { get; set; } | Ottiene o imposta l'oggetto. |
 | [Title](../../groupdocs.signature.options.appearances/pdftextstickerappearance/title) { get; set; } | Ottiene o imposta il titolo della finestra a comparsa. |
 

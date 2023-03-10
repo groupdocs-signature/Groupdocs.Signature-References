@@ -1,14 +1,14 @@
 ---
 title: EncodeType
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Specifica la proprietà del tipo di codifica per cercare i codici QR. Se questo valore non è impostato la ricerca viene elaborata per tutti i tipi di codici QR supportati.
+description: Specifica la proprietà Tipo di codifica per cercare i codici QR. Se questo valore non è impostato la ricerca viene elaborata per tutti i tipi di codice QR supportati.
 type: docs
 weight: 30
 url: /it/net/groupdocs.signature.options/qrcodesearchoptions/encodetype/
 ---
 ## QrCodeSearchOptions.EncodeType property
 
-Specifica la proprietà del tipo di codifica per cercare i codici QR. Se questo valore non è impostato, la ricerca viene elaborata per tutti i tipi di codici QR supportati.
+Specifica la proprietà Tipo di codifica per cercare i codici QR. Se questo valore non è impostato, la ricerca viene elaborata per tutti i tipi di codice QR supportati.
 
 ```csharp
 public QrCodeType EncodeType { get; set; }

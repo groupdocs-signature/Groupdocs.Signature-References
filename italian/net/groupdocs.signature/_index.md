@@ -14,7 +14,7 @@ Lo spazio dei nomi fornisce classi per la firma di documenti di diversi formati 
 | --- | --- |
 | [GroupDocsSignatureException](./groupdocssignatureexception) | Rappresenta gli errori generici che si verificano durante l'elaborazione del documento. |
 | [IncorrectPasswordException](./incorrectpasswordexception) | L'eccezione generata quando la password specificata non è corretta. |
-| [License](./license) | Fornisce i metodi per concedere in licenza il componente. Ulteriori informazioni sulle licenze[qui](https://purchase.groupdocs.com/faqs/licensing) . |
+| [License](./license) | Fornisce i metodi per concedere in licenza il componente. Ulteriori informazioni sulle licenze[Qui](https://purchase.groupdocs.com/faqs/licensing) . |
 | [Metered](./metered) | Fornisce metodi per l'applicazione[Misurato](https://purchase.groupdocs.com/faqs/licensing/metered) licenza. |
 | [PasswordRequiredException](./passwordrequiredexception) | L'eccezione generata quando è richiesta la password per caricare il documento. |
 | [ProcessCompleteEventArgs](./processcompleteeventargs) | Fornisce dati sull'evento completo dei processi di firma, verifica e ricerca. |

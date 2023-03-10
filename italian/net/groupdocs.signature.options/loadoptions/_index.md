@@ -1,14 +1,14 @@
 ---
 title: LoadOptions
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Consente di specificare opzioni aggiuntive come la password quando si apre un documento da firmare.
+description: Consente di specificare opzioni aggiuntive come la password allapertura di un documento da firmare.
 type: docs
-weight: 1390
+weight: 1470
 url: /it/net/groupdocs.signature.options/loadoptions/
 ---
 ## LoadOptions class
 
-Consente di specificare opzioni aggiuntive (come la password) quando si apre un documento da firmare.
+Consente di specificare opzioni aggiuntive (come la password) all'apertura di un documento da firmare.
 
 ```csharp
 public class LoadOptions
@@ -24,7 +24,7 @@ public class LoadOptions
 
 | Nome | Descrizione |
 | --- | --- |
-| [LoadExternalResources](../../groupdocs.signature.options/loadoptions/loadexternalresources) { get; set; } | Ottiene o imposta le opzioni che specificano se devono essere caricate risorse di documenti esterni. Questa opzione con valore disabilitato (false) consente di risparmiare tempo di caricamento per i documenti con collegamenti a risorse esterne molti o grandi. Per impostazione predefinita, il valore è abilitato (true). |
+| [LoadExternalResources](../../groupdocs.signature.options/loadoptions/loadexternalresources) { get; set; } | Ottiene o imposta le opzioni che specificano se le risorse del documento esterno devono essere caricate. Questa opzione con valore disabilitato (false) consente di risparmiare tempo di caricamento per i documenti con molti o grandi collegamenti a risorse esterne. Per impostazione predefinita il valore è abilitato (true). |
 | [Password](../../groupdocs.signature.options/loadoptions/password) { get; set; } | Ottiene o imposta la password per aprire un documento protetto. Verrà utilizzato anche per salvare il documento firmato come protetto. |
 
 ### Guarda anche

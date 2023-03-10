@@ -3,7 +3,7 @@ title: StampType
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Specifica le proprietà del tipo di timbro.
 type: docs
-weight: 900
+weight: 930
 url: /it/net/groupdocs.signature.domain/stamptype/
 ---
 ## StampType class
@@ -25,9 +25,9 @@ public sealed class StampType : IEquatable<StampType>
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Equals](../../groupdocs.signature.domain/stamptype/equals#equals_1)(object) | Il metodo sovrascritto determina se il System.Object specificato è uguale al System.Object. corrente |
+| override [Equals](../../groupdocs.signature.domain/stamptype/equals#equals_1)(object) | Il metodo sottoposto a override determina se il System.Object specificato è uguale al System.Object. corrente |
 | [Equals](../../groupdocs.signature.domain/stamptype/equals#equals)(StampType) | Determina se il tipo di timbro specificato è uguale all'oggetto corrente. |
-| override [GetHashCode](../../groupdocs.signature.domain/stamptype/gethashcode)() | Il metodo sovrascritto funge da funzione hash per un tipo particolare. |
+| override [GetHashCode](../../groupdocs.signature.domain/stamptype/gethashcode)() | Il metodo sovrascritto funge da funzione hash per un particolare tipo. |
 | override [ToString](../../groupdocs.signature.domain/stamptype/tostring)() | Il metodo sovrascritto funge da conversione in tipo stringa. |
 
 ### Guarda anche

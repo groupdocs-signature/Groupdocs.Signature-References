@@ -1,14 +1,14 @@
 ---
 title: ODT
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: OpenDocument Text Document .odt sono tipi di documenti creati con applicazioni di elaborazione testi basate sul formato OpenDocument Text File. Ulteriori informazioni su questo formato di filequihttps//wiki.fileformat.com/wordprocessing/odt .
+description: OpenDocument Text Document .odt sono tipi di documenti creati con applicazioni di elaborazione testi basate sul formato OpenDocument Text File. Ulteriori informazioni su questo formato di fileQuihttps//wiki.fileformat.com/wordprocessing/odt .
 type: docs
 weight: 220
 url: /it/net/groupdocs.signature.domain/filetype/odt/
 ---
 ## FileType.ODT field
 
-OpenDocument Text Document (.odt) sono tipi di documenti creati con applicazioni di elaborazione testi basate sul formato OpenDocument Text File. Ulteriori informazioni su questo formato di file[qui](https://wiki.fileformat.com/word-processing/odt) .
+OpenDocument Text Document (.odt) sono tipi di documenti creati con applicazioni di elaborazione testi basate sul formato OpenDocument Text File. Ulteriori informazioni su questo formato di file[Qui](https://wiki.fileformat.com/word-processing/odt) .
 
 ```csharp
 public static readonly FileType ODT;

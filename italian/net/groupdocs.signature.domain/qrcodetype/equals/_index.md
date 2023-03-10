@@ -16,7 +16,7 @@ public bool Equals(QrCodeType other)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| other | QrCodeType | Oggetto di confronto. |
+| other | QrCodeType | Oggetto per il confronto. |
 
 ### Valore di ritorno
 
@@ -32,7 +32,7 @@ Risultato del confronto.
 
 ## Equals(object) {#equals_1}
 
-Il metodo sovrascritto determina se il System.Object specificato è uguale al System.Object. corrente
+Il metodo sottoposto a override determina se il System.Object specificato è uguale al System.Object. corrente
 
 ```csharp
 public override bool Equals(object obj)
@@ -40,7 +40,7 @@ public override bool Equals(object obj)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| obj | Object | Oggetto di confronto. |
+| obj | Object | Oggetto per il confronto. |
 
 ### Valore di ritorno
 

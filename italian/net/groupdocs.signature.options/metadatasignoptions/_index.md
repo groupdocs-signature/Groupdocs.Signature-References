@@ -3,7 +3,7 @@ title: MetadataSignOptions
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Rappresenta le opzioni di firma dei metadati.
 type: docs
-weight: 1410
+weight: 1490
 url: /it/net/groupdocs.signature.options/metadatasignoptions/
 ---
 ## MetadataSignOptions class
@@ -46,10 +46,10 @@ public class MetadataSignOptions : SignOptions
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
-* Utilizzo di base della creazione di firme elettroniche di metadati da GroupDocs.Firma: [Come firmare documenti elettronici con la firma dei metadati](https://docs.groupdocs.com/display/signaturenet/eSign+document+with+Metadata+signature)
-* Utilizzo avanzato delle impostazioni della firma elettronica dei metadati con GroupDocs.Signature: [Utilizzo avanzato per firmare documenti elettronici con firma di metadati e impostazioni aggiuntive](https://docs.groupdocs.com/display/signaturenet/Sign+document+with+Metadata+signature+-+advanced)
+* Utilizzo di base della creazione della firma elettronica dei metadati da parte di GroupDocs.Signature: [Come firmare elettronicamente un documento con la firma dei metadati](https://docs.groupdocs.com/display/signaturenet/eSign+document+with+Metadata+signature)
+* Utilizzo avanzato delle impostazioni della firma elettronica dei metadati con GroupDocs.Signature: [Utilizzo avanzato per firmare elettronicamente il documento con la firma dei metadati e impostazioni aggiuntive](https://docs.groupdocs.com/display/signaturenet/Sign+document+with+Metadata+signature+-+advanced)
 
 ### Guarda anche
 

@@ -3,7 +3,7 @@ title: TextMatchType
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Specifica il tipo di corrispondenza del testo nella stringa.
 type: docs
-weight: 950
+weight: 980
 url: /it/net/groupdocs.signature.domain/textmatchtype/
 ---
 ## TextMatchType enumeration
@@ -20,7 +20,7 @@ public enum TextMatchType
 | --- | --- | --- |
 | Exact | `0` | Il testo corrisponde completamente al valore. |
 | StartsWith | `1` | Il testo inizia con valore. |
-| EndsWith | `2` | Il testo termina con valore. |
+| EndsWith | `2` | Il testo termina con un valore. |
 | Contains | `3` | Il testo contiene il valore. |
 
 ### Guarda anche

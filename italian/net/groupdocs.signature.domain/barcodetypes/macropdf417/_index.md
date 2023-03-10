@@ -3,7 +3,7 @@ title: MacroPdf417
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: MacroPdf417 Oggetto tipo codice a barre.
 type: docs
-weight: 390
+weight: 420
 url: /it/net/groupdocs.signature.domain/barcodetypes/macropdf417/
 ---
 ## BarcodeTypes.MacroPdf417 field

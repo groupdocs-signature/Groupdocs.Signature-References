@@ -1,14 +1,14 @@
 ---
 title: PageColumns
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Ottiene o imposta il numero di colonne per le immagini esportate. Usa questa proprietà se hai bisogno di mettere le immagini in una riga.
+description: Ottiene o imposta il numero di colonne per le immagini esportate. Usa questa proprietà se hai bisogno di mettere le immagini in fila.
 type: docs
 weight: 40
 url: /it/net/groupdocs.signature.options/exportimagesaveoptions/pagecolumns/
 ---
 ## ExportImageSaveOptions.PageColumns property
 
-Ottiene o imposta il numero di colonne per le immagini esportate. Usa questa proprietà se hai bisogno di mettere le immagini in una riga.
+Ottiene o imposta il numero di colonne per le immagini esportate. Usa questa proprietà se hai bisogno di mettere le immagini in fila.
 
 ```csharp
 public int PageColumns { get; set; }

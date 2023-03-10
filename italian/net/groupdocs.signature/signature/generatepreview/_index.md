@@ -20,7 +20,7 @@ public void GeneratePreview(PreviewOptions previewOptions)
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni su come generare anteprime per le pagine dei documenti: [Come generare l'anteprima delle pagine del documento utilizzando GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Generate+document+pages+preview)
 

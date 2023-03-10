@@ -1,14 +1,14 @@
 ---
 title: XLTM
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Il modello di file Excel Office OpenXML .xltm rappresenta il formato file modello Excel. Ulteriori informazioni su questo formato di filequihttps//wiki.fileformat.com/spreadsheet/xltm .
+description: Il modello di file Excel Office OpenXML .xltm rappresenta il formato file modello Excel. Ulteriori informazioni su questo formato di fileQuihttps//wiki.fileformat.com/spreadsheet/xltm .
 type: docs
-weight: 560
+weight: 570
 url: /it/net/groupdocs.signature.domain/filetype/xltm/
 ---
 ## FileType.XLTM field
 
-Il modello di file Excel Office OpenXML (.xltm) rappresenta il formato file modello Excel. Ulteriori informazioni su questo formato di file[qui](https://wiki.fileformat.com/spreadsheet/xltm) .
+Il modello di file Excel Office OpenXML (.xltm) rappresenta il formato file modello Excel. Ulteriori informazioni su questo formato di file[Qui](https://wiki.fileformat.com/spreadsheet/xltm) .
 
 ```csharp
 public static readonly FileType XLTM;

@@ -3,7 +3,7 @@ title: MicroPdf417
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: MicroPdf417 Oggetto Tipo Barcode.
 type: docs
-weight: 430
+weight: 460
 url: /it/net/groupdocs.signature.domain/barcodetypes/micropdf417/
 ---
 ## BarcodeTypes.MicroPdf417 field

@@ -1,14 +1,14 @@
 ---
 title: IssuerName
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Per valori non vuoti specifica il nome distinto dellemittente del certificato da cercare.
+description: Per i valori non vuoti specifica il nome distinto dellemittente del certificato da cercare.
 type: docs
 weight: 30
 url: /it/net/groupdocs.signature.options/digitalsearchoptions/issuername/
 ---
 ## DigitalSearchOptions.IssuerName property
 
-Per valori non vuoti, specifica il nome distinto dell'emittente del certificato da cercare.
+Per i valori non vuoti specifica il nome distinto dell'emittente del certificato da cercare.
 
 ```csharp
 public string IssuerName { get; set; }

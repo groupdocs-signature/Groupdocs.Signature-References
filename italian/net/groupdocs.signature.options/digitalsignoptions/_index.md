@@ -3,7 +3,7 @@ title: DigitalSignOptions
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Rappresenta le opzioni della firma digitale.
 type: docs
-weight: 1260
+weight: 1340
 url: /it/net/groupdocs.signature.options/digitalsignoptions/
 ---
 ## DigitalSignOptions class
@@ -19,10 +19,10 @@ public class DigitalSignOptions : ImageSignOptions
 | Nome | Descrizione |
 | --- | --- |
 | [DigitalSignOptions](digitalsignoptions#constructor)() | Inizializza una nuova istanza della classe DigitalSignOptions con valori predefiniti. |
-| [DigitalSignOptions](digitalsignoptions#constructor_1)(Stream) | Inizializza una nuova istanza della classe DigitalSignOptions con flusso di certificati. |
+| [DigitalSignOptions](digitalsignoptions#constructor_1)(Stream) | Inizializza una nuova istanza della classe DigitalSignOptions con flusso di certificato. |
 | [DigitalSignOptions](digitalsignoptions#constructor_4)(string) | Inizializza una nuova istanza della classe DigitalSignOptions con file di certificato. |
 | [DigitalSignOptions](digitalsignoptions#constructor_2)(Stream, Stream) | Inizializza una nuova istanza della classe DigitalSignOptions con flusso di certificati e flusso di immagini. |
-| [DigitalSignOptions](digitalsignoptions#constructor_3)(Stream, string) | Inizializza una nuova istanza della classe DigitalSignOptions con flusso di certificati e file immagine. |
+| [DigitalSignOptions](digitalsignoptions#constructor_3)(Stream, string) | Inizializza una nuova istanza della classe DigitalSignOptions con flusso di certificato e file immagine. |
 | [DigitalSignOptions](digitalsignoptions#constructor_5)(string, Stream) | Inizializza una nuova istanza della classe DigitalSignOptions con file di certificato e flusso di immagini. |
 | [DigitalSignOptions](digitalsignoptions#constructor_6)(string, string) | Inizializza una nuova istanza della classe DigitalSignOptions con file di certificato e file immagine. |
 
@@ -38,7 +38,7 @@ public class DigitalSignOptions : ImageSignOptions
 | [Contact](../../groupdocs.signature.options/digitalsignoptions/contact) { get; set; } | Ottiene o imposta il contatto della firma. |
 | [DocumentType](../../groupdocs.signature.options/signoptions/documenttype) { get; set; } | Ottieni o imposta il Tipo di documento delle Opzioni firma[`DocumentType`](../../groupdocs.signature.domain/documenttype) |
 | [Extensions](../../groupdocs.signature.options/signoptions/extensions) { get; } | Estensioni firma. |
-| [Height](../../groupdocs.signature.options/imagesignoptions/height) { get; set; } | Altezza della firma sulla pagina del documento nei valori di misura (pixel, percentuali o millimetri vedere[`MeasureType`](../../groupdocs.signature.domain/measuretype) SizeMeasureType). |
+| [Height](../../groupdocs.signature.options/imagesignoptions/height) { get; set; } | Altezza della firma sulla pagina del documento nei valori di misura (pixel, percentuali o millimetri vedere[`MeasureType`](../../groupdocs.signature.domain/measuretype) DimensioneMisuraTipo). |
 | [HorizontalAlignment](../../groupdocs.signature.options/imagesignoptions/horizontalalignment) { get; set; } | Allineamento orizzontale della firma sulla pagina del documento. |
 | [ImageFilePath](../../groupdocs.signature.options/imagesignoptions/imagefilepath) { get; set; } | Ottiene o imposta il percorso del file dell'immagine della firma. Questa proprietà viene utilizzata solo se ImageStream non è specificato. |
 | [ImageStream](../../groupdocs.signature.options/imagesignoptions/imagestream) { get; set; } | Ottiene o imposta il flusso dell'immagine della firma. Se questa proprietà è specificata, viene sempre utilizzata al suo posto ImageFilePath. |
@@ -61,7 +61,7 @@ public class DigitalSignOptions : ImageSignOptions
 | [Transparency](../../groupdocs.signature.options/imagesignoptions/transparency) { get; set; } | Ottiene o imposta la trasparenza della firma (valore compreso tra 0,0 (opaco) e 1,0 (chiaro)). Il valore predefinito è 0 (opaco). |
 | [VerticalAlignment](../../groupdocs.signature.options/imagesignoptions/verticalalignment) { get; set; } | Allineamento verticale della firma sulla pagina del documento. |
 | [Visible](../../groupdocs.signature.options/digitalsignoptions/visible) { get; set; } | Ottiene o imposta la visibilità della firma. |
-| [Width](../../groupdocs.signature.options/imagesignoptions/width) { get; set; } | Larghezza della firma sulla pagina del documento in valori di misura (pixel, percentuali o millimetri[`MeasureType`](../../groupdocs.signature.domain/measuretype) SizeMeasureType). |
+| [Width](../../groupdocs.signature.options/imagesignoptions/width) { get; set; } | Larghezza della firma sulla pagina del documento in valori di misura (pixel, percentuali o millimetri[`MeasureType`](../../groupdocs.signature.domain/measuretype) DimensioneMisuraTipo). |
 | [XAdESType](../../groupdocs.signature.options/digitalsignoptions/xadestype) { get; set; } | Tipo XAdES[`XAdESType`](./xadestype) . Il valore predefinito è Nessuno (XAdES è disattivato). Al momento il tipo di firma XAdES è supportato solo per i documenti Spreadsheet. |
 | [ZOrder](../../groupdocs.signature.options/signoptions/zorder) { get; set; } | Ottiene o imposta la posizione dell'ordine Z della segnatura del testo. Determina l'ordine di visualizzazione delle segnature sovrapposte. |
 
@@ -73,7 +73,7 @@ public class DigitalSignOptions : ImageSignOptions
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Utilizzo di base della creazione di una firma elettronica digitale da parte di GroupDocs.Signature: [Come firmare un documento elettronico con la firma digitale](https://docs.groupdocs.com/display/signaturenet/eSign+document+with+Digital+signature)
 * Utilizzo avanzato delle impostazioni della firma elettronica digitale con GroupDocs.Signature: [Utilizzo avanzato del documento elettronico con firma digitale e impostazioni aggiuntive](https://docs.groupdocs.com/display/signaturenet/Sign+document+with+Digital+signature+-+advanced)

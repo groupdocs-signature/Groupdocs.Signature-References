@@ -16,7 +16,7 @@ public bool DoPaletteCorrection { get; set; }
 
 ### Osservazioni
 
-La correzione della tavolozza significa che ogni volta che l'immagine viene esportata in GIF, i colori dell'immagine sorgente verranno analizzati per creare la tavolozza più adatta (nel caso in cui la tavolozza dell'immagine non esista o non sia specificata nelle opzioni). Il processo di analisi richiede del tempo, tuttavia l'immagine di output avrà la tavolozza dei colori più adatta e il risultato sarà visivamente migliore.
+Correzione della tavolozza significa che ogni volta che l'immagine viene esportata in GIF, i colori dell'immagine sorgente verranno analizzati per creare la migliore tavolozza corrispondente (nel caso in cui la tavolozza dell'immagine non esista o non sia specificata nelle opzioni). Il processo di analisi richiede un po' di tempo, tuttavia l'immagine di output avrà la migliore tavolozza di colori corrispondente e il risultato sarà visivamente migliore.
 
 ### Guarda anche
 

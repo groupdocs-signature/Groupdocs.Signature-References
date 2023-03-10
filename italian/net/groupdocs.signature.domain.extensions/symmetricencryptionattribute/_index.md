@@ -1,14 +1,14 @@
 ---
 title: SymmetricEncryptionAttribute
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Indica alla serializzazione delle istanze di crittografare/decodificare la stringa di serializzazione delloggetto.
+description: Indica alla serializzazione delle istanze di crittografare/decrittografare la stringa di serializzazione delloggetto.
 type: docs
-weight: 370
+weight: 390
 url: /it/net/groupdocs.signature.domain.extensions/symmetricencryptionattribute/
 ---
 ## SymmetricEncryptionAttribute class
 
-Indica alla serializzazione delle istanze di crittografare/decodificare la stringa di serializzazione dell'oggetto.
+Indica alla serializzazione delle istanze di crittografare/decrittografare la stringa di serializzazione dell'oggetto.
 
 ```csharp
 [AttributeUsage(AttributeTargets.Class | AttributeTargets.Struct)]
@@ -19,7 +19,7 @@ public sealed class SymmetricEncryptionAttribute : Attribute, IDataEncryption
 
 | Nome | Descrizione |
 | --- | --- |
-| [SymmetricEncryptionAttribute](symmetricencryptionattribute#constructor)(SymmetricAlgorithmType, string) | Crea un algoritmo simmetrico con parametri e passphrase di default. |
+| [SymmetricEncryptionAttribute](symmetricencryptionattribute#constructor)(SymmetricAlgorithmType, string) | Crea un algoritmo simmetrico con parametri e passphrase predefinita. |
 | [SymmetricEncryptionAttribute](symmetricencryptionattribute#constructor_1)(SymmetricAlgorithmType, string, string) | Crea un algoritmo simmetrico con parametri. |
 
 ## Metodi

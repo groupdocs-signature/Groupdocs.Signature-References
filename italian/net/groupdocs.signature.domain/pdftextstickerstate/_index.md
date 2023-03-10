@@ -1,14 +1,14 @@
 ---
 title: PdfTextStickerState
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Descrive lenumerazione degli stati degli adesivi di annotazione del testo PDF.
+description: Descrive lenumerazione degli stati degli adesivi delle annotazioni di testo PDF.
 type: docs
-weight: 700
+weight: 730
 url: /it/net/groupdocs.signature.domain/pdftextstickerstate/
 ---
 ## PdfTextStickerState enumeration
 
-Descrive l'enumerazione degli stati degli adesivi di annotazione del testo PDF.
+Descrive l'enumerazione degli stati degli adesivi delle annotazioni di testo PDF.
 
 ```csharp
 public enum PdfTextStickerState

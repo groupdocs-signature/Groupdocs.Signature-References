@@ -17,7 +17,7 @@ public SymmetricEncryptionAttribute(SymmetricAlgorithmType algorithmType, string
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | algorithmType | SymmetricAlgorithmType | Specificare il tipo di algoritmo simmetrico |
-| key | String | Chiave di codifica |
+| key | String | Chiave crittografica |
 | salt | String | Passphrase per la crittografia |
 
 ### Guarda anche
@@ -31,7 +31,7 @@ public SymmetricEncryptionAttribute(SymmetricAlgorithmType algorithmType, string
 
 ## SymmetricEncryptionAttribute(SymmetricAlgorithmType, string) {#constructor}
 
-Crea un algoritmo simmetrico con parametri e passphrase di default.
+Crea un algoritmo simmetrico con parametri e passphrase predefinita.
 
 ```csharp
 public SymmetricEncryptionAttribute(SymmetricAlgorithmType algorithmType, string key)
@@ -39,7 +39,7 @@ public SymmetricEncryptionAttribute(SymmetricAlgorithmType algorithmType, string
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| key | SymmetricAlgorithmType | Chiave di codifica |
+| key | SymmetricAlgorithmType | Chiave crittografica |
 | algorithmType | String | Tipo di algoritmo di crittografia |
 
 ### Guarda anche

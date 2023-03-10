@@ -1,14 +1,14 @@
 ---
 title: Clone
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Clona istanza di firma FormField.
+description: Clona istanza Firma FormField.
 type: docs
 weight: 40
 url: /it/net/groupdocs.signature.domain/formfieldsignature/clone/
 ---
 ## FormFieldSignature.Clone method
 
-Clona istanza di firma FormField.
+Clona istanza Firma FormField.
 
 ```csharp
 public override object Clone()
@@ -16,7 +16,7 @@ public override object Clone()
 
 ### Valore di ritorno
 
-Restituisce l'istanza di firma FormField clonata.
+Restituisce l'istanza clonata di FormField Signature.
 
 ### Guarda anche
 

@@ -1,14 +1,14 @@
 ---
 title: HasTrailer
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Ottiene o imposta un valore che indica se GIF ha trailer.
+description: Ottiene o imposta un valore che indica se GIF ha un trailer.
 type: docs
 weight: 50
 url: /it/net/groupdocs.signature.options/gifsaveoptions/hastrailer/
 ---
 ## GifSaveOptions.HasTrailer property
 
-Ottiene o imposta un valore che indica se GIF ha trailer.
+Ottiene o imposta un valore che indica se GIF ha un trailer.
 
 ```csharp
 public bool HasTrailer { get; set; }

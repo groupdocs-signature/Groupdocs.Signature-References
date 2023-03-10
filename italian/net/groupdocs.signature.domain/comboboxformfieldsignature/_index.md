@@ -3,7 +3,7 @@ title: ComboboxFormFieldSignature
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Contiene le proprietà della firma del campo del modulo di input della casella combinata.
 type: docs
-weight: 90
+weight: 100
 url: /it/net/groupdocs.signature.domain/comboboxformfieldsignature/
 ---
 ## ComboboxFormFieldSignature class
@@ -19,8 +19,8 @@ public sealed class ComboboxFormFieldSignature : FormFieldSignature
 | Nome | Descrizione |
 | --- | --- |
 | [ComboboxFormFieldSignature](comboboxformfieldsignature#constructor)(string) | Crea ComboboxFormFieldSignature con nome predefinito. |
-| [ComboboxFormFieldSignature](comboboxformfieldsignature#constructor_1)(string, List&lt;string&gt;) | Crea ComboboxFormFieldSignature con nome predefinito e elenco di opzioni. |
-| [ComboboxFormFieldSignature](comboboxformfieldsignature#constructor_2)(string, List&lt;string&gt;, object) | Crea ComboboxFormFieldSignature con nome predefinito, elenco opzioni e valore selezionato. |
+| [ComboboxFormFieldSignature](comboboxformfieldsignature#constructor_1)(string, List&lt;string&gt;) | Crea ComboboxFormFieldSignature con un nome predefinito e un elenco di opzioni. |
+| [ComboboxFormFieldSignature](comboboxformfieldsignature#constructor_2)(string, List&lt;string&gt;, object) | Crea ComboboxFormFieldSignature con nome predefinito, elenco di opzioni e valore selezionato. |
 
 ## Proprietà
 
@@ -47,7 +47,7 @@ public sealed class ComboboxFormFieldSignature : FormFieldSignature
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Clone](../../groupdocs.signature.domain/comboboxformfieldsignature/clone)() | Clona istanza di firma FormField. |
+| override [Clone](../../groupdocs.signature.domain/comboboxformfieldsignature/clone)() | Clona istanza Firma FormField. |
 | override [Equals](../../groupdocs.signature.domain/comboboxformfieldsignature/equals)(object) | Sovrascrive il metodo Equals per confrontare le proprietà della firma |
 | override [GetHashCode](../../groupdocs.signature.domain/comboboxformfieldsignature/gethashcode)() | Sostituisce il metodo GetHashCode |
 

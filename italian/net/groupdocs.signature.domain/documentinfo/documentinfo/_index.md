@@ -1,14 +1,14 @@
 ---
 title: DocumentInfo
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Inizializza una nuova istanza diDocumentInfogroupdocs.signature.domain/documentinfo classe.
+description: Inizializza una nuova istanza diDocumentInfogroupdocs.signature.domain/documentinfoclasse.
 type: docs
 weight: 10
 url: /it/net/groupdocs.signature.domain/documentinfo/documentinfo/
 ---
 ## DocumentInfo constructor
 
-Inizializza una nuova istanza di[`DocumentInfo`](../../documentinfo) classe.
+Inizializza una nuova istanza di[`DocumentInfo`](../../documentinfo)classe.
 
 ```csharp
 public DocumentInfo()

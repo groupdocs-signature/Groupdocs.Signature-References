@@ -3,7 +3,7 @@ title: RadioButtonFormFieldSignature
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Contiene le proprietà della firma del campo del modulo di input del pulsante di opzione.
 type: docs
-weight: 790
+weight: 820
 url: /it/net/groupdocs.signature.domain/radiobuttonformfieldsignature/
 ---
 ## RadioButtonFormFieldSignature class
@@ -47,7 +47,7 @@ public sealed class RadioButtonFormFieldSignature : FormFieldSignature
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Clone](../../groupdocs.signature.domain/radiobuttonformfieldsignature/clone)() | Clona istanza di firma FormField. |
+| override [Clone](../../groupdocs.signature.domain/radiobuttonformfieldsignature/clone)() | Clona istanza Firma FormField. |
 | override [Equals](../../groupdocs.signature.domain/radiobuttonformfieldsignature/equals)(object) | Sovrascrive il metodo Equals per confrontare le proprietà della firma |
 | override [GetHashCode](../../groupdocs.signature.domain/radiobuttonformfieldsignature/gethashcode)() | Sostituisce il metodo GetHashCode |
 

@@ -1,14 +1,14 @@
 ---
 title: Code93Standard
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Code93 Oggetto tipo codice a barre standard.
+description: Code93Oggetto tipo codice a barre standard.
 type: docs
 weight: 130
 url: /it/net/groupdocs.signature.domain/barcodetypes/code93standard/
 ---
 ## BarcodeTypes.Code93Standard field
 
-Code93 Oggetto tipo codice a barre standard.
+Code93Oggetto tipo codice a barre standard.
 
 ```csharp
 public static readonly BarcodeType Code93Standard;

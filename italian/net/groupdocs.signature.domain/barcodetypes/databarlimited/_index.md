@@ -1,14 +1,14 @@
 ---
 title: DatabarLimited
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Oggetto Tipo di codice a barre DatabarLimited.
+description: Oggetto DatabarLimited Barcode Type.
 type: docs
 weight: 160
 url: /it/net/groupdocs.signature.domain/barcodetypes/databarlimited/
 ---
 ## BarcodeTypes.DatabarLimited field
 
-Oggetto Tipo di codice a barre DatabarLimited.
+Oggetto DatabarLimited Barcode Type.
 
 ```csharp
 public static readonly BarcodeType DatabarLimited;

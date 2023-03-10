@@ -1,14 +1,14 @@
 ---
 title: Width
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Larghezza della firma sulla pagina del documento in valori di misura pixel percentuali o millimetriMeasureTypegroupdocs.signature.domain/measuretype SizeMeasureType.
+description: Larghezza della firma sulla pagina del documento in valori di misura pixel percentuali o millimetriMeasureTypegroupdocs.signature.domain/measuretype DimensioneMisuraTipo.
 type: docs
 weight: 200
 url: /it/net/groupdocs.signature.options/imagesignoptions/width/
 ---
 ## ImageSignOptions.Width property
 
-Larghezza della firma sulla pagina del documento in valori di misura (pixel, percentuali o millimetri[`MeasureType`](../../../groupdocs.signature.domain/measuretype) SizeMeasureType).
+Larghezza della firma sulla pagina del documento in valori di misura (pixel, percentuali o millimetri[`MeasureType`](../../../groupdocs.signature.domain/measuretype) DimensioneMisuraTipo).
 
 ```csharp
 public int Width { get; set; }

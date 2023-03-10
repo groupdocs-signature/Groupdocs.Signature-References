@@ -3,7 +3,7 @@ title: SignatureSettings
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Definisce le impostazioni per la personalizzazioneSignature./signature comportamento.
 type: docs
-weight: 1810
+weight: 1890
 url: /it/net/groupdocs.signature/signaturesettings/
 ---
 ## SignatureSettings class
@@ -18,15 +18,19 @@ public class SignatureSettings
 
 | Nome | Descrizione |
 | --- | --- |
-| [SignatureSettings](signaturesettings)() | Default_Costruttore |
+| [SignatureSettings](signaturesettings#constructor)() | Crea un'istanza SignatureSettings predefinita con valori predefiniti. |
+| [SignatureSettings](signaturesettings#constructor_1)(ILogger) | Crea un'istanza SignatureSettings predefinita con l'implementazione Logger. |
 
 ## Proprietà
 
 | Nome | Descrizione |
 | --- | --- |
 | [DefaultCulture](../../groupdocs.signature/signaturesettings/defaultculture) { get; set; } | Ottiene o imposta le impostazioni cultura predefinite da utilizzare durante l'elaborazione del documento. Il valore predefinito è "en-US". |
-| [SaveDocumentOnEmptyDelete](../../groupdocs.signature/signaturesettings/savedocumentonemptydelete) { get; set; } | Ottiene o imposta il flag per salvare nuovamente il documento di origine quando il metodo Delete non ha firme interessate da rimuovere. Se questo flag è impostato su true (per impostazione predefinita), il documento verrà salvato con il registro del processo di cronologia corrispondente (data e tipo di operazione) anche se il metodo Delete non ha firme da rimuovere. Quando questo flat è impostato su false, il documento di origine non verrà modificato affatto. |
-| [SaveDocumentOnEmptyUpdate](../../groupdocs.signature/signaturesettings/savedocumentonemptyupdate) { get; set; } | Ottiene o imposta il flag per salvare nuovamente il documento di origine quando il metodo di aggiornamento non ha firme da aggiornare. Se questo flag è impostato su true (per impostazione predefinita), il documento verrà salvato con il registro del processo della cronologia corrispondente (data e tipo di operazione) anche se il metodo di aggiornamento ha nessuna firma da aggiornare. Quando questo flat è impostato su false, il documento di origine non verrà modificato affatto. |
+| [IncludeStandardMetadataSignatures](../../groupdocs.signature/signaturesettings/includestandardmetadatasignatures) { get; set; } | Ottiene o imposta il flag per includere nell'elenco dei metadati le firme dei metadati dei documenti standard incorporati come Autore, Proprietario, data di creazione del documento, data di modifica, ecc. Se questo flag è impostato su false (per impostazione predefinita), GetDocumentInfo non includerà questi metadati signatures. Quando questo flag è impostato su true, le informazioni sul documento includeranno queste firme di metadati standard. |
+| [Logger](../../groupdocs.signature/signaturesettings/logger) { get; } | L'implementazione del logger utilizzata per la registrazione (errori, avvisi, tracce).[`ILogger`](../../groupdocs.signature.logging/ilogger) . |
+| [LogLevel](../../groupdocs.signature/signaturesettings/loglevel) { get; set; } | Il livello di registrazione per limitare i messaggi (Tutti, Tracce, Avvisi, Errori).[`LogLevel`](./loglevel) . Per impostazione predefinita è impostato il tipo Tutti i livelli. |
+| [SaveDocumentOnEmptyDelete](../../groupdocs.signature/signaturesettings/savedocumentonemptydelete) { get; set; } | Ottiene o imposta il flag per salvare nuovamente il documento di origine quando il metodo Delete non ha firme interessate da rimuovere. Se questo flag è impostato su true (per impostazione predefinita), il documento verrà salvato con il registro del processo di cronologia corrispondente (data e tipo di operazione) anche se Il metodo di eliminazione non ha firme da rimuovere. Quando questo flat è impostato su false, il documento di origine non verrà modificato affatto. |
+| [SaveDocumentOnEmptyUpdate](../../groupdocs.signature/signaturesettings/savedocumentonemptyupdate) { get; set; } | Ottiene o imposta il flag per salvare nuovamente il documento di origine quando il metodo Update non ha firme da aggiornare. Se questo flag è impostato su true (per impostazione predefinita), il documento verrà salvato con il registro del processo di cronologia corrispondente (data e tipo di operazione) anche se Update il metodo non ha firme da aggiornare. Quando questo flat è impostato su false, il documento di origine non verrà modificato affatto. |
 | [ShowDeletedSignaturesInfo](../../groupdocs.signature/signaturesettings/showdeletedsignaturesinfo) { get; set; } | Ottiene o imposta il flag che include le firme eliminate nel risultato Info documento. Ogni firma[`BaseSignature`](../../groupdocs.signature.domain/basesignature) ha il flag Eliminato[`Deleted`](../../groupdocs.signature.domain/basesignature/deleted) per rilevare se è stato eliminato. |
 
 ### Guarda anche

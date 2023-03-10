@@ -3,7 +3,7 @@ title: DeleteResult
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Risultato della cancellazione della/e firma/e dal documento.
 type: docs
-weight: 120
+weight: 130
 url: /it/net/groupdocs.signature.domain/deleteresult/
 ---
 ## DeleteResult class
@@ -18,8 +18,12 @@ public class DeleteResult : IResult
 
 | Nome | Descrizione |
 | --- | --- |
+| [DestinDocumentSize](../../groupdocs.signature.domain/deleteresult/destindocumentsize) { get; } | Restituisce la dimensione del documento aggiornata. |
 | [Failed](../../groupdocs.signature.domain/deleteresult/failed) { get; } | Elenco delle firme che non sono state cancellate[`BaseSignature`](../basesignature) . |
+| [ProcessingTime](../../groupdocs.signature.domain/deleteresult/processingtime) { get; } | Restituisce il tempo di esecuzione del processo in millisecondi. |
+| [SourceDocumentSize](../../groupdocs.signature.domain/deleteresult/sourcedocumentsize) { get; } | Restituisce la dimensione del documento di origine. |
 | [Succeeded](../../groupdocs.signature.domain/deleteresult/succeeded) { get; } | Elenco delle firme eliminate correttamente[`BaseSignature`](../basesignature) . |
+| [TotalSignatures](../../groupdocs.signature.domain/deleteresult/totalsignatures) { get; } | Restituisce il totale delle firme elaborate. |
 
 ### Guarda anche
 

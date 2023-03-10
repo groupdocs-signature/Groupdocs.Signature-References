@@ -3,7 +3,7 @@ title: PdfTextStickerVerifyExtensions
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Descrive le estensioni della verifica delloggetto adesivo PDF.
 type: docs
-weight: 1450
+weight: 1530
 url: /it/net/groupdocs.signature.options/pdftextstickerverifyextensions/
 ---
 ## PdfTextStickerVerifyExtensions class

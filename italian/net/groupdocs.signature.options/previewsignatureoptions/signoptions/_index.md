@@ -1,14 +1,14 @@
 ---
 title: SignOptions
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Opzioni di firma per la generazione dellanteprima.
+description: Opzioni firma per generare anteprima.
 type: docs
 weight: 40
 url: /it/net/groupdocs.signature.options/previewsignatureoptions/signoptions/
 ---
 ## PreviewSignatureOptions.SignOptions property
 
-Opzioni di firma per la generazione dell'anteprima.
+Opzioni firma per generare anteprima.
 
 ```csharp
 public SignOptions SignOptions { get; set; }

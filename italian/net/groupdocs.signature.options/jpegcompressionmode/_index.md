@@ -3,7 +3,7 @@ title: JpegCompressionMode
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Specifica le modalità di compressione JPEG.
 type: docs
-weight: 1360
+weight: 1440
 url: /it/net/groupdocs.signature.options/jpegcompressionmode/
 ---
 ## JpegCompressionMode enumeration
@@ -20,7 +20,7 @@ public enum JpegCompressionMode
 | --- | --- | --- |
 | Baseline | `0` | La compressione di base. |
 | Progressive | `1` | La compressione progressiva. |
-| Lossless | `2` | La compressione senza perdite. Usa questo tipo di compressione con attenzione perché molti visualizzatori di immagini non lo supportano. Se lo usi prova ad assegnare [`ColorType`](../jpegsaveoptions/colortype) proprietà aGrayscale oRgb i valori. |
+| Lossless | `2` | La compressione senza perdite. Usa questo tipo di compressione con attenzione perché molti visualizzatori di immagini non lo supportano. Se lo usi prova ad assegnare [`ColorType`](../jpegsaveoptions/colortype) proprietà aGrayscale oRgb valori. |
 | JpegLs | `3` | La compressione JPEG-LS. Usa questo tipo di compressione con attenzione perché molti visualizzatori di immagini non lo supportano. Se lo usi prova ad assegnare [`ColorType`](../jpegsaveoptions/colortype) proprietà aGrayscale valore. |
 
 ### Guarda anche

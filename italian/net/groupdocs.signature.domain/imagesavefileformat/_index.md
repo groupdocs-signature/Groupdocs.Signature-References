@@ -3,7 +3,7 @@ title: ImageSaveFileFormat
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Definisce diversi formati di file di salvataggio.
 type: docs
-weight: 560
+weight: 580
 url: /it/net/groupdocs.signature.domain/imagesavefileformat/
 ---
 ## ImageSaveFileFormat enumeration
@@ -18,13 +18,13 @@ public enum ImageSaveFileFormat
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| Default | `0` | Il formato del file non verrà modificato. |
+| Default | `0` | Il formato file non verrà modificato. |
 | Bmp | `1` | Salva il documento nel formato Bmp. |
 | Gif | `2` | Salva il documento nel formato Gif. |
 | Jpg | `3` | Salva il documento in formato Jpg. |
-| Png | `4` | Salva il documento in formato Png. |
+| Png | `4` | Salva il documento nel formato Png. |
 | Psd | `5` | Salva il documento nel formato Psd. |
-| Svg | `6` | Salva il documento in formato Svg. |
+| Svg | `6` | Salva il documento nel formato Svg. |
 | Tiff | `7` | Salva il documento in formato Tiff. |
 | Webp | `8` | Salva il documento nel formato Webp. |
 | Pdf | `9` | Salva il documento nel formato Pdf. |

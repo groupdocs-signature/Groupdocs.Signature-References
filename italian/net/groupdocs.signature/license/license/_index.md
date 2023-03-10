@@ -1,14 +1,14 @@
 ---
 title: License
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Istanzia la licenza
+description: Crea unistanza della licenza
 type: docs
 weight: 10
 url: /it/net/groupdocs.signature/license/license/
 ---
 ## License constructor
 
-Istanzia la licenza
+Crea un'istanza della licenza
 
 ```csharp
 public License()

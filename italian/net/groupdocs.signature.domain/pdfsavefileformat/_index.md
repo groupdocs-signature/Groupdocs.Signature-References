@@ -3,7 +3,7 @@ title: PdfSaveFileFormat
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Definisce diversi formati di file di salvataggio.
 type: docs
-weight: 670
+weight: 700
 url: /it/net/groupdocs.signature.domain/pdfsavefileformat/
 ---
 ## PdfSaveFileFormat enumeration
@@ -18,7 +18,7 @@ public enum PdfSaveFileFormat
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| Default | `0` | Il formato del file non verrà modificato. |
+| Default | `0` | Il formato file non verrà modificato. |
 | Pdf | `1` | Salva il documento in formato Pdf (Adobe Portable Document). |
 | Doc | `2` | Salva il documento nel formato documento Microsoft Word 97-2007. |
 | Xps | `3` | Salva il documento nel formato XPS (XML Paper Specification). |

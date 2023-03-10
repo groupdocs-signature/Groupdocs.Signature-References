@@ -1,14 +1,14 @@
 ---
 title: DatabarExpanded
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Oggetto Tipo codice a barre DatabarExpandato.
+description: Oggetto DatabarExpanded Barcode Type.
 type: docs
 weight: 140
 url: /it/net/groupdocs.signature.domain/barcodetypes/databarexpanded/
 ---
 ## BarcodeTypes.DatabarExpanded field
 
-Oggetto Tipo codice a barre DatabarExpandato.
+Oggetto DatabarExpanded Barcode Type.
 
 ```csharp
 public static readonly BarcodeType DatabarExpanded;

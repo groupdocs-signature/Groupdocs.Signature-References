@@ -8,7 +8,7 @@ url: /it/net/groupdocs.signature.domain.extensions/wifi/encryption/
 ---
 ## WiFi.Encryption property
 
-Ottiene o imposta la crittografia Wi-Fi[`WiFiEncryptionType`](../../wifiencryptiontype) .
+Ottiene o imposta la crittografia WiFi[`WiFiEncryptionType`](../../wifiencryptiontype) .
 
 ```csharp
 public WiFiEncryptionType Encryption { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Signed
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Proprietà di sola lettura che mostra se la firma del campo modulo è stata firmata con certificato digitale.
+description: Proprietà di sola lettura che mostra se Firma campo modulo è stata firmata con certificato digitale.
 type: docs
 weight: 20
 url: /it/net/groupdocs.signature.domain/digitalformfieldsignature/signed/
 ---
 ## DigitalFormFieldSignature.Signed property
 
-Proprietà di sola lettura che mostra se la firma del campo modulo è stata firmata con certificato digitale.
+Proprietà di sola lettura che mostra se Firma campo modulo è stata firmata con certificato digitale.
 
 ```csharp
 public bool Signed { get; }

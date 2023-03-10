@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Il metodo sovrascritto funge da funzione hash per un tipo particolare.
+description: Il metodo sovrascritto funge da funzione hash per un particolare tipo.
 type: docs
 weight: 40
 url: /it/net/groupdocs.signature.domain/qrcodetype/gethashcode/
 ---
 ## QrCodeType.GetHashCode method
 
-Il metodo sovrascritto funge da funzione hash per un tipo particolare.
+Il metodo sovrascritto funge da funzione hash per un particolare tipo.
 
 ```csharp
 public override int GetHashCode()

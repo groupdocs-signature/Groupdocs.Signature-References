@@ -3,7 +3,7 @@ title: ToString
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Restituisce una stringa che rappresenta loggetto corrente.
 type: docs
-weight: 620
+weight: 630
 url: /it/net/groupdocs.signature.domain/filetype/tostring/
 ---
 ## FileType.ToString method

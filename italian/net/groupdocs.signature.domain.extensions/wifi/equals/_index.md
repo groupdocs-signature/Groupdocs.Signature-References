@@ -16,11 +16,11 @@ public override bool Equals(object obj)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| obj | Object | Oggetto WiFi con cui confrontare. |
+| obj | Object | Oggetto WiFi da confrontare. |
 
 ### Valore di ritorno
 
-Restituisce true se l'oggetto WiFi passato ha lo stesso tipo e tutte le sue proprietà sono uguali alle proprietà di questa istanza.
+Restituisce vero se l'oggetto WiFi passato ha lo stesso tipo e tutte le sue proprietà sono uguali alle proprietà di questa istanza.
 
 ### Guarda anche
 

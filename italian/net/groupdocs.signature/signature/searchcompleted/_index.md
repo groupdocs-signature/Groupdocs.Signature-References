@@ -1,14 +1,14 @@
 ---
 title: SearchCompleted
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Si verifica al completamento del processo di ricerca della firma.
+description: Si verifica quando il processo di ricerca della firma è completato.
 type: docs
 weight: 20
 url: /it/net/groupdocs.signature/signature/searchcompleted/
 ---
 ## Signature.SearchCompleted event
 
-Si verifica al completamento del processo di ricerca della firma.
+Si verifica quando il processo di ricerca della firma è completato.
 
 ```csharp
 public event ProcessCompleteEventHandler SearchCompleted;

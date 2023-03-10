@@ -1,14 +1,14 @@
 ---
 title: Update
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Gli aggiornamenti hanno superato la firmaBaseSignaturegroupdocs.signature.domain/basesignature nel documento.
+description: Firma passata agli aggiornamentiBaseSignaturegroupdocs.signature.domain/basesignature nel documento.
 type: docs
 weight: 170
 url: /it/net/groupdocs.signature/signature/update/
 ---
 ## Update(BaseSignature) {#update}
 
-Gli aggiornamenti hanno superato la firma[`BaseSignature`](../../../groupdocs.signature.domain/basesignature) nel documento.
+Firma passata agli aggiornamenti[`BaseSignature`](../../../groupdocs.signature.domain/basesignature) nel documento.
 
 ```csharp
 public bool Update(BaseSignature signature)
@@ -20,11 +20,11 @@ public bool Update(BaseSignature signature)
 
 ### Valore di ritorno
 
-Restituisce true se l'operazione è riuscita.
+Restituisce vero se l'operazione è andata a buon fine.
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni su come aggiornare le proprietà della firma elettronica esistenti utilizzando GroupDocs.Signature: [Come aggiornare le firme elettroniche dei documenti in C#](https://docs.groupdocs.com/display/signaturenet/Update+signatures+in+documents)
 * Casi d'uso più avanzati di aggiornamento delle firme elettroniche dei documenti in base al tipo di firma: [Casi d'uso avanzati dell'aggiornamento delle firme elettroniche con GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Updating)
@@ -56,7 +56,7 @@ Restituisce UpdateResult[`UpdateResult`](../../../groupdocs.signature.domain/upd
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni su come aggiornare le proprietà della firma elettronica esistenti utilizzando GroupDocs.Signature: [Come aggiornare le firme elettroniche dei documenti in C#](https://docs.groupdocs.com/display/signaturenet/Update+signatures+in+documents)
 * Casi d'uso più avanzati di aggiornamento delle firme elettroniche dei documenti in base al tipo di firma: [Casi d'uso avanzati dell'aggiornamento delle firme elettroniche con GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Updating)

@@ -3,7 +3,7 @@ title: ToString
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Converte in String con override ToString method
 type: docs
-weight: 140
+weight: 150
 url: /it/net/groupdocs.signature.domain/metadatasignature/tostring/
 ---
 ## ToString() {#tostring}
@@ -21,34 +21,6 @@ Restituisce il valore della firma dei metadati come stringa.
 ### Osservazioni
 
 Converte una proprietà booleana in "True" o "False". Per un altro tipo di dati verrà utilizzato il fornitore del formato dati predefinito.
-
-### Guarda anche
-
-* class [MetadataSignature](../../metadatasignature)
-* spazio dei nomi [GroupDocs.Signature.Domain](../../metadatasignature)
-* assemblea [GroupDocs.Signature](../../../)
-
----
-
-## ToString(string) {#tostring_1}
-
-Converte in stringa con il formato specificato
-
-```csharp
-public virtual string ToString(string format)
-```
-
-| Parametro | Tipo | Descrizione |
-| --- | --- | --- |
-| format | String | Stringa del formato dei dati. |
-
-### Valore di ritorno
-
-Restituisce il valore della firma dei metadati come stringa.
-
-### Osservazioni
-
-Converte una proprietà booleana in "True" o "False". Le informazioni sulla proprietà della cultura predefinita verranno utilizzate dalle proprietà SignatureSettings[`DefaultCulture`](../../../groupdocs.signature/signaturesettings/defaultculture)
 
 ### Guarda anche
 
@@ -78,6 +50,34 @@ Restituisce il valore della firma dei metadati come stringa.
 ### Osservazioni
 
 Converte una proprietà booleana in "True" o "False".
+
+### Guarda anche
+
+* class [MetadataSignature](../../metadatasignature)
+* spazio dei nomi [GroupDocs.Signature.Domain](../../metadatasignature)
+* assemblea [GroupDocs.Signature](../../../)
+
+---
+
+## ToString(string) {#tostring_1}
+
+Converte in stringa con il formato specificato
+
+```csharp
+public virtual string ToString(string format)
+```
+
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| format | String | Stringa del formato dei dati. |
+
+### Valore di ritorno
+
+Restituisce il valore della firma dei metadati come stringa.
+
+### Osservazioni
+
+Converte una proprietà booleana in "True" o "False". Le informazioni sulla proprietà della cultura predefinita verranno utilizzate dalle proprietà SignatureSettings[`DefaultCulture`](../../../groupdocs.signature/signaturesettings/defaultculture)
 
 ### Guarda anche
 

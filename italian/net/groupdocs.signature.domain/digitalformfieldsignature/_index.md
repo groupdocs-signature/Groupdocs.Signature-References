@@ -1,14 +1,14 @@
 ---
 title: DigitalFormFieldSignature
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Contiene le proprietà del campo del modulo di immissione della firma digitale per i documenti Pdf.
+description: Contiene le proprietà del campo del modulo di input della firma digitale per i documenti Pdf.
 type: docs
-weight: 130
+weight: 140
 url: /it/net/groupdocs.signature.domain/digitalformfieldsignature/
 ---
 ## DigitalFormFieldSignature class
 
-Contiene le proprietà del campo del modulo di immissione della firma digitale per i documenti Pdf.
+Contiene le proprietà del campo del modulo di input della firma digitale per i documenti Pdf.
 
 ```csharp
 public sealed class DigitalFormFieldSignature : FormFieldSignature
@@ -34,7 +34,7 @@ public sealed class DigitalFormFieldSignature : FormFieldSignature
 | [PageNumber](../../groupdocs.signature.domain/basesignature/pagenumber) { get; } | Specifica la firma della pagina in cui è stata trovata. |
 | [SignatureId](../../groupdocs.signature.domain/basesignature/signatureid) { get; } | Identificatore di firma univoco per modificare la firma nel documento tramite i metodi Update o Delete. Questa proprietà verrà impostata automaticamente dopo la chiamata al metodo Sign o Search. Se questa proprietà è stata salvata prima, può essere impostata manualmente per manipolare la firma. |
 | [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | Specifica il tipo di firma. |
-| [Signed](../../groupdocs.signature.domain/digitalformfieldsignature/signed) { get; } | Proprietà di sola lettura che mostra se la firma del campo modulo è stata firmata con certificato digitale. |
+| [Signed](../../groupdocs.signature.domain/digitalformfieldsignature/signed) { get; } | Proprietà di sola lettura che mostra se Firma campo modulo è stata firmata con certificato digitale. |
 | [Top](../../groupdocs.signature.domain/basesignature/top) { get; set; } | Specifica la posizione superiore della firma. |
 | [Type](../../groupdocs.signature.domain/formfieldsignature/type) { get; } | Specifica il tipo di campo Modulo. |
 | [Value](../../groupdocs.signature.domain/formfieldsignature/value) { get; set; } | Specifica l'oggetto dati del campo modulo. |
@@ -44,7 +44,7 @@ public sealed class DigitalFormFieldSignature : FormFieldSignature
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Clone](../../groupdocs.signature.domain/digitalformfieldsignature/clone)() | Clona istanza di firma FormField. |
+| override [Clone](../../groupdocs.signature.domain/digitalformfieldsignature/clone)() | Clona istanza Firma FormField. |
 | override [Equals](../../groupdocs.signature.domain/digitalformfieldsignature/equals)(object) | Sovrascrive il metodo Equals per confrontare le proprietà della firma |
 | override [GetHashCode](../../groupdocs.signature.domain/digitalformfieldsignature/gethashcode)() | Sostituisce il metodo GetHashCode |
 

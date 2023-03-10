@@ -28,7 +28,7 @@ Restituisce l'istanza della firma dei metadati clonata
 
 ## Clone(object) {#clone}
 
-Clona l'istanza della firma dei metadati del foglio di calcolo con un valore specificato.
+Clona l'istanza della firma dei metadati del foglio di calcolo con un determinato valore.
 
 ```csharp
 public override MetadataSignature Clone(object value)

@@ -3,7 +3,7 @@ title: ProcessStartEventArgs
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Fornisce i dati per levento di avvio del processo di firma verifica e ricerca
 type: docs
-weight: 1780
+weight: 1860
 url: /it/net/groupdocs.signature/processstarteventargs/
 ---
 ## ProcessStartEventArgs class

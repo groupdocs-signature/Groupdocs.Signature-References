@@ -3,7 +3,7 @@ title: IDataEncryption
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Interfaccia di crittografia per fornire metodi di codifica e decodifica degli oggetti.
 type: docs
-weight: 250
+weight: 270
 url: /it/net/groupdocs.signature.domain.extensions/idataencryption/
 ---
 ## IDataEncryption interface
@@ -18,8 +18,8 @@ public interface IDataEncryption
 
 | Nome | Descrizione |
 | --- | --- |
-| [Decode](../../groupdocs.signature.domain.extensions/idataencryption/decode)(string) | Decodifica il metodo per ottenere la stringa decifrata. |
-| [Encode](../../groupdocs.signature.domain.extensions/idataencryption/encode)(string) | Codifica il metodo per crittografare la stringa. |
+| [Decode](../../groupdocs.signature.domain.extensions/idataencryption/decode)(string) | Metodo di decodifica per ottenere la stringa decrittografata. |
+| [Encode](../../groupdocs.signature.domain.extensions/idataencryption/encode)(string) | Metodo di codifica per crittografare la stringa. |
 
 ### Guarda anche
 

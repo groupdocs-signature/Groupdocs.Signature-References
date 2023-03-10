@@ -3,7 +3,7 @@ title: QrCodeTypes
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: contenitore Tipi QRCode.
 type: docs
-weight: 780
+weight: 810
 url: /it/net/groupdocs.signature.domain/qrcodetypes/
 ---
 ## QrCodeTypes class
@@ -25,7 +25,7 @@ public static class QrCodeTypes
 | Nome | Descrizione |
 | --- | --- |
 | static [Parse](../../groupdocs.signature.domain/qrcodetypes/parse)(string) | Restituisce il tipo QRCode con il nome pasringType. Se il nome del QRCode è sconosciuto, l'eccezione sarà throw |
-| static [TryParse](../../groupdocs.signature.domain/qrcodetypes/tryparse)(string) | Restituisce il tipo QRCode con il nome pasringType. Se il nome di QRCode è sconosciuto, non verrà generata alcuna eccezione ma il metodo restituirà un valore nullo. |
+| static [TryParse](../../groupdocs.signature.domain/qrcodetypes/tryparse)(string) | Restituisce il tipo QRCode con il nome pasringType. Se il nome del QRCode è sconosciuto, non verrà lanciata alcuna eccezione ma il metodo restituirà un valore nullo. |
 
 ## Campi
 
@@ -34,7 +34,10 @@ public static class QrCodeTypes
 | static readonly [Aztec](../../groupdocs.signature.domain/qrcodetypes/aztec) | Oggetto del tipo di codice QR azteco. |
 | static readonly [DataMatrix](../../groupdocs.signature.domain/qrcodetypes/datamatrix) | DataMatrix QR-Code Tipo oggetto. |
 | static readonly [GS1DataMatrix](../../groupdocs.signature.domain/qrcodetypes/gs1datamatrix) | GS1 DataMatrix QR-Code Tipo oggetto. |
-| static readonly [GS1QR](../../groupdocs.signature.domain/qrcodetypes/gs1qr) | GS1 QR-Code Tipo oggetto. |
+| static readonly [GS1QR](../../groupdocs.signature.domain/qrcodetypes/gs1qr) | Oggetto tipo QR-Code GS1. |
+| static readonly [HIBCLICAztec](../../groupdocs.signature.domain/qrcodetypes/hibclicaztec) | HIBC LIC Aztec QR-Code Tipo oggetto. |
+| static readonly [HIBCLICDataMatrix](../../groupdocs.signature.domain/qrcodetypes/hibclicdatamatrix) | HIBC LIC Data Matrix QR-Code Tipo oggetto. |
+| static readonly [HIBCLICQR](../../groupdocs.signature.domain/qrcodetypes/hibclicqr) | HIBC LIC QR-Code Tipo oggetto. |
 | static readonly [QR](../../groupdocs.signature.domain/qrcodetypes/qr) | QR QR-Code Tipo oggetto. |
 
 ### Guarda anche

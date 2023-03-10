@@ -1,14 +1,14 @@
 ---
 title: Checked
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Ottiene o imposta il valore controllato dellinput della casella di controllo del campo modulo.
+description: Ottiene o imposta il valore verificato dellinput della casella di controllo del campo del modulo.
 type: docs
 weight: 20
 url: /it/net/groupdocs.signature.domain/checkboxformfieldsignature/checked/
 ---
 ## CheckboxFormFieldSignature.Checked property
 
-Ottiene o imposta il valore controllato dell'input della casella di controllo del campo modulo.
+Ottiene o imposta il valore verificato dell'input della casella di controllo del campo del modulo.
 
 ```csharp
 public bool Checked { get; set; }

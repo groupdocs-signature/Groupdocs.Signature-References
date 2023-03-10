@@ -1,14 +1,14 @@
 ---
 title: FileType
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Tipo di formato file.
+description: Tipo formato file.
 type: docs
 weight: 40
 url: /it/net/groupdocs.signature.domain/documentinfo/filetype/
 ---
 ## DocumentInfo.FileType property
 
-Tipo di formato file.
+Tipo formato file.
 
 ```csharp
 public FileType FileType { get; set; }

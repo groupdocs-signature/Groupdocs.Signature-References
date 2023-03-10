@@ -1,14 +1,14 @@
 ---
 title: Code93Extended
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Code93 Oggetto tipo codice a barre esteso.
+description: Code93 Oggetto tipo di codice a barre esteso.
 type: docs
 weight: 120
 url: /it/net/groupdocs.signature.domain/barcodetypes/code93extended/
 ---
 ## BarcodeTypes.Code93Extended field
 
-Code93 Oggetto tipo codice a barre esteso.
+Code93 Oggetto tipo di codice a barre esteso.
 
 ```csharp
 public static readonly BarcodeType Code93Extended;

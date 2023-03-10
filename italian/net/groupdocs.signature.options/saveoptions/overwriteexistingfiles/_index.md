@@ -1,14 +1,14 @@
 ---
 title: OverwriteExistingFiles
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Ottiene o imposta se sovrascrivere il file esistente con il nuovo file di output. Altrimenti verrà creato un nuovo file con il numero come suffisso. Per impostazione predefinita questo valore impostato su true significa che il file verrà sovrascritto.
+description: Ottiene o imposta se sovrascrivere il file esistente con il nuovo file di output. Altrimenti verrà creato un nuovo file con numero come suffisso. Per impostazione predefinita questo valore è impostato su true il che significa che il file verrà sovrascritto.
 type: docs
 weight: 30
 url: /it/net/groupdocs.signature.options/saveoptions/overwriteexistingfiles/
 ---
 ## SaveOptions.OverwriteExistingFiles property
 
-Ottiene o imposta se sovrascrivere il file esistente con il nuovo file di output. Altrimenti verrà creato un nuovo file con il numero come suffisso. Per impostazione predefinita, questo valore impostato su true significa che il file verrà sovrascritto.
+Ottiene o imposta se sovrascrivere il file esistente con il nuovo file di output. Altrimenti verrà creato un nuovo file con numero come suffisso. Per impostazione predefinita, questo valore è impostato su true, il che significa che il file verrà sovrascritto.
 
 ```csharp
 public bool OverwriteExistingFiles { get; set; }

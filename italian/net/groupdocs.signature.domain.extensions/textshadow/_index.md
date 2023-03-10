@@ -1,14 +1,14 @@
 ---
 title: TextShadow
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Rappresenta le proprietà dellombreggiatura del testo per le firme di testo. Il risultato può variare a seconda del tipo di firma e del formato del documento. TextShadow è consigliato per lutilizzo con la firma TextAsImage per tutti i tipi di documenti supportati anche con TextSignature e TextSignature semplici come filigrana per fogli di calcolo  .xslx e Presentazioni .pptx. Anche Simple TextSignature for Words .docx è consigliato ma ha funzionalità limitate.
+description: Rappresenta le proprietà di ombreggiatura del testo per le firme di testo. Il risultato può variare a seconda del tipo di firma e del formato del documento. TextShadow è consigliato per lutilizzo con la firma TextAsImage per tutti i tipi di documenti supportati anche con TextSignature semplice e TextSignature come filigrana per fogli di calcolo  .xslx e Presentazioni .pptx. Si consiglia anche Simple TextSignature for Words .docx ma ha funzionalità limitate.
 type: docs
-weight: 380
+weight: 400
 url: /it/net/groupdocs.signature.domain.extensions/textshadow/
 ---
 ## TextShadow class
 
-Rappresenta le proprietà dell'ombreggiatura del testo per le firme di testo. Il risultato può variare a seconda del tipo di firma e del formato del documento. TextShadow è consigliato per l'utilizzo con la firma TextAsImage per tutti i tipi di documenti supportati, anche con TextSignature e TextSignature semplici come filigrana per fogli di calcolo ( .xslx) e Presentazioni (.pptx). Anche Simple TextSignature for Words (.docx) è consigliato, ma ha funzionalità limitate.
+Rappresenta le proprietà di ombreggiatura del testo per le firme di testo. Il risultato può variare a seconda del tipo di firma e del formato del documento. TextShadow è consigliato per l'utilizzo con la firma TextAsImage per tutti i tipi di documenti supportati, anche con TextSignature semplice e TextSignature come filigrana per fogli di calcolo ( .xslx) e Presentazioni (.pptx). Si consiglia anche Simple TextSignature for Words (.docx), ma ha funzionalità limitate.
 
 ```csharp
 public class TextShadow : SignatureExtension
@@ -26,8 +26,8 @@ public class TextShadow : SignatureExtension
 | --- | --- |
 | [Angle](../../groupdocs.signature.domain.extensions/textshadow/angle) { get; set; } | Ottiene o imposta l'angolo per posizionare l'ombra rispetto al testo. Il valore predefinito è 0. |
 | [Blur](../../groupdocs.signature.domain.extensions/textshadow/blur) { get; set; } | Ottiene o imposta la sfocatura dell'ombra. Il valore predefinito è 4. |
-| [Color](../../groupdocs.signature.domain.extensions/textshadow/color) { get; set; } | Ottiene o imposta il colore dell'ombra. Il valore predefinito è Nero. |
-| [Distance](../../groupdocs.signature.domain.extensions/textshadow/distance) { get; set; } | Ottiene o imposta la distanza dal testo all'ombreggiatura. Il valore predefinito è 1. |
+| [Color](../../groupdocs.signature.domain.extensions/textshadow/color) { get; set; } | Ottiene o imposta il colore dell'ombra. Il valore predefinito è Black. |
+| [Distance](../../groupdocs.signature.domain.extensions/textshadow/distance) { get; set; } | Ottiene o imposta la distanza dal testo all'ombra. Il valore predefinito è 1. |
 | [Transparency](../../groupdocs.signature.domain.extensions/textshadow/transparency) { get; set; } | Ottiene o imposta la trasparenza dell'ombra. Il valore predefinito è 0. |
 
 ## Metodi

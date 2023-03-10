@@ -62,7 +62,7 @@ public static List<DigitalSignature> LoadDigitalSignatures(StoreName storeName,
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | storeName | StoreName | Archivio certificati per caricare i certificati digitali. |
-| storeLocation | StoreLocation | Posizione del certificato per caricare i certificati digitali. |
+| storeLocation | StoreLocation | Percorso certificato per caricare i certificati digitali. |
 
 ### Valore di ritorno
 

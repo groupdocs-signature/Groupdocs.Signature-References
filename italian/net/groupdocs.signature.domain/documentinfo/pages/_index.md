@@ -3,7 +3,7 @@ title: Pages
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Raccolta delle descrizioni delle pagine del documento.
 type: docs
-weight: 100
+weight: 110
 url: /it/net/groupdocs.signature.domain/documentinfo/pages/
 ---
 ## DocumentInfo.Pages property

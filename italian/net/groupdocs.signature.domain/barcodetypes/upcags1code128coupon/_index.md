@@ -3,7 +3,7 @@ title: UpcaGs1Code128Coupon
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: UpcaGs1Code128Coupon Oggetto tipo codice a barre.
 type: docs
-weight: 600
+weight: 630
 url: /it/net/groupdocs.signature.domain/barcodetypes/upcags1code128coupon/
 ---
 ## BarcodeTypes.UpcaGs1Code128Coupon field

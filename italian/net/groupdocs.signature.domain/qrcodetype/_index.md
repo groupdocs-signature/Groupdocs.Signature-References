@@ -3,7 +3,7 @@ title: QrCodeType
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Specifica le proprietà del tipo di QRCode.
 type: docs
-weight: 770
+weight: 800
 url: /it/net/groupdocs.signature.domain/qrcodetype/
 ---
 ## QrCodeType class
@@ -25,9 +25,9 @@ public sealed class QrCodeType : IEquatable<QrCodeType>
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Equals](../../groupdocs.signature.domain/qrcodetype/equals#equals_1)(object) | Il metodo sovrascritto determina se il System.Object specificato è uguale al System.Object. corrente |
+| override [Equals](../../groupdocs.signature.domain/qrcodetype/equals#equals_1)(object) | Il metodo sottoposto a override determina se il System.Object specificato è uguale al System.Object. corrente |
 | [Equals](../../groupdocs.signature.domain/qrcodetype/equals#equals)(QrCodeType) | Determina se il QRCode specificato è uguale all'oggetto corrente. |
-| override [GetHashCode](../../groupdocs.signature.domain/qrcodetype/gethashcode)() | Il metodo sovrascritto funge da funzione hash per un tipo particolare. |
+| override [GetHashCode](../../groupdocs.signature.domain/qrcodetype/gethashcode)() | Il metodo sovrascritto funge da funzione hash per un particolare tipo. |
 
 ### Guarda anche
 

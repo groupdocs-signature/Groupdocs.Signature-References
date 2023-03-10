@@ -28,7 +28,7 @@ public ComboboxFormFieldSignature(string name)
 
 ## ComboboxFormFieldSignature(string, List&lt;string&gt;) {#constructor_1}
 
-Crea ComboboxFormFieldSignature con nome predefinito e elenco di opzioni.
+Crea ComboboxFormFieldSignature con un nome predefinito e un elenco di opzioni.
 
 ```csharp
 public ComboboxFormFieldSignature(string name, List<string> items)
@@ -37,7 +37,7 @@ public ComboboxFormFieldSignature(string name, List<string> items)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | name | String | Nome dell'oggetto campo modulo. |
-| items | List`1 | Valori dell'elenco delle caselle combinate. |
+| items | List`1 | Valori dell'elenco della casella combinata. |
 
 ### Guarda anche
 
@@ -49,7 +49,7 @@ public ComboboxFormFieldSignature(string name, List<string> items)
 
 ## ComboboxFormFieldSignature(string, List&lt;string&gt;, object) {#constructor_2}
 
-Crea ComboboxFormFieldSignature con nome predefinito, elenco opzioni e valore selezionato.
+Crea ComboboxFormFieldSignature con nome predefinito, elenco di opzioni e valore selezionato.
 
 ```csharp
 public ComboboxFormFieldSignature(string name, List<string> items, object selected)
@@ -58,7 +58,7 @@ public ComboboxFormFieldSignature(string name, List<string> items, object select
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | name | String | Nome dell'oggetto campo modulo. |
-| items | List`1 | Valori dell'elenco delle caselle combinate. |
+| items | List`1 | Valori dell'elenco della casella combinata. |
 | selected | Object | Valore selezionato. |
 
 ### Guarda anche

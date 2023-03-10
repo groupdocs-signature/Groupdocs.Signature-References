@@ -3,7 +3,7 @@ title: IDocumentInfo
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Definisce le proprietà della descrizione del documento.
 type: docs
-weight: 490
+weight: 510
 url: /it/net/groupdocs.signature.domain/idocumentinfo/
 ---
 ## IDocumentInfo interface
@@ -22,15 +22,16 @@ public interface IDocumentInfo
 | [DigitalSignatures](../../groupdocs.signature.domain/idocumentinfo/digitalsignatures) { get; } | Raccolta delle firme digitali dei documenti aggiunte o aggiornate da[`Signature`](../../groupdocs.signature/signature) metodi. |
 | [FileType](../../groupdocs.signature.domain/idocumentinfo/filetype) { get; set; } | Tipo formato file |
 | [FormFields](../../groupdocs.signature.domain/idocumentinfo/formfields) { get; } | Raccolta di tutti i campi modulo supportati esistenti nel documento. Questa proprietà è supportata solo per i tipi di documento Pdf ed Elaborazione testi. |
-| [FormFieldSignatures](../../groupdocs.signature.domain/idocumentinfo/formfieldsignatures) { get; } | Raccolta documenti Form Field firme aggiunte o aggiornate da[`Signature`](../../groupdocs.signature/signature) metodi. |
+| [FormFieldSignatures](../../groupdocs.signature.domain/idocumentinfo/formfieldsignatures) { get; } | Raccolta del documento Modulo Firme di campo aggiunte o aggiornate da[`Signature`](../../groupdocs.signature/signature) metodi. |
 | [ImageSignatures](../../groupdocs.signature.domain/idocumentinfo/imagesignatures) { get; } | Raccolta di firme di immagini di documenti aggiunte o aggiornate da[`Signature`](../../groupdocs.signature/signature) metodi. |
 | [MaxPageHeight](../../groupdocs.signature.domain/idocumentinfo/maxpageheight) { get; set; } | Specifica l'altezza massima della pagina. |
+| [MetadataSignatures](../../groupdocs.signature.domain/idocumentinfo/metadatasignatures) { get; } | Raccolta delle firme dei metadati del documento. |
 | [PageCount](../../groupdocs.signature.domain/idocumentinfo/pagecount) { get; set; } | Conteggio delle pagine del documento. |
 | [Pages](../../groupdocs.signature.domain/idocumentinfo/pages) { get; set; } | Raccolta delle descrizioni delle pagine del documento. |
 | [ProcessLogs](../../groupdocs.signature.domain/idocumentinfo/processlogs) { get; } | Raccolta dei log del processo di cronologia dei documenti. |
 | [QrCodeSignatures](../../groupdocs.signature.domain/idocumentinfo/qrcodesignatures) { get; } | Raccolta delle firme del codice QR del documento aggiunte o aggiornate da[`Signature`](../../groupdocs.signature/signature) metodi. |
 | [Signatures](../../groupdocs.signature.domain/idocumentinfo/signatures) { get; } | Raccolta di documenti di tutti i tipi di firme[`BaseSignature`](../basesignature) . |
-| [Size](../../groupdocs.signature.domain/idocumentinfo/size) { get; set; } | Dimensioni del documento in byte. |
+| [Size](../../groupdocs.signature.domain/idocumentinfo/size) { get; set; } | Dimensione del documento in byte. |
 | [TextSignatures](../../groupdocs.signature.domain/idocumentinfo/textsignatures) { get; } | Raccolta di firme di testo del documento aggiunte o aggiornate da[`Signature`](../../groupdocs.signature/signature) metodi. |
 | [WidthForMaxHeight](../../groupdocs.signature.domain/idocumentinfo/widthformaxheight) { get; set; } | Specifica la larghezza per l'altezza massima della pagina. |
 

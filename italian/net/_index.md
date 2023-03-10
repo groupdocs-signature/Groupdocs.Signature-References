@@ -11,8 +11,9 @@ is_root: true
 | Spazio dei nomi | Descrizione |
 | --- | --- |
 | [GroupDocs.Signature](./groupdocs.signature) | Lo spazio dei nomi fornisce classi per la firma di documenti di diversi formati con timbri, codici a barre, codici QR, testo, immagine, metadati, campo modulo e firme digitali. |
-| [GroupDocs.Signature.Domain](./groupdocs.signature.domain) | Lo spazio dei nomi fornisce classi per lavorare con la rappresentazione dei documenti. |
+| [GroupDocs.Signature.Domain](./groupdocs.signature.domain) | Lo spazio dei nomi fornisce classi per lavorare con la rappresentazione del documento. |
 | [GroupDocs.Signature.Domain.Extensions](./groupdocs.signature.domain.extensions) | Lo spazio dei nomi fornisce estensioni per l'aspetto della firma e funzionalità aggiuntive. |
+| [GroupDocs.Signature.Logging](./groupdocs.signature.logging) | Lo spazio dei nomi fornisce classi per scopi di registrazione. |
 | [GroupDocs.Signature.Options](./groupdocs.signature.options) | Lo spazio dei nomi fornisce classi per specificare opzioni aggiuntive durante il caricamento, la firma, la verifica, la ricerca e il salvataggio di documenti. |
 | [GroupDocs.Signature.Options.Appearances](./groupdocs.signature.options.appearances) | Lo spazio dei nomi fornisce classi per ulteriori aspetti della firma. |
 

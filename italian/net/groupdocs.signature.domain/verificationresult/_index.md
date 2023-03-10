@@ -3,7 +3,7 @@ title: VerificationResult
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Istanza per conservare i risultati del processo di verifica.
 type: docs
-weight: 1020
+weight: 1050
 url: /it/net/groupdocs.signature.domain/verificationresult/
 ---
 ## VerificationResult class
@@ -11,23 +11,23 @@ url: /it/net/groupdocs.signature.domain/verificationresult/
 Istanza per conservare i risultati del processo di verifica.
 
 ```csharp
-public class VerificationResult
+public class VerificationResult : IResult
 ```
-
-## Costruttori
-
-| Nome | Descrizione |
-| --- | --- |
-| [VerificationResult](verificationresult)() | Default_Costruttore |
 
 ## Proprietà
 
 | Nome | Descrizione |
 | --- | --- |
+| [DestinDocumentSize](../../groupdocs.signature.domain/verificationresult/destindocumentsize) { get; } | Restituisce la dimensione del documento di destinazione. Per verifica questa variabile contiene sempre zero. |
 | [IsValid](../../groupdocs.signature.domain/verificationresult/isvalid) { get; } | Restituisce vero se il processo di verifica è andato a buon fine altrimenti falso. |
+| [ProcessingTime](../../groupdocs.signature.domain/verificationresult/processingtime) { get; } | Restituisce il tempo di esecuzione del processo in millisecondi. |
+| [SourceDocumentSize](../../groupdocs.signature.domain/verificationresult/sourcedocumentsize) { get; } | Restituisce la dimensione del documento di origine in byte |
+| [Succeeded](../../groupdocs.signature.domain/verificationresult/succeeded) { get; } | Elenco delle firme verificate con successo[`BaseSignature`](../basesignature) . |
+| [TotalSignatures](../../groupdocs.signature.domain/verificationresult/totalsignatures) { get; } | Restituisce il totale delle firme elaborate |
 
 ### Guarda anche
 
+* interface [IResult](../iresult)
 * spazio dei nomi [GroupDocs.Signature.Domain](../../groupdocs.signature.domain)
 * assemblea [GroupDocs.Signature](../../)
 

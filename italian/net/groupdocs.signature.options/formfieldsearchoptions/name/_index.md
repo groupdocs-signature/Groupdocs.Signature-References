@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Specifica il modello di espressione regolare del nome della firma del campo modulo se deve essere ricercato. Puoi usarlo semplicemente come testo o come espressione regolare come abcd. Il valore predefinito è una stringa vuota.
+description: Specifica il modello di espressione regolare del nome della firma del campo del modulo se deve essere cercato. Puoi usarlo semplice come testo o espressione regolare come abcd. Il valore predefinito è una stringa vuota.
 type: docs
 weight: 20
 url: /it/net/groupdocs.signature.options/formfieldsearchoptions/name/
 ---
 ## FormFieldSearchOptions.Name property
 
-Specifica il modello di espressione regolare del nome della firma del campo modulo se deve essere ricercato. Puoi usarlo semplicemente come "testo" o come espressione regolare come "abc\d+". Il valore predefinito è una stringa vuota.
+Specifica il modello di espressione regolare del nome della firma del campo del modulo se deve essere cercato. Puoi usarlo semplice come "testo" o espressione regolare come "abc\d+". Il valore predefinito è una stringa vuota.
 
 ```csharp
 public string Name { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: SignatureFont
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Crea unistanza della classe SignatureFont per specificare le proprietà dei caratteri.
+description: Crea unistanza della classe SignatureFont per specificare le proprietà del carattere.
 type: docs
-weight: 820
+weight: 850
 url: /it/net/groupdocs.signature.domain/signaturefont/
 ---
 ## SignatureFont class
 
-Crea un'istanza della classe SignatureFont per specificare le proprietà dei caratteri.
+Crea un'istanza della classe SignatureFont per specificare le proprietà del carattere.
 
 ```csharp
 public class SignatureFont
@@ -24,7 +24,7 @@ public class SignatureFont
 
 | Nome | Descrizione |
 | --- | --- |
-| [Bold](../../groupdocs.signature.domain/signaturefont/bold) { get; set; } | Ottiene o imposta lo stile del carattere in grassetto |
+| [Bold](../../groupdocs.signature.domain/signaturefont/bold) { get; set; } | Ottiene o imposta lo stile grassetto del carattere |
 | [FamilyName](../../groupdocs.signature.domain/signaturefont/familyname) { get; set; } | Ottiene o imposta il nome della famiglia di caratteri |
 | [Italic](../../groupdocs.signature.domain/signaturefont/italic) { get; set; } | Ottiene o imposta lo stile corsivo del carattere |
 | [Size](../../groupdocs.signature.domain/signaturefont/size) { get; set; } | Ottiene o imposta la dimensione del carattere |

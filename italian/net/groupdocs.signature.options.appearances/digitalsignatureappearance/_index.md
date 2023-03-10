@@ -3,7 +3,7 @@ title: DigitalSignatureAppearance
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Descrive laspetto della riga della firma per la firma digitale. È possibile applicare una riga della firma per una sola firma digitale. La riga della firma è sempre sulla prima pagina. Questa funzione può essere utile per i formati di file .docx .doc .odt e .xlsx.
 type: docs
-weight: 1120
+weight: 1190
 url: /it/net/groupdocs.signature.options.appearances/digitalsignatureappearance/
 ---
 ## DigitalSignatureAppearance class

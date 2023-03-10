@@ -1,14 +1,14 @@
 ---
 title: TextSignature
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Contiene le proprietà della firma del testo.
+description: Contiene le proprietà della firma di testo.
 type: docs
-weight: 970
+weight: 1000
 url: /it/net/groupdocs.signature.domain/textsignature/
 ---
 ## TextSignature class
 
-Contiene le proprietà della firma del testo.
+Contiene le proprietà della firma di testo.
 
 ```csharp
 public class TextSignature : BaseSignature
@@ -33,7 +33,7 @@ public class TextSignature : BaseSignature
 | [Native](../../groupdocs.signature.domain/textsignature/native) { get; set; } | Specifica l'attributo nativo. È vero se la firma è specifica del documento. |
 | [PageNumber](../../groupdocs.signature.domain/basesignature/pagenumber) { get; } | Specifica la firma della pagina in cui è stata trovata. |
 | [SignatureId](../../groupdocs.signature.domain/basesignature/signatureid) { get; } | Identificatore di firma univoco per modificare la firma nel documento tramite i metodi Update o Delete. Questa proprietà verrà impostata automaticamente dopo la chiamata al metodo Sign o Search. Se questa proprietà è stata salvata prima, può essere impostata manualmente per manipolare la firma. |
-| [SignatureImplementation](../../groupdocs.signature.domain/textsignature/signatureimplementation) { get; } | Specifica l'implementazione della firma del testo. |
+| [SignatureImplementation](../../groupdocs.signature.domain/textsignature/signatureimplementation) { get; } | Specifica l'implementazione della firma testuale. |
 | [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | Specifica il tipo di firma. |
 | [Text](../../groupdocs.signature.domain/textsignature/text) { get; set; } | Specifica il testo nella firma. |
 | [Top](../../groupdocs.signature.domain/basesignature/top) { get; set; } | Specifica la posizione superiore della firma. |

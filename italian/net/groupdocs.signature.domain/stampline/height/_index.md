@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Ottiene o imposta laltezza della linea su Timbro.
+description: Ottiene o imposta laltezza della riga su Stamp.
 type: docs
 weight: 40
 url: /it/net/groupdocs.signature.domain/stampline/height/
 ---
 ## StampLine.Height property
 
-Ottiene o imposta l'altezza della linea su Timbro.
+Ottiene o imposta l'altezza della riga su Stamp.
 
 ```csharp
 public int Height { get; set; }

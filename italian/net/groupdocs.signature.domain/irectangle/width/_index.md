@@ -1,14 +1,14 @@
 ---
 title: Width
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Larghezza dellarea della firma sulla pagina del documento in Valori di misura pixel percentuali o millimetri vedereMeasureTypegroupdocs.signature.domain/measuretype SizeMeasureType.
+description: Larghezza dellarea della firma sulla pagina del documento nei valori di misura pixel percentuali o millimetri vedereMeasureTypegroupdocs.signature.domain/measuretype DimensioneMisuraTipo.
 type: docs
 weight: 70
 url: /it/net/groupdocs.signature.domain/irectangle/width/
 ---
 ## IRectangle.Width property
 
-Larghezza dell'area della firma sulla pagina del documento in Valori di misura (pixel, percentuali o millimetri, vedere[`MeasureType`](../../measuretype) SizeMeasureType).
+Larghezza dell'area della firma sulla pagina del documento nei valori di misura (pixel, percentuali o millimetri vedere[`MeasureType`](../../measuretype) DimensioneMisuraTipo).
 
 ```csharp
 public int Width { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: SignDateTimeFrom
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Intervallo di data e ora della firma digitale da cercare. Il valore nullable verrà ignorato.
+description: Intervallo di data e ora della firma digitale da cercare. Il valore annullabile verrà ignorato.
 type: docs
 weight: 40
 url: /it/net/groupdocs.signature.options/digitalsearchoptions/signdatetimefrom/
 ---
 ## DigitalSearchOptions.SignDateTimeFrom property
 
-Intervallo di data e ora della firma digitale da cercare. Il valore nullable verrà ignorato.
+Intervallo di data e ora della firma digitale da cercare. Il valore annullabile verrà ignorato.
 
 ```csharp
 public DateTime? SignDateTimeFrom { get; set; }

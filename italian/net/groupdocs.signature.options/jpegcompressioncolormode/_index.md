@@ -3,7 +3,7 @@ title: JpegCompressionColorMode
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Specifica le modalità di compressione del colore JPEG.
 type: docs
-weight: 1350
+weight: 1430
 url: /it/net/groupdocs.signature.options/jpegcompressioncolormode/
 ---
 ## JpegCompressionColorMode enumeration
@@ -22,7 +22,7 @@ public enum JpegCompressionColorMode
 | YCbCr | `1` | Immagine YCbCr, opzione standard per immagini jpeg. |
 | Cmyk | `2` | Immagine CMYK a 4 componenti. |
 | Ycck | `3` | L'immagine jpeg a colori ycck. Necessita del profilo icc per il salvataggio. |
-| Rgb | `4` | La modalità colore RGB. |
+| Rgb | `4` | La modalità Colore RGB. |
 
 ### Guarda anche
 

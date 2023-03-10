@@ -26,8 +26,8 @@ public sealed class BarcodeType : IEquatable<BarcodeType>
 | Nome | Descrizione |
 | --- | --- |
 | [Equals](../../groupdocs.signature.domain/barcodetype/equals#equals)(BarcodeType) | Determina se il BarcodeType specificato è uguale all'oggetto corrente. |
-| override [Equals](../../groupdocs.signature.domain/barcodetype/equals#equals_1)(object) | Il metodo sovrascritto determina se il System.Object specificato è uguale al System.Object. corrente |
-| override [GetHashCode](../../groupdocs.signature.domain/barcodetype/gethashcode)() | Il metodo sovrascritto funge da funzione hash per un tipo particolare. |
+| override [Equals](../../groupdocs.signature.domain/barcodetype/equals#equals_1)(object) | Il metodo sottoposto a override determina se il System.Object specificato è uguale al System.Object. corrente |
+| override [GetHashCode](../../groupdocs.signature.domain/barcodetype/gethashcode)() | Il metodo sovrascritto funge da funzione hash per un particolare tipo. |
 
 ### Guarda anche
 

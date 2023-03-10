@@ -3,7 +3,7 @@ title: PdfTextStickerIcon
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Descrive lenumerazione dellaspetto dellicona delladesivo dellannotazione di testo PDF.
 type: docs
-weight: 690
+weight: 720
 url: /it/net/groupdocs.signature.domain/pdftextstickericon/
 ---
 ## PdfTextStickerIcon enumeration
@@ -27,7 +27,7 @@ public enum PdfTextStickerIcon
 | Insert | `6` | Inserisci icona |
 | Check | `7` | Verifica icona |
 | Cross | `8` | Icona croce |
-| Circle | `9` | Icona cerchio |
+| Circle | `9` | Icona circolare |
 | Star | `10` | Icona stella |
 
 ### Guarda anche

@@ -3,7 +3,7 @@ title: PatchCode
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Codice patch Codice a barre Oggetto tipo.
 type: docs
-weight: 470
+weight: 500
 url: /it/net/groupdocs.signature.domain/barcodetypes/patchcode/
 ---
 ## BarcodeTypes.PatchCode field

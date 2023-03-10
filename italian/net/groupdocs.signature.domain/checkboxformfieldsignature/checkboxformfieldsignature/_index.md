@@ -1,14 +1,14 @@
 ---
 title: CheckboxFormFieldSignature
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Crea checkboxFormFieldSignature con nome predefinito.
+description: Crea CheckboxFormFieldSignature con nome predefinito.
 type: docs
 weight: 10
 url: /it/net/groupdocs.signature.domain/checkboxformfieldsignature/checkboxformfieldsignature/
 ---
 ## CheckboxFormFieldSignature(string) {#constructor}
 
-Crea checkboxFormFieldSignature con nome predefinito.
+Crea CheckboxFormFieldSignature con nome predefinito.
 
 ```csharp
 public CheckboxFormFieldSignature(string name)
@@ -28,7 +28,7 @@ public CheckboxFormFieldSignature(string name)
 
 ## CheckboxFormFieldSignature(string, bool) {#constructor_1}
 
-Crea checkboxFormFieldSignature con nome e valore predefiniti
+Crea CheckboxFormFieldSignature con nome e valore predefiniti
 
 ```csharp
 public CheckboxFormFieldSignature(string name, bool isChecked)

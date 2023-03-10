@@ -1,14 +1,14 @@
 ---
 title: Contents
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Ottiene o imposta il contenuto della finestra popup.
+description: Ottiene o imposta il contenuto della finestra a comparsa.
 type: docs
 weight: 30
 url: /it/net/groupdocs.signature.options.appearances/pdftextstickerappearance/contents/
 ---
 ## PdfTextStickerAppearance.Contents property
 
-Ottiene o imposta il contenuto della finestra pop-up.
+Ottiene o imposta il contenuto della finestra a comparsa.
 
 ```csharp
 public string Contents { get; set; }

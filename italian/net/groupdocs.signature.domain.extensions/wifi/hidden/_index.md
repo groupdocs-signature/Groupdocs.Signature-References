@@ -1,14 +1,14 @@
 ---
 title: Hidden
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Ottiene o imposta se il WiFi è SSID nascosto.
+description: Ottiene o imposta se WiFi è SSID nascosto.
 type: docs
 weight: 30
 url: /it/net/groupdocs.signature.domain.extensions/wifi/hidden/
 ---
 ## WiFi.Hidden property
 
-Ottiene o imposta se il WiFi è SSID nascosto.
+Ottiene o imposta se WiFi è SSID nascosto.
 
 ```csharp
 public bool Hidden { get; set; }

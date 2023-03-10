@@ -28,7 +28,7 @@ public PresentationMetadataSignature(string name)
 
 ## PresentationMetadataSignature(string, object) {#constructor_1}
 
-Crea la firma dei metadati della presentazione con valori predefiniti
+Crea la firma dei metadati di presentazione con valori predefiniti
 
 ```csharp
 public PresentationMetadataSignature(string name, object value)

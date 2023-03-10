@@ -3,7 +3,7 @@ title: DigitalSearchOptions
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Rappresenta le opzioni di ricerca per le firme digitali.
 type: docs
-weight: 1250
+weight: 1330
 url: /it/net/groupdocs.signature.options/digitalsearchoptions/
 ---
 ## DigitalSearchOptions class
@@ -25,21 +25,21 @@ public class DigitalSearchOptions : SearchOptions
 | Nome | Descrizione |
 | --- | --- |
 | [AllPages](../../groupdocs.signature.options/searchoptions/allpages) { get; set; } | Flag per la ricerca in ogni pagina del documento. Per impostazione predefinita, questo valore è impostato su true. |
-| [Comments](../../groupdocs.signature.options/digitalsearchoptions/comments) { get; set; } | Commenti di Firma digitale da cercare. |
-| [IssuerName](../../groupdocs.signature.options/digitalsearchoptions/issuername) { get; set; } | Per valori non vuoti, specifica il nome distinto dell'emittente del certificato da cercare. |
+| [Comments](../../groupdocs.signature.options/digitalsearchoptions/comments) { get; set; } | Commenti della firma digitale da cercare. |
+| [IssuerName](../../groupdocs.signature.options/digitalsearchoptions/issuername) { get; set; } | Per i valori non vuoti specifica il nome distinto dell'emittente del certificato da cercare. |
 | [PageNumber](../../groupdocs.signature.options/searchoptions/pagenumber) { get; set; } | Ottiene o imposta il numero di pagina del documento per la ricerca. Il valore è facoltativo. |
 | [PagesSetup](../../groupdocs.signature.options/searchoptions/pagessetup) { get; set; } | Opzioni per specificare le pagine per la ricerca della firma. |
-| [SignDateTimeFrom](../../groupdocs.signature.options/digitalsearchoptions/signdatetimefrom) { get; set; } | Intervallo di data e ora della firma digitale da cercare. Il valore nullable verrà ignorato. |
-| [SignDateTimeTo](../../groupdocs.signature.options/digitalsearchoptions/signdatetimeto) { get; set; } | Intervallo di data e ora della firma digitale da cercare. Il valore nullable verrà ignorato. |
+| [SignDateTimeFrom](../../groupdocs.signature.options/digitalsearchoptions/signdatetimefrom) { get; set; } | Intervallo di data e ora della firma digitale da cercare. Il valore annullabile verrà ignorato. |
+| [SignDateTimeTo](../../groupdocs.signature.options/digitalsearchoptions/signdatetimeto) { get; set; } | Intervallo di data e ora della firma digitale da cercare. Il valore annullabile verrà ignorato. |
 | [SkipExternal](../../groupdocs.signature.options/searchoptions/skipexternal) { get; set; } | Flag per restituire solo le firme contrassegnate come IsSignature. Per impostazione predefinita, il valore è false che indica di restituire tutte le firme che corrispondono ai criteri specificati. |
-| [SubjectName](../../groupdocs.signature.options/digitalsearchoptions/subjectname) { get; set; } | Per valori non vuoti specifica il nome del soggetto distinto del certificato da cercare. |
+| [SubjectName](../../groupdocs.signature.options/digitalsearchoptions/subjectname) { get; set; } | Per i valori non vuoti specifica il nome del soggetto distinto del certificato da cercare. |
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
-* Utilizzo di base della ricerca di Firma elettronica digitale da GroupDocs.Firma: [ Come eSearch Firme digitali in un documento](https://docs.groupdocs.com/display/signaturenet/Search+for+Digital+e-signatures)
-* Utilizzo avanzato delle impostazioni di ricerca della Firma elettronica digitale con GroupDocs.Firma: [Utilizzo avanzato di eSearch Firme digitali in un documento e impostazioni aggiuntive](https://docs.groupdocs.com/display/signaturenet/Advanced+search+for+Digital+signatures)
+* Utilizzo di base della ricerca della firma elettronica digitale da parte di GroupDocs.Signature: [ Come eSearch Firme digitali in un documento](https://docs.groupdocs.com/display/signaturenet/Search+for+Digital+e-signatures)
+* Utilizzo avanzato delle impostazioni di ricerca della firma elettronica digitale con GroupDocs.Signature: [Utilizzo avanzato di eSearch Firme digitali in un documento e impostazioni aggiuntive](https://docs.groupdocs.com/display/signaturenet/Advanced+search+for+Digital+signatures)
 
 ### Guarda anche
 

@@ -20,7 +20,7 @@ public static void GenerateSignaturePreview(PreviewSignatureOptions previewOptio
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni su come generare anteprime delle firme: [Come generare l'anteprima della firma utilizzando GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Generate+signatures+preview)
 

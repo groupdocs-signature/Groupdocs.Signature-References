@@ -1,14 +1,14 @@
 ---
 title: Brightness
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Ottiene o imposta la luminosità dellimmagine. Il valore predefinito è 1 corrisponde alla luminosità originale dellimmagine.
+description: Ottiene o imposta la luminosità dellimmagine. Il valore predefinito è 1 e corrisponde alla luminosità originale dellimmagine.
 type: docs
 weight: 20
 url: /it/net/groupdocs.signature.options.appearances/imageappearance/brightness/
 ---
 ## ImageAppearance.Brightness property
 
-Ottiene o imposta la luminosità dell'immagine. Il valore predefinito è 1 corrisponde alla luminosità originale dell'immagine.
+Ottiene o imposta la luminosità dell'immagine. Il valore predefinito è 1 e corrisponde alla luminosità originale dell'immagine.
 
 ```csharp
 public float Brightness { get; set; }

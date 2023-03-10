@@ -3,7 +3,7 @@ title: OneCode
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Oggetto Tipo codice a barre OneCode.
 type: docs
-weight: 450
+weight: 480
 url: /it/net/groupdocs.signature.domain/barcodetypes/onecode/
 ---
 ## BarcodeTypes.OneCode field
