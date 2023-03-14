@@ -3,7 +3,7 @@ title: ProcessEventArgs
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Farklı imza olayları doğrulama ve arama süreçleri için veri sağlar.
 type: docs
-weight: 1750
+weight: 1830
 url: /tr/net/groupdocs.signature/processeventargs/
 ---
 ## ProcessEventArgs class

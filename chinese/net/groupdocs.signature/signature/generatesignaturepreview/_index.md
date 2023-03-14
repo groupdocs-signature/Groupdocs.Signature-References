@@ -20,7 +20,7 @@ public static void GenerateSignaturePreview(PreviewSignatureOptions previewOptio
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * 了解有关如何生成签名预览的更多信息： [如何使用 GroupDocs.Signature 生成签名预览](https://docs.groupdocs.com/display/signaturenet/Generate+signatures+preview)
 

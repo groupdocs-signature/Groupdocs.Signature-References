@@ -3,7 +3,7 @@ title: XAdESType
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Тип расширенной электронной подписи XML XAdES.
 type: docs
-weight: 1070
+weight: 1100
 url: /ru/net/groupdocs.signature.domain/xadestype/
 ---
 ## XAdESType enumeration

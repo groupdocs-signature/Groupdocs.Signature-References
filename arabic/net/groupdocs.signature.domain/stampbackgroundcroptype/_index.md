@@ -3,7 +3,7 @@ title: StampBackgroundCropType
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحدد نوع اقتصاص طبقة الخلفية على عناصر الطوابع.
 type: docs
-weight: 870
+weight: 900
 url: /ar/net/groupdocs.signature.domain/stampbackgroundcroptype/
 ---
 ## StampBackgroundCropType enumeration

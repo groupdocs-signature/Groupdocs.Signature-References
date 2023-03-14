@@ -1,14 +1,14 @@
 ---
 title: FormFields
 second_title: GroupDocs.Signature for .NET API 参考
-description: 文档中所有现有支持的表单字段的集合仅 Pdf 和文字处理文档类型支持此属性
+description: 文档中所有现有支持的表单字段的集合只有 Pdf 和文字处理文档类型支持此属性
 type: docs
 weight: 50
 url: /zh/net/groupdocs.signature.domain/documentinfo/formfields/
 ---
 ## DocumentInfo.FormFields property
 
-文档中所有现有支持的表单字段的集合。仅 Pdf 和文字处理文档类型支持此属性。
+文档中所有现有支持的表单字段的集合。只有 Pdf 和文字处理文档类型支持此属性。
 
 ```csharp
 public IList<FormFieldSignature> FormFields { get; }

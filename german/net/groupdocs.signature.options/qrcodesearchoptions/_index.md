@@ -3,7 +3,7 @@ title: QrCodeSearchOptions
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Repräsentiert Suchoptionen für QRCodeSignaturen.
 type: docs
-weight: 1540
+weight: 1620
 url: /de/net/groupdocs.signature.options/qrcodesearchoptions/
 ---
 ## QrCodeSearchOptions class
@@ -39,7 +39,7 @@ public class QrCodeSearchOptions : SearchOptions
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Grundlegende Verwendung der Suche nach elektronischer QR-Code-Signatur durch GroupDocs.Signatur: [So suchen Sie QR-Code-Signaturen in einem Dokument per eSearch](https://docs.groupdocs.com/display/signaturenet/Search+for+QR-Code+e-signatures)
 * Erweiterte Verwendung der Sucheinstellungen für die elektronische QR-Code-Signatur mit GroupDocs.Signature: [Erweiterte Verwendung von eSearch-QR-Code-Signaturen in einem Dokument und zusätzliche Einstellungen](https://docs.groupdocs.com/display/signaturenet/Advanced+search+for+QR-code+signatures)

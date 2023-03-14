@@ -3,7 +3,7 @@ title: ITF14
 second_title: GroupDocs.Signature for .NET API 参考
 description: ITF14 条码类型对象
 type: docs
-weight: 370
+weight: 400
 url: /zh/net/groupdocs.signature.domain/barcodetypes/itf14/
 ---
 ## BarcodeTypes.ITF14 field

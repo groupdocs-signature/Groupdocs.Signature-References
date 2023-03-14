@@ -1,14 +1,14 @@
 ---
 title: Contents
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Açıklama nesnesinin içeriğini alır veya ayarlar.
+description: Ek açıklama nesnesinin içeriğini alır veya ayarlar.
 type: docs
 weight: 50
 url: /tr/net/groupdocs.signature.options.appearances/pdftextannotationappearance/contents/
 ---
 ## PdfTextAnnotationAppearance.Contents property
 
-Açıklama nesnesinin içeriğini alır veya ayarlar.
+Ek açıklama nesnesinin içeriğini alır veya ayarlar.
 
 ```csharp
 public string Contents { get; set; }

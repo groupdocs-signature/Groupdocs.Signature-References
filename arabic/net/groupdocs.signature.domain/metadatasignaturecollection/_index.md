@@ -3,7 +3,7 @@ title: MetadataSignatureCollection
 second_title: GroupDocs.Signature لمرجع .NET API
 description: مجموعة كائنات توقيع البيانات الوصفية.
 type: docs
-weight: 600
+weight: 620
 url: /ar/net/groupdocs.signature.domain/metadatasignaturecollection/
 ---
 ## MetadataSignatureCollection class

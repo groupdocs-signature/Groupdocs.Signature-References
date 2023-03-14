@@ -3,7 +3,7 @@ title: TextureBrush
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет текстурную кисть.
 type: docs
-weight: 390
+weight: 410
 url: /ru/net/groupdocs.signature.domain.extensions/texturebrush/
 ---
 ## TextureBrush class

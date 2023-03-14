@@ -1,14 +1,14 @@
 ---
 title: Code32
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Code32 Tipo di codice a barre oggetto.
+description: Code32 Oggetto tipo di codice a barre.
 type: docs
 weight: 90
 url: /it/net/groupdocs.signature.domain/barcodetypes/code32/
 ---
 ## BarcodeTypes.Code32 field
 
-Code32 Tipo di codice a barre oggetto.
+Code32 Oggetto tipo di codice a barre.
 
 ```csharp
 public static readonly BarcodeType Code32;

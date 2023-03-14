@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Altezza dellarea della firma sulla pagina del documento in unità di misura pixel percentuali o millimetri vedereMeasureTypegroupdocs.signature.domain/measuretype SizeMeasureType.
+description: Altezza dellarea della firma sulla pagina del documento in unità di misura pixel percentuali o millimetri vedereMeasureTypegroupdocs.signature.domain/measuretype DimensioneMisuraTipo.
 type: docs
 weight: 10
 url: /it/net/groupdocs.signature.domain/irectangle/height/
 ---
 ## IRectangle.Height property
 
-Altezza dell'area della firma sulla pagina del documento in unità di misura (pixel, percentuali o millimetri, vedere[`MeasureType`](../../measuretype) SizeMeasureType).
+Altezza dell'area della firma sulla pagina del documento in unità di misura (pixel, percentuali o millimetri vedere[`MeasureType`](../../measuretype) DimensioneMisuraTipo).
 
 ```csharp
 public int Height { get; set; }

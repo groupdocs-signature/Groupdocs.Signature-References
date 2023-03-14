@@ -1,14 +1,14 @@
 ---
 title: InnerMargins
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Ottiene o imposta lo spazio tra gli elementi QRCode e i bordi dellimmagine del risultato.
+description: Ottiene o imposta lo spazio tra gli elementi del codice QR e i bordi dellimmagine del risultato.
 type: docs
 weight: 70
 url: /it/net/groupdocs.signature.options/qrcodesignoptions/innermargins/
 ---
 ## QrCodeSignOptions.InnerMargins property
 
-Ottiene o imposta lo spazio tra gli elementi QR-Code e i bordi dell'immagine del risultato.
+Ottiene o imposta lo spazio tra gli elementi del codice QR e i bordi dell'immagine del risultato.
 
 ```csharp
 public Padding InnerMargins { get; set; }

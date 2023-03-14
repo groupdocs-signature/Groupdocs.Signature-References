@@ -1,14 +1,14 @@
 ---
 title: Brush
 second_title: GroupDocs.Signature for .NET API 参考
-description: 代表各种画笔的基类
+description: 表示各种画笔的基类
 type: docs
-weight: 180
+weight: 190
 url: /zh/net/groupdocs.signature.domain.extensions/brush/
 ---
 ## Brush class
 
-代表各种画笔的基类。
+表示各种画笔的基类。
 
 ```csharp
 public abstract class Brush

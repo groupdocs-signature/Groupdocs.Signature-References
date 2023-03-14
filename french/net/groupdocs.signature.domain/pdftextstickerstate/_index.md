@@ -3,7 +3,7 @@ title: PdfTextStickerState
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Décrit lénumération des états dautocollant dannotation de texte PDF.
 type: docs
-weight: 700
+weight: 730
 url: /fr/net/groupdocs.signature.domain/pdftextstickerstate/
 ---
 ## PdfTextStickerState enumeration

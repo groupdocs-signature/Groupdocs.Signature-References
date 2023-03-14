@@ -1,14 +1,14 @@
 ---
 title: Subject
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置表示对象描述的主题
+description: 获取或设置表示对象描述的 Subject
 type: docs
 weight: 70
 url: /zh/net/groupdocs.signature.options.appearances/pdftextannotationappearance/subject/
 ---
 ## PdfTextAnnotationAppearance.Subject property
 
-获取或设置表示对象描述的主题。
+获取或设置表示对象描述的 Subject。
 
 ```csharp
 public string Subject { get; set; }

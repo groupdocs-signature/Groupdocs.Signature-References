@@ -3,7 +3,7 @@ title: SignatureType
 second_title: GroupDocs.Signature för .NET API-referens
 description: Definierar typer av signaturer som stöds för olika processer som Sign Verify Search Update Delete
 type: docs
-weight: 830
+weight: 860
 url: /sv/net/groupdocs.signature.domain/signaturetype/
 ---
 ## SignatureType enumeration
@@ -23,7 +23,7 @@ public enum SignatureType
 | Image | `2` | Bildsignaturtypen |
 | Barcode | `3` | Typen streckkodsignatur |
 | QrCode | `4` | Typen QR-kodsignatur |
-| Stamp | `5` | Typ av stämpelsignatur |
+| Stamp | `5` | Typen stämpelsignatur |
 | Metadata | `6` | Typen Metadatasignatur |
 | FormField | `7` | FormField Signature-typen |
 | Digital | `8` | Typen digital signatur |

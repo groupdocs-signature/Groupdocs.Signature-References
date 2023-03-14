@@ -3,7 +3,7 @@ title: FormFieldSearchOptions
 second_title: GroupDocs.Signature for .NET API 参考
 description: 表示表单字段签名的搜索选项
 type: docs
-weight: 1290
+weight: 1370
 url: /zh/net/groupdocs.signature.options/formfieldsearchoptions/
 ---
 ## FormFieldSearchOptions class
@@ -25,19 +25,19 @@ public class FormFieldSearchOptions : SearchOptions
 | 姓名 | 描述 |
 | --- | --- |
 | [AllPages](../../groupdocs.signature.options/searchoptions/allpages) { get; set; } | 在每个文档页面上搜索的标志。默认情况下，此值设置为 true. |
-| [Name](../../groupdocs.signature.options/formfieldsearchoptions/name) { get; set; } | 指定表单字段签名名称的正则表达式模式是否应该被搜索。 您可以将其简单地用作“文本”或正则表达式，如“abc\d+”。默认值为空字符串。 |
+| [Name](../../groupdocs.signature.options/formfieldsearchoptions/name) { get; set; } | 指定表单字段签名名称的正则表达式模式（如果应搜索）。 您可以将它简单地用作“文本”或像“abc\d+”这样的正则表达式。默认值为空字符串。 |
 | [PageNumber](../../groupdocs.signature.options/searchoptions/pagenumber) { get; set; } | 获取或设置用于搜索的文档页码。 值是可选的。 |
 | [PagesSetup](../../groupdocs.signature.options/searchoptions/pagessetup) { get; set; } | 用于指定签名搜索页面的选项。 |
 | [SkipExternal](../../groupdocs.signature.options/searchoptions/skipexternal) { get; set; } | 标志以仅返回标记为 IsSignature 的签名。默认值为 false，表示返回所有符合指定条件的签名。 |
-| [Type](../../groupdocs.signature.options/formfieldsearchoptions/type) { get; set; } | 指定表单字段签名的类型是否应该被搜索。默认值为空。 |
-| [Value](../../groupdocs.signature.options/formfieldsearchoptions/value) { get; set; } | 指定表单字段签名的值是否应该被搜索。默认值为空。 |
+| [Type](../../groupdocs.signature.options/formfieldsearchoptions/type) { get; set; } | 指定表单字段签名的类型（如果应搜索）。默认值为空。 |
+| [Value](../../groupdocs.signature.options/formfieldsearchoptions/value) { get; set; } | 指定表单字段签名的值，如果它应该被搜索。默认值为 null. |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* GroupDocs.Signature搜索FormField电子签名的基本用法： [如何在文档中搜索表单域签名](https://docs.groupdocs.com/display/signaturenet/Search+for+Form+Field+e-signatures)
-* 使用 GroupDocs.Signature 搜索 FormField 电子签名设置的高级用法： [文档中 eSearch FormField 签名的高级用法和其他设置](https://docs.groupdocs.com/display/signaturenet/Advanced+search+for+Form+Field+signatures)
+* GroupDocs.Signature搜索FormField电子签名的基本用法： [如何在文档中搜索 FormField 签名](https://docs.groupdocs.com/display/signaturenet/Search+for+Form+Field+e-signatures)
+* GroupDocs.Signature: 搜索FormField电子签名设置的高级用法[文档中 eSearch FormField 签名的高级用法和其他设置](https://docs.groupdocs.com/display/signaturenet/Advanced+search+for+Form+Field+signatures)
 
 ### 也可以看看
 

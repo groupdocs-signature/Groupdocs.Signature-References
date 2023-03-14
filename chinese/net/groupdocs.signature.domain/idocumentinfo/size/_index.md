@@ -3,7 +3,7 @@ title: Size
 second_title: GroupDocs.Signature for .NET API 参考
 description: 文档大小以字节为单位
 type: docs
-weight: 130
+weight: 140
 url: /zh/net/groupdocs.signature.domain/idocumentinfo/size/
 ---
 ## IDocumentInfo.Size property

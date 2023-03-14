@@ -1,14 +1,14 @@
 ---
 title: Comments
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Commenti di Firma digitale da cercare.
+description: Commenti della firma digitale da cercare.
 type: docs
 weight: 20
 url: /it/net/groupdocs.signature.options/digitalsearchoptions/comments/
 ---
 ## DigitalSearchOptions.Comments property
 
-Commenti di Firma digitale da cercare.
+Commenti della firma digitale da cercare.
 
 ```csharp
 public string Comments { get; set; }

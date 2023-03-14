@@ -3,7 +3,7 @@ title: PatchCode
 second_title: GroupDocs.Signature لمرجع .NET API
 description: كائن نوع الرمز الشريطي لرمز التصحيح .
 type: docs
-weight: 470
+weight: 500
 url: /ar/net/groupdocs.signature.domain/barcodetypes/patchcode/
 ---
 ## BarcodeTypes.PatchCode field

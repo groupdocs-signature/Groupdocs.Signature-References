@@ -3,7 +3,7 @@ title: PreviewSignatureOptions
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل خيارات معاينة التوقيع.
 type: docs
-weight: 1520
+weight: 1600
 url: /ar/net/groupdocs.signature.options/previewsignatureoptions/
 ---
 ## PreviewSignatureOptions class

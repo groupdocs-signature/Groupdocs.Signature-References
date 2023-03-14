@@ -3,7 +3,7 @@ title: StampTypes
 second_title: GroupDocs.Signature för .NET API-referens
 description: Stämpeltyper container.
 type: docs
-weight: 910
+weight: 940
 url: /sv/net/groupdocs.signature.domain/stamptypes/
 ---
 ## StampTypes class

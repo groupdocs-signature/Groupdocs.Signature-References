@@ -1,14 +1,14 @@
 ---
 title: Succeeded
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Elenco delle firme modificate correttamenteBaseSignaturegroupdocs.signature.domain/basesignature .
+description: Elenco delle firme modificate con successoBaseSignaturegroupdocs.signature.domain/basesignature .
 type: docs
-weight: 20
+weight: 50
 url: /it/net/groupdocs.signature.domain/updateresult/succeeded/
 ---
 ## UpdateResult.Succeeded property
 
-Elenco delle firme modificate correttamente[`BaseSignature`](../../basesignature) .
+Elenco delle firme modificate con successo[`BaseSignature`](../../basesignature) .
 
 ```csharp
 public List<BaseSignature> Succeeded { get; }

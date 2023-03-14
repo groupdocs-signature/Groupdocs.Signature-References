@@ -1,14 +1,14 @@
 ---
 title: Text
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Specifica il testo della firma da abbinare durante la ricerca.
+description: Specifica il testo della firma da abbinare alla ricerca.
 type: docs
 weight: 40
 url: /it/net/groupdocs.signature.options/textsearchoptions/text/
 ---
 ## TextSearchOptions.Text property
 
-Specifica il testo della firma da abbinare durante la ricerca.
+Specifica il testo della firma da abbinare alla ricerca.
 
 ```csharp
 public string Text { get; set; }

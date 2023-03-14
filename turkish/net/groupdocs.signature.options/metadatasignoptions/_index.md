@@ -3,7 +3,7 @@ title: MetadataSignOptions
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Meta veri imza seçeneklerini temsil eder.
 type: docs
-weight: 1410
+weight: 1490
 url: /tr/net/groupdocs.signature.options/metadatasignoptions/
 ---
 ## MetadataSignOptions class
@@ -18,8 +18,8 @@ public class MetadataSignOptions : SignOptions
 
 | İsim | Tanım |
 | --- | --- |
-| [MetadataSignOptions](metadatasignoptions#constructor)() | MetadataSignOptions sınıfının varsayılan değerlerle yeni bir örneğini başlatır. |
-| [MetadataSignOptions](metadatasignoptions#constructor_1)(IEnumerable&lt;MetadataSignature&gt;) | Metadata ile MetadataSignOptions sınıfının yeni bir örneğini başlatır. |
+| [MetadataSignOptions](metadatasignoptions#constructor)() | Varsayılan değerlerle MetadataSignOptions sınıfının yeni bir örneğini başlatır. |
+| [MetadataSignOptions](metadatasignoptions#constructor_1)(IEnumerable&lt;MetadataSignature&gt;) | Metadata. ile MetadataSignOptions sınıfının yeni bir örneğini başlatır |
 
 ## Özellikleri
 
@@ -27,10 +27,10 @@ public class MetadataSignOptions : SignOptions
 | --- | --- |
 | virtual [AllPages](../../groupdocs.signature.options/signoptions/allpages) { get; set; } | Tüm belge sayfalarına imza koyun. |
 | [Appearance](../../groupdocs.signature.options/signoptions/appearance) { get; set; } | Ek imza görünümü. |
-| [DataEncryption](../../groupdocs.signature.options/metadatasignoptions/dataencryption) { get; set; } | Şunun uygulanmasını alır veya ayarlar:[`IDataEncryption`](../../groupdocs.signature.domain.extensions/idataencryption)bu seçenekler koleksiyonundaki tüm Meta veri imzalarını şifrelemek için arayüz. Bu değer ayarlanırsa, eklenen tüm imzalar varsayılan olarak bu şifrelemeyi veya atanmışsa kendi DataEncryption'ını kullanır. |
+| [DataEncryption](../../groupdocs.signature.options/metadatasignoptions/dataencryption) { get; set; } | Şunun uygulanmasını alır veya ayarlar:[`IDataEncryption`](../../groupdocs.signature.domain.extensions/idataencryption)bu seçenek koleksiyonuyla tüm Meta veri imzalarını şifrelemek için arayüz. Bu değer ayarlanırsa, eklenen tüm imzalar varsayılan olarak bu şifrelemeyi veya atanmışsa kendi DataEncryption'ını kullanır. |
 | [DocumentType](../../groupdocs.signature.options/signoptions/documenttype) { get; set; } | İmza Seçeneklerinin Belge Türünü alın veya ayarlayın[`DocumentType`](../../groupdocs.signature.domain/documenttype) |
 | [Extensions](../../groupdocs.signature.options/signoptions/extensions) { get; } | İmza Uzantıları. |
-| virtual [PageNumber](../../groupdocs.signature.options/signoptions/pagenumber) { get; set; } | İmzalama için belge sayfa numarasını alır veya ayarlar. Minimum ve varsayılan değer 1. |
+| virtual [PageNumber](../../groupdocs.signature.options/signoptions/pagenumber) { get; set; } | İmza için belge sayfa numarasını alır veya ayarlar. Minimum ve varsayılan değer 1. 'dir. |
 | virtual [PagesSetup](../../groupdocs.signature.options/signoptions/pagessetup) { get; set; } | İmzalanacak sayfaları belirtmek için seçenekler. |
 | [Signatures](../../groupdocs.signature.options/metadatasignoptions/signatures) { get; set; } | İmzanın Meta Verilerini alır veya ayarlar. |
 | [SignatureType](../../groupdocs.signature.options/signoptions/signaturetype) { get; } | İmza Türünü Alın[`SignatureType`](../../groupdocs.signature.domain/signaturetype) |
@@ -41,8 +41,8 @@ public class MetadataSignOptions : SignOptions
 | İsim | Tanım |
 | --- | --- |
 | [Add](../../groupdocs.signature.options/metadatasignoptions/add)(MetadataSignature) | Mevcut MetadataSignature örneğini koleksiyona ekleyin. |
-| [AddImageSignature](../../groupdocs.signature.options/metadatasignoptions/addimagesignature)(ushort, object) | Geçirilen bağımsız değişkenlerle yeni ImageMetadataSignature oluşturur ve onu koleksiyona ekler. |
-| [AddPdfSignature](../../groupdocs.signature.options/metadatasignoptions/addpdfsignature)(string, object, string) | Geçirilen bağımsız değişkenlerle yeni PdfMetadataSignature oluşturur ve onu koleksiyona ekler. |
+| [AddImageSignature](../../groupdocs.signature.options/metadatasignoptions/addimagesignature)(ushort, object) | Geçirilen bağımsız değişkenlerle yeni ImageMetadataSignature oluşturur ve koleksiyona ekler. |
+| [AddPdfSignature](../../groupdocs.signature.options/metadatasignoptions/addpdfsignature)(string, object, string) | Geçirilen bağımsız değişkenlerle yeni PdfMetadataSignature oluşturur ve koleksiyona ekler. |
 
 ### Notlar
 

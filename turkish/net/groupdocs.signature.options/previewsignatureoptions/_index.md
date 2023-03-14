@@ -3,7 +3,7 @@ title: PreviewSignatureOptions
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: İmza önizleme seçeneklerini temsil eder.
 type: docs
-weight: 1520
+weight: 1600
 url: /tr/net/groupdocs.signature.options/previewsignatureoptions/
 ---
 ## PreviewSignatureOptions class
@@ -25,8 +25,8 @@ public class PreviewSignatureOptions
 
 | İsim | Tanım |
 | --- | --- |
-| [PreviewFormat](../../groupdocs.signature.options/previewsignatureoptions/previewformat) { get; set; } | Önizleme resimleri biçimini alır veya ayarlar. Varsayılan değer PNG 'dir |
-| [SignatureId](../../groupdocs.signature.options/previewsignatureoptions/signatureid) { get; set; } | İmzayı ayırt etmek için benzersiz değer. Önizleme seçeneklerini belirlemek için SignatureId'yi kullanın. |
+| [PreviewFormat](../../groupdocs.signature.options/previewsignatureoptions/previewformat) { get; set; } | Önizleme görüntüleri biçimini alır veya ayarlar. Varsayılan değer PNG 'dir. |
+| [SignatureId](../../groupdocs.signature.options/previewsignatureoptions/signatureid) { get; set; } | İmzayı ayırt etmek için benzersiz değer. Önizleme seçeneklerini belirlemek için SignatureId kullanın. |
 | [SignOptions](../../groupdocs.signature.options/previewsignatureoptions/signoptions) { get; set; } | Önizleme oluşturmak için İmza Seçenekleri. |
 
 ### Ayrıca bakınız

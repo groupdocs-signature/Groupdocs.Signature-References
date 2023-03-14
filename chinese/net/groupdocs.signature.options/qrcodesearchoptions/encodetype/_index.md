@@ -1,14 +1,14 @@
 ---
 title: EncodeType
 second_title: GroupDocs.Signature for .NET API 参考
-description: 指定编码类型属性以搜索二维码 如果未设置此值则搜索所有支持的二维码类型
+description: 指定编码类型属性以搜索 QR 码 如果未设置此值则将针对所有支持的 QR 码类型处理搜索
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.options/qrcodesearchoptions/encodetype/
 ---
 ## QrCodeSearchOptions.EncodeType property
 
-指定编码类型属性以搜索二维码。 如果未设置此值，则搜索所有支持的二维码类型。
+指定编码类型属性以搜索 QR 码。 如果未设置此值，则将针对所有支持的 QR 码类型处理搜索。
 
 ```csharp
 public QrCodeType EncodeType { get; set; }

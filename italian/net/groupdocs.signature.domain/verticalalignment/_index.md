@@ -3,7 +3,7 @@ title: VerticalAlignment
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Specifica lallineamento verticale dellelemento su una pagina del documento.
 type: docs
-weight: 1030
+weight: 1060
 url: /it/net/groupdocs.signature.domain/verticalalignment/
 ---
 ## VerticalAlignment enumeration
@@ -18,9 +18,9 @@ public enum VerticalAlignment
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| None | `0` | L'oggetto è posizionato in modo esplicito, di solito usando la sua proprietà Top. |
-| Top | `1` | Specifica che l'oggetto deve trovarsi in cima alla base di allineamento verticale. |
-| Center | `2` | Specifica che l'oggetto deve essere centrato rispetto alla base di allineamento verticale. |
+| None | `0` | L'oggetto è posizionato in modo esplicito, solitamente utilizzando la sua proprietà Top. |
+| Top | `1` | Specifica che l'oggetto deve trovarsi nella parte superiore della base dell'allineamento verticale. |
+| Center | `2` | Specifica che l'oggetto deve essere centrato rispetto alla base dell'allineamento verticale. |
 | Bottom | `3` | Specifica che l'oggetto deve trovarsi nella parte inferiore della base di allineamento verticale. |
 
 ### Guarda anche

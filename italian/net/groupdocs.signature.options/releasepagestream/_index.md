@@ -3,7 +3,7 @@ title: ReleasePageStream
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Delegato che definisce il metodo per rilasciare il flusso di anteprima della pagina di output.
 type: docs
-weight: 1570
+weight: 1650
 url: /it/net/groupdocs.signature.options/releasepagestream/
 ---
 ## ReleasePageStream delegate
@@ -16,8 +16,8 @@ public delegate void ReleasePageStream(int pageNumber, Stream pageStream);
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pageNumber | Int32 | Il numero di pagine visualizzate in anteprima. |
-| pageStream | Stream | Il flusso di pagine da rilasciare. |
+| pageNumber | Int32 | Il numero della pagina visualizzata in anteprima. |
+| pageStream | Stream | Lo stream della pagina da rilasciare. |
 
 ### Guarda anche
 

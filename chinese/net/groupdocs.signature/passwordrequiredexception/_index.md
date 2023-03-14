@@ -3,12 +3,12 @@ title: PasswordRequiredException
 second_title: GroupDocs.Signature for .NET API 参考
 description: 加载文档需要密码时抛出的异常
 type: docs
-weight: 1720
+weight: 1800
 url: /zh/net/groupdocs.signature/passwordrequiredexception/
 ---
 ## PasswordRequiredException class
 
-加载文档需要密码时抛出的异常
+加载文档需要密码时抛出的异常。
 
 ```csharp
 public class PasswordRequiredException : GroupDocsSignatureException

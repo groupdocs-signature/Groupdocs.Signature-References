@@ -3,7 +3,7 @@ title: ITF6
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: ITF6 Barkod Türü nesnesi.
 type: docs
-weight: 380
+weight: 410
 url: /tr/net/groupdocs.signature.domain/barcodetypes/itf6/
 ---
 ## BarcodeTypes.ITF6 field

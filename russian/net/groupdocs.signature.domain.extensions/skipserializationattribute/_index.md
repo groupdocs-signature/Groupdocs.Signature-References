@@ -3,7 +3,7 @@ title: SkipSerializationAttribute
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Указывает при сериализации пропустить элемент.
 type: docs
-weight: 320
+weight: 340
 url: /ru/net/groupdocs.signature.domain.extensions/skipserializationattribute/
 ---
 ## SkipSerializationAttribute class

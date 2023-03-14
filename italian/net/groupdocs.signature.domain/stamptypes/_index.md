@@ -3,7 +3,7 @@ title: StampTypes
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Contenitore tipi di timbro.
 type: docs
-weight: 910
+weight: 940
 url: /it/net/groupdocs.signature.domain/stamptypes/
 ---
 ## StampTypes class

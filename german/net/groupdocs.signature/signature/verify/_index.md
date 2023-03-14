@@ -24,7 +24,7 @@ Gibt eine Instanz von zurück[`VerificationResult`](../../../groupdocs.signature
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Mehr zur Verifizierung elektronisch signierter Dokumente mit GroupDocs.Signature: [So überprüfen Sie, ob das Dokument in C# elektronisch signiert ist](https://docs.groupdocs.com/display/signaturenet/Verify+document+for+signatures)
 
@@ -56,7 +56,7 @@ Gibt eine Instanz von zurück[`VerificationResult`](../../../groupdocs.signature
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Mehr zur Verifizierung elektronisch signierter Dokumente mit GroupDocs.Signature: [So überprüfen Sie, ob das Dokument in C# elektronisch signiert ist](https://docs.groupdocs.com/display/signaturenet/Verify+document+for+signatures)
 

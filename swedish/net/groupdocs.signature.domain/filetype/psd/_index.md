@@ -3,7 +3,7 @@ title: PSD
 second_title: GroupDocs.Signature för .NET API-referens
 description: Adobe Photoshop Document .psd representerar Adobe Photoshops ursprungliga filformat som används för grafisk design och utveckling. Läs mer om detta filformathärhttps//wiki.fileformat.com/image/psd .
 type: docs
-weight: 390
+weight: 400
 url: /sv/net/groupdocs.signature.domain/filetype/psd/
 ---
 ## FileType.PSD field

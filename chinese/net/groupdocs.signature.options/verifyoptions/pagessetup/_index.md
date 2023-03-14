@@ -1,14 +1,14 @@
 ---
 title: PagesSetup
 second_title: GroupDocs.Signature for .NET API 参考
-description: 指定要验证的页面的页面选项
+description: 用于指定要验证的页面的页面选项
 type: docs
 weight: 50
 url: /zh/net/groupdocs.signature.options/verifyoptions/pagessetup/
 ---
 ## VerifyOptions.PagesSetup property
 
-指定要验证的页面的页面选项。
+用于指定要验证的页面的页面选项。
 
 ```csharp
 public virtual PagesSetup PagesSetup { get; set; }

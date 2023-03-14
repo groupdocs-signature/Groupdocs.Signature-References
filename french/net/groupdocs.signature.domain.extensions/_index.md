@@ -14,7 +14,7 @@ L'espace de noms fournit des extensions pour les apparences de signature et des 
 | --- | --- |
 | [Address](./address) | Représente l'adresse du contact. |
 | [Brush](./brush) | Représente la classe de base pour divers pinceaux. |
-| [CryptoCurrencyTransfer](./cryptocurrencytransfer) | Représente le transfert de devise Crypto (réception ou envoi) pour QR-Code. |
+| [CryptoCurrencyTransfer](./cryptocurrencytransfer) | Représente le transfert de crypto-monnaie (réception ou envoi) pour QR-Code. |
 | [Email](./email) | Représente le format de courrier électronique pour le code QR. |
 | [EPC](./epc) | Représente le code de réponse rapide du Conseil européen des paiements. |
 | [Event](./event) | Représente les détails de l'événement QR-Code standard. |
@@ -43,7 +43,8 @@ L'espace de noms fournit des extensions pour les apparences de signature et des 
 
 | Énumération | La description |
 | --- | --- |
-| [CryptoCurrencyType](./cryptocurrencytype) | Représente le type de devise Crypto. |
+| [CryptoCurrencyType](./cryptocurrencytype) | Représente le type de crypto-monnaie. |
+| [DataMatrixEncodeMode](./datamatrixencodemode) | Mode d'encodage de l'encodeur DataMatrix, par défaut Auto |
 | [SymmetricAlgorithmType](./symmetricalgorithmtype) | Représente le type d'algorithme de chiffrement symétrique. |
 | [WiFiEncryptionType](./wifiencryptiontype) | Représente le type de cryptage Wi-Fi. |
 

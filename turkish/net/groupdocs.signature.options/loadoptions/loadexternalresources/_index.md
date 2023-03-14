@@ -1,14 +1,14 @@
 ---
 title: LoadExternalResources
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Harici belge kaynaklarının yüklenmesi gerekip gerekmediğini belirten seçenekleri alır veya ayarlar. Değeri devre dışı bırakılmış yanlış bu seçenek çok sayıda veya büyük harici kaynak bağlantısına sahip belgeler için yükleme süresinden tasarruf edilmesini sağlar. Varsayılan değer etkindir true.
+description: Harici belge kaynaklarının yüklenmesi gerekip gerekmediğini belirten seçenekleri alır veya ayarlar. Değeri devre dışı bırakılan yanlış bu seçenek çok sayıda veya büyük dış kaynak bağlantısı olan belgeler için yükleme süresinden tasarruf sağlar. Varsayılan değer olarak etkindir doğru.
 type: docs
 weight: 20
 url: /tr/net/groupdocs.signature.options/loadoptions/loadexternalresources/
 ---
 ## LoadOptions.LoadExternalResources property
 
-Harici belge kaynaklarının yüklenmesi gerekip gerekmediğini belirten seçenekleri alır veya ayarlar. Değeri devre dışı bırakılmış (yanlış) bu seçenek, çok sayıda veya büyük harici kaynak bağlantısına sahip belgeler için yükleme süresinden tasarruf edilmesini sağlar. Varsayılan değer etkindir (true).
+Harici belge kaynaklarının yüklenmesi gerekip gerekmediğini belirten seçenekleri alır veya ayarlar. Değeri devre dışı bırakılan (yanlış) bu seçenek, çok sayıda veya büyük dış kaynak bağlantısı olan belgeler için yükleme süresinden tasarruf sağlar. Varsayılan değer olarak etkindir (doğru).
 
 ```csharp
 public bool LoadExternalResources { get; set; }

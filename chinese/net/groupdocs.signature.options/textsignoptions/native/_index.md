@@ -1,14 +1,14 @@
 ---
 title: Native
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置本机属性如果已设置则可以使用文档特定签名 WordProcessing 文档的本机文本水印不同于常规例如
+description: 获取或设置本机属性如果已设置则可以使用文档特定签名 WordProcessing 文档的本机文本水印与常规不同例如
 type: docs
 weight: 140
 url: /zh/net/groupdocs.signature.options/textsignoptions/native/
 ---
 ## TextSignOptions.Native property
 
-获取或设置本机属性。如果已设置，则可以使用文档特定签名。 WordProcessing 文档的本机文本水印不同于常规，例如。
+获取或设置本机属性。如果已设置，则可以使用文档特定签名。 WordProcessing 文档的本机文本水印与常规不同，例如。
 
 ```csharp
 public bool Native { get; set; }

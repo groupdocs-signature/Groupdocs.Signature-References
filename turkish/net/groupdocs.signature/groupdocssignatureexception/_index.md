@@ -3,7 +3,7 @@ title: GroupDocsSignatureException
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Belge işleme sırasında oluşan genel hataları temsil eder.
 type: docs
-weight: 1080
+weight: 1110
 url: /tr/net/groupdocs.signature/groupdocssignatureexception/
 ---
 ## GroupDocsSignatureException class
@@ -18,9 +18,9 @@ public class GroupDocsSignatureException : Exception
 
 | İsim | Tanım |
 | --- | --- |
-| [GroupDocsSignatureException](groupdocssignatureexception#constructor)() | Yeni bir örneğini başlatır[`GroupDocsSignatureException`](../groupdocssignatureexception) sınıf. |
-| [GroupDocsSignatureException](groupdocssignatureexception#constructor_2)(string) | Yeni bir örneğini başlatır[`GroupDocsSignatureException`](../groupdocssignatureexception)belirtilen bir hata mesajına sahip sınıf. |
-| [GroupDocsSignatureException](groupdocssignatureexception#constructor_1)(Exception, string) | Yeni bir örneğini başlatır[`GroupDocsSignatureException`](../groupdocssignatureexception) belirtilen bir hata mesajı ve orijinal istisna ile sınıf. |
+| [GroupDocsSignatureException](groupdocssignatureexception#constructor)() | Yeni bir örneğini başlatır.[`GroupDocsSignatureException`](../groupdocssignatureexception)sınıf. |
+| [GroupDocsSignatureException](groupdocssignatureexception#constructor_2)(string) | Yeni bir örneğini başlatır.[`GroupDocsSignatureException`](../groupdocssignatureexception) belirtilen bir hata mesajına sahip sınıf. |
+| [GroupDocsSignatureException](groupdocssignatureexception#constructor_1)(Exception, string) | Yeni bir örneğini başlatır.[`GroupDocsSignatureException`](../groupdocssignatureexception) belirtilen bir hata mesajı ve orijinal istisna ile sınıf. |
 
 ## yöntemler
 

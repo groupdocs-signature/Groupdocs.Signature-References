@@ -1,14 +1,14 @@
 ---
 title: Comments
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Doğrulanacak Dijital İmzanın Yorumları.
+description: Doğrulamak için Dijital İmza Yorumları.
 type: docs
 weight: 50
 url: /tr/net/groupdocs.signature.options/digitalverifyoptions/comments/
 ---
 ## DigitalVerifyOptions.Comments property
 
-Doğrulanacak Dijital İmzanın Yorumları.
+Doğrulamak için Dijital İmza Yorumları.
 
 ```csharp
 public string Comments { get; set; }

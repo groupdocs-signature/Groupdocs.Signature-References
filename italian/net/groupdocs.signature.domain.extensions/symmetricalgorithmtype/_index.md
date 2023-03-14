@@ -3,7 +3,7 @@ title: SymmetricAlgorithmType
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Rappresenta il tipo di algoritmo di crittografia simmetrica.
 type: docs
-weight: 350
+weight: 370
 url: /it/net/groupdocs.signature.domain.extensions/symmetricalgorithmtype/
 ---
 ## SymmetricAlgorithmType enumeration
@@ -23,7 +23,7 @@ public enum SymmetricAlgorithmType
 | RC2 | `2` | Rappresenta l'algoritmo RC2. |
 | Rijndael | `3` | Rappresenta l'algoritmo di crittografia simmetrica Rijndael. |
 | AES | `4` | Rappresenta l'algoritmo di crittografia AES (Advanced Encryption Standard). |
-| AESNew | `5` | Rappresenta un algoritmo di crittografia AES (Advanced Encryption Standard) migliorato. |
+| AESNew | `5` | Rappresenta l'algoritmo di crittografia AES (Advanced Encryption Standard) migliorato. |
 
 ### Guarda anche
 

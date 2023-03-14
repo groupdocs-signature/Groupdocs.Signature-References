@@ -3,7 +3,7 @@ title: Padding
 second_title: GroupDocs.Signature för .NET API-referens
 description: Representerar utfyllnad eller marginalinformation associerad med element.
 type: docs
-weight: 610
+weight: 640
 url: /sv/net/groupdocs.signature.domain/padding/
 ---
 ## Padding class

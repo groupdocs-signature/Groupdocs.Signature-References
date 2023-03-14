@@ -3,7 +3,7 @@ title: MeasureType
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Указывает единицы измерения подписи на странице документа.
 type: docs
-weight: 580
+weight: 600
 url: /ru/net/groupdocs.signature.domain/measuretype/
 ---
 ## MeasureType enumeration

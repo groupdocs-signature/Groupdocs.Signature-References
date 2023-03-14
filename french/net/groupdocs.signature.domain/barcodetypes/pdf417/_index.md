@@ -3,7 +3,7 @@ title: Pdf417
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Pdf417 Objet Type de codebarres.
 type: docs
-weight: 480
+weight: 510
 url: /fr/net/groupdocs.signature.domain/barcodetypes/pdf417/
 ---
 ## BarcodeTypes.Pdf417 field

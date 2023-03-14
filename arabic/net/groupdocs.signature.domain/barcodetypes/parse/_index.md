@@ -3,7 +3,7 @@ title: Parse
 second_title: GroupDocs.Signature لمرجع .NET API
 description: إرجاع نوع الرمز الشريطي باسم pasringType. إذا كان اسم الباركود غير معروف  فسيتم طرح استثناء.
 type: docs
-weight: 640
+weight: 670
 url: /ar/net/groupdocs.signature.domain/barcodetypes/parse/
 ---
 ## BarcodeTypes.Parse method

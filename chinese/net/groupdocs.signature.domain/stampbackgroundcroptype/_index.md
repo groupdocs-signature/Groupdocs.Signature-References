@@ -1,14 +1,14 @@
 ---
 title: StampBackgroundCropType
 second_title: GroupDocs.Signature for .NET API 参考
-description: 指定 Stamp 元素上背景图层的裁剪类型
+description: 指定 Stamp 元素上背景层的裁剪类型
 type: docs
-weight: 870
+weight: 900
 url: /zh/net/groupdocs.signature.domain/stampbackgroundcroptype/
 ---
 ## StampBackgroundCropType enumeration
 
-指定 Stamp 元素上背景图层的裁剪类型。
+指定 Stamp 元素上背景层的裁剪类型。
 
 ```csharp
 public enum StampBackgroundCropType
@@ -18,10 +18,10 @@ public enum StampBackgroundCropType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| None | `0` | 不裁剪 - 所有签名区域矩形都将被背景填充。 |
+| None | `0` | 无裁剪 - 所有签名区域矩形都将填充背景。 |
 | OuterArea | `1` | 通过外部外线裁剪背景。 |
 | MiddleArea | `2` | 在外线和内线之间裁剪背景。 |
-| InnerArea | `3` | 按内部线裁剪背景。 |
+| InnerArea | `3` | 按内线裁剪背景。 |
 
 ### 也可以看看
 

@@ -3,7 +3,7 @@ title: GroupDocs.Signature.Options
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Der Namespace stellt Klassen bereit um zusätzliche Optionen beim Laden Signieren Überprüfen Suchen und Speichern von Dokumenten anzugeben.
 type: docs
-weight: 40
+weight: 50
 url: /de/net/groupdocs.signature.options/
 ---
 Der Namespace stellt Klassen bereit, um zusätzliche Optionen beim Laden, Signieren, Überprüfen, Suchen und Speichern von Dokumenten anzugeben.
@@ -16,6 +16,7 @@ Der Namespace stellt Klassen bereit, um zusätzliche Optionen beim Laden, Signie
 | [BarcodeSignOptions](./barcodesignoptions) | Stellt die Barcode-Signaturoptionen dar. |
 | [BarcodeVerifyOptions](./barcodeverifyoptions) | Stellt die Barcode-Überprüfungsoptionen dar. |
 | [BmpSaveOptions](./bmpsaveoptions) | Bmp Speicheroptionen für Bilddokumente. |
+| [CertificateVerifyOptions](./certificateverifyoptions) | Behält Optionen zur Überprüfung von Zertifikatsdokumenten bei. |
 | [CreatePageStream](./createpagestream) | Delegierter, der die Methode zum Erstellen des Vorschaustreams der Ausgabeseite definiert. |
 | [CreateSignatureStream](./createsignaturestream) | Delegierter, der die Methode zum Erstellen des Ausgabe-Signatur-Vorschau-Streams definiert. |
 | [DigitalSearchOptions](./digitalsearchoptions) | Repräsentiert Suchoptionen für digitale Signaturen. |

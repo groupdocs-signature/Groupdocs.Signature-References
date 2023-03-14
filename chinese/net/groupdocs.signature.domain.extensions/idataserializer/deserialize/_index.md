@@ -1,14 +1,14 @@
 ---
 title: Deserialize
 second_title: GroupDocs.Signature for .NET API 参考
-description: 从字符串中获取所需对象的反序列化方法
+description: 反序列化方法以从字符串中获取所需的对象
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.domain.extensions/idataserializer/deserialize/
 ---
 ## IDataSerializer.Deserialize&lt;T&gt; method
 
-从字符串中获取所需对象的反序列化方法。
+反序列化方法以从字符串中获取所需的对象。
 
 ```csharp
 public T Deserialize<T>(string source)
@@ -17,7 +17,7 @@ public T Deserialize<T>(string source)
 
 | 范围 | 描述 |
 | --- | --- |
-| T | 返回对象的类型 |
+| T | 返回对象类型 |
 | source | 包含对象的源序列化字符串 |
 
 ### 也可以看看

@@ -3,7 +3,7 @@ title: License
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يوفر طرقًا لترخيص المكون. تعرف على المزيد حول الترخيصهناhttps//purchase.groupdocs.com/faqs/licensing .
 type: docs
-weight: 1100
+weight: 1130
 url: /ar/net/groupdocs.signature/license/
 ---
 ## License class

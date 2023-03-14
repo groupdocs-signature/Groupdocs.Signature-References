@@ -3,7 +3,7 @@ title: SquareBorder
 second_title: GroupDocs.Signature لمرجع .NET API
 description: مثيل للاحتفاظ بخصائص خط الحدود لخط ختم مربع.
 type: docs
-weight: 860
+weight: 890
 url: /ar/net/groupdocs.signature.domain/squareborder/
 ---
 ## SquareBorder class

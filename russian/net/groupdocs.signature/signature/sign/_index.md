@@ -25,7 +25,7 @@ public SignResult Sign(Stream document, SignOptions signOptions)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о типах электронных подписей, поддерживаемых GroupDocs.Signature: [Типы электронных подписей, поддерживаемые GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Electronic+signature+types)
 * Подробнее о документах eSign на C#: [Как подписывать документы электронной подписью с помощью GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Signing)
@@ -42,7 +42,7 @@ public SignResult Sign(Stream document, SignOptions signOptions)
 
 ## Sign(Stream, SignOptions, SaveOptions) {#sign_1}
 
-Подписывает документ с помощью[`SignOptions`](../../../groupdocs.signature.options/signoptions) и сохраняет результат в поток с предопределенными[`SaveOptions`](../../../groupdocs.signature.options/saveoptions) .
+Подписывает документ с помощью[`SignOptions`](../../../groupdocs.signature.options/signoptions)и сохраняет результат в поток с предопределенными[`SaveOptions`](../../../groupdocs.signature.options/saveoptions) .
 
 ```csharp
 public SignResult Sign(Stream document, SignOptions signOptions, SaveOptions saveOptions)
@@ -60,7 +60,7 @@ public SignResult Sign(Stream document, SignOptions signOptions, SaveOptions sav
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о типах электронных подписей, поддерживаемых GroupDocs.Signature: [Типы электронных подписей, поддерживаемые GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Electronic+signature+types)
 * Подробнее о документах eSign на C#: [Как подписывать документы электронной подписью с помощью GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Signing)
@@ -96,7 +96,7 @@ public SignResult Sign(Stream document, List<SignOptions> signOptionsList)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о типах электронных подписей, поддерживаемых GroupDocs.Signature: [Типы электронных подписей, поддерживаемые GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Electronic+signature+types)
 * Подробнее о документах eSign на C#: [Как подписывать документы электронной подписью с помощью GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Signing)
@@ -113,7 +113,7 @@ public SignResult Sign(Stream document, List<SignOptions> signOptionsList)
 
 ## Sign(Stream, List&lt;SignOptions&gt;, SaveOptions) {#sign_3}
 
-Подписывает документ с коллекцией[`SignOptions`](../../../groupdocs.signature.options/signoptions) и сохраняет результат в поток с предопределенными[`SaveOptions`](../../../groupdocs.signature.options/saveoptions) .
+Подписывает документ с коллекцией[`SignOptions`](../../../groupdocs.signature.options/signoptions)и сохраняет результат в поток с предопределенными[`SaveOptions`](../../../groupdocs.signature.options/saveoptions) .
 
 ```csharp
 public SignResult Sign(Stream document, List<SignOptions> signOptionsList, SaveOptions saveOptions)
@@ -131,7 +131,7 @@ public SignResult Sign(Stream document, List<SignOptions> signOptionsList, SaveO
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о типах электронных подписей, поддерживаемых GroupDocs.Signature: [Типы электронных подписей, поддерживаемые GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Electronic+signature+types)
 * Подробнее о документах eSign на C#: [Как подписывать документы электронной подписью с помощью GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Signing)
@@ -167,7 +167,7 @@ public SignResult Sign(string filePath, SignOptions signOptions)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о типах электронных подписей, поддерживаемых GroupDocs.Signature: [Типы электронных подписей, поддерживаемые GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Electronic+signature+types)
 * Подробнее о документах eSign на C#: [Как подписывать документы электронной подписью с помощью GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Signing)
@@ -202,7 +202,7 @@ public SignResult Sign(string filePath, SignOptions signOptions, SaveOptions sav
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о типах электронных подписей, поддерживаемых GroupDocs.Signature: [Типы электронных подписей, поддерживаемые GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Electronic+signature+types)
 * Подробнее о документах eSign на C#: [Как подписывать документы электронной подписью с помощью GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Signing)
@@ -238,7 +238,7 @@ public SignResult Sign(string filePath, List<SignOptions> signOptionsList)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о типах электронных подписей, поддерживаемых GroupDocs.Signature: [Типы электронных подписей, поддерживаемые GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Electronic+signature+types)
 * Подробнее о документах eSign на C#: [Как подписывать документы электронной подписью с помощью GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Signing)
@@ -273,7 +273,7 @@ public SignResult Sign(string filePath, List<SignOptions> signOptionsList, SaveO
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о типах электронных подписей, поддерживаемых GroupDocs.Signature: [Типы электронных подписей, поддерживаемые GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Electronic+signature+types)
 * Подробнее о документах eSign на C#: [Как подписывать документы электронной подписью с помощью GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Signing)

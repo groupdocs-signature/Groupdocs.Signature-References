@@ -3,7 +3,7 @@ title: LoadOptions
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يسمح بتحديد خيارات إضافية مثل كلمة المرور عند فتح مستند للتوقيع.
 type: docs
-weight: 1390
+weight: 1470
 url: /ar/net/groupdocs.signature.options/loadoptions/
 ---
 ## LoadOptions class

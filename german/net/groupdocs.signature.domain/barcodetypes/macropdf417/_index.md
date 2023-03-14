@@ -3,7 +3,7 @@ title: MacroPdf417
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: MacroPdf417 BarcodeTypObjekt.
 type: docs
-weight: 390
+weight: 420
 url: /de/net/groupdocs.signature.domain/barcodetypes/macropdf417/
 ---
 ## BarcodeTypes.MacroPdf417 field

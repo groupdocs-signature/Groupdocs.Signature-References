@@ -3,7 +3,7 @@ title: StretchMode
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Stellt den Dehnungsmodus des Signaturbereichs auf einer Dokumentseite dar.
 type: docs
-weight: 920
+weight: 950
 url: /de/net/groupdocs.signature.domain/stretchmode/
 ---
 ## StretchMode enumeration

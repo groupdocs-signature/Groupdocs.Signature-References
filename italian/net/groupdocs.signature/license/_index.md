@@ -1,14 +1,14 @@
 ---
 title: License
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Fornisce i metodi per concedere in licenza il componente. Ulteriori informazioni sulle licenzequihttps//purchase.groupdocs.com/faqs/licensing .
+description: Fornisce i metodi per concedere in licenza il componente. Ulteriori informazioni sulle licenzeQuihttps//purchase.groupdocs.com/faqs/licensing .
 type: docs
-weight: 1100
+weight: 1130
 url: /it/net/groupdocs.signature/license/
 ---
 ## License class
 
-Fornisce i metodi per concedere in licenza il componente. Ulteriori informazioni sulle licenze[qui](https://purchase.groupdocs.com/faqs/licensing) .
+Fornisce i metodi per concedere in licenza il componente. Ulteriori informazioni sulle licenze[Qui](https://purchase.groupdocs.com/faqs/licensing) .
 
 ```csharp
 public sealed class License
@@ -18,7 +18,7 @@ public sealed class License
 
 | Nome | Descrizione |
 | --- | --- |
-| [License](license)() | Istanzia la licenza |
+| [License](license)() | Crea un'istanza della licenza |
 
 ## Metodi
 
@@ -29,10 +29,10 @@ public sealed class License
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sulla licenza: [Domande frequenti sulle licenze di GroupDocs](https://purchase.groupdocs.com/faqs/licensing)
-* Maggiori informazioni su GroupDocs.Licenza firma: [Limiti di valutazione e licenza](https://docs.groupdocs.com/display/signaturenet/Evaluation+Limitations+and+Licensing+of+GroupDocs.Signature)
+* Ulteriori informazioni sulla licenza GroupDocs.Signature: [Limiti di valutazione e licenza](https://docs.groupdocs.com/display/signaturenet/Evaluation+Limitations+and+Licensing+of+GroupDocs.Signature)
 
 ### Guarda anche
 

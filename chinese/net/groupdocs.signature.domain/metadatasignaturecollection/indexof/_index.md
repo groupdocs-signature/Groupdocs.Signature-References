@@ -16,11 +16,11 @@ public int IndexOf(string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | MetadataSignature 的不区分大小写的名称。 |
+| name | String | MetadataSignature 的名称不区分大小写。 |
 
 ### 返回值
 
-从零开始的索引。如果未找到，则为负值。
+零基指数。如果找不到则为负值。
 
 ### 也可以看看
 

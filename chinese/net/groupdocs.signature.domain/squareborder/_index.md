@@ -1,14 +1,14 @@
 ---
 title: SquareBorder
 second_title: GroupDocs.Signature for .NET API 参考
-description: 为方形印章线保留边界线属性的实例
+description: 为方形图章线保留边界线属性的实例
 type: docs
-weight: 860
+weight: 890
 url: /zh/net/groupdocs.signature.domain/squareborder/
 ---
 ## SquareBorder class
 
-为方形印章线保留边界线属性的实例。
+为方形图章线保留边界线属性的实例。
 
 ```csharp
 public class SquareBorder : Border
@@ -18,8 +18,8 @@ public class SquareBorder : Border
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SquareBorder](squareborder#constructor_1)(Corners) | 使用圆角半径值创建 SquareBorderLine。 |
-| [SquareBorder](squareborder#constructor)(double) | 创建圆角半径的 SquareBorderLine。 |
+| [SquareBorder](squareborder#constructor_1)(Corners) | 创建具有角半径值的 SquareBorderLine。 |
+| [SquareBorder](squareborder#constructor)(double) | 创建具有圆角半径的 SquareBorderLine。 |
 
 ## 特性
 
@@ -28,9 +28,9 @@ public class SquareBorder : Border
 | [Color](../../groupdocs.signature.domain/border/color) { get; set; } | 获取或设置签名的边框颜色。 |
 | [DashStyle](../../groupdocs.signature.domain/border/dashstyle) { get; set; } | 获取或设置签名边框样式。 |
 | [Radius](../../groupdocs.signature.domain/squareborder/radius) { get; set; } | 获取或设置方角的半径。 |
-| [Transparency](../../groupdocs.signature.domain/border/transparency) { get; set; } | 获取或设置签名边框透明度（值从 0.0（不透明）到 1.0（透明））。默认值为 0（不透明）。 |
+| [Transparency](../../groupdocs.signature.domain/border/transparency) { get; set; } | 获取或设置签名边框透明度（值从 0.0（不透明）到 1.0（透明））。默认值为 0（不透明）. |
 | [Visible](../../groupdocs.signature.domain/border/visible) { get; set; } | 获取或设置边框可见性。 |
-| [Weight](../../groupdocs.signature.domain/border/weight) { get; set; } | 获取或设置签名边框的权重。 |
+| [Weight](../../groupdocs.signature.domain/border/weight) { get; set; } | 获取或设置签名边框的粗细。 |
 
 ## 方法
 

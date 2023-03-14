@@ -1,14 +1,14 @@
 ---
 title: Completed
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Rappresenta il tempo di completamento del processo.
+description: Rappresenta il contrassegno temporale del completamento del processo.
 type: docs
 weight: 20
 url: /it/net/groupdocs.signature/processcompleteeventargs/completed/
 ---
 ## ProcessCompleteEventArgs.Completed property
 
-Rappresenta il tempo di completamento del processo.
+Rappresenta il contrassegno temporale del completamento del processo.
 
 ```csharp
 public DateTime Completed { get; set; }

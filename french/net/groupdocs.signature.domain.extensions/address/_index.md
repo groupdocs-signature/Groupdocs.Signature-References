@@ -3,7 +3,7 @@ title: Address
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Représente ladresse du contact.
 type: docs
-weight: 170
+weight: 180
 url: /fr/net/groupdocs.signature.domain.extensions/address/
 ---
 ## Address class

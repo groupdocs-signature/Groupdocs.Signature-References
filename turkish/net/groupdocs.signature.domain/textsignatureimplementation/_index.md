@@ -3,7 +3,7 @@ title: TextSignatureImplementation
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: PDF metin imzası için uygulama türünü belirtir.
 type: docs
-weight: 980
+weight: 1010
 url: /tr/net/groupdocs.signature.domain/textsignatureimplementation/
 ---
 ## TextSignatureImplementation enumeration

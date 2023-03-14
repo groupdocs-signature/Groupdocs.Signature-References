@@ -3,7 +3,7 @@ title: LinearGradientBrush
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Doğrusal degrade fırçayı temsil eder.
 type: docs
-weight: 270
+weight: 290
 url: /tr/net/groupdocs.signature.domain.extensions/lineargradientbrush/
 ---
 ## LinearGradientBrush class
@@ -18,7 +18,7 @@ public class LinearGradientBrush : Brush
 
 | İsim | Tanım |
 | --- | --- |
-| [LinearGradientBrush](lineargradientbrush#constructor)() | LinearGradientBrush sınıfının yeni bir örneğini varsayılan değerlerle başlatır. |
+| [LinearGradientBrush](lineargradientbrush#constructor)() | Varsayılan değerlerle LinearGradientBrush sınıfının yeni bir örneğini başlatır. |
 | [LinearGradientBrush](lineargradientbrush#constructor_1)(Color, Color, float) | LinearGradientBrush sınıfının yeni bir örneğini başlatır. |
 
 ## Özellikleri

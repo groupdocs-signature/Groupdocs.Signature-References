@@ -3,7 +3,7 @@ title: StampSignOptions
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل خيارات توقيع الطوابع.
 type: docs
-weight: 1630
+weight: 1710
 url: /ar/net/groupdocs.signature.options/stampsignoptions/
 ---
 ## StampSignOptions class

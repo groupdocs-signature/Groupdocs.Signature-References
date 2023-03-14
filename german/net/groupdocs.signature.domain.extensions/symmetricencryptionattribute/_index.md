@@ -3,7 +3,7 @@ title: SymmetricEncryptionAttribute
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Weist die Instanzserialisierung an die Objektserialisierungszeichenfolge zu verschlüsseln/entschlüsseln.
 type: docs
-weight: 370
+weight: 390
 url: /de/net/groupdocs.signature.domain.extensions/symmetricencryptionattribute/
 ---
 ## SymmetricEncryptionAttribute class

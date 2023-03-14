@@ -3,7 +3,7 @@ title: ProcessStatus
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Указывает статус процессов подписания и проверки.
 type: docs
-weight: 740
+weight: 770
 url: /ru/net/groupdocs.signature.domain/processstatus/
 ---
 ## ProcessStatus enumeration

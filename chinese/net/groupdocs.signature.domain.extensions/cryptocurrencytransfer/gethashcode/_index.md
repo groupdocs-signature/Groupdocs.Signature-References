@@ -16,7 +16,7 @@ public override int GetHashCode()
 
 ### 返回值
 
-加密货币转账哈希码
+加密货币转移哈希码
 
 ### 也可以看看
 

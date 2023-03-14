@@ -1,14 +1,14 @@
 ---
 title: DotCode
 second_title: GroupDocs.Signature for .NET API 参考
-description: DotCode 条形码类型对象
+description: DotCode 条码类型对象
 type: docs
 weight: 240
 url: /zh/net/groupdocs.signature.domain/barcodetypes/dotcode/
 ---
 ## BarcodeTypes.DotCode field
 
-DotCode 条形码类型对象。
+DotCode 条码类型对象。
 
 ```csharp
 public static readonly BarcodeType DotCode;

@@ -1,14 +1,14 @@
 ---
 title: SymmetricEncryption
 second_title: GroupDocs.Signature for .NET API 参考
-description: 使用单一密钥和密码盐实现数据加密的标准对称算法
+description: 使用单密钥和密码短语salt实现标准对称算法进行数据加密
 type: docs
-weight: 360
+weight: 380
 url: /zh/net/groupdocs.signature.domain.extensions/symmetricencryption/
 ---
 ## SymmetricEncryption class
 
-使用单一密钥和密码（盐）实现数据加密的标准对称算法。
+使用单密钥和密码短语（salt）实现标准对称算法进行数据加密。
 
 ```csharp
 public sealed class SymmetricEncryption : IDataEncryption
@@ -18,8 +18,8 @@ public sealed class SymmetricEncryption : IDataEncryption
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SymmetricEncryption](symmetricencryption#constructor)(SymmetricAlgorithmType, string) | 使用默认密码创建对称加密算法 |
-| [SymmetricEncryption](symmetricencryption#constructor_1)(SymmetricAlgorithmType, string, string) | 使用参数创建对称加密算法。 |
+| [SymmetricEncryption](symmetricencryption#constructor)(SymmetricAlgorithmType, string) | 使用默认密码短语 创建对称加密算法 |
+| [SymmetricEncryption](symmetricencryption#constructor_1)(SymmetricAlgorithmType, string, string) | 创建带参数的对称加密算法。 |
 
 ## 特性
 

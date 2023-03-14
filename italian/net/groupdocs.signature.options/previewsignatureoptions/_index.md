@@ -3,7 +3,7 @@ title: PreviewSignatureOptions
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Rappresenta le opzioni di anteprima della firma.
 type: docs
-weight: 1520
+weight: 1600
 url: /it/net/groupdocs.signature.options/previewsignatureoptions/
 ---
 ## PreviewSignatureOptions class
@@ -27,7 +27,7 @@ public class PreviewSignatureOptions
 | --- | --- |
 | [PreviewFormat](../../groupdocs.signature.options/previewsignatureoptions/previewformat) { get; set; } | Ottiene o imposta il formato delle immagini di anteprima. Il valore predefinito è PNG |
 | [SignatureId](../../groupdocs.signature.options/previewsignatureoptions/signatureid) { get; set; } | Valore univoco per distinguere la firma. Usa SignatureId per identificare le opzioni di anteprima. |
-| [SignOptions](../../groupdocs.signature.options/previewsignatureoptions/signoptions) { get; set; } | Opzioni di firma per la generazione dell'anteprima. |
+| [SignOptions](../../groupdocs.signature.options/previewsignatureoptions/signoptions) { get; set; } | Opzioni firma per generare anteprima. |
 
 ### Guarda anche
 

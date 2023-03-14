@@ -3,7 +3,7 @@ title: TSV
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل ملف القيم المفصولة بعلامات جدولة .tsv بيانات مفصولة بعلامات تبويب بتنسيق نص عادي. تعرف على المزيد حول تنسيق الملف هذاهناhttps//wiki.fileformat.com/spreadsheet/tsv .
 type: docs
-weight: 440
+weight: 450
 url: /ar/net/groupdocs.signature.domain/filetype/tsv/
 ---
 ## FileType.TSV field

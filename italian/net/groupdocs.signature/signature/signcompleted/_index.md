@@ -1,14 +1,14 @@
 ---
 title: SignCompleted
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Si verifica al completamento del processo di firma del documento.
+description: Si verifica quando il processo di firma del documento è completato.
 type: docs
 weight: 50
 url: /it/net/groupdocs.signature/signature/signcompleted/
 ---
 ## Signature.SignCompleted event
 
-Si verifica al completamento del processo di firma del documento.
+Si verifica quando il processo di firma del documento è completato.
 
 ```csharp
 public event ProcessCompleteEventHandler SignCompleted;

@@ -1,14 +1,14 @@
 ---
 title: VIN
 second_title: GroupDocs.Signature for .NET API 参考
-description: VIN 条形码类型对象
+description: VIN 条码类型对象
 type: docs
-weight: 630
+weight: 660
 url: /zh/net/groupdocs.signature.domain/barcodetypes/vin/
 ---
 ## BarcodeTypes.VIN field
 
-VIN 条形码类型对象。
+VIN 条码类型对象。
 
 ```csharp
 public static readonly BarcodeType VIN;

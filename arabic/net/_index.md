@@ -13,6 +13,7 @@ is_root: true
 | [GroupDocs.Signature](./groupdocs.signature) | توفر مساحة الاسم فئات لتوقيع المستندات بتنسيقات مختلفة باستخدام الطوابع والرموز الشريطية ورموز QR والنص والصورة والبيانات الوصفية وحقل النموذج والتوقيعات الرقمية. |
 | [GroupDocs.Signature.Domain](./groupdocs.signature.domain) | توفر مساحة الاسم فئات للعمل مع تمثيل المستند. |
 | [GroupDocs.Signature.Domain.Extensions](./groupdocs.signature.domain.extensions) | توفر مساحة الاسم امتدادات لظهور التوقيع والوظائف الإضافية. |
+| [GroupDocs.Signature.Logging](./groupdocs.signature.logging) | توفر مساحة الاسم فئات لأغراض التسجيل. |
 | [GroupDocs.Signature.Options](./groupdocs.signature.options) | توفر مساحة الاسم فئات لتحديد خيارات إضافية عند تحميل المستندات وتوقيعها والتحقق منها والبحث عنها وحفظها. |
 | [GroupDocs.Signature.Options.Appearances](./groupdocs.signature.options.appearances) | توفر مساحة الاسم فئات لظهور توقيع إضافي. |
 

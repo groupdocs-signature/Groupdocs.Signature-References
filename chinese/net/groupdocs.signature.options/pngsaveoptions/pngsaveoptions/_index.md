@@ -1,14 +1,14 @@
 ---
 title: PngSaveOptions
 second_title: GroupDocs.Signature for .NET API 参考
-description: 使用默认值创建 PngSaveOptions
+description: 使用默认值创建 PngSaveOptions.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.options/pngsaveoptions/pngsaveoptions/
 ---
 ## PngSaveOptions constructor
 
-使用默认值创建 PngSaveOptions。
+使用默认值创建 PngSaveOptions.
 
 ```csharp
 public PngSaveOptions()

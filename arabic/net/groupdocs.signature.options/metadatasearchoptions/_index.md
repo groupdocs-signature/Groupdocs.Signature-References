@@ -3,7 +3,7 @@ title: MetadataSearchOptions
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل خيارات البحث عن تواقيع البيانات الوصفية.
 type: docs
-weight: 1400
+weight: 1480
 url: /ar/net/groupdocs.signature.options/metadatasearchoptions/
 ---
 ## MetadataSearchOptions class

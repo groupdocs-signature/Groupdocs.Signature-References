@@ -3,7 +3,7 @@ title: MetadataSignature
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Contiene le proprietà della firma dei metadati.
 type: docs
-weight: 590
+weight: 610
 url: /it/net/groupdocs.signature.domain/metadatasignature/
 ---
 ## MetadataSignature class
@@ -30,6 +30,7 @@ public abstract class MetadataSignature : BaseSignature
 | [SignatureId](../../groupdocs.signature.domain/basesignature/signatureid) { get; } | Identificatore di firma univoco per modificare la firma nel documento tramite i metodi Update o Delete. Questa proprietà verrà impostata automaticamente dopo la chiamata al metodo Sign o Search. Se questa proprietà è stata salvata prima, può essere impostata manualmente per manipolare la firma. |
 | [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | Specifica il tipo di firma. |
 | [Top](../../groupdocs.signature.domain/basesignature/top) { get; set; } | Specifica la posizione superiore della firma. |
+| [Type](../../groupdocs.signature.domain/metadatasignature/type) { get; } | Specifica il tipo di valore dei metadati. |
 | [Value](../../groupdocs.signature.domain/metadatasignature/value) { get; set; } | Specifica l'oggetto dei metadati. |
 | [Width](../../groupdocs.signature.domain/basesignature/width) { get; set; } | Specifica la larghezza della firma. |
 
@@ -38,7 +39,7 @@ public abstract class MetadataSignature : BaseSignature
 | Nome | Descrizione |
 | --- | --- |
 | override [Clone](../../groupdocs.signature.domain/metadatasignature/clone#clone_1)() | Clona istanza firma metadati. |
-| virtual [Clone](../../groupdocs.signature.domain/metadatasignature/clone#clone)(object) | Clona l'istanza della firma dei metadati con il valore specificato. |
+| virtual [Clone](../../groupdocs.signature.domain/metadatasignature/clone#clone)(object) | Clona l'istanza della firma dei metadati con un determinato valore. |
 | override [Equals](../../groupdocs.signature.domain/metadatasignature/equals)(object) | Sovrascrive il metodo Equals per confrontare le proprietà della firma |
 | [GetData&lt;T&gt;](../../groupdocs.signature.domain/metadatasignature/getdata#getdata)() | Ottieni l'oggetto dal valore della firma dei metadati tramite la deserializzazione. |
 | [GetData&lt;T&gt;](../../groupdocs.signature.domain/metadatasignature/getdata#getdata_1)(IDataEncryption) | Ottieni l'oggetto dal testo della firma dei metadati tramite la deserializzazione. |

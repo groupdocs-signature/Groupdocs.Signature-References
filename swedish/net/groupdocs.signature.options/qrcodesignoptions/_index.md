@@ -3,7 +3,7 @@ title: QrCodeSignOptions
 second_title: GroupDocs.Signature för .NET API-referens
 description: Representerar QRkodsignaturalternativen.
 type: docs
-weight: 1550
+weight: 1630
 url: /sv/net/groupdocs.signature.options/qrcodesignoptions/
 ---
 ## QrCodeSignOptions class
@@ -39,7 +39,7 @@ public class QrCodeSignOptions : TextSignOptions
 | [Font](../../groupdocs.signature.options/textsignoptions/font) { get; set; } | Hämtar eller ställer in teckensnitt för signatur. |
 | override [ForeColor](../../groupdocs.signature.options/qrcodesignoptions/forecolor) { get; set; } | Hämtar eller ställer in framfärgen för QR-Code bars Användning av den här egenskapen kan orsaka problem med verifieringen. Använd den försiktigt. |
 | [FormTextFieldTitle](../../groupdocs.signature.options/textsignoptions/formtextfieldtitle) { get; set; } | Hämtar eller ställer in titeln på textformulärfältet för att lägga in textsignatur i det. Den här egenskapen kunde endast användas med SignatureImplementation = TextToFormField. |
-| [FormTextFieldType](../../groupdocs.signature.options/textsignoptions/formtextfieldtype) { get; set; } | Hämtar eller ställer in typen av formulärfält för att lägga textsignatur i det. Den här egenskapen kunde endast användas med SignatureImplementation = TextToFormField. Värdet som standard är AllTextTypes. |
+| [FormTextFieldType](../../groupdocs.signature.options/textsignoptions/formtextfieldtype) { get; set; } | Hämtar eller ställer in typen av formulärfält för att lägga in textsignatur i det. Den här egenskapen kunde endast användas med SignatureImplementation = TextToFormField. Värdet som standard är AllTextTypes. |
 | [Height](../../groupdocs.signature.options/textsignoptions/height) { get; set; } | Signaturhöjd på dokumentsida i måtten värden (pixlar, procent eller millimeter se[`MeasureType`](../../groupdocs.signature.domain/measuretype) SizeMeasureType-egenskap). |
 | [HorizontalAlignment](../../groupdocs.signature.options/textsignoptions/horizontalalignment) { get; set; } | Horisontell justering av signatur på dokumentsidan. |
 | [InnerMargins](../../groupdocs.signature.options/qrcodesignoptions/innermargins) { get; set; } | Hämtar eller ställer in utrymmet mellan QR-Code-element och resultatbildskanter. |
@@ -52,7 +52,7 @@ public class QrCodeSignOptions : TextSignOptions
 | [Native](../../groupdocs.signature.options/textsignoptions/native) { get; set; } | Hämtar eller ställer in det ursprungliga attributet. Om det är inställt kan dokumentspecifika signaturer användas. Inbyggd textvattenstämpel för WordProcessing-dokument skiljer sig till exempel från vanliga. |
 | virtual [PageNumber](../../groupdocs.signature.options/signoptions/pagenumber) { get; set; } | Hämtar eller ställer in dokumentets sidnummer för signering. Minimalt och standardvärdet är 1. |
 | virtual [PagesSetup](../../groupdocs.signature.options/signoptions/pagessetup) { get; set; } | Alternativ för att ange sidor som ska signeras. |
-| [ReturnContent](../../groupdocs.signature.options/qrcodesignoptions/returncontent) { get; set; } | Hämtar eller ställer in flagga för att få QR-kodbildinnehåll för en signatur som placerades på dokumentsidan. Om denna flagga är inställd på sann, kommer QR-kodsignaturbildinnehållet att behålla rå bilddata enligt önskat format[`ReturnContentType`](./returncontenttype) . Som standard är detta alternativ inaktiverat. |
+| [ReturnContent](../../groupdocs.signature.options/qrcodesignoptions/returncontent) { get; set; } | Hämtar eller ställer in flagga för att få QR-kodbildinnehåll för en signatur som placerades på dokumentsidan. Om denna flagga är satt till sann, kommer QR-kodsignaturbildinnehållet att behålla rå bilddata enligt önskat format[`ReturnContentType`](./returncontenttype) . Som standard är detta alternativ inaktiverat. |
 | [ReturnContentType](../../groupdocs.signature.options/qrcodesignoptions/returncontenttype) { get; set; } | Anger filtyp för returnerat bildinnehåll i QR-kodsignaturen när ReturnContent-egenskapen är aktiverad. Som standard är den inställd på Null. Det betyder att returnera QR-Code-bildinnehåll i originalformat. Detta bildformat anges på[`Format`](../../groupdocs.signature.domain/qrcodesignature/format) Möjliga värden som stöds är: FileType.JPEG, FileType.PNG, FileType.BMP. Om det angivna formatet inte stöds kommer bildinnehåll i QR-kod i .png-format att returneras. |
 | [RotationAngle](../../groupdocs.signature.options/textsignoptions/rotationangle) { get; set; } | Rotationsvinkel för signatur på dokumentsidan (medurs). |
 | [ShapeType](../../groupdocs.signature.options/textsignoptions/shapetype) { get; set; } | Hämtar eller ställer in typen av form för att lägga text. Den här egenskapen kunde endast användas med SignatureImplementation = TextStamp. Värdet är som standard Rectangle. |

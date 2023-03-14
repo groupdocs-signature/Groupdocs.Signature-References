@@ -3,7 +3,7 @@ title: XLTM
 second_title: GroupDocs.Signature för .NET API-referens
 description: Excel Office OpenXMLfilmall .xltm representerar Excelmallfilformat. Läs mer om detta filformathärhttps//wiki.fileformat.com/spreadsheet/xltm .
 type: docs
-weight: 560
+weight: 570
 url: /sv/net/groupdocs.signature.domain/filetype/xltm/
 ---
 ## FileType.XLTM field

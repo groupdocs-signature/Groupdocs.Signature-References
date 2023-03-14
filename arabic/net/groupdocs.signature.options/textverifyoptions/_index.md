@@ -3,7 +3,7 @@ title: TextVerifyOptions
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحتفظ بالخيارات للتحقق من توقيع المستند النصي .
 type: docs
-weight: 1660
+weight: 1740
 url: /ar/net/groupdocs.signature.options/textverifyoptions/
 ---
 ## TextVerifyOptions class

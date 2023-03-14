@@ -3,7 +3,7 @@ title: ISMN
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Objeto de tipo de código de barras ISMN.
 type: docs
-weight: 340
+weight: 370
 url: /es/net/groupdocs.signature.domain/barcodetypes/ismn/
 ---
 ## BarcodeTypes.ISMN field

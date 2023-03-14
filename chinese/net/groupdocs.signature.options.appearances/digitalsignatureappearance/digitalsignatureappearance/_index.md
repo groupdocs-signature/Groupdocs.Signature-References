@@ -24,7 +24,7 @@ public DigitalSignatureAppearance()
 
 ## DigitalSignatureAppearance(string, string, string) {#constructor_1}
 
-使用指定值（签名者、标题、电子邮件）创建签名行外观。
+创建具有指定值（签名者、职位、电子邮件）的签名行外观。
 
 ```csharp
 public DigitalSignatureAppearance(string signer, string title, string email)
@@ -32,7 +32,7 @@ public DigitalSignatureAppearance(string signer, string title, string email)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| signer | String | 签名者姓名。 |
+| signer | String | 签字人姓名。 |
 | title | String | 签名标题。 |
 | email | String | 作者的电子邮件。 |
 

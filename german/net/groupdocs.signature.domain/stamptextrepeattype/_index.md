@@ -3,7 +3,7 @@ title: StampTextRepeatType
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Gibt den Wiederholungstyp für Stempelzeilen an.
 type: docs
-weight: 890
+weight: 920
 url: /de/net/groupdocs.signature.domain/stamptextrepeattype/
 ---
 ## StampTextRepeatType enumeration

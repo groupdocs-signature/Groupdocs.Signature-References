@@ -3,7 +3,7 @@ title: MaxiCode
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Объект типа штрихкода MaxiCode.
 type: docs
-weight: 420
+weight: 450
 url: /ru/net/groupdocs.signature.domain/barcodetypes/maxicode/
 ---
 ## BarcodeTypes.MaxiCode field

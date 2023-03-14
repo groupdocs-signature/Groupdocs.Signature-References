@@ -3,7 +3,7 @@ title: SignOptions
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Stellt die Signaturoptionen dar.
 type: docs
-weight: 1610
+weight: 1690
 url: /de/net/groupdocs.signature.options/signoptions/
 ---
 ## SignOptions class
@@ -29,7 +29,7 @@ public abstract class SignOptions
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere einfache Beispiele zum Erstellen verschiedener elektronischer Signaturen mit GroupDocs.Signature: [Arten elektronischer Signaturen](https://docs.groupdocs.com/signature/net/electronic-signature-types/)
 * Siehe erweiterte Beispiele für Einstellungen verschiedener elektronischer Signaturen mit GroupDocs.Signature: [Fortgeschrittene Verwendung zum Erstellen verschiedener elektronischer Signaturen](https://docs.groupdocs.com/signature/net/signing/)

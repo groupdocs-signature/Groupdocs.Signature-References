@@ -3,7 +3,7 @@ title: FormFieldSignOptions
 second_title: GroupDocs.Signature för .NET API-referens
 description: Representerar klass av FormFields signaturalternativ för PDFdokument.
 type: docs
-weight: 1300
+weight: 1380
 url: /sv/net/groupdocs.signature.options/formfieldsignoptions/
 ---
 ## FormFieldSignOptions class
@@ -34,7 +34,7 @@ public sealed class FormFieldSignOptions : TextSignOptions
 | [Font](../../groupdocs.signature.options/textsignoptions/font) { get; set; } | Hämtar eller ställer in teckensnitt för signatur. |
 | virtual [ForeColor](../../groupdocs.signature.options/textsignoptions/forecolor) { get; set; } | Hämtar eller ställer in signaturens framfärg. |
 | [FormTextFieldTitle](../../groupdocs.signature.options/textsignoptions/formtextfieldtitle) { get; set; } | Hämtar eller ställer in titeln på textformulärfältet för att lägga in textsignatur i det. Den här egenskapen kunde endast användas med SignatureImplementation = TextToFormField. |
-| [FormTextFieldType](../../groupdocs.signature.options/textsignoptions/formtextfieldtype) { get; set; } | Hämtar eller ställer in typen av formulärfält för att lägga textsignatur i det. Den här egenskapen kunde endast användas med SignatureImplementation = TextToFormField. Värdet som standard är AllTextTypes. |
+| [FormTextFieldType](../../groupdocs.signature.options/textsignoptions/formtextfieldtype) { get; set; } | Hämtar eller ställer in typen av formulärfält för att lägga in textsignatur i det. Den här egenskapen kunde endast användas med SignatureImplementation = TextToFormField. Värdet som standard är AllTextTypes. |
 | [Height](../../groupdocs.signature.options/textsignoptions/height) { get; set; } | Signaturhöjd på dokumentsida i måtten värden (pixlar, procent eller millimeter se[`MeasureType`](../../groupdocs.signature.domain/measuretype) SizeMeasureType-egenskap). |
 | [HorizontalAlignment](../../groupdocs.signature.options/textsignoptions/horizontalalignment) { get; set; } | Horisontell justering av signatur på dokumentsidan. |
 | [Left](../../groupdocs.signature.options/textsignoptions/left) { get; set; } | Vänster X-position för signatur på dokumentsidan i Mätvärden (pixlar, procent eller millimeter se[`MeasureType`](../../groupdocs.signature.domain/measuretype) Egenskapen LocationMeasureType). (fungerar om horisontell justering inte anges). |

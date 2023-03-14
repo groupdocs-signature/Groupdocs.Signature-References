@@ -3,7 +3,7 @@ title: RadialGradientBrush
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Rappresenta il pennello sfumato radiale.
 type: docs
-weight: 290
+weight: 310
 url: /it/net/groupdocs.signature.domain.extensions/radialgradientbrush/
 ---
 ## RadialGradientBrush class

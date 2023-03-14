@@ -32,7 +32,7 @@ public FormFieldSignOptions(FormFieldSignature signature)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| signature | FormFieldSignature | Oggetto firma campo modulo |
+| signature | FormFieldSignature | Oggetto firma Campo modulo |
 
 ### Guarda anche
 

@@ -3,7 +3,7 @@ title: VerticalAlignment
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحدد المحاذاة الرأسية للعنصر في صفحة المستند.
 type: docs
-weight: 1030
+weight: 1060
 url: /ar/net/groupdocs.signature.domain/verticalalignment/
 ---
 ## VerticalAlignment enumeration

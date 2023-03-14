@@ -1,14 +1,14 @@
 ---
 title: PdfTextStickerAppearance
 second_title: GroupDocs.Signature for .NET API 参考
-description: 描述 PDF 文本注释贴纸对象的外观和贴纸弹出窗口
+description: 描述了PDF文本注释贴纸对象的外观和贴纸的弹出窗口
 type: docs
-weight: 1160
+weight: 1230
 url: /zh/net/groupdocs.signature.options.appearances/pdftextstickerappearance/
 ---
 ## PdfTextStickerAppearance class
 
-描述 PDF 文本注释贴纸对象的外观和贴纸弹出窗口。
+描述了PDF文本注释贴纸对象的外观和贴纸的弹出窗口。
 
 ```csharp
 public sealed class PdfTextStickerAppearance : SignatureAppearance
@@ -26,8 +26,8 @@ public sealed class PdfTextStickerAppearance : SignatureAppearance
 | --- | --- |
 | static [DefaultAppearance](../../groupdocs.signature.options.appearances/pdftextstickerappearance/defaultappearance) { get; } | 获取贴纸的默认外观。如果未指定 Options.SignatureAppearance 属性，则默认应用这些属性。 用户可以随时更改这些属性。 |
 | [Contents](../../groupdocs.signature.options.appearances/pdftextstickerappearance/contents) { get; set; } | 获取或设置弹出窗口的内容。 |
-| [Icon](../../groupdocs.signature.options.appearances/pdftextstickerappearance/icon) { get; set; } | 获取或设置贴纸的图标。 |
-| [Opened](../../groupdocs.signature.options.appearances/pdftextstickerappearance/opened) { get; set; } | 设置是否默认打开贴纸弹出窗口。 |
+| [Icon](../../groupdocs.signature.options.appearances/pdftextstickerappearance/icon) { get; set; } | 获取或设置贴纸图标。 |
+| [Opened](../../groupdocs.signature.options.appearances/pdftextstickerappearance/opened) { get; set; } | 设置是否默认打开贴纸弹出窗口. |
 | [Subject](../../groupdocs.signature.options.appearances/pdftextstickerappearance/subject) { get; set; } | 获取或设置主题。 |
 | [Title](../../groupdocs.signature.options.appearances/pdftextstickerappearance/title) { get; set; } | 获取或设置弹出窗口的标题。 |
 

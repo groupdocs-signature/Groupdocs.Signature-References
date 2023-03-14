@@ -1,14 +1,14 @@
 ---
 title: Signature
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置签名的FormField
+description: 获取或设置签名的FormField.
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.options/formfieldsignoptions/signature/
 ---
 ## FormFieldSignOptions.Signature property
 
-获取或设置签名的FormField。
+获取或设置签名的FormField.
 
 ```csharp
 public FormFieldSignature Signature { get; set; }

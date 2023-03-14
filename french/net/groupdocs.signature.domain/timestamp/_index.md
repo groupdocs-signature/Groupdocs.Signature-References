@@ -3,7 +3,7 @@ title: TimeStamp
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Représente les données pour obtenir lhorodatage dun site tiers.
 type: docs
-weight: 1000
+weight: 1030
 url: /fr/net/groupdocs.signature.domain/timestamp/
 ---
 ## TimeStamp structure

@@ -3,7 +3,7 @@ title: WordProcessingSaveFileFormat
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحدد تنسيقات ملفات حفظ مختلفة لمستندات معالجة Word.
 type: docs
-weight: 1050
+weight: 1080
 url: /ar/net/groupdocs.signature.domain/wordprocessingsavefileformat/
 ---
 ## WordProcessingSaveFileFormat enumeration

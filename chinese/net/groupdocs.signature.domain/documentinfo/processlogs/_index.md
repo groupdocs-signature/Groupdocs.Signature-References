@@ -1,14 +1,14 @@
 ---
 title: ProcessLogs
 second_title: GroupDocs.Signature for .NET API 参考
-description: 文档历史过程的集合如签名更新删除
+description: 文档历史记录过程的集合如签名更新删除
 type: docs
-weight: 110
+weight: 120
 url: /zh/net/groupdocs.signature.domain/documentinfo/processlogs/
 ---
 ## DocumentInfo.ProcessLogs property
 
-文档历史过程的集合，如签名、更新、删除。
+文档历史记录过程的集合，如签名、更新、删除。
 
 ```csharp
 public IList<ProcessLog> ProcessLogs { get; }

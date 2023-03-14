@@ -3,7 +3,7 @@ title: SSCC18
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Объект типа штрихкода SSCC18.
 type: docs
-weight: 560
+weight: 590
 url: /ru/net/groupdocs.signature.domain/barcodetypes/sscc18/
 ---
 ## BarcodeTypes.SSCC18 field

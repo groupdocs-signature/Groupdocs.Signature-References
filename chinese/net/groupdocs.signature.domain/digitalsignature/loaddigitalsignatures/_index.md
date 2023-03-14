@@ -28,7 +28,7 @@ public static List<DigitalSignature> LoadDigitalSignatures()
 
 ## LoadDigitalSignatures(StoreName) {#loaddigitalsignatures_1}
 
-从通过的 X509 证书存储中加载数字签名。
+从已通过的 X509 证书库加载数字签名。
 
 ```csharp
 public static List<DigitalSignature> LoadDigitalSignatures(StoreName storeName)
@@ -52,7 +52,7 @@ public static List<DigitalSignature> LoadDigitalSignatures(StoreName storeName)
 
 ## LoadDigitalSignatures(StoreName, StoreLocation) {#loaddigitalsignatures_2}
 
-从通过的 X509 证书存储中加载数字签名。
+从已通过的 X509 证书库加载数字签名。
 
 ```csharp
 public static List<DigitalSignature> LoadDigitalSignatures(StoreName storeName, 
@@ -62,7 +62,7 @@ public static List<DigitalSignature> LoadDigitalSignatures(StoreName storeName,
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | storeName | StoreName | 证书存储加载数字证书。 |
-| storeLocation | StoreLocation | 证书位置加载数字证书。 |
+| storeLocation | StoreLocation | 用于加载数字证书的证书位置。 |
 
 ### 返回值
 

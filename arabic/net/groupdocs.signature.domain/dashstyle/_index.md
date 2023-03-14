@@ -3,7 +3,7 @@ title: DashStyle
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل نمط خطوط رسم الشرطة على المستندات.
 type: docs
-weight: 110
+weight: 120
 url: /ar/net/groupdocs.signature.domain/dashstyle/
 ---
 ## DashStyle enumeration

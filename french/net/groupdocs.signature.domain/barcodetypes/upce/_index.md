@@ -3,7 +3,7 @@ title: UPCE
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Objet Type de codebarres du SEPC.
 type: docs
-weight: 620
+weight: 650
 url: /fr/net/groupdocs.signature.domain/barcodetypes/upce/
 ---
 ## BarcodeTypes.UPCE field

@@ -3,7 +3,7 @@ title: UpdateResult
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Risultato della modifica delle firme nel documento.
 type: docs
-weight: 1010
+weight: 1040
 url: /it/net/groupdocs.signature.domain/updateresult/
 ---
 ## UpdateResult class
@@ -18,8 +18,12 @@ public class UpdateResult : IResult
 
 | Nome | Descrizione |
 | --- | --- |
+| [DestinDocumentSize](../../groupdocs.signature.domain/updateresult/destindocumentsize) { get; } | Restituisce la dimensione del documento di destinazione |
 | [Failed](../../groupdocs.signature.domain/updateresult/failed) { get; } | Elenco delle firme che non sono state aggiornate[`BaseSignature`](../basesignature) . |
-| [Succeeded](../../groupdocs.signature.domain/updateresult/succeeded) { get; } | Elenco delle firme modificate correttamente[`BaseSignature`](../basesignature) . |
+| [ProcessingTime](../../groupdocs.signature.domain/updateresult/processingtime) { get; } | Restituisce il tempo di esecuzione del processo in millisecondi |
+| [SourceDocumentSize](../../groupdocs.signature.domain/updateresult/sourcedocumentsize) { get; } | Restituisce la dimensione del documento di origine |
+| [Succeeded](../../groupdocs.signature.domain/updateresult/succeeded) { get; } | Elenco delle firme modificate con successo[`BaseSignature`](../basesignature) . |
+| [TotalSignatures](../../groupdocs.signature.domain/updateresult/totalsignatures) { get; } | Restituisce il totale delle firme elaborate |
 
 ### Guarda anche
 

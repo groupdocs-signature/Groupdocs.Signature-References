@@ -3,7 +3,7 @@ title: Parse
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Возвращает тип штрихкода с именем pasringType. Если имя штрихкода неизвестно  будет выдано исключение.
 type: docs
-weight: 640
+weight: 670
 url: /ru/net/groupdocs.signature.domain/barcodetypes/parse/
 ---
 ## BarcodeTypes.Parse method

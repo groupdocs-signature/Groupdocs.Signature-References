@@ -3,7 +3,7 @@ title: Value
 second_title: GroupDocs.Signature لمرجع .NET API
 description: تحديد كائن البيانات الوصفية .
 type: docs
-weight: 30
+weight: 40
 url: /ar/net/groupdocs.signature.domain/metadatasignature/value/
 ---
 ## MetadataSignature.Value property

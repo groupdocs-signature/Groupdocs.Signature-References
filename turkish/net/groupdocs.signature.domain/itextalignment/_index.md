@@ -3,7 +3,7 @@ title: ITextAlignment
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Metin imzalarındaki metin için hizalama özelliklerini tanımlar.
 type: docs
-weight: 530
+weight: 550
 url: /tr/net/groupdocs.signature.domain/itextalignment/
 ---
 ## ITextAlignment interface

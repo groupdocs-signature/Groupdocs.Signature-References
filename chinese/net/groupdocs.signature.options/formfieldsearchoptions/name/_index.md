@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: GroupDocs.Signature for .NET API 参考
-description: 指定表单字段签名名称的正则表达式模式是否应该被搜索 您可以将其简单地用作文本或正则表达式如abcd默认值为空字符串
+description: 指定表单字段签名名称的正则表达式模式如果应搜索 您可以将它简单地用作文本或像abcd这样的正则表达式默认值为空字符串
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.options/formfieldsearchoptions/name/
 ---
 ## FormFieldSearchOptions.Name property
 
-指定表单字段签名名称的正则表达式模式是否应该被搜索。 您可以将其简单地用作“文本”或正则表达式，如“abc\d+”。默认值为空字符串。
+指定表单字段签名名称的正则表达式模式（如果应搜索）。 您可以将它简单地用作“文本”或像“abc\d+”这样的正则表达式。默认值为空字符串。
 
 ```csharp
 public string Name { get; set; }

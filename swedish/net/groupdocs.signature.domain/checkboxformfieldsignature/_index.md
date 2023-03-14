@@ -3,7 +3,7 @@ title: CheckboxFormFieldSignature
 second_title: GroupDocs.Signature för .NET API-referens
 description: Innehåller egenskaper för signatur för formulärfält för inmatning av kryssrutor.
 type: docs
-weight: 70
+weight: 80
 url: /sv/net/groupdocs.signature.domain/checkboxformfieldsignature/
 ---
 ## CheckboxFormFieldSignature class

@@ -3,7 +3,7 @@ title: MetadataSignature
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Contient les propriétés de signature des métadonnées.
 type: docs
-weight: 590
+weight: 610
 url: /fr/net/groupdocs.signature.domain/metadatasignature/
 ---
 ## MetadataSignature class
@@ -30,6 +30,7 @@ public abstract class MetadataSignature : BaseSignature
 | [SignatureId](../../groupdocs.signature.domain/basesignature/signatureid) { get; } | Identifiant de signature unique pour modifier la signature dans le document via les méthodes Update ou Delete. Cette propriété sera définie automatiquement après l'appel de la méthode Sign ou Search. Si cette propriété a été enregistrée avant de pouvoir être définie manuellement pour manipuler la signature. |
 | [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | Spécifie le type de signature. |
 | [Top](../../groupdocs.signature.domain/basesignature/top) { get; set; } | Spécifie la position supérieure de la signature. |
+| [Type](../../groupdocs.signature.domain/metadatasignature/type) { get; } | Spécifie le type de valeur de métadonnées. |
 | [Value](../../groupdocs.signature.domain/metadatasignature/value) { get; set; } | Spécifie l'objet de métadonnées. |
 | [Width](../../groupdocs.signature.domain/basesignature/width) { get; set; } | Spécifie la largeur de la signature. |
 

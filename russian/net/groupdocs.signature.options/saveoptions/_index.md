@@ -3,7 +3,7 @@ title: SaveOptions
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Позволяет указать дополнительные параметры например пароль при сохранении документа на подпись.
 type: docs
-weight: 1590
+weight: 1670
 url: /ru/net/groupdocs.signature.options/saveoptions/
 ---
 ## SaveOptions class

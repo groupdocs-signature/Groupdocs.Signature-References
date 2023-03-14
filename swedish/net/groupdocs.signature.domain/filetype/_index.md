@@ -3,7 +3,7 @@ title: FileType
 second_title: GroupDocs.Signature för .NET API-referens
 description: Representerar filtyp.
 type: docs
-weight: 430
+weight: 450
 url: /sv/net/groupdocs.signature.domain/filetype/
 ---
 ## FileType class
@@ -65,6 +65,7 @@ public sealed class FileType : IEquatable<FileType>
 | static readonly [OTT](../../groupdocs.signature.domain/filetype/ott) | OpenDocument Document Template (.ott) representerar malldokument som genereras av applikationer i enlighet med OASIS OpenDocument-standardformat. Läs mer om detta filformat[här](https://wiki.fileformat.com/word-processing/ott) . |
 | static readonly [PCL](../../groupdocs.signature.domain/filetype/pcl) | Skrivarkommandospråkdokument (.pcl) |
 | static readonly [PDF](../../groupdocs.signature.domain/filetype/pdf) | Portable Document Format File (.pdf) är en typ av dokument som skapades av Adobe redan på 1990-talet. Syftet med detta filformat var att införa en standard för representation av dokument och annat referensmaterial i ett format som är oberoende av applikationsprogramvara, hårdvara samt operativsystem. Läs mer om detta filformat[här](https://wiki.fileformat.com/view/pdf) . |
+| static readonly [PFX](../../groupdocs.signature.domain/filetype/pfx) | Scalable Vector Graphics File (.svg) är en Scalar Vector Graphics-fil som använder XML-baserat textformat för att beskriva utseendet på en bild. Läs mer om detta filformat[här](https://wiki.fileformat.com/page-description-language/svg) . |
 | static readonly [PNG](../../groupdocs.signature.domain/filetype/png) | Portable Network Graphic (.png) är en typ av rasterbildsfilformat som använder förlustfri komprimering. Det här filformatet skapades som en ersättning för Graphics Interchange Format (GIF) och har inga upphovsrättsliga begränsningar. Läs mer om detta filformat[här](https://wiki.fileformat.com/image/png) . |
 | static readonly [POT](../../groupdocs.signature.domain/filetype/pot) | PowerPoint-mall (.pot) representerar Microsoft PowerPoint-mallfiler skapade av PowerPoint 97-2003-versioner. Läs mer om detta filformat[här](https://wiki.fileformat.com/presentation/pot) . |
 | static readonly [POTM](../../groupdocs.signature.domain/filetype/potm) | PowerPoint Open XML Makro-aktiverad presentationsmall (.potm) är Microsoft PowerPoint-mallfiler med stöd för makron. POTM-filer skapas med PowerPoint 2007 eller senare och innehåller standardinställningar som kan användas för att skapa ytterligare presentationsfiler. Läs mer om detta filformat[här](https://wiki.fileformat.com/presentation/potm) . |

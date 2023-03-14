@@ -1,14 +1,14 @@
 ---
 title: PngFilterType
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: PNG resim filtresi türünü temsil eder.
+description: PNG görüntü filtre türünü temsil eder.
 type: docs
-weight: 1470
+weight: 1550
 url: /tr/net/groupdocs.signature.options/pngfiltertype/
 ---
 ## PngFilterType enumeration
 
-PNG resim filtresi türünü temsil eder.
+PNG görüntü filtre türünü temsil eder.
 
 ```csharp
 public enum PngFilterType
@@ -19,10 +19,10 @@ public enum PngFilterType
 | İsim | Değer | Tanım |
 | --- | --- | --- |
 | None | `0` | Boş filtre, görüntü veri satırları için filtreleme olmadığı anlamına gelir. |
-| Sub | `1` | Alt filtre, görüntü verilerine çıkarmalı filtreleme uygulanacağı anlamına gelir. |
+| Sub | `1` | Alt filtre, görüntü verilerine çıkarımlı filtreleme uygulanacağı anlamına gelir. |
 | Up | `2` | Yukarı filtre, satır satır çıkarma filtresinin uygulanacağı anlamına gelir. |
-| Avg | `3` | Avg filtresi, ortalama filtrenin görüntü verilerine uygulanacağı anlamına gelir. |
-| Paeth | `4` | Yol tahmincisi filtresi. |
+| Avg | `3` | avg filtresi, ortalama filtrenin görüntü verilerine uygulanacağı anlamına gelir. |
+| Paeth | `4` | Yol tahmin filtresi. |
 | Adaptive | `5` | Uyarlanabilir filtreleme, kaydetme işleminin her veri satırı için en uygun filter öğesini seçeceği anlamına gelir. En iyi sıkıştırma, en yavaş yürütme süresi. |
 
 ### Ayrıca bakınız

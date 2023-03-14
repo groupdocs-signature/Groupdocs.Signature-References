@@ -44,7 +44,7 @@ public DigitalSignOptions(string certificateFilePath)
 
 ## DigitalSignOptions(Stream) {#constructor_1}
 
-Inizializza una nuova istanza della classe DigitalSignOptions con flusso di certificati.
+Inizializza una nuova istanza della classe DigitalSignOptions con flusso di certificato.
 
 ```csharp
 public DigitalSignOptions(Stream certificateStream)
@@ -52,7 +52,7 @@ public DigitalSignOptions(Stream certificateStream)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| certificateStream | Stream | Flusso di certificati digitali |
+| certificateStream | Stream | Flusso del certificato digitale |
 
 ### Guarda anche
 
@@ -73,7 +73,7 @@ public DigitalSignOptions(string certificateFilePath, string imageFilePath)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | certificateFilePath | String | Percorso del file del certificato digitale |
-| imageFilePath | String | Firma Aspetto percorso del file immagine |
+| imageFilePath | String | Percorso del file immagine dell'aspetto della firma |
 
 ### Guarda anche
 
@@ -106,7 +106,7 @@ public DigitalSignOptions(string certificateFilePath, Stream appearenceImageStre
 
 ## DigitalSignOptions(Stream, string) {#constructor_3}
 
-Inizializza una nuova istanza della classe DigitalSignOptions con flusso di certificati e file immagine.
+Inizializza una nuova istanza della classe DigitalSignOptions con flusso di certificato e file immagine.
 
 ```csharp
 public DigitalSignOptions(Stream certificateStream, string imageFilePath)
@@ -114,8 +114,8 @@ public DigitalSignOptions(Stream certificateStream, string imageFilePath)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| certificateStream | Stream | Flusso di certificati digitali |
-| imageFilePath | String | Firma Aspetto percorso del file immagine |
+| certificateStream | Stream | Flusso del certificato digitale |
+| imageFilePath | String | Percorso del file immagine dell'aspetto della firma |
 
 ### Guarda anche
 
@@ -135,7 +135,7 @@ public DigitalSignOptions(Stream certificateStream, Stream appearenceImageStream
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| certificateStream | Stream | Flusso di certificati digitali |
+| certificateStream | Stream | Flusso del certificato digitale |
 | appearenceImageStream | Stream | Flusso di immagini dell'aspetto della firma |
 
 ### Guarda anche

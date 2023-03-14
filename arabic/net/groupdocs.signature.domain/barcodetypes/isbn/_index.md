@@ -3,7 +3,7 @@ title: ISBN
 second_title: GroupDocs.Signature لمرجع .NET API
 description: كائن نوع الرمز الشريطي لـ ISBN .
 type: docs
-weight: 330
+weight: 360
 url: /ar/net/groupdocs.signature.domain/barcodetypes/isbn/
 ---
 ## BarcodeTypes.ISBN field

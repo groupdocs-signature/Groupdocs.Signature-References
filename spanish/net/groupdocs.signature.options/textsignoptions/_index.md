@@ -3,7 +3,7 @@ title: TextSignOptions
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Representa las opciones de firma de texto.
 type: docs
-weight: 1650
+weight: 1730
 url: /es/net/groupdocs.signature.options/textsignoptions/
 ---
 ## TextSignOptions class

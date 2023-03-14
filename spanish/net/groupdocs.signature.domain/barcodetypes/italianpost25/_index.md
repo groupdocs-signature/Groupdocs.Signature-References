@@ -3,7 +3,7 @@ title: ItalianPost25
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Objeto de tipo de código de barras ItalianPost25.
 type: docs
-weight: 360
+weight: 390
 url: /es/net/groupdocs.signature.domain/barcodetypes/italianpost25/
 ---
 ## BarcodeTypes.ItalianPost25 field

@@ -1,14 +1,14 @@
 ---
 title: InnerBorder
 second_title: GroupDocs.Signature for .NET API 参考
-description: 设置内部边框.
+description: 设置内部边框
 type: docs
 weight: 50
 url: /zh/net/groupdocs.signature.domain/stampline/innerborder/
 ---
 ## StampLine.InnerBorder property
 
-设置内部边框.
+设置内部边框。
 
 ```csharp
 public Border InnerBorder { get; set; }

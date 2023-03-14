@@ -1,14 +1,14 @@
 ---
 title: DeutschePostLeitcode
 second_title: GroupDocs.Signature for .NET API 参考
-description: DeutschePostLeitcode 条形码类型对象
+description: DeutschePostLeitcode 条码类型对象
 type: docs
 weight: 230
 url: /zh/net/groupdocs.signature.domain/barcodetypes/deutschepostleitcode/
 ---
 ## BarcodeTypes.DeutschePostLeitcode field
 
-DeutschePostLeitcode 条形码类型对象。
+DeutschePostLeitcode 条码类型对象。
 
 ```csharp
 public static readonly BarcodeType DeutschePostLeitcode;

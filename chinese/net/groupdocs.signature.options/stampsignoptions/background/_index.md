@@ -1,14 +1,14 @@
 ---
 title: Background
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置图章背景
+description: 获取或设置 Stamp 背景
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.options/stampsignoptions/background/
 ---
 ## StampSignOptions.Background property
 
-获取或设置图章背景。
+获取或设置 Stamp 背景。
 
 ```csharp
 public Background Background { get; set; }

@@ -3,7 +3,7 @@ title: TextVerticalAlignment
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Specifica lallineamento verticale del testo allinterno di una firma.
 type: docs
-weight: 990
+weight: 1020
 url: /it/net/groupdocs.signature.domain/textverticalalignment/
 ---
 ## TextVerticalAlignment enumeration
@@ -18,9 +18,9 @@ public enum TextVerticalAlignment
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| Top | `1` | Specifica che il testo è allineato in alto alla base di allineamento verticale. |
-| Center | `2` | Specifica che il testo è centrato rispetto alla base di allineamento verticale. |
-| Bottom | `3` | Specifica che il testo è allineato in basso alla base di allineamento verticale. |
+| Top | `1` | Specifica che il testo è allineato in alto alla base dell'allineamento verticale. |
+| Center | `2` | Specifica che il testo è centrato rispetto alla base dell'allineamento verticale. |
+| Bottom | `3` | Specifica che il testo è allineato in basso alla base dell'allineamento verticale. |
 
 ### Guarda anche
 

@@ -1,14 +1,14 @@
 ---
 title: DigitalFormFieldSignature
 second_title: GroupDocs.Signature for .NET API 参考
-description: 使用预定义的名称创建 PdfDigitalFormFieldSignature
+description: 创建具有预定义名称的 PdfDigitalFormFieldSignature.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.domain/digitalformfieldsignature/digitalformfieldsignature/
 ---
 ## DigitalFormFieldSignature constructor
 
-使用预定义的名称创建 PdfDigitalFormFieldSignature。
+创建具有预定义名称的 PdfDigitalFormFieldSignature.
 
 ```csharp
 public DigitalFormFieldSignature(string name)

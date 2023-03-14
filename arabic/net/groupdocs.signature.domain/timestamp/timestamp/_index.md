@@ -17,7 +17,7 @@ public TimeStamp(string url, string user, string password)
 | معامل | يكتب | وصف |
 | --- | --- | --- |
 | url | String | عنوان URL لموقع جهة خارجية. |
-| user | String | المستعمل. |
+| user | String | مستخدم. |
 | password | String | كلمة المرور. |
 
 ### أنظر أيضا

@@ -1,14 +1,14 @@
 ---
 title: SMS
 second_title: GroupDocs.Signature for .NET API 参考
-description: 代表SMS短信服务详情
+description: 表示SMS短消息服务详情
 type: docs
-weight: 300
+weight: 320
 url: /zh/net/groupdocs.signature.domain.extensions/sms/
 ---
 ## SMS class
 
-代表SMS短信服务详情
+表示SMS短消息服务详情。
 
 ```csharp
 public class SMS
@@ -25,13 +25,13 @@ public class SMS
 | 姓名 | 描述 |
 | --- | --- |
 | [Message](../../groupdocs.signature.domain.extensions/sms/message) { get; set; } | 获取或设置短信内容。 |
-| [Number](../../groupdocs.signature.domain.extensions/sms/number) { get; set; } | 获取或设置短信接收方电话号码。 |
+| [Number](../../groupdocs.signature.domain.extensions/sms/number) { get; set; } | 获取或设置 SMS 收件人电话号码。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Equals](../../groupdocs.signature.domain.extensions/sms/equals)(object) | 覆盖 Equals 方法来比较 SMS 属性 |
+| override [Equals](../../groupdocs.signature.domain.extensions/sms/equals)(object) | 覆盖 Equals 方法以比较 SMS 属性 |
 | override [GetHashCode](../../groupdocs.signature.domain.extensions/sms/gethashcode)() | 覆盖 GetHashCode 方法 |
 
 ### 也可以看看

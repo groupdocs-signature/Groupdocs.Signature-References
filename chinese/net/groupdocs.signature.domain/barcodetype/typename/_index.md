@@ -1,14 +1,14 @@
 ---
 title: TypeName
 second_title: GroupDocs.Signature for .NET API 参考
-description: 条码类型名称.
+description: 条形码类型的名称
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.domain/barcodetype/typename/
 ---
 ## BarcodeType.TypeName property
 
-条码类型名称.
+条形码类型的名称。
 
 ```csharp
 public string TypeName { get; }

@@ -3,7 +3,7 @@ title: DigitalVerifyOptions
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Belgenin Dijital imzasını doğrulamak için seçenekleri korur.
 type: docs
-weight: 1270
+weight: 1350
 url: /tr/net/groupdocs.signature.options/digitalverifyoptions/
 ---
 ## DigitalVerifyOptions class
@@ -26,30 +26,30 @@ public class DigitalVerifyOptions : VerifyOptions
 
 | İsim | Tanım |
 | --- | --- |
-| [AllPages](../../groupdocs.signature.options/verifyoptions/allpages) { get; set; } | Her belge sayfasını doğrulamak için işaretleyin. Varsayılan değer true'dur. |
-| [Certificate](../../groupdocs.signature.options/digitalverifyoptions/certificate) { get; } | Sertifika Dosya Yolu veya Akıştan X509Certificate2 Sertifikası alın. |
+| [AllPages](../../groupdocs.signature.options/verifyoptions/allpages) { get; set; } | Her belge sayfasını doğrulamak için işaretleyin. Varsayılan değer olarak true. |
+| [Certificate](../../groupdocs.signature.options/digitalverifyoptions/certificate) { get; } | Sertifika FilePath veya Stream'den X509Certificate2 Sertifikasını Alın. |
 | [CertificateFilePath](../../groupdocs.signature.options/digitalverifyoptions/certificatefilepath) { get; set; } | Dijital Sertifikanın dosya yolu. |
 | [CertificateStream](../../groupdocs.signature.options/digitalverifyoptions/certificatestream) { get; set; } | Dijital Sertifika Akışı. |
-| [Comments](../../groupdocs.signature.options/digitalverifyoptions/comments) { get; set; } | Doğrulanacak Dijital İmzanın Yorumları. |
-| [Contact](../../groupdocs.signature.options/digitalverifyoptions/contact) { get; set; } | Doğrulanacak Kişi İmzası. |
+| [Comments](../../groupdocs.signature.options/digitalverifyoptions/comments) { get; set; } | Doğrulamak için Dijital İmza Yorumları. |
+| [Contact](../../groupdocs.signature.options/digitalverifyoptions/contact) { get; set; } | Doğrulanacak İmza İlgili Kişisi. |
 | [Extensions](../../groupdocs.signature.options/verifyoptions/extensions) { get; set; } | Alternatif imza seçenekleri doğrulaması için ek uzantılar. |
-| [IssuerName](../../groupdocs.signature.options/digitalverifyoptions/issuername) { get; set; } | Doğrulanacak sertifikanın veren adı. Değer büyük/küçük harf duyarlıdır. Bu özellik ayarlanırsa doğrulama, İmza'nın veren adının iletilen değeri içerip içermediğini kontrol eder |
+| [IssuerName](../../groupdocs.signature.options/digitalverifyoptions/issuername) { get; set; } | Doğrulanacak sertifikanın veren adı. Değer, büyük/küçük harfe duyarlıdır. Bu özellik ayarlanırsa doğrulama, İmza'nın veren adının geçen değeri içerip içermediğini veya bu değere eşit olup olmadığını kontrol eder |
 | [IsValid](../../groupdocs.signature.options/verifyoptions/isvalid) { get; } | Geçerli özellik bayrağı. |
 | [Location](../../groupdocs.signature.options/digitalverifyoptions/location) { get; set; } | Doğrulanacak İmza Konumu. |
-| virtual [PageNumber](../../groupdocs.signature.options/verifyoptions/pagenumber) { get; set; } | Doğrulanacak Belge Sayfa Numarası. Özellik ayarlanmazsa - Belgesinin tüm Sayfaları ilk oluşum için doğrulanır. Minimum değer 1. |
+| virtual [PageNumber](../../groupdocs.signature.options/verifyoptions/pagenumber) { get; set; } | Doğrulanacak Belge Sayfa Numarası. Özellik ayarlanmazsa - Belgesinin tüm Sayfaları ilk geçtiği için doğrulanacaktır. Minimum değer: 1. |
 | virtual [PagesSetup](../../groupdocs.signature.options/verifyoptions/pagessetup) { get; set; } | Doğrulanacak sayfaları belirtmek için Sayfa Seçenekleri. |
-| [Password](../../groupdocs.signature.options/digitalverifyoptions/password) { get; set; } | Gerekirse Dijital Sertifikanın Şifresi. |
-| [Reason](../../groupdocs.signature.options/digitalverifyoptions/reason) { get; set; } | Doğrulama için Dijital İmzanın Nedeni. |
-| [SignDateTimeFrom](../../groupdocs.signature.options/digitalverifyoptions/signdatetimefrom) { get; set; } | Doğrulanacak Dijital İmzanın tarih ve saat aralığı. Null yapılabilir değer yoksayılacak. |
-| [SignDateTimeTo](../../groupdocs.signature.options/digitalverifyoptions/signdatetimeto) { get; set; } | Doğrulanacak Dijital İmzanın tarih ve saat aralığı. Null yapılabilir değer yoksayılacak. |
-| [SubjectName](../../groupdocs.signature.options/digitalverifyoptions/subjectname) { get; set; } | Doğrulanacak sertifikanın konu ayırt edici adı. Değer büyük/küçük harf duyarlıdır. Bu özellik ayarlanırsa, doğrulama, İmza konu adının iletilen değeri içerip içermediğini kontrol eder |
+| [Password](../../groupdocs.signature.options/digitalverifyoptions/password) { get; set; } | Gerekirse Dijital Sertifika Şifresi. |
+| [Reason](../../groupdocs.signature.options/digitalverifyoptions/reason) { get; set; } | Dijital İmzanın doğrulanma nedeni. |
+| [SignDateTimeFrom](../../groupdocs.signature.options/digitalverifyoptions/signdatetimefrom) { get; set; } | Doğrulanacak Dijital İmzanın tarih ve zaman aralığı. Null yapılabilir değer yoksayılacak. |
+| [SignDateTimeTo](../../groupdocs.signature.options/digitalverifyoptions/signdatetimeto) { get; set; } | Doğrulanacak Dijital İmzanın tarih ve zaman aralığı. Null yapılabilir değer yoksayılacak. |
+| [SubjectName](../../groupdocs.signature.options/digitalverifyoptions/subjectname) { get; set; } | Doğrulanacak sertifikanın konu ayırt edici adı. Değer büyük/küçük harfe duyarlıdır. Bu özellik ayarlanırsa doğrulama, İmza konu adının geçen değeri içerip içermediğini veya ona eşit olup olmadığını kontrol eder |
 
 ### Notlar
 
 **Daha fazla bilgi edin**
 
-* GroupDocs tarafından Dijital elektronik imza için doğrulamanın temel kullanımı.İmza: [ Bir belgedeki dijital imzaları e-Doğrulama nasıl yapılır](https://docs.groupdocs.com/display/signaturenet/Verify+Digital+signatures+in+the+document)
-* GroupDocs ile Dijital elektronik imza için doğrulama ayarlarının gelişmiş kullanımı.İmza: [Bir belgede eVerification Dijital imzalarının gelişmiş kullanımı ve ek ayarlar]()
+* GroupDocs tarafından Dijital elektronik imza için doğrulamanın temel kullanımı. İmza: [ Bir belgedeki dijital imzaları e-Doğrulama](https://docs.groupdocs.com/display/signaturenet/Verify+Digital+signatures+in+the+document)
+* GroupDocs.Signature ile Dijital elektronik imza için doğrulama ayarlarının gelişmiş kullanımı: [Bir belgede eVerification Digital imzalarının gelişmiş kullanımı ve ek ayarlar]()
 
 ### Ayrıca bakınız
 

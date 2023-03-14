@@ -1,14 +1,14 @@
 ---
 title: Text
 second_title: GroupDocs.Signature for .NET API 参考
-description: 指定条形码的文本
+description: 指定条码的文本
 type: docs
 weight: 50
 url: /zh/net/groupdocs.signature.domain/barcodesignature/text/
 ---
 ## BarcodeSignature.Text property
 
-指定条形码的文本。
+指定条码的文本。
 
 ```csharp
 public string Text { get; }

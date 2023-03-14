@@ -3,7 +3,7 @@ title: Extension
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Суффикс имени файла включая точку . например .doc.
 type: docs
-weight: 580
+weight: 590
 url: /ru/net/groupdocs.signature.domain/filetype/extension/
 ---
 ## FileType.Extension property

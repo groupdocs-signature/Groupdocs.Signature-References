@@ -3,7 +3,7 @@ title: LinearGradientBrush
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет кисть линейного градиента.
 type: docs
-weight: 270
+weight: 290
 url: /ru/net/groupdocs.signature.domain.extensions/lineargradientbrush/
 ---
 ## LinearGradientBrush class

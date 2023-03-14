@@ -3,7 +3,7 @@ title: JpegCompressionColorMode
 second_title: GroupDocs.Signature för .NET API-referens
 description: Anger JPEGfärgkomprimeringslägen.
 type: docs
-weight: 1350
+weight: 1430
 url: /sv/net/groupdocs.signature.options/jpegcompressioncolormode/
 ---
 ## JpegCompressionColorMode enumeration

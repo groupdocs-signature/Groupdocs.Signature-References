@@ -17,7 +17,7 @@ public PdfMetadataSignature AddPdfSignature(string name, object value, string ta
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | name | String | 元数据签名对象的名称 |
-| value | Object | 元数据签名值 |
+| value | Object | 元数据签名的值 |
 | tag | String | 元数据签名的前缀标签 |
 
 ### 返回值

@@ -1,14 +1,14 @@
 ---
 title: DOT
 second_title: GroupDocs.Signature für .NET-API-Referenz
-description: WordDokumentvorlagen .dot sind von Microsoft Word erstellte Vorlagendateien mit vorformatierten Einstellungen für die Generierung weiterer DOC oder DOCXDateien. Erfahren Sie mehr über dieses Dateiformathierhttps//wiki.fileformat.com/wordprocessing/dot .
+description: WordDokumentvorlagen .dot sind von Microsoft Word erstellte Vorlagendateien mit vorformatierten Einstellungen für die Generierung weiterer DOC oder DOCXDateien. Erfahren Sie mehr über dieses DateiformatHierhttps//wiki.fileformat.com/wordprocessing/dot .
 type: docs
 weight: 110
 url: /de/net/groupdocs.signature.domain/filetype/dot/
 ---
 ## FileType.DOT field
 
-Word-Dokumentvorlagen (.dot) sind von Microsoft Word erstellte Vorlagendateien mit vorformatierten Einstellungen für die Generierung weiterer DOC- oder DOCX-Dateien. Erfahren Sie mehr über dieses Dateiformat[hier](https://wiki.fileformat.com/word-processing/dot) .
+Word-Dokumentvorlagen (.dot) sind von Microsoft Word erstellte Vorlagendateien mit vorformatierten Einstellungen für die Generierung weiterer DOC- oder DOCX-Dateien. Erfahren Sie mehr über dieses Dateiformat[Hier](https://wiki.fileformat.com/word-processing/dot) .
 
 ```csharp
 public static readonly FileType DOT;

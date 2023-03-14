@@ -1,14 +1,14 @@
 ---
 title: HorizontalAlignment
 second_title: GroupDocs.Signature für .NET-API-Referenz
-description: Horizontale Ausrichtung der Signatur auf der Dokumentenseite.
+description: Horizontale Ausrichtung der Signatur auf der Dokumentseite.
 type: docs
 weight: 90
 url: /de/net/groupdocs.signature.options/textsignoptions/horizontalalignment/
 ---
 ## TextSignOptions.HorizontalAlignment property
 
-Horizontale Ausrichtung der Signatur auf der Dokumentenseite.
+Horizontale Ausrichtung der Signatur auf der Dokumentseite.
 
 ```csharp
 public HorizontalAlignment HorizontalAlignment { get; set; }

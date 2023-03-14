@@ -1,14 +1,14 @@
 ---
 title: Comments
 second_title: GroupDocs.Signature for .NET API 参考
-description: 要搜索的数字签名的评论
+description: 要搜索的数字签名的注释
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.options/digitalsearchoptions/comments/
 ---
 ## DigitalSearchOptions.Comments property
 
-要搜索的数字签名的评论。
+要搜索的数字签名的注释。
 
 ```csharp
 public string Comments { get; set; }

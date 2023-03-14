@@ -3,7 +3,7 @@ title: RM4SCC
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: RM4SCC Barkod Türü nesnesi.
 type: docs
-weight: 530
+weight: 560
 url: /tr/net/groupdocs.signature.domain/barcodetypes/rm4scc/
 ---
 ## BarcodeTypes.RM4SCC field

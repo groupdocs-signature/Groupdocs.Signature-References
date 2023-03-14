@@ -1,14 +1,14 @@
 ---
 title: SymmetricEncryptionAttribute
 second_title: GroupDocs.Signature for .NET API 参考
-description: 指示实例序列化加密/解密对象序列化字符串
+description: 指示实例序列化以加密/解密对象序列化字符串
 type: docs
-weight: 370
+weight: 390
 url: /zh/net/groupdocs.signature.domain.extensions/symmetricencryptionattribute/
 ---
 ## SymmetricEncryptionAttribute class
 
-指示实例序列化加密/解密对象序列化字符串。
+指示实例序列化以加密/解密对象序列化字符串。
 
 ```csharp
 [AttributeUsage(AttributeTargets.Class | AttributeTargets.Struct)]
@@ -19,8 +19,8 @@ public sealed class SymmetricEncryptionAttribute : Attribute, IDataEncryption
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SymmetricEncryptionAttribute](symmetricencryptionattribute#constructor)(SymmetricAlgorithmType, string) | 使用参数和默认密码创建对称算法。 |
-| [SymmetricEncryptionAttribute](symmetricencryptionattribute#constructor_1)(SymmetricAlgorithmType, string, string) | 使用参数创建对称算法。 |
+| [SymmetricEncryptionAttribute](symmetricencryptionattribute#constructor)(SymmetricAlgorithmType, string) | 使用参数和默认密码短语创建对称算法。 |
+| [SymmetricEncryptionAttribute](symmetricencryptionattribute#constructor_1)(SymmetricAlgorithmType, string, string) | 创建带参数的对称算法。 |
 
 ## 方法
 

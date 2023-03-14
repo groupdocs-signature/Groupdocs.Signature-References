@@ -13,6 +13,7 @@ is_root: true
 | [GroupDocs.Signature](./groupdocs.signature) | L'espace de noms fournit des classes pour signer des documents de différents formats avec des tampons, des codes-barres, des codes QR, du texte, une image, des métadonnées, un champ de formulaire et des signatures numériques. |
 | [GroupDocs.Signature.Domain](./groupdocs.signature.domain) | L'espace de noms fournit des classes pour travailler avec la représentation de document. |
 | [GroupDocs.Signature.Domain.Extensions](./groupdocs.signature.domain.extensions) | L'espace de noms fournit des extensions pour les apparences de signature et des fonctionnalités supplémentaires. |
+| [GroupDocs.Signature.Logging](./groupdocs.signature.logging) | L'espace de noms fournit des classes à des fins de journalisation. |
 | [GroupDocs.Signature.Options](./groupdocs.signature.options) | L'espace de noms fournit des classes pour spécifier des options supplémentaires lors du chargement, de la signature, de la vérification, de la recherche et de l'enregistrement de documents. |
 | [GroupDocs.Signature.Options.Appearances](./groupdocs.signature.options.appearances) | L'espace de noms fournit des classes pour des apparences de signature supplémentaires. |
 

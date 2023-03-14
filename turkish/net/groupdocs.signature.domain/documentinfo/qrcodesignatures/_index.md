@@ -3,7 +3,7 @@ title: QrCodeSignatures
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Tarafından eklenen veya güncellenen belge QR kodu imzalarının toplanmasıSignaturegroupdocs.signature/signature yöntemler.
 type: docs
-weight: 120
+weight: 130
 url: /tr/net/groupdocs.signature.domain/documentinfo/qrcodesignatures/
 ---
 ## DocumentInfo.QrCodeSignatures property

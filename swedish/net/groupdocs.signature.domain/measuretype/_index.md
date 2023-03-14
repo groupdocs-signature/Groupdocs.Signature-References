@@ -3,7 +3,7 @@ title: MeasureType
 second_title: GroupDocs.Signature för .NET API-referens
 description: Anger signaturmått på en dokumentsida.
 type: docs
-weight: 580
+weight: 600
 url: /sv/net/groupdocs.signature.domain/measuretype/
 ---
 ## MeasureType enumeration

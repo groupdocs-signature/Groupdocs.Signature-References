@@ -17,7 +17,7 @@ public SymmetricEncryption(SymmetricAlgorithmType algorithmType, string key, str
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | algorithmType | SymmetricAlgorithmType | Specificare il tipo di algoritmo simmetrico |
-| key | String | Chiave di codifica |
+| key | String | Chiave crittografica |
 | salt | String | Passphrase per la crittografia |
 
 ### Guarda anche
@@ -40,7 +40,7 @@ public SymmetricEncryption(SymmetricAlgorithmType algorithmType, string key)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | algorithmType | SymmetricAlgorithmType | Specificare il tipo di algoritmo simmetrico |
-| key | String | Chiave di codifica |
+| key | String | Chiave crittografica |
 
 ### Guarda anche
 

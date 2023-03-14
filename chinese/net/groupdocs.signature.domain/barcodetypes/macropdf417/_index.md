@@ -1,14 +1,14 @@
 ---
 title: MacroPdf417
 second_title: GroupDocs.Signature for .NET API 参考
-description: MacroPdf417 条形码类型对象
+description: MacroPdf417 条码类型对象.
 type: docs
-weight: 390
+weight: 420
 url: /zh/net/groupdocs.signature.domain/barcodetypes/macropdf417/
 ---
 ## BarcodeTypes.MacroPdf417 field
 
-MacroPdf417 条形码类型对象。
+MacroPdf417 条码类型对象.
 
 ```csharp
 public static readonly BarcodeType MacroPdf417;

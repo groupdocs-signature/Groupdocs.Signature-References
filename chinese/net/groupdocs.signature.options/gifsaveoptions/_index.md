@@ -3,7 +3,7 @@ title: GifSaveOptions
 second_title: GroupDocs.Signature for .NET API 参考
 description: 图像文档的 Gif 格式保存选项
 type: docs
-weight: 1310
+weight: 1390
 url: /zh/net/groupdocs.signature.options/gifsaveoptions/
 ---
 ## GifSaveOptions class
@@ -18,24 +18,24 @@ public sealed class GifSaveOptions : ImageSaveOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GifSaveOptions](gifsaveoptions)() | 使用默认值创建 GifSaveOptions。 |
+| [GifSaveOptions](gifsaveoptions)() | 使用默认值创建 GifSaveOptions. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AddMissingExtenstion](../../groupdocs.signature.options/saveoptions/addmissingextenstion) { get; set; } | 获取或设置标志以在输出文件路径中缺少扩展名时自动添加扩展名 默认值为 false。 |
+| [AddMissingExtenstion](../../groupdocs.signature.options/saveoptions/addmissingextenstion) { get; set; } | 获取或设置标志以在输出文件路径中缺少扩展名时自动添加扩展名 path 默认值为 false. |
 | [BackgroundColorIndex](../../groupdocs.signature.options/gifsaveoptions/backgroundcolorindex) { get; set; } | 获取或设置 GIF 背景颜色索引。 |
 | [ColorResolution](../../groupdocs.signature.options/gifsaveoptions/colorresolution) { get; set; } | 获取或设置 GIF 颜色分辨率。 |
-| [DoPaletteCorrection](../../groupdocs.signature.options/gifsaveoptions/dopalettecorrection) { get; set; } | 获取或设置一个指示是否应用调色板校正的值。 |
+| [DoPaletteCorrection](../../groupdocs.signature.options/gifsaveoptions/dopalettecorrection) { get; set; } | 获取或设置一个值，指示是否应用调色板校正。 |
 | [FileFormat](../../groupdocs.signature.options/imagesaveoptions/fileformat) { get; set; } | 获取或设置签名文档的文件格式。 |
-| [HasTrailer](../../groupdocs.signature.options/gifsaveoptions/hastrailer) { get; set; } | 获取或设置一个值，表示 GIF 是否有预告片。 |
-| [Interlaced](../../groupdocs.signature.options/gifsaveoptions/interlaced) { get; set; } | 如果图像应该隔行扫描，则为真。 |
-| [IsPaletteSorted](../../groupdocs.signature.options/gifsaveoptions/ispalettesorted) { get; set; } | 获取或设置一个值，指示是否对调色板条目进行排序。 |
+| [HasTrailer](../../groupdocs.signature.options/gifsaveoptions/hastrailer) { get; set; } | 获取或设置一个值，指示 GIF 是否有预告片。 |
+| [Interlaced](../../groupdocs.signature.options/gifsaveoptions/interlaced) { get; set; } | 如果图像应该交错则为真。 |
+| [IsPaletteSorted](../../groupdocs.signature.options/gifsaveoptions/ispalettesorted) { get; set; } | 获取或设置一个值，该值指示调色板条目是否已排序。 |
 | [OverwriteExistingFiles](../../groupdocs.signature.options/saveoptions/overwriteexistingfiles) { get; set; } | 获取或设置是否用新的输出文件覆盖现有文件。 否则将创建以数字为后缀的新文件。 默认情况下，此值设置为 true，表示文件将被覆盖。 |
-| [Password](../../groupdocs.signature.options/saveoptions/password) { get; set; } | 获取或设置密码以保存带有密码保护的签名文档。 Image 文档不支持此属性。 |
+| [Password](../../groupdocs.signature.options/saveoptions/password) { get; set; } | 获取或设置密码以保存带密码保护的签名文档。 Image 文档不支持此属性。 |
 | [PixelAspectRatio](../../groupdocs.signature.options/gifsaveoptions/pixelaspectratio) { get; set; } | 获取或设置 GIF 像素纵横比。 |
-| [UseOriginalPassword](../../groupdocs.signature.options/saveoptions/useoriginalpassword) { get; set; } | 获取或设置是否使用 LoadOptions 中的密码将签名文档保存为受保护。 默认值为 true。 图片文档不支持此属性。 |
+| [UseOriginalPassword](../../groupdocs.signature.options/saveoptions/useoriginalpassword) { get; set; } | 获取或设置是否使用来自 LoadOptions 的密码将签名文档保存为受保护。 默认值为 true。 图像文档不支持此属性。 |
 
 ### 也可以看看
 

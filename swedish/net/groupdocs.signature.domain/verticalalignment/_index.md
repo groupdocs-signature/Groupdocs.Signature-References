@@ -3,7 +3,7 @@ title: VerticalAlignment
 second_title: GroupDocs.Signature för .NET API-referens
 description: Anger vertikal justering av element på en dokumentsida.
 type: docs
-weight: 1030
+weight: 1060
 url: /sv/net/groupdocs.signature.domain/verticalalignment/
 ---
 ## VerticalAlignment enumeration

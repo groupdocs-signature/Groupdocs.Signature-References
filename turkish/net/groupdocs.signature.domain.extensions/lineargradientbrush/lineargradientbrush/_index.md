@@ -1,14 +1,14 @@
 ---
 title: LinearGradientBrush
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: LinearGradientBrush sınıfının yeni bir örneğini varsayılan değerlerle başlatır.
+description: Varsayılan değerlerle LinearGradientBrush sınıfının yeni bir örneğini başlatır.
 type: docs
 weight: 10
 url: /tr/net/groupdocs.signature.domain.extensions/lineargradientbrush/lineargradientbrush/
 ---
 ## LinearGradientBrush() {#constructor}
 
-LinearGradientBrush sınıfının yeni bir örneğini varsayılan değerlerle başlatır.
+Varsayılan değerlerle LinearGradientBrush sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public LinearGradientBrush()

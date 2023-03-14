@@ -3,7 +3,7 @@ title: ProcessProgressEventHandler
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Stellt einen Methodendelegierten dar der Prozesse für Fortschrittsereignisse zum Signieren Verifizieren und Suchen verarbeitet.
 type: docs
-weight: 1770
+weight: 1850
 url: /de/net/groupdocs.signature/processprogresseventhandler/
 ---
 ## ProcessProgressEventHandler delegate

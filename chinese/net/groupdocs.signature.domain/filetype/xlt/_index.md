@@ -3,7 +3,7 @@ title: XLT
 second_title: GroupDocs.Signature for .NET API 参考
 description: Excel 二进制模板 .xlt 表示 Excel 模板文件格式 了解有关此文件格式的更多信息这里https//wiki.fileformat.com/spreadsheet/xlt
 type: docs
-weight: 550
+weight: 560
 url: /zh/net/groupdocs.signature.domain/filetype/xlt/
 ---
 ## FileType.XLT field

@@ -3,7 +3,7 @@ title: PageCount
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Anzahl der Dokumentseiten.
 type: docs
-weight: 90
+weight: 100
 url: /de/net/groupdocs.signature.domain/documentinfo/pagecount/
 ---
 ## DocumentInfo.PageCount property

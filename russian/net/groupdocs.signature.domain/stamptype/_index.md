@@ -3,7 +3,7 @@ title: StampType
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Задайте свойства типа штампа.
 type: docs
-weight: 900
+weight: 930
 url: /ru/net/groupdocs.signature.domain/stamptype/
 ---
 ## StampType class

@@ -3,7 +3,7 @@ title: ImageMetadataSignature
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحتوي على خصائص توقيع بيانات تعريف الصورة.
 type: docs
-weight: 550
+weight: 570
 url: /ar/net/groupdocs.signature.domain/imagemetadatasignature/
 ---
 ## ImageMetadataSignature class
@@ -39,6 +39,7 @@ public sealed class ImageMetadataSignature : MetadataSignature
 | [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | يحدد نوع التوقيع. |
 | [Size](../../groupdocs.signature.domain/imagemetadatasignature/size) { get; } | قيمة للقراءة فقط للحصول على حجم قيمة البيانات الوصفية |
 | [Top](../../groupdocs.signature.domain/basesignature/top) { get; set; } | يحدد أعلى موضع للتوقيع . |
+| [Type](../../groupdocs.signature.domain/metadatasignature/type) { get; } | يحدد نوع قيمة البيانات الوصفية . |
 | [Value](../../groupdocs.signature.domain/metadatasignature/value) { get; set; } | تحديد كائن البيانات الوصفية . |
 | [Width](../../groupdocs.signature.domain/basesignature/width) { get; set; } | يحدد عرض التوقيع. |
 

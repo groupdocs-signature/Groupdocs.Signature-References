@@ -1,14 +1,14 @@
 ---
 title: PPTX
 second_title: GroupDocs.Signature für .NET-API-Referenz
-description: PowerPoint Open XMLPräsentation .pptx sind Präsentationsdateien die mit der beliebten Microsoft PowerPointAnwendung erstellt wurden. Anders als die vorherige Version des Präsentationsdateiformats PPT die binär war basiert das PPTXFormat auf dem offenen XMLPräsentationsdateiformat von Microsoft PowerPoint. Erfahren Sie mehr über dieses Dateiformathierhttps//wiki.fileformat.com/presentation/pptx .
+description: PowerPoint Open XMLPräsentation .pptx sind Präsentationsdateien die mit der beliebten Microsoft PowerPointAnwendung erstellt wurden. Anders als die vorherige Version des Präsentationsdateiformats PPT die binär war basiert das PPTXFormat auf dem offenen XMLPräsentationsdateiformat von Microsoft PowerPoint. Erfahren Sie mehr über dieses DateiformatHierhttps//wiki.fileformat.com/presentation/pptx .
 type: docs
-weight: 370
+weight: 380
 url: /de/net/groupdocs.signature.domain/filetype/pptx/
 ---
 ## FileType.PPTX field
 
-PowerPoint Open XML-Präsentation (.pptx) sind Präsentationsdateien, die mit der beliebten Microsoft PowerPoint-Anwendung erstellt wurden. Anders als die vorherige Version des Präsentationsdateiformats PPT, die binär war, basiert das PPTX-Format auf dem offenen XML-Präsentationsdateiformat von Microsoft PowerPoint. Erfahren Sie mehr über dieses Dateiformat[hier](https://wiki.fileformat.com/presentation/pptx) .
+PowerPoint Open XML-Präsentation (.pptx) sind Präsentationsdateien, die mit der beliebten Microsoft PowerPoint-Anwendung erstellt wurden. Anders als die vorherige Version des Präsentationsdateiformats PPT, die binär war, basiert das PPTX-Format auf dem offenen XML-Präsentationsdateiformat von Microsoft PowerPoint. Erfahren Sie mehr über dieses Dateiformat[Hier](https://wiki.fileformat.com/presentation/pptx) .
 
 ```csharp
 public static readonly FileType PPTX;

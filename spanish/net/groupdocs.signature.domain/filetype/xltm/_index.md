@@ -3,7 +3,7 @@ title: XLTM
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Plantilla de archivo OpenXML de Excel Office .xltm representa el formato de archivo de plantilla de Excel. Más información sobre este formato de archivoaquíhttps//wiki.fileformat.com/spreadsheet/xltm .
 type: docs
-weight: 560
+weight: 570
 url: /es/net/groupdocs.signature.domain/filetype/xltm/
 ---
 ## FileType.XLTM field

@@ -3,7 +3,7 @@ title: Padding
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Element. ile ilişkili dolgu veya kenar boşluğu bilgilerini temsil eder.
 type: docs
-weight: 610
+weight: 640
 url: /tr/net/groupdocs.signature.domain/padding/
 ---
 ## Padding class

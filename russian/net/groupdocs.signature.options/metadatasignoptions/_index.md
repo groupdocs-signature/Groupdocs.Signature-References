@@ -3,7 +3,7 @@ title: MetadataSignOptions
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет параметры подписи метаданных.
 type: docs
-weight: 1410
+weight: 1490
 url: /ru/net/groupdocs.signature.options/metadatasignoptions/
 ---
 ## MetadataSignOptions class
@@ -46,7 +46,7 @@ public class MetadataSignOptions : SignOptions
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Основное использование создания электронной подписи метаданных с помощью GroupDocs.Signature: [Как подписать документ электронной подписью с подписью метаданных](https://docs.groupdocs.com/display/signaturenet/eSign+document+with+Metadata+signature)
 * Расширенное использование настроек электронной подписи метаданных с GroupDocs.Signature: [Расширенное использование документа eSign с подписью метаданных и дополнительными настройками](https://docs.groupdocs.com/display/signaturenet/Sign+document+with+Metadata+signature+-+advanced)

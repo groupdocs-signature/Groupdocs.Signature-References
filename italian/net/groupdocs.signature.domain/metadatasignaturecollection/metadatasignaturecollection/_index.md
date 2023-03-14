@@ -1,14 +1,14 @@
 ---
 title: MetadataSignatureCollection
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Crea raccolta di firme di metadati.
+description: Crea la raccolta della firma dei metadati.
 type: docs
 weight: 10
 url: /it/net/groupdocs.signature.domain/metadatasignaturecollection/metadatasignaturecollection/
 ---
 ## MetadataSignatureCollection constructor
 
-Crea raccolta di firme di metadati.
+Crea la raccolta della firma dei metadati.
 
 ```csharp
 public MetadataSignatureCollection()

@@ -3,7 +3,7 @@ title: Pharmacode
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Фармацевтический код Объект типа штрихкода.
 type: docs
-weight: 490
+weight: 520
 url: /ru/net/groupdocs.signature.domain/barcodetypes/pharmacode/
 ---
 ## BarcodeTypes.Pharmacode field

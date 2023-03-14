@@ -3,7 +3,7 @@ title: GroupDocs.Signature.Options.Appearances
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Lespace de noms fournit des classes pour des apparences de signature supplémentaires.
 type: docs
-weight: 50
+weight: 60
 url: /fr/net/groupdocs.signature.options.appearances/
 ---
 L'espace de noms fournit des classes pour des apparences de signature supplémentaires.

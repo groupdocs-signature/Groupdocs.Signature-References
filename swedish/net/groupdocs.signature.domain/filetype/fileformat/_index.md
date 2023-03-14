@@ -3,7 +3,7 @@ title: FileFormat
 second_title: GroupDocs.Signature för .NET API-referens
 description: Filtypsnamn t.ex. Microsoft Word Document.
 type: docs
-weight: 590
+weight: 600
 url: /sv/net/groupdocs.signature.domain/filetype/fileformat/
 ---
 ## FileType.FileFormat property

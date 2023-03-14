@@ -1,14 +1,14 @@
 ---
 title: ReleaseSignatureStream
 second_title: GroupDocs.Signature for .NET API 参考
-description: 定义释放输出签名预览流的方法的委托
+description: 定义释放输出签名预览流方法的委托
 type: docs
-weight: 1580
+weight: 1660
 url: /zh/net/groupdocs.signature.options/releasesignaturestream/
 ---
 ## ReleaseSignatureStream delegate
 
-定义释放输出签名预览流的方法的委托。
+定义释放输出签名预览流方法的委托。
 
 ```csharp
 public delegate void ReleaseSignatureStream(PreviewSignatureOptions previewOptions, 

@@ -3,7 +3,7 @@ title: PPSM
 second_title: GroupDocs.Signature för .NET API-referens
 description: PowerPoint Open XML MacroEnabled Slide .ppsm representerar Macroenabled Slide Showfilformat skapat med Microsoft PowerPoint 2007 eller högre. Läs mer om detta filformathärhttps//wiki.fileformat.com/presentation/ppsm .
 type: docs
-weight: 330
+weight: 340
 url: /sv/net/groupdocs.signature.domain/filetype/ppsm/
 ---
 ## FileType.PPSM field

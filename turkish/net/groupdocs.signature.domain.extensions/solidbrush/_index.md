@@ -3,7 +3,7 @@ title: SolidBrush
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Düz fırçayı temsil eder. Arka plan rengi özelliği yerine kullanılabilir.
 type: docs
-weight: 330
+weight: 350
 url: /tr/net/groupdocs.signature.domain.extensions/solidbrush/
 ---
 ## SolidBrush class

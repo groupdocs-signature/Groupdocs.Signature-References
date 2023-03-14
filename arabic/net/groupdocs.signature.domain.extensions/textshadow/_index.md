@@ -3,7 +3,7 @@ title: TextShadow
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل خصائص ظل النص لتوقيعات النص . قد تختلف النتيجة اعتمادًا على نوع التوقيع وتنسيق المستند. يوصى باستخدام TextShadow للاستخدام مع توقيع TextAsImage لجميع أنواع المستندات المدعومة  أيضًا مع توقيع نص بسيط وتوقيع نص كعلامة مائية لجداول البيانات  .xslx والعروض التقديمية .pptx . يوصى أيضًا بتوقيع نص بسيط للكلمات .docx  ولكن له وظائف محدودة.
 type: docs
-weight: 380
+weight: 400
 url: /ar/net/groupdocs.signature.domain.extensions/textshadow/
 ---
 ## TextShadow class

@@ -3,7 +3,7 @@ title: DigitalSignOptions
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Représente les options de signature numérique.
 type: docs
-weight: 1260
+weight: 1340
 url: /fr/net/groupdocs.signature.options/digitalsignoptions/
 ---
 ## DigitalSignOptions class

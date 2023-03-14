@@ -1,14 +1,14 @@
 ---
 title: SignatureType
 second_title: GroupDocs.Signature for .NET API 参考
-description: 为签名验证搜索更新删除等各种进程定义支持的签名类型
+description: 为签名验证搜索更新删除等各种流程定义支持的签名类型
 type: docs
-weight: 830
+weight: 860
 url: /zh/net/groupdocs.signature.domain/signaturetype/
 ---
 ## SignatureType enumeration
 
-为签名、验证、搜索、更新、删除等各种进程定义支持的签名类型
+为签名、验证、搜索、更新、删除等各种流程定义支持的签名类型
 
 ```csharp
 public enum SignatureType
@@ -18,11 +18,11 @@ public enum SignatureType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Unknown | `0` | 指示错误、未知的签名类型。 |
+| Unknown | `0` | 指示错误，未知签名类型。 |
 | Text | `1` | 文本签名类型 |
 | Image | `2` | 图像签名类型 |
-| Barcode | `3` | 条码签名类型 |
-| QrCode | `4` | 二维码签名类型 |
+| Barcode | `3` | 条形码签名类型 |
+| QrCode | `4` | QR码签名类型 |
 | Stamp | `5` | 邮票签名类型 |
 | Metadata | `6` | 元数据签名类型 |
 | FormField | `7` | FormField 签名类型 |

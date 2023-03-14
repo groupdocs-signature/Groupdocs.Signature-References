@@ -3,7 +3,7 @@ title: MetadataSignOptions
 second_title: GroupDocs.Signature for .NET API 参考
 description: 表示元数据签名选项
 type: docs
-weight: 1410
+weight: 1490
 url: /zh/net/groupdocs.signature.options/metadatasignoptions/
 ---
 ## MetadataSignOptions class
@@ -19,22 +19,22 @@ public class MetadataSignOptions : SignOptions
 | 姓名 | 描述 |
 | --- | --- |
 | [MetadataSignOptions](metadatasignoptions#constructor)() | 使用默认值初始化 MetadataSignOptions 类的新实例。 |
-| [MetadataSignOptions](metadatasignoptions#constructor_1)(IEnumerable&lt;MetadataSignature&gt;) | 使用 Metadata 初始化 MetadataSignOptions 类的新实例。 |
+| [MetadataSignOptions](metadatasignoptions#constructor_1)(IEnumerable&lt;MetadataSignature&gt;) | 使用元数据初始化 MetadataSignOptions 类的新实例。 |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| virtual [AllPages](../../groupdocs.signature.options/signoptions/allpages) { get; set; } | 在所有文档页面上签名。 |
-| [Appearance](../../groupdocs.signature.options/signoptions/appearance) { get; set; } | 附加签名外观。 |
-| [DataEncryption](../../groupdocs.signature.options/metadatasignoptions/dataencryption) { get; set; } | 获取或设置的实现[`IDataEncryption`](../../groupdocs.signature.domain.extensions/idataencryption)使用此选项集合加密所有元数据签名的接口。 如果设置了此值，所有添加的签名将默认使用此加密，如果已分配，则使用其自己的 DataEncryption。 |
+| virtual [AllPages](../../groupdocs.signature.options/signoptions/allpages) { get; set; } | 在所有文件页上签名。 |
+| [Appearance](../../groupdocs.signature.options/signoptions/appearance) { get; set; } | 附加签名外观. |
+| [DataEncryption](../../groupdocs.signature.options/metadatasignoptions/dataencryption) { get; set; } | 获取或设置的实现[`IDataEncryption`](../../groupdocs.signature.domain.extensions/idataencryption)使用此选项集合加密所有元数据签名的接口。 如果设置此值，所有添加的签名将默认使用此加密或它自己的 DataEncryption（如果已分配）。 |
 | [DocumentType](../../groupdocs.signature.options/signoptions/documenttype) { get; set; } | 获取或设置签名选项的文档类型[`DocumentType`](../../groupdocs.signature.domain/documenttype) |
-| [Extensions](../../groupdocs.signature.options/signoptions/extensions) { get; } | 签名扩展。 |
-| virtual [PageNumber](../../groupdocs.signature.options/signoptions/pagenumber) { get; set; } | 获取或设置用于签名的文档页码。 最小值，默认值为 1。 |
+| [Extensions](../../groupdocs.signature.options/signoptions/extensions) { get; } | 签名扩展. |
+| virtual [PageNumber](../../groupdocs.signature.options/signoptions/pagenumber) { get; set; } | 获取或设置用于签名的文档页码。 最小值，默认值为 1. |
 | virtual [PagesSetup](../../groupdocs.signature.options/signoptions/pagessetup) { get; set; } | 用于指定要签名的页面的选项。 |
 | [Signatures](../../groupdocs.signature.options/metadatasignoptions/signatures) { get; set; } | 获取或设置签名元数据。 |
 | [SignatureType](../../groupdocs.signature.options/signoptions/signaturetype) { get; } | 获取签名类型[`SignatureType`](../../groupdocs.signature.domain/signaturetype) |
-| [ZOrder](../../groupdocs.signature.options/signoptions/zorder) { get; set; } | 获取或设置文本签名的Z-order位置。 确定重叠签名的显示顺序。 |
+| [ZOrder](../../groupdocs.signature.options/signoptions/zorder) { get; set; } | 获取或设置文本签名的 Z 序位置。 确定重叠签名的显示顺序。 |
 
 ## 方法
 
@@ -46,10 +46,10 @@ public class MetadataSignOptions : SignOptions
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* GroupDocs.Signature创建元数据电子签名的基本用法： [如何使用元数据签名对文档进行电子签名](https://docs.groupdocs.com/display/signaturenet/eSign+document+with+Metadata+signature)
-* 元数据电子签名设置的高级用法与 GroupDocs.Signature: [具有元数据签名和其他设置的电子签名文档的高级用法](https://docs.groupdocs.com/display/signaturenet/Sign+document+with+Metadata+signature+-+advanced)
+* GroupDocs.Signature: 创建元数据电子签名的基本用法[如何使用元数据签名对文档进行电子签名](https://docs.groupdocs.com/display/signaturenet/eSign+document+with+Metadata+signature)
+* GroupDocs元数据电子签名设置的高级用法。签名： [具有元数据签名和其他设置的 eSign 文档的高级用法](https://docs.groupdocs.com/display/signaturenet/Sign+document+with+Metadata+signature+-+advanced)
 
 ### 也可以看看
 

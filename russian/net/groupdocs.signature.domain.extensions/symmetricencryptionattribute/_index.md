@@ -3,7 +3,7 @@ title: SymmetricEncryptionAttribute
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Инструктирует сериализацию экземпляров для шифрования/дешифрования строки сериализации объекта.
 type: docs
-weight: 370
+weight: 390
 url: /ru/net/groupdocs.signature.domain.extensions/symmetricencryptionattribute/
 ---
 ## SymmetricEncryptionAttribute class

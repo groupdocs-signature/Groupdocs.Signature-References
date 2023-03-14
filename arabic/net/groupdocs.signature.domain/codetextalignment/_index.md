@@ -3,7 +3,7 @@ title: CodeTextAlignment
 second_title: GroupDocs.Signature لمرجع .NET API
 description: محاذاة نص الكود للرموز الشريطية ورموز QR .
 type: docs
-weight: 80
+weight: 90
 url: /ar/net/groupdocs.signature.domain/codetextalignment/
 ---
 ## CodeTextAlignment enumeration

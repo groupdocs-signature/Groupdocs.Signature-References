@@ -3,7 +3,7 @@ title: License
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Предоставляет методы лицензирования компонента. Узнать больше о лицензированииздесьhttps//purchase.groupdocs.com/faqs/licensing .
 type: docs
-weight: 1100
+weight: 1130
 url: /ru/net/groupdocs.signature/license/
 ---
 ## License class
@@ -29,7 +29,7 @@ public sealed class License
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о лицензировании: [Часто задаваемые вопросы о лицензировании GroupDocs](https://purchase.groupdocs.com/faqs/licensing)
 * Подробнее о лицензировании GroupDocs.Signature: [Ограничения оценки и лицензирование](https://docs.groupdocs.com/display/signaturenet/Evaluation+Limitations+and+Licensing+of+GroupDocs.Signature)

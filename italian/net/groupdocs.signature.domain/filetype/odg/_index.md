@@ -1,14 +1,14 @@
 ---
 title: ODG
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Il file grafico OpenDocument .odg viene utilizzato dallapplicazione Draw di Apache OpenOffice per memorizzare gli elementi del disegno come immagine vettoriale. Ulteriori informazioni su questo formato di filequihttps//wiki.fileformat.com/image/odg .
+description: Il file grafico OpenDocument .odg viene utilizzato dallapplicazione Draw di Apache OpenOffice per memorizzare gli elementi del disegno come immagine vettoriale. Ulteriori informazioni su questo formato di fileQuihttps//wiki.fileformat.com/image/odg .
 type: docs
 weight: 190
 url: /it/net/groupdocs.signature.domain/filetype/odg/
 ---
 ## FileType.ODG field
 
-Il file grafico OpenDocument (.odg) viene utilizzato dall'applicazione Draw di Apache OpenOffice per memorizzare gli elementi del disegno come immagine vettoriale. Ulteriori informazioni su questo formato di file[qui](https://wiki.fileformat.com/image/odg) .
+Il file grafico OpenDocument (.odg) viene utilizzato dall'applicazione Draw di Apache OpenOffice per memorizzare gli elementi del disegno come immagine vettoriale. Ulteriori informazioni su questo formato di file[Qui](https://wiki.fileformat.com/image/odg) .
 
 ```csharp
 public static readonly FileType ODG;

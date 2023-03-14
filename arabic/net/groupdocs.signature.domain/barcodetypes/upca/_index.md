@@ -3,7 +3,7 @@ title: UPCA
 second_title: GroupDocs.Signature لمرجع .NET API
 description: كائن نوع الرمز الشريطي لـ UPCA .
 type: docs
-weight: 590
+weight: 620
 url: /ar/net/groupdocs.signature.domain/barcodetypes/upca/
 ---
 ## BarcodeTypes.UPCA field

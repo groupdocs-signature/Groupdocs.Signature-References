@@ -1,14 +1,14 @@
 ---
 title: Started
 second_title: GroupDocs.Signature for .NET API 参考
-description: 表示进程启动的时间标记
+description: 表示进程开始的时间标记
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature/processstarteventargs/started/
 ---
 ## ProcessStartEventArgs.Started property
 
-表示进程启动的时间标记。
+表示进程开始的时间标记。
 
 ```csharp
 public DateTime Started { get; set; }

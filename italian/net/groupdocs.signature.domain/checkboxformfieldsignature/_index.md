@@ -3,7 +3,7 @@ title: CheckboxFormFieldSignature
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Contiene le proprietà della firma del campo del modulo di input della casella di controllo.
 type: docs
-weight: 70
+weight: 80
 url: /it/net/groupdocs.signature.domain/checkboxformfieldsignature/
 ---
 ## CheckboxFormFieldSignature class
@@ -18,14 +18,14 @@ public sealed class CheckboxFormFieldSignature : FormFieldSignature
 
 | Nome | Descrizione |
 | --- | --- |
-| [CheckboxFormFieldSignature](checkboxformfieldsignature#constructor)(string) | Crea checkboxFormFieldSignature con nome predefinito. |
-| [CheckboxFormFieldSignature](checkboxformfieldsignature#constructor_1)(string, bool) | Crea checkboxFormFieldSignature con nome e valore predefiniti |
+| [CheckboxFormFieldSignature](checkboxformfieldsignature#constructor)(string) | Crea CheckboxFormFieldSignature con nome predefinito. |
+| [CheckboxFormFieldSignature](checkboxformfieldsignature#constructor_1)(string, bool) | Crea CheckboxFormFieldSignature con nome e valore predefiniti |
 
 ## Proprietà
 
 | Nome | Descrizione |
 | --- | --- |
-| [Checked](../../groupdocs.signature.domain/checkboxformfieldsignature/checked) { get; set; } | Ottiene o imposta il valore controllato dell'input della casella di controllo del campo modulo. |
+| [Checked](../../groupdocs.signature.domain/checkboxformfieldsignature/checked) { get; set; } | Ottiene o imposta il valore verificato dell'input della casella di controllo del campo del modulo. |
 | [CreatedOn](../../groupdocs.signature.domain/basesignature/createdon) { get; set; } | Ottieni o imposta la data di creazione della firma. |
 | [Deleted](../../groupdocs.signature.domain/basesignature/deleted) { get; } | Ottieni il flag che indica se questa firma è stata eliminata dal documento. Questa proprietà viene utilizzata solo per i record del registro cronologico del documento per conservare l'elenco delle firme eliminate. |
 | [Height](../../groupdocs.signature.domain/basesignature/height) { get; set; } | Specifica l'altezza della segnatura. |
@@ -45,7 +45,7 @@ public sealed class CheckboxFormFieldSignature : FormFieldSignature
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Clone](../../groupdocs.signature.domain/checkboxformfieldsignature/clone)() | Clona istanza di firma FormField. |
+| override [Clone](../../groupdocs.signature.domain/checkboxformfieldsignature/clone)() | Clona istanza Firma FormField. |
 | override [Equals](../../groupdocs.signature.domain/checkboxformfieldsignature/equals)(object) | Sovrascrive il metodo Equals per confrontare le proprietà della firma |
 | override [GetHashCode](../../groupdocs.signature.domain/checkboxformfieldsignature/gethashcode)() | Sostituisce il metodo GetHashCode |
 

@@ -3,7 +3,7 @@ title: TextHorizontalAlignment
 second_title: GroupDocs.Signature for .NET API 参考
 description: 指定签名内的文本水平对齐方式
 type: docs
-weight: 940
+weight: 970
 url: /zh/net/groupdocs.signature.domain/texthorizontalalignment/
 ---
 ## TextHorizontalAlignment enumeration
@@ -20,7 +20,7 @@ public enum TextHorizontalAlignment
 | --- | --- | --- |
 | Left | `1` | 指定文本左对齐到水平对齐基准。 |
 | Center | `2` | 指定文本以水平对齐基准为中心。 |
-| Right | `3` | 指定文本与水平对齐基准右对齐。 |
+| Right | `3` | 指定文本右对齐到水平对齐基准。 |
 
 ### 也可以看看
 

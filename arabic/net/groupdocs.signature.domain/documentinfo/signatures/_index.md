@@ -3,7 +3,7 @@ title: Signatures
 second_title: GroupDocs.Signature لمرجع .NET API
 description: تجميع توقيعات المستندات بجميع أنواعهاBaseSignaturegroupdocs.signature.domain/basesignature .
 type: docs
-weight: 130
+weight: 140
 url: /ar/net/groupdocs.signature.domain/documentinfo/signatures/
 ---
 ## DocumentInfo.Signatures property

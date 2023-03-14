@@ -3,7 +3,7 @@ title: TextShapeType
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Metin şekli türlerini belirtir.
 type: docs
-weight: 960
+weight: 990
 url: /tr/net/groupdocs.signature.domain/textshapetype/
 ---
 ## TextShapeType enumeration
@@ -82,15 +82,15 @@ public enum TextShapeType
 | WedgeRRectCallout | `62` | WedgeRRectCallout. |
 | WedgeEllipseCallout | `63` | WedgeEllipseCallout. |
 | Wave | `64` | Dalga. |
-| FoldedCorner | `65` | Katlanmış Köşe. |
+| FoldedCorner | `65` | KatlanmışKöşe. |
 | LeftArrow | `66` | LeftArrow. |
 | DownArrow | `67` | Aşağı Ok. |
-| UpArrow | `68` | Yukarı Ok. |
+| UpArrow | `68` | UpArrow. |
 | LeftRightArrow | `69` | LeftRightArrow. |
 | UpDownArrow | `70` | UpDownArrow. |
-| IrregularSeal1 | `71` | DüzensizSeal1. |
-| IrregularSeal2 | `72` | DüzensizSeal2. |
-| LightningBolt | `73` | Şimşek. |
+| IrregularSeal1 | `71` | Düzensiz Mühür1. |
+| IrregularSeal2 | `72` | Düzensiz Mühür2. |
+| LightningBolt | `73` | LightningBolt. |
 | Heart | `74` | Kalp. |
 | Image | `75` | Resim. |
 | QuadArrow | `76` | QuadArrow. |
@@ -110,54 +110,54 @@ public enum TextShapeType
 | BentUpArrow | `90` | BentUpArrow. |
 | BentArrow | `91` | BentArrow. |
 | Seal24 | `92` | Mühür24. |
-| StripedRightArrow | `93` | ÇizgiliSağ Ok. |
+| StripedRightArrow | `93` | StripedRightArrow. |
 | NotchedRightArrow | `94` | NotchedRightArrow. |
 | BlockArc | `95` | BlockArc. |
 | SmileyFace | `96` | SmileyFace. |
 | VerticalScroll | `97` | VerticalScroll. |
-| HorizontalScroll | `98` | HorizontalScroll. |
+| HorizontalScroll | `98` | Yatay Kaydırma. |
 | CircularArrow | `99` | Dairesel Ok. |
 | UturnArrow | `101` | UturnArrow. |
-| CurvedRightArrow | `102` | EğriSağArrow. |
-| CurvedLeftArrow | `103` | EğriSol Ok. |
+| CurvedRightArrow | `102` | CurvedRightArrow. |
+| CurvedLeftArrow | `103` | CurvedLeftArrow. |
 | CurvedUpArrow | `104` | CurvedUpArrow. |
 | CurvedDownArrow | `105` | CurvedDownArrow. |
 | CloudCallout | `106` | CloudCallout. |
-| EllipseRibbon | `107` | ElipsRibbon. |
+| EllipseRibbon | `107` | EllipseRibbon. |
 | EllipseRibbon2 | `108` | EllipseRibbon2. |
-| FlowChartProcess | `109` | Akış Şeması Süreci. |
+| FlowChartProcess | `109` | Akış ŞemasıSüreci. |
 | FlowChartDecision | `110` | Akış Şeması Kararı. |
 | FlowChartInputOutput | `111` | FlowChartInputOutput. |
-| FlowChartPredefinedProcess | `112` | Akış ŞemasıÖnceden TanımlıSüreç. |
+| FlowChartPredefinedProcess | `112` | FlowChartPredefinedProcess. |
 | FlowChartInternalStorage | `113` | FlowChartInternalStorage. |
-| FlowChartDocument | `114` | Akış Şeması Belgesi. |
+| FlowChartDocument | `114` | FlowChartDocument. |
 | FlowChartMultidocument | `115` | FlowChartMultidocument. |
-| FlowChartTerminator | `116` | Akış ŞemasıTerminatör. |
+| FlowChartTerminator | `116` | FlowChartTerminator. |
 | FlowChartPreparation | `117` | Akış Şeması Hazırlığı. |
 | FlowChartManualInput | `118` | FlowChartManualInput. |
-| FlowChartManualOperation | `119` | Akış ŞemasıManuelİşlem. |
-| FlowChartConnector | `120` | Akış Şeması Bağlayıcı. |
-| FlowChartPunchedCard | `121` | Akış Şeması Delikli Kart. |
-| FlowChartPunchedTape | `122` | Akış Şeması DelinmişTape. |
-| FlowChartSummingJunction | `123` | Akış ŞemasıSummingJunction. |
-| FlowChartOr | `124` | Akış ŞemasıOr. |
-| FlowChartCollate | `125` | Akış Şeması Harmanla. |
-| FlowChartSort | `126` | Akış ŞemasıSıralama. |
-| FlowChartExtract | `127` | Akış Şeması Özü. |
-| FlowChartMerge | `128` | Akış ŞemasıÇevrimdışıDepolama. |
-| FlowChartOfflineStorage | `129` | Akış ŞemasıÇevrimdışıDepolama. |
+| FlowChartManualOperation | `119` | FlowChartManualOperation. |
+| FlowChartConnector | `120` | FlowChartConnector. |
+| FlowChartPunchedCard | `121` | FlowChartPunchedCard. |
+| FlowChartPunchedTape | `122` | FlowChartPunchedTape. |
+| FlowChartSummingJunction | `123` | FlowChartSummingJunction. |
+| FlowChartOr | `124` | Akış ŞemasıVeya. |
+| FlowChartCollate | `125` | FlowChartCollate. |
+| FlowChartSort | `126` | FlowChartSort. |
+| FlowChartExtract | `127` | FlowChartExtract. |
+| FlowChartMerge | `128` | FlowChartOfflineStorage. |
+| FlowChartOfflineStorage | `129` | FlowChartOfflineStorage. |
 | FlowChartOnlineStorage | `130` | FlowChartOnlineStorage. |
-| FlowChartMagneticTape | `131` | Akış ŞemasıManyetik Bant. |
-| FlowChartMagneticDisk | `132` | Akış ŞemasıManyetikDisk. |
-| FlowChartMagneticDrum | `133` | Akış ŞemasıManyetikDrum. |
-| FlowChartDisplay | `134` | Akış Şeması Ekranı. |
+| FlowChartMagneticTape | `131` | FlowChartMagneticTape. |
+| FlowChartMagneticDisk | `132` | FlowChartMagneticDisk. |
+| FlowChartMagneticDrum | `133` | FlowChartMagneticDrum. |
+| FlowChartDisplay | `134` | FlowChartDisplay. |
 | FlowChartDelay | `135` | Akış Şeması Gecikmesi. |
-| TextPlainText | `136` | TextPlainText. |
-| TextStop | `137` | TextStop. |
+| TextPlainText | `136` | MetinDüzText. |
+| TextStop | `137` | MetinDurdur. |
 | TextTriangle | `138` | MetinÜçgeni. |
 | TextTriangleInverted | `139` | MetinTriangleTers. |
 | TextChevron | `140` | MetinChevron. |
-| TextChevronInverted | `141` | MetinChevronInverted. |
+| TextChevronInverted | `141` | TextChevronInverted. |
 | TextRingInside | `142` | TextRingInside. |
 | TextRingOutside | `143` | TextRingOutside. |
 | TextArchUpCurve | `144` | TextArchUpCurve. |
@@ -171,7 +171,7 @@ public enum TextShapeType
 | TextCurveUp | `152` | TextCurveUp. |
 | TextCurveDown | `153` | TextCurveDown. |
 | TextCascadeUp | `154` | TextCascadeUp. |
-| TextCascadeDown | `155` | TextCascadeDown. |
+| TextCascadeDown | `155` | MetinCascadeDown. |
 | TextWave1 | `156` | TextWave1. |
 | TextWave2 | `157` | TextWave2. |
 | TextWave3 | `158` | TextWave3. |
@@ -184,10 +184,10 @@ public enum TextShapeType
 | TextDeflateTop | `165` | TextDeflateTop. |
 | TextDeflateInflate | `166` | TextDeflateInflate. |
 | TextDeflateInflateDeflate | `167` | TextDeflateInflateDeflate. |
-| TextFadeRight | `168` | MetinSolmaSağ. |
-| TextFadeLeft | `169` | MetinSoluk Sol. |
+| TextFadeRight | `168` | TextFadeRight. |
+| TextFadeLeft | `169` | TextFadeLeft. |
 | TextFadeUp | `170` | TextFadeUp. |
-| TextFadeDown | `171` | TextFadeDown. |
+| TextFadeDown | `171` | MetinFadeDown. |
 | TextSlantUp | `172` | TextSlantUp. |
 | TextSlantDown | `173` | MetinEğimAşağı. |
 | TextCanUp | `174` | TextCanUp. |

@@ -1,14 +1,14 @@
 ---
 title: PPTM
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: PowerPoint Açık XML Makro Etkin Sunum Microsoft PowerPoint 2007 veya daha yüksek sürümleriyle oluşturulan Makro Etkin Sunum dosyalarıdır. Bu dosya biçimi hakkında daha fazla bilgi edininburadahttps//wiki.fileformat.com/presentation/pptm .
+description: PowerPoint Açık XML Makro Etkin Sunum Microsoft PowerPoint 2007 veya daha yüksek sürümlerle oluşturulan Makro özellikli Sunum dosyalarıdır. Bu dosya formatı hakkında daha fazla bilgi edininBuradahttps//wiki.fileformat.com/presentation/pptm .
 type: docs
-weight: 360
+weight: 370
 url: /tr/net/groupdocs.signature.domain/filetype/pptm/
 ---
 ## FileType.PPTM field
 
-PowerPoint Açık XML Makro Etkin Sunum, Microsoft PowerPoint 2007 veya daha yüksek sürümleriyle oluşturulan Makro Etkin Sunum dosyalarıdır. Bu dosya biçimi hakkında daha fazla bilgi edinin[burada](https://wiki.fileformat.com/presentation/pptm) .
+PowerPoint Açık XML Makro Etkin Sunum, Microsoft PowerPoint 2007 veya daha yüksek sürümlerle oluşturulan Makro özellikli Sunum dosyalarıdır. Bu dosya formatı hakkında daha fazla bilgi edinin[Burada](https://wiki.fileformat.com/presentation/pptm) .
 
 ```csharp
 public static readonly FileType PPTM;

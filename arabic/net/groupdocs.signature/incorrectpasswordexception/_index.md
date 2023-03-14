@@ -3,7 +3,7 @@ title: IncorrectPasswordException
 second_title: GroupDocs.Signature لمرجع .NET API
 description: الاستثناء الذي يظهر عندما تكون كلمة المرور المحددة غير صحيحة.
 type: docs
-weight: 1090
+weight: 1120
 url: /ar/net/groupdocs.signature/incorrectpasswordexception/
 ---
 ## IncorrectPasswordException class

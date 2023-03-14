@@ -3,7 +3,7 @@ title: JpegCompressionMode
 second_title: GroupDocs.Signature for .NET API 参考
 description: 指定 JPEG 压缩模式
 type: docs
-weight: 1360
+weight: 1440
 url: /zh/net/groupdocs.signature.options/jpegcompressionmode/
 ---
 ## JpegCompressionMode enumeration
@@ -20,8 +20,8 @@ public enum JpegCompressionMode
 | --- | --- | --- |
 | Baseline | `0` | 基线压缩。 |
 | Progressive | `1` | 渐进式压缩。 |
-| Lossless | `2` | 无损压缩。请谨慎使用此压缩类型，因为 许多图像查看器不支持它。如果您使用它，请尝试分配 [`ColorType`](../jpegsaveoptions/colortype)财产Grayscale 或Rgb价值观。 |
-| JpegLs | `3` | JPEG-LS 压缩。请谨慎使用此压缩类型，因为 许多图像查看器不支持它。如果您使用它，请尝试分配 [`ColorType`](../jpegsaveoptions/colortype)财产Grayscale 值。 |
+| Lossless | `2` | 无损压缩。谨慎使用这种压缩类型，因为 许多图像查看器不支持它。如果您使用它，请尝试分配 [`ColorType`](../jpegsaveoptions/colortype)财产给Grayscale 或Rgb值。 |
+| JpegLs | `3` | JPEG-LS 压缩。谨慎使用这种压缩类型，因为 许多图像查看器不支持它。如果您使用它，请尝试分配 [`ColorType`](../jpegsaveoptions/colortype)财产给Grayscale 值。 |
 
 ### 也可以看看
 

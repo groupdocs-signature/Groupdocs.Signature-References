@@ -1,14 +1,14 @@
 ---
 title: TextVerticalAlignment
 second_title: GroupDocs.Signature for .NET API 参考
-description: 签名内文本的垂直对齐方式 仅图像签名实现 支持此功能请参阅TextSignatureImplementationgroupdocs.signature.domain/textsignatureimplementationSignatureImplementation 属性
+description: 签名内文本的垂直对齐 此功能仅支持图像签名实现 请参阅TextSignatureImplementationgroupdocs.signature.domain/textsignatureimplementationSignatureImplementation 属性
 type: docs
 weight: 230
 url: /zh/net/groupdocs.signature.options/textsignoptions/textverticalalignment/
 ---
 ## TextSignOptions.TextVerticalAlignment property
 
-签名内文本的垂直对齐方式。 仅图像签名实现 支持此功能（请参阅[`TextSignatureImplementation`](../../../groupdocs.signature.domain/textsignatureimplementation)SignatureImplementation 属性）。
+签名内文本的垂直对齐。 此功能仅支持图像签名实现 （请参阅[`TextSignatureImplementation`](../../../groupdocs.signature.domain/textsignatureimplementation)SignatureImplementation 属性）。
 
 ```csharp
 public TextVerticalAlignment TextVerticalAlignment { get; set; }

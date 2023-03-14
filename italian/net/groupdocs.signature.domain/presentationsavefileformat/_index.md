@@ -3,7 +3,7 @@ title: PresentationSaveFileFormat
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Definisce diversi formati di file di salvataggio.
 type: docs
-weight: 720
+weight: 750
 url: /it/net/groupdocs.signature.domain/presentationsavefileformat/
 ---
 ## PresentationSaveFileFormat enumeration
@@ -18,8 +18,8 @@ public enum PresentationSaveFileFormat
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| Default | `0` | Il formato del file non verrà modificato. |
-| Pps | `1` | Salva il documento come presentazione di Microsoft Power Point 97-2003. |
+| Default | `0` | Il formato file non verrà modificato. |
+| Pps | `1` | Salva il documento come presentazione Microsoft Power Point 97-2003. |
 | Ppt | `2` | Salva il documento come presentazione Microsoft Power Point 97-2003. |
 | Pdf | `3` | Salva il documento in formato PDF. |
 | Xps | `4` | Salva il documento nel formato XPS (XML Paper Specification). |

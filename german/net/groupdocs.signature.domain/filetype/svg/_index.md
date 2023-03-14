@@ -1,14 +1,14 @@
 ---
 title: SVG
 second_title: GroupDocs.Signature für .NET-API-Referenz
-description: Scalable Vector Graphics File .svg ist eine Scalar Vector GraphicsDatei die ein XMLbasiertes Textformat zur Beschreibung des Aussehens eines Bildes verwendet. Erfahren Sie mehr über dieses Dateiformathierhttps//wiki.fileformat.com/pagedescriptionlanguage/svg .
+description: Scalable Vector Graphics File .svg ist eine Scalar Vector GraphicsDatei die ein XMLbasiertes Textformat zur Beschreibung des Aussehens eines Bildes verwendet. Erfahren Sie mehr über dieses DateiformatHierhttps//wiki.fileformat.com/pagedescriptionlanguage/svg .
 type: docs
-weight: 410
+weight: 420
 url: /de/net/groupdocs.signature.domain/filetype/svg/
 ---
 ## FileType.SVG field
 
-Scalable Vector Graphics File (.svg) ist eine Scalar Vector Graphics-Datei, die ein XML-basiertes Textformat zur Beschreibung des Aussehens eines Bildes verwendet. Erfahren Sie mehr über dieses Dateiformat[hier](https://wiki.fileformat.com/page-description-language/svg) .
+Scalable Vector Graphics File (.svg) ist eine Scalar Vector Graphics-Datei, die ein XML-basiertes Textformat zur Beschreibung des Aussehens eines Bildes verwendet. Erfahren Sie mehr über dieses Dateiformat[Hier](https://wiki.fileformat.com/page-description-language/svg) .
 
 ```csharp
 public static readonly FileType SVG;

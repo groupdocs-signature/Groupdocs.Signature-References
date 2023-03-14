@@ -3,7 +3,7 @@ title: SpreadsheetSaveOptions
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Elektronik Tablo Belgeleri için kaydetme seçenekleri.
 type: docs
-weight: 1620
+weight: 1700
 url: /tr/net/groupdocs.signature.options/spreadsheetsaveoptions/
 ---
 ## SpreadsheetSaveOptions class

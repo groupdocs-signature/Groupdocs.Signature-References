@@ -1,14 +1,14 @@
 ---
 title: PageNumber
 second_title: GroupDocs.Signature for .NET API 参考
-description: 指定页面签名位于
+description: 指定找到的页面签名
 type: docs
 weight: 70
 url: /zh/net/groupdocs.signature.domain/basesignature/pagenumber/
 ---
 ## BaseSignature.PageNumber property
 
-指定页面签名位于。
+指定找到的页面签名。
 
 ```csharp
 public int? PageNumber { get; }

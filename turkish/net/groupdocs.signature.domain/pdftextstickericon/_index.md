@@ -3,7 +3,7 @@ title: PdfTextStickerIcon
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: PDF Metin not çıkartma simgesi görünümünün numaralandırmasını açıklar.
 type: docs
-weight: 690
+weight: 720
 url: /tr/net/groupdocs.signature.domain/pdftextstickericon/
 ---
 ## PdfTextStickerIcon enumeration

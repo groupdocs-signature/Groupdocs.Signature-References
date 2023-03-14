@@ -3,7 +3,7 @@ title: XLT
 second_title: GroupDocs.Signature لمرجع .NET API
 description: قالب Excel الثنائي .xlt يمثل تنسيق ملف قالب Excel . تعرف على المزيد حول تنسيق الملف هذاهناhttps//wiki.fileformat.com/spreadsheet/xlt .
 type: docs
-weight: 550
+weight: 560
 url: /ar/net/groupdocs.signature.domain/filetype/xlt/
 ---
 ## FileType.XLT field

@@ -1,14 +1,14 @@
 ---
 title: MaxiCode
 second_title: GroupDocs.Signature for .NET API 参考
-description: MaxiCode 条形码类型对象
+description: MaxiCode 条码类型对象
 type: docs
-weight: 420
+weight: 450
 url: /zh/net/groupdocs.signature.domain/barcodetypes/maxicode/
 ---
 ## BarcodeTypes.MaxiCode field
 
-MaxiCode 条形码类型对象。
+MaxiCode 条码类型对象。
 
 ```csharp
 public static readonly BarcodeType MaxiCode;

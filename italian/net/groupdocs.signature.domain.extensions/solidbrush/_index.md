@@ -1,14 +1,14 @@
 ---
 title: SolidBrush
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Rappresenta un pennello solido. Potrebbe essere utilizzato al posto della proprietà del colore di sfondo.
+description: Rappresenta il pennello a tinta unita. Potrebbe essere utilizzato al posto della proprietà del colore di sfondo.
 type: docs
-weight: 330
+weight: 350
 url: /it/net/groupdocs.signature.domain.extensions/solidbrush/
 ---
 ## SolidBrush class
 
-Rappresenta un pennello solido. Potrebbe essere utilizzato al posto della proprietà del colore di sfondo.
+Rappresenta il pennello a tinta unita. Potrebbe essere utilizzato al posto della proprietà del colore di sfondo.
 
 ```csharp
 public class SolidBrush : Brush

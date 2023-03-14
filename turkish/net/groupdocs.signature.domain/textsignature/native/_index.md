@@ -1,14 +1,14 @@
 ---
 title: Native
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Yerel özniteliği belirtir. İmzanın belgeye özel olması doğrudur.
+description: Yerel özniteliği belirtir. İmza belgeye özel ise doğrudur.
 type: docs
 weight: 20
 url: /tr/net/groupdocs.signature.domain/textsignature/native/
 ---
 ## TextSignature.Native property
 
-Yerel özniteliği belirtir. İmzanın belgeye özel olması doğrudur.
+Yerel özniteliği belirtir. İmza belgeye özel ise doğrudur.
 
 ```csharp
 public bool Native { get; set; }

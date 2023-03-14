@@ -24,7 +24,7 @@ public TextSignOptions()
 
 ## TextSignOptions(string) {#constructor_1}
 
-使用文本初始化 TextSignOptions 类的新实例。
+用文本初始化 TextSignOptions 类的新实例。
 
 ```csharp
 public TextSignOptions(string text)

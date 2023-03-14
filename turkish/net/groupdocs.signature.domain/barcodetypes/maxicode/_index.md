@@ -3,7 +3,7 @@ title: MaxiCode
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: MaxiCode Barkod Türü nesnesi.
 type: docs
-weight: 420
+weight: 450
 url: /tr/net/groupdocs.signature.domain/barcodetypes/maxicode/
 ---
 ## BarcodeTypes.MaxiCode field

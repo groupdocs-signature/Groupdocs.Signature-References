@@ -3,7 +3,7 @@ title: Metered
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Bietet Methoden zum AnwendenGemessenhttps//purchase.groupdocs.com/faqs/licensing/metered Lizenz.
 type: docs
-weight: 1110
+weight: 1180
 url: /de/net/groupdocs.signature/metered/
 ---
 ## Metered class
@@ -30,7 +30,7 @@ public class Metered
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Mehr über die gebührenpflichtige Lizenzierung: [Häufig gestellte Fragen zur getakteten Lizenzierung](https://purchase.groupdocs.com/faqs/licensing/metered)
 * Mehr zur GroupDocs.Signature-Lizenzierung: [Bewertungsbeschränkungen und Lizenzierung](https://docs.groupdocs.com/display/signaturenet/Evaluation+Limitations+and+Licensing+of+GroupDocs.Signature)

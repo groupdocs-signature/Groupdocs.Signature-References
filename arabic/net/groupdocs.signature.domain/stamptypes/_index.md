@@ -3,7 +3,7 @@ title: StampTypes
 second_title: GroupDocs.Signature لمرجع .NET API
 description: حاوية أنواع الطوابع .
 type: docs
-weight: 910
+weight: 940
 url: /ar/net/groupdocs.signature.domain/stamptypes/
 ---
 ## StampTypes class

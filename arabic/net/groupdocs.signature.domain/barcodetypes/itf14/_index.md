@@ -3,7 +3,7 @@ title: ITF14
 second_title: GroupDocs.Signature لمرجع .NET API
 description: كائن نوع الرمز الشريطي لـ ITF14 .
 type: docs
-weight: 370
+weight: 400
 url: /ar/net/groupdocs.signature.domain/barcodetypes/itf14/
 ---
 ## BarcodeTypes.ITF14 field

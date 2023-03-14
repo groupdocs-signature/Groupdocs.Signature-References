@@ -40,7 +40,7 @@ public PreviewOptions(CreatePageStream createPageStream, ReleasePageStream relea
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | createPageStream | CreatePageStream | 定义创建输出页面预览流的方法的委托。 |
-| releasePageStream | ReleasePageStream | 定义释放输出页面预览流的方法的委托。 |
+| releasePageStream | ReleasePageStream | 委托定义释放输出页面预览流的方法。 |
 | pageNumbers | Int32[] | 所需的页码 |
 
 ### 也可以看看

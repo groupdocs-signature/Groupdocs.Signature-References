@@ -3,7 +3,7 @@ title: PngSaveOptions
 second_title: GroupDocs.Signature för .NET API-referens
 description: Png Spara alternativ för bilddokument.
 type: docs
-weight: 1480
+weight: 1560
 url: /sv/net/groupdocs.signature.options/pngsaveoptions/
 ---
 ## PngSaveOptions class

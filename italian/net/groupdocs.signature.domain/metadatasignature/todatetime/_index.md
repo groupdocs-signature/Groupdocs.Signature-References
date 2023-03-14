@@ -3,7 +3,7 @@ title: ToDateTime
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Converte in DateTime.
 type: docs
-weight: 90
+weight: 100
 url: /it/net/groupdocs.signature.domain/metadatasignature/todatetime/
 ---
 ## ToDateTime() {#todatetime}

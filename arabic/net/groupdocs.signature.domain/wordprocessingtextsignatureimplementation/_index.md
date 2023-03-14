@@ -3,7 +3,7 @@ title: WordProcessingTextSignatureImplementation
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحدد نوع تنفيذ توقيع النص لمستندات معالجة الكلمات.
 type: docs
-weight: 1060
+weight: 1090
 url: /ar/net/groupdocs.signature.domain/wordprocessingtextsignatureimplementation/
 ---
 ## WordProcessingTextSignatureImplementation enumeration

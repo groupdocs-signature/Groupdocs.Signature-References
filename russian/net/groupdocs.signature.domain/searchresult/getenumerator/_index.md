@@ -3,7 +3,7 @@ title: GetEnumerator
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Возвращает перечислитель.
 type: docs
-weight: 20
+weight: 70
 url: /ru/net/groupdocs.signature.domain/searchresult/getenumerator/
 ---
 ## SearchResult.GetEnumerator method

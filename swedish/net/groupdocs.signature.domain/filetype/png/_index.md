@@ -3,7 +3,7 @@ title: PNG
 second_title: GroupDocs.Signature för .NET API-referens
 description: Portable Network Graphic .png är en typ av rasterbildsfilformat som använder förlustfri komprimering. Det här filformatet skapades som en ersättning för Graphics Interchange Format GIF och har inga upphovsrättsliga begränsningar. Läs mer om detta filformathärhttps//wiki.fileformat.com/image/png .
 type: docs
-weight: 280
+weight: 290
 url: /sv/net/groupdocs.signature.domain/filetype/png/
 ---
 ## FileType.PNG field

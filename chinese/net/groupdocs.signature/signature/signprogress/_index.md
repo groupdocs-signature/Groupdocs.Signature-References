@@ -1,14 +1,14 @@
 ---
 title: SignProgress
 second_title: GroupDocs.Signature for .NET API 参考
-description: 文档签名过程更改时发生
+description: 文档签名进程更改时发生
 type: docs
 weight: 60
 url: /zh/net/groupdocs.signature/signature/signprogress/
 ---
 ## Signature.SignProgress event
 
-文档签名过程更改时发生。
+文档签名进程更改时发生。
 
 ```csharp
 public event ProcessProgressEventHandler SignProgress;

@@ -3,7 +3,7 @@ title: QrCodeVerifyOptions
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Mantiene le opzioni per verificare la firma del codice QR del documento.
 type: docs
-weight: 1560
+weight: 1640
 url: /it/net/groupdocs.signature.options/qrcodeverifyoptions/
 ---
 ## QrCodeVerifyOptions class
@@ -27,7 +27,7 @@ public class QrCodeVerifyOptions : TextVerifyOptions
 | Nome | Descrizione |
 | --- | --- |
 | [AllPages](../../groupdocs.signature.options/verifyoptions/allpages) { get; set; } | Contrassegno per verificare ogni pagina del documento. Per impostazione predefinita, il valore è true. |
-| [DataEncryption](../../groupdocs.signature.options/qrcodeverifyoptions/dataencryption) { get; set; } | Ottiene o imposta l'implementazione di[`IDataEncryption`](../../groupdocs.signature.domain.extensions/idataencryption)interfaccia per codificare e decodificare le proprietà del testo della firma del codice QR. |
+| [DataEncryption](../../groupdocs.signature.options/qrcodeverifyoptions/dataencryption) { get; set; } | Ottiene o imposta l'implementazione di[`IDataEncryption`](../../groupdocs.signature.domain.extensions/idataencryption) interfaccia per codificare e decodificare le proprietà del testo della firma del codice QR. |
 | [EncodeType](../../groupdocs.signature.options/qrcodeverifyoptions/encodetype) { get; set; } | Ottiene o imposta la verifica del tipo di codice QR. Questa proprietà è facoltativa. |
 | [Extensions](../../groupdocs.signature.options/verifyoptions/extensions) { get; set; } | Ulteriori estensioni per la verifica delle opzioni di firma alternative. |
 | [FormTextFieldTitle](../../groupdocs.signature.options/textverifyoptions/formtextfieldtitle) { get; set; } | Ottiene o imposta il titolo del campo del modulo per verificarlo. Se questa proprietà imposta il testo verrà trovata solo nei campi del modulo di testo. |
@@ -42,7 +42,7 @@ public class QrCodeVerifyOptions : TextVerifyOptions
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Utilizzo di base della verifica per la firma elettronica del codice QR da parte di GroupDocs.Firma: [ Come eVerificare le firme del codice QR in un documento](https://docs.groupdocs.com/display/signaturenet/Verify+QR-code+signatures+in+the+document)
 * Utilizzo avanzato delle impostazioni di verifica per la firma elettronica del codice QR con GroupDocs.Firma: [Utilizzo avanzato delle firme del codice QR eVerification in un documento e impostazioni aggiuntive](https://docs.groupdocs.com/display/signaturenet/Verify+QR-code+signatures)

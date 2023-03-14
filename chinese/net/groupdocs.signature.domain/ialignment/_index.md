@@ -3,7 +3,7 @@ title: IAlignment
 second_title: GroupDocs.Signature for .NET API 参考
 description: 描述文档页面上的签名区域对齐方式
 type: docs
-weight: 480
+weight: 500
 url: /zh/net/groupdocs.signature.domain/ialignment/
 ---
 ## IAlignment interface
@@ -18,8 +18,8 @@ public interface IAlignment
 
 | 姓名 | 描述 |
 | --- | --- |
-| [HorizontalAlignment](../../groupdocs.signature.domain/ialignment/horizontalalignment) { get; set; } | 文档页面上图像的水平对齐方式。 |
-| [Margin](../../groupdocs.signature.domain/ialignment/margin) { get; set; } | 获取图像和文档边缘之间默认指定的空间 （如果指定了水平或垂直对齐方式，则有效）。 |
+| [HorizontalAlignment](../../groupdocs.signature.domain/ialignment/horizontalalignment) { get; set; } | 图像在文档页面上的水平对齐。 |
+| [Margin](../../groupdocs.signature.domain/ialignment/margin) { get; set; } | 获取图像和文档 edges 之间默认指定的空间（如果指定了水平或垂直对齐则有效）。 |
 | [MarginMeasureType](../../groupdocs.signature.domain/ialignment/marginmeasuretype) { get; set; } | 边距测量类型（像素、百分比或毫米）。 |
 | [VerticalAlignment](../../groupdocs.signature.domain/ialignment/verticalalignment) { get; set; } | 文档页面上图像的垂直对齐方式。 |
 

@@ -3,7 +3,7 @@ title: GifSaveOptions
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Görüntü belgeleri için Gif biçimi kaydetme seçenekleri.
 type: docs
-weight: 1310
+weight: 1390
 url: /tr/net/groupdocs.signature.options/gifsaveoptions/
 ---
 ## GifSaveOptions class
@@ -25,7 +25,7 @@ public sealed class GifSaveOptions : ImageSaveOptions
 | İsim | Tanım |
 | --- | --- |
 | [AddMissingExtenstion](../../groupdocs.signature.options/saveoptions/addmissingextenstion) { get; set; } | Çıktı dosyası path 'de eksik olduğunda uzantıyı otomatik olarak eklemek için bayrağı alır veya ayarlar. Varsayılan değer false. |
-| [BackgroundColorIndex](../../groupdocs.signature.options/gifsaveoptions/backgroundcolorindex) { get; set; } | GIF arka plan rengi dizinini alır veya ayarlar. |
+| [BackgroundColorIndex](../../groupdocs.signature.options/gifsaveoptions/backgroundcolorindex) { get; set; } | GIF arka plan renk indeksini alır veya ayarlar. |
 | [ColorResolution](../../groupdocs.signature.options/gifsaveoptions/colorresolution) { get; set; } | GIF renk çözünürlüğünü alır veya ayarlar. |
 | [DoPaletteCorrection](../../groupdocs.signature.options/gifsaveoptions/dopalettecorrection) { get; set; } | Palet düzeltmesinin uygulanıp uygulanmadığını gösteren bir değer alır veya ayarlar. |
 | [FileFormat](../../groupdocs.signature.options/imagesaveoptions/fileformat) { get; set; } | İmzalı belgenin dosya biçimini alır veya ayarlar. |

@@ -3,7 +3,7 @@ title: ITF14
 second_title: GroupDocs.Signature för .NET API-referens
 description: ITF14 streckkodstypobjekt.
 type: docs
-weight: 370
+weight: 400
 url: /sv/net/groupdocs.signature.domain/barcodetypes/itf14/
 ---
 ## BarcodeTypes.ITF14 field

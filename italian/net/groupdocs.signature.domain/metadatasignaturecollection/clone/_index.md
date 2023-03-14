@@ -1,14 +1,14 @@
 ---
 title: Clone
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Clona classe raccolta firme metadati con elementi firma metadati.
+description: Clona la classe di raccolta delle firme dei metadati con gli elementi della firma dei metadati.
 type: docs
 weight: 70
 url: /it/net/groupdocs.signature.domain/metadatasignaturecollection/clone/
 ---
 ## MetadataSignatureCollection.Clone method
 
-Clona classe raccolta firme metadati con elementi firma metadati.
+Clona la classe di raccolta delle firme dei metadati con gli elementi della firma dei metadati.
 
 ```csharp
 public object Clone()
@@ -16,7 +16,7 @@ public object Clone()
 
 ### Valore di ritorno
 
-Restituisce l'istanza copiata con elementi della firma clonati
+Restituisce l'istanza copiata con elementi di firma clonati
 
 ### Guarda anche
 

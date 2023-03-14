@@ -1,14 +1,14 @@
 ---
 title: BackgroundColor
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置签名的背景颜色
+description: 获取或设置签名背景色
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.domain/stampline/backgroundcolor/
 ---
 ## StampLine.BackgroundColor property
 
-获取或设置签名的背景颜色。
+获取或设置签名背景色。
 
 ```csharp
 public Color BackgroundColor { get; set; }

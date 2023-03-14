@@ -1,14 +1,14 @@
 ---
 title: CryptoCurrencyType
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Kripto para birimi türünü temsil eder.
+description: Kripto para türünü temsil eder.
 type: docs
-weight: 200
+weight: 210
 url: /tr/net/groupdocs.signature.domain.extensions/cryptocurrencytype/
 ---
 ## CryptoCurrencyType enumeration
 
-Kripto para birimi türünü temsil eder.
+Kripto para türünü temsil eder.
 
 ```csharp
 public enum CryptoCurrencyType
@@ -19,11 +19,11 @@ public enum CryptoCurrencyType
 | İsim | Değer | Tanım |
 | --- | --- | --- |
 | Custom | `0` | Özel kripto para birimi türünü temsil eder. |
-| Bitcoin | `1` | Bitcoin kripto para birimi türünü temsil eder. |
-| BitcoinCash | `2` | Bitcoin Cash kripto para birimi türünü temsil eder. |
-| Litecoin | `3` | Litecoin kripto para birimi türünü temsil eder. |
-| Ethereum | `4` | Ethereum kripto para birimi türünü temsil eder. |
-| Dash | `5` | Dash kripto para birimi türünü temsil eder. |
+| Bitcoin | `1` | Bitcoin kripto para türünü temsil eder. |
+| BitcoinCash | `2` | Bitcoin Cash kripto para türünü temsil eder. |
+| Litecoin | `3` | Litecoin kripto para türünü temsil eder. |
+| Ethereum | `4` | Ethereum kripto para türünü temsil eder. |
+| Dash | `5` | Dash kripto para türünü temsil eder. |
 
 ### Ayrıca bakınız
 

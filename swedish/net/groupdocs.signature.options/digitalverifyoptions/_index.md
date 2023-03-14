@@ -3,7 +3,7 @@ title: DigitalVerifyOptions
 second_title: GroupDocs.Signature för .NET API-referens
 description: Behåller alternativ för att verifiera dokument Digital signatur.
 type: docs
-weight: 1270
+weight: 1350
 url: /sv/net/groupdocs.signature.options/digitalverifyoptions/
 ---
 ## DigitalVerifyOptions class
@@ -33,7 +33,7 @@ public class DigitalVerifyOptions : VerifyOptions
 | [Comments](../../groupdocs.signature.options/digitalverifyoptions/comments) { get; set; } | Kommentarer av digital signatur att validera. |
 | [Contact](../../groupdocs.signature.options/digitalverifyoptions/contact) { get; set; } | Signaturkontakt att validera. |
 | [Extensions](../../groupdocs.signature.options/verifyoptions/extensions) { get; set; } | Ytterligare tillägg för verifiering av alternativa signaturalternativ. |
-| [IssuerName](../../groupdocs.signature.options/digitalverifyoptions/issuername) { get; set; } | Utfärdarens namn på certifikatet som ska valideras. Värdet är skiftlägeskänsligt. Om den här egenskapen är inställd kontrollerar verifieringen om signaturens utfärdarnamn innehåller eller är lika med passerat värde |
+| [IssuerName](../../groupdocs.signature.options/digitalverifyoptions/issuername) { get; set; } | Utfärdarens namn på certifikatet som ska valideras. Värdet är skiftlägeskänsligt. Om den här egenskapen är inställd kommer verifieringen att kontrollera om signaturens utfärdarnamn innehåller eller är lika med passerat värde |
 | [IsValid](../../groupdocs.signature.options/verifyoptions/isvalid) { get; } | Giltig egenskapsflagga. |
 | [Location](../../groupdocs.signature.options/digitalverifyoptions/location) { get; set; } | Signatur Plats att validera. |
 | virtual [PageNumber](../../groupdocs.signature.options/verifyoptions/pagenumber) { get; set; } | Dokumentsidnummer som ska verifieras. Om egenskapen inte är angiven - kommer alla sidor i dokument att verifieras för första gången. Minimivärdet är 1. |

@@ -3,7 +3,7 @@ title: Equals
 second_title: GroupDocs.Signature for .NET API 参考
 description: 判断当前是否FileTypegroupdocs.signature.domain/filetype与指定的相同FileTypegroupdocs.signature.domain/filetype对象.
 type: docs
-weight: 600
+weight: 610
 url: /zh/net/groupdocs.signature.domain/filetype/equals/
 ---
 ## Equals(FileType) {#equals}
@@ -52,7 +52,7 @@ public override bool Equals(object obj)
 
 ### 返回值
 
-如果参数是[`FileType`](../../filetype)并且与当前相同[`FileType`](../../filetype)目的;否则，
+如果参数是[`FileType`](../../filetype)和电流一样[`FileType`](../../filetype)目的;否则，
 
 ```csharp
 true

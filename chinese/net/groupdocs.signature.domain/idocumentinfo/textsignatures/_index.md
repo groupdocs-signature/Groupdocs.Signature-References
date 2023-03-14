@@ -3,7 +3,7 @@ title: TextSignatures
 second_title: GroupDocs.Signature for .NET API 参考
 description: 添加或更新的文档文本签名集合Signaturegroupdocs.signature/signature方法.
 type: docs
-weight: 140
+weight: 150
 url: /zh/net/groupdocs.signature.domain/idocumentinfo/textsignatures/
 ---
 ## IDocumentInfo.TextSignatures property

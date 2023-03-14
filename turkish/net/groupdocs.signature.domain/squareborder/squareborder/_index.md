@@ -1,14 +1,14 @@
 ---
 title: SquareBorder
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Yuvarlatılmış köşe yarıçaplı SquareBorderLine oluşturur.
+description: Yuvarlatılmış köşe yarıçapına sahip KareBorderLine oluşturur.
 type: docs
 weight: 10
 url: /tr/net/groupdocs.signature.domain/squareborder/squareborder/
 ---
 ## SquareBorder(double) {#constructor}
 
-Yuvarlatılmış köşe yarıçaplı SquareBorderLine oluşturur.
+Yuvarlatılmış köşe yarıçapına sahip KareBorderLine oluşturur.
 
 ```csharp
 public SquareBorder(double radius)

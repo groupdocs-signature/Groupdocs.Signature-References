@@ -3,7 +3,7 @@ title: SkipSerializationAttribute
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Ordonne à la sérialisation dignorer le membre.
 type: docs
-weight: 320
+weight: 340
 url: /fr/net/groupdocs.signature.domain.extensions/skipserializationattribute/
 ---
 ## SkipSerializationAttribute class

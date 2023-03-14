@@ -16,8 +16,8 @@ public override void GetObjectData(SerializationInfo info, StreamingContext cont
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| info | SerializationInfo | DasSerializationInfo das die serialisierten Objektdaten über die ausgelöste Ausnahme enthält. |
-| context | StreamingContext | DasStreamingContext die kontextbezogene Informationen über die Quelle oder das Ziel enthält. |
+| info | SerializationInfo | DerSerializationInfo das die serialisierten Objektdaten über die ausgelöste Ausnahme enthält. |
+| context | StreamingContext | DerStreamingContext die kontextbezogene Informationen über die Quelle oder das Ziel enthält. |
 
 ### Siehe auch
 

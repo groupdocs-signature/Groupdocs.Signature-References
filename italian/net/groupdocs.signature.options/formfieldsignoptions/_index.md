@@ -3,7 +3,7 @@ title: FormFieldSignOptions
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Rappresenta la classe delle opzioni di firma FormField per i documenti Pdf.
 type: docs
-weight: 1300
+weight: 1380
 url: /it/net/groupdocs.signature.options/formfieldsignoptions/
 ---
 ## FormFieldSignOptions class
@@ -33,19 +33,19 @@ public sealed class FormFieldSignOptions : TextSignOptions
 | [Extensions](../../groupdocs.signature.options/signoptions/extensions) { get; } | Estensioni firma. |
 | [Font](../../groupdocs.signature.options/textsignoptions/font) { get; set; } | Ottiene o imposta il carattere della firma. |
 | virtual [ForeColor](../../groupdocs.signature.options/textsignoptions/forecolor) { get; set; } | Ottiene o imposta il colore di primo piano della firma. |
-| [FormTextFieldTitle](../../groupdocs.signature.options/textsignoptions/formtextfieldtitle) { get; set; } | Ottiene o imposta il titolo del campo del modulo di testo in cui inserire la firma del testo. Questa proprietà può essere utilizzata solo con SignatureImplementation = TextToFormField. |
-| [FormTextFieldType](../../groupdocs.signature.options/textsignoptions/formtextfieldtype) { get; set; } | Ottiene o imposta il tipo di campo modulo in cui inserire la firma del testo. Questa proprietà può essere utilizzata solo con SignatureImplementation = TextToFormField. Il valore per impostazione predefinita è AllTextTypes. |
+| [FormTextFieldTitle](../../groupdocs.signature.options/textsignoptions/formtextfieldtitle) { get; set; } | Ottiene o imposta il titolo del campo del modulo di testo per inserirvi la firma del testo. Questa proprietà può essere utilizzata solo con SignatureImplementation = TextToFormField. |
+| [FormTextFieldType](../../groupdocs.signature.options/textsignoptions/formtextfieldtype) { get; set; } | Ottiene o imposta il tipo di campo modulo in cui inserire la firma del testo. Questa proprietà può essere utilizzata solo con SignatureImplementation = TextToFormField. Il valore predefinito è AllTextTypes. |
 | [Height](../../groupdocs.signature.options/textsignoptions/height) { get; set; } | Altezza della firma sulla pagina del documento nei valori di misura (pixel, percentuali o millimetri vedere[`MeasureType`](../../groupdocs.signature.domain/measuretype) proprietà SizeMeasureType). |
 | [HorizontalAlignment](../../groupdocs.signature.options/textsignoptions/horizontalalignment) { get; set; } | Allineamento orizzontale della firma sulla pagina del documento. |
 | [Left](../../groupdocs.signature.options/textsignoptions/left) { get; set; } | Posizione X sinistra della firma sulla pagina del documento nei valori di misura (pixel, percentuali o millimetri vedere[`MeasureType`](../../groupdocs.signature.domain/measuretype) Proprietà LocationMeasureType). (funziona se l'allineamento orizzontale non è specificato). |
 | virtual [LocationMeasureType](../../groupdocs.signature.options/textsignoptions/locationmeasuretype) { get; set; } | Tipo di misura (pixel, percentuali o millimetri) per le proprietà Left e Top. |
 | virtual [Margin](../../groupdocs.signature.options/textsignoptions/margin) { get; set; } | Ottiene o imposta lo spazio tra i bordi del segno e del documento. (funziona SOLO se è specificato l'allineamento orizzontale o verticale). |
 | virtual [MarginMeasureType](../../groupdocs.signature.options/textsignoptions/marginmeasuretype) { get; set; } | Ottiene o imposta il tipo di misura (pixel, percentuali o millimetri) per Margin. |
-| [Native](../../groupdocs.signature.options/textsignoptions/native) { get; set; } | Ottiene o imposta l'attributo nativo. Se è impostato, è possibile utilizzare firme specifiche del documento. La filigrana di testo nativa per i documenti di elaborazione testi è diversa da quella normale, ad esempio. |
+| [Native](../../groupdocs.signature.options/textsignoptions/native) { get; set; } | Ottiene o imposta l'attributo nativo. Se è impostato, è possibile utilizzare firme specifiche del documento. La filigrana del testo nativo per i documenti di elaborazione di testi è diversa da quella normale, ad esempio. |
 | virtual [PageNumber](../../groupdocs.signature.options/signoptions/pagenumber) { get; set; } | Ottiene o imposta il numero di pagina del documento per la firma. Il valore minimo e predefinito è 1. |
 | virtual [PagesSetup](../../groupdocs.signature.options/signoptions/pagessetup) { get; set; } | Opzioni per specificare le pagine da firmare. |
 | [RotationAngle](../../groupdocs.signature.options/textsignoptions/rotationangle) { get; set; } | Angolo di rotazione della firma sulla pagina del documento (in senso orario). |
-| [ShapeType](../../groupdocs.signature.options/textsignoptions/shapetype) { get; set; } | Ottiene o imposta il tipo di forma in cui inserire il testo. Questa proprietà può essere utilizzata solo con SignatureImplementation = TextStamp. Il valore per impostazione predefinita è Rectangle. |
+| [ShapeType](../../groupdocs.signature.options/textsignoptions/shapetype) { get; set; } | Ottiene o imposta il tipo di forma in cui inserire il testo. Questa proprietà può essere utilizzata solo con SignatureImplementation = TextStamp. Il valore predefinito è Rectangle. |
 | [Signature](../../groupdocs.signature.options/formfieldsignoptions/signature) { get; set; } | Ottiene o imposta il FormField della firma. |
 | [SignatureID](../../groupdocs.signature.options/textsignoptions/signatureid) { get; set; } | Ottiene o imposta l'ID univoco della firma. Può essere utilizzato nelle opzioni di verifica della firma. La proprietà è supportata solo per i documenti Pdf. |
 | [SignatureImplementation](../../groupdocs.signature.options/textsignoptions/signatureimplementation) { get; set; } | Ottiene o imposta il tipo di implementazione della firma di testo. |
@@ -54,7 +54,7 @@ public sealed class FormFieldSignOptions : TextSignOptions
 | [Stretch](../../groupdocs.signature.options/textsignoptions/stretch) { get; set; } | Modalità di stiramento sulla pagina del documento. |
 | [Text](../../groupdocs.signature.options/textsignoptions/text) { get; set; } | Ottiene o imposta il testo della firma. |
 | [TextHorizontalAlignment](../../groupdocs.signature.options/textsignoptions/texthorizontalalignment) { get; set; } | Allineamento orizzontale del testo all'interno di una firma. Questa funzione è supportata solo per le implementazioni della firma di immagini e annotazioni (vedere[`TextSignatureImplementation`](../../groupdocs.signature.domain/textsignatureimplementation) Proprietà SignatureImplementation). |
-| [TextVerticalAlignment](../../groupdocs.signature.options/textsignoptions/textverticalalignment) { get; set; } | Allineamento verticale del testo all'interno di una firma. Questa funzione è supportata solo per l'implementazione della firma dell'immagine (vedi[`TextSignatureImplementation`](../../groupdocs.signature.domain/textsignatureimplementation) SignatureImplementazione proprietà). |
+| [TextVerticalAlignment](../../groupdocs.signature.options/textsignoptions/textverticalalignment) { get; set; } | Allineamento verticale del testo all'interno di una firma. Questa funzione è supportata solo per l'implementazione della firma immagine (vedere[`TextSignatureImplementation`](../../groupdocs.signature.domain/textsignatureimplementation) Proprietà SignatureImplementation). |
 | [Top](../../groupdocs.signature.options/textsignoptions/top) { get; set; } | Top Y Posizione della firma sulla pagina del documento nei valori di misura (pixel, percentuali o millimetri vedere[`MeasureType`](../../groupdocs.signature.domain/measuretype)Proprietà LocationMeasureType). (funziona se l'allineamento verticale non è specificato). |
 | [Transparency](../../groupdocs.signature.options/textsignoptions/transparency) { get; set; } | Ottiene o imposta la trasparenza della firma (valore compreso tra 0,0 (opaco) e 1,0 (chiaro)). Il valore predefinito è 0 (opaco). |
 | [VerticalAlignment](../../groupdocs.signature.options/textsignoptions/verticalalignment) { get; set; } | Allineamento verticale della firma sulla pagina del documento. |
@@ -63,10 +63,10 @@ public sealed class FormFieldSignOptions : TextSignOptions
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
-* Utilizzo di base della creazione di firme elettroniche FormField da GroupDocs.Signature: [Come firmare un documento con la firma di FormField](https://docs.groupdocs.com/display/signaturenet/eSign+document+with+Form+Field+signature)
-* Utilizzo avanzato delle impostazioni della firma elettronica FormField con GroupDocs.Signature: [Utilizzo avanzato per firmare documenti elettronici con firma FormField e impostazioni aggiuntive](https://docs.groupdocs.com/display/signaturenet/Sign+document+with+Form+Field+signature+-+advanced)
+* Utilizzo di base della creazione della firma elettronica FormField da parte di GroupDocs.Signature: [Come firmare elettronicamente un documento con la firma FormField](https://docs.groupdocs.com/display/signaturenet/eSign+document+with+Form+Field+signature)
+* Utilizzo avanzato delle impostazioni della firma elettronica FormField con GroupDocs.Signature: [Utilizzo avanzato per firmare elettronicamente il documento con firma FormField e impostazioni aggiuntive](https://docs.groupdocs.com/display/signaturenet/Sign+document+with+Form+Field+signature+-+advanced)
 
 ### Guarda anche
 

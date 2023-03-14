@@ -1,14 +1,14 @@
 ---
 title: UseOriginalPassword
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Ottiene o imposta se utilizzare la password da LoadOptions per salvare il documento firmato come protetto. Il valore predefinito è true. Questa proprietà non è supportata per i documenti Immagine.
+description: Ottiene o imposta se utilizzare la password di LoadOptions per salvare il documento firmato come protetto. Il valore predefinito è true. Questa proprietà non è supportata per i documenti immagine.
 type: docs
 weight: 50
 url: /it/net/groupdocs.signature.options/saveoptions/useoriginalpassword/
 ---
 ## SaveOptions.UseOriginalPassword property
 
-Ottiene o imposta se utilizzare la password da LoadOptions per salvare il documento firmato come protetto. Il valore predefinito è true. Questa proprietà non è supportata per i documenti Immagine.
+Ottiene o imposta se utilizzare la password di LoadOptions per salvare il documento firmato come protetto. Il valore predefinito è true. Questa proprietà non è supportata per i documenti immagine.
 
 ```csharp
 public bool UseOriginalPassword { get; set; }

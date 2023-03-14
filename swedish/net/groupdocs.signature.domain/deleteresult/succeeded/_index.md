@@ -3,7 +3,7 @@ title: Succeeded
 second_title: GroupDocs.Signature för .NET API-referens
 description: Lista över framgångsrika borttagna signaturerBaseSignaturegroupdocs.signature.domain/basesignature .
 type: docs
-weight: 20
+weight: 50
 url: /sv/net/groupdocs.signature.domain/deleteresult/succeeded/
 ---
 ## DeleteResult.Succeeded property

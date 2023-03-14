@@ -1,14 +1,14 @@
 ---
 title: Background
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: İmza görünümünün arka plan rengini alın veya ayarlayın. Varsayılan değer SystemColors.Windows
+description: İmza görünümünün arka plan rengini alın veya ayarlayın. Varsayılan değer SystemColorsdır.Windows
 type: docs
 weight: 20
 url: /tr/net/groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/background/
 ---
 ## PdfDigitalSignatureAppearance.Background property
 
-İmza görünümünün arka plan rengini alın veya ayarlayın. Varsayılan değer SystemColors.Windows
+İmza görünümünün arka plan rengini alın veya ayarlayın. Varsayılan değer SystemColors'dır.Windows
 
 ```csharp
 public Color Background { get; set; }

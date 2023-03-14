@@ -3,7 +3,7 @@ title: DocumentInfo
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Definisce le proprietà della descrizione del documento.
 type: docs
-weight: 150
+weight: 160
 url: /it/net/groupdocs.signature.domain/documentinfo/
 ---
 ## DocumentInfo class
@@ -18,7 +18,7 @@ public class DocumentInfo : IDocumentInfo
 
 | Nome | Descrizione |
 | --- | --- |
-| [DocumentInfo](documentinfo)() | Inizializza una nuova istanza di[`DocumentInfo`](../documentinfo) classe. |
+| [DocumentInfo](documentinfo)() | Inizializza una nuova istanza di[`DocumentInfo`](../documentinfo)classe. |
 
 ## Proprietà
 
@@ -26,17 +26,18 @@ public class DocumentInfo : IDocumentInfo
 | --- | --- |
 | [BarcodeSignatures](../../groupdocs.signature.domain/documentinfo/barcodesignatures) { get; } | Raccolta delle firme dei codici a barre dei documenti aggiunte o aggiornate da[`Signature`](../../groupdocs.signature/signature) metodi. |
 | [DigitalSignatures](../../groupdocs.signature.domain/documentinfo/digitalsignatures) { get; } | Raccolta delle firme digitali dei documenti aggiunte o aggiornate da[`Signature`](../../groupdocs.signature/signature) metodi. |
-| [FileType](../../groupdocs.signature.domain/documentinfo/filetype) { get; set; } | Tipo di formato file. |
+| [FileType](../../groupdocs.signature.domain/documentinfo/filetype) { get; set; } | Tipo formato file. |
 | [FormFields](../../groupdocs.signature.domain/documentinfo/formfields) { get; } | Raccolta di tutti i campi modulo supportati esistenti nel documento. Questa proprietà è supportata solo per i tipi di documento Pdf ed Elaborazione testi. |
-| [FormFieldSignatures](../../groupdocs.signature.domain/documentinfo/formfieldsignatures) { get; } | Raccolta documenti Form Field firme aggiunte o aggiornate da[`Signature`](../../groupdocs.signature/signature) metodi. |
+| [FormFieldSignatures](../../groupdocs.signature.domain/documentinfo/formfieldsignatures) { get; } | Raccolta del documento Modulo Firme di campo aggiunte o aggiornate da[`Signature`](../../groupdocs.signature/signature) metodi. |
 | [ImageSignatures](../../groupdocs.signature.domain/documentinfo/imagesignatures) { get; } | Raccolta di firme di immagini di documenti aggiunte o aggiornate da[`Signature`](../../groupdocs.signature/signature) metodi. |
 | [MaxPageHeight](../../groupdocs.signature.domain/documentinfo/maxpageheight) { get; set; } | Specifica l'altezza massima della pagina. |
+| [MetadataSignatures](../../groupdocs.signature.domain/documentinfo/metadatasignatures) { get; } | Raccolta delle firme dei metadati del documento. |
 | [PageCount](../../groupdocs.signature.domain/documentinfo/pagecount) { get; set; } | Conteggio delle pagine del documento. |
 | [Pages](../../groupdocs.signature.domain/documentinfo/pages) { get; set; } | Raccolta delle descrizioni delle pagine del documento. |
 | [ProcessLogs](../../groupdocs.signature.domain/documentinfo/processlogs) { get; } | Raccolta di processi di cronologia dei documenti come firma, aggiornamento, eliminazione. |
 | [QrCodeSignatures](../../groupdocs.signature.domain/documentinfo/qrcodesignatures) { get; } | Raccolta delle firme del codice QR del documento aggiunte o aggiornate da[`Signature`](../../groupdocs.signature/signature) metodi. |
 | [Signatures](../../groupdocs.signature.domain/documentinfo/signatures) { get; } | Raccolta di documenti di tutti i tipi di firme[`BaseSignature`](../basesignature) . |
-| [Size](../../groupdocs.signature.domain/documentinfo/size) { get; set; } | Dimensioni del documento in byte. |
+| [Size](../../groupdocs.signature.domain/documentinfo/size) { get; set; } | Dimensione del documento in byte. |
 | [TextSignatures](../../groupdocs.signature.domain/documentinfo/textsignatures) { get; } | Raccolta delle firme del testo del documento. |
 | [WidthForMaxHeight](../../groupdocs.signature.domain/documentinfo/widthformaxheight) { get; set; } | Specifica la larghezza per l'altezza massima della pagina. |
 

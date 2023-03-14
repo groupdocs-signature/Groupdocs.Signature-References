@@ -1,14 +1,14 @@
 ---
 title: Native
 second_title: GroupDocs.Signature for .NET API 参考
-description: 指定本机属性如果签名是特定于文档的则为真
+description: 指定本机属性如果签名是文档特定的则为真
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.domain/textsignature/native/
 ---
 ## TextSignature.Native property
 
-指定本机属性。如果签名是特定于文档的，则为真。
+指定本机属性。如果签名是文档特定的，则为真。
 
 ```csharp
 public bool Native { get; set; }

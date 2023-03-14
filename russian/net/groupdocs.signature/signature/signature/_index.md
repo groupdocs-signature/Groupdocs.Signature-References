@@ -20,7 +20,7 @@ public Signature(Stream document)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о типах файлов, поддерживаемых GroupDocs.Signature: [Форматы документов, поддерживаемые GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
 * Подробнее о функциях GroupDocs.Signature для .NET: [Руководство для разработчиков](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
@@ -48,7 +48,7 @@ public Signature(Stream document, LoadOptions loadOptions)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о типах файлов, поддерживаемых GroupDocs.Signature: [Форматы документов, поддерживаемые GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
 * Подробнее о функциях GroupDocs.Signature для .NET: [Руководство для разработчиков](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
@@ -65,7 +65,7 @@ public Signature(Stream document, LoadOptions loadOptions)
 
 ## Signature(Stream, SignatureSettings) {#constructor_3}
 
-Инициализирует новый экземпляр[`Signature`](../../signature) экземпляр класса с документом, предоставленным потоком и[`SignatureSettings`](../../signaturesettings) .
+Инициализирует новый экземпляр[`Signature`](../../signature)экземпляр класса с документом, предоставленным потоком и[`SignatureSettings`](../../signaturesettings) .
 
 ```csharp
 public Signature(Stream document, SignatureSettings settings)
@@ -78,7 +78,7 @@ public Signature(Stream document, SignatureSettings settings)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о типах файлов, поддерживаемых GroupDocs.Signature: [Форматы документов, поддерживаемые GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
 * Подробнее о функциях GroupDocs.Signature для .NET: [Руководство для разработчиков](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
@@ -108,7 +108,7 @@ public Signature(Stream document, LoadOptions loadOptions, SignatureSettings set
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о типах файлов, поддерживаемых GroupDocs.Signature: [Форматы документов, поддерживаемые GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
 * Подробнее о функциях GroupDocs.Signature для .NET: [Руководство для разработчиков](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
@@ -138,7 +138,7 @@ public Signature(string filePath)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о типах файлов, поддерживаемых GroupDocs.Signature: [Форматы документов, поддерживаемые GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
 * Подробнее о функциях GroupDocs.Signature для .NET: [Руководство для разработчиков](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
@@ -166,7 +166,7 @@ public Signature(string filePath, LoadOptions loadOptions)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о типах файлов, поддерживаемых GroupDocs.Signature: [Форматы документов, поддерживаемые GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
 * Подробнее о функциях GroupDocs.Signature для .NET: [Руководство для разработчиков](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
@@ -196,7 +196,7 @@ public Signature(string filePath, SignatureSettings settings)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о типах файлов, поддерживаемых GroupDocs.Signature: [Форматы документов, поддерживаемые GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
 * Подробнее о функциях GroupDocs.Signature для .NET: [Руководство для разработчиков](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
@@ -212,7 +212,7 @@ public Signature(string filePath, SignatureSettings settings)
 
 ## Signature(string, LoadOptions, SignatureSettings) {#constructor_6}
 
-Инициализирует новый экземпляр[`Signature`](../../signature) экземпляр класса с документом, предоставленным путем к файлу,LoadOptions а также[`SignatureSettings`](../../signaturesettings) .
+Инициализирует новый экземпляр[`Signature`](../../signature) экземпляр класса с документом, предоставленным путем к файлу,LoadOptions и[`SignatureSettings`](../../signaturesettings) .
 
 ```csharp
 public Signature(string filePath, LoadOptions loadOptions, SignatureSettings settings)
@@ -226,7 +226,7 @@ public Signature(string filePath, LoadOptions loadOptions, SignatureSettings set
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о типах файлов, поддерживаемых GroupDocs.Signature: [Форматы документов, поддерживаемые GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
 * Подробнее о функциях GroupDocs.Signature для .NET: [Руководство для разработчиков](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)

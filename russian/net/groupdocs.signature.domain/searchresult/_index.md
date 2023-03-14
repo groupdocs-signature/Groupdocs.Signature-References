@@ -3,7 +3,7 @@ title: SearchResult
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Результат поиска подписей в указанном документе.
 type: docs
-weight: 800
+weight: 830
 url: /ru/net/groupdocs.signature.domain/searchresult/
 ---
 ## SearchResult class
@@ -11,14 +11,19 @@ url: /ru/net/groupdocs.signature.domain/searchresult/
 Результат поиска подписей в указанном документе.
 
 ```csharp
-public class SearchResult : IEnumerable<BaseSignature>
+public class SearchResult : IEnumerable<BaseSignature>, IResult
 ```
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Signatures](../../groupdocs.signature.domain/searchresult/signatures) { get; } | Список обнаруженных сигнатур[`BaseSignature`](../basesignature) . |
+| [DestinDocumentSize](../../groupdocs.signature.domain/searchresult/destindocumentsize) { get; } | Возвращает размер целевого документа. Для метода поиска он всегда возвращает 0. |
+| [ProcessingTime](../../groupdocs.signature.domain/searchresult/processingtime) { get; } | Возвращает время выполнения процесса поиска в миллисекундах. |
+| [Signatures](../../groupdocs.signature.domain/searchresult/signatures) { get; } | Список найденных подписей[`BaseSignature`](../basesignature) . |
+| [SourceDocumentSize](../../groupdocs.signature.domain/searchresult/sourcedocumentsize) { get; } | Возвращает размер исходного документа |
+| [Succeeded](../../groupdocs.signature.domain/searchresult/succeeded) { get; } | Список найденных подписей[`BaseSignature`](../basesignature) . Этот список всегда будет равен[`Signatures`](./signatures) свойство. |
+| [TotalSignatures](../../groupdocs.signature.domain/searchresult/totalsignatures) { get; } | Возвращает общее количество обработанных подписей процессом поиска |
 
 ## Методы
 
@@ -30,6 +35,7 @@ public class SearchResult : IEnumerable<BaseSignature>
 ### Смотрите также
 
 * class [BaseSignature](../basesignature)
+* interface [IResult](../iresult)
 * пространство имен [GroupDocs.Signature.Domain](../../groupdocs.signature.domain)
 * сборка [GroupDocs.Signature](../../)
 

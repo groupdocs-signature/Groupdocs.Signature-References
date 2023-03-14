@@ -3,7 +3,7 @@ title: TextVerticalAlignment
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحدد المحاذاة الرأسية للنص داخل التوقيع.
 type: docs
-weight: 990
+weight: 1020
 url: /ar/net/groupdocs.signature.domain/textverticalalignment/
 ---
 ## TextVerticalAlignment enumeration

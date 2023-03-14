@@ -1,14 +1,14 @@
 ---
 title: ExportAllPages
 second_title: GroupDocs.Signature for .NET API 参考
-description: 导出每个页面的标志
+description: 标志导出每一页
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.options/exportimagesaveoptions/exportallpages/
 ---
 ## ExportImageSaveOptions.ExportAllPages property
 
-导出每个页面的标志。
+标志导出每一页。
 
 ```csharp
 public bool ExportAllPages { get; set; }

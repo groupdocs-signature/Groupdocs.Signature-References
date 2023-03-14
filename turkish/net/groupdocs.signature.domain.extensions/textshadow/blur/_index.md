@@ -1,14 +1,14 @@
 ---
 title: Blur
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Gölgenin bulanıklığını alır veya ayarlar. Varsayılan değer 4.
+description: Gölgenin bulanıklığını alır veya ayarlar. Varsayılan değer 4. dir.
 type: docs
 weight: 30
 url: /tr/net/groupdocs.signature.domain.extensions/textshadow/blur/
 ---
 ## TextShadow.Blur property
 
-Gölgenin bulanıklığını alır veya ayarlar. Varsayılan değer 4.
+Gölgenin bulanıklığını alır veya ayarlar. Varsayılan değer 4. 'dir.
 
 ```csharp
 public double Blur { get; set; }

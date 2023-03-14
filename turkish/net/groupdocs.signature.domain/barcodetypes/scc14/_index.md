@@ -3,7 +3,7 @@ title: SCC14
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: SCC14 Barkod Türü nesnesi.
 type: docs
-weight: 540
+weight: 570
 url: /tr/net/groupdocs.signature.domain/barcodetypes/scc14/
 ---
 ## BarcodeTypes.SCC14 field

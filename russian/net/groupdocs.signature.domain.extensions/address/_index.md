@@ -3,7 +3,7 @@ title: Address
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет адрес для контакта.
 type: docs
-weight: 170
+weight: 180
 url: /ru/net/groupdocs.signature.domain.extensions/address/
 ---
 ## Address class

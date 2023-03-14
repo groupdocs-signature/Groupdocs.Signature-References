@@ -1,14 +1,14 @@
 ---
 title: CryptoCurrencyTransfer
 second_title: Référence de l'API GroupDocs.Signature pour .NET
-description: Représente le transfert de devise Crypto réception ou envoi pour QRCode.
+description: Représente le transfert de cryptomonnaie réception ou envoi pour QRCode.
 type: docs
-weight: 190
+weight: 200
 url: /fr/net/groupdocs.signature.domain.extensions/cryptocurrencytransfer/
 ---
 ## CryptoCurrencyTransfer class
 
-Représente le transfert de devise Crypto (réception ou envoi) pour QR-Code.
+Représente le transfert de crypto-monnaie (réception ou envoi) pour QR-Code.
 
 ```csharp
 public class CryptoCurrencyTransfer
@@ -28,13 +28,13 @@ public class CryptoCurrencyTransfer
 | [Amount](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/amount) { get; set; } | Obtient ou définit le montant du transfert. |
 | [CustomType](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/customtype) { get; set; } | Obtient ou définit un message de transfert facultatif. |
 | [Message](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/message) { get; set; } | Obtient ou définit un message de transfert facultatif. |
-| [Type](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/type) { get; set; } | Obtient ou définit l'un des types de devises pris en charge. |
+| [Type](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/type) { get; set; } | Obtient ou définit l'un des types de crypto-monnaie pris en charge. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| override [Equals](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/equals)(object) | Écrase la méthode Equals pour comparer les propriétés de transfert de devises Crypto |
+| override [Equals](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/equals)(object) | Écrase la méthode Equals pour comparer les propriétés de transfert de crypto-monnaie |
 | override [GetHashCode](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/gethashcode)() | Remplace la méthode GetHashCode |
 
 ### Voir également

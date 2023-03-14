@@ -1,14 +1,14 @@
 ---
 title: DeutschePostIdentcode
 second_title: GroupDocs.Signature for .NET API 参考
-description: DeutschePostIdentcode 条形码类型对象
+description: DeutschePostIdentcode 条码类型对象
 type: docs
 weight: 220
 url: /zh/net/groupdocs.signature.domain/barcodetypes/deutschepostidentcode/
 ---
 ## BarcodeTypes.DeutschePostIdentcode field
 
-DeutschePostIdentcode 条形码类型对象。
+DeutschePostIdentcode 条码类型对象。
 
 ```csharp
 public static readonly BarcodeType DeutschePostIdentcode;

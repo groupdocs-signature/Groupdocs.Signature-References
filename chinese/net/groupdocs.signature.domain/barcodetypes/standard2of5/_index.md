@@ -3,7 +3,7 @@ title: Standard2of5
 second_title: GroupDocs.Signature for .NET API 参考
 description: Standard2of5 条码类型对象
 type: docs
-weight: 570
+weight: 600
 url: /zh/net/groupdocs.signature.domain/barcodetypes/standard2of5/
 ---
 ## BarcodeTypes.Standard2of5 field

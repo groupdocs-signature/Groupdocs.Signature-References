@@ -3,7 +3,7 @@ title: Postnet
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Postnet Barkod Türü nesnesi.
 type: docs
-weight: 510
+weight: 540
 url: /tr/net/groupdocs.signature.domain/barcodetypes/postnet/
 ---
 ## BarcodeTypes.Postnet field

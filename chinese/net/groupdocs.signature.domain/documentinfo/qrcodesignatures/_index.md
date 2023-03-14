@@ -3,7 +3,7 @@ title: QrCodeSignatures
 second_title: GroupDocs.Signature for .NET API 参考
 description: 添加或更新的文档二维码签名集合Signaturegroupdocs.signature/signature方法.
 type: docs
-weight: 120
+weight: 130
 url: /zh/net/groupdocs.signature.domain/documentinfo/qrcodesignatures/
 ---
 ## DocumentInfo.QrCodeSignatures property

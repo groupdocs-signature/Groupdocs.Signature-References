@@ -1,14 +1,14 @@
 ---
 title: Native
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Ottiene o imposta lattributo nativo. Se è impostato è possibile utilizzare firme specifiche del documento. La filigrana di testo nativa per i documenti di elaborazione testi è diversa da quella normale ad esempio.
+description: Ottiene o imposta lattributo nativo. Se è impostato è possibile utilizzare firme specifiche del documento. La filigrana del testo nativo per i documenti di elaborazione di testi è diversa da quella normale ad esempio.
 type: docs
 weight: 140
 url: /it/net/groupdocs.signature.options/textsignoptions/native/
 ---
 ## TextSignOptions.Native property
 
-Ottiene o imposta l'attributo nativo. Se è impostato, è possibile utilizzare firme specifiche del documento. La filigrana di testo nativa per i documenti di elaborazione testi è diversa da quella normale, ad esempio.
+Ottiene o imposta l'attributo nativo. Se è impostato, è possibile utilizzare firme specifiche del documento. La filigrana del testo nativo per i documenti di elaborazione di testi è diversa da quella normale, ad esempio.
 
 ```csharp
 public bool Native { get; set; }

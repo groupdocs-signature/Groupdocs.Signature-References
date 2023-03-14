@@ -3,7 +3,7 @@ title: ReleaseSignatureStream
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Delegado que define el método para liberar el flujo de vista previa de la firma de salida.
 type: docs
-weight: 1580
+weight: 1660
 url: /es/net/groupdocs.signature.options/releasesignaturestream/
 ---
 ## ReleaseSignatureStream delegate

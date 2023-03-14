@@ -1,14 +1,14 @@
 ---
 title: AustralianPosteParcel
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Avustralya Postası eParcel Barkod Türü nesnesi.
+description: Avustralya Postası eParsel Barkod Türü object.
 type: docs
 weight: 30
 url: /tr/net/groupdocs.signature.domain/barcodetypes/australianposteparcel/
 ---
 ## BarcodeTypes.AustralianPosteParcel field
 
-Avustralya Postası eParcel Barkod Türü nesnesi.
+Avustralya Postası eParsel Barkod Türü object.
 
 ```csharp
 public static readonly BarcodeType AustralianPosteParcel;

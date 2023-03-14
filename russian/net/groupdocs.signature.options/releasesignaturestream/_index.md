@@ -3,7 +3,7 @@ title: ReleaseSignatureStream
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Делегат определяющий метод выпуска выходного потока предварительного просмотра подписи.
 type: docs
-weight: 1580
+weight: 1660
 url: /ru/net/groupdocs.signature.options/releasesignaturestream/
 ---
 ## ReleaseSignatureStream delegate

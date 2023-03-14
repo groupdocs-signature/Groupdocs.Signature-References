@@ -3,7 +3,7 @@ title: PreviewSignatureOptions
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Representa las opciones de vista previa de la firma.
 type: docs
-weight: 1520
+weight: 1600
 url: /es/net/groupdocs.signature.options/previewsignatureoptions/
 ---
 ## PreviewSignatureOptions class

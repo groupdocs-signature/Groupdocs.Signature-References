@@ -1,14 +1,14 @@
 ---
 title: PreviewFormat
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Önizleme resimleri biçimini alır veya ayarlar. Varsayılan değer PNG dir
+description: Önizleme görüntüleri biçimini alır veya ayarlar. Varsayılan değer PNG dir.
 type: docs
 weight: 20
 url: /tr/net/groupdocs.signature.options/previewsignatureoptions/previewformat/
 ---
 ## PreviewSignatureOptions.PreviewFormat property
 
-Önizleme resimleri biçimini alır veya ayarlar. Varsayılan değer PNG 'dir
+Önizleme görüntüleri biçimini alır veya ayarlar. Varsayılan değer PNG 'dir.
 
 ```csharp
 public PreviewFormats PreviewFormat { get; set; }

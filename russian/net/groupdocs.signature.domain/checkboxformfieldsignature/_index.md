@@ -3,7 +3,7 @@ title: CheckboxFormFieldSignature
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Содержит свойства подписи поля формы ввода флажка.
 type: docs
-weight: 70
+weight: 80
 url: /ru/net/groupdocs.signature.domain/checkboxformfieldsignature/
 ---
 ## CheckboxFormFieldSignature class

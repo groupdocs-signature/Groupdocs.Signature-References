@@ -1,14 +1,14 @@
 ---
 title: Title
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Açıklama nesnesinin başlık çubuğunda görüntülenecek bir Başlık alır veya ayarlar.
+description: Ek açıklama nesnesinin başlık çubuğunda görüntülenecek bir Başlık alır veya ayarlar.
 type: docs
 weight: 80
 url: /tr/net/groupdocs.signature.options.appearances/pdftextannotationappearance/title/
 ---
 ## PdfTextAnnotationAppearance.Title property
 
-Açıklama nesnesinin başlık çubuğunda görüntülenecek bir Başlık alır veya ayarlar.
+Ek açıklama nesnesinin başlık çubuğunda görüntülenecek bir Başlık alır veya ayarlar.
 
 ```csharp
 public string Title { get; set; }

@@ -3,7 +3,7 @@ title: VerificationResult
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Экземпляр для хранения результатов процесса проверки.
 type: docs
-weight: 1020
+weight: 1050
 url: /ru/net/groupdocs.signature.domain/verificationresult/
 ---
 ## VerificationResult class
@@ -11,23 +11,23 @@ url: /ru/net/groupdocs.signature.domain/verificationresult/
 Экземпляр для хранения результатов процесса проверки.
 
 ```csharp
-public class VerificationResult
+public class VerificationResult : IResult
 ```
-
-## Конструкторы
-
-| Имя | Описание |
-| --- | --- |
-| [VerificationResult](verificationresult)() | Конструктор по умолчанию. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
+| [DestinDocumentSize](../../groupdocs.signature.domain/verificationresult/destindocumentsize) { get; } | Возвращает размер целевого документа. Для проверки эта переменная всегда содержит ноль. |
 | [IsValid](../../groupdocs.signature.domain/verificationresult/isvalid) { get; } | Возвращает true, если процесс проверки прошел успешно, в противном случае false. |
+| [ProcessingTime](../../groupdocs.signature.domain/verificationresult/processingtime) { get; } | Возвращает время выполнения процесса в миллисекундах. |
+| [SourceDocumentSize](../../groupdocs.signature.domain/verificationresult/sourcedocumentsize) { get; } | Возвращает размер исходного документа в байтах |
+| [Succeeded](../../groupdocs.signature.domain/verificationresult/succeeded) { get; } | Список успешно проверенных подписей[`BaseSignature`](../basesignature) . |
+| [TotalSignatures](../../groupdocs.signature.domain/verificationresult/totalsignatures) { get; } | Возвращает общее количество обработанных подписей |
 
 ### Смотрите также
 
+* interface [IResult](../iresult)
 * пространство имен [GroupDocs.Signature.Domain](../../groupdocs.signature.domain)
 * сборка [GroupDocs.Signature](../../)
 

@@ -3,7 +3,7 @@ title: ITransparency
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Définir la propriété de transparence pour différentes apparences dobjets
 type: docs
-weight: 540
+weight: 560
 url: /fr/net/groupdocs.signature.domain/itransparency/
 ---
 ## ITransparency interface

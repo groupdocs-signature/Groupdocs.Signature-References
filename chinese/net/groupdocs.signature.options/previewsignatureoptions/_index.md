@@ -3,7 +3,7 @@ title: PreviewSignatureOptions
 second_title: GroupDocs.Signature for .NET API 参考
 description: 代表签名预览选项
 type: docs
-weight: 1520
+weight: 1600
 url: /zh/net/groupdocs.signature.options/previewsignatureoptions/
 ---
 ## PreviewSignatureOptions class
@@ -25,9 +25,9 @@ public class PreviewSignatureOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PreviewFormat](../../groupdocs.signature.options/previewsignatureoptions/previewformat) { get; set; } | 获取或设置预览图像格式。 默认值为PNG |
-| [SignatureId](../../groupdocs.signature.options/previewsignatureoptions/signatureid) { get; set; } | 区分签名的唯一值。 使用 SignatureId 标识预览选项。 |
-| [SignOptions](../../groupdocs.signature.options/previewsignatureoptions/signoptions) { get; set; } | 生成预览的签名选项。 |
+| [PreviewFormat](../../groupdocs.signature.options/previewsignatureoptions/previewformat) { get; set; } | 获取或设置预览图像格式。 默认值为 PNG |
+| [SignatureId](../../groupdocs.signature.options/previewsignatureoptions/signatureid) { get; set; } | 区分签名的唯一值。 使用 SignatureId 识别预览选项。 |
+| [SignOptions](../../groupdocs.signature.options/previewsignatureoptions/signoptions) { get; set; } | 生成预览的签名选项. |
 
 ### 也可以看看
 

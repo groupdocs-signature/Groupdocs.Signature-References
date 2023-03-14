@@ -1,14 +1,14 @@
 ---
 title: DataEncryption
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Ottiene o imposta limplementazione diIDataEncryptiongroupdocs.signature.domain.extensions/idataencryption interfaccia per decrittografare tutte le firme di metadati allinterno di questa raccolta di opzioni. Se questo valore è impostato tutte le firme trovate utilizzeranno questa crittografia per impostazione predefinita o la propria DataEncryption se è stata assegnata.
+description: Ottiene o imposta limplementazione diIDataEncryptiongroupdocs.signature.domain.extensions/idataencryption interfaccia per decrittografare tutte le firme dei metadati allinterno di questa raccolta di opzioni. Se questo valore è impostato tutte le firme trovate utilizzeranno questa crittografia per impostazione predefinita o la propria DataEncryption se è stata assegnata.
 type: docs
 weight: 20
 url: /it/net/groupdocs.signature.options/metadatasearchoptions/dataencryption/
 ---
 ## MetadataSearchOptions.DataEncryption property
 
-Ottiene o imposta l'implementazione di[`IDataEncryption`](../../../groupdocs.signature.domain.extensions/idataencryption) interfaccia per decrittografare tutte le firme di metadati all'interno di questa raccolta di opzioni. Se questo valore è impostato, tutte le firme trovate utilizzeranno questa crittografia per impostazione predefinita o la propria DataEncryption se è stata assegnata.
+Ottiene o imposta l'implementazione di[`IDataEncryption`](../../../groupdocs.signature.domain.extensions/idataencryption) interfaccia per decrittografare tutte le firme dei metadati all'interno di questa raccolta di opzioni. Se questo valore è impostato, tutte le firme trovate utilizzeranno questa crittografia per impostazione predefinita o la propria DataEncryption se è stata assegnata.
 
 ```csharp
 public IDataEncryption DataEncryption { get; set; }

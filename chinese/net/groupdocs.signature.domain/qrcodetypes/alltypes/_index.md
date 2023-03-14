@@ -1,14 +1,14 @@
 ---
 title: AllTypes
 second_title: GroupDocs.Signature for .NET API 参考
-description: 所有二维码类型
+description: 所有 QRCode 类型
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.domain/qrcodetypes/alltypes/
 ---
 ## QrCodeTypes.AllTypes property
 
-所有二维码类型。
+所有 QRCode 类型。
 
 ```csharp
 public static QrCodeType[] AllTypes { get; }

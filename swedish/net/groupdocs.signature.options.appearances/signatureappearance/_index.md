@@ -3,7 +3,7 @@ title: SignatureAppearance
 second_title: GroupDocs.Signature för .NET API-referens
 description: Representerar signaturens utseende  ytterligare alternativ för alternativa implementeringar av sign on document page.
 type: docs
-weight: 1170
+weight: 1240
 url: /sv/net/groupdocs.signature.options.appearances/signatureappearance/
 ---
 ## SignatureAppearance class

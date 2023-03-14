@@ -1,14 +1,14 @@
 ---
 title: PdfDigitalSignature
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Contiene Pdf Proprietà firma digitale.
+description: Contiene le proprietà della firma digitale Pdf.
 type: docs
-weight: 630
+weight: 660
 url: /it/net/groupdocs.signature.domain/pdfdigitalsignature/
 ---
 ## PdfDigitalSignature class
 
-Contiene Pdf Proprietà firma digitale.
+Contiene le proprietà della firma digitale Pdf.
 
 ```csharp
 public class PdfDigitalSignature : DigitalSignature
@@ -47,7 +47,7 @@ public class PdfDigitalSignature : DigitalSignature
 | [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | Specifica il tipo di firma. |
 | [SignTime](../../groupdocs.signature.domain/digitalsignature/signtime) { get; set; } | Ottiene o imposta l'ora in cui il documento è stato firmato. |
 | [Thumbprint](../../groupdocs.signature.domain/digitalsignature/thumbprint) { get; } | Ottiene l'identificazione personale di un certificato. |
-| [TimeStamp](../../groupdocs.signature.domain/pdfdigitalsignature/timestamp) { get; set; } | Marca temporale per firma digitale Pdf. Il valore predefinito è null. |
+| [TimeStamp](../../groupdocs.signature.domain/pdfdigitalsignature/timestamp) { get; set; } | Timestamp per firma digitale Pdf. Il valore predefinito è null. |
 | [Top](../../groupdocs.signature.domain/basesignature/top) { get; set; } | Specifica la posizione superiore della firma. |
 | [Type](../../groupdocs.signature.domain/pdfdigitalsignature/type) { get; set; } | Tipo di firma digitale Pdf. |
 | [Width](../../groupdocs.signature.domain/basesignature/width) { get; set; } | Specifica la larghezza della firma. |

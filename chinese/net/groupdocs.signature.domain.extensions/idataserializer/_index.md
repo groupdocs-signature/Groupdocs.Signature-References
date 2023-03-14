@@ -3,7 +3,7 @@ title: IDataSerializer
 second_title: GroupDocs.Signature for .NET API 参考
 description: 序列化接口提供对象序列化和反序列化方法
 type: docs
-weight: 260
+weight: 280
 url: /zh/net/groupdocs.signature.domain.extensions/idataserializer/
 ---
 ## IDataSerializer interface
@@ -18,8 +18,8 @@ public interface IDataSerializer
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Deserialize&lt;T&gt;](../../groupdocs.signature.domain.extensions/idataserializer/deserialize)(string) | 从字符串中获取所需对象的反序列化方法。 |
-| [Serialize](../../groupdocs.signature.domain.extensions/idataserializer/serialize)(object) | 将对象格式化为字符串表示的序列化方法。 |
+| [Deserialize&lt;T&gt;](../../groupdocs.signature.domain.extensions/idataserializer/deserialize)(string) | 反序列化方法以从字符串中获取所需的对象。 |
+| [Serialize](../../groupdocs.signature.domain.extensions/idataserializer/serialize)(object) | 序列化方法将对象格式化为表示. 的字符串 |
 
 ### 也可以看看
 

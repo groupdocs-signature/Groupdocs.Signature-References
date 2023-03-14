@@ -1,14 +1,14 @@
 ---
 title: IsValid
 second_title: GroupDocs.Signature for .NET API 参考
-description: 有效的属性标志
+description: 有效属性标志
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.options/verifyoptions/isvalid/
 ---
 ## VerifyOptions.IsValid property
 
-有效的属性标志。
+有效属性标志。
 
 ```csharp
 public bool IsValid { get; }

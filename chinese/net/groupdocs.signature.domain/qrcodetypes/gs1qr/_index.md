@@ -1,14 +1,14 @@
 ---
 title: GS1QR
 second_title: GroupDocs.Signature for .NET API 参考
-description: GS1 二维码类型对象
+description: GS1 QR 码类型对象
 type: docs
 weight: 50
 url: /zh/net/groupdocs.signature.domain/qrcodetypes/gs1qr/
 ---
 ## QrCodeTypes.GS1QR field
 
-GS1 二维码类型对象。
+GS1 QR 码类型对象。
 
 ```csharp
 public static readonly QrCodeType GS1QR;

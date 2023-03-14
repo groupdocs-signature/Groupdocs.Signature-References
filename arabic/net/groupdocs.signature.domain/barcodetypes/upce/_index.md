@@ -3,7 +3,7 @@ title: UPCE
 second_title: GroupDocs.Signature لمرجع .NET API
 description: كائن نوع الرمز الشريطي لـ UPCE .
 type: docs
-weight: 620
+weight: 650
 url: /ar/net/groupdocs.signature.domain/barcodetypes/upce/
 ---
 ## BarcodeTypes.UPCE field

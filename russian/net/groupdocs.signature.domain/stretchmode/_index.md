@@ -3,7 +3,7 @@ title: StretchMode
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет режим растяжения области подписи на странице документа.
 type: docs
-weight: 920
+weight: 950
 url: /ru/net/groupdocs.signature.domain/stretchmode/
 ---
 ## StretchMode enumeration

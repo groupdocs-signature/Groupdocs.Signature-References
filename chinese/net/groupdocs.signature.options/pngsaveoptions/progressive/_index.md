@@ -1,14 +1,14 @@
 ---
 title: Progressive
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置一个值该值指示此 PngSaveOptions 是否为渐进式
+description: 获取或设置一个值指示此 PngSaveOptions 是否渐进
 type: docs
 weight: 60
 url: /zh/net/groupdocs.signature.options/pngsaveoptions/progressive/
 ---
 ## PngSaveOptions.Progressive property
 
-获取或设置一个值，该值指示此 PngSaveOptions 是否为渐进式。
+获取或设置一个值，指示此 PngSaveOptions 是否渐进。
 
 ```csharp
 public bool Progressive { get; set; }

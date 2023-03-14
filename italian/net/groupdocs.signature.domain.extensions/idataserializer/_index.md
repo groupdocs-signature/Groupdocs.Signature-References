@@ -3,7 +3,7 @@ title: IDataSerializer
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Interfaccia di serializzazione per fornire metodi di serializzazione e deserializzazione degli oggetti.
 type: docs
-weight: 260
+weight: 280
 url: /it/net/groupdocs.signature.domain.extensions/idataserializer/
 ---
 ## IDataSerializer interface

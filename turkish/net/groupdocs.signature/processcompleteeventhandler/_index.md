@@ -3,7 +3,7 @@ title: ProcessCompleteEventHandler
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: İmzalama doğrulama ve arama için tamamlanmış olaylardaki süreçleri işleyecek bir yöntem temsilcisini temsil eder.
 type: docs
-weight: 1740
+weight: 1820
 url: /tr/net/groupdocs.signature/processcompleteeventhandler/
 ---
 ## ProcessCompleteEventHandler delegate

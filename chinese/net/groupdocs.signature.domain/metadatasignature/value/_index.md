@@ -3,7 +3,7 @@ title: Value
 second_title: GroupDocs.Signature for .NET API 参考
 description: 指定元数据对象
 type: docs
-weight: 30
+weight: 40
 url: /zh/net/groupdocs.signature.domain/metadatasignature/value/
 ---
 ## MetadataSignature.Value property

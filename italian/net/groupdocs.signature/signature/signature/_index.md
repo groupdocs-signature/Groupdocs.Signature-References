@@ -1,14 +1,14 @@
 ---
 title: Signature
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Inizializza la nuova istanza diSignaturegroupdocs.signature/signature classe con documento fornito da stream.
+description: Inizializza una nuova istanza diSignaturegroupdocs.signature/signature classe con documento fornito da stream.
 type: docs
 weight: 10
 url: /it/net/groupdocs.signature/signature/signature/
 ---
 ## Signature(Stream) {#constructor}
 
-Inizializza la nuova istanza di[`Signature`](../../signature) classe con documento fornito da stream.
+Inizializza una nuova istanza di[`Signature`](../../signature) classe con documento fornito da stream.
 
 ```csharp
 public Signature(Stream document)
@@ -20,7 +20,7 @@ public Signature(Stream document)
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sui tipi di file supportati da GroupDocs.Signature: [Formati di documenti supportati da GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
 * Ulteriori informazioni su GroupDocs.Signature per le funzionalità .NET: [Guida per sviluppatori](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
@@ -35,7 +35,7 @@ public Signature(Stream document)
 
 ## Signature(Stream, LoadOptions) {#constructor_1}
 
-Inizializza la nuova istanza di[`Signature`](../../signature) classe con documento fornito da stream e opzioni di caricamentoLoadOptions .
+Inizializza una nuova istanza di[`Signature`](../../signature) classe con documento fornito da stream e opzioni di caricamentoLoadOptions .
 
 ```csharp
 public Signature(Stream document, LoadOptions loadOptions)
@@ -48,7 +48,7 @@ public Signature(Stream document, LoadOptions loadOptions)
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sui tipi di file supportati da GroupDocs.Signature: [Formati di documenti supportati da GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
 * Ulteriori informazioni su GroupDocs.Signature per le funzionalità .NET: [Guida per sviluppatori](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
@@ -65,7 +65,7 @@ public Signature(Stream document, LoadOptions loadOptions)
 
 ## Signature(Stream, SignatureSettings) {#constructor_3}
 
-Inizializza la nuova istanza di[`Signature`](../../signature) istanza di classe con documento fornito da stream e[`SignatureSettings`](../../signaturesettings) .
+Inizializza una nuova istanza di[`Signature`](../../signature)istanza di classe con documento fornito da stream e[`SignatureSettings`](../../signaturesettings) .
 
 ```csharp
 public Signature(Stream document, SignatureSettings settings)
@@ -78,7 +78,7 @@ public Signature(Stream document, SignatureSettings settings)
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sui tipi di file supportati da GroupDocs.Signature: [Formati di documenti supportati da GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
 * Ulteriori informazioni su GroupDocs.Signature per le funzionalità .NET: [Guida per sviluppatori](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
@@ -94,7 +94,7 @@ public Signature(Stream document, SignatureSettings settings)
 
 ## Signature(Stream, LoadOptions, SignatureSettings) {#constructor_2}
 
-Inizializza la nuova istanza di[`Signature`](../../signature) istanza di classe con documento fornito da stream, opzioni di caricamentoLoadOptions e impostazioni[`SignatureSettings`](../../signaturesettings) .
+Inizializza una nuova istanza di[`Signature`](../../signature) istanza di classe con documento fornito da stream, opzioni di caricamentoLoadOptions e impostazioni[`SignatureSettings`](../../signaturesettings) .
 
 ```csharp
 public Signature(Stream document, LoadOptions loadOptions, SignatureSettings settings)
@@ -108,7 +108,7 @@ public Signature(Stream document, LoadOptions loadOptions, SignatureSettings set
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sui tipi di file supportati da GroupDocs.Signature: [Formati di documenti supportati da GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
 * Ulteriori informazioni su GroupDocs.Signature per le funzionalità .NET: [Guida per sviluppatori](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
@@ -126,7 +126,7 @@ public Signature(Stream document, LoadOptions loadOptions, SignatureSettings set
 
 ## Signature(string) {#constructor_4}
 
-Inizializza la nuova istanza di[`Signature`](../../signature) istanza di classe con documento fornito dal percorso del file.
+Inizializza una nuova istanza di[`Signature`](../../signature) istanza di classe con documento fornito dal percorso del file.
 
 ```csharp
 public Signature(string filePath)
@@ -134,11 +134,11 @@ public Signature(string filePath)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| filePath | String | Percorso del file assoluto o relativo. |
+| filePath | String | Percorso file assoluto o relativo. |
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sui tipi di file supportati da GroupDocs.Signature: [Formati di documenti supportati da GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
 * Ulteriori informazioni su GroupDocs.Signature per le funzionalità .NET: [Guida per sviluppatori](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
@@ -153,7 +153,7 @@ public Signature(string filePath)
 
 ## Signature(string, LoadOptions) {#constructor_5}
 
-Inizializza la nuova istanza di[`Signature`](../../signature) istanza di classe con documento fornito dal percorso del file eLoadOptions .
+Inizializza una nuova istanza di[`Signature`](../../signature) istanza di classe con documento fornito dal percorso del file eLoadOptions .
 
 ```csharp
 public Signature(string filePath, LoadOptions loadOptions)
@@ -161,12 +161,12 @@ public Signature(string filePath, LoadOptions loadOptions)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| filePath | String | Percorso del file assoluto o relativo. |
+| filePath | String | Percorso file assoluto o relativo. |
 | loadOptions | LoadOptions | Le opzioni di caricamento del documento. |
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sui tipi di file supportati da GroupDocs.Signature: [Formati di documenti supportati da GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
 * Ulteriori informazioni su GroupDocs.Signature per le funzionalità .NET: [Guida per sviluppatori](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
@@ -183,7 +183,7 @@ public Signature(string filePath, LoadOptions loadOptions)
 
 ## Signature(string, SignatureSettings) {#constructor_7}
 
-Inizializza la nuova istanza di[`Signature`](../../signature) istanza di classe con documento fornito dal percorso del file e[`SignatureSettings`](../../signaturesettings) .
+Inizializza una nuova istanza di[`Signature`](../../signature) istanza di classe con documento fornito dal percorso del file e[`SignatureSettings`](../../signaturesettings) .
 
 ```csharp
 public Signature(string filePath, SignatureSettings settings)
@@ -191,12 +191,12 @@ public Signature(string filePath, SignatureSettings settings)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| filePath | String | Percorso del file assoluto o relativo. |
+| filePath | String | Percorso file assoluto o relativo. |
 | settings | SignatureSettings | Le impostazioni della firma. |
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sui tipi di file supportati da GroupDocs.Signature: [Formati di documenti supportati da GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
 * Ulteriori informazioni su GroupDocs.Signature per le funzionalità .NET: [Guida per sviluppatori](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
@@ -212,7 +212,7 @@ public Signature(string filePath, SignatureSettings settings)
 
 ## Signature(string, LoadOptions, SignatureSettings) {#constructor_6}
 
-Inizializza la nuova istanza di[`Signature`](../../signature) istanza di classe con documento fornito dal percorso del file,LoadOptions e[`SignatureSettings`](../../signaturesettings) .
+Inizializza una nuova istanza di[`Signature`](../../signature) istanza di classe con documento fornito dal percorso del file,LoadOptions E[`SignatureSettings`](../../signaturesettings) .
 
 ```csharp
 public Signature(string filePath, LoadOptions loadOptions, SignatureSettings settings)
@@ -220,13 +220,13 @@ public Signature(string filePath, LoadOptions loadOptions, SignatureSettings set
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| filePath | String | Percorso del file assoluto o relativo. |
+| filePath | String | Percorso file assoluto o relativo. |
 | loadOptions | LoadOptions | Le opzioni di caricamento del documento. |
 | settings | SignatureSettings | Le impostazioni della firma. |
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sui tipi di file supportati da GroupDocs.Signature: [Formati di documenti supportati da GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
 * Ulteriori informazioni su GroupDocs.Signature per le funzionalità .NET: [Guida per sviluppatori](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)

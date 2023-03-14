@@ -1,14 +1,14 @@
 ---
 title: IssuerName
 second_title: GroupDocs.Signature för .NET API-referens
-description: Utfärdarens namn på certifikatet som ska valideras. Värdet är skiftlägeskänsligt. Om den här egenskapen är inställd kontrollerar verifieringen om signaturens utfärdarnamn innehåller eller är lika med passerat värde
+description: Utfärdarens namn på certifikatet som ska valideras. Värdet är skiftlägeskänsligt. Om den här egenskapen är inställd kommer verifieringen att kontrollera om signaturens utfärdarnamn innehåller eller är lika med passerat värde
 type: docs
 weight: 70
 url: /sv/net/groupdocs.signature.options/digitalverifyoptions/issuername/
 ---
 ## DigitalVerifyOptions.IssuerName property
 
-Utfärdarens namn på certifikatet som ska valideras. Värdet är skiftlägeskänsligt. Om den här egenskapen är inställd kontrollerar verifieringen om signaturens utfärdarnamn innehåller eller är lika med passerat värde
+Utfärdarens namn på certifikatet som ska valideras. Värdet är skiftlägeskänsligt. Om den här egenskapen är inställd kommer verifieringen att kontrollera om signaturens utfärdarnamn innehåller eller är lika med passerat värde
 
 ```csharp
 public string IssuerName { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: HorizontalAlignment
 second_title: GroupDocs.Signature for .NET API 参考
-description: 文档页面上签名的水平对齐方式
+description: 签名在文档页面上的水平对齐
 type: docs
 weight: 90
 url: /zh/net/groupdocs.signature.options/textsignoptions/horizontalalignment/
 ---
 ## TextSignOptions.HorizontalAlignment property
 
-文档页面上签名的水平对齐方式。
+签名在文档页面上的水平对齐。
 
 ```csharp
 public HorizontalAlignment HorizontalAlignment { get; set; }

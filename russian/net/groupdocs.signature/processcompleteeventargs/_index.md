@@ -3,7 +3,7 @@ title: ProcessCompleteEventArgs
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Предоставляет данные о завершении процесса подписания проверки и поиска.
 type: docs
-weight: 1730
+weight: 1810
 url: /ru/net/groupdocs.signature/processcompleteeventargs/
 ---
 ## ProcessCompleteEventArgs class

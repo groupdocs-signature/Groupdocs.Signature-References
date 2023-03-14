@@ -1,14 +1,14 @@
 ---
 title: XLT
 second_title: GroupDocs.Signature für .NET-API-Referenz
-description: ExcelBinärvorlage .xlt stellt das ExcelVorlagendateiformat dar. Erfahren Sie mehr über dieses Dateiformathierhttps//wiki.fileformat.com/spreadsheet/xlt .
+description: ExcelBinärvorlage .xlt stellt das ExcelVorlagendateiformat dar. Erfahren Sie mehr über dieses DateiformatHierhttps//wiki.fileformat.com/spreadsheet/xlt .
 type: docs
-weight: 550
+weight: 560
 url: /de/net/groupdocs.signature.domain/filetype/xlt/
 ---
 ## FileType.XLT field
 
-Excel-Binärvorlage (.xlt) stellt das Excel-Vorlagendateiformat dar. Erfahren Sie mehr über dieses Dateiformat[hier](https://wiki.fileformat.com/spreadsheet/xlt) .
+Excel-Binärvorlage (.xlt) stellt das Excel-Vorlagendateiformat dar. Erfahren Sie mehr über dieses Dateiformat[Hier](https://wiki.fileformat.com/spreadsheet/xlt) .
 
 ```csharp
 public static readonly FileType XLT;

@@ -3,7 +3,7 @@ title: Metered
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يوفر طرقًا للتطبيقمقننةhttps//purchase.groupdocs.com/faqs/licensing/metered ترخيص .
 type: docs
-weight: 1110
+weight: 1180
 url: /ar/net/groupdocs.signature/metered/
 ---
 ## Metered class

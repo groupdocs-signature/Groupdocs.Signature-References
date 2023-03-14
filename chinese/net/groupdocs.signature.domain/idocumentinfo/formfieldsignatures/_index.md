@@ -1,14 +1,14 @@
 ---
 title: FormFieldSignatures
 second_title: GroupDocs.Signature for .NET API 参考
-description: 添加或更新的文档表单字段签名的集合Signaturegroupdocs.signature/signature方法.
+description: 添加或更新的文档表单字段签名集合Signaturegroupdocs.signature/signature方法.
 type: docs
 weight: 50
 url: /zh/net/groupdocs.signature.domain/idocumentinfo/formfieldsignatures/
 ---
 ## IDocumentInfo.FormFieldSignatures property
 
-添加或更新的文档表单字段签名的集合[`Signature`](../../../groupdocs.signature/signature)方法.
+添加或更新的文档表单字段签名集合[`Signature`](../../../groupdocs.signature/signature)方法.
 
 ```csharp
 public IList<FormFieldSignature> FormFieldSignatures { get; }

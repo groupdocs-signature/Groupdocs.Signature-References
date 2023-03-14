@@ -3,7 +3,7 @@ title: DigitalVerifyOptions
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Сохраняет параметры для проверки цифровой подписи документа.
 type: docs
-weight: 1270
+weight: 1350
 url: /ru/net/groupdocs.signature.options/digitalverifyoptions/
 ---
 ## DigitalVerifyOptions class
@@ -46,7 +46,7 @@ public class DigitalVerifyOptions : VerifyOptions
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Базовое использование проверки ЭЦП с помощью GroupDocs.Signature: [ Электронная проверка цифровой подписи в документе](https://docs.groupdocs.com/display/signaturenet/Verify+Digital+signatures+in+the+document)
 * Расширенное использование настроек проверки ЭЦП с GroupDocs.Signature: [Расширенное использование цифровых подписей eVerification в документе и дополнительные настройки]()

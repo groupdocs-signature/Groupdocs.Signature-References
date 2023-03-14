@@ -3,7 +3,7 @@ title: PreviewOptions
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет параметры предварительного просмотра документа.
 type: docs
-weight: 1500
+weight: 1580
 url: /ru/net/groupdocs.signature.options/previewoptions/
 ---
 ## PreviewOptions class

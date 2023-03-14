@@ -3,7 +3,7 @@ title: IRotation
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Définit les propriétés de rotation des signatures.
 type: docs
-weight: 520
+weight: 540
 url: /fr/net/groupdocs.signature.domain/irotation/
 ---
 ## IRotation interface

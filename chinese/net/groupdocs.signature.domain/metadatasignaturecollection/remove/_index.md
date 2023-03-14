@@ -16,7 +16,7 @@ public bool Remove(string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 元数据签名的不区分大小写的名称。 |
+| name | String | 元数据签名的名称不区分大小写。 |
 
 ### 也可以看看
 

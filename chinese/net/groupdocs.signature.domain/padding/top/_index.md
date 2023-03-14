@@ -1,14 +1,14 @@
 ---
 title: Top
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置上边缘的填充值
+description: 获取或设置顶部边缘的填充值
 type: docs
 weight: 80
 url: /zh/net/groupdocs.signature.domain/padding/top/
 ---
 ## Padding.Top property
 
-获取或设置上边缘的填充值。
+获取或设置顶部边缘的填充值。
 
 ```csharp
 public int Top { get; set; }

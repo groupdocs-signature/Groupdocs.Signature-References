@@ -1,14 +1,14 @@
 ---
 title: QrCodeSearchOptions
 second_title: GroupDocs.Signature for .NET API 参考
-description: 表示 QR 码签名的搜索选项
+description: 代表QRCode签名的搜索选项
 type: docs
-weight: 1540
+weight: 1620
 url: /zh/net/groupdocs.signature.options/qrcodesearchoptions/
 ---
 ## QrCodeSearchOptions class
 
-表示 QR 码签名的搜索选项。
+代表QR-Code签名的搜索选项。
 
 ```csharp
 public class QrCodeSearchOptions : SearchOptions
@@ -27,22 +27,22 @@ public class QrCodeSearchOptions : SearchOptions
 | 姓名 | 描述 |
 | --- | --- |
 | [AllPages](../../groupdocs.signature.options/searchoptions/allpages) { get; set; } | 在每个文档页面上搜索的标志。默认情况下，此值设置为 true. |
-| [DataEncryption](../../groupdocs.signature.options/qrcodesearchoptions/dataencryption) { get; set; } | 获取或设置的实现[`IDataEncryption`](../../groupdocs.signature.domain.extensions/idataencryption)用于编码和解码二维码签名文本或数据属性的接口。 |
-| [EncodeType](../../groupdocs.signature.options/qrcodesearchoptions/encodetype) { get; set; } | 指定编码类型属性以搜索二维码。 如果未设置此值，则搜索所有支持的二维码类型。 |
-| [MatchType](../../groupdocs.signature.options/qrcodesearchoptions/matchtype) { get; set; } | 获取或设置二维码文本匹配类型搜索。仅在设置 Text 属性时使用。 |
+| [DataEncryption](../../groupdocs.signature.options/qrcodesearchoptions/dataencryption) { get; set; } | 获取或设置的实现[`IDataEncryption`](../../groupdocs.signature.domain.extensions/idataencryption)编码和解码二维码签名文本或数据属性的接口。 |
+| [EncodeType](../../groupdocs.signature.options/qrcodesearchoptions/encodetype) { get; set; } | 指定编码类型属性以搜索 QR 码。 如果未设置此值，则将针对所有支持的 QR 码类型处理搜索。 |
+| [MatchType](../../groupdocs.signature.options/qrcodesearchoptions/matchtype) { get; set; } | 获取或设置二维码文本匹配类型搜索。它仅在设置 Text 属性时使用。 |
 | [PageNumber](../../groupdocs.signature.options/searchoptions/pagenumber) { get; set; } | 获取或设置用于搜索的文档页码。 值是可选的。 |
 | [PagesSetup](../../groupdocs.signature.options/searchoptions/pagessetup) { get; set; } | 用于指定签名搜索页面的选项。 |
-| [ReturnContent](../../groupdocs.signature.options/qrcodesearchoptions/returncontent) { get; set; } | 获取或设置标志以获取文档页面上签名的 QR-Code 图像内容。 如果此标志设置为 true，则 QR-Code 签名图像内容将按要求的格式保存原始图像数据[`ReturnContentType`](./returncontenttype). 默认情况下禁用此选项。 |
-| [ReturnContentType](../../groupdocs.signature.options/qrcodesearchoptions/returncontenttype) { get; set; } | 指定启用 ReturnContent 属性时 QR 码签名的返回图像内容的文件类型。 默认设置为 Null。这意味着以原始格式返回 QR 码图像内容。 此图像格式指定于[`Format`](../../groupdocs.signature.domain/qrcodesignature/format) 可能支持的值为：FileType.JPEG、FileType.PNG、FileType.BMP。 如果不支持提供的格式，则将返回原始 .png 中的二维码图像内容。 |
+| [ReturnContent](../../groupdocs.signature.options/qrcodesearchoptions/returncontent) { get; set; } | 获取或设置抓取文档页面签名二维码图片内容的标志。 如果设置为真，二维码签名图片内容将按照要求的格式保留原始图片数据[`ReturnContentType`](./returncontenttype). 默认情况下禁用此选项。 |
+| [ReturnContentType](../../groupdocs.signature.options/qrcodesearchoptions/returncontenttype) { get; set; } | 指定启用ReturnContent 属性时QR-Code 签名返回图像内容的文件类型。 默认设置为Null。即返回原始格式的二维码图片内容。 此图像格式指定于[`Format`](../../groupdocs.signature.domain/qrcodesignature/format) 可能支持的值为：FileType.JPEG、FileType.PNG、FileType.BMP。 如果不支持提供的格式，将返回原始 .png 中的二维码图像内容。 |
 | [SkipExternal](../../groupdocs.signature.options/searchoptions/skipexternal) { get; set; } | 标志以仅返回标记为 IsSignature 的签名。默认值为 false，表示返回所有符合指定条件的签名。 |
-| [Text](../../groupdocs.signature.options/qrcodesearchoptions/text) { get; set; } | 指定二维码签名文本是否应该被搜索和匹配。 |
+| [Text](../../groupdocs.signature.options/qrcodesearchoptions/text) { get; set; } | 指定 QR 码签名文本是否应该被搜索和匹配。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* GroupDocs搜索二维码电子签名的基本用法。签名： [如何在文档中搜索二维码签名](https://docs.groupdocs.com/display/signaturenet/Search+for+QR-Code+e-signatures)
-* 使用 GroupDocs.Signature 搜索 QR-Code 电子签名设置的高级用法： [文档中 eSearch QR 码签名的高级使用和其他设置](https://docs.groupdocs.com/display/signaturenet/Advanced+search+for+QR-code+signatures)
+* GroupDocs搜索QR-Code电子签名的基本用法。Signature: [如何在文档中搜索二维码签名](https://docs.groupdocs.com/display/signaturenet/Search+for+QR-Code+e-signatures)
+* GroupDocs.Signature: 搜索二维码电子签名设置高级用法[文档中 eSearch QR 码签名的高级用法和其他设置](https://docs.groupdocs.com/display/signaturenet/Advanced+search+for+QR-code+signatures)
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Sovrascrive il metodo Equals per confrontare le proprietà degli SMS
+description: Sovrascrive il metodo Equals per confrontare le proprietà SMS
 type: docs
 weight: 40
 url: /it/net/groupdocs.signature.domain.extensions/sms/equals/
 ---
 ## SMS.Equals method
 
-Sovrascrive il metodo Equals per confrontare le proprietà degli SMS
+Sovrascrive il metodo Equals per confrontare le proprietà SMS
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,11 +16,11 @@ public override bool Equals(object obj)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| obj | Object | Oggetto SMS con cui confrontare. |
+| obj | Object | Oggetto SMS da confrontare. |
 
 ### Valore di ritorno
 
-Restituisce true se l'oggetto SMS passato ha lo stesso tipo e tutte le sue proprietà sono uguali alle proprietà di questa istanza.
+Restituisce vero se l'oggetto SMS passato ha lo stesso tipo e tutte le sue proprietà sono uguali alle proprietà di questa istanza.
 
 ### Guarda anche
 

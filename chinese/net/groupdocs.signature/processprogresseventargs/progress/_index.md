@@ -1,14 +1,14 @@
 ---
 title: Progress
 second_title: GroupDocs.Signature for .NET API 参考
-description: 以百分比表示进度值范围从 0 到 100.
+description: 表示进度百分比值范围从 0 到 100.
 type: docs
 weight: 40
 url: /zh/net/groupdocs.signature/processprogresseventargs/progress/
 ---
 ## ProcessProgressEventArgs.Progress property
 
-以百分比表示进度。值范围从 0 到 100.
+表示进度百分比。值范围从 0 到 100.
 
 ```csharp
 public int Progress { get; set; }

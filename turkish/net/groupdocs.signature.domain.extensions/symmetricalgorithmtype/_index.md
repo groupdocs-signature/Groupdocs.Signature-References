@@ -3,7 +3,7 @@ title: SymmetricAlgorithmType
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Simetrik şifreleme algoritması türünü temsil eder.
 type: docs
-weight: 350
+weight: 370
 url: /tr/net/groupdocs.signature.domain.extensions/symmetricalgorithmtype/
 ---
 ## SymmetricAlgorithmType enumeration

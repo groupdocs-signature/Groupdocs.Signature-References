@@ -3,7 +3,7 @@ title: SignResult
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Résultat du processus de signature pour un document avec des signatures nouvellement créées.
 type: docs
-weight: 810
+weight: 840
 url: /fr/net/groupdocs.signature.domain/signresult/
 ---
 ## SignResult class
@@ -18,8 +18,12 @@ public class SignResult : IResult
 
 | Nom | La description |
 | --- | --- |
+| [DestinDocumentSize](../../groupdocs.signature.domain/signresult/destindocumentsize) { get; } | Renvoie la taille du document de destination |
 | [Failed](../../groupdocs.signature.domain/signresult/failed) { get; } | Liste des signatures dont la création a échoué. |
+| [ProcessingTime](../../groupdocs.signature.domain/signresult/processingtime) { get; } | Renvoie le temps d'exécution du processus en millisecondes |
+| [SourceDocumentSize](../../groupdocs.signature.domain/signresult/sourcedocumentsize) { get; } | Renvoie la taille du document source |
 | [Succeeded](../../groupdocs.signature.domain/signresult/succeeded) { get; } | Liste des signatures nouvellement créées[`BaseSignature`](../basesignature) . |
+| [TotalSignatures](../../groupdocs.signature.domain/signresult/totalsignatures) { get; } | Renvoie le nombre total de signatures traitées |
 
 ### Voir également
 

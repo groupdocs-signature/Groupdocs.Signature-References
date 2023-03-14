@@ -3,7 +3,7 @@ title: DigitalSignatureAppearance
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Describe la apariencia de la línea de firma para la firma digital. Se puede aplicar una línea de firma para una sola firma digital. La línea de firma siempre está en la primera página. Esta función puede resultar útil para los formatos de archivo .docx .doc .odt y .xlsx.
 type: docs
-weight: 1120
+weight: 1190
 url: /es/net/groupdocs.signature.options.appearances/digitalsignatureappearance/
 ---
 ## DigitalSignatureAppearance class

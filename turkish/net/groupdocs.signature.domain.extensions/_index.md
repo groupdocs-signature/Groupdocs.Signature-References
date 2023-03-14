@@ -14,7 +14,7 @@ Ad alanı, imza görünümleri ve ek işlevler için uzantılar sağlar.
 | --- | --- |
 | [Address](./address) | Kişi için adresi temsil eder. |
 | [Brush](./brush) | Çeşitli fırçalar için temel sınıfı temsil eder. |
-| [CryptoCurrencyTransfer](./cryptocurrencytransfer) | QR Kodu için Kripto para birimi transferini (alma veya gönderme) temsil eder. |
+| [CryptoCurrencyTransfer](./cryptocurrencytransfer) | QR-Code için Kripto para transferini (alma veya gönderme) temsil eder. |
 | [Email](./email) | QR-Code için E-posta biçimini temsil eder. |
 | [EPC](./epc) | Avrupa Ödemeler Konseyi Hızlı Yanıt Kodunu Temsil Eder. |
 | [Event](./event) | Standart QR Kodu Olay ayrıntılarını temsil eder. |
@@ -28,10 +28,10 @@ Ad alanı, imza görünümleri ve ek işlevler için uzantılar sağlar.
 | [SolidBrush](./solidbrush) | Düz fırçayı temsil eder. Arka plan rengi özelliği yerine kullanılabilir. |
 | [SpreadsheetPosition](./spreadsheetposition) | Elektronik Tablo belgeleri için imza konumunu tanımlar. |
 | [SymmetricEncryption](./symmetricencryption) | Tek anahtar ve parola (salt) ile veri şifreleme için standart simetrik algoritmalar uygular. |
-| [SymmetricEncryptionAttribute](./symmetricencryptionattribute) | Nesne serileştirme dizesini şifrelemek/şifresini çözmek için örnek serileştirme talimatı verir. |
+| [SymmetricEncryptionAttribute](./symmetricencryptionattribute) | Nesne serileştirme dizesini şifrelemek / şifresini çözmek için örnek serileştirme talimatı verir. |
 | [TextShadow](./textshadow) | Metin imzaları için metin gölgesi özelliklerini temsil eder. Sonuç, imza türüne ve belge biçimine bağlı olarak değişebilir. TextShadow, desteklenen tüm belge türleri için TextAsImage imzasıyla, ayrıca Elektronik Tablolar için filigran olarak basit TextSignature ve TextSignature ile birlikte kullanılması önerilir ( .xslx) ve Sunumlar (.pptx). Simple TextSignature for Words (.docx) de önerilir, ancak sınırlı işlevselliğe sahiptir. |
 | [TextureBrush](./texturebrush) | Doku fırçasını temsil eder. |
-| [VCard](./vcard) | Elektronik Kartvizit standart iletişim ayrıntılarını temsil eder. |
+| [VCard](./vcard) | Elektronik Kartvizit standart iletişim bilgilerini temsil eder. |
 | [WiFi](./wifi) | WiFi ağ bağlantısı ayrıntılarını temsil eder. |
 ## Arayüzler
 
@@ -43,7 +43,8 @@ Ad alanı, imza görünümleri ve ek işlevler için uzantılar sağlar.
 
 | numaralandırma | Tanım |
 | --- | --- |
-| [CryptoCurrencyType](./cryptocurrencytype) | Kripto para birimi türünü temsil eder. |
+| [CryptoCurrencyType](./cryptocurrencytype) | Kripto para türünü temsil eder. |
+| [DataMatrixEncodeMode](./datamatrixencodemode) | DataMatrix kodlayıcının kodlama modu, varsayılan olarak Auto |
 | [SymmetricAlgorithmType](./symmetricalgorithmtype) | Simetrik şifreleme algoritması türünü temsil eder. |
 | [WiFiEncryptionType](./wifiencryptiontype) | WiFi Şifreleme türünü temsil eder. |
 

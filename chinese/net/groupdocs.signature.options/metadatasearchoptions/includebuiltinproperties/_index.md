@@ -1,14 +1,14 @@
 ---
 title: IncludeBuiltinProperties
 second_title: GroupDocs.Signature for .NET API 参考
-description: 指示是否应将文档统计信息信息等内置文档属性包含在搜索结果中 此标志对演示文稿电子表格和文字处理文档文件类型有意义
+description: 指示内置文档属性如文档统计信息信息等是否应包含在搜索结果中 此标志对演示文稿电子表格和文字处理文档文件类型有意义
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.options/metadatasearchoptions/includebuiltinproperties/
 ---
 ## MetadataSearchOptions.IncludeBuiltinProperties property
 
-指示是否应将文档统计信息、信息等内置文档属性包含在搜索结果中。 此标志对演示文稿、电子表格和文字处理文档文件类型有意义。
+指示内置文档属性（如文档统计信息、信息等）是否应包含在搜索结果中。 此标志对演示文稿、电子表格和文字处理文档文件类型有意义。
 
 ```csharp
 public bool IncludeBuiltinProperties { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: ProcessProgressEventHandler
 second_title: GroupDocs.Signature for .NET API 参考
-description: 表示一个方法委托它将处理进度事件的进程以进行签名验证和搜索
+description: 表示一个方法委托它将处理有关签名验证和搜索的进度事件的过程
 type: docs
-weight: 1770
+weight: 1850
 url: /zh/net/groupdocs.signature/processprogresseventhandler/
 ---
 ## ProcessProgressEventHandler delegate
 
-表示一个方法委托，它将处理进度事件的进程以进行签名、验证和搜索。
+表示一个方法委托，它将处理有关签名、验证和搜索的进度事件的过程。
 
 ```csharp
 public delegate void ProcessProgressEventHandler(Signature signature, 
@@ -18,7 +18,7 @@ public delegate void ProcessProgressEventHandler(Signature signature,
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | signature | Signature | 签名对象 |
-| args | ProcessProgressEventArgs | 论据[`ProcessProgressEventArgs`](../processprogresseventargs)指定 Progress 事件的属性。 |
+| args | ProcessProgressEventArgs | 参数[`ProcessProgressEventArgs`](../processprogresseventargs)指定 Progress 事件的属性。 |
 
 ### 也可以看看
 

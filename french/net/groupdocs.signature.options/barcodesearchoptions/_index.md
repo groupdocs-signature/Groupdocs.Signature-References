@@ -3,7 +3,7 @@ title: BarcodeSearchOptions
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Représente les options de recherche pour les signatures de codebarres.
 type: docs
-weight: 1180
+weight: 1250
 url: /fr/net/groupdocs.signature.options/barcodesearchoptions/
 ---
 ## BarcodeSearchOptions class

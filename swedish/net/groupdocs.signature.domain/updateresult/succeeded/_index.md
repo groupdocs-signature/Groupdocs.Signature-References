@@ -3,7 +3,7 @@ title: Succeeded
 second_title: GroupDocs.Signature för .NET API-referens
 description: Lista över framgångsrikt modifierade signaturerBaseSignaturegroupdocs.signature.domain/basesignature .
 type: docs
-weight: 20
+weight: 50
 url: /sv/net/groupdocs.signature.domain/updateresult/succeeded/
 ---
 ## UpdateResult.Succeeded property

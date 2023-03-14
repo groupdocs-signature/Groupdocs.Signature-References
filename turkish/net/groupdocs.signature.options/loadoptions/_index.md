@@ -1,14 +1,14 @@
 ---
 title: LoadOptions
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: İmzalanacak bir belge açılırken ek seçeneklerin parola gibi belirtilmesine olanak tanır.
+description: Bir belgeyi imzalamak için açarken ek seçenekler şifre gibi belirlemeye izin verir.
 type: docs
-weight: 1390
+weight: 1470
 url: /tr/net/groupdocs.signature.options/loadoptions/
 ---
 ## LoadOptions class
 
-İmzalanacak bir belge açılırken ek seçeneklerin (parola gibi) belirtilmesine olanak tanır.
+Bir belgeyi imzalamak için açarken ek seçenekler (şifre gibi) belirlemeye izin verir.
 
 ```csharp
 public class LoadOptions
@@ -24,8 +24,8 @@ public class LoadOptions
 
 | İsim | Tanım |
 | --- | --- |
-| [LoadExternalResources](../../groupdocs.signature.options/loadoptions/loadexternalresources) { get; set; } | Harici belge kaynaklarının yüklenmesi gerekip gerekmediğini belirten seçenekleri alır veya ayarlar. Değeri devre dışı bırakılmış (yanlış) bu seçenek, çok sayıda veya büyük harici kaynak bağlantısına sahip belgeler için yükleme süresinden tasarruf edilmesini sağlar. Varsayılan değer etkindir (true). |
-| [Password](../../groupdocs.signature.options/loadoptions/password) { get; set; } | Korumalı bir belgeyi açmak için parola alır veya ayarlar. Ayrıca imzalı belgeyi korumalı olarak kaydetmek için kullanılır. |
+| [LoadExternalResources](../../groupdocs.signature.options/loadoptions/loadexternalresources) { get; set; } | Harici belge kaynaklarının yüklenmesi gerekip gerekmediğini belirten seçenekleri alır veya ayarlar. Değeri devre dışı bırakılan (yanlış) bu seçenek, çok sayıda veya büyük dış kaynak bağlantısı olan belgeler için yükleme süresinden tasarruf sağlar. Varsayılan değer olarak etkindir (doğru). |
+| [Password](../../groupdocs.signature.options/loadoptions/password) { get; set; } | Korumalı bir belgeyi açmak için parola alır veya ayarlar. İmzalı belgeyi korumalı olarak kaydetmek için de kullanılır. |
 
 ### Ayrıca bakınız
 

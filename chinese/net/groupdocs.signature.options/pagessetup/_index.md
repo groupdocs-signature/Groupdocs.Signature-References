@@ -3,7 +3,7 @@ title: PagesSetup
 second_title: GroupDocs.Signature for .NET API 参考
 description: 描述要使用的特殊文档页面
 type: docs
-weight: 1420
+weight: 1500
 url: /zh/net/groupdocs.signature.options/pagessetup/
 ---
 ## PagesSetup class
@@ -25,10 +25,10 @@ public class PagesSetup
 | 姓名 | 描述 |
 | --- | --- |
 | [EvenPages](../../groupdocs.signature.options/pagessetup/evenpages) { get; set; } | 获取或设置标志以使用文档的偶数页。 |
-| [FirstPage](../../groupdocs.signature.options/pagessetup/firstpage) { get; set; } | 获取或设置使用第一个文档页面的标志。 |
-| [LastPage](../../groupdocs.signature.options/pagessetup/lastpage) { get; set; } | 获取或设置使用最后一个文档页的标志。 |
+| [FirstPage](../../groupdocs.signature.options/pagessetup/firstpage) { get; set; } | 获取或设置标志以使用第一个文档页面。 |
+| [LastPage](../../groupdocs.signature.options/pagessetup/lastpage) { get; set; } | 获取或设置标志以使用最后一个文档页面。 |
 | [OddPages](../../groupdocs.signature.options/pagessetup/oddpages) { get; set; } | 获取或设置标志以使用文档的奇数页。 |
-| [PageNumbers](../../groupdocs.signature.options/pagessetup/pagenumbers) { get; set; } | 设置要使用的任意文档页面。 |
+| [PageNumbers](../../groupdocs.signature.options/pagessetup/pagenumbers) { get; set; } | 设置要使用的文档的任意页面。 |
 
 ### 也可以看看
 

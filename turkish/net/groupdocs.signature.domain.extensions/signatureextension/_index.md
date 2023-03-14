@@ -3,7 +3,7 @@ title: SignatureExtension
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: İmza uzantıları için temel sınıfı temsil eder.
 type: docs
-weight: 310
+weight: 330
 url: /tr/net/groupdocs.signature.domain.extensions/signatureextension/
 ---
 ## SignatureExtension class

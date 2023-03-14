@@ -16,7 +16,7 @@ public override int GetHashCode()
 
 ### Returvärde
 
-Hashkod för kryptovalutaöverföring
+Hashkod för överföring av kryptovaluta
 
 ### Se även
 

@@ -1,14 +1,14 @@
 ---
 title: Value
 second_title: GroupDocs.Signature for .NET API 参考
-description: 指定表单字段签名的值是否应该被搜索默认值为空
+description: 指定表单字段签名的值如果它应该被搜索默认值为 null.
 type: docs
 weight: 40
 url: /zh/net/groupdocs.signature.options/formfieldsearchoptions/value/
 ---
 ## FormFieldSearchOptions.Value property
 
-指定表单字段签名的值是否应该被搜索。默认值为空。
+指定表单字段签名的值，如果它应该被搜索。默认值为 null.
 
 ```csharp
 public object Value { get; set; }

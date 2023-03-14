@@ -3,7 +3,7 @@ title: PdfTextAnnotationAppearance
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Descrive laspetto delloggetto annotazione di testo PDF Titolo Oggetto Contenuto.
 type: docs
-weight: 1150
+weight: 1220
 url: /it/net/groupdocs.signature.options.appearances/pdftextannotationappearance/
 ---
 ## PdfTextAnnotationAppearance class

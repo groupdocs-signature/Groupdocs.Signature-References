@@ -1,14 +1,14 @@
 ---
 title: DocumentInfo
 second_title: GroupDocs.Signature för .NET API-referens
-description: Initierar en ny instans avDocumentInfogroupdocs.signature.domain/documentinfo class.
+description: Initierar en ny instans avDocumentInfogroupdocs.signature.domain/documentinfoclass.
 type: docs
 weight: 10
 url: /sv/net/groupdocs.signature.domain/documentinfo/documentinfo/
 ---
 ## DocumentInfo constructor
 
-Initierar en ny instans av[`DocumentInfo`](../../documentinfo) class.
+Initierar en ny instans av[`DocumentInfo`](../../documentinfo)class.
 
 ```csharp
 public DocumentInfo()

@@ -1,14 +1,14 @@
 ---
 title: ImageSaveOptions
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Görüntü belgeleri için seçenekleri kaydedin.
+description: Görüntü belgeleri için kaydetme seçenekleri.
 type: docs
-weight: 1320
+weight: 1400
 url: /tr/net/groupdocs.signature.options/imagesaveoptions/
 ---
 ## ImageSaveOptions class
 
-Görüntü belgeleri için seçenekleri kaydedin.
+Görüntü belgeleri için kaydetme seçenekleri.
 
 ```csharp
 public class ImageSaveOptions : SaveOptions
@@ -18,9 +18,9 @@ public class ImageSaveOptions : SaveOptions
 
 | İsim | Tanım |
 | --- | --- |
-| [ImageSaveOptions](imagesaveoptions#constructor)() | Varsayılan değerlerle ImagesSaveOptions sınıfının yeni bir örneğini başlatır. |
-| [ImageSaveOptions](imagesaveoptions#constructor_1)(bool) | Üzerine yazma bayrağıyla ImagesSaveOptions sınıfının yeni bir örneğini başlatır. |
-| [ImageSaveOptions](imagesaveoptions#constructor_2)(ImageSaveFileFormat, bool) | Belirtilen çıktı türü ve üzerine yazma bayrağıyla ImagesSaveOptions sınıfının yeni bir örneğini başlatır. |
+| [ImageSaveOptions](imagesaveoptions#constructor)() | Varsayılan değerlerle yeni bir ImagesSaveOptions sınıfı örneğini başlatır. |
+| [ImageSaveOptions](imagesaveoptions#constructor_1)(bool) | Üzerine yazma bayrağıyla yeni bir ImagesSaveOptions sınıfı örneği başlatır. |
+| [ImageSaveOptions](imagesaveoptions#constructor_2)(ImageSaveFileFormat, bool) | Belirtilen çıktı türü ve üzerine yazma bayrağıyla yeni bir ImagesSaveOptions sınıfı örneğini başlatır. |
 
 ## Özellikleri
 

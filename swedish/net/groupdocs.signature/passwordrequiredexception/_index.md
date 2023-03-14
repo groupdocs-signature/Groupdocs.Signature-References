@@ -3,7 +3,7 @@ title: PasswordRequiredException
 second_title: GroupDocs.Signature för .NET API-referens
 description: Undantaget som skapas när lösenord krävs för att ladda dokumentet.
 type: docs
-weight: 1720
+weight: 1800
 url: /sv/net/groupdocs.signature/passwordrequiredexception/
 ---
 ## PasswordRequiredException class

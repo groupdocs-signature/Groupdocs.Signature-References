@@ -3,7 +3,7 @@ title: SignatureFont
 second_title: GroupDocs.Signature for .NET API 参考
 description: 创建 SignatureFont 类的实例以指定字体属性
 type: docs
-weight: 820
+weight: 850
 url: /zh/net/groupdocs.signature.domain/signaturefont/
 ---
 ## SignatureFont class
@@ -28,7 +28,7 @@ public class SignatureFont
 | [FamilyName](../../groupdocs.signature.domain/signaturefont/familyname) { get; set; } | 获取或设置字体系列名称 |
 | [Italic](../../groupdocs.signature.domain/signaturefont/italic) { get; set; } | 获取或设置字体斜体样式 |
 | [Size](../../groupdocs.signature.domain/signaturefont/size) { get; set; } | 获取或设置字体大小 |
-| [Strikeout](../../groupdocs.signature.domain/signaturefont/strikeout) { get; set; } | 获取或设置字体删除样式 |
+| [Strikeout](../../groupdocs.signature.domain/signaturefont/strikeout) { get; set; } | 获取或设置字体删除线样式 |
 | [Underline](../../groupdocs.signature.domain/signaturefont/underline) { get; set; } | 获取或设置字体下划线样式 |
 
 ## 方法

@@ -1,14 +1,14 @@
 ---
 title: DocumentInfo
 second_title: Référence de l'API GroupDocs.Signature pour .NET
-description: Initialise une nouvelle instance duDocumentInfogroupdocs.signature.domain/documentinfo classe.
+description: Initialise une nouvelle instance duDocumentInfogroupdocs.signature.domain/documentinfoclasse.
 type: docs
 weight: 10
 url: /fr/net/groupdocs.signature.domain/documentinfo/documentinfo/
 ---
 ## DocumentInfo constructor
 
-Initialise une nouvelle instance du[`DocumentInfo`](../../documentinfo) classe.
+Initialise une nouvelle instance du[`DocumentInfo`](../../documentinfo)classe.
 
 ```csharp
 public DocumentInfo()

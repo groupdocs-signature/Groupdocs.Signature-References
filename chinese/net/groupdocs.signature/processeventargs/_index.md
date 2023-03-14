@@ -3,7 +3,7 @@ title: ProcessEventArgs
 second_title: GroupDocs.Signature for .NET API 参考
 description: 为签名验证和搜索过程的不同事件提供数据
 type: docs
-weight: 1750
+weight: 1830
 url: /zh/net/groupdocs.signature/processeventargs/
 ---
 ## ProcessEventArgs class
@@ -24,7 +24,7 @@ public class ProcessEventArgs : EventArgs
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Status](../../groupdocs.signature/processeventargs/status) { get; set; } | 表示当前进程状态。 |
+| [Status](../../groupdocs.signature/processeventargs/status) { get; set; } | 指示当前进程状态。 |
 
 ### 也可以看看
 

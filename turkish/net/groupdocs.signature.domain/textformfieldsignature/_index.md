@@ -3,7 +3,7 @@ title: TextFormFieldSignature
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Pdf Document için metin giriş formu alanı imza özelliklerini içerir
 type: docs
-weight: 930
+weight: 960
 url: /tr/net/groupdocs.signature.domain/textformfieldsignature/
 ---
 ## TextFormFieldSignature class
@@ -45,7 +45,7 @@ public sealed class TextFormFieldSignature : FormFieldSignature
 
 | İsim | Tanım |
 | --- | --- |
-| override [Clone](../../groupdocs.signature.domain/textformfieldsignature/clone)() | FormField Signature örneğini klonlayın. |
+| override [Clone](../../groupdocs.signature.domain/textformfieldsignature/clone)() | FormField Signature örneğini Klonla. |
 | override [Equals](../../groupdocs.signature.domain/textformfieldsignature/equals)(object) | İmza özelliklerini karşılaştırmak için Equals yönteminin üzerine yazar |
 | override [GetHashCode](../../groupdocs.signature.domain/textformfieldsignature/gethashcode)() | GetHashCode yöntemini geçersiz kılar |
 

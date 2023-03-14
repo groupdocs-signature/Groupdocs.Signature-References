@@ -3,7 +3,7 @@ title: DashStyle
 second_title: GroupDocs.Signature för .NET API-referens
 description: Representerar stil med streckritningslinjer på dokument.
 type: docs
-weight: 110
+weight: 120
 url: /sv/net/groupdocs.signature.domain/dashstyle/
 ---
 ## DashStyle enumeration

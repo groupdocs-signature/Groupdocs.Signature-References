@@ -3,7 +3,7 @@ title: ToDouble
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Çifte Dönüştürür.
 type: docs
-weight: 110
+weight: 120
 url: /tr/net/groupdocs.signature.domain/metadatasignature/todouble/
 ---
 ## ToDouble() {#todouble}

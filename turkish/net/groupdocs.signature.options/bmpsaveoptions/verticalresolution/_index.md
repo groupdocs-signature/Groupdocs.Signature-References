@@ -1,14 +1,14 @@
 ---
 title: VerticalResolution
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Dikey çözünürlüğü alır veya ayarlar. Yuvarlama nedeniyle elde edilen çözünürlüğünün geçirilenden biraz farklı olabileceğini unutmayın.
+description: Dikey çözünürlüğü alır veya ayarlar. Yuvarlama nedeniyle elde edilen çözünürlüğünün geçen çözünürlüğünden biraz farklı olabileceğini unutmayın.
 type: docs
 weight: 50
 url: /tr/net/groupdocs.signature.options/bmpsaveoptions/verticalresolution/
 ---
 ## BmpSaveOptions.VerticalResolution property
 
-Dikey çözünürlüğü alır veya ayarlar. Yuvarlama nedeniyle, elde edilen çözünürlüğünün geçirilenden biraz farklı olabileceğini unutmayın.
+Dikey çözünürlüğü alır veya ayarlar. Yuvarlama nedeniyle elde edilen çözünürlüğünün, geçen çözünürlüğünden biraz farklı olabileceğini unutmayın.
 
 ```csharp
 public double VerticalResolution { get; set; }

@@ -3,7 +3,7 @@ title: ISBN
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Objeto de tipo de código de barras ISBN.
 type: docs
-weight: 330
+weight: 360
 url: /es/net/groupdocs.signature.domain/barcodetypes/isbn/
 ---
 ## BarcodeTypes.ISBN field

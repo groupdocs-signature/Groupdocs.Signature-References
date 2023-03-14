@@ -3,7 +3,7 @@ title: LinearGradientBrush
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Representa un pincel de degradado lineal.
 type: docs
-weight: 270
+weight: 290
 url: /es/net/groupdocs.signature.domain.extensions/lineargradientbrush/
 ---
 ## LinearGradientBrush class

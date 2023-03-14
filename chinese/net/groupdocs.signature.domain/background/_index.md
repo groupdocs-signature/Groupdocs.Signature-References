@@ -24,8 +24,8 @@ public class Background : ICloneable
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Brush](../../groupdocs.signature.domain/background/brush) { get; set; } | 获取或设置背景画笔。默认值为空。 此属性需要 Brush 对象实现的实例 查看不同的 Brush 类 |
-| [Color](../../groupdocs.signature.domain/background/color) { get; set; } | 获取或设置签名的背景颜色。 |
+| [Brush](../../groupdocs.signature.domain/background/brush) { get; set; } | 获取或设置背景画笔。默认值为空。 此属性需要 Brush 对象实例 implementations 查看不同的 Brush 类 |
+| [Color](../../groupdocs.signature.domain/background/color) { get; set; } | 获取或设置签名背景色。 |
 | [Transparency](../../groupdocs.signature.domain/background/transparency) { get; set; } | 获取或设置背景透明度（值从 0.0（不透明）到 1.0（透明））。 |
 
 ## 方法

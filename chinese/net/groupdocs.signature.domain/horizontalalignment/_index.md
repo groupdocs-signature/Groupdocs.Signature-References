@@ -3,7 +3,7 @@ title: HorizontalAlignment
 second_title: GroupDocs.Signature for .NET API 参考
 description: 指定文档页面上元素的水平对齐方式
 type: docs
-weight: 470
+weight: 490
 url: /zh/net/groupdocs.signature.domain/horizontalalignment/
 ---
 ## HorizontalAlignment enumeration
@@ -19,9 +19,9 @@ public enum HorizontalAlignment
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | None | `0` | 对象被显式定位，通常使用其 Left 属性。 |
-| Left | `1` | 指定对象应左对齐到水平对齐基础。 |
+| Left | `1` | 指定对象应左对齐到水平对齐基准。 |
 | Center | `2` | 指定对象应相对于水平对齐基准居中。 |
-| Right | `3` | 指定对象应与水平对齐基础右对齐。 |
+| Right | `3` | 指定对象应与水平对齐基准右对齐。 |
 
 ### 也可以看看
 

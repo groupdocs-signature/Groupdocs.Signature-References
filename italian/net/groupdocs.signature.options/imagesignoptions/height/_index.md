@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Altezza della firma sulla pagina del documento nei valori di misura pixel percentuali o millimetri vedereMeasureTypegroupdocs.signature.domain/measuretype SizeMeasureType.
+description: Altezza della firma sulla pagina del documento nei valori di misura pixel percentuali o millimetri vedereMeasureTypegroupdocs.signature.domain/measuretype DimensioneMisuraTipo.
 type: docs
 weight: 50
 url: /it/net/groupdocs.signature.options/imagesignoptions/height/
 ---
 ## ImageSignOptions.Height property
 
-Altezza della firma sulla pagina del documento nei valori di misura (pixel, percentuali o millimetri vedere[`MeasureType`](../../../groupdocs.signature.domain/measuretype) SizeMeasureType).
+Altezza della firma sulla pagina del documento nei valori di misura (pixel, percentuali o millimetri vedere[`MeasureType`](../../../groupdocs.signature.domain/measuretype) DimensioneMisuraTipo).
 
 ```csharp
 public int Height { get; set; }

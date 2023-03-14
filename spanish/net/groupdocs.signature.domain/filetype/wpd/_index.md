@@ -3,7 +3,7 @@ title: WPD
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Documento de WordPerfect .wpd
 type: docs
-weight: 500
+weight: 510
 url: /es/net/groupdocs.signature.domain/filetype/wpd/
 ---
 ## FileType.WPD field

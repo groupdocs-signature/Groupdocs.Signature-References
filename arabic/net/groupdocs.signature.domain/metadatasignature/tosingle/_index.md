@@ -3,7 +3,7 @@ title: ToSingle
 second_title: GroupDocs.Signature لمرجع .NET API
 description: تحويل إلى عائم .
 type: docs
-weight: 130
+weight: 140
 url: /ar/net/groupdocs.signature.domain/metadatasignature/tosingle/
 ---
 ## ToSingle() {#tosingle}

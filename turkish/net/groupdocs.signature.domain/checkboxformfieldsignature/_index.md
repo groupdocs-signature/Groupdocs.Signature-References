@@ -3,7 +3,7 @@ title: CheckboxFormFieldSignature
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Onay kutusu giriş formu alanı imza özelliklerini içerir.
 type: docs
-weight: 70
+weight: 80
 url: /tr/net/groupdocs.signature.domain/checkboxformfieldsignature/
 ---
 ## CheckboxFormFieldSignature class
@@ -19,7 +19,7 @@ public sealed class CheckboxFormFieldSignature : FormFieldSignature
 | İsim | Tanım |
 | --- | --- |
 | [CheckboxFormFieldSignature](checkboxformfieldsignature#constructor)(string) | Önceden tanımlanmış adla CheckboxFormFieldSignature oluşturur. |
-| [CheckboxFormFieldSignature](checkboxformfieldsignature#constructor_1)(string, bool) | Önceden tanımlanmış ad ve değerle CheckboxFormFieldSignature oluşturur |
+| [CheckboxFormFieldSignature](checkboxformfieldsignature#constructor_1)(string, bool) | CheckboxFormFieldSignature'ı önceden tanımlanmış ad ve değerle oluşturur |
 
 ## Özellikleri
 
@@ -45,7 +45,7 @@ public sealed class CheckboxFormFieldSignature : FormFieldSignature
 
 | İsim | Tanım |
 | --- | --- |
-| override [Clone](../../groupdocs.signature.domain/checkboxformfieldsignature/clone)() | FormField Signature örneğini klonlayın. |
+| override [Clone](../../groupdocs.signature.domain/checkboxformfieldsignature/clone)() | FormField Signature örneğini Klonla. |
 | override [Equals](../../groupdocs.signature.domain/checkboxformfieldsignature/equals)(object) | İmza özelliklerini karşılaştırmak için Equals yönteminin üzerine yazar |
 | override [GetHashCode](../../groupdocs.signature.domain/checkboxformfieldsignature/gethashcode)() | GetHashCode yöntemini geçersiz kılar |
 

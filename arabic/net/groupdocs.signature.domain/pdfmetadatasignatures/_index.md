@@ -3,7 +3,7 @@ title: PdfMetadataSignatures
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحتوي على تواقيع البيانات الوصفية القياسية لاستخدامها في خيارات توقيع البيانات الوصفية لمستند Pdf.
 type: docs
-weight: 660
+weight: 690
 url: /ar/net/groupdocs.signature.domain/pdfmetadatasignatures/
 ---
 ## PdfMetadataSignatures class

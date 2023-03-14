@@ -65,7 +65,7 @@ public Signature(Stream document, LoadOptions loadOptions)
 
 ## Signature(Stream, SignatureSettings) {#constructor_3}
 
-Initialise la nouvelle instance de[`Signature`](../../signature) instance de classe avec le document fourni par le flux et[`SignatureSettings`](../../signaturesettings) .
+Initialise la nouvelle instance de[`Signature`](../../signature)instance de classe avec le document fourni par le flux et[`SignatureSettings`](../../signaturesettings) .
 
 ```csharp
 public Signature(Stream document, SignatureSettings settings)

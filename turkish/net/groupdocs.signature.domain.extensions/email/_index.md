@@ -3,7 +3,7 @@ title: Email
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: QRCode için Eposta biçimini temsil eder.
 type: docs
-weight: 220
+weight: 240
 url: /tr/net/groupdocs.signature.domain.extensions/email/
 ---
 ## Email class

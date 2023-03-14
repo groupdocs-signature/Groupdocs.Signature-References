@@ -24,10 +24,10 @@ public SearchResult Search(List<SearchOptions> searchOptionsList)
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 有关使用 GroupDocs.Signature 在文档中搜索电子签名的更多信息： [如何使用 C# 在文档中搜索电子签名](https://docs.groupdocs.com/display/signaturenet/Search+for+electronic+signatures+in+document)
-* 更多关于电子签名搜索取决于电子签名类型： [使用 GroupDocs.Signature 进行电子签名搜索的高级用例](https://docs.groupdocs.com/display/signaturenet/Searching)
+* 更多关于使用 GroupDocs 在文档中搜索电子签名的信息。签名： [如何使用C#在文档中搜索电子签名](https://docs.groupdocs.com/display/signaturenet/Search+for+electronic+signatures+in+document)
+* 更多关于电子签名搜索的信息取决于 eSign 类型： [使用 GroupDocs.Signature 搜索电子签名的高级用例](https://docs.groupdocs.com/display/signaturenet/Searching)
 
 ### 也可以看看
 
@@ -58,10 +58,10 @@ public List<T> Search<T>(SearchOptions searchOptions)
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 有关使用 GroupDocs.Signature 在文档中搜索电子签名的更多信息： [如何使用 C# 在文档中搜索电子签名](https://docs.groupdocs.com/display/signaturenet/Search+for+electronic+signatures+in+document)
-* 更多关于电子签名搜索取决于电子签名类型： [使用 GroupDocs.Signature 进行电子签名搜索的高级用例](https://docs.groupdocs.com/display/signaturenet/Searching)
+* 更多关于使用 GroupDocs 在文档中搜索电子签名的信息。签名： [如何使用C#在文档中搜索电子签名](https://docs.groupdocs.com/display/signaturenet/Search+for+electronic+signatures+in+document)
+* 更多关于电子签名搜索的信息取决于 eSign 类型： [使用 GroupDocs.Signature 搜索电子签名的高级用例](https://docs.groupdocs.com/display/signaturenet/Searching)
 
 ### 也可以看看
 
@@ -75,7 +75,7 @@ public List<T> Search<T>(SearchOptions searchOptions)
 
 ## Search&lt;T&gt;(SignatureType) {#search_2}
 
-在文档中搜索确切的签名类型[`SignatureType`](../../../groupdocs.signature.domain/signaturetype)值.
+在文档中搜索确切类型的签名[`SignatureType`](../../../groupdocs.signature.domain/signaturetype)值.
 
 ```csharp
 public List<T> Search<T>(SignatureType signatureType)
@@ -88,14 +88,14 @@ public List<T> Search<T>(SignatureType signatureType)
 
 ### 返回值
 
-返回找到的具有确切类型的签名列表。
+返回具有确切类型的找到的签名列表。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 有关使用 GroupDocs.Signature 在文档中搜索电子签名的更多信息： [如何使用 C# 在文档中搜索电子签名](https://docs.groupdocs.com/display/signaturenet/Search+for+electronic+signatures+in+document)
-* 更多关于电子签名搜索取决于电子签名类型： [使用 GroupDocs.Signature 进行电子签名搜索的高级用例](https://docs.groupdocs.com/display/signaturenet/Searching)
+* 更多关于使用 GroupDocs 在文档中搜索电子签名的信息。签名： [如何使用C#在文档中搜索电子签名](https://docs.groupdocs.com/display/signaturenet/Search+for+electronic+signatures+in+document)
+* 更多关于电子签名搜索的信息取决于 eSign 类型： [使用 GroupDocs.Signature 搜索电子签名的高级用例](https://docs.groupdocs.com/display/signaturenet/Searching)
 
 ### 也可以看看
 
@@ -125,10 +125,10 @@ public SearchResult Search(params SignatureType[] signatureTypes)
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 有关使用 GroupDocs.Signature 在文档中搜索电子签名的更多信息： [如何使用 C# 在文档中搜索电子签名](https://docs.groupdocs.com/display/signaturenet/Search+for+electronic+signatures+in+document)
-* 更多关于电子签名搜索取决于电子签名类型： [使用 GroupDocs.Signature 进行电子签名搜索的高级用例](https://docs.groupdocs.com/display/signaturenet/Searching)
+* 更多关于使用 GroupDocs 在文档中搜索电子签名的信息。签名： [如何使用C#在文档中搜索电子签名](https://docs.groupdocs.com/display/signaturenet/Search+for+electronic+signatures+in+document)
+* 更多关于电子签名搜索的信息取决于 eSign 类型： [使用 GroupDocs.Signature 搜索电子签名的高级用例](https://docs.groupdocs.com/display/signaturenet/Searching)
 
 ### 也可以看看
 

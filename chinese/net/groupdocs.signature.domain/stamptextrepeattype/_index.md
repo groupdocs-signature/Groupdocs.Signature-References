@@ -1,14 +1,14 @@
 ---
 title: StampTextRepeatType
 second_title: GroupDocs.Signature for .NET API 参考
-description: 指定印章行的重复文本类型
+description: 指定图章行的文本重复类型
 type: docs
-weight: 890
+weight: 920
 url: /zh/net/groupdocs.signature.domain/stamptextrepeattype/
 ---
 ## StampTextRepeatType enumeration
 
-指定印章行的重复文本类型。
+指定图章行的文本重复类型。
 
 ```csharp
 public enum StampTextRepeatType
@@ -20,7 +20,7 @@ public enum StampTextRepeatType
 | --- | --- | --- |
 | None | `0` | 没有重复。 |
 | FullTextRepeat | `1` | 文本将被重复以适合全长而不被截断。 |
-| RepeatWithTruncation | `2` | 文本将被重复以适合全长，并在末尾截断单词。 |
+| RepeatWithTruncation | `2` | 文本将被重复以适合全长，最后会截断单词。 |
 
 ### 也可以看看
 

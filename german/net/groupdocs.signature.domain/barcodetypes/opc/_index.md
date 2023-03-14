@@ -3,7 +3,7 @@ title: OPC
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: OPCBarcodeTypObjekt.
 type: docs
-weight: 460
+weight: 490
 url: /de/net/groupdocs.signature.domain/barcodetypes/opc/
 ---
 ## BarcodeTypes.OPC field

@@ -3,7 +3,7 @@ title: Pdf417
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Объект типа штрихкода Pdf417.
 type: docs
-weight: 480
+weight: 510
 url: /ru/net/groupdocs.signature.domain/barcodetypes/pdf417/
 ---
 ## BarcodeTypes.Pdf417 field

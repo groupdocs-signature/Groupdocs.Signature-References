@@ -3,7 +3,7 @@ title: PngFilterType
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Rappresenta il tipo di filtro immagine PNG.
 type: docs
-weight: 1470
+weight: 1550
 url: /it/net/groupdocs.signature.options/pngfiltertype/
 ---
 ## PngFilterType enumeration
@@ -23,7 +23,7 @@ public enum PngFilterType
 | Up | `2` | Il filtro up significa che verrà applicato il filtro di sottrazione riga per riga. |
 | Avg | `3` | Il filtro medio, significa che quel filtro medio verrà applicato ai dati dell'immagine. |
 | Paeth | `4` | Il filtro predittore di percorso. |
-| Adaptive | `5` | Filtraggio adattivo, significa che il processo di salvataggio sceglierà il filtro più adatto per ogni riga di dati. Migliore compressione, tempo di esecuzione più lento. |
+| Adaptive | `5` | Filtro adattivo, significa che il processo di salvataggio sceglierà il filtro più adatto per ogni riga di dati. Migliore compressione, tempo di esecuzione più lento. |
 
 ### Guarda anche
 

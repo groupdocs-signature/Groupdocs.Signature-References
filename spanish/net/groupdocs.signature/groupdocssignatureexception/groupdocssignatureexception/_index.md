@@ -1,14 +1,14 @@
 ---
 title: GroupDocsSignatureException
 second_title: Referencia de API de GroupDocs.Signature para .NET
-description: Inicializa una nueva instancia delGroupDocsSignatureExceptiongroupdocs.signature/groupdocssignatureexception clase.
+description: Inicializa una nueva instancia delGroupDocsSignatureExceptiongroupdocs.signature/groupdocssignatureexceptionclase.
 type: docs
 weight: 10
 url: /es/net/groupdocs.signature/groupdocssignatureexception/groupdocssignatureexception/
 ---
 ## GroupDocsSignatureException() {#constructor}
 
-Inicializa una nueva instancia del[`GroupDocsSignatureException`](../../groupdocssignatureexception) clase.
+Inicializa una nueva instancia del[`GroupDocsSignatureException`](../../groupdocssignatureexception)clase.
 
 ```csharp
 public GroupDocsSignatureException()
@@ -24,7 +24,7 @@ public GroupDocsSignatureException()
 
 ## GroupDocsSignatureException(string) {#constructor_2}
 
-Inicializa una nueva instancia del[`GroupDocsSignatureException`](../../groupdocssignatureexception)clase con un mensaje de error especificado.
+Inicializa una nueva instancia del[`GroupDocsSignatureException`](../../groupdocssignatureexception) clase con un mensaje de error especificado.
 
 ```csharp
 public GroupDocsSignatureException(string message)

@@ -1,14 +1,14 @@
 ---
 title: Pdf417
 second_title: GroupDocs.Signature for .NET API 参考
-description: Pdf417 条码类型对象
+description: Pdf417 条码类型对象.
 type: docs
-weight: 480
+weight: 510
 url: /zh/net/groupdocs.signature.domain/barcodetypes/pdf417/
 ---
 ## BarcodeTypes.Pdf417 field
 
-Pdf417 条码类型对象。
+Pdf417 条码类型对象.
 
 ```csharp
 public static readonly BarcodeType Pdf417;

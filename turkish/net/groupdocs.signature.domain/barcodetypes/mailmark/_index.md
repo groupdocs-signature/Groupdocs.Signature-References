@@ -3,7 +3,7 @@ title: Mailmark
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Royal Mail 2D Posta İşareti Barkod Türü nesnesi.
 type: docs
-weight: 400
+weight: 430
 url: /tr/net/groupdocs.signature.domain/barcodetypes/mailmark/
 ---
 ## BarcodeTypes.Mailmark field

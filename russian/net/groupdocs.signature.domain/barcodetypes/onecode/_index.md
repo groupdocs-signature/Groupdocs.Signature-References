@@ -3,7 +3,7 @@ title: OneCode
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Объект типа штрихкода OneCode.
 type: docs
-weight: 450
+weight: 480
 url: /ru/net/groupdocs.signature.domain/barcodetypes/onecode/
 ---
 ## BarcodeTypes.OneCode field

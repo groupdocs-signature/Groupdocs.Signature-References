@@ -3,7 +3,7 @@ title: ProcessLogs
 second_title: GroupDocs.Signature لمرجع .NET API
 description: مجموعة من سجلات عملية محفوظات المستند .
 type: docs
-weight: 100
+weight: 110
 url: /ar/net/groupdocs.signature.domain/idocumentinfo/processlogs/
 ---
 ## IDocumentInfo.ProcessLogs property

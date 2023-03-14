@@ -3,7 +3,7 @@ title: ReleaseSignatureStream
 second_title: GroupDocs.Signature för .NET API-referens
 description: Delegat som definierar metod för att släppa utdatasignaturförhandsgranskningsström.
 type: docs
-weight: 1580
+weight: 1660
 url: /sv/net/groupdocs.signature.options/releasesignaturestream/
 ---
 ## ReleaseSignatureStream delegate

@@ -3,7 +3,7 @@ title: PdfTextAnnotationBorderEffect
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Описывает эффект который следует применить к границе текстовых аннотаций PDF.
 type: docs
-weight: 680
+weight: 710
 url: /ru/net/groupdocs.signature.domain/pdftextannotationbordereffect/
 ---
 ## PdfTextAnnotationBorderEffect enumeration

@@ -1,14 +1,14 @@
 ---
 title: BackgroundColorIndex
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: GIF arka plan rengi dizinini alır veya ayarlar.
+description: GIF arka plan renk indeksini alır veya ayarlar.
 type: docs
 weight: 20
 url: /tr/net/groupdocs.signature.options/gifsaveoptions/backgroundcolorindex/
 ---
 ## GifSaveOptions.BackgroundColorIndex property
 
-GIF arka plan rengi dizinini alır veya ayarlar.
+GIF arka plan renk indeksini alır veya ayarlar.
 
 ```csharp
 public byte BackgroundColorIndex { get; set; }

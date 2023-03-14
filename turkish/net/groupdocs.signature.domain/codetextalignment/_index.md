@@ -3,7 +3,7 @@ title: CodeTextAlignment
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Barkodlar ve QR kodları için kod metninin hizalanması.
 type: docs
-weight: 80
+weight: 90
 url: /tr/net/groupdocs.signature.domain/codetextalignment/
 ---
 ## CodeTextAlignment enumeration

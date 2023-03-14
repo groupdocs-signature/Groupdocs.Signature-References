@@ -1,14 +1,14 @@
 ---
 title: CheckboxFormFieldSignature
 second_title: GroupDocs.Signature for .NET API 参考
-description: 使用预定义的名称创建 CheckboxFormFieldSignature
+description: 创建具有预定义名称的 CheckboxFormFieldSignature
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.domain/checkboxformfieldsignature/checkboxformfieldsignature/
 ---
 ## CheckboxFormFieldSignature(string) {#constructor}
 
-使用预定义的名称创建 CheckboxFormFieldSignature。
+创建具有预定义名称的 CheckboxFormFieldSignature。
 
 ```csharp
 public CheckboxFormFieldSignature(string name)
@@ -28,7 +28,7 @@ public CheckboxFormFieldSignature(string name)
 
 ## CheckboxFormFieldSignature(string, bool) {#constructor_1}
 
-使用预定义的名称和值创建 CheckboxFormFieldSignature
+创建具有预定义名称和值的 CheckboxFormFieldSignature
 
 ```csharp
 public CheckboxFormFieldSignature(string name, bool isChecked)

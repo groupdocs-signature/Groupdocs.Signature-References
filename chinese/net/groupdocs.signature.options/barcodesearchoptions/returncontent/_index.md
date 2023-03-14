@@ -1,14 +1,14 @@
 ---
 title: ReturnContent
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置标志以抓取文档页面上签名的条形码图像内容 如果该标志设置为真则条形码签名图像内容将按要求的格式保存原始图像数据ReturnContentTypegroupdocs.signature.options/barcodesearchoptions/returncontenttype. 默认情况下禁用此选项
+description: 获取或设置标志以获取文档页面上签名的条码图像内容 如果此标志设置为真条码签名图像内容将按要求的格式保留原始图像数据ReturnContentTypegroupdocs.signature.options/barcodesearchoptions/returncontenttype. 默认情况下禁用此选项
 type: docs
 weight: 40
 url: /zh/net/groupdocs.signature.options/barcodesearchoptions/returncontent/
 ---
 ## BarcodeSearchOptions.ReturnContent property
 
-获取或设置标志以抓取文档页面上签名的条形码图像内容。 如果该标志设置为真，则条形码签名图像内容将按要求的格式保存原始图像数据[`ReturnContentType`](../returncontenttype). 默认情况下禁用此选项。
+获取或设置标志以获取文档页面上签名的条码图像内容。 如果此标志设置为真，条码签名图像内容将按要求的格式保留原始图像数据[`ReturnContentType`](../returncontenttype). 默认情况下禁用此选项。
 
 ```csharp
 public bool ReturnContent { get; set; }

@@ -3,7 +3,7 @@ title: JpegCompressionColorMode
 second_title: GroupDocs.Signature for .NET API 参考
 description: 指定 JPEG 颜色压缩模式
 type: docs
-weight: 1350
+weight: 1430
 url: /zh/net/groupdocs.signature.options/jpegcompressioncolormode/
 ---
 ## JpegCompressionColorMode enumeration
@@ -21,7 +21,7 @@ public enum JpegCompressionColorMode
 | Grayscale | `0` | 灰度图像。 |
 | YCbCr | `1` | YCbCr 图像，jpeg 图像的标准选项。 |
 | Cmyk | `2` | 4 分量 CMYK 图像。 |
-| Ycck | `3` | ycck 彩色 jpeg 图像。需要 icc 配置文件进行保存。 |
+| Ycck | `3` | ycck 彩色 jpeg 图像。需要 icc 配置文件才能保存。 |
 | Rgb | `4` | RGB 颜色模式。 |
 
 ### 也可以看看

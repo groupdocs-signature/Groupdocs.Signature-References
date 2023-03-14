@@ -20,11 +20,11 @@ public bool Delete(BaseSignature signature)
 
 ### Valore di ritorno
 
-Restituisce true se l'operazione è riuscita.
+Restituisce vero se l'operazione è andata a buon fine.
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni su come eliminare la firma elettronica dal documento in C#: [Come eliminare la firma elettronica dal documento con GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Delete+signatures+from+documents)
 * Casi d'uso avanzati per l'eliminazione delle firme elettroniche dei documenti: [Come eliminare diversi tipi di firme elettroniche dal documento in C#](https://docs.groupdocs.com/display/signaturenet/Deleting)
@@ -56,7 +56,7 @@ Restituisce DeleteResult[`DeleteResult`](../../../groupdocs.signature.domain/del
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni su come eliminare la firma elettronica dal documento in C#: [Come eliminare la firma elettronica dal documento con GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Delete+signatures+from+documents)
 * Casi d'uso avanzati per l'eliminazione delle firme elettroniche dei documenti: [Come eliminare diversi tipi di firme elettroniche dal documento in C#](https://docs.groupdocs.com/display/signaturenet/Deleting)
@@ -89,7 +89,7 @@ Restituisce DeleteResult[`DeleteResult`](../../../groupdocs.signature.domain/del
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni su come eliminare la firma elettronica dal documento in C#: [Come eliminare le firme elettroniche con un tipo specifico dal documento con GroupDocs.Signature](https://docs.groupdocs.com/signature/net/delete+signatures+of+the+certain+type/)
 * Casi d'uso avanzati per l'eliminazione delle firme elettroniche dei documenti: [Come eliminare diversi tipi di firme elettroniche dal documento in C#](https://docs.groupdocs.com/display/signaturenet/Deleting)
@@ -122,7 +122,7 @@ Restituisce DeleteResult[`DeleteResult`](../../../groupdocs.signature.domain/del
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni su come eliminare la firma elettronica dal documento in C#: [Come eliminare le firme elettroniche con un tipo specifico dal documento con GroupDocs.Signature](https://docs.groupdocs.com/signature/net/delete+signatures+of+the+certain+types/)
 * Casi d'uso avanzati per l'eliminazione delle firme elettroniche dei documenti: [Come eliminare diversi tipi di firme elettroniche dal documento in C#](https://docs.groupdocs.com/display/signaturenet/Deleting)
@@ -151,11 +151,11 @@ public bool Delete(string signatureId)
 
 ### Valore di ritorno
 
-Restituisce true se l'operazione è riuscita.
+Restituisce vero se l'operazione è andata a buon fine.
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni su come eliminare la firma elettronica dal documento in C#: [Come eliminare la firma elettronica dal documento con GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Delete+signatures+from+documents)
 * Casi d'uso avanzati per l'eliminazione delle firme elettroniche dei documenti: [Come eliminare diversi tipi di firme elettroniche dal documento in C#](https://docs.groupdocs.com/display/signaturenet/Deleting)
@@ -186,7 +186,7 @@ Restituisce DeleteResult[`DeleteResult`](../../../groupdocs.signature.domain/del
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni su come eliminare la firma elettronica dal documento in C#: [Come eliminare la firma elettronica dal documento con GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Delete+signatures+from+documents)
 * Casi d'uso avanzati per l'eliminazione delle firme elettroniche dei documenti: [Come eliminare diversi tipi di firme elettroniche dal documento in C#](https://docs.groupdocs.com/display/signaturenet/Deleting)

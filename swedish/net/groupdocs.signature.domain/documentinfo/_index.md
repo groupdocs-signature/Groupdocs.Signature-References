@@ -3,7 +3,7 @@ title: DocumentInfo
 second_title: GroupDocs.Signature för .NET API-referens
 description: Definierar dokumentbeskrivningsegenskaper.
 type: docs
-weight: 150
+weight: 160
 url: /sv/net/groupdocs.signature.domain/documentinfo/
 ---
 ## DocumentInfo class
@@ -18,7 +18,7 @@ public class DocumentInfo : IDocumentInfo
 
 | namn | Beskrivning |
 | --- | --- |
-| [DocumentInfo](documentinfo)() | Initierar en ny instans av[`DocumentInfo`](../documentinfo) class. |
+| [DocumentInfo](documentinfo)() | Initierar en ny instans av[`DocumentInfo`](../documentinfo)class. |
 
 ## Egenskaper
 
@@ -31,6 +31,7 @@ public class DocumentInfo : IDocumentInfo
 | [FormFieldSignatures](../../groupdocs.signature.domain/documentinfo/formfieldsignatures) { get; } | Samling av dokument Form Fältsignaturer tillagda eller uppdaterade av[`Signature`](../../groupdocs.signature/signature) metoder. |
 | [ImageSignatures](../../groupdocs.signature.domain/documentinfo/imagesignatures) { get; } | Samling av dokumentbildsignaturer tillagda eller uppdaterade av[`Signature`](../../groupdocs.signature/signature) metoder. |
 | [MaxPageHeight](../../groupdocs.signature.domain/documentinfo/maxpageheight) { get; set; } | Anger max sidhöjd. |
+| [MetadataSignatures](../../groupdocs.signature.domain/documentinfo/metadatasignatures) { get; } | Samling av dokumentmetadatasignaturer. |
 | [PageCount](../../groupdocs.signature.domain/documentinfo/pagecount) { get; set; } | Dokumentsidor räknas. |
 | [Pages](../../groupdocs.signature.domain/documentinfo/pages) { get; set; } | Samling av beskrivningar av dokumentsidor. |
 | [ProcessLogs](../../groupdocs.signature.domain/documentinfo/processlogs) { get; } | Samling av dokumenthistorikprocesser som Sign, Update, Delete. |

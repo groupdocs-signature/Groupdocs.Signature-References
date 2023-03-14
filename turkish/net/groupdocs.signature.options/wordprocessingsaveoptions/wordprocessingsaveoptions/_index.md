@@ -53,7 +53,7 @@ public WordProcessingSaveOptions(bool overwriteExistingFile)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| overwriteExistingFile | Boolean | Aynı dosya ile imzalanmış dosyanın üzerine yazıp yazılmayacağını işaretleyin. |
+| overwriteExistingFile | Boolean | İmzalı dosyanın üzerine aynı dosyanın yazıp yazmayacağını işaretleyin. |
 
 ### Ayrıca bakınız
 
@@ -75,7 +75,7 @@ public WordProcessingSaveOptions(WordProcessingSaveFileFormat fileFormat,
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
 | fileFormat | WordProcessingSaveFileFormat | Çıktı dosyası türü[`WordProcessingSaveFileFormat`](../../../groupdocs.signature.domain/wordprocessingsavefileformat). |
-| overwriteExistingFile | Boolean | Aynı dosya ile imzalanmış dosyanın üzerine yazıp yazılmayacağını işaretleyin. |
+| overwriteExistingFile | Boolean | İmzalı dosyanın üzerine aynı dosyanın yazıp yazmayacağını işaretleyin. |
 
 ### Ayrıca bakınız
 

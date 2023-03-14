@@ -18,6 +18,7 @@ L'espace de noms fournit des classes pour travailler avec la représentation de 
 | [BarcodeTypes](./barcodetypes) | Conteneur Types de codes-barres. |
 | [BaseSignature](./basesignature) | Décrit la classe de base pour les signatures. |
 | [Border](./border) | Représente l'apparence de la bordure |
+| [CertificateMetadataSignature](./certificatemetadatasignature) | Contient les propriétés de signature de métadonnées de certificat. |
 | [CheckboxFormFieldSignature](./checkboxformfieldsignature) | Contient des propriétés de signature de champ de formulaire de saisie de case à cocher. |
 | [ComboboxFormFieldSignature](./comboboxformfieldsignature) | Contient les propriétés de signature de champ de formulaire de saisie de zone de liste déroulante. |
 | [Corners](./corners) | Représente les coins d'un objet graphique carré. |
@@ -83,6 +84,7 @@ L'espace de noms fournit des classes pour travailler avec la représentation de 
 | [HorizontalAlignment](./horizontalalignment) | Spécifie l'alignement horizontal de l'élément sur une page de document. |
 | [ImageSaveFileFormat](./imagesavefileformat) | Définit différents formats de fichier de sauvegarde. |
 | [MeasureType](./measuretype) | Spécifie les unités de mesure de signature sur une page de document. |
+| [MetadataType](./metadatatype) | Spécifie le type de données de signature de métadonnées pris en charge de la valeur. |
 | [PdfDigitalSignatureType](./pdfdigitalsignaturetype) | Décrit l'énumération du type de signature numérique PDF. |
 | [PdfSaveFileFormat](./pdfsavefileformat) | Définit différents formats de fichier de sauvegarde. |
 | [PdfTextAnnotationBorderEffect](./pdftextannotationbordereffect) | Décrit l'effet qui doit être appliqué à la bordure des annotations de texte PDF. |

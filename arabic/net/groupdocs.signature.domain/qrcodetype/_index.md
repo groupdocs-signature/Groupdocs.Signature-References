@@ -3,7 +3,7 @@ title: QrCodeType
 second_title: GroupDocs.Signature لمرجع .NET API
 description: حدد خصائص نوع كود QRC.
 type: docs
-weight: 770
+weight: 800
 url: /ar/net/groupdocs.signature.domain/qrcodetype/
 ---
 ## QrCodeType class

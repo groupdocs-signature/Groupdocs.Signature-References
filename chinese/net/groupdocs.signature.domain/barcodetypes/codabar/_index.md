@@ -1,14 +1,14 @@
 ---
 title: Codabar
 second_title: GroupDocs.Signature for .NET API 参考
-description: Codabar 条形码类型对象
+description: Codabar 条码类型对象
 type: docs
 weight: 40
 url: /zh/net/groupdocs.signature.domain/barcodetypes/codabar/
 ---
 ## BarcodeTypes.Codabar field
 
-Codabar 条形码类型对象。
+Codabar 条码类型对象。
 
 ```csharp
 public static readonly BarcodeType Codabar;

@@ -3,7 +3,7 @@ title: PresentationSaveFileFormat
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحدد تنسيقات ملفات الحفظ المختلفة.
 type: docs
-weight: 720
+weight: 750
 url: /ar/net/groupdocs.signature.domain/presentationsavefileformat/
 ---
 ## PresentationSaveFileFormat enumeration

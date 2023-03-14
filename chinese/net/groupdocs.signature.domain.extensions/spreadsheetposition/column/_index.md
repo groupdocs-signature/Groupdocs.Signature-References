@@ -1,14 +1,14 @@
 ---
 title: Column
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置签名的左列号最小值为0
+description: 获取或设置签名左列数最小值为0.
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.domain.extensions/spreadsheetposition/column/
 ---
 ## SpreadsheetPosition.Column property
 
-获取或设置签名的左列号（最小值为0）。
+获取或设置签名左列数（最小值为0）.
 
 ```csharp
 public int Column { get; set; }

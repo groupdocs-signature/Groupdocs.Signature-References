@@ -1,14 +1,14 @@
 ---
 title: BmpSaveOptions
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Bmp Görüntü belgeleri için kaydetme seçenekleri.
+description: Görüntü belgeleri için Bmp Kaydetme seçenekleri.
 type: docs
-weight: 1220
+weight: 1290
 url: /tr/net/groupdocs.signature.options/bmpsaveoptions/
 ---
 ## BmpSaveOptions class
 
-Bmp Görüntü belgeleri için kaydetme seçenekleri.
+Görüntü belgeleri için Bmp Kaydetme seçenekleri.
 
 ```csharp
 public sealed class BmpSaveOptions : ImageSaveOptions
@@ -28,11 +28,11 @@ public sealed class BmpSaveOptions : ImageSaveOptions
 | [BitsPerPixel](../../groupdocs.signature.options/bmpsaveoptions/bitsperpixel) { get; set; } | Piksel sayısı başına görüntü bitlerini alır veya ayarlar. |
 | [Compression](../../groupdocs.signature.options/bmpsaveoptions/compression) { get; set; } | Sıkıştırmayı alır veya ayarlar. Görmek[`BitmapCompression`](../bitmapcompression) . |
 | [FileFormat](../../groupdocs.signature.options/imagesaveoptions/fileformat) { get; set; } | İmzalı belgenin dosya biçimini alır veya ayarlar. |
-| [HorizontalResolution](../../groupdocs.signature.options/bmpsaveoptions/horizontalresolution) { get; set; } | Yatay çözünürlüğü alır veya ayarlar. Yuvarlama nedeniyle, elde edilen çözünürlüğünün geçirilenden biraz farklı olabileceğini unutmayın. |
+| [HorizontalResolution](../../groupdocs.signature.options/bmpsaveoptions/horizontalresolution) { get; set; } | Yatay çözünürlüğü alır veya ayarlar. Yuvarlama nedeniyle elde edilen çözünürlüğünün, geçen çözünürlüğünden biraz farklı olabileceğini unutmayın. |
 | [OverwriteExistingFiles](../../groupdocs.signature.options/saveoptions/overwriteexistingfiles) { get; set; } | Mevcut dosyanın üzerine yeni çıktı dosyası yazılıp yazılmayacağını ayarlar veya alır. Aksi takdirde, sonek olarak sayı ile yeni dosya oluşturulur. Varsayılan olarak bu değer, dosyanın üzerine yazılacağı anlamına gelen true olarak ayarlanır. |
 | [Password](../../groupdocs.signature.options/saveoptions/password) { get; set; } | İmzalı belgeyi parola korumalı olarak kaydetmek için parolayı alır veya ayarlar. Bu özellik Görüntü belgeleri için desteklenmez. |
 | [UseOriginalPassword](../../groupdocs.signature.options/saveoptions/useoriginalpassword) { get; set; } | İmzalı belgeyi korumalı olarak kaydetmek için LoadOptions'tan parola kullanılıp kullanılmayacağını ayarlar. Varsayılan değer true'dur. Bu özellik Görüntü belgeleri için desteklenmez. |
-| [VerticalResolution](../../groupdocs.signature.options/bmpsaveoptions/verticalresolution) { get; set; } | Dikey çözünürlüğü alır veya ayarlar. Yuvarlama nedeniyle, elde edilen çözünürlüğünün geçirilenden biraz farklı olabileceğini unutmayın. |
+| [VerticalResolution](../../groupdocs.signature.options/bmpsaveoptions/verticalresolution) { get; set; } | Dikey çözünürlüğü alır veya ayarlar. Yuvarlama nedeniyle elde edilen çözünürlüğünün, geçen çözünürlüğünden biraz farklı olabileceğini unutmayın. |
 
 ### Ayrıca bakınız
 

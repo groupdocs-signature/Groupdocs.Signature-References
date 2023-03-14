@@ -1,14 +1,14 @@
 ---
 title: ITextAlignment
 second_title: GroupDocs.Signature for .NET API 参考
-description: 为文本签名上的文本定义对齐属性
+description: 定义文本签名上文本的对齐属性
 type: docs
-weight: 530
+weight: 550
 url: /zh/net/groupdocs.signature.domain/itextalignment/
 ---
 ## ITextAlignment interface
 
-为文本签名上的文本定义对齐属性。
+定义文本签名上文本的对齐属性。
 
 ```csharp
 public interface ITextAlignment

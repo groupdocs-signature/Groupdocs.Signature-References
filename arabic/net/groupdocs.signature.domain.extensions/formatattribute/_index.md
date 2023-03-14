@@ -3,7 +3,7 @@ title: FormatAttribute
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يوجه تسلسل الكائنات لإجراء تسلسل للعضو بالاسم والصيغة المحددين
 type: docs
-weight: 240
+weight: 260
 url: /ar/net/groupdocs.signature.domain.extensions/formatattribute/
 ---
 ## FormatAttribute class

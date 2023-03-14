@@ -3,7 +3,7 @@ title: MetadataSearchOptions
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Representa las opciones de búsqueda de firmas de metadatos.
 type: docs
-weight: 1400
+weight: 1480
 url: /es/net/groupdocs.signature.options/metadatasearchoptions/
 ---
 ## MetadataSearchOptions class

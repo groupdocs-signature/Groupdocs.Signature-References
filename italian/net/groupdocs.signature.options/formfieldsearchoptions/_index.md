@@ -3,7 +3,7 @@ title: FormFieldSearchOptions
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Rappresenta le opzioni di ricerca per le firme dei campi modulo.
 type: docs
-weight: 1290
+weight: 1370
 url: /it/net/groupdocs.signature.options/formfieldsearchoptions/
 ---
 ## FormFieldSearchOptions class
@@ -25,16 +25,16 @@ public class FormFieldSearchOptions : SearchOptions
 | Nome | Descrizione |
 | --- | --- |
 | [AllPages](../../groupdocs.signature.options/searchoptions/allpages) { get; set; } | Flag per la ricerca in ogni pagina del documento. Per impostazione predefinita, questo valore è impostato su true. |
-| [Name](../../groupdocs.signature.options/formfieldsearchoptions/name) { get; set; } | Specifica il modello di espressione regolare del nome della firma del campo modulo se deve essere ricercato. Puoi usarlo semplicemente come "testo" o come espressione regolare come "abc\d+". Il valore predefinito è una stringa vuota. |
+| [Name](../../groupdocs.signature.options/formfieldsearchoptions/name) { get; set; } | Specifica il modello di espressione regolare del nome della firma del campo del modulo se deve essere cercato. Puoi usarlo semplice come "testo" o espressione regolare come "abc\d+". Il valore predefinito è una stringa vuota. |
 | [PageNumber](../../groupdocs.signature.options/searchoptions/pagenumber) { get; set; } | Ottiene o imposta il numero di pagina del documento per la ricerca. Il valore è facoltativo. |
 | [PagesSetup](../../groupdocs.signature.options/searchoptions/pagessetup) { get; set; } | Opzioni per specificare le pagine per la ricerca della firma. |
 | [SkipExternal](../../groupdocs.signature.options/searchoptions/skipexternal) { get; set; } | Flag per restituire solo le firme contrassegnate come IsSignature. Per impostazione predefinita, il valore è false che indica di restituire tutte le firme che corrispondono ai criteri specificati. |
 | [Type](../../groupdocs.signature.options/formfieldsearchoptions/type) { get; set; } | Specifica il tipo di firma del campo del modulo se deve essere cercato. Il valore predefinito è nullo. |
-| [Value](../../groupdocs.signature.options/formfieldsearchoptions/value) { get; set; } | Specifica il valore della firma del campo modulo se deve essere ricercato. Il valore predefinito è null. |
+| [Value](../../groupdocs.signature.options/formfieldsearchoptions/value) { get; set; } | Specifica il valore della firma del campo del modulo se deve essere cercato. Il valore predefinito è null. |
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Utilizzo di base della ricerca della firma elettronica FormField da parte di GroupDocs.Signature: [ Come cercare le firme FormField in un documento](https://docs.groupdocs.com/display/signaturenet/Search+for+Form+Field+e-signatures)
 * Utilizzo avanzato delle impostazioni di ricerca della firma elettronica FormField con GroupDocs.Signature: [Utilizzo avanzato delle firme eSearch FormField in un documento e impostazioni aggiuntive](https://docs.groupdocs.com/display/signaturenet/Advanced+search+for+Form+Field+signatures)

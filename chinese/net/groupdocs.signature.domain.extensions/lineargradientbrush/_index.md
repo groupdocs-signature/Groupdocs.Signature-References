@@ -3,7 +3,7 @@ title: LinearGradientBrush
 second_title: GroupDocs.Signature for .NET API 参考
 description: 代表线性渐变画笔
 type: docs
-weight: 270
+weight: 290
 url: /zh/net/groupdocs.signature.domain.extensions/lineargradientbrush/
 ---
 ## LinearGradientBrush class
@@ -26,8 +26,8 @@ public class LinearGradientBrush : Brush
 | 姓名 | 描述 |
 | --- | --- |
 | [Angle](../../groupdocs.signature.domain.extensions/lineargradientbrush/angle) { get; set; } | 获取或设置渐变角度。 |
-| [EndColor](../../groupdocs.signature.domain.extensions/lineargradientbrush/endcolor) { get; set; } | 获取或设置完成渐变颜色。 |
-| [StartColor](../../groupdocs.signature.domain.extensions/lineargradientbrush/startcolor) { get; set; } | 获取或设置起始渐变颜色。 |
+| [EndColor](../../groupdocs.signature.domain.extensions/lineargradientbrush/endcolor) { get; set; } | 获取或设置完成渐变色。 |
+| [StartColor](../../groupdocs.signature.domain.extensions/lineargradientbrush/startcolor) { get; set; } | 获取或设置起始渐变色。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: NameMatchType
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置元数据名称匹配类型搜索仅在设置 Name 属性时使用
+description: 获取或设置元数据名称匹配类型搜索它仅在设置 Name 属性时使用
 type: docs
 weight: 50
 url: /zh/net/groupdocs.signature.options/metadatasearchoptions/namematchtype/
 ---
 ## MetadataSearchOptions.NameMatchType property
 
-获取或设置元数据名称匹配类型搜索。仅在设置 Name 属性时使用。
+获取或设置元数据名称匹配类型搜索。它仅在设置 Name 属性时使用。
 
 ```csharp
 public TextMatchType NameMatchType { get; set; }

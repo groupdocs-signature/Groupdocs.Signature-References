@@ -3,7 +3,7 @@ title: XAdESType
 second_title: GroupDocs.Signature لمرجع .NET API
 description: نوع التوقيع الإلكتروني المتقدم بتنسيق XML XAdES .
 type: docs
-weight: 1070
+weight: 1100
 url: /ar/net/groupdocs.signature.domain/xadestype/
 ---
 ## XAdESType enumeration

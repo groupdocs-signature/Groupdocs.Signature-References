@@ -3,7 +3,7 @@ title: SearchResult
 second_title: GroupDocs.Signature för .NET API-referens
 description: Resultat av sökning efter signaturer i specificerat dokument.
 type: docs
-weight: 800
+weight: 830
 url: /sv/net/groupdocs.signature.domain/searchresult/
 ---
 ## SearchResult class
@@ -11,14 +11,19 @@ url: /sv/net/groupdocs.signature.domain/searchresult/
 Resultat av sökning efter signaturer i specificerat dokument.
 
 ```csharp
-public class SearchResult : IEnumerable<BaseSignature>
+public class SearchResult : IEnumerable<BaseSignature>, IResult
 ```
 
 ## Egenskaper
 
 | namn | Beskrivning |
 | --- | --- |
-| [Signatures](../../groupdocs.signature.domain/searchresult/signatures) { get; } | Lista över upptäckta signaturer[`BaseSignature`](../basesignature) . |
+| [DestinDocumentSize](../../groupdocs.signature.domain/searchresult/destindocumentsize) { get; } | Returnerar måldokumentstorlek. För sökmetoden returnerar den alltid 0. |
+| [ProcessingTime](../../groupdocs.signature.domain/searchresult/processingtime) { get; } | Returnerar exekveringstiden för sökprocessen i millisekunder. |
+| [Signatures](../../groupdocs.signature.domain/searchresult/signatures) { get; } | Lista över hittade signaturer[`BaseSignature`](../basesignature) . |
+| [SourceDocumentSize](../../groupdocs.signature.domain/searchresult/sourcedocumentsize) { get; } | Returnerar källdokumentets storlek |
+| [Succeeded](../../groupdocs.signature.domain/searchresult/succeeded) { get; } | Lista över hittade signaturer[`BaseSignature`](../basesignature) . Denna lista kommer alltid att vara lika med[`Signatures`](./signatures) egenskap. |
+| [TotalSignatures](../../groupdocs.signature.domain/searchresult/totalsignatures) { get; } | Returnerar det totala antalet bearbetade signaturer av sökprocessen |
 
 ## Metoder
 
@@ -30,6 +35,7 @@ public class SearchResult : IEnumerable<BaseSignature>
 ### Se även
 
 * class [BaseSignature](../basesignature)
+* interface [IResult](../iresult)
 * namnutrymme [GroupDocs.Signature.Domain](../../groupdocs.signature.domain)
 * hopsättning [GroupDocs.Signature](../../)
 

@@ -3,7 +3,7 @@ title: PNG
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Portable Network Graphic .png est un type de format de fichier image raster qui utilise une compression sans perte. Ce format de fichier a été créé en remplacement de Graphics Interchange Format GIF et na aucune limitation de copyright. En savoir plus sur ce format de fichiericihttps//wiki.fileformat.com/image/png .
 type: docs
-weight: 280
+weight: 290
 url: /fr/net/groupdocs.signature.domain/filetype/png/
 ---
 ## FileType.PNG field

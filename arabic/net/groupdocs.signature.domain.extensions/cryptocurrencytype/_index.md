@@ -3,7 +3,7 @@ title: CryptoCurrencyType
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل نوع العملة المشفرة.
 type: docs
-weight: 200
+weight: 210
 url: /ar/net/groupdocs.signature.domain.extensions/cryptocurrencytype/
 ---
 ## CryptoCurrencyType enumeration
@@ -20,9 +20,9 @@ public enum CryptoCurrencyType
 | --- | --- | --- |
 | Custom | `0` | يمثل نوع العملة المشفرة المخصص. |
 | Bitcoin | `1` | يمثل نوع عملة البيتكوين المشفرة. |
-| BitcoinCash | `2` | يمثل نوع عملة تشفير بيتكوين كاش. |
-| Litecoin | `3` | يمثل نوع عملة التشفير Litecoin. |
-| Ethereum | `4` | يمثل نوع العملة المشفرة لإيثريوم. |
+| BitcoinCash | `2` | يمثل نوع العملة المشفرة بيتكوين كاش. |
+| Litecoin | `3` | يمثل نوع عملة معماة Litecoin. |
+| Ethereum | `4` | يمثل نوع العملة المشفرة Ethereum. |
 | Dash | `5` | يمثل نوع العملة المشفرة داش. |
 
 ### أنظر أيضا

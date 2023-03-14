@@ -1,14 +1,14 @@
 ---
 title: PdfDigitalSignatureAppearance
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Descrive laspetto della firma digitale su documenti PDF.
+description: Descrive laspetto della firma digitale sui documenti PDF.
 type: docs
-weight: 1140
+weight: 1210
 url: /it/net/groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/
 ---
 ## PdfDigitalSignatureAppearance class
 
-Descrive l'aspetto della firma digitale su documenti PDF.
+Descrive l'aspetto della firma digitale sui documenti PDF.
 
 ```csharp
 public sealed class PdfDigitalSignatureAppearance : SignatureAppearance
@@ -36,9 +36,9 @@ public sealed class PdfDigitalSignatureAppearance : SignatureAppearance
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
-* Guarda altri semplici esempi sulla creazione di firme elettroniche digitali con GroupDocs.Signature: [Documento di firma avanzata con firme elettroniche digitali](https://docs.groupdocs.com/signature/net/sign-document-with-digital-signature-advanced/)
+* Guarda esempi più semplici sulla creazione di firme elettroniche digitali con GroupDocs.Signature: [Documento di firma avanzata con firme elettroniche digitali](https://docs.groupdocs.com/signature/net/sign-document-with-digital-signature-advanced/)
 * Visualizza esempi più avanzati di impostazioni di varie firme elettroniche con GroupDocs.Signature: [Proprietà avanzate delle firme elettroniche](https://docs.groupdocs.com/signature/net/sign-documents-with-extra-digital-signature-properties/)
 
 ### Guarda anche

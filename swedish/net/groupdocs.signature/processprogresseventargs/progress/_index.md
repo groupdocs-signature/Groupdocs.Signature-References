@@ -1,14 +1,14 @@
 ---
 title: Progress
 second_title: GroupDocs.Signature för .NET API-referens
-description: Representerar framsteg i procent. Värdeintervallet är från 0 till 100.
+description: Representerar framstegen i procent. Värdeintervallet är från 0 till 100.
 type: docs
 weight: 40
 url: /sv/net/groupdocs.signature/processprogresseventargs/progress/
 ---
 ## ProcessProgressEventArgs.Progress property
 
-Representerar framsteg i procent. Värdeintervallet är från 0 till 100.
+Representerar framstegen i procent. Värdeintervallet är från 0 till 100.
 
 ```csharp
 public int Progress { get; set; }

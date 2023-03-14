@@ -3,7 +3,7 @@ title: OPC
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: OPC Barkod Türü nesnesi.
 type: docs
-weight: 460
+weight: 490
 url: /tr/net/groupdocs.signature.domain/barcodetypes/opc/
 ---
 ## BarcodeTypes.OPC field

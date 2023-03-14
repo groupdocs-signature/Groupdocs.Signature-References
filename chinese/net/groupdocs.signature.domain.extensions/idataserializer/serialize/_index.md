@@ -1,14 +1,14 @@
 ---
 title: Serialize
 second_title: GroupDocs.Signature for .NET API 参考
-description: 将对象格式化为字符串表示的序列化方法
+description: 序列化方法将对象格式化为表示. 的字符串
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.domain.extensions/idataserializer/serialize/
 ---
 ## IDataSerializer.Serialize method
 
-将对象格式化为字符串表示的序列化方法。
+序列化方法将对象格式化为表示. 的字符串
 
 ```csharp
 public string Serialize(object data)

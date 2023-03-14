@@ -3,7 +3,7 @@ title: ProcessStartEventArgs
 second_title: GroupDocs.Signature for .NET API 参考
 description: 为签名验证和搜索过程的启动事件提供数据
 type: docs
-weight: 1780
+weight: 1860
 url: /zh/net/groupdocs.signature/processstarteventargs/
 ---
 ## ProcessStartEventArgs class
@@ -24,9 +24,9 @@ public class ProcessStartEventArgs : ProcessEventArgs
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Started](../../groupdocs.signature/processstarteventargs/started) { get; set; } | 表示进程启动的时间标记。 |
-| [Status](../../groupdocs.signature/processeventargs/status) { get; set; } | 表示当前进程状态。 |
-| [TotalSignatures](../../groupdocs.signature/processstarteventargs/totalsignatures) { get; set; } | 表示要处理的签名总数。 |
+| [Started](../../groupdocs.signature/processstarteventargs/started) { get; set; } | 表示进程开始的时间标记。 |
+| [Status](../../groupdocs.signature/processeventargs/status) { get; set; } | 指示当前进程状态。 |
+| [TotalSignatures](../../groupdocs.signature/processstarteventargs/totalsignatures) { get; set; } | 表示待处理的签名总数。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Type
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Desteklenen kripto para birimi türlerinden birini alır veya ayarlar.
+description: Desteklenen kripto para türünden birini alır veya ayarlar.
 type: docs
 weight: 60
 url: /tr/net/groupdocs.signature.domain.extensions/cryptocurrencytransfer/type/
 ---
 ## CryptoCurrencyTransfer.Type property
 
-Desteklenen kripto para birimi türlerinden birini alır veya ayarlar.
+Desteklenen kripto para türünden birini alır veya ayarlar.
 
 ```csharp
 public CryptoCurrencyType Type { get; set; }

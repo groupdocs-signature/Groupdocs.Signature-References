@@ -3,7 +3,7 @@ title: TextFormFieldSignature
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحتوي على خصائص توقيع حقل نموذج إدخال النص لـ Pdf Document
 type: docs
-weight: 930
+weight: 960
 url: /ar/net/groupdocs.signature.domain/textformfieldsignature/
 ---
 ## TextFormFieldSignature class

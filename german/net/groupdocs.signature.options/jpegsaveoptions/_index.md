@@ -3,7 +3,7 @@ title: JpegSaveOptions
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Jpeg Speicheroptionen für Bilddokumente.
 type: docs
-weight: 1380
+weight: 1460
 url: /de/net/groupdocs.signature.options/jpegsaveoptions/
 ---
 ## JpegSaveOptions class

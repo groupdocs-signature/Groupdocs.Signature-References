@@ -3,7 +3,7 @@ title: GroupDocs.Signature.Options
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: El espacio de nombres proporciona clases para especificar opciones adicionales al cargar firmar verificar buscar y guardar documentos.
 type: docs
-weight: 40
+weight: 50
 url: /es/net/groupdocs.signature.options/
 ---
 El espacio de nombres proporciona clases para especificar opciones adicionales al cargar, firmar, verificar, buscar y guardar documentos.
@@ -16,6 +16,7 @@ El espacio de nombres proporciona clases para especificar opciones adicionales a
 | [BarcodeSignOptions](./barcodesignoptions) | Representa las opciones de firma de código de barras. |
 | [BarcodeVerifyOptions](./barcodeverifyoptions) | Representa las opciones de verificación de código de barras. |
 | [BmpSaveOptions](./bmpsaveoptions) | Bmp Guardar opciones para documentos de imagen. |
+| [CertificateVerifyOptions](./certificateverifyoptions) | Mantiene opciones para verificar documentos de certificados. |
 | [CreatePageStream](./createpagestream) | Delegado que define el método para crear el flujo de vista previa de la página de salida. |
 | [CreateSignatureStream](./createsignaturestream) | Delegado que define el método para crear el flujo de vista previa de la firma de salida. |
 | [DigitalSearchOptions](./digitalsearchoptions) | Representa las opciones de búsqueda de Firmas digitales. |

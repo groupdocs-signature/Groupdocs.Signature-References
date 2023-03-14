@@ -18,6 +18,7 @@ url: /ar/net/groupdocs.signature.domain/
 | [BarcodeTypes](./barcodetypes) | حاوية أنواع الباركود . |
 | [BaseSignature](./basesignature) | يصف الفئة الأساسية للتوقيعات. |
 | [Border](./border) | يمثل مظهر الحدود |
+| [CertificateMetadataSignature](./certificatemetadatasignature) | يحتوي على خصائص توقيع بيانات تعريف الشهادة. |
 | [CheckboxFormFieldSignature](./checkboxformfieldsignature) | يحتوي على خصائص توقيع حقل نموذج إدخال خانة الاختيار. |
 | [ComboboxFormFieldSignature](./comboboxformfieldsignature) | يحتوي على خصائص توقيع حقل نموذج الإدخال في مربع التحرير والسرد. |
 | [Corners](./corners) | يمثل زوايا كائن رسومي مربع. |
@@ -83,6 +84,7 @@ url: /ar/net/groupdocs.signature.domain/
 | [HorizontalAlignment](./horizontalalignment) | يحدد المحاذاة الأفقية للعنصر في صفحة المستند. |
 | [ImageSaveFileFormat](./imagesavefileformat) | يحدد تنسيقات ملفات الحفظ المختلفة. |
 | [MeasureType](./measuretype) | يحدد وحدات قياس التوقيع على صفحة الوثيقة. |
+| [MetadataType](./metadatatype) | يحدد نوع بيانات توقيع البيانات الوصفية المدعوم للقيمة. |
 | [PdfDigitalSignatureType](./pdfdigitalsignaturetype) | يصف تعداد نوع التوقيع الرقمي بتنسيق PDF . |
 | [PdfSaveFileFormat](./pdfsavefileformat) | يحدد تنسيقات ملفات الحفظ المختلفة. |
 | [PdfTextAnnotationBorderEffect](./pdftextannotationbordereffect) | يصف التأثير الذي يجب تطبيقه على حدود التعليقات التوضيحية النصية بتنسيق PDF . |

@@ -3,7 +3,7 @@ title: UPCE
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: UPCE Barkod Türü nesnesi.
 type: docs
-weight: 620
+weight: 650
 url: /tr/net/groupdocs.signature.domain/barcodetypes/upce/
 ---
 ## BarcodeTypes.UPCE field

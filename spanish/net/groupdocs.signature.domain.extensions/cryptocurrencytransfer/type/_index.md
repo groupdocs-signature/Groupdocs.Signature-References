@@ -1,14 +1,14 @@
 ---
 title: Type
 second_title: Referencia de API de GroupDocs.Signature para .NET
-description: Obtiene o establece uno de los tipos de moneda criptográfica admitidos.
+description: Obtiene o establece uno de los tipos de criptomoneda admitidos.
 type: docs
 weight: 60
 url: /es/net/groupdocs.signature.domain.extensions/cryptocurrencytransfer/type/
 ---
 ## CryptoCurrencyTransfer.Type property
 
-Obtiene o establece uno de los tipos de moneda criptográfica admitidos.
+Obtiene o establece uno de los tipos de criptomoneda admitidos.
 
 ```csharp
 public CryptoCurrencyType Type { get; set; }

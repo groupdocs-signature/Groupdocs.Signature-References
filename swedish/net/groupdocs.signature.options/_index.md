@@ -3,7 +3,7 @@ title: GroupDocs.Signature.Options
 second_title: GroupDocs.Signature för .NET API-referens
 description: Namnutrymmet tillhandahåller klasser för att ange ytterligare alternativ när du laddar signerar verifierar söker och sparar dokument.
 type: docs
-weight: 40
+weight: 50
 url: /sv/net/groupdocs.signature.options/
 ---
 Namnutrymmet tillhandahåller klasser för att ange ytterligare alternativ när du laddar, signerar, verifierar, söker och sparar dokument.
@@ -16,6 +16,7 @@ Namnutrymmet tillhandahåller klasser för att ange ytterligare alternativ när 
 | [BarcodeSignOptions](./barcodesignoptions) | Representerar streckkodssignaturalternativen. |
 | [BarcodeVerifyOptions](./barcodeverifyoptions) | Representerar streckkodsverifieringsalternativen. |
 | [BmpSaveOptions](./bmpsaveoptions) | Bmp Spara alternativ för bilddokument. |
+| [CertificateVerifyOptions](./certificateverifyoptions) | Behåller alternativ för att verifiera certifikatdokument. |
 | [CreatePageStream](./createpagestream) | Delegat som definierar metod för att skapa förhandsvisningsström för utdatasida. |
 | [CreateSignatureStream](./createsignaturestream) | Delegat som definierar metod för att skapa utdatasignaturförhandsvisningsström. |
 | [DigitalSearchOptions](./digitalsearchoptions) | Representerar sökalternativ för digitala signaturer. |

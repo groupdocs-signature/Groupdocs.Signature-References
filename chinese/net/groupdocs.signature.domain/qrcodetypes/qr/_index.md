@@ -1,14 +1,14 @@
 ---
 title: QR
 second_title: GroupDocs.Signature for .NET API 参考
-description: QR 二维码类型对象
+description: QR QRCode 类型对象.
 type: docs
-weight: 60
+weight: 90
 url: /zh/net/groupdocs.signature.domain/qrcodetypes/qr/
 ---
 ## QrCodeTypes.QR field
 
-QR 二维码类型对象。
+QR QR-Code 类型对象.
 
 ```csharp
 public static readonly QrCodeType QR;

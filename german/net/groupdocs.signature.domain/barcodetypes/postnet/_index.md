@@ -3,7 +3,7 @@ title: Postnet
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: PostnetBarcodeTypObjekt.
 type: docs
-weight: 510
+weight: 540
 url: /de/net/groupdocs.signature.domain/barcodetypes/postnet/
 ---
 ## BarcodeTypes.Postnet field

@@ -1,14 +1,14 @@
 ---
 title: EncodeType
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置条形码类型验证
+description: 获取或设置条码类型验证
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.options/barcodeverifyoptions/encodetype/
 ---
 ## BarcodeVerifyOptions.EncodeType property
 
-获取或设置条形码类型验证。
+获取或设置条码类型验证。
 
 ```csharp
 public BarcodeType EncodeType { get; set; }

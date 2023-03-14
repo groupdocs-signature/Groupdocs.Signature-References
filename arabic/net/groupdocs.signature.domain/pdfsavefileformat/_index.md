@@ -3,7 +3,7 @@ title: PdfSaveFileFormat
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحدد تنسيقات ملفات الحفظ المختلفة.
 type: docs
-weight: 670
+weight: 700
 url: /ar/net/groupdocs.signature.domain/pdfsavefileformat/
 ---
 ## PdfSaveFileFormat enumeration

@@ -1,14 +1,14 @@
 ---
 title: WiFiEncryptionType
 second_title: GroupDocs.Signature for .NET API 参考
-description: 表示 WiFi 加密类型
+description: 代表WiFi加密类型
 type: docs
-weight: 420
+weight: 440
 url: /zh/net/groupdocs.signature.domain.extensions/wifiencryptiontype/
 ---
 ## WiFiEncryptionType enumeration
 
-表示 WiFi 加密类型。
+代表WiFi加密类型。
 
 ```csharp
 public enum WiFiEncryptionType
@@ -18,11 +18,11 @@ public enum WiFiEncryptionType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| None | `0` | 表示无加密 WiFi 类型。 |
+| None | `0` | 表示不加密 WiFi 类型。 |
 | WPA | `1` | 表示具有 WPA 加密类型的 WiFi。 |
-| WPAEAP | `2` | 表示具有 WPA-EAP 加密类型的 WiFi。 |
-| WPAWPA2 | `3` | 表示具有 WPA/WPA2 加密类型的 WiFi。 |
-| WEP | `4` | 表示具有 WEP 加密类型的 WiFi。 |
+| WPAEAP | `2` | 表示使用 WPA-EAP 加密类型的 WiFi。 |
+| WPAWPA2 | `3` | 代表 WPA/WPA2 加密类型的 WiFi。 |
+| WEP | `4` | 表示使用 WEP 加密类型的 WiFi。 |
 
 ### 也可以看看
 

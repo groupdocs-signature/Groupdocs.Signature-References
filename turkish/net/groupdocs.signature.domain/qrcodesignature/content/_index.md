@@ -1,14 +1,14 @@
 ---
 title: Content
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: türündeki QR kodu ikili veri görüntü içeriğini belirtirFormatgroupdocs.signature.domain/qrcodesignature/format . Varsayılan olarak bu özellik ayarlanmaz. Özelliği kullanReturnContentgroupdocs.signature.options/qrcodesearchoptions/returncontent bu özelliği etkinleştirmek için.
+description: türündeki QR kodu ikili veri görüntü içeriğini belirtirFormatgroupdocs.signature.domain/qrcodesignature/format . Varsayılan olarak bu özellik ayarlanmayacaktır. Özelliği kullanReturnContentgroupdocs.signature.options/qrcodesearchoptions/returncontent bu özelliği etkinleştirmek için.
 type: docs
 weight: 20
 url: /tr/net/groupdocs.signature.domain/qrcodesignature/content/
 ---
 ## QrCodeSignature.Content property
 
-türündeki QR kodu ikili veri görüntü içeriğini belirtir[`Format`](../format) . Varsayılan olarak bu özellik ayarlanmaz. Özelliği kullan[`ReturnContent`](../../../groupdocs.signature.options/qrcodesearchoptions/returncontent) bu özelliği etkinleştirmek için.
+türündeki QR kodu ikili veri görüntü içeriğini belirtir[`Format`](../format) . Varsayılan olarak bu özellik ayarlanmayacaktır. Özelliği kullan[`ReturnContent`](../../../groupdocs.signature.options/qrcodesearchoptions/returncontent) bu özelliği etkinleştirmek için.
 
 ```csharp
 public byte[] Content { get; }

@@ -1,14 +1,14 @@
 ---
 title: Strikeout
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置字体删除样式
+description: 获取或设置字体删除线样式
 type: docs
 weight: 60
 url: /zh/net/groupdocs.signature.domain/signaturefont/strikeout/
 ---
 ## SignatureFont.Strikeout property
 
-获取或设置字体删除样式
+获取或设置字体删除线样式
 
 ```csharp
 public bool Strikeout { get; set; }

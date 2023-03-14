@@ -3,7 +3,7 @@ title: BarcodeSearchOptions
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Rappresenta le opzioni di ricerca per le firme dei codici a barre.
 type: docs
-weight: 1180
+weight: 1250
 url: /it/net/groupdocs.signature.options/barcodesearchoptions/
 ---
 ## BarcodeSearchOptions class
@@ -38,7 +38,7 @@ public class BarcodeSearchOptions : SearchOptions
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Utilizzo di base della ricerca della firma elettronica del codice a barre da parte di GroupDocs.Signature: [ Come eseguire la ricerca elettronica delle firme dei codici a barre in un documento](https://docs.groupdocs.com/display/signaturenet/Search+for+Barcode+e-signatures)
 * Utilizzo avanzato delle impostazioni di ricerca della firma elettronica del codice a barre con GroupDocs.Signature: [Utilizzo avanzato delle firme dei codici a barre eSearch in un documento e impostazioni aggiuntive](https://docs.groupdocs.com/display/signaturenet/Advanced+search+for+Barcode+signatures)

@@ -3,7 +3,7 @@ title: PngColorType
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: PNG resim renk türünü temsil eder.
 type: docs
-weight: 1460
+weight: 1540
 url: /tr/net/groupdocs.signature.options/pngcolortype/
 ---
 ## PngColorType enumeration
@@ -21,8 +21,8 @@ public enum PngColorType
 | --- | --- | --- |
 | Grayscale | `0` | Her pikselin gri tonlamalı bir örnek olduğu renk türünü temsil eder. |
 | Truecolor | `2` | Her pikselin bir R,G,B üçlüsü olduğu renk tipini temsil eder. |
-| IndexedColor | `3` | Her pikselin bir palet dizini olduğu renk türünü temsil eder; bir PLTE yığın görünecek. |
-| GrayscaleWithAlpha | `4` | Her pikselin gri tonlamalı bir örnek olduğu renk türünü temsil eder, ardından bir alfa örneği gelir. |
+| IndexedColor | `3` | Her pikselin bir palet dizini olduğu renk türünü temsil eder; bir PLTE chunk görünecektir. |
+| GrayscaleWithAlpha | `4` | Her pikselin gri tonlamalı bir örnek olduğu ve ardından öğesinin bir alfa örneği tarafından takip edildiği renk türünü temsil eder. |
 | TruecolorWithAlpha | `6` | Her pikselin bir R,G,B üçlüsü ve ardından bir alfa örneği olduğu renk türünü temsil eder. |
 
 ### Ayrıca bakınız

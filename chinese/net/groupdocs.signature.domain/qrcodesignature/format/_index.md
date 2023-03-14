@@ -1,14 +1,14 @@
 ---
 title: Format
 second_title: GroupDocs.Signature for .NET API 参考
-description: 指定二维码签名图片的格式
+description: 指定二维码签名图片格式
 type: docs
 weight: 40
 url: /zh/net/groupdocs.signature.domain/qrcodesignature/format/
 ---
 ## QrCodeSignature.Format property
 
-指定二维码签名图片的格式。
+指定二维码签名图片格式。
 
 ```csharp
 public FileType Format { get; }

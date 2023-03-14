@@ -1,14 +1,14 @@
 ---
 title: Signatures
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Elenco delle firme rilevateBaseSignaturegroupdocs.signature.domain/basesignature .
+description: Elenco delle firme trovateBaseSignaturegroupdocs.signature.domain/basesignature .
 type: docs
-weight: 10
+weight: 30
 url: /it/net/groupdocs.signature.domain/searchresult/signatures/
 ---
 ## SearchResult.Signatures property
 
-Elenco delle firme rilevate[`BaseSignature`](../../basesignature) .
+Elenco delle firme trovate[`BaseSignature`](../../basesignature) .
 
 ```csharp
 public List<BaseSignature> Signatures { get; }

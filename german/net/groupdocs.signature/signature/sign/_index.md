@@ -25,7 +25,7 @@ Gibt eine Instanz von zurück[`SignResult`](../../../groupdocs.signature.domain/
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zu elektronischen Signaturtypen, die von GroupDocs unterstützt werden.Signature: [Elektronische Signaturtypen, die von GroupDocs.Signature unterstützt werden](https://docs.groupdocs.com/display/signaturenet/Electronic+signature+types)
 * Weitere Informationen zum eSignieren von Dokumenten in C#: [So signieren Sie Dokumente mit GroupDocs.Signature elektronisch](https://docs.groupdocs.com/display/signaturenet/Signing)
@@ -42,7 +42,7 @@ Gibt eine Instanz von zurück[`SignResult`](../../../groupdocs.signature.domain/
 
 ## Sign(Stream, SignOptions, SaveOptions) {#sign_1}
 
-Unterzeichnet Dokument mit[`SignOptions`](../../../groupdocs.signature.options/signoptions) und speichert das Ergebnis in einem Stream mit vordefinierten[`SaveOptions`](../../../groupdocs.signature.options/saveoptions) .
+Unterzeichnet Dokument mit[`SignOptions`](../../../groupdocs.signature.options/signoptions)und speichert das Ergebnis in einem Stream mit vordefinierten[`SaveOptions`](../../../groupdocs.signature.options/saveoptions) .
 
 ```csharp
 public SignResult Sign(Stream document, SignOptions signOptions, SaveOptions saveOptions)
@@ -60,7 +60,7 @@ Gibt eine Instanz von zurück[`SignResult`](../../../groupdocs.signature.domain/
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zu elektronischen Signaturtypen, die von GroupDocs unterstützt werden.Signature: [Elektronische Signaturtypen, die von GroupDocs.Signature unterstützt werden](https://docs.groupdocs.com/display/signaturenet/Electronic+signature+types)
 * Weitere Informationen zum eSignieren von Dokumenten in C#: [So signieren Sie Dokumente mit GroupDocs.Signature elektronisch](https://docs.groupdocs.com/display/signaturenet/Signing)
@@ -96,7 +96,7 @@ Gibt eine Instanz von zurück[`SignResult`](../../../groupdocs.signature.domain/
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zu elektronischen Signaturtypen, die von GroupDocs unterstützt werden.Signature: [Elektronische Signaturtypen, die von GroupDocs.Signature unterstützt werden](https://docs.groupdocs.com/display/signaturenet/Electronic+signature+types)
 * Weitere Informationen zum eSignieren von Dokumenten in C#: [So signieren Sie Dokumente mit GroupDocs.Signature elektronisch](https://docs.groupdocs.com/display/signaturenet/Signing)
@@ -113,7 +113,7 @@ Gibt eine Instanz von zurück[`SignResult`](../../../groupdocs.signature.domain/
 
 ## Sign(Stream, List&lt;SignOptions&gt;, SaveOptions) {#sign_3}
 
-Signiert Dokument mit Sammlung von[`SignOptions`](../../../groupdocs.signature.options/signoptions) und speichert das Ergebnis in einem Stream mit vordefinierten[`SaveOptions`](../../../groupdocs.signature.options/saveoptions) .
+Signiert Dokument mit Sammlung von[`SignOptions`](../../../groupdocs.signature.options/signoptions)und speichert das Ergebnis in einem Stream mit vordefinierten[`SaveOptions`](../../../groupdocs.signature.options/saveoptions) .
 
 ```csharp
 public SignResult Sign(Stream document, List<SignOptions> signOptionsList, SaveOptions saveOptions)
@@ -131,7 +131,7 @@ Gibt eine Instanz von zurück[`SignResult`](../../../groupdocs.signature.domain/
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zu elektronischen Signaturtypen, die von GroupDocs unterstützt werden.Signature: [Elektronische Signaturtypen, die von GroupDocs.Signature unterstützt werden](https://docs.groupdocs.com/display/signaturenet/Electronic+signature+types)
 * Weitere Informationen zum eSignieren von Dokumenten in C#: [So signieren Sie Dokumente mit GroupDocs.Signature elektronisch](https://docs.groupdocs.com/display/signaturenet/Signing)
@@ -167,7 +167,7 @@ Gibt eine Instanz von zurück[`SignResult`](../../../groupdocs.signature.domain/
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zu elektronischen Signaturtypen, die von GroupDocs unterstützt werden.Signature: [Elektronische Signaturtypen, die von GroupDocs.Signature unterstützt werden](https://docs.groupdocs.com/display/signaturenet/Electronic+signature+types)
 * Weitere Informationen zum eSignieren von Dokumenten in C#: [So signieren Sie Dokumente mit GroupDocs.Signature elektronisch](https://docs.groupdocs.com/display/signaturenet/Signing)
@@ -202,7 +202,7 @@ Gibt eine Instanz von zurück[`SignResult`](../../../groupdocs.signature.domain/
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zu elektronischen Signaturtypen, die von GroupDocs unterstützt werden.Signature: [Elektronische Signaturtypen, die von GroupDocs.Signature unterstützt werden](https://docs.groupdocs.com/display/signaturenet/Electronic+signature+types)
 * Weitere Informationen zum eSignieren von Dokumenten in C#: [So signieren Sie Dokumente mit GroupDocs.Signature elektronisch](https://docs.groupdocs.com/display/signaturenet/Signing)
@@ -238,7 +238,7 @@ Gibt eine Instanz von zurück[`SignResult`](../../../groupdocs.signature.domain/
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zu elektronischen Signaturtypen, die von GroupDocs unterstützt werden.Signature: [Elektronische Signaturtypen, die von GroupDocs.Signature unterstützt werden](https://docs.groupdocs.com/display/signaturenet/Electronic+signature+types)
 * Weitere Informationen zum eSignieren von Dokumenten in C#: [So signieren Sie Dokumente mit GroupDocs.Signature elektronisch](https://docs.groupdocs.com/display/signaturenet/Signing)
@@ -273,7 +273,7 @@ Gibt eine Instanz von zurück[`SignResult`](../../../groupdocs.signature.domain/
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zu elektronischen Signaturtypen, die von GroupDocs unterstützt werden.Signature: [Elektronische Signaturtypen, die von GroupDocs.Signature unterstützt werden](https://docs.groupdocs.com/display/signaturenet/Electronic+signature+types)
 * Weitere Informationen zum eSignieren von Dokumenten in C#: [So signieren Sie Dokumente mit GroupDocs.Signature elektronisch](https://docs.groupdocs.com/display/signaturenet/Signing)

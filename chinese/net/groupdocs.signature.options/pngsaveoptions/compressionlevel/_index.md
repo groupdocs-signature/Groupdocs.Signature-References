@@ -1,14 +1,14 @@
 ---
 title: CompressionLevel
 second_title: GroupDocs.Signature for .NET API 参考
-description: png 图像压缩级别在 09 范围内其中 9 为最大压缩 0 为存储模式
+description: 09范围内的png图像压缩级别其中9是最大压缩 0是存储模式
 type: docs
 weight: 40
 url: /zh/net/groupdocs.signature.options/pngsaveoptions/compressionlevel/
 ---
 ## PngSaveOptions.CompressionLevel property
 
-png 图像压缩级别在 0-9 范围内，其中 9 为最大压缩 ，0 为存储模式。
+0-9范围内的png图像压缩级别，其中9是最大压缩 ，0是存储模式。
 
 ```csharp
 public int CompressionLevel { get; set; }

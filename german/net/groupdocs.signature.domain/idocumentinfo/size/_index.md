@@ -3,7 +3,7 @@ title: Size
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Dokumentgröße in Byte.
 type: docs
-weight: 130
+weight: 140
 url: /de/net/groupdocs.signature.domain/idocumentinfo/size/
 ---
 ## IDocumentInfo.Size property

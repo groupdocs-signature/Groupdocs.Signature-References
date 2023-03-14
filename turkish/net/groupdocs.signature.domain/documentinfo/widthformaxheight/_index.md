@@ -3,7 +3,7 @@ title: WidthForMaxHeight
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Maksimum sayfa yüksekliği için genişliği belirtir.
 type: docs
-weight: 160
+weight: 170
 url: /tr/net/groupdocs.signature.domain/documentinfo/widthformaxheight/
 ---
 ## DocumentInfo.WidthForMaxHeight property

@@ -3,7 +3,7 @@ title: LinearGradientBrush
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل فرشاة التدرج الخطي .
 type: docs
-weight: 270
+weight: 290
 url: /ar/net/groupdocs.signature.domain.extensions/lineargradientbrush/
 ---
 ## LinearGradientBrush class

@@ -1,14 +1,14 @@
 ---
 title: MetadataSignOptions
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: MetadataSignOptions sınıfının varsayılan değerlerle yeni bir örneğini başlatır.
+description: Varsayılan değerlerle MetadataSignOptions sınıfının yeni bir örneğini başlatır.
 type: docs
 weight: 10
 url: /tr/net/groupdocs.signature.options/metadatasignoptions/metadatasignoptions/
 ---
 ## MetadataSignOptions() {#constructor}
 
-MetadataSignOptions sınıfının varsayılan değerlerle yeni bir örneğini başlatır.
+Varsayılan değerlerle MetadataSignOptions sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public MetadataSignOptions()
@@ -24,7 +24,7 @@ public MetadataSignOptions()
 
 ## MetadataSignOptions(IEnumerable&lt;MetadataSignature&gt;) {#constructor_1}
 
-Metadata ile MetadataSignOptions sınıfının yeni bir örneğini başlatır.
+Metadata. ile MetadataSignOptions sınıfının yeni bir örneğini başlatır
 
 ```csharp
 public MetadataSignOptions(IEnumerable<MetadataSignature> signatures)

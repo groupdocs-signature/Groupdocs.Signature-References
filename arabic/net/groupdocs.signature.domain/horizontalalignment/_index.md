@@ -3,7 +3,7 @@ title: HorizontalAlignment
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحدد المحاذاة الأفقية للعنصر في صفحة المستند.
 type: docs
-weight: 470
+weight: 490
 url: /ar/net/groupdocs.signature.domain/horizontalalignment/
 ---
 ## HorizontalAlignment enumeration

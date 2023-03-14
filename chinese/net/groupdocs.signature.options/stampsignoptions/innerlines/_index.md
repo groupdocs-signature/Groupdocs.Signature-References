@@ -1,14 +1,14 @@
 ---
 title: InnerLines
 second_title: GroupDocs.Signature for .NET API 参考
-description: 呈现为一组矩形的内线列表
+description: 内线列表呈现为一组矩形
 type: docs
 weight: 50
 url: /zh/net/groupdocs.signature.options/stampsignoptions/innerlines/
 ---
 ## StampSignOptions.InnerLines property
 
-呈现为一组矩形的内线列表。
+内线列表呈现为一组矩形。
 
 ```csharp
 public List<StampLine> InnerLines { get; }

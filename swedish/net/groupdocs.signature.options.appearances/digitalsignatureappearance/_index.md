@@ -3,7 +3,7 @@ title: DigitalSignatureAppearance
 second_title: GroupDocs.Signature för .NET API-referens
 description: Beskriver utseendet på signaturlinje för digital signatur. En signaturlinje kan användas för endast en digital signatur. Signaturlinje finns alltid på första sidan. Den här funktionen kan vara användbar för filformaten .docx .doc .odt och .xlsx.
 type: docs
-weight: 1120
+weight: 1190
 url: /sv/net/groupdocs.signature.options.appearances/digitalsignatureappearance/
 ---
 ## DigitalSignatureAppearance class

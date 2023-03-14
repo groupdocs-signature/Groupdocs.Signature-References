@@ -3,7 +3,7 @@ title: Succeeded
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Başarıyla değiştirilen imzaların listesiBaseSignaturegroupdocs.signature.domain/basesignature .
 type: docs
-weight: 20
+weight: 50
 url: /tr/net/groupdocs.signature.domain/updateresult/succeeded/
 ---
 ## UpdateResult.Succeeded property

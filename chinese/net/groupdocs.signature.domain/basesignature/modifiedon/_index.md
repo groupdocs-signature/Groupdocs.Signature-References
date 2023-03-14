@@ -8,7 +8,7 @@ url: /zh/net/groupdocs.signature.domain/basesignature/modifiedon/
 ---
 ## BaseSignature.ModifiedOn property
 
-获取或设置签名修改日期
+获取或设置签名修改日期。
 
 ```csharp
 public DateTime ModifiedOn { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: CodeTextAlignment
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Ottiene o imposta lallineamento del testo nellimmagine del codice QR risultante. Il valore predefinito è Nessuno.
+description: Ottiene o imposta lallineamento del testo nellimmagine del codice QR del risultato. Il valore predefinito è Nessuno.
 type: docs
 weight: 20
 url: /it/net/groupdocs.signature.options/qrcodesignoptions/codetextalignment/
 ---
 ## QrCodeSignOptions.CodeTextAlignment property
 
-Ottiene o imposta l'allineamento del testo nell'immagine del codice QR risultante. Il valore predefinito è Nessuno.
+Ottiene o imposta l'allineamento del testo nell'immagine del codice QR del risultato. Il valore predefinito è Nessuno.
 
 ```csharp
 public CodeTextAlignment CodeTextAlignment { get; set; }

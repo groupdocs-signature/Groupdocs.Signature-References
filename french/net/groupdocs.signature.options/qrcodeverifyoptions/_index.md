@@ -3,7 +3,7 @@ title: QrCodeVerifyOptions
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Conserve les options pour vérifier la signature du code QR du document.
 type: docs
-weight: 1560
+weight: 1640
 url: /fr/net/groupdocs.signature.options/qrcodeverifyoptions/
 ---
 ## QrCodeVerifyOptions class
@@ -27,7 +27,7 @@ public class QrCodeVerifyOptions : TextVerifyOptions
 | Nom | La description |
 | --- | --- |
 | [AllPages](../../groupdocs.signature.options/verifyoptions/allpages) { get; set; } | Indicateur pour vérifier chaque page de document. Par défaut, la valeur est true. |
-| [DataEncryption](../../groupdocs.signature.options/qrcodeverifyoptions/dataencryption) { get; set; } | Obtient ou définit l'implémentation de[`IDataEncryption`](../../groupdocs.signature.domain.extensions/idataencryption)interface pour encoder et décoder les propriétés du texte de signature QR-Code. |
+| [DataEncryption](../../groupdocs.signature.options/qrcodeverifyoptions/dataencryption) { get; set; } | Obtient ou définit l'implémentation de[`IDataEncryption`](../../groupdocs.signature.domain.extensions/idataencryption) interface pour encoder et décoder les propriétés du texte de signature QR-Code. |
 | [EncodeType](../../groupdocs.signature.options/qrcodeverifyoptions/encodetype) { get; set; } | Obtient ou définit la vérification du type de code QR. Cette propriété est facultative. |
 | [Extensions](../../groupdocs.signature.options/verifyoptions/extensions) { get; set; } | Extensions supplémentaires pour la vérification des options de signature alternatives. |
 | [FormTextFieldTitle](../../groupdocs.signature.options/textverifyoptions/formtextfieldtitle) { get; set; } | Obtient ou définit le titre du champ de formulaire pour le vérifier. Si ce texte de jeu de propriétés sera trouvé uniquement dans les champs de formulaire de texte. |

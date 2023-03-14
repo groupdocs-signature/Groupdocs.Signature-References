@@ -3,7 +3,7 @@ title: SquareBorder
 second_title: GroupDocs.Signature för .NET API-referens
 description: Förekomst för att behålla kantlinjeegenskaper för fyrkantig stämpellinje.
 type: docs
-weight: 860
+weight: 890
 url: /sv/net/groupdocs.signature.domain/squareborder/
 ---
 ## SquareBorder class

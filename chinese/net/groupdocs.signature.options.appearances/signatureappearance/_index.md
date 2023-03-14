@@ -1,14 +1,14 @@
 ---
 title: SignatureAppearance
 second_title: GroupDocs.Signature for .NET API 参考
-description: 表示签名外观  用于在文档页面上签名的替代实现的附加选项
+description: 表示签名外观  文档页面上签名的替代实现的附加选项
 type: docs
-weight: 1170
+weight: 1240
 url: /zh/net/groupdocs.signature.options.appearances/signatureappearance/
 ---
 ## SignatureAppearance class
 
-表示签名外观 - 用于在文档页面上签名的替代实现的附加选项。
+表示签名外观 - 文档页面上签名的替代实现的附加选项。
 
 ```csharp
 public abstract class SignatureAppearance

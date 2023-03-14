@@ -3,7 +3,7 @@ title: Succeeded
 second_title: GroupDocs.Signature för .NET API-referens
 description: Lista över nyskapade signaturerBaseSignaturegroupdocs.signature.domain/basesignature .
 type: docs
-weight: 20
+weight: 50
 url: /sv/net/groupdocs.signature.domain/signresult/succeeded/
 ---
 ## SignResult.Succeeded property

@@ -1,14 +1,14 @@
 ---
 title: SaveDocumentOnEmptyUpdate
 second_title: Référence de l'API GroupDocs.Signature pour .NET
-description: Obtient ou définit lindicateur pour réenregistrer le document source lorsque la méthode de mise à jour na pas de signatures à mettre à jour. Si cet indicateur est défini sur vrai par défaut le document sera enregistré avec le journal de processus dhistorique correspondant date et type dopération même si la méthode de mise à jour a aucune signature à mettre à jour. Lorsque ce plat est défini sur faux le document source ne sera pas modifié du tout.
+description: Obtient ou définit lindicateur pour réenregistrer le document source lorsque la méthode de mise à jour na pas de signatures à mettre à jour. Si cet indicateur est défini sur vrai par défaut le document sera enregistré avec le journal de processus dhistorique correspondant date et type dopération même si la mise à jour la méthode na pas de signatures à mettre à jour. Lorsque ce plat est défini sur faux le document source ne sera pas modifié du tout.
 type: docs
-weight: 40
+weight: 70
 url: /fr/net/groupdocs.signature/signaturesettings/savedocumentonemptyupdate/
 ---
 ## SignatureSettings.SaveDocumentOnEmptyUpdate property
 
-Obtient ou définit l'indicateur pour réenregistrer le document source lorsque la méthode de mise à jour n'a pas de signatures à mettre à jour. Si cet indicateur est défini sur vrai (par défaut), le document sera enregistré avec le journal de processus d'historique correspondant (date et type d'opération) même si la méthode de mise à jour a aucune signature à mettre à jour. Lorsque ce plat est défini sur faux, le document source ne sera pas modifié du tout.
+Obtient ou définit l'indicateur pour réenregistrer le document source lorsque la méthode de mise à jour n'a pas de signatures à mettre à jour. Si cet indicateur est défini sur vrai (par défaut), le document sera enregistré avec le journal de processus d'historique correspondant (date et type d'opération) même si la mise à jour la méthode n'a pas de signatures à mettre à jour. Lorsque ce plat est défini sur faux, le document source ne sera pas modifié du tout.
 
 ```csharp
 public bool SaveDocumentOnEmptyUpdate { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Address
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Kripto para birimi genel adresini alır veya ayarlar.
+description: Kripto para genel adresini alır veya ayarlar.
 type: docs
 weight: 20
 url: /tr/net/groupdocs.signature.domain.extensions/cryptocurrencytransfer/address/
 ---
 ## CryptoCurrencyTransfer.Address property
 
-Kripto para birimi genel adresini alır veya ayarlar.
+Kripto para genel adresini alır veya ayarlar.
 
 ```csharp
 public string Address { get; set; }

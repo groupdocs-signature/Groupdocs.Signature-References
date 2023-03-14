@@ -3,7 +3,7 @@ title: SingaporePost
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Объект типа штрихкода почты Сингапура.
 type: docs
-weight: 550
+weight: 580
 url: /ru/net/groupdocs.signature.domain/barcodetypes/singaporepost/
 ---
 ## BarcodeTypes.SingaporePost field

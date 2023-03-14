@@ -20,7 +20,7 @@ public override bool Equals(object obj)
 
 ### Valore di ritorno
 
-Restituisce true se l'oggetto MeCard passato ha lo stesso tipo e tutte le sue proprietà sono uguali alle proprietà di questa istanza.
+Restituisce vero se l'oggetto MeCard passato ha lo stesso tipo e tutte le sue proprietà sono uguali alle proprietà di questa istanza.
 
 ### Guarda anche
 

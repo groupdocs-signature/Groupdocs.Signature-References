@@ -1,14 +1,14 @@
 ---
 title: Top
 second_title: GroupDocs.Signature for .NET API 参考
-description: 文档页面上签名区域的顶部 Y 位置以度量单位 像素百分比或毫米见MeasureTypegroupdocs.signature.domain/measuretypeLocationMeasureType.
+description: 文档页面上签名区域的顶部 Y 位置以测量单位 像素百分比或毫米见MeasureTypegroupdocs.signature.domain/measuretypeLocationMeasureType.
 type: docs
 weight: 60
 url: /zh/net/groupdocs.signature.domain/irectangle/top/
 ---
 ## IRectangle.Top property
 
-文档页面上签名区域的顶部 Y 位置，以度量单位 （像素、百分比或毫米见[`MeasureType`](../../measuretype)LocationMeasureType).
+文档页面上签名区域的顶部 Y 位置，以测量单位 （像素、百分比或毫米见[`MeasureType`](../../measuretype)LocationMeasureType).
 
 ```csharp
 public int Top { get; set; }

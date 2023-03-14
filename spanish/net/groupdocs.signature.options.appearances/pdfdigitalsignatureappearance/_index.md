@@ -3,7 +3,7 @@ title: PdfDigitalSignatureAppearance
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Describe la apariencia de la firma digital en documentos PDF.
 type: docs
-weight: 1140
+weight: 1210
 url: /es/net/groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/
 ---
 ## PdfDigitalSignatureAppearance class
@@ -24,7 +24,7 @@ public sealed class PdfDigitalSignatureAppearance : SignatureAppearance
 
 | Nombre | Descripción |
 | --- | --- |
-| [Background](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/background) { get; set; } | Obtener o establecer el color de fondo de la apariencia de la firma. De manera predeterminada, el valor es SystemColors.Windows |
+| [Background](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/background) { get; set; } | Obtener o establecer el color de fondo de la apariencia de la firma. De forma predeterminada, el valor es SystemColors.Windows |
 | [ContactInfoLabel](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/contactinfolabel) { get; set; } | Obtiene o establece la etiqueta de información de contacto. Valor predeterminado: "Contacto". si este valor está vacío, no aparecerá ninguna etiqueta de contacto en el área de firma digital. |
 | [DateSignedAtLabel](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/datesignedatlabel) { get; set; } | Obtiene o establece la fecha de la etiqueta firmada. Valor por defecto: "Fecha". |
 | [DigitalSignedLabel](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/digitalsignedlabel) { get; set; } | Obtiene o establece una etiqueta firmada digitalmente. Valor predeterminado: "Firmado digitalmente por". |

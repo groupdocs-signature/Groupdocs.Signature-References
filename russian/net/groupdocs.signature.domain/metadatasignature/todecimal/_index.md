@@ -3,7 +3,7 @@ title: ToDecimal
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Преобразует в десятичное число.
 type: docs
-weight: 100
+weight: 110
 url: /ru/net/groupdocs.signature.domain/metadatasignature/todecimal/
 ---
 ## ToDecimal() {#todecimal}

@@ -3,7 +3,7 @@ title: IATA2of5
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: IATA2of5 Barkod Türü nesnesi.
 type: docs
-weight: 310
+weight: 340
 url: /tr/net/groupdocs.signature.domain/barcodetypes/iata2of5/
 ---
 ## BarcodeTypes.IATA2of5 field

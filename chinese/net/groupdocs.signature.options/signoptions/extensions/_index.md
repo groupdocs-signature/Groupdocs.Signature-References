@@ -1,14 +1,14 @@
 ---
 title: Extensions
 second_title: GroupDocs.Signature for .NET API 参考
-description: 签名扩展
+description: 签名扩展.
 type: docs
 weight: 40
 url: /zh/net/groupdocs.signature.options/signoptions/extensions/
 ---
 ## SignOptions.Extensions property
 
-签名扩展。
+签名扩展.
 
 ```csharp
 public List<SignatureExtension> Extensions { get; }

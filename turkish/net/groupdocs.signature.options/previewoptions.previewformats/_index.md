@@ -3,7 +3,7 @@ title: PreviewOptions.PreviewFormats
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Belge ön izleme desteklenen formatlar
 type: docs
-weight: 1510
+weight: 1590
 url: /tr/net/groupdocs.signature.options/previewoptions.previewformats/
 ---
 ## PreviewOptions.PreviewFormats enumeration

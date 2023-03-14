@@ -3,7 +3,7 @@ title: ITextAlignment
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحدد خصائص المحاذاة للنص الموجود على توقيعات النص.
 type: docs
-weight: 530
+weight: 550
 url: /ar/net/groupdocs.signature.domain/itextalignment/
 ---
 ## ITextAlignment interface

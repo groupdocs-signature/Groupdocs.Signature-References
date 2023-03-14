@@ -1,14 +1,14 @@
 ---
 title: CertificateStream
 second_title: GroupDocs.Signature for .NET API 参考
-description: 数字证书流
+description: 数字证书流.
 type: docs
 weight: 40
 url: /zh/net/groupdocs.signature.options/digitalverifyoptions/certificatestream/
 ---
 ## DigitalVerifyOptions.CertificateStream property
 
-数字证书流。
+数字证书流.
 
 ```csharp
 public Stream CertificateStream { get; set; }

@@ -3,7 +3,7 @@ title: DashStyle
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Repräsentiert den Stil von Strichzeichnungslinien in Dokumenten.
 type: docs
-weight: 110
+weight: 120
 url: /de/net/groupdocs.signature.domain/dashstyle/
 ---
 ## DashStyle enumeration

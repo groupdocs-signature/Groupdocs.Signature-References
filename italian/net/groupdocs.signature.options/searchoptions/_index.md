@@ -3,7 +3,7 @@ title: SearchOptions
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Rappresenta le firme estratte dalle opzioni del documento.
 type: docs
-weight: 1600
+weight: 1680
 url: /it/net/groupdocs.signature.options/searchoptions/
 ---
 ## SearchOptions class
@@ -25,10 +25,10 @@ public abstract class SearchOptions
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Guarda esempi più semplici sulla ricerca di varie firme elettroniche con GroupDocs.Firma: [https://docs.groupdocs.com/signature/net/search-for-electronic-signatures-in-document/](https://docs.groupdocs.com/signature/net/search-for-electronic-signatures-in-document/)
-* Visualizza esempi più avanzati di ricerca di varie firme elettroniche con GroupDocs. Firma: [Ricerca avanzata di firme elettroniche](https://docs.groupdocs.com/signature/net/searching/)
+* Visualizza esempi più avanzati di ricerca di varie firme elettroniche con GroupDocs.Signature: [Ricerca avanzata di firme elettroniche](https://docs.groupdocs.com/signature/net/searching/)
 
 ### Guarda anche
 

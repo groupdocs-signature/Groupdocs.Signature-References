@@ -3,7 +3,7 @@ title: XLSX
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Электронная таблица Microsoft Excel Open XML .xlsx  широко известный формат документов Microsoft Excel который был представлен корпорацией Майкрософт в выпуске Microsoft Office 2007. Узнайте больше об этом формате файлаздесьhttps//wiki.fileformat.com/spreadsheet/xlsx .
 type: docs
-weight: 540
+weight: 550
 url: /ru/net/groupdocs.signature.domain/filetype/xlsx/
 ---
 ## FileType.XLSX field

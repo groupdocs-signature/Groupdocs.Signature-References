@@ -3,7 +3,7 @@ title: ImageAppearance
 second_title: GroupDocs.Signature for .NET API 参考
 description: 描述图像签名的扩展外观特征
 type: docs
-weight: 1130
+weight: 1200
 url: /zh/net/groupdocs.signature.options.appearances/imageappearance/
 ---
 ## ImageAppearance class
@@ -24,10 +24,10 @@ public class ImageAppearance : SignatureAppearance
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Brightness](../../groupdocs.signature.options.appearances/imageappearance/brightness) { get; set; } | 获取或设置图像亮度。 默认值为1，对应图像的原始亮度。 |
-| [Contrast](../../groupdocs.signature.options.appearances/imageappearance/contrast) { get; set; } | 获取或设置图像对比度。 默认值为1，对应图像的原始对比度。 |
-| [GammaCorrection](../../groupdocs.signature.options.appearances/imageappearance/gammacorrection) { get; set; } | 获取或设置图像 gamma. 默认值为 1 对应于图像的原始 gamma. |
-| [Grayscale](../../groupdocs.signature.options.appearances/imageappearance/grayscale) { get; set; } | 如果需要灰度过滤器，则将此标志设置为真。 |
+| [Brightness](../../groupdocs.signature.options.appearances/imageappearance/brightness) { get; set; } | 获取或设置图像亮度。 默认值为1，它对应于图像的原始亮度。 |
+| [Contrast](../../groupdocs.signature.options.appearances/imageappearance/contrast) { get; set; } | 获取或设置图像对比度。 默认值为 1，它对应于图像的原始对比度。 |
+| [GammaCorrection](../../groupdocs.signature.options.appearances/imageappearance/gammacorrection) { get; set; } | 获取或设置图像gamma. 默认值为1 它对应于图像的原始gamma. |
+| [Grayscale](../../groupdocs.signature.options.appearances/imageappearance/grayscale) { get; set; } | 如果需要灰度滤镜，则将此标志设置为真。 |
 
 ### 也可以看看
 

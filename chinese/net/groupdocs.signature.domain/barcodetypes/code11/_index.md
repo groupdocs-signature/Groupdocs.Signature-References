@@ -1,14 +1,14 @@
 ---
 title: Code11
 second_title: GroupDocs.Signature for .NET API 参考
-description: Code11 条形码类型对象
+description: Code11 条码类型对象
 type: docs
 weight: 60
 url: /zh/net/groupdocs.signature.domain/barcodetypes/code11/
 ---
 ## BarcodeTypes.Code11 field
 
-Code11 条形码类型对象。
+Code11 条码类型对象。
 
 ```csharp
 public static readonly BarcodeType Code11;

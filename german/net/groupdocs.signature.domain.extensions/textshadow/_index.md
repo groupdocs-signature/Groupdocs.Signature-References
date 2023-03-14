@@ -3,7 +3,7 @@ title: TextShadow
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Repräsentiert Textschatteneigenschaften für Textsignaturen. Das Ergebnis kann je nach Signaturtyp und Dokumentformat variieren. TextShadow wird für die Verwendung mit TextAsImageSignatur für alle unterstützten Dokumenttypen empfohlen auch mit einfacher TextSignatur und TextSignatur als Wasserzeichen für Tabellenkalkulationen  .xslx und Präsentationen .pptx. Simple TextSignature for Words .docx wird ebenfalls empfohlen hat aber eingeschränkte Funktionalität.
 type: docs
-weight: 380
+weight: 400
 url: /de/net/groupdocs.signature.domain.extensions/textshadow/
 ---
 ## TextShadow class

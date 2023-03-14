@@ -3,7 +3,7 @@ title: TextFormFieldSignature
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Contiene propiedades de firma de campo de formulario de entrada de texto para Documento PDF
 type: docs
-weight: 930
+weight: 960
 url: /es/net/groupdocs.signature.domain/textformfieldsignature/
 ---
 ## TextFormFieldSignature class

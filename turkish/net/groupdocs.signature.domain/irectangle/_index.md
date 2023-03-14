@@ -1,14 +1,14 @@
 ---
 title: IRectangle
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Bir belge sayfasındaki imza alanı için arayüz özelliklerini tanımlar.
+description: Belge sayfasındaki imza alanı için arayüz özelliklerini tanımlar.
 type: docs
-weight: 500
+weight: 520
 url: /tr/net/groupdocs.signature.domain/irectangle/
 ---
 ## IRectangle interface
 
-Bir belge sayfasındaki imza alanı için arayüz özelliklerini tanımlar.
+Belge sayfasındaki imza alanı için arayüz özelliklerini tanımlar.
 
 ```csharp
 public interface IRectangle

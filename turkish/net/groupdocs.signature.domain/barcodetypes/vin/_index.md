@@ -3,7 +3,7 @@ title: VIN
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: VIN Barkod Türü nesnesi.
 type: docs
-weight: 630
+weight: 660
 url: /tr/net/groupdocs.signature.domain/barcodetypes/vin/
 ---
 ## BarcodeTypes.VIN field

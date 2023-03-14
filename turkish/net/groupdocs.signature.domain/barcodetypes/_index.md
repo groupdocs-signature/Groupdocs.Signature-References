@@ -1,14 +1,14 @@
 ---
 title: BarcodeTypes
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Barkod Türleri kapsayıcısı.
+description: Barkod Türleri kabı.
 type: docs
 weight: 40
 url: /tr/net/groupdocs.signature.domain/barcodetypes/
 ---
 ## BarcodeTypes class
 
-Barkod Türleri kapsayıcısı.
+Barkod Türleri kabı.
 
 ```csharp
 public static class BarcodeTypes
@@ -31,8 +31,8 @@ public static class BarcodeTypes
 
 | İsim | Tanım |
 | --- | --- |
-| static readonly [AustralianPost](../../groupdocs.signature.domain/barcodetypes/australianpost) | Avustralya Posta Barkodu Türü nesnesi. |
-| static readonly [AustralianPosteParcel](../../groupdocs.signature.domain/barcodetypes/australianposteparcel) | Avustralya Postası eParcel Barkod Türü nesnesi. |
+| static readonly [AustralianPost](../../groupdocs.signature.domain/barcodetypes/australianpost) | Avustralya Posta Barkodu Türü object. |
+| static readonly [AustralianPosteParcel](../../groupdocs.signature.domain/barcodetypes/australianposteparcel) | Avustralya Postası eParsel Barkod Türü object. |
 | static readonly [Codabar](../../groupdocs.signature.domain/barcodetypes/codabar) | Codabar Barkod Türü nesnesi. |
 | static readonly [CodablockF](../../groupdocs.signature.domain/barcodetypes/codablockf) | CodablockF Barkod Türü nesnesi. |
 | static readonly [Code11](../../groupdocs.signature.domain/barcodetypes/code11) | Code11 Barkod Türü nesnesi. |
@@ -60,6 +60,9 @@ public static class BarcodeTypes
 | static readonly [EAN8](../../groupdocs.signature.domain/barcodetypes/ean8) | EAN8 Barkod Türü nesnesi. |
 | static readonly [GS1CodablockF](../../groupdocs.signature.domain/barcodetypes/gs1codablockf) | GS1CodablockF Barkod Türü nesnesi. |
 | static readonly [GS1Code128](../../groupdocs.signature.domain/barcodetypes/gs1code128) | GS1 Kodu128 Barkod Türü nesnesi. |
+| static readonly [GS1CompositeBar](../../groupdocs.signature.domain/barcodetypes/gs1compositebar) | GS1 Bileşik Barkod Türü nesnesi. |
+| static readonly [HIBCCode128LIC](../../groupdocs.signature.domain/barcodetypes/hibccode128lic) | HIBC LIC 128 Barkod Türü nesnesi. |
+| static readonly [HIBCCode39LIC](../../groupdocs.signature.domain/barcodetypes/hibccode39lic) | HIBC LIC 39 Barkod Türü nesnesi. |
 | static readonly [IATA2of5](../../groupdocs.signature.domain/barcodetypes/iata2of5) | IATA2of5 Barkod Türü nesnesi. |
 | static readonly [Interleaved2of5](../../groupdocs.signature.domain/barcodetypes/interleaved2of5) | Interleaved2of5 Barkod Türü nesnesi. |
 | static readonly [ISBN](../../groupdocs.signature.domain/barcodetypes/isbn) | ISBN Barkod Türü nesnesi. |

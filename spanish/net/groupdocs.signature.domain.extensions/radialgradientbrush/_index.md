@@ -3,7 +3,7 @@ title: RadialGradientBrush
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Representa el pincel de degradado radial.
 type: docs
-weight: 290
+weight: 310
 url: /es/net/groupdocs.signature.domain.extensions/radialgradientbrush/
 ---
 ## RadialGradientBrush class

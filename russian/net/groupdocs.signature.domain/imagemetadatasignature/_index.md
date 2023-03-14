@@ -3,7 +3,7 @@ title: ImageMetadataSignature
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Содержит свойства подписи метаданных изображения.
 type: docs
-weight: 550
+weight: 570
 url: /ru/net/groupdocs.signature.domain/imagemetadatasignature/
 ---
 ## ImageMetadataSignature class
@@ -39,6 +39,7 @@ public sealed class ImageMetadataSignature : MetadataSignature
 | [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | Указывает тип подписи. |
 | [Size](../../groupdocs.signature.domain/imagemetadatasignature/size) { get; } | Значение только для чтения для получения размера метаданных value |
 | [Top](../../groupdocs.signature.domain/basesignature/top) { get; set; } | Указывает верхнее положение подписи. |
+| [Type](../../groupdocs.signature.domain/metadatasignature/type) { get; } | Указывает тип значения метаданных. |
 | [Value](../../groupdocs.signature.domain/metadatasignature/value) { get; set; } | Указывает объект метаданных. |
 | [Width](../../groupdocs.signature.domain/basesignature/width) { get; set; } | Определяет ширину подписи. |
 

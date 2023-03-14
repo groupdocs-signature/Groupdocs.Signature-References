@@ -3,7 +3,7 @@ title: Mailmark
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Объект типа штрихкода 2D Mailmark Royal Mail.
 type: docs
-weight: 400
+weight: 430
 url: /ru/net/groupdocs.signature.domain/barcodetypes/mailmark/
 ---
 ## BarcodeTypes.Mailmark field

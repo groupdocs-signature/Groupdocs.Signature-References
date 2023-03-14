@@ -3,7 +3,7 @@ title: Clone
 second_title: GroupDocs.Signature för .NET API-referens
 description: Clone Metadata Signaturinstans.
 type: docs
-weight: 40
+weight: 50
 url: /sv/net/groupdocs.signature.domain/metadatasignature/clone/
 ---
 ## Clone() {#clone_1}

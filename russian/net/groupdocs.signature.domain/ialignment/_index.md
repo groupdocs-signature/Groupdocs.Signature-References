@@ -3,7 +3,7 @@ title: IAlignment
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Описывает выравнивание области подписи на странице документа.
 type: docs
-weight: 480
+weight: 500
 url: /ru/net/groupdocs.signature.domain/ialignment/
 ---
 ## IAlignment interface

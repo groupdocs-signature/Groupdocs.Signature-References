@@ -3,7 +3,7 @@ title: PngFilterType
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Representa el tipo de filtro de imagen PNG.
 type: docs
-weight: 1470
+weight: 1550
 url: /es/net/groupdocs.signature.options/pngfiltertype/
 ---
 ## PngFilterType enumeration

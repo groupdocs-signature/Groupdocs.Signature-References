@@ -3,7 +3,7 @@ title: DigitalVerifyOptions
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحتفظ بالخيارات للتحقق من التوقيع الرقمي للوثيقة .
 type: docs
-weight: 1270
+weight: 1350
 url: /ar/net/groupdocs.signature.options/digitalverifyoptions/
 ---
 ## DigitalVerifyOptions class

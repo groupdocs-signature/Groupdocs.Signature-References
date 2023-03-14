@@ -3,7 +3,7 @@ title: DigitalFormFieldSignature
 second_title: GroupDocs.Signature for .NET API 参考
 description: 包含 Pdf 文档的数字签名输入表单字段属性
 type: docs
-weight: 130
+weight: 140
 url: /zh/net/groupdocs.signature.domain/digitalformfieldsignature/
 ---
 ## DigitalFormFieldSignature class
@@ -18,27 +18,27 @@ public sealed class DigitalFormFieldSignature : FormFieldSignature
 
 | 姓名 | 描述 |
 | --- | --- |
-| [DigitalFormFieldSignature](digitalformfieldsignature)(string) | 使用预定义的名称创建 PdfDigitalFormFieldSignature。 |
+| [DigitalFormFieldSignature](digitalformfieldsignature)(string) | 创建具有预定义名称的 PdfDigitalFormFieldSignature. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [CreatedOn](../../groupdocs.signature.domain/basesignature/createdon) { get; set; } | 获取或设置签名创建日期。 |
-| [Deleted](../../groupdocs.signature.domain/basesignature/deleted) { get; } | 获取指示此签名是否已从文档中删除的标志。 此属性仅用于文档历史日志记录，以保留已删除签名的列表。 |
-| [Height](../../groupdocs.signature.domain/basesignature/height) { get; set; } | 指定签名的高度。 |
+| [Deleted](../../groupdocs.signature.domain/basesignature/deleted) { get; } | 获取指示此签名是否已从文档中删除的标志。 此属性仅用于文档历史日志记录以保留已删除签名的列表。 |
+| [Height](../../groupdocs.signature.domain/basesignature/height) { get; set; } | 指定签名高度。 |
 | [IsSignature](../../groupdocs.signature.domain/basesignature/issignature) { get; set; } | 获取或设置标志以指示此组件是签名还是文档内容。 此属性与 Update 方法一起使用以将元素设置为签名 (true) 或文档元素 (false)。 |
 | [Left](../../groupdocs.signature.domain/basesignature/left) { get; set; } | 指定签名的左侧位置。 |
-| [ModifiedOn](../../groupdocs.signature.domain/basesignature/modifiedon) { get; set; } | 获取或设置签名修改日期 |
+| [ModifiedOn](../../groupdocs.signature.domain/basesignature/modifiedon) { get; set; } | 获取或设置签名修改日期。 |
 | [Name](../../groupdocs.signature.domain/formfieldsignature/name) { get; set; } | 指定唯一的表单字段名称。 |
-| [PageNumber](../../groupdocs.signature.domain/basesignature/pagenumber) { get; } | 指定页面签名位于。 |
-| [SignatureId](../../groupdocs.signature.domain/basesignature/signatureid) { get; } | 通过更新或删除方法修改文档中签名的唯一签名标识符。 在调用签名或搜索方法后将自动设置此属性。 如果此属性在手动设置以操作签名之前保存。 |
-| [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | 指定签名的类型。 |
-| [Signed](../../groupdocs.signature.domain/digitalformfieldsignature/signed) { get; } | 显示表单域签名是否使用数字证书签名的只读属性。 |
+| [PageNumber](../../groupdocs.signature.domain/basesignature/pagenumber) { get; } | 指定找到的页面签名。 |
+| [SignatureId](../../groupdocs.signature.domain/basesignature/signatureid) { get; } | 用于通过 Update 或 Delete 方法修改文档中签名的唯一签名标识符。 此属性将在调用 Sign 或 Search 方法后自动设置。 如果此属性在可以手动设置之前保存以操作签名。 |
+| [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | 指定签名类型。 |
+| [Signed](../../groupdocs.signature.domain/digitalformfieldsignature/signed) { get; } | 显示表单字段签名是否使用数字证书签名的只读属性。 |
 | [Top](../../groupdocs.signature.domain/basesignature/top) { get; set; } | 指定签名的顶部位置。 |
 | [Type](../../groupdocs.signature.domain/formfieldsignature/type) { get; } | 指定表单字段类型。 |
 | [Value](../../groupdocs.signature.domain/formfieldsignature/value) { get; set; } | 指定表单字段数据对象。 |
-| [Width](../../groupdocs.signature.domain/basesignature/width) { get; set; } | 指定签名的宽度。 |
+| [Width](../../groupdocs.signature.domain/basesignature/width) { get; set; } | 指定签名宽度。 |
 
 ## 方法
 

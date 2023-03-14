@@ -1,14 +1,14 @@
 ---
 title: ForeColor
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Ottiene o imposta il colore di primo piano delle barre QRCode Lutilizzo di questa proprietà potrebbe causare problemi con la verifica. Usalo con attenzione.
+description: Ottiene o imposta il colore Fore delle barre del QRCode Lutilizzo di questa proprietà potrebbe causare problemi con la verifica. Usalo con attenzione.
 type: docs
 weight: 60
 url: /it/net/groupdocs.signature.options/qrcodesignoptions/forecolor/
 ---
 ## QrCodeSignOptions.ForeColor property
 
-Ottiene o imposta il colore di primo piano delle barre QR-Code L'utilizzo di questa proprietà potrebbe causare problemi con la verifica. Usalo con attenzione.
+Ottiene o imposta il colore Fore delle barre del QR-Code L'utilizzo di questa proprietà potrebbe causare problemi con la verifica. Usalo con attenzione.
 
 ```csharp
 public override Color ForeColor { get; set; }

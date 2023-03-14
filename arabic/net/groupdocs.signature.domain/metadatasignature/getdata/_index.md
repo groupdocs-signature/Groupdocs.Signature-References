@@ -3,7 +3,7 @@ title: GetData
 second_title: GroupDocs.Signature لمرجع .NET API
 description: الحصول على كائن من قيمة توقيع البيانات الوصفية عبر إلغاء التسلسل.
 type: docs
-weight: 60
+weight: 70
 url: /ar/net/groupdocs.signature.domain/metadatasignature/getdata/
 ---
 ## GetData&lt;T&gt;() {#getdata}

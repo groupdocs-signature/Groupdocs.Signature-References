@@ -1,14 +1,14 @@
 ---
 title: PdfDigitalSignatureType
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: PDF dijital imza türünün numaralandırılmasını açıklar.
+description: PDF dijital imza türünün numaralandırmasını açıklar.
 type: docs
-weight: 640
+weight: 670
 url: /tr/net/groupdocs.signature.domain/pdfdigitalsignaturetype/
 ---
 ## PdfDigitalSignatureType enumeration
 
-PDF dijital imza türünün numaralandırılmasını açıklar.
+PDF dijital imza türünün numaralandırmasını açıklar.
 
 ```csharp
 public enum PdfDigitalSignatureType

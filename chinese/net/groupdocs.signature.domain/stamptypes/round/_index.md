@@ -1,14 +1,14 @@
 ---
 title: Round
 second_title: GroupDocs.Signature for .NET API 参考
-description: 圆形邮票类对象
+description: 圆形印章类型对象
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.domain/stamptypes/round/
 ---
 ## StampTypes.Round field
 
-圆形邮票类对象。
+圆形印章类型对象。
 
 ```csharp
 public static readonly StampType Round;

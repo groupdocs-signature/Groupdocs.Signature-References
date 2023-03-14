@@ -1,14 +1,14 @@
 ---
 title: CryptoCurrencyTransfer
 second_title: GroupDocs.Signature لمرجع .NET API
-description: يمثل تحويل العملات المشفرة استلام أو إرسال لرمز الاستجابة السريعة.
+description: يمثل تحويل العملة المشفرة استلام أو إرسال لرمز الاستجابة السريعة.
 type: docs
-weight: 190
+weight: 200
 url: /ar/net/groupdocs.signature.domain.extensions/cryptocurrencytransfer/
 ---
 ## CryptoCurrencyTransfer class
 
-يمثل تحويل العملات المشفرة (استلام أو إرسال) لرمز الاستجابة السريعة.
+يمثل تحويل العملة المشفرة (استلام أو إرسال) لرمز الاستجابة السريعة.
 
 ```csharp
 public class CryptoCurrencyTransfer
@@ -34,7 +34,7 @@ public class CryptoCurrencyTransfer
 
 | اسم | وصف |
 | --- | --- |
-| override [Equals](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/equals)(object) | طريقة الكتابة فوق يساوي لمقارنة خصائص تحويل العملات المشفرة |
+| override [Equals](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/equals)(object) | طريقة الكتابة فوق يساوي لمقارنة خصائص تحويل العملة المشفرة |
 | override [GetHashCode](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/gethashcode)() | يلغي طريقة GetHashCode |
 
 ### أنظر أيضا

@@ -1,14 +1,14 @@
 ---
 title: SpreadsheetPosition
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Önceden tanımlanmış satır ve sütun ile Elektronik Tablo imza konumu oluşturur.
+description: Önceden tanımlanmış satır ve sütunla Elektronik Tablo imza konumu oluşturur.
 type: docs
 weight: 10
 url: /tr/net/groupdocs.signature.domain.extensions/spreadsheetposition/spreadsheetposition/
 ---
 ## SpreadsheetPosition constructor
 
-Önceden tanımlanmış satır ve sütun ile Elektronik Tablo imza konumu oluşturur.
+Önceden tanımlanmış satır ve sütunla Elektronik Tablo imza konumu oluşturur.
 
 ```csharp
 public SpreadsheetPosition(int row, int column)

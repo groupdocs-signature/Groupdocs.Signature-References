@@ -1,14 +1,14 @@
 ---
 title: CertificateFilePath
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置数字证书文件路径 仅当未指定 CertificateStream 时才使用此属性
+description: 获取或设置数字证书文件路径 只有在未指定 CertificateStream 时才使用此属性
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.options/digitalsignoptions/certificatefilepath/
 ---
 ## DigitalSignOptions.CertificateFilePath property
 
-获取或设置数字证书文件路径。 仅当未指定 CertificateStream 时才使用此属性。
+获取或设置数字证书文件路径。 只有在未指定 CertificateStream 时才使用此属性。
 
 ```csharp
 public string CertificateFilePath { get; set; }

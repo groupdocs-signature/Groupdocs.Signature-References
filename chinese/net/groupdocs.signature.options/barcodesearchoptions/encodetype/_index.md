@@ -1,14 +1,14 @@
 ---
 title: EncodeType
 second_title: GroupDocs.Signature for .NET API 参考
-description: 指定编码类型属性以搜索条形码 如果未设置此值则搜索所有支持的条形码类型
+description: 指定用于搜索条码的编码类型属性 如果未设置此值则会针对所有支持的条码类型处理搜索
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.options/barcodesearchoptions/encodetype/
 ---
 ## BarcodeSearchOptions.EncodeType property
 
-指定编码类型属性以搜索条形码。 如果未设置此值，则搜索所有支持的条形码类型
+指定用于搜索条码的编码类型属性。 如果未设置此值，则会针对所有支持的条码类型处理搜索
 
 ```csharp
 public BarcodeType EncodeType { get; set; }

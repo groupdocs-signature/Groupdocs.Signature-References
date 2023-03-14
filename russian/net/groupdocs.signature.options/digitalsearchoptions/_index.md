@@ -3,7 +3,7 @@ title: DigitalSearchOptions
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет параметры поиска цифровых подписей.
 type: docs
-weight: 1250
+weight: 1330
 url: /ru/net/groupdocs.signature.options/digitalsearchoptions/
 ---
 ## DigitalSearchOptions class
@@ -36,7 +36,7 @@ public class DigitalSearchOptions : SearchOptions
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Базовое использование поиска ЭЦП по GroupDocs.Signature: [ Как выполнить электронный поиск цифровых подписей в документе](https://docs.groupdocs.com/display/signaturenet/Search+for+Digital+e-signatures)
 * Расширенное использование настроек поиска ЭЦП с GroupDocs.Signature: [Расширенное использование цифровых подписей eSearch в документе и дополнительные настройки](https://docs.groupdocs.com/display/signaturenet/Advanced+search+for+Digital+signatures)

@@ -3,7 +3,7 @@ title: ISBN
 second_title: GroupDocs.Signature for .NET API 参考
 description: ISBN 条码类型对象
 type: docs
-weight: 330
+weight: 360
 url: /zh/net/groupdocs.signature.domain/barcodetypes/isbn/
 ---
 ## BarcodeTypes.ISBN field

@@ -32,7 +32,7 @@ public QrCodeSearchOptions(QrCodeType encodeType)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| encodeType | QrCodeType | 指定二维码编码类型。 |
+| encodeType | QrCodeType | 指定 QR 码编码类型。 |
 
 ### 也可以看看
 
@@ -53,7 +53,7 @@ public QrCodeSearchOptions(QrCodeType encodeType, string text)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| encodeType | QrCodeType | 指定二维码编码类型。 |
+| encodeType | QrCodeType | 指定 QR 码编码类型。 |
 | text | String | 设置二维码签名文本。 |
 
 ### 也可以看看

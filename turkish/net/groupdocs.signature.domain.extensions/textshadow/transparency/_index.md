@@ -1,14 +1,14 @@
 ---
 title: Transparency
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Gölgenin şeffaflığını alır veya ayarlar. Varsayılan değer 0.
+description: Gölgenin şeffaflığını alır veya ayarlar. Varsayılan değer 0. dir.
 type: docs
 weight: 60
 url: /tr/net/groupdocs.signature.domain.extensions/textshadow/transparency/
 ---
 ## TextShadow.Transparency property
 
-Gölgenin şeffaflığını alır veya ayarlar. Varsayılan değer 0.
+Gölgenin şeffaflığını alır veya ayarlar. Varsayılan değer 0. 'dir.
 
 ```csharp
 public double Transparency { get; set; }

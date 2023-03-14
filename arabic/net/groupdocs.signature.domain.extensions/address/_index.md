@@ -3,7 +3,7 @@ title: Address
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل عنوان جهة الاتصال.
 type: docs
-weight: 170
+weight: 180
 url: /ar/net/groupdocs.signature.domain.extensions/address/
 ---
 ## Address class

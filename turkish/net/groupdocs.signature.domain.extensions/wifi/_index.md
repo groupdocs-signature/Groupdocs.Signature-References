@@ -3,7 +3,7 @@ title: WiFi
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: WiFi ağ bağlantısı ayrıntılarını temsil eder.
 type: docs
-weight: 410
+weight: 430
 url: /tr/net/groupdocs.signature.domain.extensions/wifi/
 ---
 ## WiFi class

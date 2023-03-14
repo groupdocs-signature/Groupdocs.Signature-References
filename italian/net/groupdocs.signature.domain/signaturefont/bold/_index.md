@@ -1,14 +1,14 @@
 ---
 title: Bold
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Ottiene o imposta lo stile del carattere in grassetto
+description: Ottiene o imposta lo stile grassetto del carattere
 type: docs
 weight: 20
 url: /it/net/groupdocs.signature.domain/signaturefont/bold/
 ---
 ## SignatureFont.Bold property
 
-Ottiene o imposta lo stile del carattere in grassetto
+Ottiene o imposta lo stile grassetto del carattere
 
 ```csharp
 public bool Bold { get; set; }

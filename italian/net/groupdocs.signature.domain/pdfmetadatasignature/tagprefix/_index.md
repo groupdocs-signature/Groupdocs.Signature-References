@@ -1,14 +1,14 @@
 ---
 title: TagPrefix
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Il tag del prefisso del nome della firma dei metadati Pdf. Per impostazione predefinita questa proprietà è impostata su xmp. I valori possibili sono
+description: Il tag prefisso del nome della firma dei metadati Pdf. Di default questa proprietà è impostata su xmp. I valori possibili sono
 type: docs
 weight: 20
 url: /it/net/groupdocs.signature.domain/pdfmetadatasignature/tagprefix/
 ---
 ## PdfMetadataSignature.TagPrefix property
 
-Il tag del prefisso del nome della firma dei metadati Pdf. Per impostazione predefinita questa proprietà è impostata su "xmp". I valori possibili sono
+Il tag prefisso del nome della firma dei metadati Pdf. Di default questa proprietà è impostata su "xmp". I valori possibili sono
 
 ```csharp
 public string TagPrefix { get; set; }

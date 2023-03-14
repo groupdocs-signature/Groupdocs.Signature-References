@@ -3,7 +3,7 @@ title: OneCode
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: OneCode Barkod Türü nesnesi.
 type: docs
-weight: 450
+weight: 480
 url: /tr/net/groupdocs.signature.domain/barcodetypes/onecode/
 ---
 ## BarcodeTypes.OneCode field

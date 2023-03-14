@@ -1,14 +1,14 @@
 ---
 title: CreatorTool
 second_title: GroupDocs.Signature for .NET API 参考
-description: Pdf 文档创建工具元数据签名
+description: Pdf文档创建工具元数据签名.
 type: docs
 weight: 40
 url: /zh/net/groupdocs.signature.domain/pdfmetadatasignatures/creatortool/
 ---
 ## PdfMetadataSignatures.CreatorTool property
 
-Pdf 文档创建工具元数据签名。
+Pdf文档创建工具元数据签名.
 
 ```csharp
 public static PdfMetadataSignature CreatorTool { get; }

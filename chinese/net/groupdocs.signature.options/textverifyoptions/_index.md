@@ -1,14 +1,14 @@
 ---
 title: TextVerifyOptions
 second_title: GroupDocs.Signature for .NET API 参考
-description: 保留验证文档文本签名的选项
+description: 保留选项以验证文档文本签名
 type: docs
-weight: 1660
+weight: 1740
 url: /zh/net/groupdocs.signature.options/textverifyoptions/
 ---
 ## TextVerifyOptions class
 
-保留验证文档文本签名的选项。
+保留选项以验证文档文本签名。
 
 ```csharp
 public class TextVerifyOptions : VerifyOptions
@@ -26,24 +26,24 @@ public class TextVerifyOptions : VerifyOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AllPages](../../groupdocs.signature.options/verifyoptions/allpages) { get; set; } | 标志以验证每个文档页面。默认值为真。 |
-| [Extensions](../../groupdocs.signature.options/verifyoptions/extensions) { get; set; } | 替代签名选项验证的附加扩展。 |
+| [AllPages](../../groupdocs.signature.options/verifyoptions/allpages) { get; set; } | 标志以验证每个文档页面。默认值为 true. |
+| [Extensions](../../groupdocs.signature.options/verifyoptions/extensions) { get; set; } | 用于替代签名选项验证的附加扩展。 |
 | [FormTextFieldTitle](../../groupdocs.signature.options/textverifyoptions/formtextfieldtitle) { get; set; } | 获取或设置表单字段的标题以验证它。 如果此属性设置文本将仅在文本表单字段中找到。 |
 | [FormTextFieldType](../../groupdocs.signature.options/textverifyoptions/formtextfieldtype) { get; set; } | 获取或设置表单字段的类型以验证它。 如果此属性设置文本将仅在文本表单字段中找到。 |
-| [IsValid](../../groupdocs.signature.options/verifyoptions/isvalid) { get; } | 有效的属性标志。 |
+| [IsValid](../../groupdocs.signature.options/verifyoptions/isvalid) { get; } | 有效属性标志。 |
 | [MatchType](../../groupdocs.signature.options/textverifyoptions/matchtype) { get; set; } | 获取或设置文本匹配类型验证。 |
-| virtual [PageNumber](../../groupdocs.signature.options/verifyoptions/pagenumber) { get; set; } | 待验证的文档页码。如果未设置属性 - 文档的所有页面将在首次出现时进行验证。 最小值为 1. |
-| virtual [PagesSetup](../../groupdocs.signature.options/verifyoptions/pagessetup) { get; set; } | 指定要验证的页面的页面选项。 |
-| [SignatureID](../../groupdocs.signature.options/textverifyoptions/signatureid) { get; set; } | 指定大于零的文本签名 ID（如果应进行验证）。仅 Pdf 文档支持此属性 |
+| virtual [PageNumber](../../groupdocs.signature.options/verifyoptions/pagenumber) { get; set; } | 要验证的文档页码。如果未设置属性 - 文档的所有页面将在第一次出现时进行验证。 最小值为 1. |
+| virtual [PagesSetup](../../groupdocs.signature.options/verifyoptions/pagessetup) { get; set; } | 用于指定要验证的页面的页面选项。 |
+| [SignatureID](../../groupdocs.signature.options/textverifyoptions/signatureid) { get; set; } | 如果应验证，请指定大于零的文本签名 ID。此属性仅支持 Pdf 文档 |
 | [SignatureImplementation](../../groupdocs.signature.options/textverifyoptions/signatureimplementation) { get; set; } | 要验证的签名类型。 |
-| [Text](../../groupdocs.signature.options/textverifyoptions/text) { get; set; } | 指定签名文本是否应进行验证。 |
+| [Text](../../groupdocs.signature.options/textverifyoptions/text) { get; set; } | 如果需要验证则指定签名文本。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* GroupDocs.Signature 验证条形码电子签名的基本用法： [如何在文档中电子验证条码签名](https://docs.groupdocs.com/display/signaturenet/Verify+Text+signatures+in+the+document)
-* 使用 GroupDocs.Signature 验证条形码电子签名设置的高级用法： [文档中电子验证条码签名的高级使用和其他设置](https://docs.groupdocs.com/display/signaturenet/Verify+Text+signatures)
+* GroupDocs对Barcode电子签名验证的基本用法。Signature: [如何电子验证文档中的条形码签名](https://docs.groupdocs.com/display/signaturenet/Verify+Text+signatures+in+the+document)
+* GroupDocs条形码电子签名验证设置高级用法。签名： [文档中 eVerification 条形码签名的高级用法和其他设置](https://docs.groupdocs.com/display/signaturenet/Verify+Text+signatures)
 
 ### 也可以看看
 

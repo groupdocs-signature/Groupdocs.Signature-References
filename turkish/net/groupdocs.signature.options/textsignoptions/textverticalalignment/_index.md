@@ -1,14 +1,14 @@
 ---
 title: TextVerticalAlignment
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Bir imza içindeki metnin dikey hizalaması. Bu özellik yalnızca Resim imzası uygulaması için desteklenir bkz.TextSignatureImplementationgroupdocs.signature.domain/textsignatureimplementation SignatureImplementation özelliği.
+description: İmza içindeki metnin dikey hizalanması. Bu özellik yalnızca Görüntü imza uygulaması için desteklenir bkz.TextSignatureImplementationgroupdocs.signature.domain/textsignatureimplementation SignatureImplementation özelliği.
 type: docs
 weight: 230
 url: /tr/net/groupdocs.signature.options/textsignoptions/textverticalalignment/
 ---
 ## TextSignOptions.TextVerticalAlignment property
 
-Bir imza içindeki metnin dikey hizalaması. Bu özellik yalnızca Resim imzası uygulaması için desteklenir (bkz.[`TextSignatureImplementation`](../../../groupdocs.signature.domain/textsignatureimplementation) SignatureImplementation özelliği).
+İmza içindeki metnin dikey hizalanması. Bu özellik yalnızca Görüntü imza uygulaması için desteklenir (bkz.[`TextSignatureImplementation`](../../../groupdocs.signature.domain/textsignatureimplementation) SignatureImplementation özelliği).
 
 ```csharp
 public TextVerticalAlignment TextVerticalAlignment { get; set; }

@@ -3,7 +3,7 @@ title: IDataEncryption
 second_title: GroupDocs.Signature لمرجع .NET API
 description: واجهة تشفير لتوفير طرق تشفير وفك تشفير الكائنات.
 type: docs
-weight: 250
+weight: 270
 url: /ar/net/groupdocs.signature.domain.extensions/idataencryption/
 ---
 ## IDataEncryption interface

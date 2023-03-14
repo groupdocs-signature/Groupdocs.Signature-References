@@ -3,7 +3,7 @@ title: ToList
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Kesinlikle yazılan imza listesine dönüştürme sağlar.
 type: docs
-weight: 30
+weight: 80
 url: /tr/net/groupdocs.signature.domain/searchresult/tolist/
 ---
 ## SearchResult.ToList&lt;T&gt; method

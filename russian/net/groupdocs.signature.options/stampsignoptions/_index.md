@@ -3,7 +3,7 @@ title: StampSignOptions
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет параметры подписи штампа.
 type: docs
-weight: 1630
+weight: 1710
 url: /ru/net/groupdocs.signature.options/stampsignoptions/
 ---
 ## StampSignOptions class
@@ -65,7 +65,7 @@ public class StampSignOptions : ImageSignOptions
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Основное использование создания электронной подписи Stamp с помощью GroupDocs.Signature: [Как подписать документ электронной подписью с печатью подписи](https://docs.groupdocs.com/display/signaturenet/eSign+document+with+Stamp+signature)
 * Расширенное использование настроек электронной подписи Stamp с GroupDocs.Signature: [Расширенное использование документа eSign с подписью Stamp и дополнительными настройками](https://docs.groupdocs.com/display/signaturenet/Sign+document+with+Stamp+signature+-+advanced)

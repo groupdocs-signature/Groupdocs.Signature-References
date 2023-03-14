@@ -3,7 +3,7 @@ title: SpreadsheetSaveFileFormat
 second_title: GroupDocs.Signature för .NET API-referens
 description: Definierar olika sparformat för kalkylarksdokument.
 type: docs
-weight: 850
+weight: 880
 url: /sv/net/groupdocs.signature.domain/spreadsheetsavefileformat/
 ---
 ## SpreadsheetSaveFileFormat enumeration

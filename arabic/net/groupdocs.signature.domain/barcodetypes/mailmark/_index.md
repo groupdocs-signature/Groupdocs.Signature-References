@@ -3,7 +3,7 @@ title: Mailmark
 second_title: GroupDocs.Signature لمرجع .NET API
 description: كائن نوع الرمز الشريطي للعلامة البريدية لـ Royal Mail ثنائي الأبعاد .
 type: docs
-weight: 400
+weight: 430
 url: /ar/net/groupdocs.signature.domain/barcodetypes/mailmark/
 ---
 ## BarcodeTypes.Mailmark field

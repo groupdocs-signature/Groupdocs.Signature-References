@@ -3,7 +3,7 @@ title: GroupDocs.Signature.Options.Appearances
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Пространство имен предоставляет классы для дополнительных представлений подписи.
 type: docs
-weight: 50
+weight: 60
 url: /ru/net/groupdocs.signature.options.appearances/
 ---
 Пространство имен предоставляет классы для дополнительных представлений подписи.

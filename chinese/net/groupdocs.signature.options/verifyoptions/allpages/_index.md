@@ -1,14 +1,14 @@
 ---
 title: AllPages
 second_title: GroupDocs.Signature for .NET API 参考
-description: 标志以验证每个文档页面默认值为真
+description: 标志以验证每个文档页面默认值为 true.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.options/verifyoptions/allpages/
 ---
 ## VerifyOptions.AllPages property
 
-标志以验证每个文档页面。默认值为真。
+标志以验证每个文档页面。默认值为 true.
 
 ```csharp
 public bool AllPages { get; set; }

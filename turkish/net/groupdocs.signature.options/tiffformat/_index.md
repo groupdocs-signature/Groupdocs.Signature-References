@@ -3,7 +3,7 @@ title: TiffFormat
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Farklı tiff biçimlerini belirtir.
 type: docs
-weight: 1670
+weight: 1750
 url: /tr/net/groupdocs.signature.options/tiffformat/
 ---
 ## TiffFormat enumeration
@@ -24,14 +24,14 @@ public enum TiffFormat
 | TiffLzwRgba | `3` | LzwRgba. |
 | TiffCcittFax3 | `4` | CcittFax3. |
 | TiffCcittFax4 | `5` | CcittFax4. |
-| TiffDeflateBw | `6` | Söndürmek |
+| TiffDeflateBw | `6` | DeflateBw. |
 | TiffDeflateRgb | `7` | SöndürRgb. |
 | TiffCcitRle | `8` | CcitRle. |
 | TiffJpegRgb | `9` | JPEGRgb. |
-| TiffJpegYCbCr | `10` | JpegYCbCr. |
+| TiffJpegYCbCr | `10` | JPEGYCbCr. |
 | TiffNoCompressionBw | `11` | Sıkıştırma YokBw. |
-| TiffNoCompressionRgb | `12` | Sıkıştırma YokRgb. |
-| TiffNoCompressionRgba | `13` | Sıkıştırma YokRgba. |
+| TiffNoCompressionRgb | `12` | NoCompressionRgb. |
+| TiffNoCompressionRgba | `13` | NoCompressionRgba. |
 
 ### Ayrıca bakınız
 

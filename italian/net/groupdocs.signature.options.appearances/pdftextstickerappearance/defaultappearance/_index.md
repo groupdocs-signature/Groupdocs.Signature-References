@@ -1,14 +1,14 @@
 ---
 title: DefaultAppearance
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Ottiene laspetto predefinito per ladesivo. Queste proprietà vengono applicate come predefinite se la proprietà Options.SignatureAppearance non è specificata. Le proprietà possono essere modificate dallutente in qualsiasi momento.
+description: Ottiene laspetto predefinito per ladesivo. Queste proprietà vengono applicate per impostazione predefinita se la proprietà Options.SignatureAppearance non è specificata. Le proprietà possono essere modificate dallutente in qualsiasi momento.
 type: docs
 weight: 20
 url: /it/net/groupdocs.signature.options.appearances/pdftextstickerappearance/defaultappearance/
 ---
 ## PdfTextStickerAppearance.DefaultAppearance property
 
-Ottiene l'aspetto predefinito per l'adesivo. Queste proprietà vengono applicate come predefinite se la proprietà Options.SignatureAppearance non è specificata. Le proprietà possono essere modificate dall'utente in qualsiasi momento.
+Ottiene l'aspetto predefinito per l'adesivo. Queste proprietà vengono applicate per impostazione predefinita se la proprietà Options.SignatureAppearance non è specificata. Le proprietà possono essere modificate dall'utente in qualsiasi momento.
 
 ```csharp
 public static PdfTextStickerAppearance DefaultAppearance { get; }

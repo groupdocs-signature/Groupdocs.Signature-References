@@ -3,7 +3,7 @@ title: FormFieldSignOptions
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет класс параметров подписи FormField для документов Pdf.
 type: docs
-weight: 1300
+weight: 1380
 url: /ru/net/groupdocs.signature.options/formfieldsignoptions/
 ---
 ## FormFieldSignOptions class
@@ -63,7 +63,7 @@ public sealed class FormFieldSignOptions : TextSignOptions
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Основное использование создания электронной подписи FormField с помощью GroupDocs.Signature: [Как подписать документ электронной подписью с подписью FormField](https://docs.groupdocs.com/display/signaturenet/eSign+document+with+Form+Field+signature)
 * Расширенное использование настроек электронной подписи FormField с GroupDocs.Signature: [Расширенное использование документа eSign с подписью FormField и дополнительными настройками](https://docs.groupdocs.com/display/signaturenet/Sign+document+with+Form+Field+signature+-+advanced)

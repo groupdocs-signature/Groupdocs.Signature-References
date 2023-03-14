@@ -3,7 +3,7 @@ title: StampTypes
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Damga türleri kabı.
 type: docs
-weight: 910
+weight: 940
 url: /tr/net/groupdocs.signature.domain/stamptypes/
 ---
 ## StampTypes class

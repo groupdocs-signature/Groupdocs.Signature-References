@@ -3,7 +3,7 @@ title: QrCodeSearchOptions
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل خيارات البحث عن تواقيع رمز الاستجابة السريعة.
 type: docs
-weight: 1540
+weight: 1620
 url: /ar/net/groupdocs.signature.options/qrcodesearchoptions/
 ---
 ## QrCodeSearchOptions class

@@ -1,14 +1,14 @@
 ---
 title: HomePhone
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Ev telefon numarasını alır veya ayarlar.
+description: Ev telefonu numarasını alır veya ayarlar.
 type: docs
 weight: 80
 url: /tr/net/groupdocs.signature.domain.extensions/vcard/homephone/
 ---
 ## VCard.HomePhone property
 
-Ev telefon numarasını alır veya ayarlar.
+Ev telefonu numarasını alır veya ayarlar.
 
 ```csharp
 public string HomePhone { get; set; }

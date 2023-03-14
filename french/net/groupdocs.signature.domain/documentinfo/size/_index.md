@@ -3,7 +3,7 @@ title: Size
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Taille du document en octets.
 type: docs
-weight: 140
+weight: 150
 url: /fr/net/groupdocs.signature.domain/documentinfo/size/
 ---
 ## DocumentInfo.Size property

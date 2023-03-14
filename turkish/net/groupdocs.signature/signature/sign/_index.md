@@ -1,14 +1,14 @@
 ---
 title: Sign
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Belgeyi şununla imzalarSignOptionsgroupdocs.signature.options/signoptions ve sonucu bir akışa kaydeder.
+description: ile belgeyi imzalarSignOptionsgroupdocs.signature.options/signoptions ve sonucu bir akışa kaydeder.
 type: docs
 weight: 160
 url: /tr/net/groupdocs.signature/signature/sign/
 ---
 ## Sign(Stream, SignOptions) {#sign}
 
-Belgeyi şununla imzalar:[`SignOptions`](../../../groupdocs.signature.options/signoptions) ve sonucu bir akışa kaydeder.
+ile belgeyi imzalar[`SignOptions`](../../../groupdocs.signature.options/signoptions) ve sonucu bir akışa kaydeder.
 
 ```csharp
 public SignResult Sign(Stream document, SignOptions signOptions)
@@ -16,19 +16,19 @@ public SignResult Sign(Stream document, SignOptions signOptions)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| document | Stream | Çıkış belge akışı. |
+| document | Stream | Çıktı belge akışı. |
 | signOptions | SignOptions | İmza seçenekleri. |
 
 ### Geri dönüş değeri
 
-örneğini döndürür[`SignResult`](../../../groupdocs.signature.domain/signresult) yeni oluşturulan imzaların listesi ile.
+örneğini döndürür[`SignResult`](../../../groupdocs.signature.domain/signresult) yeni oluşturulan imzaların listesiyle.
 
 ### Notlar
 
 **Daha fazla bilgi edin**
 
-* GroupDocs tarafından desteklenen elektronik imza türleri hakkında daha fazla bilgi.İmza: [GroupDocs.Signature tarafından desteklenen elektronik imza türleri](https://docs.groupdocs.com/display/signaturenet/Electronic+signature+types)
-* Belgelerin C#: 'de nasıl e-imzalandığı hakkında daha fazla bilgi[GroupDocs.Signature kullanarak belgeleri e-imzalama](https://docs.groupdocs.com/display/signaturenet/Signing)
+* GroupDocs tarafından desteklenen elektronik imza türleri hakkında daha fazla bilgi. İmza: [GroupDocs.Signature tarafından desteklenen elektronik imza türleri](https://docs.groupdocs.com/display/signaturenet/Electronic+signature+types)
+* C#: 'de belgelerin eSign ile nasıl imzalanacağı hakkında daha fazla bilgi[GroupDocs.Signature kullanarak belgelere e-Sign nasıl yapılır?](https://docs.groupdocs.com/display/signaturenet/Signing)
 
 ### Ayrıca bakınız
 
@@ -42,7 +42,7 @@ public SignResult Sign(Stream document, SignOptions signOptions)
 
 ## Sign(Stream, SignOptions, SaveOptions) {#sign_1}
 
-Belgeyi şununla imzalar:[`SignOptions`](../../../groupdocs.signature.options/signoptions) ve sonucu önceden tanımlanmış bir akışa kaydeder[`SaveOptions`](../../../groupdocs.signature.options/saveoptions) .
+ile belgeyi imzalar[`SignOptions`](../../../groupdocs.signature.options/signoptions)ve sonucu önceden tanımlanmış bir akışa kaydeder[`SaveOptions`](../../../groupdocs.signature.options/saveoptions) .
 
 ```csharp
 public SignResult Sign(Stream document, SignOptions signOptions, SaveOptions saveOptions)
@@ -50,20 +50,20 @@ public SignResult Sign(Stream document, SignOptions signOptions, SaveOptions sav
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| document | Stream | Çıkış belge akışı. |
+| document | Stream | Çıktı belge akışı. |
 | signOptions | SignOptions | İmza seçenekleri. |
 | saveOptions | SaveOptions | Kaydetme seçenekleri. |
 
 ### Geri dönüş değeri
 
-örneğini döndürür[`SignResult`](../../../groupdocs.signature.domain/signresult) yeni oluşturulan imzaların listesi ile.
+örneğini döndürür[`SignResult`](../../../groupdocs.signature.domain/signresult) yeni oluşturulan imzaların listesiyle.
 
 ### Notlar
 
 **Daha fazla bilgi edin**
 
-* GroupDocs tarafından desteklenen elektronik imza türleri hakkında daha fazla bilgi.İmza: [GroupDocs.Signature tarafından desteklenen elektronik imza türleri](https://docs.groupdocs.com/display/signaturenet/Electronic+signature+types)
-* Belgelerin C#: 'de nasıl e-imzalandığı hakkında daha fazla bilgi[GroupDocs.Signature kullanarak belgeleri e-imzalama](https://docs.groupdocs.com/display/signaturenet/Signing)
+* GroupDocs tarafından desteklenen elektronik imza türleri hakkında daha fazla bilgi. İmza: [GroupDocs.Signature tarafından desteklenen elektronik imza türleri](https://docs.groupdocs.com/display/signaturenet/Electronic+signature+types)
+* C#: 'de belgelerin eSign ile nasıl imzalanacağı hakkında daha fazla bilgi[GroupDocs.Signature kullanarak belgelere e-Sign nasıl yapılır?](https://docs.groupdocs.com/display/signaturenet/Signing)
 * Elektronik olarak imzalanmış belgeleri kaydetme ve kaydetme sürecini özelleştirme hakkında daha fazla bilgi: [Elektronik olarak imzalanmış belgeler, GroupDocs.Signature kullanılarak kaydedilirken nasıl özelleştirilir?](https://docs.groupdocs.com/display/signaturenet/Saving)
 
 ### Ayrıca bakınız
@@ -87,19 +87,19 @@ public SignResult Sign(Stream document, List<SignOptions> signOptionsList)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| document | Stream | Çıkış belge akışı. |
+| document | Stream | Çıktı belge akışı. |
 | signOptionsList | List`1 | İmza seçeneklerinin listesi. |
 
 ### Geri dönüş değeri
 
-örneğini döndürür[`SignResult`](../../../groupdocs.signature.domain/signresult) yeni oluşturulan imzaların listesi ile.
+örneğini döndürür[`SignResult`](../../../groupdocs.signature.domain/signresult) yeni oluşturulan imzaların listesiyle.
 
 ### Notlar
 
 **Daha fazla bilgi edin**
 
-* GroupDocs tarafından desteklenen elektronik imza türleri hakkında daha fazla bilgi.İmza: [GroupDocs.Signature tarafından desteklenen elektronik imza türleri](https://docs.groupdocs.com/display/signaturenet/Electronic+signature+types)
-* Belgelerin C#: 'de nasıl e-imzalandığı hakkında daha fazla bilgi[GroupDocs.Signature kullanarak belgeleri e-imzalama](https://docs.groupdocs.com/display/signaturenet/Signing)
+* GroupDocs tarafından desteklenen elektronik imza türleri hakkında daha fazla bilgi. İmza: [GroupDocs.Signature tarafından desteklenen elektronik imza türleri](https://docs.groupdocs.com/display/signaturenet/Electronic+signature+types)
+* C#: 'de belgelerin eSign ile nasıl imzalanacağı hakkında daha fazla bilgi[GroupDocs.Signature kullanarak belgelere e-Sign nasıl yapılır?](https://docs.groupdocs.com/display/signaturenet/Signing)
 
 ### Ayrıca bakınız
 
@@ -113,7 +113,7 @@ public SignResult Sign(Stream document, List<SignOptions> signOptionsList)
 
 ## Sign(Stream, List&lt;SignOptions&gt;, SaveOptions) {#sign_3}
 
-Belgeyi şu koleksiyonla imzalar:[`SignOptions`](../../../groupdocs.signature.options/signoptions) ve sonucu önceden tanımlanmış bir akışa kaydeder[`SaveOptions`](../../../groupdocs.signature.options/saveoptions) .
+Belgeyi şu koleksiyonla imzalar:[`SignOptions`](../../../groupdocs.signature.options/signoptions)ve sonucu önceden tanımlanmış bir akışa kaydeder[`SaveOptions`](../../../groupdocs.signature.options/saveoptions) .
 
 ```csharp
 public SignResult Sign(Stream document, List<SignOptions> signOptionsList, SaveOptions saveOptions)
@@ -121,20 +121,20 @@ public SignResult Sign(Stream document, List<SignOptions> signOptionsList, SaveO
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| document | Stream | Çıkış belge akışı. |
+| document | Stream | Çıktı belge akışı. |
 | signOptionsList | List`1 | İmza seçeneklerinin listesi. |
 | saveOptions | SaveOptions | Kaydetme seçenekleri. |
 
 ### Geri dönüş değeri
 
-örneğini döndürür[`SignResult`](../../../groupdocs.signature.domain/signresult) yeni oluşturulan imzaların listesi ile.
+örneğini döndürür[`SignResult`](../../../groupdocs.signature.domain/signresult) yeni oluşturulan imzaların listesiyle.
 
 ### Notlar
 
 **Daha fazla bilgi edin**
 
-* GroupDocs tarafından desteklenen elektronik imza türleri hakkında daha fazla bilgi.İmza: [GroupDocs.Signature tarafından desteklenen elektronik imza türleri](https://docs.groupdocs.com/display/signaturenet/Electronic+signature+types)
-* Belgelerin C#: 'de nasıl e-imzalandığı hakkında daha fazla bilgi[GroupDocs.Signature kullanarak belgeleri e-imzalama](https://docs.groupdocs.com/display/signaturenet/Signing)
+* GroupDocs tarafından desteklenen elektronik imza türleri hakkında daha fazla bilgi. İmza: [GroupDocs.Signature tarafından desteklenen elektronik imza türleri](https://docs.groupdocs.com/display/signaturenet/Electronic+signature+types)
+* C#: 'de belgelerin eSign ile nasıl imzalanacağı hakkında daha fazla bilgi[GroupDocs.Signature kullanarak belgelere e-Sign nasıl yapılır?](https://docs.groupdocs.com/display/signaturenet/Signing)
 * Elektronik olarak imzalanmış belgeleri kaydetme ve kaydetme sürecini özelleştirme hakkında daha fazla bilgi: [Elektronik olarak imzalanmış belgeler, GroupDocs.Signature kullanılarak kaydedilirken nasıl özelleştirilir?](https://docs.groupdocs.com/display/signaturenet/Saving)
 
 ### Ayrıca bakınız
@@ -150,7 +150,7 @@ public SignResult Sign(Stream document, List<SignOptions> signOptionsList, SaveO
 
 ## Sign(string, SignOptions) {#sign_4}
 
-Belgeyi şununla imzalar:[`SignOptions`](../../../groupdocs.signature.options/signoptions) ve sonucu belirtilen dosya yoluna kaydeder.
+ile belgeyi imzalar[`SignOptions`](../../../groupdocs.signature.options/signoptions) ve sonucu belirtilen dosya yoluna kaydeder.
 
 ```csharp
 public SignResult Sign(string filePath, SignOptions signOptions)
@@ -163,14 +163,14 @@ public SignResult Sign(string filePath, SignOptions signOptions)
 
 ### Geri dönüş değeri
 
-örneğini döndürür[`SignResult`](../../../groupdocs.signature.domain/signresult) yeni oluşturulan imzaların listesi ile.
+örneğini döndürür[`SignResult`](../../../groupdocs.signature.domain/signresult) yeni oluşturulan imzaların listesiyle.
 
 ### Notlar
 
 **Daha fazla bilgi edin**
 
-* GroupDocs tarafından desteklenen elektronik imza türleri hakkında daha fazla bilgi.İmza: [GroupDocs.Signature tarafından desteklenen elektronik imza türleri](https://docs.groupdocs.com/display/signaturenet/Electronic+signature+types)
-* Belgelerin C#: 'de nasıl e-imzalandığı hakkında daha fazla bilgi[GroupDocs.Signature kullanarak belgeleri e-imzalama](https://docs.groupdocs.com/display/signaturenet/Signing)
+* GroupDocs tarafından desteklenen elektronik imza türleri hakkında daha fazla bilgi. İmza: [GroupDocs.Signature tarafından desteklenen elektronik imza türleri](https://docs.groupdocs.com/display/signaturenet/Electronic+signature+types)
+* C#: 'de belgelerin eSign ile nasıl imzalanacağı hakkında daha fazla bilgi[GroupDocs.Signature kullanarak belgelere e-Sign nasıl yapılır?](https://docs.groupdocs.com/display/signaturenet/Signing)
 
 ### Ayrıca bakınız
 
@@ -184,7 +184,7 @@ public SignResult Sign(string filePath, SignOptions signOptions)
 
 ## Sign(string, SignOptions, SaveOptions) {#sign_5}
 
-Belgeyi şununla imzalar:[`SignOptions`](../../../groupdocs.signature.options/signoptions) ve sonucu önceden tanımlanmış dosya yoluna kaydeder[`SaveOptions`](../../../groupdocs.signature.options/saveoptions) .
+ile belgeyi imzalar[`SignOptions`](../../../groupdocs.signature.options/signoptions) ve sonucu önceden tanımlanmış dosya yoluna kaydeder[`SaveOptions`](../../../groupdocs.signature.options/saveoptions) .
 
 ```csharp
 public SignResult Sign(string filePath, SignOptions signOptions, SaveOptions saveOptions)
@@ -198,14 +198,14 @@ public SignResult Sign(string filePath, SignOptions signOptions, SaveOptions sav
 
 ### Geri dönüş değeri
 
-örneğini döndürür[`SignResult`](../../../groupdocs.signature.domain/signresult) yeni oluşturulan imzaların listesi ile.
+örneğini döndürür[`SignResult`](../../../groupdocs.signature.domain/signresult) yeni oluşturulan imzaların listesiyle.
 
 ### Notlar
 
 **Daha fazla bilgi edin**
 
-* GroupDocs tarafından desteklenen elektronik imza türleri hakkında daha fazla bilgi.İmza: [GroupDocs.Signature tarafından desteklenen elektronik imza türleri](https://docs.groupdocs.com/display/signaturenet/Electronic+signature+types)
-* Belgelerin C#: 'de nasıl e-imzalandığı hakkında daha fazla bilgi[GroupDocs.Signature kullanarak belgeleri e-imzalama](https://docs.groupdocs.com/display/signaturenet/Signing)
+* GroupDocs tarafından desteklenen elektronik imza türleri hakkında daha fazla bilgi. İmza: [GroupDocs.Signature tarafından desteklenen elektronik imza türleri](https://docs.groupdocs.com/display/signaturenet/Electronic+signature+types)
+* C#: 'de belgelerin eSign ile nasıl imzalanacağı hakkında daha fazla bilgi[GroupDocs.Signature kullanarak belgelere e-Sign nasıl yapılır?](https://docs.groupdocs.com/display/signaturenet/Signing)
 * Elektronik olarak imzalanmış belgeleri kaydetme ve kaydetme sürecini özelleştirme hakkında daha fazla bilgi: [Elektronik olarak imzalanmış belgeler, GroupDocs.Signature kullanılarak kaydedilirken nasıl özelleştirilir?](https://docs.groupdocs.com/display/signaturenet/Saving)
 
 ### Ayrıca bakınız
@@ -234,14 +234,14 @@ public SignResult Sign(string filePath, List<SignOptions> signOptionsList)
 
 ### Geri dönüş değeri
 
-örneğini döndürür[`SignResult`](../../../groupdocs.signature.domain/signresult) yeni oluşturulan imzaların listesi ile.
+örneğini döndürür[`SignResult`](../../../groupdocs.signature.domain/signresult) yeni oluşturulan imzaların listesiyle.
 
 ### Notlar
 
 **Daha fazla bilgi edin**
 
-* GroupDocs tarafından desteklenen elektronik imza türleri hakkında daha fazla bilgi.İmza: [GroupDocs.Signature tarafından desteklenen elektronik imza türleri](https://docs.groupdocs.com/display/signaturenet/Electronic+signature+types)
-* Belgelerin C#: 'de nasıl e-imzalandığı hakkında daha fazla bilgi[GroupDocs.Signature kullanarak belgeleri e-imzalama](https://docs.groupdocs.com/display/signaturenet/Signing)
+* GroupDocs tarafından desteklenen elektronik imza türleri hakkında daha fazla bilgi. İmza: [GroupDocs.Signature tarafından desteklenen elektronik imza türleri](https://docs.groupdocs.com/display/signaturenet/Electronic+signature+types)
+* C#: 'de belgelerin eSign ile nasıl imzalanacağı hakkında daha fazla bilgi[GroupDocs.Signature kullanarak belgelere e-Sign nasıl yapılır?](https://docs.groupdocs.com/display/signaturenet/Signing)
 
 ### Ayrıca bakınız
 
@@ -269,14 +269,14 @@ public SignResult Sign(string filePath, List<SignOptions> signOptionsList, SaveO
 
 ### Geri dönüş değeri
 
-örneğini döndürür[`SignResult`](../../../groupdocs.signature.domain/signresult) yeni oluşturulan imzaların listesi ile.
+örneğini döndürür[`SignResult`](../../../groupdocs.signature.domain/signresult) yeni oluşturulan imzaların listesiyle.
 
 ### Notlar
 
 **Daha fazla bilgi edin**
 
-* GroupDocs tarafından desteklenen elektronik imza türleri hakkında daha fazla bilgi.İmza: [GroupDocs.Signature tarafından desteklenen elektronik imza türleri](https://docs.groupdocs.com/display/signaturenet/Electronic+signature+types)
-* Belgelerin C#: 'de nasıl e-imzalandığı hakkında daha fazla bilgi[GroupDocs.Signature kullanarak belgeleri e-imzalama](https://docs.groupdocs.com/display/signaturenet/Signing)
+* GroupDocs tarafından desteklenen elektronik imza türleri hakkında daha fazla bilgi. İmza: [GroupDocs.Signature tarafından desteklenen elektronik imza türleri](https://docs.groupdocs.com/display/signaturenet/Electronic+signature+types)
+* C#: 'de belgelerin eSign ile nasıl imzalanacağı hakkında daha fazla bilgi[GroupDocs.Signature kullanarak belgelere e-Sign nasıl yapılır?](https://docs.groupdocs.com/display/signaturenet/Signing)
 * Elektronik olarak imzalanmış belgeleri kaydetme ve kaydetme sürecini özelleştirme hakkında daha fazla bilgi: [Elektronik olarak imzalanmış belgeler, GroupDocs.Signature kullanılarak kaydedilirken nasıl özelleştirilir?](https://docs.groupdocs.com/display/signaturenet/Saving)
 
 ### Ayrıca bakınız

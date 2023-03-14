@@ -3,7 +3,7 @@ title: PdfDigitalSignature
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Enthält Eigenschaften der digitalen PdfSignatur.
 type: docs
-weight: 630
+weight: 660
 url: /de/net/groupdocs.signature.domain/pdfdigitalsignature/
 ---
 ## PdfDigitalSignature class
@@ -37,12 +37,12 @@ public class PdfDigitalSignature : DigitalSignature
 | [Height](../../groupdocs.signature.domain/basesignature/height) { get; set; } | Gibt die Höhe der Unterschrift an. |
 | [IsSignature](../../groupdocs.signature.domain/basesignature/issignature) { get; set; } | Flag abrufen oder setzen, um anzugeben, ob diese Komponente eine Signatur oder ein Dokumentinhalt ist. Diese Eigenschaft wird mit der Update-Methode verwendet, um ein Element als Signatur (true) oder Dokumentelement (false) festzulegen. |
 | [IsValid](../../groupdocs.signature.domain/digitalsignature/isvalid) { get; set; } | Bleibt wahr, wenn diese digitale Signatur gültig ist und das Dokument nicht manipuliert wurde. |
-| [Left](../../groupdocs.signature.domain/basesignature/left) { get; set; } | Gibt die linke Position der Unterschrift an. |
+| [Left](../../groupdocs.signature.domain/basesignature/left) { get; set; } | Gibt die linke Position der Signatur an. |
 | [Location](../../groupdocs.signature.domain/pdfdigitalsignature/location) { get; set; } | Der CPU-Hostname oder der physische Standort der Signatur. |
 | [ModifiedOn](../../groupdocs.signature.domain/basesignature/modifiedon) { get; set; } | Abrufen oder Festlegen des Änderungsdatums der Signatur. |
 | [PageNumber](../../groupdocs.signature.domain/basesignature/pagenumber) { get; } | Gibt an, auf welcher Seitensignatur gefunden wurde. |
 | [Reason](../../groupdocs.signature.domain/pdfdigitalsignature/reason) { get; set; } | Der Grund für die Unterzeichnung, z. B. (Ich stimme zuРІР‚В¦). |
-| [ShowProperties](../../groupdocs.signature.domain/pdfdigitalsignature/showproperties) { get; set; } | Ein-/Ausblenden von Signatureigenschaften erzwingen. Falls ShowProperties wahr ist, hat das Feld signature ein vordefiniertes Darstellungsformat Digital signiert von {[`ContactInfo`](./contactinfo)} Datum: {Datum} Grund: {[`Reason`](./reason)} Ort: {[`Location`](./location) } ShowProperties ist standardmäßig wahr. |
+| [ShowProperties](../../groupdocs.signature.domain/pdfdigitalsignature/showproperties) { get; set; } | Ein-/Ausblenden von Signatureigenschaften erzwingen. Falls ShowProperties wahr ist, hat das Feld signature ein vordefiniertes Darstellungsformat Digital signiert von {[`ContactInfo`](./contactinfo)} Datum: {Datum} Grund: {[`Reason`](./reason)} Standort: {[`Location`](./location) } ShowProperties ist standardmäßig wahr. |
 | [SignatureId](../../groupdocs.signature.domain/basesignature/signatureid) { get; } | Eindeutiger Signaturbezeichner zum Ändern der Signatur im Dokument über die Update- oder Delete-Methoden. Diese Eigenschaft wird automatisch festgelegt, nachdem die Sign- oder Suchmethode aufgerufen wurde. Wenn diese Eigenschaft gespeichert wurde, bevor sie manuell festgelegt werden kann, um die Signatur zu bearbeiten. |
 | [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | Gibt den Signaturtyp an. |
 | [SignTime](../../groupdocs.signature.domain/digitalsignature/signtime) { get; set; } | Ruft die Uhrzeit ab, zu der das Dokument signiert wurde, oder legt sie fest. |

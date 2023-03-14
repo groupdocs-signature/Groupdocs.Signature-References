@@ -3,7 +3,7 @@ title: Succeeded
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Liste des signatures modifiées avec succèsBaseSignaturegroupdocs.signature.domain/basesignature .
 type: docs
-weight: 20
+weight: 50
 url: /fr/net/groupdocs.signature.domain/updateresult/succeeded/
 ---
 ## UpdateResult.Succeeded property

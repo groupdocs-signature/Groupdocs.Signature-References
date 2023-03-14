@@ -3,7 +3,7 @@ title: XLTM
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Шаблон файла Excel Office OpenXML .xltm представляет формат файла шаблона Excel. Подробнее об этом формате файлаздесьhttps//wiki.fileformat.com/spreadsheet/xltm .
 type: docs
-weight: 560
+weight: 570
 url: /ru/net/groupdocs.signature.domain/filetype/xltm/
 ---
 ## FileType.XLTM field

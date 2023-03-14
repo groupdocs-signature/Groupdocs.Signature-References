@@ -3,12 +3,12 @@ title: WiFi
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Rappresenta i dettagli della connessione di rete WiFi.
 type: docs
-weight: 410
+weight: 430
 url: /it/net/groupdocs.signature.domain.extensions/wifi/
 ---
 ## WiFi class
 
-Rappresenta i dettagli della connessione di rete Wi-Fi.
+Rappresenta i dettagli della connessione di rete WiFi.
 
 ```csharp
 public class WiFi
@@ -24,8 +24,8 @@ public class WiFi
 
 | Nome | Descrizione |
 | --- | --- |
-| [Encryption](../../groupdocs.signature.domain.extensions/wifi/encryption) { get; set; } | Ottiene o imposta la crittografia Wi-Fi[`WiFiEncryptionType`](../wifiencryptiontype) . |
-| [Hidden](../../groupdocs.signature.domain.extensions/wifi/hidden) { get; set; } | Ottiene o imposta se il WiFi è SSID nascosto. |
+| [Encryption](../../groupdocs.signature.domain.extensions/wifi/encryption) { get; set; } | Ottiene o imposta la crittografia WiFi[`WiFiEncryptionType`](../wifiencryptiontype) . |
+| [Hidden](../../groupdocs.signature.domain.extensions/wifi/hidden) { get; set; } | Ottiene o imposta se WiFi è SSID nascosto. |
 | [Password](../../groupdocs.signature.domain.extensions/wifi/password) { get; set; } | Ottiene o imposta la password WiFi. |
 | [SSID](../../groupdocs.signature.domain.extensions/wifi/ssid) { get; set; } | Ottiene o imposta il nome SSID WiFi. |
 

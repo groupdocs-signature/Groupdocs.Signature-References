@@ -3,7 +3,7 @@ title: DocumentInfo
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Define las propiedades de la descripción del documento.
 type: docs
-weight: 150
+weight: 160
 url: /es/net/groupdocs.signature.domain/documentinfo/
 ---
 ## DocumentInfo class
@@ -18,7 +18,7 @@ public class DocumentInfo : IDocumentInfo
 
 | Nombre | Descripción |
 | --- | --- |
-| [DocumentInfo](documentinfo)() | Inicializa una nueva instancia del[`DocumentInfo`](../documentinfo) clase. |
+| [DocumentInfo](documentinfo)() | Inicializa una nueva instancia del[`DocumentInfo`](../documentinfo)clase. |
 
 ## Propiedades
 
@@ -31,6 +31,7 @@ public class DocumentInfo : IDocumentInfo
 | [FormFieldSignatures](../../groupdocs.signature.domain/documentinfo/formfieldsignatures) { get; } | Recopilación de documento Formulario Campo Firmas añadidas o actualizadas por[`Signature`](../../groupdocs.signature/signature) métodos. |
 | [ImageSignatures](../../groupdocs.signature.domain/documentinfo/imagesignatures) { get; } | Colección de firmas de imágenes de documentos añadidas o actualizadas por[`Signature`](../../groupdocs.signature/signature) métodos. |
 | [MaxPageHeight](../../groupdocs.signature.domain/documentinfo/maxpageheight) { get; set; } | Especifica la altura máxima de página. |
+| [MetadataSignatures](../../groupdocs.signature.domain/documentinfo/metadatasignatures) { get; } | Colección de firmas de metadatos de documentos. |
 | [PageCount](../../groupdocs.signature.domain/documentinfo/pagecount) { get; set; } | Número de páginas del documento. |
 | [Pages](../../groupdocs.signature.domain/documentinfo/pages) { get; set; } | Colección de descripciones de páginas de documentos. |
 | [ProcessLogs](../../groupdocs.signature.domain/documentinfo/processlogs) { get; } | Colección de procesos de historial de documentos como Firmar, Actualizar, Eliminar. |

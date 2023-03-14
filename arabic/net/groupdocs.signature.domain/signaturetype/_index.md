@@ -3,7 +3,7 @@ title: SignatureType
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحدد أنواع التوقيعات المدعومة لعمليات مختلفة مثل التوقيع والتحقق والبحث والتحديث والحذف
 type: docs
-weight: 830
+weight: 860
 url: /ar/net/groupdocs.signature.domain/signaturetype/
 ---
 ## SignatureType enumeration

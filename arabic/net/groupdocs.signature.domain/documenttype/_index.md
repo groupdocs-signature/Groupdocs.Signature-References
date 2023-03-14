@@ -3,7 +3,7 @@ title: DocumentType
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحدد نوع المستند.
 type: docs
-weight: 160
+weight: 170
 url: /ar/net/groupdocs.signature.domain/documenttype/
 ---
 ## DocumentType enumeration
@@ -24,6 +24,7 @@ public enum DocumentType
 | Presentation | `3` | نوع مستند العرض. |
 | Spreadsheet | `4` | نوع مستند جدول البيانات. |
 | Image | `5` | نوع مستند الصورة. |
+| Certificate | `6` | نوع ملف الشهادة. |
 
 ### أنظر أيضا
 

@@ -16,7 +16,7 @@ public override int GetHashCode()
 
 ### Valor_devuelto
 
-Código hash de transferencia de moneda criptográfica
+Código hash de transferencia de criptomonedas
 
 ### Ver también
 

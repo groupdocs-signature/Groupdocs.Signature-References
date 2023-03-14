@@ -1,14 +1,14 @@
 ---
 title: Signatures
 second_title: GroupDocs.Signature för .NET API-referens
-description: Lista över upptäckta signaturerBaseSignaturegroupdocs.signature.domain/basesignature .
+description: Lista över hittade signaturerBaseSignaturegroupdocs.signature.domain/basesignature .
 type: docs
-weight: 10
+weight: 30
 url: /sv/net/groupdocs.signature.domain/searchresult/signatures/
 ---
 ## SearchResult.Signatures property
 
-Lista över upptäckta signaturer[`BaseSignature`](../../basesignature) .
+Lista över hittade signaturer[`BaseSignature`](../../basesignature) .
 
 ```csharp
 public List<BaseSignature> Signatures { get; }

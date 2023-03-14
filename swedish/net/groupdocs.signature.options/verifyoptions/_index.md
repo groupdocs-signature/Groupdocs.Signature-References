@@ -3,7 +3,7 @@ title: VerifyOptions
 second_title: GroupDocs.Signature för .NET API-referens
 description: Behåller alternativ för att verifiera dokument.
 type: docs
-weight: 1700
+weight: 1780
 url: /sv/net/groupdocs.signature.options/verifyoptions/
 ---
 ## VerifyOptions class

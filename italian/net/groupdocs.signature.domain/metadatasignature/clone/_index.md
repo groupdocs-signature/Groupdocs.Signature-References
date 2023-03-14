@@ -3,7 +3,7 @@ title: Clone
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Clona istanza firma metadati.
 type: docs
-weight: 40
+weight: 50
 url: /it/net/groupdocs.signature.domain/metadatasignature/clone/
 ---
 ## Clone() {#clone_1}
@@ -28,7 +28,7 @@ Restituisce l'istanza della firma dei metadati clonata
 
 ## Clone(object) {#clone}
 
-Clona l'istanza della firma dei metadati con il valore specificato.
+Clona l'istanza della firma dei metadati con un determinato valore.
 
 ```csharp
 public virtual MetadataSignature Clone(object value)
@@ -40,7 +40,7 @@ public virtual MetadataSignature Clone(object value)
 
 ### Valore di ritorno
 
-Restituisce l'istanza della firma dei metadati clonata con un valore specificato.
+Restituisce l'istanza della firma dei metadati clonata con un determinato valore.
 
 ### Guarda anche
 

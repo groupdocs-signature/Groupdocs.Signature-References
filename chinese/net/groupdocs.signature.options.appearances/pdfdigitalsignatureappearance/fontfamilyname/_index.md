@@ -1,14 +1,14 @@
 ---
 title: FontFamilyName
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置字体系列名称以显示标签默认值为Arial
+description: 获取或设置字体系列名称以显示标签默认值为宋体.
 type: docs
 weight: 60
 url: /zh/net/groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/fontfamilyname/
 ---
 ## PdfDigitalSignatureAppearance.FontFamilyName property
 
-获取或设置字体系列名称以显示标签。默认值为“Arial”。
+获取或设置字体系列名称以显示标签。默认值为“宋体”.
 
 ```csharp
 public string FontFamilyName { get; set; }

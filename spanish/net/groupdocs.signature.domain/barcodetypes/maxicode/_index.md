@@ -3,7 +3,7 @@ title: MaxiCode
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: objeto de tipo de código de barras MaxiCode.
 type: docs
-weight: 420
+weight: 450
 url: /es/net/groupdocs.signature.domain/barcodetypes/maxicode/
 ---
 ## BarcodeTypes.MaxiCode field

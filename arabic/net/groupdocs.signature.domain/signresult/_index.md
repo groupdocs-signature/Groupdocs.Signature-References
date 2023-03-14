@@ -3,7 +3,7 @@ title: SignResult
 second_title: GroupDocs.Signature لمرجع .NET API
 description: نتيجة عملية التوقيع للمستند بالتوقيعات المنشأة حديثًا.
 type: docs
-weight: 810
+weight: 840
 url: /ar/net/groupdocs.signature.domain/signresult/
 ---
 ## SignResult class
@@ -18,8 +18,12 @@ public class SignResult : IResult
 
 | اسم | وصف |
 | --- | --- |
+| [DestinDocumentSize](../../groupdocs.signature.domain/signresult/destindocumentsize) { get; } | إرجاع حجم المستند الوجهة |
 | [Failed](../../groupdocs.signature.domain/signresult/failed) { get; } | قائمة التوقيعات التي فشل إنشاؤها . |
+| [ProcessingTime](../../groupdocs.signature.domain/signresult/processingtime) { get; } | إرجاع وقت تنفيذ العملية بالملي ثانية |
+| [SourceDocumentSize](../../groupdocs.signature.domain/signresult/sourcedocumentsize) { get; } | إرجاع حجم المستند المصدر |
 | [Succeeded](../../groupdocs.signature.domain/signresult/succeeded) { get; } | قائمة التواقيع المنشأة حديثًا[`BaseSignature`](../basesignature) . |
+| [TotalSignatures](../../groupdocs.signature.domain/signresult/totalsignatures) { get; } | إرجاع إجمالي التواقيع المعالجة |
 
 ### أنظر أيضا
 

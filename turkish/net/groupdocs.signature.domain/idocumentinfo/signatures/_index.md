@@ -1,14 +1,14 @@
 ---
 title: Signatures
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Her tür imzanın belge koleksiyonuBaseSignaturegroupdocs.signature.domain/basesignature .
+description: Her türlü imza belgesinin toplanmasıBaseSignaturegroupdocs.signature.domain/basesignature .
 type: docs
-weight: 120
+weight: 130
 url: /tr/net/groupdocs.signature.domain/idocumentinfo/signatures/
 ---
 ## IDocumentInfo.Signatures property
 
-Her tür imzanın belge koleksiyonu[`BaseSignature`](../../basesignature) .
+Her türlü imza belgesinin toplanması[`BaseSignature`](../../basesignature) .
 
 ```csharp
 public IList<BaseSignature> Signatures { get; }

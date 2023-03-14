@@ -3,7 +3,7 @@ title: SCC14
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Объект типа штрихкода SCC14.
 type: docs
-weight: 540
+weight: 570
 url: /ru/net/groupdocs.signature.domain/barcodetypes/scc14/
 ---
 ## BarcodeTypes.SCC14 field

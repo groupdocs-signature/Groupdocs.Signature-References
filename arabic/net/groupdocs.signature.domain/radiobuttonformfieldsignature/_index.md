@@ -3,7 +3,7 @@ title: RadioButtonFormFieldSignature
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحتوي على خصائص توقيع حقل نموذج إدخال زر الاختيار.
 type: docs
-weight: 790
+weight: 820
 url: /ar/net/groupdocs.signature.domain/radiobuttonformfieldsignature/
 ---
 ## RadioButtonFormFieldSignature class

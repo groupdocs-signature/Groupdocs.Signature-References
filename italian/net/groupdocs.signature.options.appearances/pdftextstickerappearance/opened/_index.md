@@ -1,14 +1,14 @@
 ---
 title: Opened
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Imposta se la finestra popup delladesivo verrà aperta per impostazione predefinita.
+description: Imposta se la finestra popup degli adesivi verrà aperta per impostazione predefinita.
 type: docs
 weight: 50
 url: /it/net/groupdocs.signature.options.appearances/pdftextstickerappearance/opened/
 ---
 ## PdfTextStickerAppearance.Opened property
 
-Imposta se la finestra pop-up dell'adesivo verrà aperta per impostazione predefinita.
+Imposta se la finestra pop-up degli adesivi verrà aperta per impostazione predefinita.
 
 ```csharp
 public bool Opened { get; set; }

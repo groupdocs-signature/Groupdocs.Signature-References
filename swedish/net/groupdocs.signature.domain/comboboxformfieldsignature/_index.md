@@ -3,7 +3,7 @@ title: ComboboxFormFieldSignature
 second_title: GroupDocs.Signature för .NET API-referens
 description: Innehåller egenskaper för formulärfältsignatur i kombinationsrutan.
 type: docs
-weight: 90
+weight: 100
 url: /sv/net/groupdocs.signature.domain/comboboxformfieldsignature/
 ---
 ## ComboboxFormFieldSignature class

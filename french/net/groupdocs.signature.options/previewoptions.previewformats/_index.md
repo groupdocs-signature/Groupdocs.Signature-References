@@ -3,7 +3,7 @@ title: PreviewOptions.PreviewFormats
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Formats pris en charge par laperçu du document
 type: docs
-weight: 1510
+weight: 1590
 url: /fr/net/groupdocs.signature.options/previewoptions.previewformats/
 ---
 ## PreviewOptions.PreviewFormats enumeration

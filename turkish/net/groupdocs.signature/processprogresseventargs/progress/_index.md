@@ -1,14 +1,14 @@
 ---
 title: Progress
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Yüzde cinsinden ilerlemeyi temsil eder. Değer aralığı 0 ile 100. arasındadır.
+description: İlerlemeyi yüzde cinsinden temsil eder. Değer aralığı 0 ile 100. arasındadır.
 type: docs
 weight: 40
 url: /tr/net/groupdocs.signature/processprogresseventargs/progress/
 ---
 ## ProcessProgressEventArgs.Progress property
 
-Yüzde cinsinden ilerlemeyi temsil eder. Değer aralığı 0 ile 100. arasındadır.
+İlerlemeyi yüzde cinsinden temsil eder. Değer aralığı 0 ile 100. arasındadır.
 
 ```csharp
 public int Progress { get; set; }

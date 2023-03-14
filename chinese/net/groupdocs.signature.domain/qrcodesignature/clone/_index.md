@@ -1,14 +1,14 @@
 ---
 title: Clone
 second_title: GroupDocs.Signature for .NET API 参考
-description: 克隆二维码签名实例
+description: 克隆二维码签名实例.
 type: docs
 weight: 60
 url: /zh/net/groupdocs.signature.domain/qrcodesignature/clone/
 ---
 ## QrCodeSignature.Clone method
 
-克隆二维码签名实例。
+克隆二维码签名实例.
 
 ```csharp
 public override object Clone()
@@ -16,7 +16,7 @@ public override object Clone()
 
 ### 返回值
 
-返回克隆的 QR 码签名实例。
+返回克隆的二维码签名实例。
 
 ### 也可以看看
 

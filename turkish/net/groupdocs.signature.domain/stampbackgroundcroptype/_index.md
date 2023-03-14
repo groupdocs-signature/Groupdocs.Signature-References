@@ -3,7 +3,7 @@ title: StampBackgroundCropType
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Damga öğeleri üzerindeki arka plan katmanının kırpma türünü belirtir.
 type: docs
-weight: 870
+weight: 900
 url: /tr/net/groupdocs.signature.domain/stampbackgroundcroptype/
 ---
 ## StampBackgroundCropType enumeration

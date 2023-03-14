@@ -3,7 +3,7 @@ title: PasswordRequiredException
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Исключение которое возникает когда для загрузки документа требуется пароль.
 type: docs
-weight: 1720
+weight: 1800
 url: /ru/net/groupdocs.signature/passwordrequiredexception/
 ---
 ## PasswordRequiredException class

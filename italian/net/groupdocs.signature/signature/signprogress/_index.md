@@ -1,14 +1,14 @@
 ---
 title: SignProgress
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Si verifica quando lavanzamento del processo di firma del documento viene modificato.
+description: Si verifica quando lavanzamento del processo di firma del documento è cambiato.
 type: docs
 weight: 60
 url: /it/net/groupdocs.signature/signature/signprogress/
 ---
 ## Signature.SignProgress event
 
-Si verifica quando l'avanzamento del processo di firma del documento viene modificato.
+Si verifica quando l'avanzamento del processo di firma del documento è cambiato.
 
 ```csharp
 public event ProcessProgressEventHandler SignProgress;

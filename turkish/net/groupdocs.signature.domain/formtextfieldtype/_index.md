@@ -3,7 +3,7 @@ title: FormTextFieldType
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: WordsProcessing belge form alanları için metin türlerini tanımlar.
 type: docs
-weight: 460
+weight: 480
 url: /tr/net/groupdocs.signature.domain/formtextfieldtype/
 ---
 ## FormTextFieldType enumeration

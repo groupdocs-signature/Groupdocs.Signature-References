@@ -3,7 +3,7 @@ title: FormFieldSearchOptions
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Form alanı imzaları için arama seçeneklerini temsil eder.
 type: docs
-weight: 1290
+weight: 1370
 url: /tr/net/groupdocs.signature.options/formfieldsearchoptions/
 ---
 ## FormFieldSearchOptions class
@@ -25,12 +25,12 @@ public class FormFieldSearchOptions : SearchOptions
 | İsim | Tanım |
 | --- | --- |
 | [AllPages](../../groupdocs.signature.options/searchoptions/allpages) { get; set; } | Her Belge sayfasında arama yapmak için işaretleyin. Varsayılan olarak bu değer true. olarak ayarlanmıştır. |
-| [Name](../../groupdocs.signature.options/formfieldsearchoptions/name) { get; set; } | Aranması gerekiyorsa, form alanı imza adının normal ifade modelini belirtir. "metin" olarak basit veya "abc\d+" gibi normal ifadeler olarak kullanabilirsiniz. Varsayılan değer boş dizedir. |
+| [Name](../../groupdocs.signature.options/formfieldsearchoptions/name) { get; set; } | Aranması gerekiyorsa, form alanı imza adının normal ifade modelini belirtir. Basit olarak "metin" veya "abc\d+" gibi normal ifade olarak kullanabilirsiniz. Varsayılan değer boş string. |
 | [PageNumber](../../groupdocs.signature.options/searchoptions/pagenumber) { get; set; } | Arama için Belge sayfa numarasını alır veya ayarlar. Değer isteğe bağlıdır. |
 | [PagesSetup](../../groupdocs.signature.options/searchoptions/pagessetup) { get; set; } | İmza araması için sayfaları belirleme seçenekleri. |
 | [SkipExternal](../../groupdocs.signature.options/searchoptions/skipexternal) { get; set; } | Yalnızca IsSignature olarak işaretlenmiş imzaları döndürmek için işaretleyin. Varsayılan olarak, belirtilen ölçütlerle eşleşen tüm imzaların döndürüleceğini belirten false değeridir. |
 | [Type](../../groupdocs.signature.options/formfieldsearchoptions/type) { get; set; } | Aranması gerekiyorsa form alanı imzasının türünü belirtir. Varsayılan değer boştur. |
-| [Value](../../groupdocs.signature.options/formfieldsearchoptions/value) { get; set; } | Aranması gerekiyorsa, form alanı imzasının değerini belirtir. Varsayılan değer null. |
+| [Value](../../groupdocs.signature.options/formfieldsearchoptions/value) { get; set; } | Aranması gerekiyorsa form alanı imzasının değerini belirtir. Varsayılan değer null. |
 
 ### Notlar
 

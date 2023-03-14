@@ -1,14 +1,14 @@
 ---
 title: ProcessStartEventArgs
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: İmzalama doğrulama ve arama işlemi başlatma olayı için veri sağlar
+description: İmza doğrulama ve arama işleminin Başlatma olayı için veri sağlar
 type: docs
-weight: 1780
+weight: 1860
 url: /tr/net/groupdocs.signature/processstarteventargs/
 ---
 ## ProcessStartEventArgs class
 
-İmzalama, doğrulama ve arama işlemi başlatma olayı için veri sağlar
+İmza, doğrulama ve arama işleminin Başlatma olayı için veri sağlar
 
 ```csharp
 public class ProcessStartEventArgs : ProcessEventArgs

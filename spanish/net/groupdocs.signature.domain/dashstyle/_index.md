@@ -3,7 +3,7 @@ title: DashStyle
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Representa el estilo de las líneas de dibujo de guiones en los documentos.
 type: docs
-weight: 110
+weight: 120
 url: /es/net/groupdocs.signature.domain/dashstyle/
 ---
 ## DashStyle enumeration

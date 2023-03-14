@@ -3,7 +3,7 @@ title: SymmetricEncryptionAttribute
 second_title: GroupDocs.Signature för .NET API-referens
 description: Instruerar serialisering av instanser att kryptera/dekryptera objektserialiseringssträng.
 type: docs
-weight: 370
+weight: 390
 url: /sv/net/groupdocs.signature.domain.extensions/symmetricencryptionattribute/
 ---
 ## SymmetricEncryptionAttribute class

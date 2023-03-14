@@ -3,7 +3,7 @@ title: ShowDeletedSignaturesInfo
 second_title: GroupDocs.Signature för .NET API-referens
 description: Hämtar eller ställer in flagga som inkluderar borttagna signaturer i dokumentinforesultat. Varje signaturBaseSignaturegroupdocs.signature.domain/basesignature har raderad flaggaDeletedgroupdocs.signature.domain/basesignature/deleted för att upptäcka om den har tagits bort.
 type: docs
-weight: 50
+weight: 80
 url: /sv/net/groupdocs.signature/signaturesettings/showdeletedsignaturesinfo/
 ---
 ## SignatureSettings.ShowDeletedSignaturesInfo property

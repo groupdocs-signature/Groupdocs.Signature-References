@@ -3,7 +3,7 @@ title: ToSingle
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Floata dönüştürür.
 type: docs
-weight: 130
+weight: 140
 url: /tr/net/groupdocs.signature.domain/metadatasignature/tosingle/
 ---
 ## ToSingle() {#tosingle}

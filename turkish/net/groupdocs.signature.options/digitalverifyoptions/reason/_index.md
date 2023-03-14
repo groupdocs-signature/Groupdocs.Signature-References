@@ -1,14 +1,14 @@
 ---
 title: Reason
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Doğrulama için Dijital İmzanın Nedeni.
+description: Dijital İmzanın doğrulanma nedeni.
 type: docs
 weight: 100
 url: /tr/net/groupdocs.signature.options/digitalverifyoptions/reason/
 ---
 ## DigitalVerifyOptions.Reason property
 
-Doğrulama için Dijital İmzanın Nedeni.
+Dijital İmzanın doğrulanma nedeni.
 
 ```csharp
 public string Reason { get; set; }

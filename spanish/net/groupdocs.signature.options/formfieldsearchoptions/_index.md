@@ -3,7 +3,7 @@ title: FormFieldSearchOptions
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Representa opciones de búsqueda para firmas de campos de formulario.
 type: docs
-weight: 1290
+weight: 1370
 url: /es/net/groupdocs.signature.options/formfieldsearchoptions/
 ---
 ## FormFieldSearchOptions class

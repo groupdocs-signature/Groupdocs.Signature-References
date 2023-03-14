@@ -1,14 +1,14 @@
 ---
 title: Verify
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Verifica le firme dei documenti con i dati di VerifyOptions forniti.
+description: Verifica le firme del documento con i dati VerifyOptions forniti.
 type: docs
 weight: 180
 url: /it/net/groupdocs.signature/signature/verify/
 ---
 ## Verify(VerifyOptions) {#verify}
 
-Verifica le firme dei documenti con i dati di VerifyOptions forniti.
+Verifica le firme del documento con i dati VerifyOptions forniti.
 
 ```csharp
 public VerificationResult Verify(VerifyOptions verifyOptions)
@@ -20,13 +20,13 @@ public VerificationResult Verify(VerifyOptions verifyOptions)
 
 ### Valore di ritorno
 
-Restituisce l'istanza di[`VerificationResult`](../../../groupdocs.signature.domain/verificationresult). La proprietà VerificationResult.IsValid restituisce true se il processo di verifica è riuscito.
+Restituisce l'istanza di[`VerificationResult`](../../../groupdocs.signature.domain/verificationresult). Proprietà VerificationResult.IsValid restituisce true se il processo di verifica ha avuto esito positivo.
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
-* Ulteriori informazioni sulla verifica dei documenti firmati elettronicamente utilizzando GroupDocs.Signature: [Come verificare che il documento sia firmato elettronicamente in C#](https://docs.groupdocs.com/display/signaturenet/Verify+document+for+signatures)
+* Ulteriori informazioni sulla verifica dei documenti firmati elettronicamente tramite GroupDocs.Signature: [Come verificare che il documento sia firmato elettronicamente in C#](https://docs.groupdocs.com/display/signaturenet/Verify+document+for+signatures)
 
 ### Guarda anche
 
@@ -40,7 +40,7 @@ Restituisce l'istanza di[`VerificationResult`](../../../groupdocs.signature.doma
 
 ## Verify(List&lt;VerifyOptions&gt;) {#verify_1}
 
-Verifica le firme del documento con l'elenco dei dati di VerifyOptions.
+Verifica le firme del documento con l'elenco dei dati VerifyOptions.
 
 ```csharp
 public VerificationResult Verify(List<VerifyOptions> verifyOptionsList)
@@ -52,13 +52,13 @@ public VerificationResult Verify(List<VerifyOptions> verifyOptionsList)
 
 ### Valore di ritorno
 
-Restituisce l'istanza di[`VerificationResult`](../../../groupdocs.signature.domain/verificationresult). La proprietà VerificationResult.IsValid restituisce true se il processo di verifica è riuscito.
+Restituisce l'istanza di[`VerificationResult`](../../../groupdocs.signature.domain/verificationresult). Proprietà VerificationResult.IsValid restituisce true se il processo di verifica ha avuto esito positivo.
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
-* Ulteriori informazioni sulla verifica dei documenti firmati elettronicamente utilizzando GroupDocs.Signature: [Come verificare che il documento sia firmato elettronicamente in C#](https://docs.groupdocs.com/display/signaturenet/Verify+document+for+signatures)
+* Ulteriori informazioni sulla verifica dei documenti firmati elettronicamente tramite GroupDocs.Signature: [Come verificare che il documento sia firmato elettronicamente in C#](https://docs.groupdocs.com/display/signaturenet/Verify+document+for+signatures)
 
 ### Guarda anche
 

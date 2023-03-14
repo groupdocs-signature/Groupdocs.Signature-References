@@ -3,7 +3,7 @@ title: QrCodeSignature
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحتوي على خصائص توقيع رمز الاستجابة السريعة .
 type: docs
-weight: 760
+weight: 790
 url: /ar/net/groupdocs.signature.domain/qrcodesignature/
 ---
 ## QrCodeSignature class

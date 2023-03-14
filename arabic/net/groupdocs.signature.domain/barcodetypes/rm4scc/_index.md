@@ -3,7 +3,7 @@ title: RM4SCC
 second_title: GroupDocs.Signature لمرجع .NET API
 description: كائن نوع الرمز الشريطي RM4SCC .
 type: docs
-weight: 530
+weight: 560
 url: /ar/net/groupdocs.signature.domain/barcodetypes/rm4scc/
 ---
 ## BarcodeTypes.RM4SCC field

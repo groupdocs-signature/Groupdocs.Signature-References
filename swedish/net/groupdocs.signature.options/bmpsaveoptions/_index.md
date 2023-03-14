@@ -3,7 +3,7 @@ title: BmpSaveOptions
 second_title: GroupDocs.Signature för .NET API-referens
 description: Bmp Spara alternativ för bilddokument.
 type: docs
-weight: 1220
+weight: 1290
 url: /sv/net/groupdocs.signature.options/bmpsaveoptions/
 ---
 ## BmpSaveOptions class

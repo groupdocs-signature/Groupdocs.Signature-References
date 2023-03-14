@@ -3,7 +3,7 @@ title: ISSN
 second_title: GroupDocs.Signature لمرجع .NET API
 description: كائن نوع الرمز الشريطي لـ ISSN .
 type: docs
-weight: 350
+weight: 380
 url: /ar/net/groupdocs.signature.domain/barcodetypes/issn/
 ---
 ## BarcodeTypes.ISSN field

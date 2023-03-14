@@ -3,7 +3,7 @@ title: FormFieldSignature
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Contiene le proprietà della firma del campo modulo.
 type: docs
-weight: 440
+weight: 460
 url: /it/net/groupdocs.signature.domain/formfieldsignature/
 ---
 ## FormFieldSignature class
@@ -37,7 +37,7 @@ public abstract class FormFieldSignature : BaseSignature
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Clone](../../groupdocs.signature.domain/formfieldsignature/clone)() | Clona istanza di firma FormField. |
+| override [Clone](../../groupdocs.signature.domain/formfieldsignature/clone)() | Clona istanza Firma FormField. |
 | override [Equals](../../groupdocs.signature.domain/formfieldsignature/equals)(object) | Sovrascrive il metodo Equals per confrontare le proprietà della firma |
 | override [GetHashCode](../../groupdocs.signature.domain/formfieldsignature/gethashcode)() | Sostituisce il metodo GetHashCode |
 

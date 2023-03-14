@@ -3,7 +3,7 @@ title: StampTextRepeatType
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحدد نوع تكرار النص لأسطر الطوابع.
 type: docs
-weight: 890
+weight: 920
 url: /ar/net/groupdocs.signature.domain/stamptextrepeattype/
 ---
 ## StampTextRepeatType enumeration

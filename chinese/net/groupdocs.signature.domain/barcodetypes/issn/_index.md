@@ -3,7 +3,7 @@ title: ISSN
 second_title: GroupDocs.Signature for .NET API 参考
 description: ISSN 条形码类型对象
 type: docs
-weight: 350
+weight: 380
 url: /zh/net/groupdocs.signature.domain/barcodetypes/issn/
 ---
 ## BarcodeTypes.ISSN field

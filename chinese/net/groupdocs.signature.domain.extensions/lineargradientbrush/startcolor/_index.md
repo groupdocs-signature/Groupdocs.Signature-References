@@ -1,14 +1,14 @@
 ---
 title: StartColor
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置起始渐变颜色
+description: 获取或设置起始渐变色
 type: docs
 weight: 40
 url: /zh/net/groupdocs.signature.domain.extensions/lineargradientbrush/startcolor/
 ---
 ## LinearGradientBrush.StartColor property
 
-获取或设置起始渐变颜色。
+获取或设置起始渐变色。
 
 ```csharp
 public Color StartColor { get; set; }

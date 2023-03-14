@@ -3,7 +3,7 @@ title: ToSingle
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Converte in float.
 type: docs
-weight: 130
+weight: 140
 url: /it/net/groupdocs.signature.domain/metadatasignature/tosingle/
 ---
 ## ToSingle() {#tosingle}

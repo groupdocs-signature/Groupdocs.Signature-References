@@ -3,7 +3,7 @@ title: SpreadsheetSaveFileFormat
 second_title: GroupDocs.Signature for .NET API 参考
 description: 为电子表格文档定义不同的保存格式
 type: docs
-weight: 850
+weight: 880
 url: /zh/net/groupdocs.signature.domain/spreadsheetsavefileformat/
 ---
 ## SpreadsheetSaveFileFormat enumeration
@@ -33,9 +33,9 @@ public enum SpreadsheetSaveFileFormat
 | TIFF | `21` | 以标记图像文件格式保存文档。 |
 | SVG | `22` | 将文档另存为可缩放矢量图形文件。 |
 | Dif | `30` | 以数据交换格式保存文档。 |
-| Emf | `31` | 以 Windows 增强的元文件格式保存文档。 |
+| Emf | `31` | 以 Windows 增强图元文件格式保存文档。 |
 | Jpg | `33` | 以 Jpeg 格式保存文档。 |
-| Png | `34` | 以便携式网络图形格式保存文档。 |
+| Png | `34` | 以可移植网络图形格式保存文档。 |
 
 ### 也可以看看
 

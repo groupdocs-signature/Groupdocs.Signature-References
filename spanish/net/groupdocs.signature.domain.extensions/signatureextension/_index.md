@@ -3,7 +3,7 @@ title: SignatureExtension
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Representa la clase base para extensiones de firmas.
 type: docs
-weight: 310
+weight: 330
 url: /es/net/groupdocs.signature.domain.extensions/signatureextension/
 ---
 ## SignatureExtension class

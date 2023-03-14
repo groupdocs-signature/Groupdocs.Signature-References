@@ -3,7 +3,7 @@ title: FromExtension
 second_title: GroupDocs.Signature för .NET API-referens
 description: Mappar filtillägget till filtyp.
 type: docs
-weight: 570
+weight: 580
 url: /sv/net/groupdocs.signature.domain/filetype/fromextension/
 ---
 ## FileType.FromExtension method

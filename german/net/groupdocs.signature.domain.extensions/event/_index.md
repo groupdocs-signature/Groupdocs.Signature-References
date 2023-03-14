@@ -3,7 +3,7 @@ title: Event
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Stellt StandardQRCodeEreignisdetails dar.
 type: docs
-weight: 230
+weight: 250
 url: /de/net/groupdocs.signature.domain.extensions/event/
 ---
 ## Event class

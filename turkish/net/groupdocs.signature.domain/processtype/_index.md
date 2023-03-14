@@ -1,14 +1,14 @@
 ---
 title: ProcessType
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Bilgi Önizleme İmzala Doğrula Ara Güncelle Sil gibi belgelerle desteklenen süreci tanımlar
+description: Bilgi Önizleme İmzalama Doğrulama Arama Güncelleme Sil gibi belgelerle desteklenen süreci tanımlar
 type: docs
-weight: 750
+weight: 780
 url: /tr/net/groupdocs.signature.domain/processtype/
 ---
 ## ProcessType enumeration
 
-Bilgi, Önizleme, İmzala, Doğrula, Ara, Güncelle, Sil gibi belgelerle desteklenen süreci tanımlar
+Bilgi, Önizleme, İmzalama, Doğrulama, Arama, Güncelleme, Sil gibi belgelerle desteklenen süreci tanımlar
 
 ```csharp
 public enum ProcessType
@@ -19,10 +19,10 @@ public enum ProcessType
 | İsim | Değer | Tanım |
 | --- | --- | --- |
 | Unknown | `0` | Bir hatayı, bilinmeyen işlem türünü gösterir. |
-| Info | `1` | Belge bilgi alma süreci. |
-| Preview | `2` | GeneratePreview() yöntemini belirtir. |
+| Info | `1` | Belge bilgileri alma süreci. |
+| Preview | `2` | GeneratePreview() yöntemini gösterir. |
 | Sign | `3` | İmzalama işlemi türü. |
-| Verify | `4` | Belge doğrulama süreci. |
+| Verify | `4` | Belge doğrulama işlemi. |
 | Search | `5` | İmza arama süreci. |
 | Update | `6` | Belge imza sürecini güncelleyin. |
 | Delete | `7` | Belge imzalarını silme işlemi |

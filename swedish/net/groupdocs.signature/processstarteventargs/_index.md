@@ -3,7 +3,7 @@ title: ProcessStartEventArgs
 second_title: GroupDocs.Signature för .NET API-referens
 description: Tillhandahåller data för Starthändelsen för signering verifiering och sökprocess
 type: docs
-weight: 1780
+weight: 1860
 url: /sv/net/groupdocs.signature/processstarteventargs/
 ---
 ## ProcessStartEventArgs class
@@ -24,7 +24,7 @@ public class ProcessStartEventArgs : ProcessEventArgs
 
 | namn | Beskrivning |
 | --- | --- |
-| [Started](../../groupdocs.signature/processstarteventargs/started) { get; set; } | Representerar tidsmärke för processstart. |
+| [Started](../../groupdocs.signature/processstarteventargs/started) { get; set; } | Representerar tidsmärket för processstart. |
 | [Status](../../groupdocs.signature/processeventargs/status) { get; set; } | Indikerar aktuellt processtillstånd. |
 | [TotalSignatures](../../groupdocs.signature/processstarteventargs/totalsignatures) { get; set; } | Representerar den totala mängden signaturer som ska bearbetas. |
 

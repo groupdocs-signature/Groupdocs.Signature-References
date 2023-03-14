@@ -3,7 +3,7 @@ title: SymmetricEncryption
 second_title: GroupDocs.Signature لمرجع .NET API
 description: تنفيذ خوارزميات متماثلة قياسية لتشفير البيانات بمفتاح واحد وعبارة مرور ملح .
 type: docs
-weight: 360
+weight: 380
 url: /ar/net/groupdocs.signature.domain.extensions/symmetricencryption/
 ---
 ## SymmetricEncryption class

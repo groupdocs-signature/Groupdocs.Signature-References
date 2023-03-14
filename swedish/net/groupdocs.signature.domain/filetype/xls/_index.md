@@ -3,7 +3,7 @@ title: XLS
 second_title: GroupDocs.Signature för .NET API-referens
 description: Excelkalkylblad .xls representerar det binära filformatet för Excel. Sådana filer kan skapas av Microsoft Excel såväl som andra liknande kalkylprogram som OpenOffice Calc eller Apple Numbers. Läs mer om detta filformathärhttps//wiki.fileformat.com/spreadsheet/xls .
 type: docs
-weight: 510
+weight: 520
 url: /sv/net/groupdocs.signature.domain/filetype/xls/
 ---
 ## FileType.XLS field

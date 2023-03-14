@@ -3,7 +3,7 @@ title: ISBN
 second_title: GroupDocs.Signature för .NET API-referens
 description: ISBN streckkodstypobjekt.
 type: docs
-weight: 330
+weight: 360
 url: /sv/net/groupdocs.signature.domain/barcodetypes/isbn/
 ---
 ## BarcodeTypes.ISBN field

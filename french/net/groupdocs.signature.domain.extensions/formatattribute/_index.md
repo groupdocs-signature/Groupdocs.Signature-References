@@ -3,7 +3,7 @@ title: FormatAttribute
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Ordonne à la sérialisation des objets de sérialiser le membre avec le nom et le format spécifiés
 type: docs
-weight: 240
+weight: 260
 url: /fr/net/groupdocs.signature.domain.extensions/formatattribute/
 ---
 ## FormatAttribute class

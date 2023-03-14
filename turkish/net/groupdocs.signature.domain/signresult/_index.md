@@ -3,7 +3,7 @@ title: SignResult
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Yeni oluşturulan imzalara sahip belge için imzalama işleminin sonucu.
 type: docs
-weight: 810
+weight: 840
 url: /tr/net/groupdocs.signature.domain/signresult/
 ---
 ## SignResult class
@@ -18,8 +18,12 @@ public class SignResult : IResult
 
 | İsim | Tanım |
 | --- | --- |
+| [DestinDocumentSize](../../groupdocs.signature.domain/signresult/destindocumentsize) { get; } | Hedef belge boyutunu döndürür |
 | [Failed](../../groupdocs.signature.domain/signresult/failed) { get; } | Oluşturulamayan imzaların listesi. |
+| [ProcessingTime](../../groupdocs.signature.domain/signresult/processingtime) { get; } | İşlemin yürütme süresini milisaniye cinsinden döndürür |
+| [SourceDocumentSize](../../groupdocs.signature.domain/signresult/sourcedocumentsize) { get; } | Kaynak belge boyutunu döndürür |
 | [Succeeded](../../groupdocs.signature.domain/signresult/succeeded) { get; } | Yeni oluşturulan imzaların listesi[`BaseSignature`](../basesignature) . |
+| [TotalSignatures](../../groupdocs.signature.domain/signresult/totalsignatures) { get; } | Toplam işlenen imzaları döndürür |
 
 ### Ayrıca bakınız
 

@@ -3,7 +3,7 @@ title: JpegCompressionColorMode
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: JPEG renk sıkıştırma modlarını belirtir.
 type: docs
-weight: 1350
+weight: 1430
 url: /tr/net/groupdocs.signature.options/jpegcompressioncolormode/
 ---
 ## JpegCompressionColorMode enumeration
@@ -21,7 +21,7 @@ public enum JpegCompressionColorMode
 | Grayscale | `0` | Gri Tonlamalı görüntü. |
 | YCbCr | `1` | YCbCr görüntüsü, jpeg görüntüleri için standart seçenek. |
 | Cmyk | `2` | 4 bileşenli CMYK görüntüsü. |
-| Ycck | `3` | ycck renkli jpeg görüntüsü. Kaydetmek için icc profiline ihtiyaç duyar. |
+| Ycck | `3` | ycck renkli jpeg görüntüsü. Kaydetmek için icc profili gerekiyor. |
 | Rgb | `4` | RGB Renk modu. |
 
 ### Ayrıca bakınız

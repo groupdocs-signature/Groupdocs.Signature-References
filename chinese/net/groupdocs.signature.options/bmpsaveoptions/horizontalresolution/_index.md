@@ -1,14 +1,14 @@
 ---
 title: HorizontalResolution
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置水平分辨率注意由于四舍五入导致的 分辨率可能与传递的 略有不同
+description: 获取或设置水平分辨率请注意由于四舍五入结果 分辨率可能与传递的. 略有不同
 type: docs
 weight: 40
 url: /zh/net/groupdocs.signature.options/bmpsaveoptions/horizontalresolution/
 ---
 ## BmpSaveOptions.HorizontalResolution property
 
-获取或设置水平分辨率。注意由于四舍五入，导致的 分辨率可能与传递的 略有不同。
+获取或设置水平分辨率。请注意，由于四舍五入，结果 分辨率可能与传递的. 略有不同
 
 ```csharp
 public double HorizontalResolution { get; set; }

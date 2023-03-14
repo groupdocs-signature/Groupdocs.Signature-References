@@ -3,7 +3,7 @@ title: TextFormFieldSignature
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Contiene le proprietà della firma del campo del modulo di input del testo per il documento Pdf
 type: docs
-weight: 930
+weight: 960
 url: /it/net/groupdocs.signature.domain/textformfieldsignature/
 ---
 ## TextFormFieldSignature class
@@ -45,7 +45,7 @@ public sealed class TextFormFieldSignature : FormFieldSignature
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Clone](../../groupdocs.signature.domain/textformfieldsignature/clone)() | Clona istanza di firma FormField. |
+| override [Clone](../../groupdocs.signature.domain/textformfieldsignature/clone)() | Clona istanza Firma FormField. |
 | override [Equals](../../groupdocs.signature.domain/textformfieldsignature/equals)(object) | Sovrascrive il metodo Equals per confrontare le proprietà della firma |
 | override [GetHashCode](../../groupdocs.signature.domain/textformfieldsignature/gethashcode)() | Sostituisce il metodo GetHashCode |
 

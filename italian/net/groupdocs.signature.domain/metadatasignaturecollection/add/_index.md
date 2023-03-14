@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Aggiungi oggetto Firma metadati alla raccolta.
+description: Aggiungi loggetto Firma dei metadati alla raccolta.
 type: docs
 weight: 40
 url: /it/net/groupdocs.signature.domain/metadatasignaturecollection/add/
 ---
 ## MetadataSignatureCollection.Add method
 
-Aggiungi oggetto Firma metadati alla raccolta.
+Aggiungi l'oggetto Firma dei metadati alla raccolta.
 
 ```csharp
 public void Add(MetadataSignature signature)

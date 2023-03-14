@@ -3,7 +3,7 @@ title: ImageSignature
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Содержит свойства подписи изображения.
 type: docs
-weight: 570
+weight: 590
 url: /ru/net/groupdocs.signature.domain/imagesignature/
 ---
 ## ImageSignature class

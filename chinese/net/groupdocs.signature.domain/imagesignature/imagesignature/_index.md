@@ -1,14 +1,14 @@
 ---
 title: ImageSignature
 second_title: GroupDocs.Signature for .NET API 参考
-description: 使用搜索过程后获得的签名标识符初始化 ImageSignature 对象 此唯一标识符用于从文档签名信息层查找此签名的附加属性
+description: 使用搜索过程后获得的签名标识符初始化 ImageSignature 对象 此唯一标识符用于从文档签名信息层中查找此签名的其他属性
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.domain/imagesignature/imagesignature/
 ---
 ## ImageSignature constructor
 
-使用搜索过程后获得的签名标识符初始化 ImageSignature 对象。 此唯一标识符用于从文档签名信息层查找此签名的附加属性。
+使用搜索过程后获得的签名标识符初始化 ImageSignature 对象。 此唯一标识符用于从文档签名信息层中查找此签名的其他属性。
 
 ```csharp
 public ImageSignature(string signatureId)
@@ -16,7 +16,7 @@ public ImageSignature(string signatureId)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| signatureId | String | Signature类的Sign或Search方法获取的唯一签名标识[`Signature`](../../../groupdocs.signature/signature). |
+| signatureId | String | 通过Signature类的Sign或Search方法获取的唯一签名标识[`Signature`](../../../groupdocs.signature/signature). |
 
 ### 也可以看看
 

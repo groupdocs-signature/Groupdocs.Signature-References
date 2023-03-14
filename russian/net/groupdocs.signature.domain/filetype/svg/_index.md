@@ -3,7 +3,7 @@ title: SVG
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Файл масштабируемой векторной графики .svg  это файл скалярной векторной графики который использует текстовый формат на основе XML для описания внешнего вида изображения. Узнайте больше об этом формате файлаздесьhttps//wiki.fileformat.com/pagedescriptionlanguage/svg .
 type: docs
-weight: 410
+weight: 420
 url: /ru/net/groupdocs.signature.domain/filetype/svg/
 ---
 ## FileType.SVG field

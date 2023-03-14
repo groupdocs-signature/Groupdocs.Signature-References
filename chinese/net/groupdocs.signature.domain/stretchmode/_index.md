@@ -1,14 +1,14 @@
 ---
 title: StretchMode
 second_title: GroupDocs.Signature for .NET API 参考
-description: 表示文档页面上签名区域的拉伸模式
+description: 表示文档页签名区域的拉伸方式
 type: docs
-weight: 920
+weight: 950
 url: /zh/net/groupdocs.signature.domain/stretchmode/
 ---
 ## StretchMode enumeration
 
-表示文档页面上签名区域的拉伸模式。
+表示文档页签名区域的拉伸方式。
 
 ```csharp
 public enum StretchMode

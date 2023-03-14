@@ -1,14 +1,14 @@
 ---
 title: SymmetricEncryption
 second_title: GroupDocs.Signature for .NET API 参考
-description: 使用参数创建对称加密算法
+description: 创建带参数的对称加密算法
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.domain.extensions/symmetricencryption/symmetricencryption/
 ---
 ## SymmetricEncryption(SymmetricAlgorithmType, string, string) {#constructor_1}
 
-使用参数创建对称加密算法。
+创建带参数的对称加密算法。
 
 ```csharp
 public SymmetricEncryption(SymmetricAlgorithmType algorithmType, string key, string salt)
@@ -18,7 +18,7 @@ public SymmetricEncryption(SymmetricAlgorithmType algorithmType, string key, str
 | --- | --- | --- |
 | algorithmType | SymmetricAlgorithmType | 指定对称算法类型 |
 | key | String | 加密密钥 |
-| salt | String | 用于加密的密码 |
+| salt | String | 加密密码 |
 
 ### 也可以看看
 
@@ -31,7 +31,7 @@ public SymmetricEncryption(SymmetricAlgorithmType algorithmType, string key, str
 
 ## SymmetricEncryption(SymmetricAlgorithmType, string) {#constructor}
 
-使用默认密码创建对称加密算法
+使用默认密码短语 创建对称加密算法
 
 ```csharp
 public SymmetricEncryption(SymmetricAlgorithmType algorithmType, string key)

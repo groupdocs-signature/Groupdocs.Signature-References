@@ -1,14 +1,14 @@
 ---
 title: BarcodeSignature
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Arama işleminden sonra elde edilen imza tanımlayıcılı BarcodeSignature nesnesini başlat. Bu benzersiz tanımlayıcı belge imza bilgi katmanından bu imza için ek özellikler bulmak için kullanılır.
+description: BarcodeSignature nesnesini arama işleminden sonra elde edilen imza tanımlayıcısı ile başlat. Bu benzersiz tanımlayıcı belge imza bilgisi katmanından bu imza için ek özellikler bulmak için kullanılır.
 type: docs
 weight: 10
 url: /tr/net/groupdocs.signature.domain/barcodesignature/barcodesignature/
 ---
 ## BarcodeSignature constructor
 
-Arama işleminden sonra elde edilen imza tanımlayıcılı BarcodeSignature nesnesini başlat. Bu benzersiz tanımlayıcı, belge imza bilgi katmanından bu imza için ek özellikler bulmak için kullanılır.
+BarcodeSignature nesnesini, arama işleminden sonra elde edilen imza tanımlayıcısı ile başlat. Bu benzersiz tanımlayıcı, belge imza bilgisi katmanından bu imza için ek özellikler bulmak için kullanılır.
 
 ```csharp
 public BarcodeSignature(string signatureId)

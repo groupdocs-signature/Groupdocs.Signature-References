@@ -1,14 +1,14 @@
 ---
 title: Decode
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Decodifica il metodo per ottenere la stringa decifrata.
+description: Metodo di decodifica per ottenere la stringa decrittografata.
 type: docs
 weight: 10
 url: /it/net/groupdocs.signature.domain.extensions/idataencryption/decode/
 ---
 ## IDataEncryption.Decode method
 
-Decodifica il metodo per ottenere la stringa decifrata.
+Metodo di decodifica per ottenere la stringa decrittografata.
 
 ```csharp
 public string Decode(string source)
@@ -20,7 +20,7 @@ public string Decode(string source)
 
 ### Valore di ritorno
 
-Restituisce una stringa decifrata
+Restituisce una stringa decrittografata
 
 ### Guarda anche
 

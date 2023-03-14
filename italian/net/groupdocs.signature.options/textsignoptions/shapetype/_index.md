@@ -1,14 +1,14 @@
 ---
 title: ShapeType
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Ottiene o imposta il tipo di forma in cui inserire il testo. Questa proprietà può essere utilizzata solo con SignatureImplementation  TextStamp. Il valore per impostazione predefinita è Rectangle.
+description: Ottiene o imposta il tipo di forma in cui inserire il testo. Questa proprietà può essere utilizzata solo con SignatureImplementation  TextStamp. Il valore predefinito è Rectangle.
 type: docs
 weight: 160
 url: /it/net/groupdocs.signature.options/textsignoptions/shapetype/
 ---
 ## TextSignOptions.ShapeType property
 
-Ottiene o imposta il tipo di forma in cui inserire il testo. Questa proprietà può essere utilizzata solo con SignatureImplementation = TextStamp. Il valore per impostazione predefinita è Rectangle.
+Ottiene o imposta il tipo di forma in cui inserire il testo. Questa proprietà può essere utilizzata solo con SignatureImplementation = TextStamp. Il valore predefinito è Rectangle.
 
 ```csharp
 public TextShapeType ShapeType { get; set; }

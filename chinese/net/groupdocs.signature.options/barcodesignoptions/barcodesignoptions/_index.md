@@ -24,7 +24,7 @@ public BarcodeSignOptions()
 
 ## BarcodeSignOptions(string) {#constructor_1}
 
-使用文本初始化 BarcodeSignOptions 类的新实例。
+用文本初始化 BarcodeSignOptions 类的新实例。
 
 ```csharp
 public BarcodeSignOptions(string text)
@@ -32,7 +32,7 @@ public BarcodeSignOptions(string text)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| text | String | 条码文本 |
+| text | String | 条码文字 |
 
 ### 也可以看看
 
@@ -44,7 +44,7 @@ public BarcodeSignOptions(string text)
 
 ## BarcodeSignOptions(string, BarcodeType) {#constructor_2}
 
-使用文本初始化 BarcodeSignOptions 类的新实例。
+用文本初始化 BarcodeSignOptions 类的新实例。
 
 ```csharp
 public BarcodeSignOptions(string text, BarcodeType encodeType)
@@ -52,7 +52,7 @@ public BarcodeSignOptions(string text, BarcodeType encodeType)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| text | String | 条码文本 |
+| text | String | 条码文字 |
 | encodeType | BarcodeType | 条码编码类型见[`BarcodeType`](../../../groupdocs.signature.domain/barcodetype) |
 
 ### 也可以看看

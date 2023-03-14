@@ -3,7 +3,7 @@ title: SignatureSettings
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Définit les paramètres de personnalisationSignature./signature comportement.
 type: docs
-weight: 1810
+weight: 1890
 url: /fr/net/groupdocs.signature/signaturesettings/
 ---
 ## SignatureSettings class
@@ -18,15 +18,19 @@ public class SignatureSettings
 
 | Nom | La description |
 | --- | --- |
-| [SignatureSettings](signaturesettings)() | Default_Constructor |
+| [SignatureSettings](signaturesettings#constructor)() | Crée une instance SignatureSettings par défaut avec les valeurs par défaut. |
+| [SignatureSettings](signaturesettings#constructor_1)(ILogger) | Crée une instance SignatureSettings par défaut avec l'implémentation de Logger. |
 
 ## Propriétés
 
 | Nom | La description |
 | --- | --- |
 | [DefaultCulture](../../groupdocs.signature/signaturesettings/defaultculture) { get; set; } | Obtient ou définit la culture par défaut à utiliser lors du traitement du document. La valeur par défaut est "en-US". |
-| [SaveDocumentOnEmptyDelete](../../groupdocs.signature/signaturesettings/savedocumentonemptydelete) { get; set; } | Obtient ou définit l'indicateur pour réenregistrer le document source lorsque la méthode de suppression n'a aucune signature affectée à supprimer. Si cet indicateur est défini sur vrai (par défaut), le document sera enregistré avec le journal de processus d'historique correspondant (date et type d'opération) même si la méthode de suppression n'a aucune signature à supprimer. Lorsque cet appartement est défini sur faux, le document source ne sera pas modifié du tout. |
-| [SaveDocumentOnEmptyUpdate](../../groupdocs.signature/signaturesettings/savedocumentonemptyupdate) { get; set; } | Obtient ou définit l'indicateur pour réenregistrer le document source lorsque la méthode de mise à jour n'a pas de signatures à mettre à jour. Si cet indicateur est défini sur vrai (par défaut), le document sera enregistré avec le journal de processus d'historique correspondant (date et type d'opération) même si la méthode de mise à jour a aucune signature à mettre à jour. Lorsque ce plat est défini sur faux, le document source ne sera pas modifié du tout. |
+| [IncludeStandardMetadataSignatures](../../groupdocs.signature/signaturesettings/includestandardmetadatasignatures) { get; set; } | Obtient ou définit l'indicateur pour inclure dans la liste des métadonnées les signatures de métadonnées de document standard intégrées telles que l'auteur, le propriétaire, la date de création du document, la date de modification, etc. Si cet indicateur est défini sur faux (par défaut), GetDocumentInfo n'inclura pas ces métadonnées signatures. Lorsque cet indicateur est défini sur true, les informations sur le document incluront ces signatures de métadonnées standard. |
+| [Logger](../../groupdocs.signature/signaturesettings/logger) { get; } | L'implémentation de l'enregistreur utilisée pour la journalisation (Erreurs, Avertissements, Traces).[`ILogger`](../../groupdocs.signature.logging/ilogger) . |
+| [LogLevel](../../groupdocs.signature/signaturesettings/loglevel) { get; set; } | Le niveau de journalisation pour limiter les messages (Tous, Traces, Avertissements, Erreurs).[`LogLevel`](./loglevel) . PAR défaut, le type de niveau Tout est défini. |
+| [SaveDocumentOnEmptyDelete](../../groupdocs.signature/signaturesettings/savedocumentonemptydelete) { get; set; } | Obtient ou définit l'indicateur pour réenregistrer le document source lorsque la méthode de suppression n'a aucune signature affectée à supprimer. Si cet indicateur est défini sur vrai (par défaut), le document sera enregistré avec le journal de processus d'historique correspondant (date et type d'opération) même si La méthode de suppression n'a aucune signature à supprimer. Lorsque ce plat est défini sur faux, le document source ne sera pas modifié du tout. |
+| [SaveDocumentOnEmptyUpdate](../../groupdocs.signature/signaturesettings/savedocumentonemptyupdate) { get; set; } | Obtient ou définit l'indicateur pour réenregistrer le document source lorsque la méthode de mise à jour n'a pas de signatures à mettre à jour. Si cet indicateur est défini sur vrai (par défaut), le document sera enregistré avec le journal de processus d'historique correspondant (date et type d'opération) même si la mise à jour la méthode n'a pas de signatures à mettre à jour. Lorsque ce plat est défini sur faux, le document source ne sera pas modifié du tout. |
 | [ShowDeletedSignaturesInfo](../../groupdocs.signature/signaturesettings/showdeletedsignaturesinfo) { get; set; } | Obtient ou définit un indicateur qui inclut les signatures supprimées dans le résultat des informations sur le document. Chaque signature[`BaseSignature`](../../groupdocs.signature.domain/basesignature) a le drapeau Supprimé[`Deleted`](../../groupdocs.signature.domain/basesignature/deleted) pour détecter s'il a été supprimé. |
 
 ### Voir également

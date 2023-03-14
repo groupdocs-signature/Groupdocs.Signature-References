@@ -1,14 +1,14 @@
 ---
 title: XLSM
 second_title: GroupDocs.Signature für .NET-API-Referenz
-description: Excel Open XML MacroEnabled Spreadsheet .xlsm ist eine Art von Tabellenkalkulationsdatei die Makros unterstützt. Erfahren Sie mehr über dieses Dateiformathierhttps//wiki.fileformat.com/spreadsheet/xlsm .
+description: Excel Open XML MacroEnabled Spreadsheet .xlsm ist eine Art Tabellenkalkulationsdatei die Makros unterstützt. Erfahren Sie mehr über dieses DateiformatHierhttps//wiki.fileformat.com/spreadsheet/xlsm .
 type: docs
-weight: 530
+weight: 540
 url: /de/net/groupdocs.signature.domain/filetype/xlsm/
 ---
 ## FileType.XLSM field
 
-Excel Open XML Macro-Enabled Spreadsheet (.xlsm) ist eine Art von Tabellenkalkulationsdatei, die Makros unterstützt. Erfahren Sie mehr über dieses Dateiformat[hier](https://wiki.fileformat.com/spreadsheet/xlsm) .
+Excel Open XML Macro-Enabled Spreadsheet (.xlsm) ist eine Art Tabellenkalkulationsdatei, die Makros unterstützt. Erfahren Sie mehr über dieses Dateiformat[Hier](https://wiki.fileformat.com/spreadsheet/xlsm) .
 
 ```csharp
 public static readonly FileType XLSM;

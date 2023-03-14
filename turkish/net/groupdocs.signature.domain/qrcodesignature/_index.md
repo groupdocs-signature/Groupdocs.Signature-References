@@ -3,7 +3,7 @@ title: QrCodeSignature
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: QR kodu imza özelliklerini içerir.
 type: docs
-weight: 760
+weight: 790
 url: /tr/net/groupdocs.signature.domain/qrcodesignature/
 ---
 ## QrCodeSignature class
@@ -24,7 +24,7 @@ public class QrCodeSignature : BaseSignature
 
 | İsim | Tanım |
 | --- | --- |
-| [Content](../../groupdocs.signature.domain/qrcodesignature/content) { get; } | türündeki QR kodu ikili veri görüntü içeriğini belirtir[`Format`](./format) . Varsayılan olarak bu özellik ayarlanmaz. Özelliği kullan[`ReturnContent`](../../groupdocs.signature.options/qrcodesearchoptions/returncontent) bu özelliği etkinleştirmek için. |
+| [Content](../../groupdocs.signature.domain/qrcodesignature/content) { get; } | türündeki QR kodu ikili veri görüntü içeriğini belirtir[`Format`](./format) . Varsayılan olarak bu özellik ayarlanmayacaktır. Özelliği kullan[`ReturnContent`](../../groupdocs.signature.options/qrcodesearchoptions/returncontent) bu özelliği etkinleştirmek için. |
 | [CreatedOn](../../groupdocs.signature.domain/basesignature/createdon) { get; set; } | İmza oluşturma tarihini alın veya ayarlayın. |
 | [Deleted](../../groupdocs.signature.domain/basesignature/deleted) { get; } | Bu imzanın belgeden silinip silinmediğini gösteren bayrağı alın. Bu özellik, silinen imzaların listesini tutmak için yalnızca belge geçmişi günlük kayıtları için kullanılır. |
 | [EncodeType](../../groupdocs.signature.domain/qrcodesignature/encodetype) { get; } | QR kodu Kodlama Türünü belirtir. |

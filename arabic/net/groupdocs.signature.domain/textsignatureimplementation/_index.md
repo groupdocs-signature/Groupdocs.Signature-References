@@ -3,7 +3,7 @@ title: TextSignatureImplementation
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحدد نوع التنفيذ لتوقيع نص PDF .
 type: docs
-weight: 980
+weight: 1010
 url: /ar/net/groupdocs.signature.domain/textsignatureimplementation/
 ---
 ## TextSignatureImplementation enumeration

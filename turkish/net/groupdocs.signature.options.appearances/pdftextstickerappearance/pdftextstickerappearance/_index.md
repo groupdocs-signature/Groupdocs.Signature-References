@@ -1,14 +1,14 @@
 ---
 title: PdfTextStickerAppearance
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: PDF imza metni açıklama görünüm nesnesi oluşturur.
+description: PDF imza metni ek açıklama görünüm nesnesi oluşturur.
 type: docs
 weight: 10
 url: /tr/net/groupdocs.signature.options.appearances/pdftextstickerappearance/pdftextstickerappearance/
 ---
 ## PdfTextStickerAppearance constructor
 
-PDF imza metni açıklama görünüm nesnesi oluşturur.
+PDF imza metni ek açıklama görünüm nesnesi oluşturur.
 
 ```csharp
 public PdfTextStickerAppearance()

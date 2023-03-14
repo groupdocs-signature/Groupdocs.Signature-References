@@ -1,14 +1,14 @@
 ---
 title: HideSignatures
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置从页面预览图像中隐藏签名的标志 只有标记为 IsSignature 的签名才会从生成的文档页面图像中隐藏
+description: 获取或设置标志以从页面预览图像中隐藏签名 只有签名被标记为 IsSignature 才会从生成的文档页面图像中隐藏
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.options/previewoptions/hidesignatures/
 ---
 ## PreviewOptions.HideSignatures property
 
-获取或设置从页面预览图像中隐藏签名的标志。 只有标记为 IsSignature 的签名才会从生成的文档页面图像中隐藏。
+获取或设置标志以从页面预览图像中隐藏签名。 只有签名被标记为 IsSignature 才会从生成的文档页面图像中隐藏。
 
 ```csharp
 public bool HideSignatures { get; set; }

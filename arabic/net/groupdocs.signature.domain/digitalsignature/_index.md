@@ -3,7 +3,7 @@ title: DigitalSignature
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحتوي على خصائص التوقيع الرقمي .
 type: docs
-weight: 140
+weight: 150
 url: /ar/net/groupdocs.signature.domain/digitalsignature/
 ---
 ## DigitalSignature class

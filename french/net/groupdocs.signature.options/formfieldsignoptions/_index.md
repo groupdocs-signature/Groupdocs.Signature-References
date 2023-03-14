@@ -3,7 +3,7 @@ title: FormFieldSignOptions
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Représente la classe des options de signature FormField pour les documents PDF.
 type: docs
-weight: 1300
+weight: 1380
 url: /fr/net/groupdocs.signature.options/formfieldsignoptions/
 ---
 ## FormFieldSignOptions class

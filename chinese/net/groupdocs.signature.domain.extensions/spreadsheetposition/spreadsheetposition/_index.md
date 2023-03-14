@@ -16,8 +16,8 @@ public SpreadsheetPosition(int row, int column)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| row | Int32 | 行位置 |
-| column | Int32 | 立柱位置 |
+| row | Int32 | 排位 |
+| column | Int32 | 列位置 |
 
 ### 也可以看看
 

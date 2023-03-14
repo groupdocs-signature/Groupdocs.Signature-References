@@ -1,14 +1,14 @@
 ---
 title: Distance
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置文本到阴影的距离 默认值为 1
+description: 获取或设置从文本到阴影的距离 默认值为 1.
 type: docs
 weight: 50
 url: /zh/net/groupdocs.signature.domain.extensions/textshadow/distance/
 ---
 ## TextShadow.Distance property
 
-获取或设置文本到阴影的距离。 默认值为 1。
+获取或设置从文本到阴影的距离。 默认值为 1.
 
 ```csharp
 public double Distance { get; set; }

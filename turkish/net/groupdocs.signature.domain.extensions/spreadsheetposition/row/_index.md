@@ -1,14 +1,14 @@
 ---
 title: Row
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: İmzanın üst satır numarasını alır veya ayarlar min değeri 0dır.
+description: İmzanın en üst sıra numarasını alır veya ayarlar minimum değer 0dır.
 type: docs
 weight: 30
 url: /tr/net/groupdocs.signature.domain.extensions/spreadsheetposition/row/
 ---
 ## SpreadsheetPosition.Row property
 
-İmzanın üst satır numarasını alır veya ayarlar (min değeri 0'dır).
+İmzanın en üst sıra numarasını alır veya ayarlar (minimum değer 0'dır).
 
 ```csharp
 public int Row { get; set; }

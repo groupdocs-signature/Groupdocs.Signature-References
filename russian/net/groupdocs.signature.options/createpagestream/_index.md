@@ -3,7 +3,7 @@ title: CreatePageStream
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Делегат определяющий метод создания потока предварительного просмотра выходной страницы.
 type: docs
-weight: 1230
+weight: 1310
 url: /ru/net/groupdocs.signature.options/createpagestream/
 ---
 ## CreatePageStream delegate

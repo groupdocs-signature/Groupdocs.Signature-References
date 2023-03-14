@@ -3,7 +3,7 @@ title: Succeeded
 second_title: GroupDocs.Signature for .NET API 参考
 description: 成功处理的签名列表BaseSignaturegroupdocs.signature.domain/basesignature.
 type: docs
-weight: 20
+weight: 50
 url: /zh/net/groupdocs.signature.domain/iresult/succeeded/
 ---
 ## IResult.Succeeded property

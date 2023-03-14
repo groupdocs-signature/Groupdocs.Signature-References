@@ -3,7 +3,7 @@ title: SpreadsheetSaveFileFormat
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Définit différents formats denregistrement pour les documents de feuille de calcul.
 type: docs
-weight: 850
+weight: 880
 url: /fr/net/groupdocs.signature.domain/spreadsheetsavefileformat/
 ---
 ## SpreadsheetSaveFileFormat enumeration

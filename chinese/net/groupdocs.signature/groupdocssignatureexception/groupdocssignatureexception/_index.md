@@ -1,14 +1,14 @@
 ---
 title: GroupDocsSignatureException
 second_title: GroupDocs.Signature for .NET API 参考
-description: 初始化GroupDocsSignatureExceptiongroupdocs.signature/groupdocssignatureexception类.
+description: 初始化一个新的实例GroupDocsSignatureExceptiongroupdocs.signature/groupdocssignatureexception类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature/groupdocssignatureexception/groupdocssignatureexception/
 ---
 ## GroupDocsSignatureException() {#constructor}
 
-初始化[`GroupDocsSignatureException`](../../groupdocssignatureexception)类.
+初始化一个新的实例[`GroupDocsSignatureException`](../../groupdocssignatureexception)类.
 
 ```csharp
 public GroupDocsSignatureException()
@@ -24,7 +24,7 @@ public GroupDocsSignatureException()
 
 ## GroupDocsSignatureException(string) {#constructor_2}
 
-初始化[`GroupDocsSignatureException`](../../groupdocssignatureexception)具有指定错误消息的类。
+初始化一个新的实例[`GroupDocsSignatureException`](../../groupdocssignatureexception)带有指定错误消息的类。
 
 ```csharp
 public GroupDocsSignatureException(string message)
@@ -44,7 +44,7 @@ public GroupDocsSignatureException(string message)
 
 ## GroupDocsSignatureException(Exception, string) {#constructor_1}
 
-初始化[`GroupDocsSignatureException`](../../groupdocssignatureexception)具有指定错误消息和原始异常的类。
+初始化一个新的实例[`GroupDocsSignatureException`](../../groupdocssignatureexception)具有指定错误消息和原始异常的类。
 
 ```csharp
 public GroupDocsSignatureException(Exception ex, string message)

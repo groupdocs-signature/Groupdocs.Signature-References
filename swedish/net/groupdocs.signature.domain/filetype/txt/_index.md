@@ -3,7 +3,7 @@ title: TXT
 second_title: GroupDocs.Signature för .NET API-referens
 description: Vanlig textfil .txt representerar ett textdokument som innehåller ren text i form av rader. Läs mer om detta filformathärhttps//wiki.fileformat.com/wordprocessing/txt .
 type: docs
-weight: 450
+weight: 460
 url: /sv/net/groupdocs.signature.domain/filetype/txt/
 ---
 ## FileType.TXT field

@@ -3,7 +3,7 @@ title: BarcodeSearchOptions
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Barkod imzaları için arama seçeneklerini temsil eder.
 type: docs
-weight: 1180
+weight: 1250
 url: /tr/net/groupdocs.signature.options/barcodesearchoptions/
 ---
 ## BarcodeSearchOptions class
@@ -40,8 +40,8 @@ public class BarcodeSearchOptions : SearchOptions
 
 **Daha fazla bilgi edin**
 
-* GroupDocs tarafından Barkod elektronik imza aramasının temel kullanımı.İmza: [ Bir belgede Barkod imzalarında e-Arama nasıl yapılır](https://docs.groupdocs.com/display/signaturenet/Search+for+Barcode+e-signatures)
-* GroupDocs ile Barkod elektronik imza arama ayarlarının gelişmiş kullanımı.İmza: [Bir belgede eSearch Barkod imzalarının gelişmiş kullanımı ve ek ayarlar](https://docs.groupdocs.com/display/signaturenet/Advanced+search+for+Barcode+signatures)
+* GroupDocs tarafından Barkod elektronik imza aramanın temel kullanımı. İmza: [ Bir belgedeki Barkod imzalarını e-Arama](https://docs.groupdocs.com/display/signaturenet/Search+for+Barcode+e-signatures)
+* GroupDocs.Signature ile Barkod elektronik imza arama ayarlarının gelişmiş kullanımı: [Bir belgede eSearch Barkod imzalarının gelişmiş kullanımı ve ek ayarlar](https://docs.groupdocs.com/display/signaturenet/Advanced+search+for+Barcode+signatures)
 
 ### Ayrıca bakınız
 

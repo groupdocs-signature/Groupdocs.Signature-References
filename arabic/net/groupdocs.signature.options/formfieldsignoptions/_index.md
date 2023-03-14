@@ -3,7 +3,7 @@ title: FormFieldSignOptions
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل فئة خيارات توقيع FormField لمستندات Pdf.
 type: docs
-weight: 1300
+weight: 1380
 url: /ar/net/groupdocs.signature.options/formfieldsignoptions/
 ---
 ## FormFieldSignOptions class
@@ -41,11 +41,11 @@ public sealed class FormFieldSignOptions : TextSignOptions
 | virtual [LocationMeasureType](../../groupdocs.signature.options/textsignoptions/locationmeasuretype) { get; set; } | نوع القياس (وحدات البكسل أو النسب المئوية أو المليمترات) للخصائص اليسرى والعلوية . |
 | virtual [Margin](../../groupdocs.signature.options/textsignoptions/margin) { get; set; } | الحصول على المسافة بين حواف التوقيع والمستند أو تعيينها. (يعمل فقط في حالة تحديد المحاذاة الأفقية أو الرأسية) . |
 | virtual [MarginMeasureType](../../groupdocs.signature.options/textsignoptions/marginmeasuretype) { get; set; } | الحصول على نوع المقياس أو تحديده (بكسل أو نسبة مئوية أو ملليمتر) للهامش. |
-| [Native](../../groupdocs.signature.options/textsignoptions/native) { get; set; } | الحصول على أو تعيين السمة الأصلية. إذا تم تعيينه ، يمكن استخدام توقيعات محددة للمستند. |
+| [Native](../../groupdocs.signature.options/textsignoptions/native) { get; set; } | الحصول على أو تعيين السمة الأصلية. إذا تم تعيينه ، فيمكن استخدام توقيعات محددة للمستند. |
 | virtual [PageNumber](../../groupdocs.signature.options/signoptions/pagenumber) { get; set; } | الحصول على رقم صفحة المستند أو تعيينه للتوقيع. القيمة الدنيا والافتراضية هي 1. |
 | virtual [PagesSetup](../../groupdocs.signature.options/signoptions/pagessetup) { get; set; } | خيارات لتحديد الصفحات المراد توقيعها. |
 | [RotationAngle](../../groupdocs.signature.options/textsignoptions/rotationangle) { get; set; } | زاوية دوران التوقيع على صفحة المستند (باتجاه عقارب الساعة). |
-| [ShapeType](../../groupdocs.signature.options/textsignoptions/shapetype) { get; set; } | الحصول على نوع الشكل لوضع النص أو تعيينه. يمكن استخدام هذه الخاصية فقط مع SignatureImplementation = TextStamp. القيمة الافتراضية هي المستطيل . |
+| [ShapeType](../../groupdocs.signature.options/textsignoptions/shapetype) { get; set; } | الحصول على نوع الشكل لوضع نص أو تعيينه. يمكن استخدام هذه الخاصية فقط مع SignatureImplementation = TextStamp. القيمة الافتراضية هي المستطيل . |
 | [Signature](../../groupdocs.signature.options/formfieldsignoptions/signature) { get; set; } | الحصول على حقل نموذج التوقيع أو تعيينه. |
 | [SignatureID](../../groupdocs.signature.options/textsignoptions/signatureid) { get; set; } | الحصول على أو تعيين المعرف الفريد للتوقيع. يمكن استخدامه في خيارات التحقق من التوقيع. الخاصية مدعومة لمستندات Pdf فقط. |
 | [SignatureImplementation](../../groupdocs.signature.options/textsignoptions/signatureimplementation) { get; set; } | الحصول على أو تحديد نوع تنفيذ توقيع النص. |

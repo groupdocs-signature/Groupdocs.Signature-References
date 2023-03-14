@@ -1,14 +1,14 @@
 ---
 title: Text
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Specifica il testo della firma del codice QR se deve essere cercato e confrontato.
+description: Specifica il testo della firma del codice QR se deve essere cercato e abbinato.
 type: docs
 weight: 70
 url: /it/net/groupdocs.signature.options/qrcodesearchoptions/text/
 ---
 ## QrCodeSearchOptions.Text property
 
-Specifica il testo della firma del codice QR se deve essere cercato e confrontato.
+Specifica il testo della firma del codice QR se deve essere cercato e abbinato.
 
 ```csharp
 public string Text { get; set; }

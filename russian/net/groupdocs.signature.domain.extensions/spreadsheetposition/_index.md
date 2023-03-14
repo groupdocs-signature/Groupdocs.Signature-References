@@ -3,7 +3,7 @@ title: SpreadsheetPosition
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Определяет положение подписи для электронных таблиц.
 type: docs
-weight: 340
+weight: 360
 url: /ru/net/groupdocs.signature.domain.extensions/spreadsheetposition/
 ---
 ## SpreadsheetPosition class

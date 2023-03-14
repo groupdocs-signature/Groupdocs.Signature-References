@@ -1,14 +1,14 @@
 ---
 title: ZIP
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: ZIP adresini alır veya ayarlar.
+description: ZIP. adresini alır veya ayarlar
 type: docs
 weight: 60
 url: /tr/net/groupdocs.signature.domain.extensions/address/zip/
 ---
 ## Address.ZIP property
 
-ZIP adresini alır veya ayarlar.
+ZIP. adresini alır veya ayarlar
 
 ```csharp
 public string ZIP { get; set; }

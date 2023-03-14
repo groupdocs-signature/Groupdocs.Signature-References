@@ -3,7 +3,7 @@ title: Extension
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Sufijo de nombre de archivo incluido el punto . por ejemplo .doc.
 type: docs
-weight: 580
+weight: 590
 url: /es/net/groupdocs.signature.domain/filetype/extension/
 ---
 ## FileType.Extension property

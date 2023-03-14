@@ -1,14 +1,14 @@
 ---
 title: Password
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置密码以打开受保护的文档 它还将用于将签名的文档另存为受保护的
+description: 获取或设置密码以打开受保护的文档 它还将用于将已签名的文档保存为受保护的
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.options/loadoptions/password/
 ---
 ## LoadOptions.Password property
 
-获取或设置密码以打开受保护的文档。 它还将用于将签名的文档另存为受保护的。
+获取或设置密码以打开受保护的文档。 它还将用于将已签名的文档保存为受保护的。
 
 ```csharp
 public string Password { get; set; }

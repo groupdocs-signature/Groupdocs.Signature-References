@@ -1,14 +1,14 @@
 ---
 title: PageNumbers
 second_title: GroupDocs.Signature for .NET API 参考
-description: 设置要使用的任意文档页面
+description: 设置要使用的文档的任意页面
 type: docs
 weight: 60
 url: /zh/net/groupdocs.signature.options/pagessetup/pagenumbers/
 ---
 ## PagesSetup.PageNumbers property
 
-设置要使用的任意文档页面。
+设置要使用的文档的任意页面。
 
 ```csharp
 public List<int> PageNumbers { get; set; }

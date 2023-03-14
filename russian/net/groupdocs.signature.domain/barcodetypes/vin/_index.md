@@ -3,7 +3,7 @@ title: VIN
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Объект типа штрихкода VIN.
 type: docs
-weight: 630
+weight: 660
 url: /ru/net/groupdocs.signature.domain/barcodetypes/vin/
 ---
 ## BarcodeTypes.VIN field

@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: GroupDocs.Signature for .NET API 参考
-description: 文档页面上签名的高度以测量值 像素百分比或毫米见MeasureTypegroupdocs.signature.domain/measuretypeSizeMeasureType 属性.
+description: 签名在文档页面上的高度以测量值 像素百分比或毫米见MeasureTypegroupdocs.signature.domain/measuretypeSizeMeasureType 属性.
 type: docs
 weight: 80
 url: /zh/net/groupdocs.signature.options/textsignoptions/height/
 ---
 ## TextSignOptions.Height property
 
-文档页面上签名的高度，以测量值 （像素、百分比或毫米见[`MeasureType`](../../../groupdocs.signature.domain/measuretype)SizeMeasureType 属性).
+签名在文档页面上的高度，以测量值 （像素、百分比或毫米见[`MeasureType`](../../../groupdocs.signature.domain/measuretype)SizeMeasureType 属性).
 
 ```csharp
 public int Height { get; set; }

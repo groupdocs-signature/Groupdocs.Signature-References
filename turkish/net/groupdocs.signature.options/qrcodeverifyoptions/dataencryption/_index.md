@@ -1,14 +1,14 @@
 ---
 title: DataEncryption
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Şunun uygulanmasını alır veya ayarlarIDataEncryptiongroupdocs.signature.domain.extensions/idataencryptionQR Kodu İmza Metni özelliklerini kodlamak ve kodunu çözmek için arayüz.
+description: Şunun uygulanmasını alır veya ayarlarIDataEncryptiongroupdocs.signature.domain.extensions/idataencryption QR Kodu İmza Metni özelliklerini kodlamak ve kodunu çözmek için arayüz.
 type: docs
 weight: 20
 url: /tr/net/groupdocs.signature.options/qrcodeverifyoptions/dataencryption/
 ---
 ## QrCodeVerifyOptions.DataEncryption property
 
-Şunun uygulanmasını alır veya ayarlar:[`IDataEncryption`](../../../groupdocs.signature.domain.extensions/idataencryption)QR Kodu İmza Metni özelliklerini kodlamak ve kodunu çözmek için arayüz.
+Şunun uygulanmasını alır veya ayarlar:[`IDataEncryption`](../../../groupdocs.signature.domain.extensions/idataencryption) QR Kodu İmza Metni özelliklerini kodlamak ve kodunu çözmek için arayüz.
 
 ```csharp
 public IDataEncryption DataEncryption { get; set; }

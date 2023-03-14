@@ -3,7 +3,7 @@ title: ProcessLogs
 second_title: GroupDocs.Signature för .NET API-referens
 description: Samling av dokumenthistorikprocesser som Sign Update Delete.
 type: docs
-weight: 110
+weight: 120
 url: /sv/net/groupdocs.signature.domain/documentinfo/processlogs/
 ---
 ## DocumentInfo.ProcessLogs property

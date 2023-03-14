@@ -1,14 +1,14 @@
 ---
 title: BitsPerChannel
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Ottiene o imposta i bit per canale per limmagine JPEG senza perdita di dati. Ora supportiamo da 2 a 8 bit per canale.
+description: Ottiene o imposta i bit per canale per limmagine jpeg senza perdita di dati. Ora supportiamo da 2 a 8 bit per canale.
 type: docs
 weight: 20
 url: /it/net/groupdocs.signature.options/jpegsaveoptions/bitsperchannel/
 ---
 ## JpegSaveOptions.BitsPerChannel property
 
-Ottiene o imposta i bit per canale per l'immagine JPEG senza perdita di dati. Ora supportiamo da 2 a 8 bit per canale.
+Ottiene o imposta i bit per canale per l'immagine jpeg senza perdita di dati. Ora supportiamo da 2 a 8 bit per canale.
 
 ```csharp
 public byte BitsPerChannel { get; set; }

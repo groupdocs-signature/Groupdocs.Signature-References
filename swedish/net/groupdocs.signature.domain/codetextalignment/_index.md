@@ -3,7 +3,7 @@ title: CodeTextAlignment
 second_title: GroupDocs.Signature för .NET API-referens
 description: Justering av kodtext för streckkoder och QRkoder.
 type: docs
-weight: 80
+weight: 90
 url: /sv/net/groupdocs.signature.domain/codetextalignment/
 ---
 ## CodeTextAlignment enumeration

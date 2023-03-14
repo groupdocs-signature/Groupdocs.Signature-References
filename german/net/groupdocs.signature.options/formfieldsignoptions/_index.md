@@ -3,7 +3,7 @@ title: FormFieldSignOptions
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Repräsentiert die Klasse der FormFieldSignaturoptionen für PDFDokumente.
 type: docs
-weight: 1300
+weight: 1380
 url: /de/net/groupdocs.signature.options/formfieldsignoptions/
 ---
 ## FormFieldSignOptions class
@@ -36,7 +36,7 @@ public sealed class FormFieldSignOptions : TextSignOptions
 | [FormTextFieldTitle](../../groupdocs.signature.options/textsignoptions/formtextfieldtitle) { get; set; } | Ruft den Titel des Textformularfelds ab oder legt ihn fest, um eine Textsignatur darin einzufügen. Diese Eigenschaft kann nur mit SignatureImplementation = TextToFormField verwendet werden. |
 | [FormTextFieldType](../../groupdocs.signature.options/textsignoptions/formtextfieldtype) { get; set; } | Ruft den Typ des Formularfelds ab oder legt ihn fest, um eine Textsignatur darin einzufügen. Diese Eigenschaft kann nur mit SignatureImplementation = TextToFormField verwendet werden. Der Standardwert ist AllTextTypes. |
 | [Height](../../groupdocs.signature.options/textsignoptions/height) { get; set; } | Höhe der Unterschrift auf Dokumentseite in Messwerte (Pixel, Prozent oder Millimeter s[`MeasureType`](../../groupdocs.signature.domain/measuretype) SizeMeasureType-Eigenschaft). |
-| [HorizontalAlignment](../../groupdocs.signature.options/textsignoptions/horizontalalignment) { get; set; } | Horizontale Ausrichtung der Signatur auf der Dokumentenseite. |
+| [HorizontalAlignment](../../groupdocs.signature.options/textsignoptions/horizontalalignment) { get; set; } | Horizontale Ausrichtung der Signatur auf der Dokumentseite. |
 | [Left](../../groupdocs.signature.options/textsignoptions/left) { get; set; } | Linke X-Position der Signatur auf Dokumentseite in Messwerte (Pixel, Prozent oder Millimeter siehe[`MeasureType`](../../groupdocs.signature.domain/measuretype) LocationMeasureType-Eigenschaft). (funktioniert, wenn keine horizontale Ausrichtung angegeben ist). |
 | virtual [LocationMeasureType](../../groupdocs.signature.options/textsignoptions/locationmeasuretype) { get; set; } | Maßtyp (Pixel, Prozent oder Millimeter) für Left- und Top-Eigenschaften. |
 | virtual [Margin](../../groupdocs.signature.options/textsignoptions/margin) { get; set; } | Ruft den Abstand zwischen Zeichen- und Dokumentkanten ab oder legt ihn fest. (funktioniert NUR, wenn horizontale oder vertikale Ausrichtung angegeben ist). |
@@ -63,7 +63,7 @@ public sealed class FormFieldSignOptions : TextSignOptions
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Grundlegende Verwendung zum Erstellen einer elektronischen FormField-Signatur durch GroupDocs.Signature: [So signieren Sie ein Dokument mit einer FormField-Signatur](https://docs.groupdocs.com/display/signaturenet/eSign+document+with+Form+Field+signature)
 * Erweiterte Nutzung der Einstellungen der elektronischen Signatur FormField mit GroupDocs.Signature: [Erweiterte Nutzung zum eSignieren von Dokumenten mit FormField-Signatur und zusätzlichen Einstellungen](https://docs.groupdocs.com/display/signaturenet/Sign+document+with+Form+Field+signature+-+advanced)

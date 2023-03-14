@@ -1,14 +1,14 @@
 ---
 title: SignOptions
 second_title: GroupDocs.Signature for .NET API 参考
-description: 生成预览的签名选项
+description: 生成预览的签名选项.
 type: docs
 weight: 40
 url: /zh/net/groupdocs.signature.options/previewsignatureoptions/signoptions/
 ---
 ## PreviewSignatureOptions.SignOptions property
 
-生成预览的签名选项。
+生成预览的签名选项.
 
 ```csharp
 public SignOptions SignOptions { get; set; }

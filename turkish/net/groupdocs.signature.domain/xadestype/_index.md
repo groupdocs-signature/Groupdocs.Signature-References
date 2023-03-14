@@ -3,7 +3,7 @@ title: XAdESType
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: XML Gelişmiş Elektronik İmza Türü XAdES.
 type: docs
-weight: 1070
+weight: 1100
 url: /tr/net/groupdocs.signature.domain/xadestype/
 ---
 ## XAdESType enumeration

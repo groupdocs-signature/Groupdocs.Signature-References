@@ -3,7 +3,7 @@ title: WEBP
 second_title: GroupDocs.Signature för .NET API-referens
 description: WebP Image .webp är ett modernt rasterwebbbildfilformat som är baserat på förlustfri och förlustfri komprimering. Den ger samma bildkvalitet samtidigt som den minskar bildstorleken avsevärt. Läs mer om detta filformathärhttps//wiki.fileformat.com/image/webp .
 type: docs
-weight: 480
+weight: 490
 url: /sv/net/groupdocs.signature.domain/filetype/webp/
 ---
 ## FileType.WEBP field

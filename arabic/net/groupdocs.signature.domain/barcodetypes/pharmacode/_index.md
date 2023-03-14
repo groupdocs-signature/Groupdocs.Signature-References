@@ -3,7 +3,7 @@ title: Pharmacode
 second_title: GroupDocs.Signature لمرجع .NET API
 description: Pharma code Barcode Type object .
 type: docs
-weight: 490
+weight: 520
 url: /ar/net/groupdocs.signature.domain/barcodetypes/pharmacode/
 ---
 ## BarcodeTypes.Pharmacode field

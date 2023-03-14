@@ -3,7 +3,7 @@ title: Standard2of5
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Объект Standard2of5 Тип штрихкода.
 type: docs
-weight: 570
+weight: 600
 url: /ru/net/groupdocs.signature.domain/barcodetypes/standard2of5/
 ---
 ## BarcodeTypes.Standard2of5 field

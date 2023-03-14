@@ -1,14 +1,14 @@
 ---
 title: Producer
 second_title: GroupDocs.Signature for .NET API 参考
-description: Pdf Document Producer 元数据属性
+description: Pdf 文档制作者元数据属性
 type: docs
 weight: 100
 url: /zh/net/groupdocs.signature.domain/pdfmetadatasignatures/producer/
 ---
 ## PdfMetadataSignatures.Producer property
 
-Pdf Document Producer 元数据属性。
+Pdf 文档制作者元数据属性。
 
 ```csharp
 public static PdfMetadataSignature Producer { get; }

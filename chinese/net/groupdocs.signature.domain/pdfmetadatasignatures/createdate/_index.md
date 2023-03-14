@@ -1,14 +1,14 @@
 ---
 title: CreateDate
 second_title: GroupDocs.Signature for .NET API 参考
-description: Pdf 文档创建日期元数据签名
+description: Pdf 文档创建日期元数据签名.
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.domain/pdfmetadatasignatures/createdate/
 ---
 ## PdfMetadataSignatures.CreateDate property
 
-Pdf 文档创建日期元数据签名。
+Pdf 文档创建日期元数据签名.
 
 ```csharp
 public static PdfMetadataSignature CreateDate { get; }

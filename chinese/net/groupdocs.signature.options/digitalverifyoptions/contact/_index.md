@@ -1,14 +1,14 @@
 ---
 title: Contact
 second_title: GroupDocs.Signature for .NET API 参考
-description: 要验证的签名联系人
+description: 签名联系验证.
 type: docs
 weight: 60
 url: /zh/net/groupdocs.signature.options/digitalverifyoptions/contact/
 ---
 ## DigitalVerifyOptions.Contact property
 
-要验证的签名联系人。
+签名联系验证.
 
 ```csharp
 public string Contact { get; set; }

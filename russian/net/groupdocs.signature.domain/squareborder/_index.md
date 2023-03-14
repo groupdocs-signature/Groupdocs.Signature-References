@@ -3,7 +3,7 @@ title: SquareBorder
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Экземпляр для сохранения свойств линии границы для линии квадратного штампа.
 type: docs
-weight: 860
+weight: 890
 url: /ru/net/groupdocs.signature.domain/squareborder/
 ---
 ## SquareBorder class

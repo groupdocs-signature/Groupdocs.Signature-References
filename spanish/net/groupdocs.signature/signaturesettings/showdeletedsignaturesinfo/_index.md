@@ -3,7 +3,7 @@ title: ShowDeletedSignaturesInfo
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Obtiene o establece un indicador que incluye las firmas eliminadas en el resultado de información del documento. Cada firmaBaseSignaturegroupdocs.signature.domain/basesignature ha eliminado la banderaDeletedgroupdocs.signature.domain/basesignature/deleted para detectar si fue borrado.
 type: docs
-weight: 50
+weight: 80
 url: /es/net/groupdocs.signature/signaturesettings/showdeletedsignaturesinfo/
 ---
 ## SignatureSettings.ShowDeletedSignaturesInfo property

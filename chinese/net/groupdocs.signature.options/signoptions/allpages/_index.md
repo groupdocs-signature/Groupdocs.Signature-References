@@ -1,14 +1,14 @@
 ---
 title: AllPages
 second_title: GroupDocs.Signature for .NET API 参考
-description: 在所有文档页面上签名
+description: 在所有文件页上签名
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.options/signoptions/allpages/
 ---
 ## SignOptions.AllPages property
 
-在所有文档页面上签名。
+在所有文件页上签名。
 
 ```csharp
 public virtual bool AllPages { get; set; }

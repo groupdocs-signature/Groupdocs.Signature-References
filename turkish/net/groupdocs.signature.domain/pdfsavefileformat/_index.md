@@ -1,14 +1,14 @@
 ---
 title: PdfSaveFileFormat
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Farklı kaydetme dosyası biçimlerini tanımlar.
+description: Farklı kaydetme dosyası formatlarını tanımlar.
 type: docs
-weight: 670
+weight: 700
 url: /tr/net/groupdocs.signature.domain/pdfsavefileformat/
 ---
 ## PdfSaveFileFormat enumeration
 
-Farklı kaydetme dosyası biçimlerini tanımlar.
+Farklı kaydetme dosyası formatlarını tanımlar.
 
 ```csharp
 public enum PdfSaveFileFormat
@@ -18,7 +18,7 @@ public enum PdfSaveFileFormat
 
 | İsim | Değer | Tanım |
 | --- | --- | --- |
-| Default | `0` | Dosya Formatı değiştirilmeyecektir. |
+| Default | `0` | Dosya Biçimi değiştirilmeyecek. |
 | Pdf | `1` | Belgeyi Pdf (Adobe Portable Document) Formatında kaydeder. |
 | Doc | `2` | Belgeyi Microsoft Word 97-2007 Belge Biçiminde kaydeder. |
 | Xps | `3` | Belgeyi XPS (XML Kağıt Belirtimi) Formatında kaydeder. |

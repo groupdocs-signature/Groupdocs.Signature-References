@@ -1,14 +1,14 @@
 ---
 title: Data
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置要序列化为二维码内容的自定义对象
+description: 获取或设置自定义对象以序列化为二维码内容
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.options/qrcodesignoptions/data/
 ---
 ## QrCodeSignOptions.Data property
 
-获取或设置要序列化为二维码内容的自定义对象。
+获取或设置自定义对象以序列化为二维码内容。
 
 ```csharp
 public object Data { get; set; }

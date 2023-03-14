@@ -3,7 +3,7 @@ title: TXT
 second_title: GroupDocs.Signature لمرجع .NET API
 description: ملف نصي عادي .txt يمثل مستندًا نصيًا يحتوي على نص عادي في شكل أسطر. تعرف على المزيد حول تنسيق الملف هذاهناhttps//wiki.fileformat.com/wordprocessing/txt .
 type: docs
-weight: 450
+weight: 460
 url: /ar/net/groupdocs.signature.domain/filetype/txt/
 ---
 ## FileType.TXT field

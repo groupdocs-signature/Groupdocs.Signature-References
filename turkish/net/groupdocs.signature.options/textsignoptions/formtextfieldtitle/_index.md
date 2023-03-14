@@ -1,14 +1,14 @@
 ---
 title: FormTextFieldTitle
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Metin imzası koymak için metin formu alanının başlığını alır veya ayarlar. Bu özellik yalnızca SignatureImplementation  TextToFormField. ile kullanılabilir
+description: İçine metin imzası koymak için metin formu alanının başlığını alır veya ayarlar. Bu özellik yalnızca SignatureImplementation  TextToFormField. ile kullanılabilir
 type: docs
 weight: 60
 url: /tr/net/groupdocs.signature.options/textsignoptions/formtextfieldtitle/
 ---
 ## TextSignOptions.FormTextFieldTitle property
 
-Metin imzası koymak için metin formu alanının başlığını alır veya ayarlar. Bu özellik yalnızca SignatureImplementation = TextToFormField. ile kullanılabilir
+İçine metin imzası koymak için metin formu alanının başlığını alır veya ayarlar. Bu özellik yalnızca SignatureImplementation = TextToFormField. ile kullanılabilir
 
 ```csharp
 public string FormTextFieldTitle { get; set; }

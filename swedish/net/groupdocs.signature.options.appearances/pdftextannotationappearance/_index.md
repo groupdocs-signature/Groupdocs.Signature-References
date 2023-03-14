@@ -3,7 +3,7 @@ title: PdfTextAnnotationAppearance
 second_title: GroupDocs.Signature för .NET API-referens
 description: Beskriver utseendet på PDFtextanteckningsobjekt Titel Ämne Innehåll.
 type: docs
-weight: 1150
+weight: 1220
 url: /sv/net/groupdocs.signature.options.appearances/pdftextannotationappearance/
 ---
 ## PdfTextAnnotationAppearance class

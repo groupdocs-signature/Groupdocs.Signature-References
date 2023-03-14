@@ -3,7 +3,7 @@ title: ImageSaveFileFormat
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Définit différents formats de fichier de sauvegarde.
 type: docs
-weight: 560
+weight: 580
 url: /fr/net/groupdocs.signature.domain/imagesavefileformat/
 ---
 ## ImageSaveFileFormat enumeration

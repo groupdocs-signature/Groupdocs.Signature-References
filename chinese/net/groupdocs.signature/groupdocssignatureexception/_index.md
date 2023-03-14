@@ -1,14 +1,14 @@
 ---
 title: GroupDocsSignatureException
 second_title: GroupDocs.Signature for .NET API 参考
-description: 表示文档处理期间发生的一般错误
+description: 表示文档处理过程中发生的一般错误
 type: docs
-weight: 1080
+weight: 1110
 url: /zh/net/groupdocs.signature/groupdocssignatureexception/
 ---
 ## GroupDocsSignatureException class
 
-表示文档处理期间发生的一般错误。
+表示文档处理过程中发生的一般错误。
 
 ```csharp
 public class GroupDocsSignatureException : Exception
@@ -18,9 +18,9 @@ public class GroupDocsSignatureException : Exception
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GroupDocsSignatureException](groupdocssignatureexception#constructor)() | 初始化[`GroupDocsSignatureException`](../groupdocssignatureexception)类. |
-| [GroupDocsSignatureException](groupdocssignatureexception#constructor_2)(string) | 初始化[`GroupDocsSignatureException`](../groupdocssignatureexception)具有指定错误消息的类。 |
-| [GroupDocsSignatureException](groupdocssignatureexception#constructor_1)(Exception, string) | 初始化[`GroupDocsSignatureException`](../groupdocssignatureexception)具有指定错误消息和原始异常的类。 |
+| [GroupDocsSignatureException](groupdocssignatureexception#constructor)() | 初始化一个新的实例[`GroupDocsSignatureException`](../groupdocssignatureexception)类. |
+| [GroupDocsSignatureException](groupdocssignatureexception#constructor_2)(string) | 初始化一个新的实例[`GroupDocsSignatureException`](../groupdocssignatureexception)带有指定错误消息的类。 |
+| [GroupDocsSignatureException](groupdocssignatureexception#constructor_1)(Exception, string) | 初始化一个新的实例[`GroupDocsSignatureException`](../groupdocssignatureexception)具有指定错误消息和原始异常的类。 |
 
 ## 方法
 

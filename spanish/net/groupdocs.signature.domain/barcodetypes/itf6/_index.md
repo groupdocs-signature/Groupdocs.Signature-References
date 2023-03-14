@@ -3,7 +3,7 @@ title: ITF6
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Objeto de tipo de código de barras ITF6.
 type: docs
-weight: 380
+weight: 410
 url: /es/net/groupdocs.signature.domain/barcodetypes/itf6/
 ---
 ## BarcodeTypes.ITF6 field

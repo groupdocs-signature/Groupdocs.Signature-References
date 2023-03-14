@@ -1,14 +1,14 @@
 ---
 title: GetData
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Ottieni oggetto da QRCode Firma Testo su deserializzazione.
+description: Ottieni oggetto dal testo della firma del codice QR tramite deserializzazione.
 type: docs
 weight: 80
 url: /it/net/groupdocs.signature.domain/qrcodesignature/getdata/
 ---
 ## GetData&lt;T&gt;() {#getdata}
 
-Ottieni oggetto da QR-Code Firma Testo su deserializzazione.
+Ottieni oggetto dal testo della firma del codice QR tramite deserializzazione.
 
 ```csharp
 public T GetData<T>()
@@ -29,7 +29,7 @@ public T GetData<T>()
 
 ## GetData&lt;T&gt;(IDataEncryption) {#getdata_1}
 
-Ottieni oggetto da QR-Code Firma Testo su deserializzazione.
+Ottieni oggetto dal testo della firma del codice QR tramite deserializzazione.
 
 ```csharp
 public T GetData<T>(IDataEncryption dataEncryption)

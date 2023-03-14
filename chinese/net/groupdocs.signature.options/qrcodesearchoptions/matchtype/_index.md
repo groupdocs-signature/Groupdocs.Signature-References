@@ -1,14 +1,14 @@
 ---
 title: MatchType
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置二维码文本匹配类型搜索仅在设置 Text 属性时使用
+description: 获取或设置二维码文本匹配类型搜索它仅在设置 Text 属性时使用
 type: docs
 weight: 40
 url: /zh/net/groupdocs.signature.options/qrcodesearchoptions/matchtype/
 ---
 ## QrCodeSearchOptions.MatchType property
 
-获取或设置二维码文本匹配类型搜索。仅在设置 Text 属性时使用。
+获取或设置二维码文本匹配类型搜索。它仅在设置 Text 属性时使用。
 
 ```csharp
 public TextMatchType MatchType { get; set; }

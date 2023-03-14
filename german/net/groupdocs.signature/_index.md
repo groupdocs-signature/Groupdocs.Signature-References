@@ -14,7 +14,7 @@ Der Namensraum stellt Klassen zum Signieren von Dokumenten unterschiedlicher For
 | --- | --- |
 | [GroupDocsSignatureException](./groupdocssignatureexception) | Stellt die allgemeinen Fehler dar, die während der Dokumentverarbeitung auftreten. |
 | [IncorrectPasswordException](./incorrectpasswordexception) | Die Ausnahme, die ausgelöst wird, wenn das angegebene Passwort falsch ist. |
-| [License](./license) | Stellt Methoden zur Lizenzierung der Komponente bereit. Erfahren Sie mehr über die Lizenzierung[hier](https://purchase.groupdocs.com/faqs/licensing) . |
+| [License](./license) | Stellt Methoden zur Lizenzierung der Komponente bereit. Erfahren Sie mehr über die Lizenzierung[Hier](https://purchase.groupdocs.com/faqs/licensing) . |
 | [Metered](./metered) | Bietet Methoden zum Anwenden[Gemessen](https://purchase.groupdocs.com/faqs/licensing/metered) Lizenz. |
 | [PasswordRequiredException](./passwordrequiredexception) | Die Ausnahme, die ausgelöst wird, wenn zum Laden des Dokuments ein Kennwort erforderlich ist. |
 | [ProcessCompleteEventArgs](./processcompleteeventargs) | Stellt Daten zum vollständigen Ereignis von Signier-, Verifizierungs- und Suchvorgängen bereit. |

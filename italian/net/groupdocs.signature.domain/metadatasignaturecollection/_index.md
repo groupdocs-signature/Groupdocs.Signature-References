@@ -3,7 +3,7 @@ title: MetadataSignatureCollection
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Raccolta di oggetti firma metadati.
 type: docs
-weight: 600
+weight: 620
 url: /it/net/groupdocs.signature.domain/metadatasignaturecollection/
 ---
 ## MetadataSignatureCollection class
@@ -18,7 +18,7 @@ public class MetadataSignatureCollection : ICloneable, IEnumerable<MetadataSigna
 
 | Nome | Descrizione |
 | --- | --- |
-| [MetadataSignatureCollection](metadatasignaturecollection)() | Crea raccolta di firme di metadati. |
+| [MetadataSignatureCollection](metadatasignaturecollection)() | Crea la raccolta della firma dei metadati. |
 
 ## Proprietà
 
@@ -31,10 +31,10 @@ public class MetadataSignatureCollection : ICloneable, IEnumerable<MetadataSigna
 
 | Nome | Descrizione |
 | --- | --- |
-| [Add](../../groupdocs.signature.domain/metadatasignaturecollection/add)(MetadataSignature) | Aggiungi oggetto Firma metadati alla raccolta. |
+| [Add](../../groupdocs.signature.domain/metadatasignaturecollection/add)(MetadataSignature) | Aggiungi l'oggetto Firma dei metadati alla raccolta. |
 | [AddRange](../../groupdocs.signature.domain/metadatasignaturecollection/addrange)(IEnumerable&lt;MetadataSignature&gt;) | Aggiungi raccolta firme metadati. |
 | [Clear](../../groupdocs.signature.domain/metadatasignaturecollection/clear)() | Rimuove tutti gli elementi dalla raccolta. |
-| [Clone](../../groupdocs.signature.domain/metadatasignaturecollection/clone)() | Clona classe raccolta firme metadati con elementi firma metadati. |
+| [Clone](../../groupdocs.signature.domain/metadatasignaturecollection/clone)() | Clona la classe di raccolta delle firme dei metadati con gli elementi della firma dei metadati. |
 | [Contains](../../groupdocs.signature.domain/metadatasignaturecollection/contains)(string) | Restituisce true se nella raccolta esiste un metadata con il nome specificato. |
 | [GetEnumerator](../../groupdocs.signature.domain/metadatasignaturecollection/getenumerator)() | Restituisce l'enumeratore. |
 | [IndexOf](../../groupdocs.signature.domain/metadatasignaturecollection/indexof)(string) | Ottiene l'indice di una proprietà per nome. |

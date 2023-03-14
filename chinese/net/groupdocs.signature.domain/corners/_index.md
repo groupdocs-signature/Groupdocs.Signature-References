@@ -3,7 +3,7 @@ title: Corners
 second_title: GroupDocs.Signature for .NET API 参考
 description: 表示正方形图形对象的角
 type: docs
-weight: 100
+weight: 110
 url: /zh/net/groupdocs.signature.domain/corners/
 ---
 ## Corners class
@@ -26,18 +26,18 @@ public class Corners : ICloneable
 
 | 姓名 | 描述 |
 | --- | --- |
-| [All](../../groupdocs.signature.domain/corners/all) { get; set; } | 获取或设置所有角的值。 更改任何部分角（如右上角）使该属性等于 0； |
+| [All](../../groupdocs.signature.domain/corners/all) { get; set; } | 获取或设置所有角的值。 更改任何部分角（如右上角）会使此属性等于 0； |
 | [BottomLeft](../../groupdocs.signature.domain/corners/bottomleft) { get; set; } | 获取或设置左下角值。 |
 | [BottomRight](../../groupdocs.signature.domain/corners/bottomright) { get; set; } | 获取或设置右下角值。 |
 | [TopLeft](../../groupdocs.signature.domain/corners/topleft) { get; set; } | 获取或设置左上角值。 |
-| [TopRight](../../groupdocs.signature.domain/corners/topright) { get; set; } | 获取或设置右上角的值。 |
+| [TopRight](../../groupdocs.signature.domain/corners/topright) { get; set; } | 获取或设置右上角值。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Clone](../../groupdocs.signature.domain/corners/clone)() | 获取此对象的副本。 |
-| override [Equals](../../groupdocs.signature.domain/corners/equals)(object) | 覆盖等于方法 |
+| override [Equals](../../groupdocs.signature.domain/corners/equals)(object) | 覆盖等于 method |
 | override [GetHashCode](../../groupdocs.signature.domain/corners/gethashcode)() | 覆盖获取唯一哈希码值 |
 
 ## 字段

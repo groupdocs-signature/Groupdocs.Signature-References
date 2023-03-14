@@ -16,7 +16,7 @@ public override int GetHashCode()
 
 ### 返回值
 
-VCard 哈希码
+电子名片哈希码
 
 ### 也可以看看
 

@@ -3,7 +3,7 @@ title: StampBackgroundCropType
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Определяет тип обрезки фонового слоя на элементах Stamp.
 type: docs
-weight: 870
+weight: 900
 url: /ru/net/groupdocs.signature.domain/stampbackgroundcroptype/
 ---
 ## StampBackgroundCropType enumeration

@@ -1,14 +1,14 @@
 ---
 title: Decode
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取解密字符串的解码方法
+description: Decode方法获取解密后的字符串
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.domain.extensions/idataencryption/decode/
 ---
 ## IDataEncryption.Decode method
 
-获取解密字符串的解码方法
+Decode方法获取解密后的字符串。
 
 ```csharp
 public string Decode(string source)

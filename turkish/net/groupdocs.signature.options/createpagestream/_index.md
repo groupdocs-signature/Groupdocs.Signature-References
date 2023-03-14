@@ -3,7 +3,7 @@ title: CreatePageStream
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Çıktı sayfası önizleme akışı oluşturmak için yöntemi tanımlayan temsilci.
 type: docs
-weight: 1230
+weight: 1310
 url: /tr/net/groupdocs.signature.options/createpagestream/
 ---
 ## CreatePageStream delegate

@@ -33,7 +33,7 @@ public PdfTextAnnotationAppearance(string title, string subject, string contents
 | معامل | يكتب | وصف |
 | --- | --- | --- |
 | title | String | عنوان. |
-| subject | String | موضوعات. |
+| subject | String | موضوع. |
 | contents | String | محتويات. |
 
 ### أنظر أيضا

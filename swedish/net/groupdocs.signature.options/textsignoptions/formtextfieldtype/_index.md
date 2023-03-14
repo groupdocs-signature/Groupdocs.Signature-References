@@ -1,14 +1,14 @@
 ---
 title: FormTextFieldType
 second_title: GroupDocs.Signature för .NET API-referens
-description: Hämtar eller ställer in typen av formulärfält för att lägga textsignatur i det. Den här egenskapen kunde endast användas med SignatureImplementation  TextToFormField. Värdet som standard är AllTextTypes.
+description: Hämtar eller ställer in typen av formulärfält för att lägga in textsignatur i det. Den här egenskapen kunde endast användas med SignatureImplementation  TextToFormField. Värdet som standard är AllTextTypes.
 type: docs
 weight: 70
 url: /sv/net/groupdocs.signature.options/textsignoptions/formtextfieldtype/
 ---
 ## TextSignOptions.FormTextFieldType property
 
-Hämtar eller ställer in typen av formulärfält för att lägga textsignatur i det. Den här egenskapen kunde endast användas med SignatureImplementation = TextToFormField. Värdet som standard är AllTextTypes.
+Hämtar eller ställer in typen av formulärfält för att lägga in textsignatur i det. Den här egenskapen kunde endast användas med SignatureImplementation = TextToFormField. Värdet som standard är AllTextTypes.
 
 ```csharp
 public FormTextFieldType FormTextFieldType { get; set; }

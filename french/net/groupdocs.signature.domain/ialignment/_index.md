@@ -3,7 +3,7 @@ title: IAlignment
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Décrit lalignement de la zone de signature sur une page de document.
 type: docs
-weight: 480
+weight: 500
 url: /fr/net/groupdocs.signature.domain/ialignment/
 ---
 ## IAlignment interface

@@ -1,14 +1,14 @@
 ---
 title: MarginMeasureType
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置 Margin. 的度量类型像素百分比或毫米
+description: 获取或设置边距的测量类型像素百分比或毫米
 type: docs
 weight: 130
 url: /zh/net/groupdocs.signature.options/textsignoptions/marginmeasuretype/
 ---
 ## TextSignOptions.MarginMeasureType property
 
-获取或设置 Margin. 的度量类型（像素、百分比或毫米）
+获取或设置边距的测量类型（像素、百分比或毫米）。
 
 ```csharp
 public virtual MeasureType MarginMeasureType { get; set; }

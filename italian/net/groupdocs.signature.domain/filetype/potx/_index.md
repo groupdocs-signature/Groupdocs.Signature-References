@@ -1,14 +1,14 @@
 ---
 title: POTX
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Il modello di presentazione PowerPoint Open XML .potx rappresenta le presentazioni dei modelli di Microsoft PowerPoint create con Microsoft PowerPoint 2007 e versioni successive. Ulteriori informazioni su questo formato di filequihttps//wiki.fileformat.com/presentation/potx .
+description: Il modello di presentazione PowerPoint Open XML .potx rappresenta le presentazioni dei modelli di Microsoft PowerPoint create con Microsoft PowerPoint 2007 e versioni successive. Ulteriori informazioni su questo formato di fileQuihttps//wiki.fileformat.com/presentation/potx .
 type: docs
-weight: 310
+weight: 320
 url: /it/net/groupdocs.signature.domain/filetype/potx/
 ---
 ## FileType.POTX field
 
-Il modello di presentazione PowerPoint Open XML (.potx) rappresenta le presentazioni dei modelli di Microsoft PowerPoint create con Microsoft PowerPoint 2007 e versioni successive. Ulteriori informazioni su questo formato di file[qui](https://wiki.fileformat.com/presentation/potx) .
+Il modello di presentazione PowerPoint Open XML (.potx) rappresenta le presentazioni dei modelli di Microsoft PowerPoint create con Microsoft PowerPoint 2007 e versioni successive. Ulteriori informazioni su questo formato di file[Qui](https://wiki.fileformat.com/presentation/potx) .
 
 ```csharp
 public static readonly FileType POTX;

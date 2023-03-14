@@ -24,7 +24,7 @@ public TextureBrush()
 
 ## TextureBrush(string) {#constructor_2}
 
-Görüntü dosyasıyla TextureBrush sınıfının yeni bir örneğini başlatır.
+Image file. ile TextureBrush sınıfının yeni bir örneğini başlatır
 
 ```csharp
 public TextureBrush(string imageFilePath)

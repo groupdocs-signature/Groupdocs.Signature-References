@@ -3,7 +3,7 @@ title: ImageMetadataSignature
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Görüntü Meta Verileri imza özelliklerini içerir.
 type: docs
-weight: 550
+weight: 570
 url: /tr/net/groupdocs.signature.domain/imagemetadatasignature/
 ---
 ## ImageMetadataSignature class
@@ -39,6 +39,7 @@ public sealed class ImageMetadataSignature : MetadataSignature
 | [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | İmza türünü belirtir. |
 | [Size](../../groupdocs.signature.domain/imagemetadatasignature/size) { get; } | Meta veri boyutunu almak için salt okunur değer value |
 | [Top](../../groupdocs.signature.domain/basesignature/top) { get; set; } | İmzanın en üst konumunu belirtir. |
+| [Type](../../groupdocs.signature.domain/metadatasignature/type) { get; } | Meta veri değeri türünü belirtir. |
 | [Value](../../groupdocs.signature.domain/metadatasignature/value) { get; set; } | Meta veri nesnesini belirtir. |
 | [Width](../../groupdocs.signature.domain/basesignature/width) { get; set; } | İmza genişliğini belirtir. |
 

@@ -3,7 +3,7 @@ title: SymmetricEncryptionAttribute
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Ordonne à la sérialisation des instances de chiffrer/déchiffrer la chaîne de sérialisation de lobjet.
 type: docs
-weight: 370
+weight: 390
 url: /fr/net/groupdocs.signature.domain.extensions/symmetricencryptionattribute/
 ---
 ## SymmetricEncryptionAttribute class

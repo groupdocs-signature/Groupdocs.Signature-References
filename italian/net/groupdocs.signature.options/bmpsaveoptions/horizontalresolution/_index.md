@@ -1,14 +1,14 @@
 ---
 title: HorizontalResolution
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Ottiene o imposta la risoluzione orizzontale. Nota a causa dellarrotondamento la risoluzione risultante potrebbe differire leggermente da quella passata.
+description: Ottiene o imposta la risoluzione orizzontale. Nota a causa dellarrotondamento la risoluzione risultante potrebbe differire leggermente da quella approvata.
 type: docs
 weight: 40
 url: /it/net/groupdocs.signature.options/bmpsaveoptions/horizontalresolution/
 ---
 ## BmpSaveOptions.HorizontalResolution property
 
-Ottiene o imposta la risoluzione orizzontale. Nota a causa dell'arrotondamento, la risoluzione risultante potrebbe differire leggermente da quella passata.
+Ottiene o imposta la risoluzione orizzontale. Nota a causa dell'arrotondamento, la risoluzione risultante potrebbe differire leggermente da quella approvata.
 
 ```csharp
 public double HorizontalResolution { get; set; }

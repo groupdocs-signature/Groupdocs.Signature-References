@@ -3,7 +3,7 @@ title: BarcodeSearchOptions
 second_title: GroupDocs.Signature för .NET API-referens
 description: Representerar sökalternativ för streckkodssignaturer.
 type: docs
-weight: 1180
+weight: 1250
 url: /sv/net/groupdocs.signature.options/barcodesearchoptions/
 ---
 ## BarcodeSearchOptions class

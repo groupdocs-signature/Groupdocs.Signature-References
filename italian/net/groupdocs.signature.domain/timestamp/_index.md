@@ -3,7 +3,7 @@ title: TimeStamp
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Rappresenta i dati per ottenere il timestamp dal sito di terze parti.
 type: docs
-weight: 1000
+weight: 1030
 url: /it/net/groupdocs.signature.domain/timestamp/
 ---
 ## TimeStamp structure
@@ -18,7 +18,7 @@ public struct TimeStamp
 
 | Nome | Descrizione |
 | --- | --- |
-| [TimeStamp](timestamp)(string, string, string) | Istanzia la nuova struttura del timestamp. |
+| [TimeStamp](timestamp)(string, string, string) | Crea un'istanza della nuova struttura timestamp. |
 
 ## Proprietà
 

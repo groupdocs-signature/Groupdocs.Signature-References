@@ -3,7 +3,7 @@ title: StampLine
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Specifica le proprietà della linea del timbro.
 type: docs
-weight: 880
+weight: 910
 url: /it/net/groupdocs.signature.domain/stampline/
 ---
 ## StampLine class
@@ -26,7 +26,7 @@ public class StampLine
 | --- | --- |
 | [BackgroundColor](../../groupdocs.signature.domain/stampline/backgroundcolor) { get; set; } | Ottiene o imposta il colore di sfondo della firma. |
 | [Font](../../groupdocs.signature.domain/stampline/font) { get; set; } | Ottiene o imposta il carattere del testo della riga del timbro. |
-| [Height](../../groupdocs.signature.domain/stampline/height) { get; set; } | Ottiene o imposta l'altezza della linea su Timbro. |
+| [Height](../../groupdocs.signature.domain/stampline/height) { get; set; } | Ottiene o imposta l'altezza della riga su Stamp. |
 | [InnerBorder](../../groupdocs.signature.domain/stampline/innerborder) { get; set; } | Imposta bordo interno. |
 | [OuterBorder](../../groupdocs.signature.domain/stampline/outerborder) { get; set; } | Imposta bordo esterno. |
 | [Text](../../groupdocs.signature.domain/stampline/text) { get; set; } | Ottiene o imposta il testo della riga del timbro. |

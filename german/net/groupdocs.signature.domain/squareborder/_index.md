@@ -3,7 +3,7 @@ title: SquareBorder
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Instanz zum Beibehalten der Randlinieneigenschaften für quadratische Stempellinien.
 type: docs
-weight: 860
+weight: 890
 url: /de/net/groupdocs.signature.domain/squareborder/
 ---
 ## SquareBorder class

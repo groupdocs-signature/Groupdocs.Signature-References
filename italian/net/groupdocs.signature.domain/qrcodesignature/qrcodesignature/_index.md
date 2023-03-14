@@ -1,14 +1,14 @@
 ---
 title: QrCodeSignature
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Inizializza oggetto QrCodeSignature con identificatore di firma ottenuto dopo il processo di ricerca. Questo identificatore univoco viene utilizzato per trovare proprietà aggiuntive per questa firma dal livello di informazioni sulla firma del documento.
+description: Inizializza loggetto QrCodeSignature con lidentificatore della firma ottenuto dopo il processo di ricerca. Questo identificatore univoco viene utilizzato per trovare proprietà aggiuntive per questa firma dal livello delle informazioni sulla firma del documento.
 type: docs
 weight: 10
 url: /it/net/groupdocs.signature.domain/qrcodesignature/qrcodesignature/
 ---
 ## QrCodeSignature constructor
 
-Inizializza oggetto QrCodeSignature con identificatore di firma ottenuto dopo il processo di ricerca. Questo identificatore univoco viene utilizzato per trovare proprietà aggiuntive per questa firma dal livello di informazioni sulla firma del documento.
+Inizializza l'oggetto QrCodeSignature con l'identificatore della firma ottenuto dopo il processo di ricerca. Questo identificatore univoco viene utilizzato per trovare proprietà aggiuntive per questa firma dal livello delle informazioni sulla firma del documento.
 
 ```csharp
 public QrCodeSignature(string signatureId)
@@ -16,7 +16,7 @@ public QrCodeSignature(string signatureId)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| signatureId | String | Identificatore di firma univoco ottenuto tramite segno o metodo di ricerca. |
+| signatureId | String | Identificatore univoco della firma ottenuto tramite segno o metodo di ricerca. |
 
 ### Guarda anche
 

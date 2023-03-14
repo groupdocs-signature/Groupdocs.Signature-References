@@ -3,7 +3,7 @@ title: Succeeded
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Lista de firmas recién creadasBaseSignaturegroupdocs.signature.domain/basesignature .
 type: docs
-weight: 20
+weight: 50
 url: /es/net/groupdocs.signature.domain/signresult/succeeded/
 ---
 ## SignResult.Succeeded property

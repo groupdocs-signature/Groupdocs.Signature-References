@@ -1,14 +1,14 @@
 ---
 title: Encode
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Codifica il metodo per crittografare la stringa.
+description: Metodo di codifica per crittografare la stringa.
 type: docs
 weight: 20
 url: /it/net/groupdocs.signature.domain.extensions/idataencryption/encode/
 ---
 ## IDataEncryption.Encode method
 
-Codifica il metodo per crittografare la stringa.
+Metodo di codifica per crittografare la stringa.
 
 ```csharp
 public string Encode(string source)
@@ -16,7 +16,7 @@ public string Encode(string source)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| source | String | Stringa di origine da codificare. |
+| source | String | Stringa sorgente da codificare. |
 
 ### Valore di ritorno
 

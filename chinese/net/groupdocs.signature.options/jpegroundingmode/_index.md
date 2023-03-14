@@ -3,7 +3,7 @@ title: JpegRoundingMode
 second_title: GroupDocs.Signature for .NET API 参考
 description: 指定不同的 JPEG 舍入模式
 type: docs
-weight: 1370
+weight: 1450
 url: /zh/net/groupdocs.signature.options/jpegroundingmode/
 ---
 ## JpegRoundingMode enumeration
@@ -18,7 +18,7 @@ public enum JpegRoundingMode
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Extrapolate | `0` | 外推一个 8 位值以适合 n 位，其中 n 大于 1 且小于 8. |
+| Extrapolate | `0` | 外推一个 8 位值以将其放入 n 位，其中 n 大于 1 且小于 8. |
 | Truncate | `1` | 截断一个 8 位值以将其放入 n 位，其中 n 大于 1 且小于 8. |
 
 ### 也可以看看

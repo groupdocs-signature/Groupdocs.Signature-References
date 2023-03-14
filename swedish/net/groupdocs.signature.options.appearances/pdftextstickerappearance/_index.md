@@ -3,7 +3,7 @@ title: PdfTextStickerAppearance
 second_title: GroupDocs.Signature för .NET API-referens
 description: Beskriver utseendet på PDFtextanteckningsdekalobjekt och popupfönster för klistermärke.
 type: docs
-weight: 1160
+weight: 1230
 url: /sv/net/groupdocs.signature.options.appearances/pdftextstickerappearance/
 ---
 ## PdfTextStickerAppearance class

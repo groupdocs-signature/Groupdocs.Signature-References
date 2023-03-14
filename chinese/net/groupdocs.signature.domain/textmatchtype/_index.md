@@ -3,7 +3,7 @@ title: TextMatchType
 second_title: GroupDocs.Signature for .NET API 参考
 description: 指定字符串中的文本匹配类型
 type: docs
-weight: 950
+weight: 980
 url: /zh/net/groupdocs.signature.domain/textmatchtype/
 ---
 ## TextMatchType enumeration

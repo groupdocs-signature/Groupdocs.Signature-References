@@ -3,7 +3,7 @@ title: ToInteger
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Converte in numero intero.
 type: docs
-weight: 120
+weight: 130
 url: /it/net/groupdocs.signature.domain/metadatasignature/tointeger/
 ---
 ## MetadataSignature.ToInteger method

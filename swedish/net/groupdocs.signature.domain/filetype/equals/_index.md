@@ -3,7 +3,7 @@ title: Equals
 second_title: GroupDocs.Signature för .NET API-referens
 description: Bestämmer om strömmenFileTypegroupdocs.signature.domain/filetypeär samma som specificeratsFileTypegroupdocs.signature.domain/filetype objekt.
 type: docs
-weight: 600
+weight: 610
 url: /sv/net/groupdocs.signature.domain/filetype/equals/
 ---
 ## Equals(FileType) {#equals}

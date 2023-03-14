@@ -3,7 +3,7 @@ title: SignatureSettings
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحدد إعدادات التخصيصSignature./signature السلوك .
 type: docs
-weight: 1810
+weight: 1890
 url: /ar/net/groupdocs.signature/signaturesettings/
 ---
 ## SignatureSettings class
@@ -18,15 +18,19 @@ public class SignatureSettings
 
 | اسم | وصف |
 | --- | --- |
-| [SignatureSettings](signaturesettings)() | Default_Constructor |
+| [SignatureSettings](signaturesettings#constructor)() | إنشاء مثيل SignatureSettings الافتراضي بالقيم الافتراضية. |
+| [SignatureSettings](signaturesettings#constructor_1)(ILogger) | إنشاء مثيل SignatureSettings الافتراضي باستخدام تطبيق Logger . |
 
 ## الخصائص
 
 | اسم | وصف |
 | --- | --- |
 | [DefaultCulture](../../groupdocs.signature/signaturesettings/defaultculture) { get; set; } | الحصول على الثقافة الافتراضية أو تعيينها لاستخدامها أثناء معالجة المستند. القيمة الافتراضية هي "en-US" . |
-| [SaveDocumentOnEmptyDelete](../../groupdocs.signature/signaturesettings/savedocumentonemptydelete) { get; set; } | الحصول على علامة أو تعيينها لإعادة حفظ المستند المصدر عندما لا تحتوي طريقة الحذف على تواقيع متأثرة لإزالتها . إذا تم تعيين هذه العلامة على "صحيح" (افتراضيًا) ، فسيتم حفظ المستند مع سجل عملية التاريخ المطابق (التاريخ ونوع العملية) حتى إذا كانت طريقة الحذف لا يوجد لديه توقيعات لإزالتها. عند تعيين هذا المسطح على مصدر خاطئ ، فلن يتم تعديل المستند على الإطلاق . |
-| [SaveDocumentOnEmptyUpdate](../../groupdocs.signature/signaturesettings/savedocumentonemptyupdate) { get; set; } | الحصول على علامة أو تعيينها لإعادة حفظ المستند المصدر عندما لا تحتوي طريقة التحديث على توقيعات للتحديث . إذا تم تعيين هذه العلامة على "صحيح" (افتراضيًا) ، فسيتم حفظ المستند مع سجل عملية التاريخ المقابل (التاريخ ونوع العملية) حتى إذا كانت طريقة التحديث تحتوي على لا توجد تواقيع للتحديث . عند تعيين هذه الصورة المسطحة على مصدر خاطئ ، فلن يتم تعديل المستند على الإطلاق. |
+| [IncludeStandardMetadataSignatures](../../groupdocs.signature/signaturesettings/includestandardmetadatasignatures) { get; set; } | الحصول على علامة أو تعيينها لتضمينها في قائمة البيانات الوصفية تواقيع بيانات تعريف المستند القياسية المضمنة مثل المؤلف والمالك وتاريخ إنشاء المستند والتاريخ المعدل وما إلى ذلك إذا تم تعيين هذه العلامة على خطأ (افتراضيًا) فلن يتضمن GetDocumentInfo هذه البيانات الوصفية التوقيعات . عند تعيين هذه العلامة على "صواب" ، ستتضمن معلومات المستند توقيعات البيانات الوصفية القياسية. |
+| [Logger](../../groupdocs.signature/signaturesettings/logger) { get; } | تطبيق أداة التسجيل المستخدمة في التسجيل (الأخطاء ، التحذيرات ، التتبع).[`ILogger`](../../groupdocs.signature.logging/ilogger) . |
+| [LogLevel](../../groupdocs.signature/signaturesettings/loglevel) { get; set; } | مستوى التسجيل للحد من الرسائل (الكل ، التتبع ، التحذيرات ، الأخطاء).[`LogLevel`](./loglevel) . افتراضيًا ، يتم تعيين نوع كل المستويات. |
+| [SaveDocumentOnEmptyDelete](../../groupdocs.signature/signaturesettings/savedocumentonemptydelete) { get; set; } | الحصول على علامة أو تعيينها لإعادة حفظ المستند المصدر عندما لا تحتوي طريقة الحذف على توقيعات متأثرة لإزالتها . إذا تم تعيين هذه العلامة على "صحيح" (افتراضيًا) ، فسيتم حفظ المستند مع سجل عملية التاريخ المقابل (التاريخ ونوع العملية) حتى لو طريقة الحذف لا تحتوي على توقيعات لإزالتها . عندما يتم تعيين هذا المسطح على مصدر خاطئ ، فلن يتم تعديل المستند على الإطلاق. |
+| [SaveDocumentOnEmptyUpdate](../../groupdocs.signature/signaturesettings/savedocumentonemptyupdate) { get; set; } | الحصول على علامة أو تعيينها لإعادة حفظ المستند المصدر عندما لا تحتوي طريقة التحديث على توقيعات للتحديث . إذا تم تعيين هذه العلامة على "صحيح" (افتراضيًا) ، فسيتم حفظ المستند مع سجل عملية التاريخ المقابل (التاريخ ونوع العملية) حتى إذا تم التحديث الأسلوب لا يحتوي على توقيعات للتحديث . عند تعيين هذا المسطح على مصدر خاطئ ، فلن يتم تعديل المستند على الإطلاق. |
 | [ShowDeletedSignaturesInfo](../../groupdocs.signature/signaturesettings/showdeletedsignaturesinfo) { get; set; } | الحصول على أو تعيين علامة تتضمن التواقيع المحذوفة في نتيجة "معلومات المستند". كل توقيع[`BaseSignature`](../../groupdocs.signature.domain/basesignature) لديه علامة محذوفة[`Deleted`](../../groupdocs.signature.domain/basesignature/deleted) لاكتشاف ما إذا كان قد تم حذفه. |
 
 ### أنظر أيضا

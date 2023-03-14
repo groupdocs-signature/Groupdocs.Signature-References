@@ -1,14 +1,14 @@
 ---
 title: Address
 second_title: GroupDocs.Signature for .NET API 参考
-description: 代表联系人的地址
+description: 表示联系人地址
 type: docs
-weight: 170
+weight: 180
 url: /zh/net/groupdocs.signature.domain.extensions/address/
 ---
 ## Address class
 
-代表联系人的地址。
+表示联系人地址。
 
 ```csharp
 public sealed class Address
@@ -27,14 +27,14 @@ public sealed class Address
 | [City](../../groupdocs.signature.domain.extensions/address/city) { get; set; } | 获取或设置地址城市。 |
 | [Country](../../groupdocs.signature.domain.extensions/address/country) { get; set; } | 获取或设置地址国家。 |
 | [State](../../groupdocs.signature.domain.extensions/address/state) { get; set; } | 获取或设置地址状态。 |
-| [Street](../../groupdocs.signature.domain.extensions/address/street) { get; set; } | 获取或设置地址 street. |
+| [Street](../../groupdocs.signature.domain.extensions/address/street) { get; set; } | 获取或设置地址街道。 |
 | [ZIP](../../groupdocs.signature.domain.extensions/address/zip) { get; set; } | 获取或设置地址 ZIP. |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Equals](../../groupdocs.signature.domain.extensions/address/equals)(object) | 覆盖 Equals 方法来比较地址属性 |
+| override [Equals](../../groupdocs.signature.domain.extensions/address/equals)(object) | 覆盖 Equals 方法以比较地址属性 |
 | override [GetHashCode](../../groupdocs.signature.domain.extensions/address/gethashcode)() | 覆盖 GetHashCode 方法 |
 
 ### 也可以看看

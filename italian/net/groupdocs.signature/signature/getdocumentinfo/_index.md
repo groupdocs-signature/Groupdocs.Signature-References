@@ -20,7 +20,7 @@ Informazioni sul documento.
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sul documento firmato: tipo di file, numero di pagine e molte altre proprietà specifiche del formato: [Come ottenere le proprietà del documento in C#](https://docs.groupdocs.com/display/signaturenet/Get+document+information)
 

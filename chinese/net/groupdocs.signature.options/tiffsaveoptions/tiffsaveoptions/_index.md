@@ -1,14 +1,14 @@
 ---
 title: TiffSaveOptions
 second_title: GroupDocs.Signature for .NET API 参考
-description: 使用默认值创建 TiffSaveOptions
+description: 使用默认值创建 TiffSaveOptions.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.options/tiffsaveoptions/tiffsaveoptions/
 ---
 ## TiffSaveOptions constructor
 
-使用默认值创建 TiffSaveOptions。
+使用默认值创建 TiffSaveOptions.
 
 ```csharp
 public TiffSaveOptions()

@@ -1,14 +1,14 @@
 ---
 title: CodeTextAlignment
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置结果条码图像中文本的对齐方式 默认值为无
+description: 获取或设置结果条形码图像中文本的对齐方式 默认值为无
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.options/barcodesignoptions/codetextalignment/
 ---
 ## BarcodeSignOptions.CodeTextAlignment property
 
-获取或设置结果条码图像中文本的对齐方式。 默认值为无。
+获取或设置结果条形码图像中文本的对齐方式。 默认值为无。
 
 ```csharp
 public CodeTextAlignment CodeTextAlignment { get; set; }

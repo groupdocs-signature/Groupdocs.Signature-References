@@ -1,14 +1,14 @@
 ---
 title: Certificate
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Sertifika Dosya Yolu veya Akıştan X509Certificate2 Sertifikası alın.
+description: Sertifika FilePath veya Streamden X509Certificate2 Sertifikasını Alın.
 type: docs
 weight: 20
 url: /tr/net/groupdocs.signature.options/digitalverifyoptions/certificate/
 ---
 ## DigitalVerifyOptions.Certificate property
 
-Sertifika Dosya Yolu veya Akıştan X509Certificate2 Sertifikası alın.
+Sertifika FilePath veya Stream'den X509Certificate2 Sertifikasını Alın.
 
 ```csharp
 public X509Certificate2 Certificate { get; }

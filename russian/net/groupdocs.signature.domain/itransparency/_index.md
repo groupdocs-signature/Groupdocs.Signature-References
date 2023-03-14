@@ -3,7 +3,7 @@ title: ITransparency
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Определить свойство прозрачности для внешнего вида различных объектов
 type: docs
-weight: 540
+weight: 560
 url: /ru/net/groupdocs.signature.domain/itransparency/
 ---
 ## ITransparency interface

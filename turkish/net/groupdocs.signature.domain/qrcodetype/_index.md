@@ -3,7 +3,7 @@ title: QrCodeType
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: QRCode türü özelliklerini belirtin.
 type: docs
-weight: 770
+weight: 800
 url: /tr/net/groupdocs.signature.domain/qrcodetype/
 ---
 ## QrCodeType class
@@ -25,9 +25,9 @@ public sealed class QrCodeType : IEquatable<QrCodeType>
 
 | İsim | Tanım |
 | --- | --- |
-| override [Equals](../../groupdocs.signature.domain/qrcodetype/equals#equals_1)(object) | Geçersiz kılınan yöntem, belirtilen System.Object öğesinin geçerli System.Object. değerine eşit olup olmadığını belirler. |
+| override [Equals](../../groupdocs.signature.domain/qrcodetype/equals#equals_1)(object) | Geçersiz kılma yöntemi, belirtilen System.Object öğesinin geçerli System.Object. değerine eşit olup olmadığını belirler. |
 | [Equals](../../groupdocs.signature.domain/qrcodetype/equals#equals)(QrCodeType) | Belirtilen QRCode'un geçerli nesneye eşit olup olmadığını belirler. |
-| override [GetHashCode](../../groupdocs.signature.domain/qrcodetype/gethashcode)() | Geçersiz kılınan yöntem, belirli bir tür için karma işlevi işlevi görür. |
+| override [GetHashCode](../../groupdocs.signature.domain/qrcodetype/gethashcode)() | Geçersiz kılınan yöntem, belirli bir tür için bir karma işlev işlevi görür. |
 
 ### Ayrıca bakınız
 

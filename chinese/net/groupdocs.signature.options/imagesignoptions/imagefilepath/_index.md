@@ -1,14 +1,14 @@
 ---
 title: ImageFilePath
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置签名图像文件路径 仅当未指定 ImageStream 时才使用此属性
+description: 获取或设置签名图片文件路径 仅在不指定ImageStream时使用该属性
 type: docs
 weight: 70
 url: /zh/net/groupdocs.signature.options/imagesignoptions/imagefilepath/
 ---
 ## ImageSignOptions.ImageFilePath property
 
-获取或设置签名图像文件路径。 仅当未指定 ImageStream 时才使用此属性。
+获取或设置签名图片文件路径。 仅在不指定ImageStream时使用该属性。
 
 ```csharp
 public string ImageFilePath { get; set; }

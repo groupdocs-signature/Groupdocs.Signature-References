@@ -1,14 +1,14 @@
 ---
 title: SMS
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Rappresenta i dettagli del servizio SMS SMS.
+description: Rappresenta i dettagli del servizio SMS.
 type: docs
-weight: 300
+weight: 320
 url: /it/net/groupdocs.signature.domain.extensions/sms/
 ---
 ## SMS class
 
-Rappresenta i dettagli del servizio SMS SMS.
+Rappresenta i dettagli del servizio SMS.
 
 ```csharp
 public class SMS
@@ -25,13 +25,13 @@ public class SMS
 | Nome | Descrizione |
 | --- | --- |
 | [Message](../../groupdocs.signature.domain.extensions/sms/message) { get; set; } | Ottiene o imposta il contenuto del messaggio SMS. |
-| [Number](../../groupdocs.signature.domain.extensions/sms/number) { get; set; } | Ottiene o imposta il numero di telefono del destinatario degli SMS. |
+| [Number](../../groupdocs.signature.domain.extensions/sms/number) { get; set; } | Ottiene o imposta il numero di telefono del destinatario dell'SMS. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Equals](../../groupdocs.signature.domain.extensions/sms/equals)(object) | Sovrascrive il metodo Equals per confrontare le proprietà degli SMS |
+| override [Equals](../../groupdocs.signature.domain.extensions/sms/equals)(object) | Sovrascrive il metodo Equals per confrontare le proprietà SMS |
 | override [GetHashCode](../../groupdocs.signature.domain.extensions/sms/gethashcode)() | Sostituisce il metodo GetHashCode |
 
 ### Guarda anche

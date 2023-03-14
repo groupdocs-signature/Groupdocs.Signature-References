@@ -3,7 +3,7 @@ title: StampBackgroundCropType
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Especifica el tipo de recorte de la capa de fondo en los elementos del sello.
 type: docs
-weight: 870
+weight: 900
 url: /es/net/groupdocs.signature.domain/stampbackgroundcroptype/
 ---
 ## StampBackgroundCropType enumeration

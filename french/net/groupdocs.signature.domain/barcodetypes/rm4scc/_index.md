@@ -3,7 +3,7 @@ title: RM4SCC
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Objet Type de codebarres RM4SCC.
 type: docs
-weight: 530
+weight: 560
 url: /fr/net/groupdocs.signature.domain/barcodetypes/rm4scc/
 ---
 ## BarcodeTypes.RM4SCC field

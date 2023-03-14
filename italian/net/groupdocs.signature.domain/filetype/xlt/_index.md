@@ -1,14 +1,14 @@
 ---
 title: XLT
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Il modello binario di Excel .xlt rappresenta il formato di file del modello di Excel. Ulteriori informazioni su questo formato di filequihttps//wiki.fileformat.com/spreadsheet/xlt .
+description: Il modello binario di Excel .xlt rappresenta il formato di file del modello di Excel. Ulteriori informazioni su questo formato di fileQuihttps//wiki.fileformat.com/spreadsheet/xlt .
 type: docs
-weight: 550
+weight: 560
 url: /it/net/groupdocs.signature.domain/filetype/xlt/
 ---
 ## FileType.XLT field
 
-Il modello binario di Excel (.xlt) rappresenta il formato di file del modello di Excel. Ulteriori informazioni su questo formato di file[qui](https://wiki.fileformat.com/spreadsheet/xlt) .
+Il modello binario di Excel (.xlt) rappresenta il formato di file del modello di Excel. Ulteriori informazioni su questo formato di file[Qui](https://wiki.fileformat.com/spreadsheet/xlt) .
 
 ```csharp
 public static readonly FileType XLT;

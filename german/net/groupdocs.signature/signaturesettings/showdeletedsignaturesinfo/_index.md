@@ -3,7 +3,7 @@ title: ShowDeletedSignaturesInfo
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Erhält oder setzt ein Flag das gelöschte Signaturen in das DokumentinfoErgebnis einschließt. Jede SignaturBaseSignaturegroupdocs.signature.domain/basesignature hat das Flag GelöschtDeletedgroupdocs.signature.domain/basesignature/deleted um festzustellen ob es gelöscht wurde.
 type: docs
-weight: 50
+weight: 80
 url: /de/net/groupdocs.signature/signaturesettings/showdeletedsignaturesinfo/
 ---
 ## SignatureSettings.ShowDeletedSignaturesInfo property

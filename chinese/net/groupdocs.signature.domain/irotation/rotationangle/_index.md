@@ -1,14 +1,14 @@
 ---
 title: RotationAngle
 second_title: GroupDocs.Signature for .NET API 参考
-description: 顺时针旋转角度
+description: 顺时针旋转角度.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.domain/irotation/rotationangle/
 ---
 ## IRotation.RotationAngle property
 
-顺时针旋转角度。
+顺时针旋转角度.
 
 ```csharp
 public int RotationAngle { get; set; }

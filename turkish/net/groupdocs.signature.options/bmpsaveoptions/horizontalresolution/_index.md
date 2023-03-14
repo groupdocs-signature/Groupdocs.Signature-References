@@ -1,14 +1,14 @@
 ---
 title: HorizontalResolution
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Yatay çözünürlüğü alır veya ayarlar. Yuvarlama nedeniyle elde edilen çözünürlüğünün geçirilenden biraz farklı olabileceğini unutmayın.
+description: Yatay çözünürlüğü alır veya ayarlar. Yuvarlama nedeniyle elde edilen çözünürlüğünün geçen çözünürlüğünden biraz farklı olabileceğini unutmayın.
 type: docs
 weight: 40
 url: /tr/net/groupdocs.signature.options/bmpsaveoptions/horizontalresolution/
 ---
 ## BmpSaveOptions.HorizontalResolution property
 
-Yatay çözünürlüğü alır veya ayarlar. Yuvarlama nedeniyle, elde edilen çözünürlüğünün geçirilenden biraz farklı olabileceğini unutmayın.
+Yatay çözünürlüğü alır veya ayarlar. Yuvarlama nedeniyle elde edilen çözünürlüğünün, geçen çözünürlüğünden biraz farklı olabileceğini unutmayın.
 
 ```csharp
 public double HorizontalResolution { get; set; }

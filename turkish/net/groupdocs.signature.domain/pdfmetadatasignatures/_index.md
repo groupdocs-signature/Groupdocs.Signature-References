@@ -3,7 +3,7 @@ title: PdfMetadataSignatures
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Pdf belgesi Meta Veri İmza Seçenekleri için kullanılacak standart Meta veri imzalarını içerir.
 type: docs
-weight: 660
+weight: 690
 url: /tr/net/groupdocs.signature.domain/pdfmetadatasignatures/
 ---
 ## PdfMetadataSignatures class
@@ -24,12 +24,12 @@ public static class PdfMetadataSignatures
 | static [CreatorTool](../../groupdocs.signature.domain/pdfmetadatasignatures/creatortool) { get; } | Pdf Belge oluşturma aracı meta veri imzası. |
 | static [Description](../../groupdocs.signature.domain/pdfmetadatasignatures/description) { get; } | Pdf Belge Açıklama meta veri özelliği. |
 | static [Entry](../../groupdocs.signature.domain/pdfmetadatasignatures/entry) { get; } | Pdf Belge Girişi meta veri özelliği. |
-| static [Keywords](../../groupdocs.signature.domain/pdfmetadatasignatures/keywords) { get; } | Pdf Belge oluşturucu meta veri özelliği |
+| static [Keywords](../../groupdocs.signature.domain/pdfmetadatasignatures/keywords) { get; } | Pdf Belge oluşturucu meta verisi özelliği |
 | static [MetadataDate](../../groupdocs.signature.domain/pdfmetadatasignatures/metadatadate) { get; } | Pdf Belge meta veri tarih bilgisi. |
-| static [ModifyDate](../../groupdocs.signature.domain/pdfmetadatasignatures/modifydate) { get; } | Pdf Belge değiştirilme tarihi meta veri özelliği. |
-| static [Producer](../../groupdocs.signature.domain/pdfmetadatasignatures/producer) { get; } | Pdf Document Producer meta veri özelliği. |
+| static [ModifyDate](../../groupdocs.signature.domain/pdfmetadatasignatures/modifydate) { get; } | Pdf Belgesi değiştirilme tarihi meta veri özelliği. |
+| static [Producer](../../groupdocs.signature.domain/pdfmetadatasignatures/producer) { get; } | Pdf Belge Üreticisi meta veri özelliği. |
 | static [Subject](../../groupdocs.signature.domain/pdfmetadatasignatures/subject) { get; } | Pdf Belge Konusu meta veri özelliği. |
-| static [Title](../../groupdocs.signature.domain/pdfmetadatasignatures/title) { get; } | Pdf Belge Başlığı meta veri özelliği |
+| static [Title](../../groupdocs.signature.domain/pdfmetadatasignatures/title) { get; } | Pdf Belge Başlığı meta verisi özelliği |
 
 ### Ayrıca bakınız
 

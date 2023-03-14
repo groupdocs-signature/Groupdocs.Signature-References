@@ -3,7 +3,7 @@ title: StampType
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Damga türü özelliklerini belirtin.
 type: docs
-weight: 900
+weight: 930
 url: /tr/net/groupdocs.signature.domain/stamptype/
 ---
 ## StampType class
@@ -25,9 +25,9 @@ public sealed class StampType : IEquatable<StampType>
 
 | İsim | Tanım |
 | --- | --- |
-| override [Equals](../../groupdocs.signature.domain/stamptype/equals#equals_1)(object) | Geçersiz kılınan yöntem, belirtilen System.Object öğesinin geçerli System.Object. değerine eşit olup olmadığını belirler. |
+| override [Equals](../../groupdocs.signature.domain/stamptype/equals#equals_1)(object) | Geçersiz kılma yöntemi, belirtilen System.Object öğesinin geçerli System.Object. değerine eşit olup olmadığını belirler. |
 | [Equals](../../groupdocs.signature.domain/stamptype/equals#equals)(StampType) | Belirtilen damga türünün geçerli nesneye eşit olup olmadığını belirler. |
-| override [GetHashCode](../../groupdocs.signature.domain/stamptype/gethashcode)() | Geçersiz kılınan yöntem, belirli bir tür için karma işlevi işlevi görür. |
+| override [GetHashCode](../../groupdocs.signature.domain/stamptype/gethashcode)() | Geçersiz kılınan yöntem, belirli bir tür için bir karma işlev işlevi görür. |
 | override [ToString](../../groupdocs.signature.domain/stamptype/tostring)() | Geçersiz kılınan yöntem, dize türüne dönüştürme işlevi görür. |
 
 ### Ayrıca bakınız

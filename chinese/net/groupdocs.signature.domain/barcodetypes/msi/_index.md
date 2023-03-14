@@ -1,14 +1,14 @@
 ---
 title: MSI
 second_title: GroupDocs.Signature for .NET API 参考
-description: MSI 条形码类型对象
+description: MSI 条码类型对象
 type: docs
-weight: 440
+weight: 470
 url: /zh/net/groupdocs.signature.domain/barcodetypes/msi/
 ---
 ## BarcodeTypes.MSI field
 
-MSI 条形码类型对象。
+MSI 条码类型对象。
 
 ```csharp
 public static readonly BarcodeType MSI;

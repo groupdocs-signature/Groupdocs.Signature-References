@@ -3,7 +3,7 @@ title: ProcessCompleteEventArgs
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Proporciona datos sobre eventos completos de procesos de firma verificación y búsqueda.
 type: docs
-weight: 1730
+weight: 1810
 url: /es/net/groupdocs.signature/processcompleteeventargs/
 ---
 ## ProcessCompleteEventArgs class

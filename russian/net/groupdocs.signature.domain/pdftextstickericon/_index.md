@@ -3,7 +3,7 @@ title: PdfTextStickerIcon
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Описывает перечисление внешнего вида значка стикера текстовых аннотаций PDF.
 type: docs
-weight: 690
+weight: 720
 url: /ru/net/groupdocs.signature.domain/pdftextstickericon/
 ---
 ## PdfTextStickerIcon enumeration

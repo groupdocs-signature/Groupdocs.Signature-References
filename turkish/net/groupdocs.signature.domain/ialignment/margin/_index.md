@@ -1,14 +1,14 @@
 ---
 title: Margin
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Görüntü ve Belge kenarları arasında varsayılan olarak belirtilen boşluğu alır yatay veya dikey hizalama belirtilmişse çalışır.
+description: Görüntü ve Belge kenarları arasında varsayılan olarak belirtilen boşluğu alır yatay veya dikey hizalama belirtilirse çalışır.
 type: docs
 weight: 20
 url: /tr/net/groupdocs.signature.domain/ialignment/margin/
 ---
 ## IAlignment.Margin property
 
-Görüntü ve Belge kenarları arasında varsayılan olarak belirtilen boşluğu alır (yatay veya dikey hizalama belirtilmişse çalışır).
+Görüntü ve Belge kenarları arasında varsayılan olarak belirtilen boşluğu alır (yatay veya dikey hizalama belirtilirse çalışır).
 
 ```csharp
 public Padding Margin { get; set; }

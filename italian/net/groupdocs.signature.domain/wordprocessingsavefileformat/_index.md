@@ -1,14 +1,14 @@
 ---
 title: WordProcessingSaveFileFormat
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Definisce diversi formati di file di salvataggio per i documenti di Elaborazione testi.
+description: Definisce diversi formati di file di salvataggio per documenti WordProcessing.
 type: docs
-weight: 1050
+weight: 1080
 url: /it/net/groupdocs.signature.domain/wordprocessingsavefileformat/
 ---
 ## WordProcessingSaveFileFormat enumeration
 
-Definisce diversi formati di file di salvataggio per i documenti di Elaborazione testi.
+Definisce diversi formati di file di salvataggio per documenti WordProcessing.
 
 ```csharp
 public enum WordProcessingSaveFileFormat
@@ -18,23 +18,23 @@ public enum WordProcessingSaveFileFormat
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| Default | `0` | Il formato del file non verrà modificato. |
+| Default | `0` | Il formato file non verrà modificato. |
 | Doc | `1` | Salva il documento come documento Microsoft Word 97-2003. |
 | Dot | `2` | Salva il documento come modello Microsoft Word 97-2003. |
 | Docx | `3` | Salva il documento come documento Microsoft Word OpenXML. |
-| Docm | `4` | Salva il documento come documento abilitato alle macro OpenXML di Microsoft Word. |
-| Dotx | `5` | Salva il documento come modello OpenXML di Microsoft Word. |
-| Dotm | `6` | Salva il documento come modello abilitato alle macro OpenXML di Microsoft Word. |
-| FlatOpc | `24` | Salva il documento come un Office Open XML WordprocessingML archiviato in un file XML flat anziché in un pacchetto ZIP. |
-| FlatOpcMacroEnabled | `25` | Salva il documento come documento Office Open XML WordprocessingML con abilitazione macro archiviato in un file XML flat anziché in un pacchetto ZIP. |
-| FlatOpcTemplate | `26` | Salva il documento come modello Office Open XML WordprocessingML (senza macro) archiviato in un file XML flat anziché in un pacchetto ZIP. |
+| Docm | `4` | Salva il documento come documento con attivazione macro Microsoft Word OpenXML. |
+| Dotx | `5` | Salva il documento come modello Microsoft Word OpenXML. |
+| Dotm | `6` | Salva il documento come modello con attivazione macro Microsoft Word OpenXML. |
+| FlatOpc | `24` | Salva il documento come WordprocessingML Office Open XML archiviato in un file XML flat anziché in un pacchetto ZIP. |
+| FlatOpcMacroEnabled | `25` | Salva il documento come documento Office Open XML WordprocessingML con attivazione macro memorizzato in un file XML flat anziché in un pacchetto ZIP. |
+| FlatOpcTemplate | `26` | Salva il documento come modello Office Open XML WordprocessingML (senza macro) memorizzato in un file XML flat invece che in un pacchetto ZIP. |
 | FlatOpcTemplateMacroEnabled | `27` | Salva il documento come modello Office Open XML WordprocessingML con attivazione macro memorizzato in un file XML flat anziché in un pacchetto ZIP. |
 | Rtf | `30` | Salva il documento nel formato RTF. Tutti i caratteri sopra i 7 bit sono sfuggiti come caratteri esadecimali o Unicode. |
 | WordML | `31` | Salva il documento nel formato WordprocessingML di Microsoft Word 2003. |
 | Pdf | `40` | Salva il documento in formato PDF (Adobe Portable Document). |
 | Xps | `41` | Salva il documento nel formato XPS (XML Paper Specification). |
 | Ps | `47` | Salva il documento nel formato PS (PostScript). |
-| Mhtml | `51` | Salva il documento nel formato MHTML (archivio web). |
+| Mhtml | `51` | Salva il documento nel formato MHTML (archivio Web). |
 | Epub | `52` | Salva il documento nel formato EPUB IDPF. |
 | Odt | `60` | Salva il documento come documento Open Office. |
 | Ott | `61` | Salva il documento come modello di documento Open Office. |

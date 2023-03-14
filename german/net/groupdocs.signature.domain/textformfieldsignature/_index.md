@@ -3,7 +3,7 @@ title: TextFormFieldSignature
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Enthält Signatureigenschaften des Texteingabeformularfelds für das PDFDokument
 type: docs
-weight: 930
+weight: 960
 url: /de/net/groupdocs.signature.domain/textformfieldsignature/
 ---
 ## TextFormFieldSignature class
@@ -29,7 +29,7 @@ public sealed class TextFormFieldSignature : FormFieldSignature
 | [Deleted](../../groupdocs.signature.domain/basesignature/deleted) { get; } | Holen Sie sich das Flag, das angibt, ob diese Signatur aus dem Dokument gelöscht wurde. Diese Eigenschaft wird nur für Protokolleinträge des Dokumentverlaufs verwendet, um die Liste der gelöschten Signaturen zu führen. |
 | [Height](../../groupdocs.signature.domain/basesignature/height) { get; set; } | Gibt die Höhe der Unterschrift an. |
 | [IsSignature](../../groupdocs.signature.domain/basesignature/issignature) { get; set; } | Flag abrufen oder setzen, um anzugeben, ob diese Komponente eine Signatur oder ein Dokumentinhalt ist. Diese Eigenschaft wird mit der Update-Methode verwendet, um ein Element als Signatur (true) oder Dokumentelement (false) festzulegen. |
-| [Left](../../groupdocs.signature.domain/basesignature/left) { get; set; } | Gibt die linke Position der Unterschrift an. |
+| [Left](../../groupdocs.signature.domain/basesignature/left) { get; set; } | Gibt die linke Position der Signatur an. |
 | [ModifiedOn](../../groupdocs.signature.domain/basesignature/modifiedon) { get; set; } | Abrufen oder Festlegen des Änderungsdatums der Signatur. |
 | [Name](../../groupdocs.signature.domain/formfieldsignature/name) { get; set; } | Gibt einen eindeutigen Formularfeldnamen an. |
 | [PageNumber](../../groupdocs.signature.domain/basesignature/pagenumber) { get; } | Gibt an, auf welcher Seitensignatur gefunden wurde. |

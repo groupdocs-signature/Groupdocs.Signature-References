@@ -1,14 +1,14 @@
 ---
 title: Brush
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置背景画笔默认值为空 此属性需要 Brush 对象实现的实例 查看不同的 Brush 类
+description: 获取或设置背景画笔默认值为空 此属性需要 Brush 对象实例 implementations 查看不同的 Brush 类
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.domain/background/brush/
 ---
 ## Background.Brush property
 
-获取或设置背景画笔。默认值为空。 此属性需要 Brush 对象实现的实例 查看不同的 Brush 类
+获取或设置背景画笔。默认值为空。 此属性需要 Brush 对象实例 implementations 查看不同的 Brush 类
 
 ```csharp
 public Brush Brush { get; set; }

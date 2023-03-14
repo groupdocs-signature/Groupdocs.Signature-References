@@ -1,14 +1,14 @@
 ---
 title: SkipSerializationAttribute
 second_title: GroupDocs.Signature for .NET API 参考
-description: 使用给定的属性名称创建格式属性
+description: 创建具有给定属性名称的格式属性
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.domain.extensions/skipserializationattribute/skipserializationattribute/
 ---
 ## SkipSerializationAttribute constructor
 
-使用给定的属性名称创建格式属性。
+创建具有给定属性名称的格式属性。
 
 ```csharp
 public SkipSerializationAttribute()

@@ -16,7 +16,7 @@ public static implicit operator SignatureFont(Font font)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| font | Font | Sistema standard Proprietà del carattere da cui eseguire una copia. |
+| font | Font | Proprietà Font di sistema standard da cui eseguire una copia. |
 
 ### Valore di ritorno
 

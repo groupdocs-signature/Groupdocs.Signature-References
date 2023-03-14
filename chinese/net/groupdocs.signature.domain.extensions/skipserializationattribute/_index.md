@@ -3,7 +3,7 @@ title: SkipSerializationAttribute
 second_title: GroupDocs.Signature for .NET API 参考
 description: 指示序列化跳过成员
 type: docs
-weight: 320
+weight: 340
 url: /zh/net/groupdocs.signature.domain.extensions/skipserializationattribute/
 ---
 ## SkipSerializationAttribute class
@@ -19,7 +19,7 @@ public sealed class SkipSerializationAttribute : Attribute
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SkipSerializationAttribute](skipserializationattribute)() | 使用给定的属性名称创建格式属性。 |
+| [SkipSerializationAttribute](skipserializationattribute)() | 创建具有给定属性名称的格式属性。 |
 
 ### 也可以看看
 

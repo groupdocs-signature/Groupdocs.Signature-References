@@ -3,7 +3,7 @@ title: ISMN
 second_title: GroupDocs.Signature لمرجع .NET API
 description: كائن نوع الرمز الشريطي ISMN .
 type: docs
-weight: 340
+weight: 370
 url: /ar/net/groupdocs.signature.domain/barcodetypes/ismn/
 ---
 ## BarcodeTypes.ISMN field

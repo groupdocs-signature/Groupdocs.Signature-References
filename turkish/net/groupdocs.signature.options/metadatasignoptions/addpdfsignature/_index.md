@@ -1,14 +1,14 @@
 ---
 title: AddPdfSignature
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Geçirilen bağımsız değişkenlerle yeni PdfMetadataSignature oluşturur ve onu koleksiyona ekler.
+description: Geçirilen bağımsız değişkenlerle yeni PdfMetadataSignature oluşturur ve koleksiyona ekler.
 type: docs
 weight: 60
 url: /tr/net/groupdocs.signature.options/metadatasignoptions/addpdfsignature/
 ---
 ## MetadataSignOptions.AddPdfSignature method
 
-Geçirilen bağımsız değişkenlerle yeni PdfMetadataSignature oluşturur ve onu koleksiyona ekler.
+Geçirilen bağımsız değişkenlerle yeni PdfMetadataSignature oluşturur ve koleksiyona ekler.
 
 ```csharp
 public PdfMetadataSignature AddPdfSignature(string name, object value, string tag = "xmp")

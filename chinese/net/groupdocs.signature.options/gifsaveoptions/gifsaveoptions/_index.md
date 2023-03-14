@@ -1,14 +1,14 @@
 ---
 title: GifSaveOptions
 second_title: GroupDocs.Signature for .NET API 参考
-description: 使用默认值创建 GifSaveOptions
+description: 使用默认值创建 GifSaveOptions.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.options/gifsaveoptions/gifsaveoptions/
 ---
 ## GifSaveOptions constructor
 
-使用默认值创建 GifSaveOptions。
+使用默认值创建 GifSaveOptions.
 
 ```csharp
 public GifSaveOptions()

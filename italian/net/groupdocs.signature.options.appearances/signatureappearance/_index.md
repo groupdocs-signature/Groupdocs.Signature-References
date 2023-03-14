@@ -1,14 +1,14 @@
 ---
 title: SignatureAppearance
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Rappresenta laspetto della firma  opzioni aggiuntive per implementazioni alternative della pagina del segno sulla pagina del documento.
+description: Rappresenta laspetto della firma  opzioni aggiuntive per implementazioni alternative del segno sulla pagina del documento.
 type: docs
-weight: 1170
+weight: 1240
 url: /it/net/groupdocs.signature.options.appearances/signatureappearance/
 ---
 ## SignatureAppearance class
 
-Rappresenta l'aspetto della firma - opzioni aggiuntive per implementazioni alternative della pagina del segno sulla pagina del documento.
+Rappresenta l'aspetto della firma - opzioni aggiuntive per implementazioni alternative del segno sulla pagina del documento.
 
 ```csharp
 public abstract class SignatureAppearance

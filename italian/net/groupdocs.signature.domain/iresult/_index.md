@@ -3,7 +3,7 @@ title: IResult
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Interfaccia comune per il risultato del processo di firma.
 type: docs
-weight: 510
+weight: 530
 url: /it/net/groupdocs.signature.domain/iresult/
 ---
 ## IResult interface
@@ -18,8 +18,12 @@ public interface IResult
 
 | Nome | Descrizione |
 | --- | --- |
+| [DestinDocumentSize](../../groupdocs.signature.domain/iresult/destindocumentsize) { get; } | Restituisce la dimensione del documento di destinazione |
 | [Failed](../../groupdocs.signature.domain/iresult/failed) { get; } | Elenco delle firme che non sono state elaborate[`BaseSignature`](../basesignature) . |
+| [ProcessingTime](../../groupdocs.signature.domain/iresult/processingtime) { get; } | Restituisce il tempo di esecuzione del processo in millisecondi |
+| [SourceDocumentSize](../../groupdocs.signature.domain/iresult/sourcedocumentsize) { get; } | Restituisce la dimensione del documento di origine |
 | [Succeeded](../../groupdocs.signature.domain/iresult/succeeded) { get; } | Elenco delle firme elaborate correttamente[`BaseSignature`](../basesignature) . |
+| [TotalSignatures](../../groupdocs.signature.domain/iresult/totalsignatures) { get; } | Restituisce il totale delle firme elaborate |
 
 ### Guarda anche
 

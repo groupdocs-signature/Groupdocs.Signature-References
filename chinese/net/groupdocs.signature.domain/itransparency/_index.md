@@ -3,7 +3,7 @@ title: ITransparency
 second_title: GroupDocs.Signature for .NET API 参考
 description: 定义不同对象外观的透明度属性
 type: docs
-weight: 540
+weight: 560
 url: /zh/net/groupdocs.signature.domain/itransparency/
 ---
 ## ITransparency interface
@@ -18,7 +18,7 @@ public interface ITransparency
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Transparency](../../groupdocs.signature.domain/itransparency/transparency) { get; set; } | 获取或设置一个值以指示对象透明度。值从 0.0 到 1.0。 默认值为 0 |
+| [Transparency](../../groupdocs.signature.domain/itransparency/transparency) { get; set; } | 获取或设置一个值以指示对象透明度。该值是从 0.0 到 1.0. 默认值是 0 |
 
 ### 也可以看看
 

@@ -3,7 +3,7 @@ title: Email
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет формат электронной почты для QRкода.
 type: docs
-weight: 220
+weight: 240
 url: /ru/net/groupdocs.signature.domain.extensions/email/
 ---
 ## Email class

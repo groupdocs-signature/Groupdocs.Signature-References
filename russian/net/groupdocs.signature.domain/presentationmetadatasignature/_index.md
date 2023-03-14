@@ -3,7 +3,7 @@ title: PresentationMetadataSignature
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Содержит свойства подписи метаданных презентации.
 type: docs
-weight: 710
+weight: 740
 url: /ru/net/groupdocs.signature.domain/presentationmetadatasignature/
 ---
 ## PresentationMetadataSignature class
@@ -37,6 +37,7 @@ public sealed class PresentationMetadataSignature : MetadataSignature
 | [SignatureId](../../groupdocs.signature.domain/basesignature/signatureid) { get; } | Уникальный идентификатор подписи для изменения подписи в документе с помощью методов Update или Delete. Это свойство будет установлено автоматически после вызова метода Sign или Search. Если это свойство было сохранено до того, как его можно будет установить вручную для управления подписью. |
 | [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | Указывает тип подписи. |
 | [Top](../../groupdocs.signature.domain/basesignature/top) { get; set; } | Указывает верхнее положение подписи. |
+| [Type](../../groupdocs.signature.domain/metadatasignature/type) { get; } | Указывает тип значения метаданных. |
 | [Value](../../groupdocs.signature.domain/metadatasignature/value) { get; set; } | Указывает объект метаданных. |
 | [Width](../../groupdocs.signature.domain/basesignature/width) { get; set; } | Определяет ширину подписи. |
 

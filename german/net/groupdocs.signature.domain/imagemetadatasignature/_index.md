@@ -3,7 +3,7 @@ title: ImageMetadataSignature
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Enthält BildmetadatenSignatureigenschaften.
 type: docs
-weight: 550
+weight: 570
 url: /de/net/groupdocs.signature.domain/imagemetadatasignature/
 ---
 ## ImageMetadataSignature class
@@ -31,7 +31,7 @@ public sealed class ImageMetadataSignature : MetadataSignature
 | [Height](../../groupdocs.signature.domain/basesignature/height) { get; set; } | Gibt die Höhe der Unterschrift an. |
 | [Id](../../groupdocs.signature.domain/imagemetadatasignature/id) { get; set; } | Die Kennung der Bild-Metadaten-Signatur. SieheImageMetadataSignatures Klasse, die eine Standardsignatur mit vordefiniertem ID-Wert enthält. |
 | [IsSignature](../../groupdocs.signature.domain/basesignature/issignature) { get; set; } | Flag abrufen oder setzen, um anzugeben, ob diese Komponente eine Signatur oder ein Dokumentinhalt ist. Diese Eigenschaft wird mit der Update-Methode verwendet, um ein Element als Signatur (true) oder Dokumentelement (false) festzulegen. |
-| [Left](../../groupdocs.signature.domain/basesignature/left) { get; set; } | Gibt die linke Position der Unterschrift an. |
+| [Left](../../groupdocs.signature.domain/basesignature/left) { get; set; } | Gibt die linke Position der Signatur an. |
 | [ModifiedOn](../../groupdocs.signature.domain/basesignature/modifiedon) { get; set; } | Abrufen oder Festlegen des Änderungsdatums der Signatur. |
 | [Name](../../groupdocs.signature.domain/metadatasignature/name) { get; set; } | Gibt einen eindeutigen Metadatennamen an. |
 | [PageNumber](../../groupdocs.signature.domain/basesignature/pagenumber) { get; } | Gibt an, auf welcher Seitensignatur gefunden wurde. |
@@ -39,6 +39,7 @@ public sealed class ImageMetadataSignature : MetadataSignature
 | [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | Gibt den Signaturtyp an. |
 | [Size](../../groupdocs.signature.domain/imagemetadatasignature/size) { get; } | Schreibgeschützter Wert zum Abrufen der Größe des Metadatenwerts |
 | [Top](../../groupdocs.signature.domain/basesignature/top) { get; set; } | Gibt die obere Position der Unterschrift an. |
+| [Type](../../groupdocs.signature.domain/metadatasignature/type) { get; } | Gibt den Typ des Metadatenwerts an. |
 | [Value](../../groupdocs.signature.domain/metadatasignature/value) { get; set; } | Gibt das Metadatenobjekt an. |
 | [Width](../../groupdocs.signature.domain/basesignature/width) { get; set; } | Gibt die Breite der Unterschrift an. |
 

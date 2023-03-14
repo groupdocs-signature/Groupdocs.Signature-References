@@ -3,7 +3,7 @@ title: Padding
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل معلومات الحشو أو الهامش المرتبطة بالعنصر.
 type: docs
-weight: 610
+weight: 640
 url: /ar/net/groupdocs.signature.domain/padding/
 ---
 ## Padding class

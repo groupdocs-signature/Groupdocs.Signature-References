@@ -3,7 +3,7 @@ title: SCC14
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Objet de type de codebarres SCC14.
 type: docs
-weight: 540
+weight: 570
 url: /fr/net/groupdocs.signature.domain/barcodetypes/scc14/
 ---
 ## BarcodeTypes.SCC14 field

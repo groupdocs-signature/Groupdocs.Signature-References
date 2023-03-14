@@ -3,7 +3,7 @@ title: IDataSerializer
 second_title: GroupDocs.Signature لمرجع .NET API
 description: واجهة التسلسل لتوفير طرق تسلسل الكائن وإلغاء التسلسل.
 type: docs
-weight: 260
+weight: 280
 url: /ar/net/groupdocs.signature.domain.extensions/idataserializer/
 ---
 ## IDataSerializer interface

@@ -1,14 +1,14 @@
 ---
 title: QrCodeSearchOptions
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Rappresenta le opzioni di ricerca per le firme QRCode.
+description: Rappresenta le opzioni di ricerca per le firme del codice QR.
 type: docs
-weight: 1540
+weight: 1620
 url: /it/net/groupdocs.signature.options/qrcodesearchoptions/
 ---
 ## QrCodeSearchOptions class
 
-Rappresenta le opzioni di ricerca per le firme QR-Code.
+Rappresenta le opzioni di ricerca per le firme del codice QR.
 
 ```csharp
 public class QrCodeSearchOptions : SearchOptions
@@ -27,22 +27,22 @@ public class QrCodeSearchOptions : SearchOptions
 | Nome | Descrizione |
 | --- | --- |
 | [AllPages](../../groupdocs.signature.options/searchoptions/allpages) { get; set; } | Flag per la ricerca in ogni pagina del documento. Per impostazione predefinita, questo valore è impostato su true. |
-| [DataEncryption](../../groupdocs.signature.options/qrcodesearchoptions/dataencryption) { get; set; } | Ottiene o imposta l'implementazione di[`IDataEncryption`](../../groupdocs.signature.domain.extensions/idataencryption) interfaccia per codificare e decodificare QR-Code Firma Testo o Proprietà dei dati. |
-| [EncodeType](../../groupdocs.signature.options/qrcodesearchoptions/encodetype) { get; set; } | Specifica la proprietà del tipo di codifica per cercare i codici QR. Se questo valore non è impostato, la ricerca viene elaborata per tutti i tipi di codici QR supportati. |
+| [DataEncryption](../../groupdocs.signature.options/qrcodesearchoptions/dataencryption) { get; set; } | Ottiene o imposta l'implementazione di[`IDataEncryption`](../../groupdocs.signature.domain.extensions/idataencryption) interfaccia per codificare e decodificare le proprietà del testo della firma del codice QR o dei dati. |
+| [EncodeType](../../groupdocs.signature.options/qrcodesearchoptions/encodetype) { get; set; } | Specifica la proprietà Tipo di codifica per cercare i codici QR. Se questo valore non è impostato, la ricerca viene elaborata per tutti i tipi di codice QR supportati. |
 | [MatchType](../../groupdocs.signature.options/qrcodesearchoptions/matchtype) { get; set; } | Ottiene o imposta la ricerca del tipo di corrispondenza del testo del codice QR. Viene utilizzato solo quando è impostata la proprietà Text. |
 | [PageNumber](../../groupdocs.signature.options/searchoptions/pagenumber) { get; set; } | Ottiene o imposta il numero di pagina del documento per la ricerca. Il valore è facoltativo. |
 | [PagesSetup](../../groupdocs.signature.options/searchoptions/pagessetup) { get; set; } | Opzioni per specificare le pagine per la ricerca della firma. |
 | [ReturnContent](../../groupdocs.signature.options/qrcodesearchoptions/returncontent) { get; set; } | Ottiene o imposta il flag per acquisire il contenuto dell'immagine del codice QR della firma sulla pagina del documento. Se questo flag è impostato su true, il contenuto dell'immagine della firma del codice QR manterrà i dati dell'immagine non elaborata nel formato richiesto[`ReturnContentType`](./returncontenttype) . Per impostazione predefinita questa opzione è disabilitata. |
 | [ReturnContentType](../../groupdocs.signature.options/qrcodesearchoptions/returncontenttype) { get; set; } | Specifica il tipo di file del contenuto dell'immagine restituita della firma del codice QR quando la proprietà ReturnContent è abilitata. Per impostazione predefinita è impostata su Null. Ciò significa restituire il contenuto dell'immagine QR-Code nel formato originale. Questo formato immagine è specificato in[`Format`](../../groupdocs.signature.domain/qrcodesignature/format) I possibili valori supportati sono: FileType.JPEG, FileType.PNG, FileType.BMP. Se il formato fornito non è supportato, verrà restituito il contenuto dell'immagine del codice QR nel formato .png originale. |
 | [SkipExternal](../../groupdocs.signature.options/searchoptions/skipexternal) { get; set; } | Flag per restituire solo le firme contrassegnate come IsSignature. Per impostazione predefinita, il valore è false che indica di restituire tutte le firme che corrispondono ai criteri specificati. |
-| [Text](../../groupdocs.signature.options/qrcodesearchoptions/text) { get; set; } | Specifica il testo della firma del codice QR se deve essere cercato e confrontato. |
+| [Text](../../groupdocs.signature.options/qrcodesearchoptions/text) { get; set; } | Specifica il testo della firma del codice QR se deve essere cercato e abbinato. |
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
-* Utilizzo di base della ricerca della firma elettronica QR-Code di GroupDocs.Firma: [Come eseguire la ricerca elettronica delle firme QR-Code in un documento](https://docs.groupdocs.com/display/signaturenet/Search+for+QR-Code+e-signatures)
-* Utilizzo avanzato delle impostazioni di ricerca della firma elettronica QR-Code con GroupDocs.Signature: [Utilizzo avanzato delle firme eSearch QR-Code in un documento e impostazioni aggiuntive](https://docs.groupdocs.com/display/signaturenet/Advanced+search+for+QR-code+signatures)
+* Utilizzo di base della ricerca della firma elettronica del codice QR da parte di GroupDocs.Firma: [Come eSearch firme QR-Code in un documento](https://docs.groupdocs.com/display/signaturenet/Search+for+QR-Code+e-signatures)
+* Utilizzo avanzato delle impostazioni di ricerca della firma elettronica QR-Code con GroupDocs.Firma: [Utilizzo avanzato delle firme QR-Code eSearch in un documento e impostazioni aggiuntive](https://docs.groupdocs.com/display/signaturenet/Advanced+search+for+QR-code+signatures)
 
 ### Guarda anche
 

@@ -1,14 +1,14 @@
 ---
 title: Color
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Ottiene o imposta il colore dellombra. Il valore predefinito è Nero.
+description: Ottiene o imposta il colore dellombra. Il valore predefinito è Black.
 type: docs
 weight: 40
 url: /it/net/groupdocs.signature.domain.extensions/textshadow/color/
 ---
 ## TextShadow.Color property
 
-Ottiene o imposta il colore dell'ombra. Il valore predefinito è Nero.
+Ottiene o imposta il colore dell'ombra. Il valore predefinito è Black.
 
 ```csharp
 public Color Color { get; set; }

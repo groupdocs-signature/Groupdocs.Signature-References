@@ -3,7 +3,7 @@ title: ToInteger
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Tamsayıya dönüştürür.
 type: docs
-weight: 120
+weight: 130
 url: /tr/net/groupdocs.signature.domain/metadatasignature/tointeger/
 ---
 ## MetadataSignature.ToInteger method

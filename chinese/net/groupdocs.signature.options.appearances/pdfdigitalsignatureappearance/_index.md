@@ -1,14 +1,14 @@
 ---
 title: PdfDigitalSignatureAppearance
 second_title: GroupDocs.Signature for .NET API 参考
-description: 描述 PDF 文档中数字签名的外观
+description: 描述数字签名在 PDF 文档上的外观
 type: docs
-weight: 1140
+weight: 1210
 url: /zh/net/groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/
 ---
 ## PdfDigitalSignatureAppearance class
 
-描述 PDF 文档中数字签名的外观。
+描述数字签名在 PDF 文档上的外观。
 
 ```csharp
 public sealed class PdfDigitalSignatureAppearance : SignatureAppearance
@@ -25,21 +25,21 @@ public sealed class PdfDigitalSignatureAppearance : SignatureAppearance
 | 姓名 | 描述 |
 | --- | --- |
 | [Background](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/background) { get; set; } | 获取或设置签名外观的背景颜色。 默认值为 SystemColors.Windows |
-| [ContactInfoLabel](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/contactinfolabel) { get; set; } | 获取或设置联系信息标签。默认值：“联系人”。 如果此值为空，则数字签名区域不会出现联系人标签。 |
+| [ContactInfoLabel](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/contactinfolabel) { get; set; } | 获取或设置联系信息标签。默认值：“联系人”. 如果此值为空则数字签名区域不会出现联系人标签. |
 | [DateSignedAtLabel](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/datesignedatlabel) { get; set; } | 获取或设置日期签名标签。默认值：“日期”. |
 | [DigitalSignedLabel](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/digitalsignedlabel) { get; set; } | 获取或设置数字签名标签。默认值：“数字签名者”. |
-| [FontFamilyName](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/fontfamilyname) { get; set; } | 获取或设置字体系列名称以显示标签。默认值为“Arial”。 |
+| [FontFamilyName](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/fontfamilyname) { get; set; } | 获取或设置字体系列名称以显示标签。默认值为“宋体”. |
 | [FontSize](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/fontsize) { get; set; } | 获取或设置字体大小以显示标签。默认值为 10. |
-| [Foreground](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/foreground) { get; set; } | 获取或设置签名外观的前景色。 默认值为Color.FromArgb(76, 100, 255) |
-| [LocationLabel](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/locationlabel) { get; set; } | 获取或设置位置标签。默认值：“位置”。 如果此值为空，则数字签名区域将不会出现位置标签。 |
-| [ReasonLabel](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/reasonlabel) { get; set; } | 获取或设置原因标签。默认值：“原因”。 如果此值为空，则数字签名区域不会出现原因标签。 |
+| [Foreground](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/foreground) { get; set; } | 获取或设置签名外观的前景文本颜色。 默认值为 Color.FromArgb(76, 100, 255) |
+| [LocationLabel](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/locationlabel) { get; set; } | 获取或设置位置标签。默认值：“Location”. 如果该值为空则数字签名区域不会出现位置标签. |
+| [ReasonLabel](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/reasonlabel) { get; set; } | 获取或设置原因标签。默认值：“原因”. 如果此值为空则数字签名区域不会出现原因标签. |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 查看更多关于使用 GroupDocs.Signature 创建数字电子签名的简单示例： [带有数字电子签名的高级签名文档](https://docs.groupdocs.com/signature/net/sign-document-with-digital-signature-advanced/)
-* 使用GroupDocs.Signature查看各种电子签名设置的更高级示例： [高级电子签名属性](https://docs.groupdocs.com/signature/net/sign-documents-with-extra-digital-signature-properties/)
+* 查看更多有关使用 GroupDocs 创建数字电子签名的简单示例。签名： [带有数字电子签名的高级签名文件](https://docs.groupdocs.com/signature/net/sign-document-with-digital-signature-advanced/)
+* 查看更高级的GroupDocs各种电子签名设置示例。Signature: [高级电子签名属性](https://docs.groupdocs.com/signature/net/sign-documents-with-extra-digital-signature-properties/)
 
 ### 也可以看看
 

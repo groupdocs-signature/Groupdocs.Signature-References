@@ -3,7 +3,7 @@ title: Brush
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет базовый класс для различных кистей.
 type: docs
-weight: 180
+weight: 190
 url: /ru/net/groupdocs.signature.domain.extensions/brush/
 ---
 ## Brush class

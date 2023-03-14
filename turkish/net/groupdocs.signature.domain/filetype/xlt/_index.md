@@ -1,14 +1,14 @@
 ---
 title: XLT
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Excel ikili Şablonu .xlt Excel Şablonu Dosya Biçimini temsil eder. Bu dosya biçimi hakkında daha fazla bilgi edininburadahttps//wiki.fileformat.com/spreadsheet/xlt .
+description: Excel ikili Şablonu .xlt Excel Şablonu Dosya Biçimini temsil eder. Bu dosya biçimi hakkında daha fazla bilgi edininBuradahttps//wiki.fileformat.com/spreadsheet/xlt .
 type: docs
-weight: 550
+weight: 560
 url: /tr/net/groupdocs.signature.domain/filetype/xlt/
 ---
 ## FileType.XLT field
 
-Excel ikili Şablonu (.xlt), Excel Şablonu Dosya Biçimini temsil eder. Bu dosya biçimi hakkında daha fazla bilgi edinin[burada](https://wiki.fileformat.com/spreadsheet/xlt) .
+Excel ikili Şablonu (.xlt), Excel Şablonu Dosya Biçimini temsil eder. Bu dosya biçimi hakkında daha fazla bilgi edinin[Burada](https://wiki.fileformat.com/spreadsheet/xlt) .
 
 ```csharp
 public static readonly FileType XLT;

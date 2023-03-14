@@ -33,7 +33,7 @@ public PdfTextAnnotationAppearance(string title, string subject, string contents
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | title | String | Titolo. |
-| subject | String | Materia. |
+| subject | String | Soggetto. |
 | contents | String | Contenuti. |
 
 ### Guarda anche

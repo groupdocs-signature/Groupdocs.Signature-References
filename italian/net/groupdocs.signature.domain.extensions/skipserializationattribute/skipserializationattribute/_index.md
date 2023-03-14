@@ -1,14 +1,14 @@
 ---
 title: SkipSerializationAttribute
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Crea lattributo Formato con la proprietà specificata Nome.
+description: Crea lattributo Format con la proprietà specificata Name.
 type: docs
 weight: 10
 url: /it/net/groupdocs.signature.domain.extensions/skipserializationattribute/skipserializationattribute/
 ---
 ## SkipSerializationAttribute constructor
 
-Crea l'attributo Formato con la proprietà specificata Nome.
+Crea l'attributo Format con la proprietà specificata Name.
 
 ```csharp
 public SkipSerializationAttribute()

@@ -3,7 +3,7 @@ title: SignResult
 second_title: GroupDocs.Signature för .NET API-referens
 description: Resultat av signeringsprocess för dokument med nyskapade signaturer.
 type: docs
-weight: 810
+weight: 840
 url: /sv/net/groupdocs.signature.domain/signresult/
 ---
 ## SignResult class
@@ -18,8 +18,12 @@ public class SignResult : IResult
 
 | namn | Beskrivning |
 | --- | --- |
+| [DestinDocumentSize](../../groupdocs.signature.domain/signresult/destindocumentsize) { get; } | Returnerar måldokumentstorlek |
 | [Failed](../../groupdocs.signature.domain/signresult/failed) { get; } | Lista över signaturer som inte kunde skapas. |
+| [ProcessingTime](../../groupdocs.signature.domain/signresult/processingtime) { get; } | Returnerar exekveringstiden för processen i millisekunder |
+| [SourceDocumentSize](../../groupdocs.signature.domain/signresult/sourcedocumentsize) { get; } | Returnerar källdokumentets storlek |
 | [Succeeded](../../groupdocs.signature.domain/signresult/succeeded) { get; } | Lista över nyskapade signaturer[`BaseSignature`](../basesignature) . |
+| [TotalSignatures](../../groupdocs.signature.domain/signresult/totalsignatures) { get; } | Returnerar det totala antalet behandlade signaturer |
 
 ### Se även
 

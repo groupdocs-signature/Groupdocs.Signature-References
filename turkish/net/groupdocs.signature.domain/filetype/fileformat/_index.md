@@ -3,7 +3,7 @@ title: FileFormat
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Dosya türü adı örneğin Microsoft Word Belgesi.
 type: docs
-weight: 590
+weight: 600
 url: /tr/net/groupdocs.signature.domain/filetype/fileformat/
 ---
 ## FileType.FileFormat property

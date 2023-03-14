@@ -3,7 +3,7 @@ title: TextMatchType
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Определяет тип соответствия текста в строке.
 type: docs
-weight: 950
+weight: 980
 url: /ru/net/groupdocs.signature.domain/textmatchtype/
 ---
 ## TextMatchType enumeration

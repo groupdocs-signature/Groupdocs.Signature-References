@@ -3,7 +3,7 @@ title: ToList
 second_title: GroupDocs.Signature för .NET API-referens
 description: Ger konvertering till starkt skriven lista med signaturer.
 type: docs
-weight: 30
+weight: 80
 url: /sv/net/groupdocs.signature.domain/searchresult/tolist/
 ---
 ## SearchResult.ToList&lt;T&gt; method

@@ -1,14 +1,14 @@
 ---
 title: Foreground
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置签名外观的前景色 默认值为Color.FromArgb76 100 255
+description: 获取或设置签名外观的前景文本颜色 默认值为 Color.FromArgb76 100 255
 type: docs
 weight: 80
 url: /zh/net/groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/foreground/
 ---
 ## PdfDigitalSignatureAppearance.Foreground property
 
-获取或设置签名外观的前景色。 默认值为Color.FromArgb(76, 100, 255)
+获取或设置签名外观的前景文本颜色。 默认值为 Color.FromArgb(76, 100, 255)
 
 ```csharp
 public Color Foreground { get; set; }

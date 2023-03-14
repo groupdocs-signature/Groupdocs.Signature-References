@@ -3,7 +3,7 @@ title: License
 second_title: GroupDocs.Signature for .NET API 参考
 description: 提供许可组件的方法了解有关许可的更多信息这里https//purchase.groupdocs.com/faqs/licensing.
 type: docs
-weight: 1100
+weight: 1130
 url: /zh/net/groupdocs.signature/license/
 ---
 ## License class
@@ -18,7 +18,7 @@ public sealed class License
 
 | 姓名 | 描述 |
 | --- | --- |
-| [License](license)() | 实例化许可证 |
+| [License](license)() | 实例化 License |
 
 ## 方法
 
@@ -29,10 +29,10 @@ public sealed class License
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * 有关许可的更多信息： [GroupDocs 许可常见问题解答](https://purchase.groupdocs.com/faqs/licensing)
-* 有关 GroupDocs.Signature 许可的更多信息： [评估限制和许可](https://docs.groupdocs.com/display/signaturenet/Evaluation+Limitations+and+Licensing+of+GroupDocs.Signature)
+* 有关 GroupDocs 的更多信息。签名许可： [评估限制和许可](https://docs.groupdocs.com/display/signaturenet/Evaluation+Limitations+and+Licensing+of+GroupDocs.Signature)
 
 ### 也可以看看
 

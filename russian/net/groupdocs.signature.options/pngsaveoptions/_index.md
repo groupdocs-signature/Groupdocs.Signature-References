@@ -3,7 +3,7 @@ title: PngSaveOptions
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Png Параметры сохранения для документов изображений.
 type: docs
-weight: 1480
+weight: 1560
 url: /ru/net/groupdocs.signature.options/pngsaveoptions/
 ---
 ## PngSaveOptions class

@@ -1,14 +1,14 @@
 ---
 title: SVG
 second_title: GroupDocs.Signature for .NET API 参考
-description: 可缩放矢量图形文件 .svg 是一个标量矢量图形文件它使用基于 XML 的文本格式来描述图像的外观 了解有关此文件格式的更多信息这里https//wiki.fileformat.com/pagedescriptionlanguage/svg
+description: 可缩放矢量图形文件 .svg 是一种标量矢量图形文件它使用基于 XML 的文本格式来描述图像的外观 了解有关此文件格式的更多信息这里https//wiki.fileformat.com/pagedescriptionlanguage/svg
 type: docs
-weight: 410
+weight: 420
 url: /zh/net/groupdocs.signature.domain/filetype/svg/
 ---
 ## FileType.SVG field
 
-可缩放矢量图形文件 (.svg) 是一个标量矢量图形文件，它使用基于 XML 的文本格式来描述图像的外观。 了解有关此文件格式的更多信息[这里](https://wiki.fileformat.com/page-description-language/svg)
+可缩放矢量图形文件 (.svg) 是一种标量矢量图形文件，它使用基于 XML 的文本格式来描述图像的外观。 了解有关此文件格式的更多信息[这里](https://wiki.fileformat.com/page-description-language/svg)
 
 ```csharp
 public static readonly FileType SVG;

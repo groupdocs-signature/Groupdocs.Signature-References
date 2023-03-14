@@ -1,14 +1,14 @@
 ---
 title: LoadOptions
 second_title: GroupDocs.Signature for .NET API 参考
-description: 允许在打开要签名的文档时指定其他选项例如密码
+description: 允许在打开文档进行签名时指定其他选项例如密码
 type: docs
-weight: 1390
+weight: 1470
 url: /zh/net/groupdocs.signature.options/loadoptions/
 ---
 ## LoadOptions class
 
-允许在打开要签名的文档时指定其他选项（例如密码）。
+允许在打开文档进行签名时指定其他选项（例如密码）。
 
 ```csharp
 public class LoadOptions
@@ -24,8 +24,8 @@ public class LoadOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LoadExternalResources](../../groupdocs.signature.options/loadoptions/loadexternalresources) { get; set; } | 获取或设置指定是否应加载外部文档资源的选项。 此选项的禁用值 (false) 允许为具有许多或大型外部资源链接的文档节省加载时间。 默认值启用 (true)。 |
-| [Password](../../groupdocs.signature.options/loadoptions/password) { get; set; } | 获取或设置密码以打开受保护的文档。 它还将用于将签名的文档另存为受保护的。 |
+| [LoadExternalResources](../../groupdocs.signature.options/loadoptions/loadexternalresources) { get; set; } | 获取或设置指定是否应加载外部文档资源的选项。 此选项禁用值 (false) 允许节省具有许多或大型外部资源链接的文档的加载时间。 默认值启用 (true)。 |
+| [Password](../../groupdocs.signature.options/loadoptions/password) { get; set; } | 获取或设置密码以打开受保护的文档。 它还将用于将已签名的文档保存为受保护的。 |
 
 ### 也可以看看
 

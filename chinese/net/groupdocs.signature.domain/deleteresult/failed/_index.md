@@ -3,7 +3,7 @@ title: Failed
 second_title: GroupDocs.Signature for .NET API 参考
 description: 未删除的签名列表BaseSignaturegroupdocs.signature.domain/basesignature.
 type: docs
-weight: 10
+weight: 20
 url: /zh/net/groupdocs.signature.domain/deleteresult/failed/
 ---
 ## DeleteResult.Failed property

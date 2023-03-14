@@ -3,7 +3,7 @@ title: TextureBrush
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Représente le pinceau de texture.
 type: docs
-weight: 390
+weight: 410
 url: /fr/net/groupdocs.signature.domain.extensions/texturebrush/
 ---
 ## TextureBrush class

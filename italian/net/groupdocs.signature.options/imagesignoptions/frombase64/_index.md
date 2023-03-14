@@ -1,14 +1,14 @@
 ---
 title: FromBase64
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Crea una nuova istanza della classe ImageSignOptions con unimmagine predefinita da Base64.
+description: Crea una nuova istanza della classe ImageSignOptions con immagine predefinita da Base64.
 type: docs
 weight: 20
 url: /it/net/groupdocs.signature.options/imagesignoptions/frombase64/
 ---
 ## ImageSignOptions.FromBase64 method
 
-Crea una nuova istanza della classe ImageSignOptions con un'immagine predefinita da Base64.
+Crea una nuova istanza della classe ImageSignOptions con immagine predefinita da Base64.
 
 ```csharp
 public static ImageSignOptions FromBase64(string base64Content)

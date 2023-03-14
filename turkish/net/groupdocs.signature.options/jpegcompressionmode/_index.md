@@ -3,7 +3,7 @@ title: JpegCompressionMode
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: JPEG sıkıştırma modlarını belirtir.
 type: docs
-weight: 1360
+weight: 1440
 url: /tr/net/groupdocs.signature.options/jpegcompressionmode/
 ---
 ## JpegCompressionMode enumeration

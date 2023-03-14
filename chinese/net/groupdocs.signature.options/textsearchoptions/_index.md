@@ -3,7 +3,7 @@ title: TextSearchOptions
 second_title: GroupDocs.Signature for .NET API 参考
 description: 表示文本签名的搜索选项
 type: docs
-weight: 1640
+weight: 1720
 url: /zh/net/groupdocs.signature.options/textsearchoptions/
 ---
 ## TextSearchOptions class
@@ -35,10 +35,10 @@ public class TextSearchOptions : SearchOptions
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* GroupDocs.Signature搜索Text电子签名的基本用法： [如何在文档中搜索文本签名](https://docs.groupdocs.com/display/signaturenet/Search+for+Text+e-signatures)
-* 使用 GroupDocs.Signature 搜索文本电子签名设置的高级用法： [文档中 eSearch 文本签名的高级使用和其他设置](https://docs.groupdocs.com/display/signaturenet/Advanced+search+for+Text+signatures)
+* GroupDocs.Signature: 搜索文本电子签名的基本用法[如何在文档中搜索文本签名](https://docs.groupdocs.com/display/signaturenet/Search+for+Text+e-signatures)
+* 使用 GroupDocs 搜索文本电子签名设置的高级用法。签名： [文档中 eSearch 文本签名的高级用法和其他设置](https://docs.groupdocs.com/display/signaturenet/Advanced+search+for+Text+signatures)
 
 ### 也可以看看
 

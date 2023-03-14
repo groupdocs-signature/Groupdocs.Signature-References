@@ -1,14 +1,14 @@
 ---
 title: Address
 second_title: Справочник по API GroupDocs.Signature для .NET
-description: Получает или устанавливает общедоступный адрес криптовалюты.
+description: Получает или устанавливает публичный адрес криптовалюты.
 type: docs
 weight: 20
 url: /ru/net/groupdocs.signature.domain.extensions/cryptocurrencytransfer/address/
 ---
 ## CryptoCurrencyTransfer.Address property
 
-Получает или устанавливает общедоступный адрес криптовалюты.
+Получает или устанавливает публичный адрес криптовалюты.
 
 ```csharp
 public string Address { get; set; }

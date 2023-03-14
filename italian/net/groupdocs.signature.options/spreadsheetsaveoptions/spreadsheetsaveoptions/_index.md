@@ -24,7 +24,7 @@ public SpreadsheetSaveOptions()
 
 ## SpreadsheetSaveOptions(SpreadsheetSaveFileFormat) {#constructor_1}
 
-Inizializza una nuova istanza della classe SpreadsheetSaveOptions con formato file di output predefinito.
+Inizializza una nuova istanza della classe SpreadsheetSaveOptions con formato di file di output predefinito.
 
 ```csharp
 public SpreadsheetSaveOptions(SpreadsheetSaveFileFormat fileFormat)

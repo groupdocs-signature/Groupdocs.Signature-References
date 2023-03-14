@@ -3,7 +3,7 @@ title: SpreadsheetSaveOptions
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Enregistrer les options pour les documents de feuille de calcul.
 type: docs
-weight: 1620
+weight: 1700
 url: /fr/net/groupdocs.signature.options/spreadsheetsaveoptions/
 ---
 ## SpreadsheetSaveOptions class

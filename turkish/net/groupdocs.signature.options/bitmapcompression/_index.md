@@ -3,7 +3,7 @@ title: BitmapCompression
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Farklı bitmap sıkıştırma yöntemlerini belirtir.
 type: docs
-weight: 1210
+weight: 1280
 url: /tr/net/groupdocs.signature.options/bitmapcompression/
 ---
 ## BitmapCompression enumeration

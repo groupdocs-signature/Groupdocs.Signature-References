@@ -3,7 +3,7 @@ title: Corners
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Repräsentiert Ecken eines quadratischen grafischen Objekts.
 type: docs
-weight: 100
+weight: 110
 url: /de/net/groupdocs.signature.domain/corners/
 ---
 ## Corners class

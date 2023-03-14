@@ -3,7 +3,7 @@ title: Brush
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Representa la clase base para varios pinceles.
 type: docs
-weight: 180
+weight: 190
 url: /es/net/groupdocs.signature.domain.extensions/brush/
 ---
 ## Brush class

@@ -3,7 +3,7 @@ title: WordProcessingSaveFileFormat
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: WordProcessing belgeleri için farklı dosya kaydetme biçimleri tanımlar.
 type: docs
-weight: 1050
+weight: 1080
 url: /tr/net/groupdocs.signature.domain/wordprocessingsavefileformat/
 ---
 ## WordProcessingSaveFileFormat enumeration
@@ -18,7 +18,7 @@ public enum WordProcessingSaveFileFormat
 
 | İsim | Değer | Tanım |
 | --- | --- | --- |
-| Default | `0` | Dosya Formatı değiştirilmeyecektir. |
+| Default | `0` | Dosya Biçimi değiştirilmeyecek. |
 | Doc | `1` | Belgeyi Microsoft Word 97-2003 belgesi olarak kaydeder. |
 | Dot | `2` | Belgeyi Microsoft Word 97-2003 şablonu olarak kaydeder. |
 | Docx | `3` | Belgeyi Microsoft Word OpenXML belgesi olarak kaydeder. |
@@ -28,8 +28,8 @@ public enum WordProcessingSaveFileFormat
 | FlatOpc | `24` | Belgeyi ZIP paketi yerine düz bir XML dosyasında saklanan bir Office Açık XML WordprocessingML olarak kaydeder. |
 | FlatOpcMacroEnabled | `25` | Belgeyi ZIP paketi yerine düz bir XML dosyasında saklanan Office Açık XML Kelime İşlemeML Makro Etkin Belge olarak kaydeder. |
 | FlatOpcTemplate | `26` | Belgeyi ZIP paketi yerine düz bir XML dosyasında saklanan bir Office Açık XML WordprocessingML Şablonu (makrosuz) olarak kaydeder. |
-| FlatOpcTemplateMacroEnabled | `27` | Belgeyi, bir ZIP paketi yerine düz bir XML dosyasında saklanan bir Office Açık XML Kelime İşlemeML Makro Etkin Şablon olarak kaydeder. |
-| Rtf | `30` | Belgeyi RTF Formatında kaydeder. 7 bitin üzerindeki tüm karakterler, onaltılık veya Unicode karakterler olarak öncelenir. |
+| FlatOpcTemplateMacroEnabled | `27` | Belgeyi ZIP paketi yerine düz bir XML dosyasında saklanan Office Açık XML Kelime İşlemeML Makro Etkin Şablon olarak kaydeder. |
+| Rtf | `30` | Belgeyi RTF Formatında kaydeder. 7 bitin üzerindeki tüm karakterler, onaltılık veya Unicode karakterler olarak çıkışlıdır. |
 | WordML | `31` | Belgeyi Microsoft Word 2003 WordprocessingML Formatında kaydeder. |
 | Pdf | `40` | Belgeyi PDF (Adobe Portable Document) Formatında kaydeder. |
 | Xps | `41` | Belgeyi XPS (XML Kağıt Belirtimi) Formatında kaydeder. |
@@ -40,9 +40,9 @@ public enum WordProcessingSaveFileFormat
 | Ott | `61` | Belgeyi Open Office belge şablonu olarak kaydeder. |
 | Text | `70` | Belgeyi düz metin biçiminde kaydeder. |
 | Tiff | `100` | Belgenin bir sayfasını veya sayfalarını işler ve bunları tek veya çok sayfalı bir TIFF dosyasına kaydeder. |
-| Png | `101` | Belgenin bir sayfasını işler ve onu PNG dosyası olarak kaydeder. |
+| Png | `101` | Belgenin bir sayfasını işler ve PNG dosyası olarak kaydeder. |
 | Bmp | `102` | Belgenin bir sayfasını işler ve bir BMP dosyası olarak kaydeder. |
-| Emf | `103` | Belgenin bir sayfasını işler ve onu bir vektör EMF (Gelişmiş Meta Dosyası) dosyası olarak kaydeder. |
+| Emf | `103` | Belgenin bir sayfasını oluşturur ve bunu bir vektör EMF (Gelişmiş Meta Dosyası) dosyası olarak kaydeder. |
 | Jpeg | `104` | Belgenin bir sayfasını işler ve bir JPEG dosyası olarak kaydeder. |
 
 ### Ayrıca bakınız

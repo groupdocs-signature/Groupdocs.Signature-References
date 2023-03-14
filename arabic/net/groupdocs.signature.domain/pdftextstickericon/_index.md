@@ -3,7 +3,7 @@ title: PdfTextStickerIcon
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يصف تعداد مظهر رمز ملصق التعليقات التوضيحية لنص PDF .
 type: docs
-weight: 690
+weight: 720
 url: /ar/net/groupdocs.signature.domain/pdftextstickericon/
 ---
 ## PdfTextStickerIcon enumeration

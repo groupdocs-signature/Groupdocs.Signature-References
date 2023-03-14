@@ -3,7 +3,7 @@ title: IRectangle
 second_title: GroupDocs.Signature för .NET API-referens
 description: Definierar gränssnittsegenskaper för signaturområdet på en dokumentsida.
 type: docs
-weight: 500
+weight: 520
 url: /sv/net/groupdocs.signature.domain/irectangle/
 ---
 ## IRectangle interface

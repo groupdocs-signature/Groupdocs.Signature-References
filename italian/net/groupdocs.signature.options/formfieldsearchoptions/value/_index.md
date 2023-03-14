@@ -1,14 +1,14 @@
 ---
 title: Value
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Specifica il valore della firma del campo modulo se deve essere ricercato. Il valore predefinito è null.
+description: Specifica il valore della firma del campo del modulo se deve essere cercato. Il valore predefinito è null.
 type: docs
 weight: 40
 url: /it/net/groupdocs.signature.options/formfieldsearchoptions/value/
 ---
 ## FormFieldSearchOptions.Value property
 
-Specifica il valore della firma del campo modulo se deve essere ricercato. Il valore predefinito è null.
+Specifica il valore della firma del campo del modulo se deve essere cercato. Il valore predefinito è null.
 
 ```csharp
 public object Value { get; set; }

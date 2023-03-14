@@ -3,7 +3,7 @@ title: Size
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Bayt cinsinden belge boyutu.
 type: docs
-weight: 140
+weight: 150
 url: /tr/net/groupdocs.signature.domain/documentinfo/size/
 ---
 ## DocumentInfo.Size property

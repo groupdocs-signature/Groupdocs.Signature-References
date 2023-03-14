@@ -3,7 +3,7 @@ title: TiffFormat
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Especifica diferentes formatos tiff.
 type: docs
-weight: 1670
+weight: 1750
 url: /es/net/groupdocs.signature.options/tiffformat/
 ---
 ## TiffFormat enumeration
@@ -18,7 +18,7 @@ public enum TiffFormat
 
 | Nombre | Valor | Descripción |
 | --- | --- | --- |
-| Default | `0` | Defecto. |
+| Default | `0` | Por defecto. |
 | TiffLzwBw | `1` | LzwBw. |
 | TiffLzwRgb | `2` | LzwRgb. |
 | TiffLzwRgba | `3` | LzwRgba. |

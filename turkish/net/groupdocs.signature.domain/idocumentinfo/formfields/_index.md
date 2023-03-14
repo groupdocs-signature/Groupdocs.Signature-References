@@ -1,14 +1,14 @@
 ---
 title: FormFields
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Belgedeki mevcut tüm desteklenen Form Alanlarının toplanması. Bu özellik yalnızca Pdf ve Kelime İşleme belge türleri için desteklenir.
+description: Belgedeki desteklenen tüm mevcut Form Alanlarının toplanması. Bu özellik yalnızca PDF ve Kelime İşleme belge türleri için desteklenir.
 type: docs
 weight: 40
 url: /tr/net/groupdocs.signature.domain/idocumentinfo/formfields/
 ---
 ## IDocumentInfo.FormFields property
 
-Belgedeki mevcut tüm desteklenen Form Alanlarının toplanması. Bu özellik yalnızca Pdf ve Kelime İşleme belge türleri için desteklenir.
+Belgedeki desteklenen tüm mevcut Form Alanlarının toplanması. Bu özellik yalnızca PDF ve Kelime İşleme belge türleri için desteklenir.
 
 ```csharp
 public IList<FormFieldSignature> FormFields { get; }

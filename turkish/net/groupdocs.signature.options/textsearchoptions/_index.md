@@ -3,7 +3,7 @@ title: TextSearchOptions
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Metin imzaları için arama seçeneklerini temsil eder.
 type: docs
-weight: 1640
+weight: 1720
 url: /tr/net/groupdocs.signature.options/textsearchoptions/
 ---
 ## TextSearchOptions class

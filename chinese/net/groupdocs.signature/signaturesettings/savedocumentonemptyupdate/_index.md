@@ -1,14 +1,14 @@
 ---
 title: SaveDocumentOnEmptyUpdate
 second_title: GroupDocs.Signature for .NET API 参考
-description: 当 Update 方法没有要更新的签名时获取或设置重新保存源文档的标志 如果此标志设置为 true默认情况下即使 Update 方法有相应的历史处理日志日期和操作类型文档也会保存没有要更新的签名 当此平面设置为 false 时根本不会修改源文档
+description: 获取或设置标志以在 Update 方法没有要更新的签名时重新保存源文档 如果此标志设置为 true默认情况下文档将与相应的历史进程日志日期和操作类型一起保存即使 Update method has no signatures to update. 当这个 flat 设置为 false source document 根本不会被修改.
 type: docs
-weight: 40
+weight: 70
 url: /zh/net/groupdocs.signature/signaturesettings/savedocumentonemptyupdate/
 ---
 ## SignatureSettings.SaveDocumentOnEmptyUpdate property
 
-当 Update 方法没有要更新的签名时，获取或设置重新保存源文档的标志。 如果此标志设置为 true（默认情况下），即使 Update 方法有相应的历史处理日志（日期和操作类型），文档也会保存没有要更新的签名。 当此平面设置为 false 时，根本不会修改源文档。
+获取或设置标志以在 Update 方法没有要更新的签名时重新保存源文档。 如果此标志设置为 true（默认情况下）文档将与相应的历史进程日志（日期和操作类型）一起保存，即使 Update method has no signatures to update. 当这个 flat 设置为 false source document 根本不会被修改.
 
 ```csharp
 public bool SaveDocumentOnEmptyUpdate { get; set; }

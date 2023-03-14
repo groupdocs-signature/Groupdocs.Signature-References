@@ -1,14 +1,14 @@
 ---
 title: MeCard
 second_title: GroupDocs.Signature for .NET API 参考
-description: 代表 MeCard 标准联系方式
+description: 表示 MeCard 标准联系方式
 type: docs
-weight: 280
+weight: 300
 url: /zh/net/groupdocs.signature.domain.extensions/mecard/
 ---
 ## MeCard class
 
-代表 MeCard 标准联系方式。
+表示 MeCard 标准联系方式。
 
 ```csharp
 public sealed class MeCard
@@ -24,7 +24,7 @@ public sealed class MeCard
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Address](../../groupdocs.signature.domain.extensions/mecard/address) { get; set; } | 获取或设置家庭地址属性。该属性默认未初始化。 |
+| [Address](../../groupdocs.signature.domain.extensions/mecard/address) { get; set; } | 获取或设置家庭地址属性。默认情况下不初始化此属性。 |
 | [AltPhone](../../groupdocs.signature.domain.extensions/mecard/altphone) { get; set; } | 获取或设置备用电话号码。 |
 | [BirthDay](../../groupdocs.signature.domain.extensions/mecard/birthday) { get; set; } | 获取或设置联系人生日。 |
 | [Email](../../groupdocs.signature.domain.extensions/mecard/email) { get; set; } | 获取或设置联系人电子邮件。 |
@@ -32,14 +32,14 @@ public sealed class MeCard
 | [Nickname](../../groupdocs.signature.domain.extensions/mecard/nickname) { get; set; } | 获取或设置联系人昵称。 |
 | [Note](../../groupdocs.signature.domain.extensions/mecard/note) { get; set; } | 获取或设置联系人的备注（公司）。 |
 | [Phone](../../groupdocs.signature.domain.extensions/mecard/phone) { get; set; } | 获取或设置电话号码。 |
-| [Reading](../../groupdocs.signature.domain.extensions/mecard/reading) { get; set; } | 获取或设置名称的读取。 |
-| [Url](../../groupdocs.signature.domain.extensions/mecard/url) { get; set; } | 获取或设置 URL。 |
+| [Reading](../../groupdocs.signature.domain.extensions/mecard/reading) { get; set; } | 获取或设置名称的读法。 |
+| [Url](../../groupdocs.signature.domain.extensions/mecard/url) { get; set; } | 获取或设置 URL. |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Equals](../../groupdocs.signature.domain.extensions/mecard/equals)(object) | 覆盖 Equals 方法来比较 MeCard 属性 |
+| override [Equals](../../groupdocs.signature.domain.extensions/mecard/equals)(object) | 覆盖 Equals 方法以比较 MeCard 属性 |
 | override [GetHashCode](../../groupdocs.signature.domain.extensions/mecard/gethashcode)() | 覆盖 GetHashCode 方法 |
 
 ### 也可以看看

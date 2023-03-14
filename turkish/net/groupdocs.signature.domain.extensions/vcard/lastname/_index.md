@@ -1,14 +1,14 @@
 ---
 title: LastName
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Kişi Soyadını alır veya ayarlar.
+description: Kişinin Soyadını alır veya ayarlar.
 type: docs
 weight: 110
 url: /tr/net/groupdocs.signature.domain.extensions/vcard/lastname/
 ---
 ## VCard.LastName property
 
-Kişi Soyadı'nı alır veya ayarlar.
+Kişinin Soyadı'nı alır veya ayarlar.
 
 ```csharp
 public string LastName { get; set; }

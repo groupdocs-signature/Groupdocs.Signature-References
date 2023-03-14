@@ -16,7 +16,7 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-سلسلة.
+خيط.
 
 ### أنظر أيضا
 

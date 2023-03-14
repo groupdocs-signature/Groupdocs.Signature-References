@@ -1,14 +1,14 @@
 ---
 title: CryptoCurrencyTransfer
 second_title: GroupDocs.Signature for .NET API 参考
-description: 表示二维码的加密货币转移接收或发送
+description: 代表二维码的加密货币传输接收或发送
 type: docs
-weight: 190
+weight: 200
 url: /zh/net/groupdocs.signature.domain.extensions/cryptocurrencytransfer/
 ---
 ## CryptoCurrencyTransfer class
 
-表示二维码的加密货币转移（接收或发送）。
+代表二维码的加密货币传输（接收或发送）。
 
 ```csharp
 public class CryptoCurrencyTransfer
@@ -34,7 +34,7 @@ public class CryptoCurrencyTransfer
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Equals](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/equals)(object) | 覆盖 Equals 方法来比较加密货币转移属性 |
+| override [Equals](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/equals)(object) | 覆盖 Equals 方法以比较加密货币传输属性 |
 | override [GetHashCode](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/gethashcode)() | 覆盖 GetHashCode 方法 |
 
 ### 也可以看看

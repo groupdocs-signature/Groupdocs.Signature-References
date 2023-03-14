@@ -3,7 +3,7 @@ title: SignatureFont
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Erstellt eine Instanz der SignatureFontKlasse um Schriftarteigenschaften anzugeben.
 type: docs
-weight: 820
+weight: 850
 url: /de/net/groupdocs.signature.domain/signaturefont/
 ---
 ## SignatureFont class

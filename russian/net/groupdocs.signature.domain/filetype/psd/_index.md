@@ -3,7 +3,7 @@ title: PSD
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Документ Adobe Photoshop .psd представляет собой собственный формат файлов Adobe Photoshop используемый для проектирования и разработки графики. Узнайте больше об этом формате файлаздесьhttps//wiki.fileformat.com/image/psd .
 type: docs
-weight: 390
+weight: 400
 url: /ru/net/groupdocs.signature.domain/filetype/psd/
 ---
 ## FileType.PSD field

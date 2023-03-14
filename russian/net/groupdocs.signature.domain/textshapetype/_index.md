@@ -3,7 +3,7 @@ title: TextShapeType
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Определяет типы текстовых фигур.
 type: docs
-weight: 960
+weight: 990
 url: /ru/net/groupdocs.signature.domain/textshapetype/
 ---
 ## TextShapeType enumeration

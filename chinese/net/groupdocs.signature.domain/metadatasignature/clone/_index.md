@@ -3,7 +3,7 @@ title: Clone
 second_title: GroupDocs.Signature for .NET API 参考
 description: 克隆元数据签名实例
 type: docs
-weight: 40
+weight: 50
 url: /zh/net/groupdocs.signature.domain/metadatasignature/clone/
 ---
 ## Clone() {#clone_1}

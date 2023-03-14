@@ -3,7 +3,7 @@ title: Padding
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Représente les informations de remplissage ou de marge associées à lélément.
 type: docs
-weight: 610
+weight: 640
 url: /fr/net/groupdocs.signature.domain/padding/
 ---
 ## Padding class

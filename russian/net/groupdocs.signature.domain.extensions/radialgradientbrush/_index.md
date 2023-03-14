@@ -3,7 +3,7 @@ title: RadialGradientBrush
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет кисть с радиальным градиентом.
 type: docs
-weight: 290
+weight: 310
 url: /ru/net/groupdocs.signature.domain.extensions/radialgradientbrush/
 ---
 ## RadialGradientBrush class

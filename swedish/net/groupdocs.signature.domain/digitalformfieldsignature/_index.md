@@ -3,7 +3,7 @@ title: DigitalFormFieldSignature
 second_title: GroupDocs.Signature för .NET API-referens
 description: Innehåller formulärfältegenskaper för digitala signaturer för Pdfdokument.
 type: docs
-weight: 130
+weight: 140
 url: /sv/net/groupdocs.signature.domain/digitalformfieldsignature/
 ---
 ## DigitalFormFieldSignature class

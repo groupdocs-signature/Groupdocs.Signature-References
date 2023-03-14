@@ -3,7 +3,7 @@ title: ExportImageSaveOptions
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Speicheroptionen zum Exportieren von Dokumenten in ein Bild.
 type: docs
-weight: 1280
+weight: 1360
 url: /de/net/groupdocs.signature.options/exportimagesaveoptions/
 ---
 ## ExportImageSaveOptions class

@@ -3,7 +3,7 @@ title: op_Inequality
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Определяет являются ли дваFileTypegroupdocs.signature.domain/filetype объекты не одинаковы.
 type: docs
-weight: 650
+weight: 660
 url: /ru/net/groupdocs.signature.domain/filetype/op_inequality/
 ---
 ## FileType Inequality operator
@@ -16,7 +16,7 @@ public static bool operator !=(FileType left, FileType right)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| left | FileType | Оставил[`FileType`](../../filetype) объект. |
+| left | FileType | Левый[`FileType`](../../filetype) объект. |
 | right | FileType | Верно[`FileType`](../../filetype) объект. |
 
 ### Возвращаемое значение

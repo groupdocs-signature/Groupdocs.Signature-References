@@ -32,7 +32,7 @@ public TextVerifyOptions(string text)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| text | String | 待验证的文本 |
+| text | String | 待验证文本 |
 
 ### 也可以看看
 

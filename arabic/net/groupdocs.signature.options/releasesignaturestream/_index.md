@@ -3,7 +3,7 @@ title: ReleaseSignatureStream
 second_title: GroupDocs.Signature لمرجع .NET API
 description: المفوض الذي يحدد طريقة لتحرير تدفق معاينة توقيع الإخراج.
 type: docs
-weight: 1580
+weight: 1660
 url: /ar/net/groupdocs.signature.options/releasesignaturestream/
 ---
 ## ReleaseSignatureStream delegate

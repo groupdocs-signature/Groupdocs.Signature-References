@@ -3,7 +3,7 @@ title: ItalianPost25
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: ItalianPost25 Barkod Türü nesnesi.
 type: docs
-weight: 360
+weight: 390
 url: /tr/net/groupdocs.signature.domain/barcodetypes/italianpost25/
 ---
 ## BarcodeTypes.ItalianPost25 field

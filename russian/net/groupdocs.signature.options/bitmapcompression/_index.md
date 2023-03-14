@@ -3,7 +3,7 @@ title: BitmapCompression
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Задает различные методы сжатия растрового изображения.
 type: docs
-weight: 1210
+weight: 1280
 url: /ru/net/groupdocs.signature.options/bitmapcompression/
 ---
 ## BitmapCompression enumeration

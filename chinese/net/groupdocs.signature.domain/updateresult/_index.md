@@ -1,14 +1,14 @@
 ---
 title: UpdateResult
 second_title: GroupDocs.Signature for .NET API 参考
-description: 修改文档中签名的结果
+description: 文档中签名的修改结果.
 type: docs
-weight: 1010
+weight: 1040
 url: /zh/net/groupdocs.signature.domain/updateresult/
 ---
 ## UpdateResult class
 
-修改文档中签名的结果。
+文档中签名的修改结果.
 
 ```csharp
 public class UpdateResult : IResult
@@ -18,8 +18,12 @@ public class UpdateResult : IResult
 
 | 姓名 | 描述 |
 | --- | --- |
+| [DestinDocumentSize](../../groupdocs.signature.domain/updateresult/destindocumentsize) { get; } | 返回目标文件大小 |
 | [Failed](../../groupdocs.signature.domain/updateresult/failed) { get; } | 未更新的签名列表[`BaseSignature`](../basesignature). |
-| [Succeeded](../../groupdocs.signature.domain/updateresult/succeeded) { get; } | 成功修改的签名列表[`BaseSignature`](../basesignature). |
+| [ProcessingTime](../../groupdocs.signature.domain/updateresult/processingtime) { get; } | 以毫秒为单位返回进程的执行时间 |
+| [SourceDocumentSize](../../groupdocs.signature.domain/updateresult/sourcedocumentsize) { get; } | 返回源文件大小 |
+| [Succeeded](../../groupdocs.signature.domain/updateresult/succeeded) { get; } | 修改成功的签名列表[`BaseSignature`](../basesignature). |
+| [TotalSignatures](../../groupdocs.signature.domain/updateresult/totalsignatures) { get; } | 返回已处理的签名总数 |
 
 ### 也可以看看
 

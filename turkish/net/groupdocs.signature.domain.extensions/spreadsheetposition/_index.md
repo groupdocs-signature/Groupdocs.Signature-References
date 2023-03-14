@@ -3,7 +3,7 @@ title: SpreadsheetPosition
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Elektronik Tablo belgeleri için imza konumunu tanımlar.
 type: docs
-weight: 340
+weight: 360
 url: /tr/net/groupdocs.signature.domain.extensions/spreadsheetposition/
 ---
 ## SpreadsheetPosition class
@@ -18,14 +18,14 @@ public class SpreadsheetPosition : SignatureExtension
 
 | İsim | Tanım |
 | --- | --- |
-| [SpreadsheetPosition](spreadsheetposition)(int, int) | Önceden tanımlanmış satır ve sütun ile Elektronik Tablo imza konumu oluşturur. |
+| [SpreadsheetPosition](spreadsheetposition)(int, int) | Önceden tanımlanmış satır ve sütunla Elektronik Tablo imza konumu oluşturur. |
 
 ## Özellikleri
 
 | İsim | Tanım |
 | --- | --- |
-| [Column](../../groupdocs.signature.domain.extensions/spreadsheetposition/column) { get; set; } | İmzanın sol sütun numarasını alır veya ayarlar (min değeri 0'dır). |
-| [Row](../../groupdocs.signature.domain.extensions/spreadsheetposition/row) { get; set; } | İmzanın üst satır numarasını alır veya ayarlar (min değeri 0'dır). |
+| [Column](../../groupdocs.signature.domain.extensions/spreadsheetposition/column) { get; set; } | İmzanın sol sütun numarasını alır veya ayarlar (minimum değer 0'dır). |
+| [Row](../../groupdocs.signature.domain.extensions/spreadsheetposition/row) { get; set; } | İmzanın en üst sıra numarasını alır veya ayarlar (minimum değer 0'dır). |
 
 ## yöntemler
 

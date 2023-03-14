@@ -1,14 +1,14 @@
 ---
 title: CodablockF
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Oggetto tipo codice a barre CodablockF.
+description: Oggetto CodablockF Barcode Type.
 type: docs
 weight: 50
 url: /it/net/groupdocs.signature.domain/barcodetypes/codablockf/
 ---
 ## BarcodeTypes.CodablockF field
 
-Oggetto tipo codice a barre CodablockF.
+Oggetto CodablockF Barcode Type.
 
 ```csharp
 public static readonly BarcodeType CodablockF;

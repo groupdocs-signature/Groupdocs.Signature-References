@@ -3,7 +3,7 @@ title: PdfTextStickerAppearance
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Describe la apariencia del objeto de etiqueta de anotación de texto PDF y la ventana emergente de la etiqueta.
 type: docs
-weight: 1160
+weight: 1230
 url: /es/net/groupdocs.signature.options.appearances/pdftextstickerappearance/
 ---
 ## PdfTextStickerAppearance class

@@ -3,7 +3,7 @@ title: CreatePageStream
 second_title: GroupDocs.Signature för .NET API-referens
 description: Delegat som definierar metod för att skapa förhandsvisningsström för utdatasida.
 type: docs
-weight: 1230
+weight: 1310
 url: /sv/net/groupdocs.signature.options/createpagestream/
 ---
 ## CreatePageStream delegate

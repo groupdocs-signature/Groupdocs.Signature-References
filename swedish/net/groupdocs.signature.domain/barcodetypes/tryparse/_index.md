@@ -3,7 +3,7 @@ title: TryParse
 second_title: GroupDocs.Signature för .NET API-referens
 description: Returnerar streckkodstyp med pasringTypenamn. Om namnet på streckkoden är okänt  kommer inget undantag att kastas men metoden returnerar nullvärde.
 type: docs
-weight: 650
+weight: 680
 url: /sv/net/groupdocs.signature.domain/barcodetypes/tryparse/
 ---
 ## BarcodeTypes.TryParse method

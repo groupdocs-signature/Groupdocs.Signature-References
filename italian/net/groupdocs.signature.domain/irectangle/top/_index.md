@@ -1,14 +1,14 @@
 ---
 title: Top
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Y in alto Posizione dellarea Firma sulla Pagina del documento in Unità di misura pixel percentuali o millimetri vediMeasureTypegroupdocs.signature.domain/measuretype LocationMeasureType.
+description: Top Y Posizione dellarea della firma sulla pagina del documento in unità di misura pixel percentuali o millimetri vedereMeasureTypegroupdocs.signature.domain/measuretype LocationMeasureType.
 type: docs
 weight: 60
 url: /it/net/groupdocs.signature.domain/irectangle/top/
 ---
 ## IRectangle.Top property
 
-Y in alto Posizione dell'area Firma sulla Pagina del documento in Unità di misura (pixel, percentuali o millimetri vedi[`MeasureType`](../../measuretype) LocationMeasureType).
+Top Y Posizione dell'area della firma sulla pagina del documento in unità di misura (pixel, percentuali o millimetri vedere[`MeasureType`](../../measuretype) LocationMeasureType).
 
 ```csharp
 public int Top { get; set; }

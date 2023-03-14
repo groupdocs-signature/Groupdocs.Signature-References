@@ -3,7 +3,7 @@ title: PreviewOptions
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Steht für Dokumentvorschauoptionen.
 type: docs
-weight: 1500
+weight: 1580
 url: /de/net/groupdocs.signature.options/previewoptions/
 ---
 ## PreviewOptions class

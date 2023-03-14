@@ -1,14 +1,14 @@
 ---
 title: ZOrder
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置文本签名的Zorder位置 确定重叠签名的显示顺序
+description: 获取或设置文本签名的 Z 序位置 确定重叠签名的显示顺序
 type: docs
 weight: 80
 url: /zh/net/groupdocs.signature.options/signoptions/zorder/
 ---
 ## SignOptions.ZOrder property
 
-获取或设置文本签名的Z-order位置。 确定重叠签名的显示顺序。
+获取或设置文本签名的 Z 序位置。 确定重叠签名的显示顺序。
 
 ```csharp
 public int ZOrder { get; set; }

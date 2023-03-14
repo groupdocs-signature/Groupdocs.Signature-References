@@ -3,7 +3,7 @@ title: SpreadsheetMetadataSignature
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحتوي على خصائص توقيع بيانات تعريف جدول البيانات .
 type: docs
-weight: 840
+weight: 870
 url: /ar/net/groupdocs.signature.domain/spreadsheetmetadatasignature/
 ---
 ## SpreadsheetMetadataSignature class
@@ -37,6 +37,7 @@ public sealed class SpreadsheetMetadataSignature : MetadataSignature
 | [SignatureId](../../groupdocs.signature.domain/basesignature/signatureid) { get; } | معرّف التوقيع الفريد لتعديل التوقيع في المستند عبر طرق التحديث أو الحذف . سيتم تعيين هذه الخاصية تلقائيًا بعد استدعاء أسلوب التسجيل أو البحث . إذا تم حفظ هذه الخاصية قبل أن يتم تعيينها يدويًا لمعالجة التوقيع. |
 | [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | يحدد نوع التوقيع. |
 | [Top](../../groupdocs.signature.domain/basesignature/top) { get; set; } | يحدد أعلى موضع للتوقيع . |
+| [Type](../../groupdocs.signature.domain/metadatasignature/type) { get; } | يحدد نوع قيمة البيانات الوصفية . |
 | [Value](../../groupdocs.signature.domain/metadatasignature/value) { get; set; } | تحديد كائن البيانات الوصفية . |
 | [Width](../../groupdocs.signature.domain/basesignature/width) { get; set; } | يحدد عرض التوقيع. |
 

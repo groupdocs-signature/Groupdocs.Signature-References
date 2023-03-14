@@ -20,7 +20,7 @@ public static void GenerateSignaturePreview(PreviewSignatureOptions previewOptio
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Узнайте больше о том, как создать предварительный просмотр подписей: [Как создать предварительный просмотр подписи с помощью GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Generate+signatures+preview)
 

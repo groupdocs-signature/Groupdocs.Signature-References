@@ -3,7 +3,7 @@ title: CryptoCurrencyType
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Stellt den Kryptowährungstyp dar.
 type: docs
-weight: 200
+weight: 210
 url: /de/net/groupdocs.signature.domain.extensions/cryptocurrencytype/
 ---
 ## CryptoCurrencyType enumeration
@@ -22,8 +22,8 @@ public enum CryptoCurrencyType
 | Bitcoin | `1` | Stellt den Bitcoin-Kryptowährungstyp dar. |
 | BitcoinCash | `2` | Stellt den Kryptowährungstyp Bitcoin Cash dar. |
 | Litecoin | `3` | Stellt den Litecoin-Kryptowährungstyp dar. |
-| Ethereum | `4` | Repräsentiert den Kryptowährungstyp Ethereum. |
-| Dash | `5` | Stellt den Dash-Kryptowährungstyp dar. |
+| Ethereum | `4` | Repräsentiert den Ethereum-Kryptowährungstyp. |
+| Dash | `5` | Repräsentiert den Dash-Kryptowährungstyp. |
 
 ### Siehe auch
 

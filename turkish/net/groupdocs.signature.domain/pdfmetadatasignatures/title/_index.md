@@ -1,14 +1,14 @@
 ---
 title: Title
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Pdf Belge Başlığı meta veri özelliği
+description: Pdf Belge Başlığı meta verisi özelliği
 type: docs
 weight: 120
 url: /tr/net/groupdocs.signature.domain/pdfmetadatasignatures/title/
 ---
 ## PdfMetadataSignatures.Title property
 
-Pdf Belge Başlığı meta veri özelliği
+Pdf Belge Başlığı meta verisi özelliği
 
 ```csharp
 public static PdfMetadataSignature Title { get; }

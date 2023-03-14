@@ -3,7 +3,7 @@ title: PdfDigitalSignature
 second_title: GroupDocs.Signature for .NET API 参考
 description: 包含 Pdf 数字签名属性
 type: docs
-weight: 630
+weight: 660
 url: /zh/net/groupdocs.signature.domain/pdfdigitalsignature/
 ---
 ## PdfDigitalSignature class
@@ -18,10 +18,10 @@ public class PdfDigitalSignature : DigitalSignature
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PdfDigitalSignature](pdfdigitalsignature#constructor)() | 使用无证书初始化 Pdf 数字签名。 |
-| [PdfDigitalSignature](pdfdigitalsignature#constructor_1)(X509Certificate2) | 使用指定证书创建 Pdf 数字签名。 |
+| [PdfDigitalSignature](pdfdigitalsignature#constructor)() | 在没有证书的情况下初始化 Pdf 数字签名。 |
+| [PdfDigitalSignature](pdfdigitalsignature#constructor_1)(X509Certificate2) | 使用指定的证书创建 Pdf 数字签名。 |
 | [PdfDigitalSignature](pdfdigitalsignature#constructor_2)(X509Store) | 根据指定的 X509 存储初始化 Pdf 数字签名。将使用指定商店的第一个证书。 |
-| [PdfDigitalSignature](pdfdigitalsignature#constructor_3)(X509Store, int) | 根据指定的X509存储和证书索引创建Pdf数字签名。 |
+| [PdfDigitalSignature](pdfdigitalsignature#constructor_3)(X509Store, int) | 根据指定的 X509 Store 和证书索引创建 Pdf 数字签名。 |
 
 ## 特性
 
@@ -33,25 +33,25 @@ public class PdfDigitalSignature : DigitalSignature
 | [Comments](../../groupdocs.signature.domain/digitalsignature/comments) { get; set; } | 获取或设置签名目的注释。 |
 | [ContactInfo](../../groupdocs.signature.domain/pdfdigitalsignature/contactinfo) { get; set; } | 签名者提供的信息，使收件人能够联系签名者 以验证签名，例如电话号码。 |
 | [CreatedOn](../../groupdocs.signature.domain/basesignature/createdon) { get; set; } | 获取或设置签名创建日期。 |
-| [Deleted](../../groupdocs.signature.domain/basesignature/deleted) { get; } | 获取指示此签名是否已从文档中删除的标志。 此属性仅用于文档历史日志记录，以保留已删除签名的列表。 |
-| [Height](../../groupdocs.signature.domain/basesignature/height) { get; set; } | 指定签名的高度。 |
+| [Deleted](../../groupdocs.signature.domain/basesignature/deleted) { get; } | 获取指示此签名是否已从文档中删除的标志。 此属性仅用于文档历史日志记录以保留已删除签名的列表。 |
+| [Height](../../groupdocs.signature.domain/basesignature/height) { get; set; } | 指定签名高度。 |
 | [IsSignature](../../groupdocs.signature.domain/basesignature/issignature) { get; set; } | 获取或设置标志以指示此组件是签名还是文档内容。 此属性与 Update 方法一起使用以将元素设置为签名 (true) 或文档元素 (false)。 |
 | [IsValid](../../groupdocs.signature.domain/digitalsignature/isvalid) { get; set; } | 如果此数字签名有效且文档未被篡改，则为真。 |
 | [Left](../../groupdocs.signature.domain/basesignature/left) { get; set; } | 指定签名的左侧位置。 |
-| [Location](../../groupdocs.signature.domain/pdfdigitalsignature/location) { get; set; } | 签名的 CPU 主机名或物理位置。 |
-| [ModifiedOn](../../groupdocs.signature.domain/basesignature/modifiedon) { get; set; } | 获取或设置签名修改日期 |
-| [PageNumber](../../groupdocs.signature.domain/basesignature/pagenumber) { get; } | 指定页面签名位于。 |
-| [Reason](../../groupdocs.signature.domain/pdfdigitalsignature/reason) { get; set; } | 签名的原因，如（我同意РІР‚В¦）。 |
-| [ShowProperties](../../groupdocs.signature.domain/pdfdigitalsignature/showproperties) { get; set; } | 强制显示/隐藏签名属性。如果 ShowProperties 为 true，则 signature 字段具有预定义的外观格式 由 {[`ContactInfo`](./contactinfo)} 日期：{日期} 原因：{[`Reason`](./reason)} 位置：{[`Location`](./location) } ShowProperties 默认为真。 |
-| [SignatureId](../../groupdocs.signature.domain/basesignature/signatureid) { get; } | 通过更新或删除方法修改文档中签名的唯一签名标识符。 在调用签名或搜索方法后将自动设置此属性。 如果此属性在手动设置以操作签名之前保存。 |
-| [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | 指定签名的类型。 |
-| [SignTime](../../groupdocs.signature.domain/digitalsignature/signtime) { get; set; } | 获取或设置文档签署的时间。 |
+| [Location](../../groupdocs.signature.domain/pdfdigitalsignature/location) { get; set; } | 签名的CPU主机名或物理位置。 |
+| [ModifiedOn](../../groupdocs.signature.domain/basesignature/modifiedon) { get; set; } | 获取或设置签名修改日期。 |
+| [PageNumber](../../groupdocs.signature.domain/basesignature/pagenumber) { get; } | 指定找到的页面签名。 |
+| [Reason](../../groupdocs.signature.domain/pdfdigitalsignature/reason) { get; set; } | 签约原因，如（我同意РІР，В¦）. |
+| [ShowProperties](../../groupdocs.signature.domain/pdfdigitalsignature/showproperties) { get; set; } | 强制显示/隐藏签名属性。如果 ShowProperties 为真，则 signature 字段具有预定义的外观格式 由 { 进行数字签名[`ContactInfo`](./contactinfo)日期：{日期} 原因：{[`Reason`](./reason)} 位置：{[`Location`](./location) } ShowProperties 默认为真。 |
+| [SignatureId](../../groupdocs.signature.domain/basesignature/signatureid) { get; } | 用于通过 Update 或 Delete 方法修改文档中签名的唯一签名标识符。 此属性将在调用 Sign 或 Search 方法后自动设置。 如果此属性在可以手动设置之前保存以操作签名。 |
+| [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | 指定签名类型。 |
+| [SignTime](../../groupdocs.signature.domain/digitalsignature/signtime) { get; set; } | 获取或设置文档签名的时间。 |
 | [Thumbprint](../../groupdocs.signature.domain/digitalsignature/thumbprint) { get; } | 获取证书的指纹。 |
 | [TimeStamp](../../groupdocs.signature.domain/pdfdigitalsignature/timestamp) { get; set; } | Pdf 数字签名的时间戳。 默认值为空。 |
 | [Top](../../groupdocs.signature.domain/basesignature/top) { get; set; } | 指定签名的顶部位置。 |
 | [Type](../../groupdocs.signature.domain/pdfdigitalsignature/type) { get; set; } | Pdf 数字签名的类型。 |
-| [Width](../../groupdocs.signature.domain/basesignature/width) { get; set; } | 指定签名的宽度。 |
-| [XAdESType](../../groupdocs.signature.domain/digitalsignature/xadestype) { get; } | XAdES 类型[`XAdESType`](../digitalsignature/xadestype).默认值为无（XAdES 关闭）。 目前仅电子表格文档支持 XAdES 签名类型。 |
+| [Width](../../groupdocs.signature.domain/basesignature/width) { get; set; } | 指定签名宽度。 |
+| [XAdESType](../../groupdocs.signature.domain/digitalsignature/xadestype) { get; } | XAdES 类型[`XAdESType`](../digitalsignature/xadestype).默认值为无（XAdES 已关闭）。 目前仅电子表格文档支持 XAdES 签名类型。 |
 
 ## 方法
 

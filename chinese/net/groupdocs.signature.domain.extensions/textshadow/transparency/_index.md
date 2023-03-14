@@ -1,14 +1,14 @@
 ---
 title: Transparency
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置阴影的透明度 默认值为0
+description: 获取或设置阴影的透明度 默认值为 0.
 type: docs
 weight: 60
 url: /zh/net/groupdocs.signature.domain.extensions/textshadow/transparency/
 ---
 ## TextShadow.Transparency property
 
-获取或设置阴影的透明度。 默认值为0。
+获取或设置阴影的透明度。 默认值为 0.
 
 ```csharp
 public double Transparency { get; set; }

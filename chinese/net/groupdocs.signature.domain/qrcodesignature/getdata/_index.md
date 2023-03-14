@@ -17,7 +17,7 @@ public T GetData<T>()
 
 | 范围 | 描述 |
 | --- | --- |
-| T | 从 QR 码文本反序列化的对象类型 |
+| T | 从二维码文本中反序列化的对象类型 |
 
 ### 也可以看看
 
@@ -38,7 +38,7 @@ public T GetData<T>(IDataEncryption dataEncryption)
 
 | 范围 | 描述 |
 | --- | --- |
-| T | 从 QR 码文本反序列化的对象类型 |
+| T | 从二维码文本中反序列化的对象类型 |
 | dataEncryption | 设置自定义数据加密实现 |
 
 ### 也可以看看

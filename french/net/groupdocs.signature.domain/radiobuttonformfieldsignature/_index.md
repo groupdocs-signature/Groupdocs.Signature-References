@@ -3,7 +3,7 @@ title: RadioButtonFormFieldSignature
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Contient les propriétés de signature de champ de formulaire de saisie de bouton radio.
 type: docs
-weight: 790
+weight: 820
 url: /fr/net/groupdocs.signature.domain/radiobuttonformfieldsignature/
 ---
 ## RadioButtonFormFieldSignature class

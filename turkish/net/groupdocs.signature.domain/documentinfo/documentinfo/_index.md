@@ -1,14 +1,14 @@
 ---
 title: DocumentInfo
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Yeni bir örneğini başlatırDocumentInfogroupdocs.signature.domain/documentinfo sınıf.
+description: Yeni bir örneğini başlatır.DocumentInfogroupdocs.signature.domain/documentinfosınıf.
 type: docs
 weight: 10
 url: /tr/net/groupdocs.signature.domain/documentinfo/documentinfo/
 ---
 ## DocumentInfo constructor
 
-Yeni bir örneğini başlatır[`DocumentInfo`](../../documentinfo) sınıf.
+Yeni bir örneğini başlatır.[`DocumentInfo`](../../documentinfo)sınıf.
 
 ```csharp
 public DocumentInfo()

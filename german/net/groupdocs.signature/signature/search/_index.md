@@ -24,7 +24,7 @@ Gibt eine Instanz von zurück[`SearchResult`](../../../groupdocs.signature.domai
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Mehr über die Suche nach elektronischen Signaturen in Dokumenten mit GroupDocs.Signature: [So suchen Sie mit C# nach elektronischen Signaturen im Dokument](https://docs.groupdocs.com/display/signaturenet/Search+for+electronic+signatures+in+document)
 * Mehr zur Suche nach elektronischen Signaturen abhängig vom eSign-Typ: [Erweiterte Anwendungsfälle der Suche nach elektronischen Signaturen mit GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Searching)
@@ -58,7 +58,7 @@ Gibt die Liste der gefundenen Signaturen zurück.
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Mehr über die Suche nach elektronischen Signaturen in Dokumenten mit GroupDocs.Signature: [So suchen Sie mit C# nach elektronischen Signaturen im Dokument](https://docs.groupdocs.com/display/signaturenet/Search+for+electronic+signatures+in+document)
 * Mehr zur Suche nach elektronischen Signaturen abhängig vom eSign-Typ: [Erweiterte Anwendungsfälle der Suche nach elektronischen Signaturen mit GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Searching)
@@ -92,7 +92,7 @@ Gibt die Liste der gefundenen Signaturen mit exaktem Typ zurück.
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Mehr über die Suche nach elektronischen Signaturen in Dokumenten mit GroupDocs.Signature: [So suchen Sie mit C# nach elektronischen Signaturen im Dokument](https://docs.groupdocs.com/display/signaturenet/Search+for+electronic+signatures+in+document)
 * Mehr zur Suche nach elektronischen Signaturen abhängig vom eSign-Typ: [Erweiterte Anwendungsfälle der Suche nach elektronischen Signaturen mit GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Searching)
@@ -125,7 +125,7 @@ Gibt eine Instanz von zurück[`SearchResult`](../../../groupdocs.signature.domai
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Mehr über die Suche nach elektronischen Signaturen in Dokumenten mit GroupDocs.Signature: [So suchen Sie mit C# nach elektronischen Signaturen im Dokument](https://docs.groupdocs.com/display/signaturenet/Search+for+electronic+signatures+in+document)
 * Mehr zur Suche nach elektronischen Signaturen abhängig vom eSign-Typ: [Erweiterte Anwendungsfälle der Suche nach elektronischen Signaturen mit GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Searching)

@@ -1,14 +1,14 @@
 ---
 title: Charset
 second_title: GroupDocs.Signature for .NET API 参考
-description: EPC / SEPA QRCode 字符集实现默认情况下此值设置为 1
+description: EPC / SEPA QRCode 字符集实施默认情况下此值设置为 1
 type: docs
 weight: 40
 url: /zh/net/groupdocs.signature.domain.extensions/epc/charset/
 ---
 ## EPC.Charset property
 
-EPC / SEPA QR-Code 字符集实现。默认情况下，此值设置为 1
+EPC / SEPA QR-Code 字符集实施。默认情况下，此值设置为 1
 
 ```csharp
 public string Charset { get; }

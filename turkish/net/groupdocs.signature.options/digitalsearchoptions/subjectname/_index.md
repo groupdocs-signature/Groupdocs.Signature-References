@@ -8,7 +8,7 @@ url: /tr/net/groupdocs.signature.options/digitalsearchoptions/subjectname/
 ---
 ## DigitalSearchOptions.SubjectName property
 
-Boş olmayan değerler için, aranacak sertifikanın ayırt edici konu adını belirtir.
+Boş olmayan değerler için aranacak sertifikanın ayırt edici konu adını belirtir.
 
 ```csharp
 public string SubjectName { get; set; }

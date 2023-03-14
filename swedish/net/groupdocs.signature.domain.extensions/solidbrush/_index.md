@@ -3,7 +3,7 @@ title: SolidBrush
 second_title: GroupDocs.Signature för .NET API-referens
 description: Representerar solid brush. Den skulle kunna användas istället för bakgrundsfärg.
 type: docs
-weight: 330
+weight: 350
 url: /sv/net/groupdocs.signature.domain.extensions/solidbrush/
 ---
 ## SolidBrush class

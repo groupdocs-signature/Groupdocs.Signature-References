@@ -1,14 +1,14 @@
 ---
 title: Extensions
 second_title: GroupDocs.Signature for .NET API 参考
-description: 替代签名选项验证的附加扩展
+description: 用于替代签名选项验证的附加扩展
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.options/verifyoptions/extensions/
 ---
 ## VerifyOptions.Extensions property
 
-替代签名选项验证的附加扩展。
+用于替代签名选项验证的附加扩展。
 
 ```csharp
 public VerifyExtensions Extensions { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Text
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置签名文本
+description: 获取或设置签名的文本
 type: docs
 weight: 210
 url: /zh/net/groupdocs.signature.options/textsignoptions/text/
 ---
 ## TextSignOptions.Text property
 
-获取或设置签名文本。
+获取或设置签名的文本。
 
 ```csharp
 public string Text { get; set; }

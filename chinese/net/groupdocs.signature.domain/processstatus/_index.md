@@ -3,7 +3,7 @@ title: ProcessStatus
 second_title: GroupDocs.Signature for .NET API 参考
 description: 指定签名和验证过程的状态
 type: docs
-weight: 740
+weight: 770
 url: /zh/net/groupdocs.signature.domain/processstatus/
 ---
 ## ProcessStatus enumeration
@@ -20,7 +20,7 @@ public enum ProcessStatus
 | --- | --- | --- |
 | None | `0` | 进程未启动。 |
 | Started | `0` | 进程已启动。 |
-| InProgress | `1` | 处理正在进行中。 |
+| InProgress | `1` | 进程正在进行中。 |
 | Completed | `2` | 处理完成。 |
 
 ### 也可以看看

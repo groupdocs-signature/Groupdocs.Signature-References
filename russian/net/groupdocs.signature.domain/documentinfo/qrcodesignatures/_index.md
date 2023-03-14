@@ -3,7 +3,7 @@ title: QrCodeSignatures
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Коллекция подписей QRкода документа добавленная или обновленнаяSignaturegroupdocs.signature/signature методы.
 type: docs
-weight: 120
+weight: 130
 url: /ru/net/groupdocs.signature.domain/documentinfo/qrcodesignatures/
 ---
 ## DocumentInfo.QrCodeSignatures property

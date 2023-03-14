@@ -3,7 +3,7 @@ title: TextSignOptions
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет параметры текстовой подписи.
 type: docs
-weight: 1650
+weight: 1730
 url: /ru/net/groupdocs.signature.options/textsignoptions/
 ---
 ## TextSignOptions class
@@ -62,7 +62,7 @@ public class TextSignOptions : SignOptions, IAlignment, IRectangle, IRotation, I
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Базовое использование для создания текстовой электронной подписи с помощью GroupDocs.Signature: [Как подписать документ электронной подписью с текстовой подписью](https://docs.groupdocs.com/display/signaturenet/eSign+document+with+Text+signature)
 * Расширенное использование настроек Текстовой электронной подписи с GroupDocs.Signature: [Расширенное использование документа eSign с текстовой подписью и дополнительными настройками](https://docs.groupdocs.com/display/signaturenet/Sign+document+with+Text+signature+-+advanced)

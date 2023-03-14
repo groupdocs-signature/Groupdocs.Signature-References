@@ -3,7 +3,7 @@ title: PPTM
 second_title: GroupDocs.Signature för .NET API-referens
 description: PowerPoint Open XML MacroEnabled Presentation är makroaktiverade presentationsfiler som skapas med Microsoft PowerPoint 2007 eller senare versioner. Läs mer om detta filformathärhttps//wiki.fileformat.com/presentation/pptm .
 type: docs
-weight: 360
+weight: 370
 url: /sv/net/groupdocs.signature.domain/filetype/pptm/
 ---
 ## FileType.PPTM field

@@ -3,7 +3,7 @@ title: Equals
 second_title: GroupDocs.Signature لمرجع .NET API
 description: طريقة الكتابة فوق يساوي لمقارنة خصائص التوقيع
 type: docs
-weight: 50
+weight: 60
 url: /ar/net/groupdocs.signature.domain/metadatasignature/equals/
 ---
 ## MetadataSignature.Equals method

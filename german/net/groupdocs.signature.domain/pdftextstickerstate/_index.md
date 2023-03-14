@@ -3,7 +3,7 @@ title: PdfTextStickerState
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Beschreibt die Aufzählung der Zustände von PDFTextanmerkungsaufklebern.
 type: docs
-weight: 700
+weight: 730
 url: /de/net/groupdocs.signature.domain/pdftextstickerstate/
 ---
 ## PdfTextStickerState enumeration

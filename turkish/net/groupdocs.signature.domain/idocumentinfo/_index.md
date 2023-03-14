@@ -3,7 +3,7 @@ title: IDocumentInfo
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Belge açıklama özelliklerini tanımlar.
 type: docs
-weight: 490
+weight: 510
 url: /tr/net/groupdocs.signature.domain/idocumentinfo/
 ---
 ## IDocumentInfo interface
@@ -21,15 +21,16 @@ public interface IDocumentInfo
 | [BarcodeSignatures](../../groupdocs.signature.domain/idocumentinfo/barcodesignatures) { get; } | Tarafından eklenen veya güncellenen belge barkod imzalarının toplanması[`Signature`](../../groupdocs.signature/signature) yöntemler. |
 | [DigitalSignatures](../../groupdocs.signature.domain/idocumentinfo/digitalsignatures) { get; } | Tarafından eklenen veya güncellenen belge dijital imzalarının toplanması[`Signature`](../../groupdocs.signature/signature) yöntemler. |
 | [FileType](../../groupdocs.signature.domain/idocumentinfo/filetype) { get; set; } | Dosya biçimi türü |
-| [FormFields](../../groupdocs.signature.domain/idocumentinfo/formfields) { get; } | Belgedeki mevcut tüm desteklenen Form Alanlarının toplanması. Bu özellik yalnızca Pdf ve Kelime İşleme belge türleri için desteklenir. |
+| [FormFields](../../groupdocs.signature.domain/idocumentinfo/formfields) { get; } | Belgedeki desteklenen tüm mevcut Form Alanlarının toplanması. Bu özellik yalnızca PDF ve Kelime İşleme belge türleri için desteklenir. |
 | [FormFieldSignatures](../../groupdocs.signature.domain/idocumentinfo/formfieldsignatures) { get; } | Tarafından eklenen veya güncellenen belge Form Alanı imzalarının toplanması[`Signature`](../../groupdocs.signature/signature) yöntemler. |
 | [ImageSignatures](../../groupdocs.signature.domain/idocumentinfo/imagesignatures) { get; } | Tarafından eklenen veya güncellenen belge görüntü imzaları koleksiyonu[`Signature`](../../groupdocs.signature/signature) yöntemler. |
 | [MaxPageHeight](../../groupdocs.signature.domain/idocumentinfo/maxpageheight) { get; set; } | Maksimum sayfa yüksekliğini belirtir. |
-| [PageCount](../../groupdocs.signature.domain/idocumentinfo/pagecount) { get; set; } | Belge sayfaları sayısı. |
+| [MetadataSignatures](../../groupdocs.signature.domain/idocumentinfo/metadatasignatures) { get; } | Belge Meta veri imzalarının toplanması. |
+| [PageCount](../../groupdocs.signature.domain/idocumentinfo/pagecount) { get; set; } | Belge sayfa sayısı. |
 | [Pages](../../groupdocs.signature.domain/idocumentinfo/pages) { get; set; } | Belge sayfaları açıklamalarının toplanması. |
 | [ProcessLogs](../../groupdocs.signature.domain/idocumentinfo/processlogs) { get; } | Belge geçmişi işlem günlüklerinin toplanması. |
 | [QrCodeSignatures](../../groupdocs.signature.domain/idocumentinfo/qrcodesignatures) { get; } | Tarafından eklenen veya güncellenen belge QR kodu imzalarının toplanması[`Signature`](../../groupdocs.signature/signature) yöntemler. |
-| [Signatures](../../groupdocs.signature.domain/idocumentinfo/signatures) { get; } | Her tür imzanın belge koleksiyonu[`BaseSignature`](../basesignature) . |
+| [Signatures](../../groupdocs.signature.domain/idocumentinfo/signatures) { get; } | Her türlü imza belgesinin toplanması[`BaseSignature`](../basesignature) . |
 | [Size](../../groupdocs.signature.domain/idocumentinfo/size) { get; set; } | Bayt cinsinden belge boyutu. |
 | [TextSignatures](../../groupdocs.signature.domain/idocumentinfo/textsignatures) { get; } | Tarafından eklenen veya güncellenen belge metin imzaları koleksiyonu[`Signature`](../../groupdocs.signature/signature) yöntemler. |
 | [WidthForMaxHeight](../../groupdocs.signature.domain/idocumentinfo/widthformaxheight) { get; set; } | Maksimum sayfa yüksekliği için genişliği belirtir. |

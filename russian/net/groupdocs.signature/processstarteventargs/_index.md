@@ -3,7 +3,7 @@ title: ProcessStartEventArgs
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Предоставляет данные для запуска процесса подписания проверки и поиска
 type: docs
-weight: 1780
+weight: 1860
 url: /ru/net/groupdocs.signature/processstarteventargs/
 ---
 ## ProcessStartEventArgs class
@@ -24,7 +24,7 @@ public class ProcessStartEventArgs : ProcessEventArgs
 
 | Имя | Описание |
 | --- | --- |
-| [Started](../../groupdocs.signature/processstarteventargs/started) { get; set; } | Отметка времени начала процесса. |
+| [Started](../../groupdocs.signature/processstarteventargs/started) { get; set; } | Представляет временную метку запуска процесса. |
 | [Status](../../groupdocs.signature/processeventargs/status) { get; set; } | Указывает текущее состояние процесса. |
 | [TotalSignatures](../../groupdocs.signature/processstarteventargs/totalsignatures) { get; set; } | Представляет общее количество подписей, подлежащих обработке. |
 

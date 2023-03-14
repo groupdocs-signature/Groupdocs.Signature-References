@@ -1,14 +1,14 @@
 ---
 title: Brightness
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置图像亮度 默认值为1对应图像的原始亮度
+description: 获取或设置图像亮度 默认值为1它对应于图像的原始亮度
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.options.appearances/imageappearance/brightness/
 ---
 ## ImageAppearance.Brightness property
 
-获取或设置图像亮度。 默认值为1，对应图像的原始亮度。
+获取或设置图像亮度。 默认值为1，它对应于图像的原始亮度。
 
 ```csharp
 public float Brightness { get; set; }

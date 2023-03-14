@@ -1,14 +1,14 @@
 ---
 title: Font
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置 Stamp Line text 的字体
+description: 获取或设置 Stamp Line 文本的字体
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.domain/stampline/font/
 ---
 ## StampLine.Font property
 
-获取或设置 Stamp Line text 的字体。
+获取或设置 Stamp Line 文本的字体。
 
 ```csharp
 public SignatureFont Font { get; set; }

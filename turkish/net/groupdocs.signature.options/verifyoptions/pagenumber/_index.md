@@ -1,14 +1,14 @@
 ---
 title: PageNumber
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Doğrulanacak Belge Sayfa Numarası. Özellik ayarlanmazsa  Belgesinin tüm Sayfaları ilk oluşum için doğrulanır. Minimum değer 1.
+description: Doğrulanacak Belge Sayfa Numarası. Özellik ayarlanmazsa  Belgesinin tüm Sayfaları ilk geçtiği için doğrulanacaktır. Minimum değer 1.
 type: docs
 weight: 40
 url: /tr/net/groupdocs.signature.options/verifyoptions/pagenumber/
 ---
 ## VerifyOptions.PageNumber property
 
-Doğrulanacak Belge Sayfa Numarası. Özellik ayarlanmazsa - Belgesinin tüm Sayfaları ilk oluşum için doğrulanır. Minimum değer 1.
+Doğrulanacak Belge Sayfa Numarası. Özellik ayarlanmazsa - Belgesinin tüm Sayfaları ilk geçtiği için doğrulanacaktır. Minimum değer: 1.
 
 ```csharp
 public virtual int? PageNumber { get; set; }

@@ -3,7 +3,7 @@ title: WiFiEncryptionType
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: WiFi Şifreleme türünü temsil eder.
 type: docs
-weight: 420
+weight: 440
 url: /tr/net/groupdocs.signature.domain.extensions/wifiencryptiontype/
 ---
 ## WiFiEncryptionType enumeration
@@ -18,7 +18,7 @@ public enum WiFiEncryptionType
 
 | İsim | Değer | Tanım |
 | --- | --- | --- |
-| None | `0` | Şifreli WiFi türünü temsil etmez. |
+| None | `0` | Şifrelemesiz WiFi tipini temsil etmez. |
 | WPA | `1` | WPA şifreleme türüyle WiFi'yi temsil eder. |
 | WPAEAP | `2` | WPA-EAP şifreleme türüyle WiFi'yi temsil eder. |
 | WPAWPA2 | `3` | WPA/WPA2 şifreleme türüyle WiFi'yi temsil eder. |

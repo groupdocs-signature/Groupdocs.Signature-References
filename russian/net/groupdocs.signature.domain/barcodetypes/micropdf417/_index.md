@@ -3,7 +3,7 @@ title: MicroPdf417
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Объект типа штрихкода MicroPdf417.
 type: docs
-weight: 430
+weight: 460
 url: /ru/net/groupdocs.signature.domain/barcodetypes/micropdf417/
 ---
 ## BarcodeTypes.MicroPdf417 field

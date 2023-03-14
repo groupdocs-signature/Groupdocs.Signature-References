@@ -3,7 +3,7 @@ title: SearchOptions
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل استخراج التوقيعات من خيارات المستند.
 type: docs
-weight: 1600
+weight: 1680
 url: /ar/net/groupdocs.signature.options/searchoptions/
 ---
 ## SearchOptions class

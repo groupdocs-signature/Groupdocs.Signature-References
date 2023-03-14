@@ -1,14 +1,14 @@
 ---
 title: FontSize
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Etiketleri görüntülemek için Yazı Tipi boyutunu alır veya ayarlar. Varsayılan değer 10.
+description: Etiketleri görüntülemek için Yazı tipi boyutunu alır veya ayarlar. Varsayılan değer 10. dir.
 type: docs
 weight: 70
 url: /tr/net/groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/fontsize/
 ---
 ## PdfDigitalSignatureAppearance.FontSize property
 
-Etiketleri görüntülemek için Yazı Tipi boyutunu alır veya ayarlar. Varsayılan değer 10.
+Etiketleri görüntülemek için Yazı tipi boyutunu alır veya ayarlar. Varsayılan değer 10. 'dir.
 
 ```csharp
 public double FontSize { get; set; }

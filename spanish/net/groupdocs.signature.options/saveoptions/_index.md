@@ -3,7 +3,7 @@ title: SaveOptions
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Permite especificar opciones adicionales como contraseña al guardar un documento para firmar.
 type: docs
-weight: 1590
+weight: 1670
 url: /es/net/groupdocs.signature.options/saveoptions/
 ---
 ## SaveOptions class

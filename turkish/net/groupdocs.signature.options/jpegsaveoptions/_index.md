@@ -3,7 +3,7 @@ title: JpegSaveOptions
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Görüntü belgeleri için Jpeg Kaydetme seçenekleri.
 type: docs
-weight: 1380
+weight: 1460
 url: /tr/net/groupdocs.signature.options/jpegsaveoptions/
 ---
 ## JpegSaveOptions class

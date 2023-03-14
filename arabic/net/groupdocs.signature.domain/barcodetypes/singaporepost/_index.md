@@ -3,7 +3,7 @@ title: SingaporePost
 second_title: GroupDocs.Signature لمرجع .NET API
 description: كائن نوع الرمز الشريطي لـ SingaporePost .
 type: docs
-weight: 550
+weight: 580
 url: /ar/net/groupdocs.signature.domain/barcodetypes/singaporepost/
 ---
 ## BarcodeTypes.SingaporePost field

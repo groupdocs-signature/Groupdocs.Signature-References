@@ -3,7 +3,7 @@ title: StampLine
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Spécifiez les propriétés de la ligne de tampon.
 type: docs
-weight: 880
+weight: 910
 url: /fr/net/groupdocs.signature.domain/stampline/
 ---
 ## StampLine class

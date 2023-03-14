@@ -3,7 +3,7 @@ title: IResult
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: İmza işlemi sonucu için ortak arayüz.
 type: docs
-weight: 510
+weight: 530
 url: /tr/net/groupdocs.signature.domain/iresult/
 ---
 ## IResult interface
@@ -18,8 +18,12 @@ public interface IResult
 
 | İsim | Tanım |
 | --- | --- |
+| [DestinDocumentSize](../../groupdocs.signature.domain/iresult/destindocumentsize) { get; } | Hedef belge boyutunu döndürür |
 | [Failed](../../groupdocs.signature.domain/iresult/failed) { get; } | İşlenmemiş imzaların listesi[`BaseSignature`](../basesignature) . |
+| [ProcessingTime](../../groupdocs.signature.domain/iresult/processingtime) { get; } | İşlemin yürütme süresini milisaniye cinsinden döndürür |
+| [SourceDocumentSize](../../groupdocs.signature.domain/iresult/sourcedocumentsize) { get; } | Kaynak belge boyutunu döndürür |
 | [Succeeded](../../groupdocs.signature.domain/iresult/succeeded) { get; } | Başarıyla işlenen imzaların listesi[`BaseSignature`](../basesignature) . |
+| [TotalSignatures](../../groupdocs.signature.domain/iresult/totalsignatures) { get; } | Toplam işlenen imzaları döndürür |
 
 ### Ayrıca bakınız
 

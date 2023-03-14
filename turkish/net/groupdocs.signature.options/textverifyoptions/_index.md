@@ -3,7 +3,7 @@ title: TextVerifyOptions
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Belge Metin imzasını doğrulamak için seçenekleri korur.
 type: docs
-weight: 1660
+weight: 1740
 url: /tr/net/groupdocs.signature.options/textverifyoptions/
 ---
 ## TextVerifyOptions class
@@ -26,13 +26,13 @@ public class TextVerifyOptions : VerifyOptions
 
 | İsim | Tanım |
 | --- | --- |
-| [AllPages](../../groupdocs.signature.options/verifyoptions/allpages) { get; set; } | Her belge sayfasını doğrulamak için işaretleyin. Varsayılan değer true'dur. |
+| [AllPages](../../groupdocs.signature.options/verifyoptions/allpages) { get; set; } | Her belge sayfasını doğrulamak için işaretleyin. Varsayılan değer olarak true. |
 | [Extensions](../../groupdocs.signature.options/verifyoptions/extensions) { get; set; } | Alternatif imza seçenekleri doğrulaması için ek uzantılar. |
 | [FormTextFieldTitle](../../groupdocs.signature.options/textverifyoptions/formtextfieldtitle) { get; set; } | Doğrulamak için form alanının başlığını alır veya ayarlar. Bu özellik ayarlanırsa, metin yalnızca metin form alanlarında bulunur. |
 | [FormTextFieldType](../../groupdocs.signature.options/textverifyoptions/formtextfieldtype) { get; set; } | Doğrulamak için form alanının türünü alır veya ayarlar. Bu özellik ayarlanırsa, metin yalnızca metin form alanlarında bulunur. |
 | [IsValid](../../groupdocs.signature.options/verifyoptions/isvalid) { get; } | Geçerli özellik bayrağı. |
 | [MatchType](../../groupdocs.signature.options/textverifyoptions/matchtype) { get; set; } | Metin Eşleme Türü doğrulamasını alır veya ayarlar. |
-| virtual [PageNumber](../../groupdocs.signature.options/verifyoptions/pagenumber) { get; set; } | Doğrulanacak Belge Sayfa Numarası. Özellik ayarlanmazsa - Belgesinin tüm Sayfaları ilk oluşum için doğrulanır. Minimum değer 1. |
+| virtual [PageNumber](../../groupdocs.signature.options/verifyoptions/pagenumber) { get; set; } | Doğrulanacak Belge Sayfa Numarası. Özellik ayarlanmazsa - Belgesinin tüm Sayfaları ilk geçtiği için doğrulanacaktır. Minimum değer: 1. |
 | virtual [PagesSetup](../../groupdocs.signature.options/verifyoptions/pagessetup) { get; set; } | Doğrulanacak sayfaları belirtmek için Sayfa Seçenekleri. |
 | [SignatureID](../../groupdocs.signature.options/textverifyoptions/signatureid) { get; set; } | Doğrulanması gerekiyorsa, Metin İmza Kimliğini sıfırdan fazla belirtin. Bu özellik yalnızca PDF belgeleri için desteklenir |
 | [SignatureImplementation](../../groupdocs.signature.options/textverifyoptions/signatureimplementation) { get; set; } | Doğrulanacak İmza Türü. |

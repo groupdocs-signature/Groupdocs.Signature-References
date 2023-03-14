@@ -1,14 +1,14 @@
 ---
 title: SignCompleted
 second_title: GroupDocs.Signature for .NET API 参考
-description: 在文档签名过程完成时发生
+description: 文档签名过程完成时发生
 type: docs
 weight: 50
 url: /zh/net/groupdocs.signature/signature/signcompleted/
 ---
 ## Signature.SignCompleted event
 
-在文档签名过程完成时发生。
+文档签名过程完成时发生。
 
 ```csharp
 public event ProcessCompleteEventHandler SignCompleted;

@@ -13,6 +13,7 @@ is_root: true
 | [GroupDocs.Signature](./groupdocs.signature) | Пространство имен предоставляет классы для подписания документов разных форматов штампами, штрих-кодами, QR-кодами, текстом, изображением, метаданными, полями форм и цифровыми подписями. |
 | [GroupDocs.Signature.Domain](./groupdocs.signature.domain) | Пространство имен предоставляет классы для работы с представлением документа. |
 | [GroupDocs.Signature.Domain.Extensions](./groupdocs.signature.domain.extensions) | Пространство имен предоставляет расширения для внешнего вида подписи и дополнительные функции. |
+| [GroupDocs.Signature.Logging](./groupdocs.signature.logging) | Пространство имен предоставляет классы для ведения журналов. |
 | [GroupDocs.Signature.Options](./groupdocs.signature.options) | Пространство имен предоставляет классы для указания дополнительных параметров при загрузке, подписании, проверке, поиске и сохранении документов. |
 | [GroupDocs.Signature.Options.Appearances](./groupdocs.signature.options.appearances) | Пространство имен предоставляет классы для дополнительных представлений подписи. |
 

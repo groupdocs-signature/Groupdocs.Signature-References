@@ -3,7 +3,7 @@ title: GroupDocs.Signature.Options.Appearances
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Der Namensraum stellt Klassen für zusätzliche Signaturdarstellungen bereit.
 type: docs
-weight: 50
+weight: 60
 url: /de/net/groupdocs.signature.options.appearances/
 ---
 Der Namensraum stellt Klassen für zusätzliche Signaturdarstellungen bereit.

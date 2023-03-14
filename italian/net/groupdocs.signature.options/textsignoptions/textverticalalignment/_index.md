@@ -1,14 +1,14 @@
 ---
 title: TextVerticalAlignment
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Allineamento verticale del testo allinterno di una firma. Questa funzione è supportata solo per limplementazione della firma dellimmagine vediTextSignatureImplementationgroupdocs.signature.domain/textsignatureimplementation SignatureImplementazione proprietà.
+description: Allineamento verticale del testo allinterno di una firma. Questa funzione è supportata solo per limplementazione della firma immagine vedereTextSignatureImplementationgroupdocs.signature.domain/textsignatureimplementation Proprietà SignatureImplementation.
 type: docs
 weight: 230
 url: /it/net/groupdocs.signature.options/textsignoptions/textverticalalignment/
 ---
 ## TextSignOptions.TextVerticalAlignment property
 
-Allineamento verticale del testo all'interno di una firma. Questa funzione è supportata solo per l'implementazione della firma dell'immagine (vedi[`TextSignatureImplementation`](../../../groupdocs.signature.domain/textsignatureimplementation) SignatureImplementazione proprietà).
+Allineamento verticale del testo all'interno di una firma. Questa funzione è supportata solo per l'implementazione della firma immagine (vedere[`TextSignatureImplementation`](../../../groupdocs.signature.domain/textsignatureimplementation) Proprietà SignatureImplementation).
 
 ```csharp
 public TextVerticalAlignment TextVerticalAlignment { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Url
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置联系人 URL
+description: 获取或设置联系 URL
 type: docs
 weight: 130
 url: /zh/net/groupdocs.signature.domain.extensions/vcard/url/
 ---
 ## VCard.Url property
 
-获取或设置联系人 URL。
+获取或设置联系 URL。
 
 ```csharp
 public string Url { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Started
 second_title: GroupDocs.Signature لمرجع .NET API
-description: يمثل علامة وقت بدء العملية.
+description: يمثل علامة الوقت لبدء العملية.
 type: docs
 weight: 20
 url: /ar/net/groupdocs.signature/processstarteventargs/started/
 ---
 ## ProcessStartEventArgs.Started property
 
-يمثل علامة وقت بدء العملية.
+يمثل علامة الوقت لبدء العملية.
 
 ```csharp
 public DateTime Started { get; set; }

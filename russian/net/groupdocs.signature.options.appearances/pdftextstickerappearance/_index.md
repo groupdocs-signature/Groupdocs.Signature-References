@@ -3,7 +3,7 @@ title: PdfTextStickerAppearance
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Описывает внешний вид объекта стикера с текстовой аннотацией PDF и всплывающего окна стикера.
 type: docs
-weight: 1160
+weight: 1230
 url: /ru/net/groupdocs.signature.options.appearances/pdftextstickerappearance/
 ---
 ## PdfTextStickerAppearance class

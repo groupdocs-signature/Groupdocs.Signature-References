@@ -1,14 +1,14 @@
 ---
 title: QrCodeType
 second_title: GroupDocs.Signature for .NET API 参考
-description: 指定二维码类型属性
+description: 指定 QRCode 类型属性
 type: docs
-weight: 770
+weight: 800
 url: /zh/net/groupdocs.signature.domain/qrcodetype/
 ---
 ## QrCodeType class
 
-指定二维码类型属性。
+指定 QRCode 类型属性。
 
 ```csharp
 public sealed class QrCodeType : IEquatable<QrCodeType>
@@ -18,16 +18,16 @@ public sealed class QrCodeType : IEquatable<QrCodeType>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TypeIndex](../../groupdocs.signature.domain/qrcodetype/typeindex) { get; } | 获取支持的二维码类型集合中的对象索引。 |
-| [TypeName](../../groupdocs.signature.domain/qrcodetype/typename) { get; } | 获取二维码类型的名称。 |
+| [TypeIndex](../../groupdocs.signature.domain/qrcodetype/typeindex) { get; } | 获取支持的 QRCode 类型集合中对象的索引。 |
+| [TypeName](../../groupdocs.signature.domain/qrcodetype/typename) { get; } | 获取 QRCode 类型的名称。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Equals](../../groupdocs.signature.domain/qrcodetype/equals#equals_1)(object) | 重写方法判断指定的System.Object是否等于当前的System.Object. |
-| [Equals](../../groupdocs.signature.domain/qrcodetype/equals#equals)(QrCodeType) | 判断指定的二维码是否等于当前对象。 |
-| override [GetHashCode](../../groupdocs.signature.domain/qrcodetype/gethashcode)() | 被覆盖的方法用作特定类型的哈希函数。 |
+| override [Equals](../../groupdocs.signature.domain/qrcodetype/equals#equals_1)(object) | 重写方法判断指定System.Object是否等于当前System.Object. |
+| [Equals](../../groupdocs.signature.domain/qrcodetype/equals#equals)(QrCodeType) | 判断指定QRCode是否等于当前对象。 |
+| override [GetHashCode](../../groupdocs.signature.domain/qrcodetype/gethashcode)() | 重写方法用作特定类型的哈希函数。 |
 
 ### 也可以看看
 

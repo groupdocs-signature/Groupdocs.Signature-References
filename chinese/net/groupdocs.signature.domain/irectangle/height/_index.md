@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: GroupDocs.Signature for .NET API 参考
-description: 文档页面上签名区域的高度以度量单位 像素百分比或毫米见MeasureTypegroupdocs.signature.domain/measuretypeSizeMeasureType.
+description: 文档页面上签名区域的高度单位为 像素百分比或毫米请参阅MeasureTypegroupdocs.signature.domain/measuretypeSizeMeasureType.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.domain/irectangle/height/
 ---
 ## IRectangle.Height property
 
-文档页面上签名区域的高度，以度量单位 （像素、百分比或毫米见[`MeasureType`](../../measuretype)SizeMeasureType).
+文档页面上签名区域的高度，单位为 （像素、百分比或毫米，请参阅[`MeasureType`](../../measuretype)SizeMeasureType).
 
 ```csharp
 public int Height { get; set; }

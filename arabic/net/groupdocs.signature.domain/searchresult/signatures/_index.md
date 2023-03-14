@@ -1,14 +1,14 @@
 ---
 title: Signatures
 second_title: GroupDocs.Signature لمرجع .NET API
-description: قائمة التوقيعات المكتشفةBaseSignaturegroupdocs.signature.domain/basesignature .
+description: قائمة التوقيعات التي تم العثور عليهاBaseSignaturegroupdocs.signature.domain/basesignature .
 type: docs
-weight: 10
+weight: 30
 url: /ar/net/groupdocs.signature.domain/searchresult/signatures/
 ---
 ## SearchResult.Signatures property
 
-قائمة التوقيعات المكتشفة[`BaseSignature`](../../basesignature) .
+قائمة التوقيعات التي تم العثور عليها[`BaseSignature`](../../basesignature) .
 
 ```csharp
 public List<BaseSignature> Signatures { get; }

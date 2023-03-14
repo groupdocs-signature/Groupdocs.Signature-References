@@ -3,7 +3,7 @@ title: JpegCompressionColorMode
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحدد أوضاع ضغط ألوان JPEG .
 type: docs
-weight: 1350
+weight: 1430
 url: /ar/net/groupdocs.signature.options/jpegcompressioncolormode/
 ---
 ## JpegCompressionColorMode enumeration

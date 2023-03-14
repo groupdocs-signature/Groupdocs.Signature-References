@@ -1,14 +1,14 @@
 ---
 title: PdfTextStickerIcon
 second_title: GroupDocs.Signature for .NET API 参考
-description: 描述 PDF 文本注释贴纸图标外观的枚举
+description: 描述了PDF文本注释贴纸图标外观的枚举
 type: docs
-weight: 690
+weight: 720
 url: /zh/net/groupdocs.signature.domain/pdftextstickericon/
 ---
 ## PdfTextStickerIcon enumeration
 
-描述 PDF 文本注释贴纸图标外观的枚举。
+描述了PDF文本注释贴纸图标外观的枚举。
 
 ```csharp
 public enum PdfTextStickerIcon
@@ -20,14 +20,14 @@ public enum PdfTextStickerIcon
 | --- | --- | --- |
 | Note | `0` | 注释图标。 |
 | Comment | `1` | 评论图标。 |
-| Key | `2` | 钥匙图标。 |
+| Key | `2` | 钥匙图标. |
 | Help | `3` | 帮助图标。 |
 | NewParagraph | `4` | 新段落图标 |
 | Paragraph | `5` | 段落图标 |
 | Insert | `6` | 插入图标 |
 | Check | `7` | 检查图标 |
 | Cross | `8` | 十字图标 |
-| Circle | `9` | 圆圈图标 |
+| Circle | `9` | 圆形图标 |
 | Star | `10` | 星形图标 |
 
 ### 也可以看看

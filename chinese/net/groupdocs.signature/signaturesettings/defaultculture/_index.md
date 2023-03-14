@@ -1,14 +1,14 @@
 ---
 title: DefaultCulture
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置文档处理期间使用的默认文化默认值为enUS
+description: 获取或设置在文档处理期间使用的默认区域性默认值为enUS.
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature/signaturesettings/defaultculture/
 ---
 ## SignatureSettings.DefaultCulture property
 
-获取或设置文档处理期间使用的默认文化。默认值为“en-US”。
+获取或设置在文档处理期间使用的默认区域性。默认值为“en-US”.
 
 ```csharp
 public CultureInfo DefaultCulture { get; set; }

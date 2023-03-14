@@ -1,14 +1,14 @@
 ---
 title: Clone
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: FormField Signature örneğini klonlayın.
+description: FormField Signature örneğini Klonla.
 type: docs
 weight: 30
 url: /tr/net/groupdocs.signature.domain/checkboxformfieldsignature/clone/
 ---
 ## CheckboxFormFieldSignature.Clone method
 
-FormField Signature örneğini klonlayın.
+FormField Signature örneğini Klonla.
 
 ```csharp
 public override object Clone()

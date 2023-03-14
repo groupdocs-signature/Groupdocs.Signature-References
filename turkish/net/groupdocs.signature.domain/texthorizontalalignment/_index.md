@@ -3,7 +3,7 @@ title: TextHorizontalAlignment
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: İmza içindeki metnin yatay hizalamasını belirtir.
 type: docs
-weight: 940
+weight: 970
 url: /tr/net/groupdocs.signature.domain/texthorizontalalignment/
 ---
 ## TextHorizontalAlignment enumeration

@@ -42,7 +42,7 @@ public PreviewSignatureOptions(SignOptions signOptions,
 | --- | --- | --- |
 | signOptions | SignOptions | 为其生成预览的签名选项。 |
 | createSignatureStream | CreateSignatureStream | 定义创建输出签名预览流的方法的委托。 |
-| releaseSignatureStream | ReleaseSignatureStream | 定义释放输出签名预览流的方法的委托。 |
+| releaseSignatureStream | ReleaseSignatureStream | 定义释放输出签名预览流方法的委托。 |
 
 ### 也可以看看
 

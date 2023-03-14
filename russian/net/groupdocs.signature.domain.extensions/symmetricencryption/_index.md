@@ -3,7 +3,7 @@ title: SymmetricEncryption
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Реализует стандартные симметричные алгоритмы шифрования данных с одним ключом и парольной фразой солью.
 type: docs
-weight: 360
+weight: 380
 url: /ru/net/groupdocs.signature.domain.extensions/symmetricencryption/
 ---
 ## SymmetricEncryption class

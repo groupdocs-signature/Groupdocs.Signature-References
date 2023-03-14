@@ -1,14 +1,14 @@
 ---
 title: Status
 second_title: GroupDocs.Signature for .NET API 参考
-description: 表示当前进程状态
+description: 指示当前进程状态
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature/processeventargs/status/
 ---
 ## ProcessEventArgs.Status property
 
-表示当前进程状态。
+指示当前进程状态。
 
 ```csharp
 public ProcessStatus Status { get; set; }

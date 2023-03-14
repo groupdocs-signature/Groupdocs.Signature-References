@@ -1,14 +1,14 @@
 ---
 title: QrCodeVerifyOptions
 second_title: GroupDocs.Signature for .NET API 参考
-description: 为 QR 码签名创建验证选项 QrCodeVerifyOptions
+description: 为二维码签名创建验证选项 QrCodeVerifyOptions.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.options/qrcodeverifyoptions/qrcodeverifyoptions/
 ---
 ## QrCodeVerifyOptions() {#constructor}
 
-为 QR 码签名创建验证选项 QrCodeVerifyOptions。
+为二维码签名创建验证选项 QrCodeVerifyOptions.
 
 ```csharp
 public QrCodeVerifyOptions()
@@ -24,7 +24,7 @@ public QrCodeVerifyOptions()
 
 ## QrCodeVerifyOptions(string) {#constructor_1}
 
-为二维码签名创建验证选项 QrCodeVerifyOptions 以验证二维码文本。
+为带有 QR 码文本的 QR 码签名创建验证选项 QrCodeVerifyOptions 以进行验证。
 
 ```csharp
 public QrCodeVerifyOptions(string text)
@@ -32,7 +32,7 @@ public QrCodeVerifyOptions(string text)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| text | String | 二维码文本验证 |
+| text | String | QR码文本验证 |
 
 ### 也可以看看
 
@@ -44,7 +44,7 @@ public QrCodeVerifyOptions(string text)
 
 ## QrCodeVerifyOptions(string, QrCodeType) {#constructor_2}
 
-为带有文本和二维码编码类型的二维码签名创建验证选项 QrCodeVerifyOptions 以进行验证。
+为带有文本和 QR 码编码类型的 QR 码签名创建验证选项 QrCodeVerifyOptions 以进行验证。
 
 ```csharp
 public QrCodeVerifyOptions(string text, QrCodeType encodeType)
@@ -52,7 +52,7 @@ public QrCodeVerifyOptions(string text, QrCodeType encodeType)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| text | String | 待验证的文本 |
+| text | String | 待验证文本 |
 | encodeType | QrCodeType | 编码类型 |
 
 ### 也可以看看

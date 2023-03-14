@@ -1,14 +1,14 @@
 ---
 title: OuterLines
 second_title: GroupDocs.Signature for .NET API 参考
-description: 渲染为同心圆的外线列表
+description: 外线列表呈现为同心圆
 type: docs
 weight: 60
 url: /zh/net/groupdocs.signature.options/stampsignoptions/outerlines/
 ---
 ## StampSignOptions.OuterLines property
 
-渲染为同心圆的外线列表。
+外线列表呈现为同心圆。
 
 ```csharp
 public List<StampLine> OuterLines { get; }

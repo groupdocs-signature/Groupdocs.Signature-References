@@ -3,7 +3,7 @@ title: GroupDocs.Signature.Options
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Пространство имен предоставляет классы для указания дополнительных параметров при загрузке подписании проверке поиске и сохранении документов.
 type: docs
-weight: 40
+weight: 50
 url: /ru/net/groupdocs.signature.options/
 ---
 Пространство имен предоставляет классы для указания дополнительных параметров при загрузке, подписании, проверке, поиске и сохранении документов.
@@ -16,6 +16,7 @@ url: /ru/net/groupdocs.signature.options/
 | [BarcodeSignOptions](./barcodesignoptions) | Представляет параметры подписи штрих-кода. |
 | [BarcodeVerifyOptions](./barcodeverifyoptions) | Представляет параметры проверки штрих-кода. |
 | [BmpSaveOptions](./bmpsaveoptions) | Bmp Параметры сохранения документов с изображениями. |
+| [CertificateVerifyOptions](./certificateverifyoptions) | Сохраняет параметры для проверки документов сертификата. |
 | [CreatePageStream](./createpagestream) | Делегат, определяющий метод создания потока предварительного просмотра выходной страницы. |
 | [CreateSignatureStream](./createsignaturestream) | Делегат, определяющий метод создания потока предварительного просмотра выходной подписи. |
 | [DigitalSearchOptions](./digitalsearchoptions) | Представляет параметры поиска цифровых подписей. |

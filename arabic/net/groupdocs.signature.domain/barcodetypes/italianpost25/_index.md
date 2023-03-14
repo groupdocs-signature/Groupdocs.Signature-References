@@ -3,7 +3,7 @@ title: ItalianPost25
 second_title: GroupDocs.Signature لمرجع .NET API
 description: ItalianPost25 كائن نوع الرمز الشريطي .
 type: docs
-weight: 360
+weight: 390
 url: /ar/net/groupdocs.signature.domain/barcodetypes/italianpost25/
 ---
 ## BarcodeTypes.ItalianPost25 field

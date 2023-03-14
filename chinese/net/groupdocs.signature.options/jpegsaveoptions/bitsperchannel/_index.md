@@ -1,14 +1,14 @@
 ---
 title: BitsPerChannel
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置无损 jpeg 图像的每个通道的位 现在我们支持每通道 2 到 8 位
+description: 获取或设置无损 jpeg 图像的每通道位数 现在我们支持每通道 2 到 8 位
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.options/jpegsaveoptions/bitsperchannel/
 ---
 ## JpegSaveOptions.BitsPerChannel property
 
-获取或设置无损 jpeg 图像的每个通道的位。 现在我们支持每通道 2 到 8 位。
+获取或设置无损 jpeg 图像的每通道位数。 现在我们支持每通道 2 到 8 位。
 
 ```csharp
 public byte BitsPerChannel { get; set; }

@@ -3,7 +3,7 @@ title: XLTM
 second_title: GroupDocs.Signature for .NET API 参考
 description: Excel Office OpenXML 文件模板 .xltm 表示 Excel 模板文件格式 了解有关此文件格式的更多信息这里https//wiki.fileformat.com/spreadsheet/xltm
 type: docs
-weight: 560
+weight: 570
 url: /zh/net/groupdocs.signature.domain/filetype/xltm/
 ---
 ## FileType.XLTM field

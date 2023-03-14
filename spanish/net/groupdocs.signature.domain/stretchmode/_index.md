@@ -3,7 +3,7 @@ title: StretchMode
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Representa el modo de extensión del área de la firma en una página del documento.
 type: docs
-weight: 920
+weight: 950
 url: /es/net/groupdocs.signature.domain/stretchmode/
 ---
 ## StretchMode enumeration

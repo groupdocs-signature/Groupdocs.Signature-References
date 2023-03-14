@@ -1,14 +1,14 @@
 ---
 title: BitsPerPixel
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Ottiene o imposta il conteggio dei bit dellimmagine per pixel.
+description: Ottiene o imposta i bit dellimmagine per numero di pixel.
 type: docs
 weight: 20
 url: /it/net/groupdocs.signature.options/bmpsaveoptions/bitsperpixel/
 ---
 ## BmpSaveOptions.BitsPerPixel property
 
-Ottiene o imposta il conteggio dei bit dell'immagine per pixel.
+Ottiene o imposta i bit dell'immagine per numero di pixel.
 
 ```csharp
 public int BitsPerPixel { get; set; }

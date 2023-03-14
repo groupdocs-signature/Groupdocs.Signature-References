@@ -1,14 +1,14 @@
 ---
 title: JobTitle
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置联系人职位
+description: 获取或设置联系人职务
 type: docs
 weight: 100
 url: /zh/net/groupdocs.signature.domain.extensions/vcard/jobtitle/
 ---
 ## VCard.JobTitle property
 
-获取或设置联系人职位。
+获取或设置联系人职务。
 
 ```csharp
 public string JobTitle { get; set; }

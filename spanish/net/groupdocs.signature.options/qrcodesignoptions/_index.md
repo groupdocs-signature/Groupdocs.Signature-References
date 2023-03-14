@@ -3,7 +3,7 @@ title: QrCodeSignOptions
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Representa las opciones de firma de QRCode.
 type: docs
-weight: 1550
+weight: 1630
 url: /es/net/groupdocs.signature.options/qrcodesignoptions/
 ---
 ## QrCodeSignOptions class

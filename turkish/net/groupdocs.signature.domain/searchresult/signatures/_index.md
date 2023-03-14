@@ -1,14 +1,14 @@
 ---
 title: Signatures
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Algılanan imzaların listesiBaseSignaturegroupdocs.signature.domain/basesignature .
+description: Bulunan imzaların listesiBaseSignaturegroupdocs.signature.domain/basesignature .
 type: docs
-weight: 10
+weight: 30
 url: /tr/net/groupdocs.signature.domain/searchresult/signatures/
 ---
 ## SearchResult.Signatures property
 
-Algılanan imzaların listesi[`BaseSignature`](../../basesignature) .
+Bulunan imzaların listesi[`BaseSignature`](../../basesignature) .
 
 ```csharp
 public List<BaseSignature> Signatures { get; }

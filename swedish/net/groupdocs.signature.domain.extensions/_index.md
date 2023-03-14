@@ -14,7 +14,7 @@ Namnutrymmet tillhandahåller tillägg för signaturutseende och ytterligare fun
 | --- | --- |
 | [Address](./address) | Representerar adress för kontakt. |
 | [Brush](./brush) | Representerar basklass för olika borstar. |
-| [CryptoCurrencyTransfer](./cryptocurrencytransfer) | Representerar kryptovalutaöverföring (ta emot eller skicka) för QR-kod. |
+| [CryptoCurrencyTransfer](./cryptocurrencytransfer) | Representerar överföring av kryptovaluta (ta emot eller skicka) för QR-kod. |
 | [Email](./email) | Representerar e-postformat för QR-kod. |
 | [EPC](./epc) | Representerar European Payments Council Quick Response Code. |
 | [Event](./event) | Representerar standard QR-Code Event detaljer. |
@@ -44,6 +44,7 @@ Namnutrymmet tillhandahåller tillägg för signaturutseende och ytterligare fun
 | Uppräkning | Beskrivning |
 | --- | --- |
 | [CryptoCurrencyType](./cryptocurrencytype) | Representerar kryptovalutatyp. |
+| [DataMatrixEncodeMode](./datamatrixencodemode) | DataMatrix-kodarens kodningsläge, standard till Auto |
 | [SymmetricAlgorithmType](./symmetricalgorithmtype) | Representerar symmetrisk krypteringsalgoritmtyp. |
 | [WiFiEncryptionType](./wifiencryptiontype) | Representerar WiFi-krypteringstyp. |
 

@@ -1,14 +1,14 @@
 ---
 title: ImageSearchOptions
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Resim imzaları için arama seçeneklerini temsil eder.
+description: Görüntü imzaları için arama seçeneklerini temsil eder.
 type: docs
-weight: 1330
+weight: 1410
 url: /tr/net/groupdocs.signature.options/imagesearchoptions/
 ---
 ## ImageSearchOptions class
 
-Resim imzaları için arama seçeneklerini temsil eder.
+Görüntü imzaları için arama seçeneklerini temsil eder.
 
 ```csharp
 public class ImageSearchOptions : SearchOptions
@@ -30,15 +30,15 @@ public class ImageSearchOptions : SearchOptions
 | [PageNumber](../../groupdocs.signature.options/searchoptions/pagenumber) { get; set; } | Arama için Belge sayfa numarasını alır veya ayarlar. Değer isteğe bağlıdır. |
 | [PagesSetup](../../groupdocs.signature.options/searchoptions/pagessetup) { get; set; } | İmza araması için sayfaları belirleme seçenekleri. |
 | [ReturnContent](../../groupdocs.signature.options/imagesearchoptions/returncontent) { get; set; } | Belge sayfasındaki imzanın görüntü içeriğini kapmak için bayrağı alır veya ayarlar. Bu bayrak doğru olarak ayarlanırsa, görüntü imza içeriği ham görüntü verilerini gereken formatta tutar[`ReturnContentType`](./returncontenttype) . Varsayılan olarak bu seçenek devre dışıdır. |
-| [ReturnContentType](../../groupdocs.signature.options/imagesearchoptions/returncontenttype) { get; set; } | ReturnContent özelliği etkinleştirildiğinde görüntü imzasının döndürülen içeriğinin dosya türünü belirtir. Varsayılan olarak Null olarak ayarlanmıştır. Bu, görüntü içeriğini orijinal biçimde döndürmek anlamına gelir. Bu resim formatı şu adreste belirtilmiştir:[`Format`](../../groupdocs.signature.domain/imagesignature/format) Desteklenen olası değerler şunlardır: FileType.JPEG, FileType.PNG, FileType.BMP. Sağlanan biçim desteklenmiyorsa, orijinal biçimdeki resim içeriği döndürülecektir. |
+| [ReturnContentType](../../groupdocs.signature.options/imagesearchoptions/returncontenttype) { get; set; } | ReturnContent özelliği etkinleştirildiğinde görüntü imzasının döndürülen içeriğinin dosya türünü belirtir. Varsayılan olarak Null olarak ayarlanmıştır. Bu, görüntü içeriğini orijinal biçimde döndürmek anlamına gelir. Bu resim formatı şu adreste belirtilmiştir:[`Format`](../../groupdocs.signature.domain/imagesignature/format) Desteklenen olası değerler şunlardır: FileType.JPEG, FileType.PNG, FileType.BMP. Sağlanan biçim desteklenmiyorsa, resim içeriği orijinal biçimde döndürülür. |
 | [SkipExternal](../../groupdocs.signature.options/searchoptions/skipexternal) { get; set; } | Yalnızca IsSignature olarak işaretlenmiş imzaları döndürmek için işaretleyin. Varsayılan olarak, belirtilen ölçütlerle eşleşen tüm imzaların döndürüleceğini belirten false değeridir. |
 
 ### Notlar
 
 **Daha fazla bilgi edin**
 
-* GroupDocs tarafından Görsel elektronik imza aramasının temel kullanımı.İmza: [ Bir belgede Görüntü imzalarında e-Arama nasıl yapılır](https://docs.groupdocs.com/display/signaturenet/Search+for+Image+e-signatures)
-* GroupDocs ile Görüntü elektronik imzası arama ayarlarının gelişmiş kullanımı.İmza: [Bir belgede eSearch Image imzalarının gelişmiş kullanımı ve ek ayarlar](https://docs.groupdocs.com/display/signaturenet/Advanced+search+for+Image+signatures)
+* GroupDocs.Signature tarafından Görsel elektronik imza aramanın temel kullanımı: [ Bir belgedeki Görüntü imzalarını e-Arama](https://docs.groupdocs.com/display/signaturenet/Search+for+Image+e-signatures)
+* GroupDocs.Signature ile Görüntü elektronik imzası arama ayarlarının gelişmiş kullanımı: [Bir belgede eSearch Image imzalarının gelişmiş kullanımı ve ek ayarlar](https://docs.groupdocs.com/display/signaturenet/Advanced+search+for+Image+signatures)
 
 ### Ayrıca bakınız
 

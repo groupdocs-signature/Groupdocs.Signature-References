@@ -1,14 +1,14 @@
 ---
 title: CryptoCurrencyTransfer
 second_title: Referencia de API de GroupDocs.Signature para .NET
-description: Representa la transferencia de moneda criptográfica recibir o enviar para QRCode.
+description: Representa la transferencia de criptomonedas recibir o enviar para QRCode.
 type: docs
-weight: 190
+weight: 200
 url: /es/net/groupdocs.signature.domain.extensions/cryptocurrencytransfer/
 ---
 ## CryptoCurrencyTransfer class
 
-Representa la transferencia de moneda criptográfica (recibir o enviar) para QR-Code.
+Representa la transferencia de criptomonedas (recibir o enviar) para QR-Code.
 
 ```csharp
 public class CryptoCurrencyTransfer
@@ -24,17 +24,17 @@ public class CryptoCurrencyTransfer
 
 | Nombre | Descripción |
 | --- | --- |
-| [Address](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/address) { get; set; } | Obtiene o establece la dirección pública de moneda criptográfica. |
+| [Address](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/address) { get; set; } | Obtiene o establece la dirección pública de la criptomoneda. |
 | [Amount](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/amount) { get; set; } | Obtiene o establece el monto de la transferencia. |
 | [CustomType](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/customtype) { get; set; } | Obtiene o establece el mensaje de transferencia opcional. |
 | [Message](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/message) { get; set; } | Obtiene o establece el mensaje de transferencia opcional. |
-| [Type](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/type) { get; set; } | Obtiene o establece uno de los tipos de moneda criptográfica admitidos. |
+| [Type](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/type) { get; set; } | Obtiene o establece uno de los tipos de criptomoneda admitidos. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| override [Equals](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/equals)(object) | Sobrescribe el método Equals para comparar las propiedades de transferencia de moneda Crypto |
+| override [Equals](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/equals)(object) | Sobrescribe el método Equals para comparar las propiedades de transferencia de criptomonedas |
 | override [GetHashCode](../../groupdocs.signature.domain.extensions/cryptocurrencytransfer/gethashcode)() | Anula el método GetHashCode |
 
 ### Ver también

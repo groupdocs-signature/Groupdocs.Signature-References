@@ -24,7 +24,7 @@ Gibt true zurück, wenn die Operation erfolgreich war.
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zum Löschen elektronischer Signaturen aus Dokumenten in C#: [So löschen Sie mit GroupDocs.Signature die elektronische Signatur aus einem Dokument](https://docs.groupdocs.com/display/signaturenet/Delete+signatures+from+documents)
 * Fortgeschrittene Anwendungsfälle zum Löschen elektronischer Signaturen von Dokumenten: [So löschen Sie verschiedene Arten von eSignaturen aus einem Dokument in C#](https://docs.groupdocs.com/display/signaturenet/Deleting)
@@ -56,7 +56,7 @@ Gibt DeleteResult zurück[`DeleteResult`](../../../groupdocs.signature.domain/de
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zum Löschen elektronischer Signaturen aus Dokumenten in C#: [So löschen Sie mit GroupDocs.Signature die elektronische Signatur aus einem Dokument](https://docs.groupdocs.com/display/signaturenet/Delete+signatures+from+documents)
 * Fortgeschrittene Anwendungsfälle zum Löschen elektronischer Signaturen von Dokumenten: [So löschen Sie verschiedene Arten von eSignaturen aus einem Dokument in C#](https://docs.groupdocs.com/display/signaturenet/Deleting)
@@ -89,7 +89,7 @@ Gibt DeleteResult zurück[`DeleteResult`](../../../groupdocs.signature.domain/de
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zum Löschen elektronischer Signaturen aus Dokumenten in C#: [So löschen Sie eSignaturen mit einem bestimmten Typ aus einem Dokument mit GroupDocs.Signature](https://docs.groupdocs.com/signature/net/delete+signatures+of+the+certain+type/)
 * Fortgeschrittene Anwendungsfälle zum Löschen elektronischer Signaturen von Dokumenten: [So löschen Sie verschiedene Arten von eSignaturen aus einem Dokument in C#](https://docs.groupdocs.com/display/signaturenet/Deleting)
@@ -122,7 +122,7 @@ Gibt DeleteResult zurück[`DeleteResult`](../../../groupdocs.signature.domain/de
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zum Löschen elektronischer Signaturen aus Dokumenten in C#: [So löschen Sie eSignaturen mit einem bestimmten Typ aus einem Dokument mit GroupDocs.Signature](https://docs.groupdocs.com/signature/net/delete+signatures+of+the+certain+types/)
 * Fortgeschrittene Anwendungsfälle zum Löschen elektronischer Signaturen von Dokumenten: [So löschen Sie verschiedene Arten von eSignaturen aus einem Dokument in C#](https://docs.groupdocs.com/display/signaturenet/Deleting)
@@ -155,7 +155,7 @@ Gibt true zurück, wenn die Operation erfolgreich war.
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zum Löschen elektronischer Signaturen aus Dokumenten in C#: [So löschen Sie mit GroupDocs.Signature die elektronische Signatur aus einem Dokument](https://docs.groupdocs.com/display/signaturenet/Delete+signatures+from+documents)
 * Fortgeschrittene Anwendungsfälle zum Löschen elektronischer Signaturen von Dokumenten: [So löschen Sie verschiedene Arten von eSignaturen aus einem Dokument in C#](https://docs.groupdocs.com/display/signaturenet/Deleting)
@@ -186,7 +186,7 @@ Gibt DeleteResult zurück[`DeleteResult`](../../../groupdocs.signature.domain/de
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zum Löschen elektronischer Signaturen aus Dokumenten in C#: [So löschen Sie mit GroupDocs.Signature die elektronische Signatur aus einem Dokument](https://docs.groupdocs.com/display/signaturenet/Delete+signatures+from+documents)
 * Fortgeschrittene Anwendungsfälle zum Löschen elektronischer Signaturen von Dokumenten: [So löschen Sie verschiedene Arten von eSignaturen aus einem Dokument in C#](https://docs.groupdocs.com/display/signaturenet/Deleting)

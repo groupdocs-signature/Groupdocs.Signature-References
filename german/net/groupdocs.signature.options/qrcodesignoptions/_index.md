@@ -3,7 +3,7 @@ title: QrCodeSignOptions
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Repräsentiert die QRCodeSignaturoptionen.
 type: docs
-weight: 1550
+weight: 1630
 url: /de/net/groupdocs.signature.options/qrcodesignoptions/
 ---
 ## QrCodeSignOptions class
@@ -41,12 +41,12 @@ public class QrCodeSignOptions : TextSignOptions
 | [FormTextFieldTitle](../../groupdocs.signature.options/textsignoptions/formtextfieldtitle) { get; set; } | Ruft den Titel des Textformularfelds ab oder legt ihn fest, um eine Textsignatur darin einzufügen. Diese Eigenschaft kann nur mit SignatureImplementation = TextToFormField verwendet werden. |
 | [FormTextFieldType](../../groupdocs.signature.options/textsignoptions/formtextfieldtype) { get; set; } | Ruft den Typ des Formularfelds ab oder legt ihn fest, um eine Textsignatur darin einzufügen. Diese Eigenschaft kann nur mit SignatureImplementation = TextToFormField verwendet werden. Der Standardwert ist AllTextTypes. |
 | [Height](../../groupdocs.signature.options/textsignoptions/height) { get; set; } | Höhe der Unterschrift auf Dokumentseite in Messwerte (Pixel, Prozent oder Millimeter s[`MeasureType`](../../groupdocs.signature.domain/measuretype) SizeMeasureType-Eigenschaft). |
-| [HorizontalAlignment](../../groupdocs.signature.options/textsignoptions/horizontalalignment) { get; set; } | Horizontale Ausrichtung der Signatur auf der Dokumentenseite. |
+| [HorizontalAlignment](../../groupdocs.signature.options/textsignoptions/horizontalalignment) { get; set; } | Horizontale Ausrichtung der Signatur auf der Dokumentseite. |
 | [InnerMargins](../../groupdocs.signature.options/qrcodesignoptions/innermargins) { get; set; } | Ermittelt oder setzt den Abstand zwischen QR-Code-Elementen und Ergebnisbildrändern. |
 | [Left](../../groupdocs.signature.options/textsignoptions/left) { get; set; } | Linke X-Position der Signatur auf Dokumentseite in Messwerte (Pixel, Prozent oder Millimeter siehe[`MeasureType`](../../groupdocs.signature.domain/measuretype) LocationMeasureType-Eigenschaft). (funktioniert, wenn keine horizontale Ausrichtung angegeben ist). |
 | virtual [LocationMeasureType](../../groupdocs.signature.options/textsignoptions/locationmeasuretype) { get; set; } | Maßtyp (Pixel, Prozent oder Millimeter) für Left- und Top-Eigenschaften. |
 | [LogoFilePath](../../groupdocs.signature.options/qrcodesignoptions/logofilepath) { get; set; } | Ruft den Dateinamen des QR-Code-Logobilds ab oder legt ihn fest. Diese Eigenschaft wird nur verwendet, wenn LogoStream nicht angegeben ist. Die Verwendung dieser Eigenschaft kann Probleme bei der Überprüfung verursachen. Gehen Sie vorsichtig damit um. |
-| [LogoStream](../../groupdocs.signature.options/qrcodesignoptions/logostream) { get; set; } | Ruft den QR-Code-Logo-Bildstream ab oder setzt ihn. Wenn diese Eigenschaft angegeben ist, wird immer stattdessen LogoFilePath verwendet. Die Verwendung dieser Eigenschaft kann Probleme bei der Überprüfung verursachen. Gehen Sie vorsichtig damit um. |
+| [LogoStream](../../groupdocs.signature.options/qrcodesignoptions/logostream) { get; set; } | Ruft den QR-Code-Logo-Bildstream ab oder setzt ihn. Wenn diese Eigenschaft angegeben ist, wird sie immer verwendet, anstatt LogoFilePath. Die Verwendung dieser Eigenschaft kann Probleme bei der Überprüfung verursachen. Gehen Sie vorsichtig damit um. |
 | virtual [Margin](../../groupdocs.signature.options/textsignoptions/margin) { get; set; } | Ruft den Abstand zwischen Zeichen- und Dokumentkanten ab oder legt ihn fest. (funktioniert NUR, wenn horizontale oder vertikale Ausrichtung angegeben ist). |
 | virtual [MarginMeasureType](../../groupdocs.signature.options/textsignoptions/marginmeasuretype) { get; set; } | Ruft den Maßtyp (Pixel, Prozent oder Millimeter) für den Rand ab oder legt ihn fest. |
 | [Native](../../groupdocs.signature.options/textsignoptions/native) { get; set; } | Ruft das native Attribut ab oder legt es fest. Wenn es eingestellt ist, können dokumentspezifische Signaturen verwendet werden. Natives Textwasserzeichen für WordProcessing-Dokumente ist beispielsweise anders als normal. |
@@ -72,7 +72,7 @@ public class QrCodeSignOptions : TextSignOptions
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Grundlegende Verwendung zum Erstellen einer elektronischen QR-Code-Signatur durch GroupDocs.Signature: [So signieren Sie ein Dokument mit einer QR-Code-Signatur](https://docs.groupdocs.com/display/signaturenet/eSign+document+with+QR-code+signature)
 * Erweiterte Verwendung der Einstellungen der elektronischen QR-Code-Signatur mit GroupDocs.Signature: [Erweiterte Nutzung zum eSignieren von Dokumenten mit QR-Code-Signatur und zusätzlichen Einstellungen](https://docs.groupdocs.com/display/signaturenet/Sign+document+with+QR-code+signature+-+advanced)

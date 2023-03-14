@@ -3,7 +3,7 @@ title: CreateSignatureStream
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Delegado que define el método para crear el flujo de vista previa de la firma de salida.
 type: docs
-weight: 1240
+weight: 1320
 url: /es/net/groupdocs.signature.options/createsignaturestream/
 ---
 ## CreateSignatureStream delegate

@@ -14,7 +14,7 @@ Der Namensraum bietet Erweiterungen für Signaturdarstellungen und zusätzliche 
 | --- | --- |
 | [Address](./address) | Stellt die Adresse für den Kontakt dar. |
 | [Brush](./brush) | Stellt die Basisklasse für verschiedene Pinsel dar. |
-| [CryptoCurrencyTransfer](./cryptocurrencytransfer) | Stellt Kryptowährungstransfer (empfangen oder senden) für QR-Code dar. |
+| [CryptoCurrencyTransfer](./cryptocurrencytransfer) | Stellt Kryptowährungsübertragung (empfangen oder senden) für QR-Code dar. |
 | [Email](./email) | Stellt das E-Mail-Format für QR-Code dar. |
 | [EPC](./epc) | Repräsentiert den Quick Response Code des European Payments Council. |
 | [Event](./event) | Stellt Standard-QR-Code-Ereignisdetails dar. |
@@ -44,6 +44,7 @@ Der Namensraum bietet Erweiterungen für Signaturdarstellungen und zusätzliche 
 | Aufzählung | Beschreibung |
 | --- | --- |
 | [CryptoCurrencyType](./cryptocurrencytype) | Stellt den Kryptowährungstyp dar. |
+| [DataMatrixEncodeMode](./datamatrixencodemode) | Kodierungsmodus des DataMatrix-Encoders, standardmäßig Auto |
 | [SymmetricAlgorithmType](./symmetricalgorithmtype) | Repräsentiert den Typ des symmetrischen Verschlüsselungsalgorithmus. |
 | [WiFiEncryptionType](./wifiencryptiontype) | steht für den WLAN-Verschlüsselungstyp. |
 

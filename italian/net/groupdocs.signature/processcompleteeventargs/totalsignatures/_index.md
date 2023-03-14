@@ -1,14 +1,14 @@
 ---
 title: TotalSignatures
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Rappresenta la quantità totale di firme elaborate.
+description: Rappresenta la quantità totale di segnature elaborate.
 type: docs
 weight: 40
 url: /it/net/groupdocs.signature/processcompleteeventargs/totalsignatures/
 ---
 ## ProcessCompleteEventArgs.TotalSignatures property
 
-Rappresenta la quantità totale di firme elaborate.
+Rappresenta la quantità totale di segnature elaborate.
 
 ```csharp
 public int TotalSignatures { get; set; }

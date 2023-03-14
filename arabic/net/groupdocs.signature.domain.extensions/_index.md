@@ -14,7 +14,7 @@ url: /ar/net/groupdocs.signature.domain.extensions/
 | --- | --- |
 | [Address](./address) | يمثل عنوان جهة الاتصال. |
 | [Brush](./brush) | يمثل فئة أساسية لفرش مختلفة. |
-| [CryptoCurrencyTransfer](./cryptocurrencytransfer) | يمثل تحويل العملات المشفرة (استلام أو إرسال) لرمز الاستجابة السريعة. |
+| [CryptoCurrencyTransfer](./cryptocurrencytransfer) | يمثل تحويل العملة المشفرة (استلام أو إرسال) لرمز الاستجابة السريعة. |
 | [Email](./email) | يمثل تنسيق البريد الإلكتروني لـ QR-Code . |
 | [EPC](./epc) | يمثل رمز الاستجابة السريعة لمجلس المدفوعات الأوروبي. |
 | [Event](./event) | يمثل تفاصيل حدث رمز الاستجابة السريعة القياسي . |
@@ -44,6 +44,7 @@ url: /ar/net/groupdocs.signature.domain.extensions/
 | تعداد | وصف |
 | --- | --- |
 | [CryptoCurrencyType](./cryptocurrencytype) | يمثل نوع العملة المشفرة. |
+| [DataMatrixEncodeMode](./datamatrixencodemode) | وضع ترميز مشفر DataMatrix ، افتراضيًا إلى Auto |
 | [SymmetricAlgorithmType](./symmetricalgorithmtype) | يمثل نوع خوارزمية التشفير المتماثل. |
 | [WiFiEncryptionType](./wifiencryptiontype) | يمثل نوع تشفير WiFi . |
 

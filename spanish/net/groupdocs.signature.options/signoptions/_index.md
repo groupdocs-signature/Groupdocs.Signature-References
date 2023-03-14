@@ -3,7 +3,7 @@ title: SignOptions
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Representa las opciones de firma.
 type: docs
-weight: 1610
+weight: 1690
 url: /es/net/groupdocs.signature.options/signoptions/
 ---
 ## SignOptions class

@@ -3,7 +3,7 @@ title: Pharmacode
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: İlaç kodu Barkod Türü nesnesi.
 type: docs
-weight: 490
+weight: 520
 url: /tr/net/groupdocs.signature.domain/barcodetypes/pharmacode/
 ---
 ## BarcodeTypes.Pharmacode field

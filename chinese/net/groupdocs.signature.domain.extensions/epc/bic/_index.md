@@ -1,14 +1,14 @@
 ---
 title: BIC
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置受益人的 BIC最多 11 个字符长度
+description: 获取或设置最多 11 个字符长度的收款人 BIC
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.domain.extensions/epc/bic/
 ---
 ## EPC.BIC property
 
-获取或设置受益人的 BIC，最多 11 个字符长度。
+获取或设置最多 11 个字符长度的收款人 BIC。
 
 ```csharp
 public string BIC { get; set; }

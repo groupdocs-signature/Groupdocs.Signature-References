@@ -3,7 +3,7 @@ title: Signature
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет основной класс управляющий процессом подписания документа.
 type: docs
-weight: 1800
+weight: 1880
 url: /ru/net/groupdocs.signature/signature/
 ---
 ## Signature class
@@ -21,11 +21,11 @@ public class Signature : IDisposable
 | [Signature](signature#constructor)(Stream) | Инициализирует новый экземпляр[`Signature`](../signature) класс с документом, предоставленным stream. |
 | [Signature](signature#constructor_4)(string) | Инициализирует новый экземпляр[`Signature`](../signature) экземпляр класса с документом, предоставленным по пути к файлу. |
 | [Signature](signature#constructor_1)(Stream, LoadOptions) | Инициализирует новый экземпляр[`Signature`](../signature) класс с документом, предоставленным параметрами потока и загрузкиLoadOptions . |
-| [Signature](signature#constructor_3)(Stream, SignatureSettings) | Инициализирует новый экземпляр[`Signature`](../signature) экземпляр класса с документом, предоставленным потоком и[`SignatureSettings`](../signaturesettings) . |
+| [Signature](signature#constructor_3)(Stream, SignatureSettings) | Инициализирует новый экземпляр[`Signature`](../signature)экземпляр класса с документом, предоставленным потоком и[`SignatureSettings`](../signaturesettings) . |
 | [Signature](signature#constructor_5)(string, LoadOptions) | Инициализирует новый экземпляр[`Signature`](../signature) экземпляр класса с документом, предоставленным путем к файлу иLoadOptions . |
 | [Signature](signature#constructor_7)(string, SignatureSettings) | Инициализирует новый экземпляр[`Signature`](../signature) экземпляр класса с документом, предоставленным путем к файлу и[`SignatureSettings`](../signaturesettings) . |
 | [Signature](signature#constructor_2)(Stream, LoadOptions, SignatureSettings) | Инициализирует новый экземпляр[`Signature`](../signature) экземпляр класса с документом, предоставленным потоком, параметры загрузкиLoadOptions и настройки[`SignatureSettings`](../signaturesettings) . |
-| [Signature](signature#constructor_6)(string, LoadOptions, SignatureSettings) | Инициализирует новый экземпляр[`Signature`](../signature) экземпляр класса с документом, предоставленным путем к файлу,LoadOptions а также[`SignatureSettings`](../signaturesettings) . |
+| [Signature](signature#constructor_6)(string, LoadOptions, SignatureSettings) | Инициализирует новый экземпляр[`Signature`](../signature) экземпляр класса с документом, предоставленным путем к файлу,LoadOptions и[`SignatureSettings`](../signaturesettings) . |
 
 ## Методы
 
@@ -48,8 +48,8 @@ public class Signature : IDisposable
 | [Sign](../../groupdocs.signature/signature/sign#sign)(Stream, SignOptions) | Подписывает документ с помощью[`SignOptions`](../../groupdocs.signature.options/signoptions) и сохраняет результат в поток. |
 | [Sign](../../groupdocs.signature/signature/sign#sign_6)(string, List&lt;SignOptions&gt;) | Подписывает документ с коллекцией[`SignOptions`](../../groupdocs.signature.options/signoptions) и сохраняет результат в указанный путь к файлу. |
 | [Sign](../../groupdocs.signature/signature/sign#sign_4)(string, SignOptions) | Подписывает документ с помощью[`SignOptions`](../../groupdocs.signature.options/signoptions) и сохраняет результат в указанный путь к файлу. |
-| [Sign](../../groupdocs.signature/signature/sign#sign_3)(Stream, List&lt;SignOptions&gt;, SaveOptions) | Подписывает документ с коллекцией[`SignOptions`](../../groupdocs.signature.options/signoptions) и сохраняет результат в поток с предопределенными[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
-| [Sign](../../groupdocs.signature/signature/sign#sign_1)(Stream, SignOptions, SaveOptions) | Подписывает документ с помощью[`SignOptions`](../../groupdocs.signature.options/signoptions) и сохраняет результат в поток с предопределенными[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
+| [Sign](../../groupdocs.signature/signature/sign#sign_3)(Stream, List&lt;SignOptions&gt;, SaveOptions) | Подписывает документ с коллекцией[`SignOptions`](../../groupdocs.signature.options/signoptions)и сохраняет результат в поток с предопределенными[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
+| [Sign](../../groupdocs.signature/signature/sign#sign_1)(Stream, SignOptions, SaveOptions) | Подписывает документ с помощью[`SignOptions`](../../groupdocs.signature.options/signoptions)и сохраняет результат в поток с предопределенными[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
 | [Sign](../../groupdocs.signature/signature/sign#sign_7)(string, List&lt;SignOptions&gt;, SaveOptions) | Подписывает документ с коллекцией[`SignOptions`](../../groupdocs.signature.options/signoptions) и сохраняет результат в указанный путь к файлу с предопределенным[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
 | [Sign](../../groupdocs.signature/signature/sign#sign_5)(string, SignOptions, SaveOptions) | Подписывает документ с помощью[`SignOptions`](../../groupdocs.signature.options/signoptions) и сохраняет результат в указанный путь к файлу с предопределенным[`SaveOptions`](../../groupdocs.signature.options/saveoptions) . |
 | [Update](../../groupdocs.signature/signature/update#update)(BaseSignature) | Обновляет переданную подпись[`BaseSignature`](../../groupdocs.signature.domain/basesignature) в документе. |
@@ -74,7 +74,7 @@ public class Signature : IDisposable
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о возможностях GroupDocs.Signature: [Руководство разработчика GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
 

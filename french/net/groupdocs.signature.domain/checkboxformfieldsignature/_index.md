@@ -3,7 +3,7 @@ title: CheckboxFormFieldSignature
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Contient des propriétés de signature de champ de formulaire de saisie de case à cocher.
 type: docs
-weight: 70
+weight: 80
 url: /fr/net/groupdocs.signature.domain/checkboxformfieldsignature/
 ---
 ## CheckboxFormFieldSignature class

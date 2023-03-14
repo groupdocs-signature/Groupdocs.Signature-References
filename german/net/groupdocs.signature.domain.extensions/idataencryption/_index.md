@@ -3,7 +3,7 @@ title: IDataEncryption
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Verschlüsselungsschnittstelle zur Bereitstellung von Methoden zur Objektcodierung und decodierung.
 type: docs
-weight: 250
+weight: 270
 url: /de/net/groupdocs.signature.domain.extensions/idataencryption/
 ---
 ## IDataEncryption interface

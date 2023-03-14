@@ -3,7 +3,7 @@ title: TimeStamp
 second_title: GroupDocs.Signature for .NET API 参考
 description: 表示从第三方站点获取时间戳的数据
 type: docs
-weight: 1000
+weight: 1030
 url: /zh/net/groupdocs.signature.domain/timestamp/
 ---
 ## TimeStamp structure

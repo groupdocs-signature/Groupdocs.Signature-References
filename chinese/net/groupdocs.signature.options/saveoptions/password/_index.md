@@ -1,14 +1,14 @@
 ---
 title: Password
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置密码以保存带有密码保护的签名文档 Image 文档不支持此属性
+description: 获取或设置密码以保存带密码保护的签名文档 Image 文档不支持此属性
 type: docs
 weight: 40
 url: /zh/net/groupdocs.signature.options/saveoptions/password/
 ---
 ## SaveOptions.Password property
 
-获取或设置密码以保存带有密码保护的签名文档。 Image 文档不支持此属性。
+获取或设置密码以保存带密码保护的签名文档。 Image 文档不支持此属性。
 
 ```csharp
 public string Password { get; set; }

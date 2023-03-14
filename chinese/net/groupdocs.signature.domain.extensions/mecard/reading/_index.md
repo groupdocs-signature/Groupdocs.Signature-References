@@ -1,14 +1,14 @@
 ---
 title: Reading
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置名称的读取
+description: 获取或设置名称的读法
 type: docs
 weight: 100
 url: /zh/net/groupdocs.signature.domain.extensions/mecard/reading/
 ---
 ## MeCard.Reading property
 
-获取或设置名称的读取。
+获取或设置名称的读法。
 
 ```csharp
 public string Reading { get; set; }

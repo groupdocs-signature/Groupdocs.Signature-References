@@ -1,14 +1,14 @@
 ---
 title: Angle
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置相对于文本放置阴影的角度 默认值为 0
+description: 获取或设置放置阴影相对于文本的角度 默认值为 0.
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.domain.extensions/textshadow/angle/
 ---
 ## TextShadow.Angle property
 
-获取或设置相对于文本放置阴影的角度。 默认值为 0。
+获取或设置放置阴影相对于文本的角度。 默认值为 0.
 
 ```csharp
 public double Angle { get; set; }

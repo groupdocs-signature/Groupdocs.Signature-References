@@ -1,14 +1,14 @@
 ---
 title: PPSM
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: PowerPoint Açık XML Makro Etkin Slayt .ppsm Microsoft PowerPoint 2007 veya sonraki sürümlerle oluşturulan Makro etkin Slayt Gösterisi dosya biçimini temsil eder. Bu dosya biçimi hakkında daha fazla bilgi edininburadahttps//wiki.fileformat.com/presentation/ppsm .
+description: PowerPoint Açık XML Makro Etkin Slayt .ppsm Microsoft PowerPoint 2007 veya üstü ile oluşturulan Makro özellikli Slayt Gösterisi dosya biçimini temsil eder. Bu dosya biçimi hakkında daha fazla bilgi edininBuradahttps//wiki.fileformat.com/presentation/ppsm .
 type: docs
-weight: 330
+weight: 340
 url: /tr/net/groupdocs.signature.domain/filetype/ppsm/
 ---
 ## FileType.PPSM field
 
-PowerPoint Açık XML Makro Etkin Slayt (.ppsm), Microsoft PowerPoint 2007 veya sonraki sürümlerle oluşturulan Makro etkin Slayt Gösterisi dosya biçimini temsil eder. Bu dosya biçimi hakkında daha fazla bilgi edinin[burada](https://wiki.fileformat.com/presentation/ppsm) .
+PowerPoint Açık XML Makro Etkin Slayt (.ppsm), Microsoft PowerPoint 2007 veya üstü ile oluşturulan Makro özellikli Slayt Gösterisi dosya biçimini temsil eder. Bu dosya biçimi hakkında daha fazla bilgi edinin[Burada](https://wiki.fileformat.com/presentation/ppsm) .
 
 ```csharp
 public static readonly FileType PPSM;

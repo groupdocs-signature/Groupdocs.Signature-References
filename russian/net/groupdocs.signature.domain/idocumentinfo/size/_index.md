@@ -3,7 +3,7 @@ title: Size
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Размер документа в байтах.
 type: docs
-weight: 130
+weight: 140
 url: /ru/net/groupdocs.signature.domain/idocumentinfo/size/
 ---
 ## IDocumentInfo.Size property

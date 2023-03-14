@@ -3,7 +3,7 @@ title: IDataEncryption
 second_title: GroupDocs.Signature för .NET API-referens
 description: Krypteringsgränssnitt för att tillhandahålla objektkodning och avkodningsmetoder.
 type: docs
-weight: 250
+weight: 270
 url: /sv/net/groupdocs.signature.domain.extensions/idataencryption/
 ---
 ## IDataEncryption interface

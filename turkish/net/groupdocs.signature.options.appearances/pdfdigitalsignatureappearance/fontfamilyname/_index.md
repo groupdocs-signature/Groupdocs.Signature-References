@@ -1,14 +1,14 @@
 ---
 title: FontFamilyName
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Etiketleri görüntülemek için Yazı Tipi aile adını alır veya ayarlar. Varsayılan değer Arialdir.
+description: Etiketleri görüntülemek için Font aile adını alır veya ayarlar. Varsayılan değer Arialdır.
 type: docs
 weight: 60
 url: /tr/net/groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/fontfamilyname/
 ---
 ## PdfDigitalSignatureAppearance.FontFamilyName property
 
-Etiketleri görüntülemek için Yazı Tipi aile adını alır veya ayarlar. Varsayılan değer "Arial"dir.
+Etiketleri görüntülemek için Font aile adını alır veya ayarlar. Varsayılan değer "Arial"dır.
 
 ```csharp
 public string FontFamilyName { get; set; }

@@ -3,7 +3,7 @@ title: StampBackgroundCropType
 second_title: GroupDocs.Signature för .NET API-referens
 description: Anger beskärningstyp för bakgrundslager på stämpelelement.
 type: docs
-weight: 870
+weight: 900
 url: /sv/net/groupdocs.signature.domain/stampbackgroundcroptype/
 ---
 ## StampBackgroundCropType enumeration

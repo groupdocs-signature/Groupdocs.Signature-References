@@ -3,7 +3,7 @@ title: TSV
 second_title: GroupDocs.Signature för .NET API-referens
 description: Tab Separated Values File .tsv representerar data separerade med flikar i vanligt textformat. Läs mer om detta filformathärhttps//wiki.fileformat.com/spreadsheet/tsv .
 type: docs
-weight: 440
+weight: 450
 url: /sv/net/groupdocs.signature.domain/filetype/tsv/
 ---
 ## FileType.TSV field

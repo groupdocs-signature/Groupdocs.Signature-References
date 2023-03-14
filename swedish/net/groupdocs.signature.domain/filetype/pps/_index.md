@@ -3,7 +3,7 @@ title: PPS
 second_title: GroupDocs.Signature för .NET API-referens
 description: PowerPointbildspel .pps skapas med Microsoft PowerPoint för bildspel. PPSfilläsning och skapande stöds av Microsoft PowerPoint 972003. Läs mer om detta filformathärhttps//wiki.fileformat.com/presentation/pps .
 type: docs
-weight: 320
+weight: 330
 url: /sv/net/groupdocs.signature.domain/filetype/pps/
 ---
 ## FileType.PPS field

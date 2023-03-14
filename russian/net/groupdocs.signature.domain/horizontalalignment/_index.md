@@ -3,7 +3,7 @@ title: HorizontalAlignment
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Задает горизонтальное выравнивание элемента на странице документа.
 type: docs
-weight: 470
+weight: 490
 url: /ru/net/groupdocs.signature.domain/horizontalalignment/
 ---
 ## HorizontalAlignment enumeration

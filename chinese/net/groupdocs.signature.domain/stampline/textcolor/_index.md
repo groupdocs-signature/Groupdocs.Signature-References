@@ -1,14 +1,14 @@
 ---
 title: TextColor
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置签名的文本颜色
+description: 获取或设置签名的文字颜色
 type: docs
 weight: 90
 url: /zh/net/groupdocs.signature.domain/stampline/textcolor/
 ---
 ## StampLine.TextColor property
 
-获取或设置签名的文本颜色。
+获取或设置签名的文字颜色。
 
 ```csharp
 public Color TextColor { get; set; }

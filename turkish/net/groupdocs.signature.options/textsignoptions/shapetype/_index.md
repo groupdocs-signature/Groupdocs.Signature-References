@@ -1,14 +1,14 @@
 ---
 title: ShapeType
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Metin koymak için şeklin türünü alır veya ayarlar. Bu özellik yalnızca SignatureImplementation  TextStamp. ile kullanılabilir. Değer varsayılan olarak Rectangledır.
+description: Metin koymak için şeklin türünü alır veya ayarlar. Bu özellik yalnızca SignatureImplementation  TextStamp. ile kullanılabilir. Değer varsayılan olarak Rectangle. dir.
 type: docs
 weight: 160
 url: /tr/net/groupdocs.signature.options/textsignoptions/shapetype/
 ---
 ## TextSignOptions.ShapeType property
 
-Metin koymak için şeklin türünü alır veya ayarlar. Bu özellik yalnızca SignatureImplementation = TextStamp. ile kullanılabilir. Değer varsayılan olarak Rectangle'dır.
+Metin koymak için şeklin türünü alır veya ayarlar. Bu özellik yalnızca SignatureImplementation = TextStamp. ile kullanılabilir. Değer varsayılan olarak Rectangle. 'dir.
 
 ```csharp
 public TextShapeType ShapeType { get; set; }

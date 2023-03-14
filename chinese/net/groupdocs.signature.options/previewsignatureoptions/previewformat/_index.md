@@ -1,14 +1,14 @@
 ---
 title: PreviewFormat
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置预览图像格式 默认值为PNG
+description: 获取或设置预览图像格式 默认值为 PNG
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.options/previewsignatureoptions/previewformat/
 ---
 ## PreviewSignatureOptions.PreviewFormat property
 
-获取或设置预览图像格式。 默认值为PNG
+获取或设置预览图像格式。 默认值为 PNG
 
 ```csharp
 public PreviewFormats PreviewFormat { get; set; }

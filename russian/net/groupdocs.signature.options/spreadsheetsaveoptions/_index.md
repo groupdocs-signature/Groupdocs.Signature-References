@@ -3,7 +3,7 @@ title: SpreadsheetSaveOptions
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Параметры сохранения для электронных таблиц.
 type: docs
-weight: 1620
+weight: 1700
 url: /ru/net/groupdocs.signature.options/spreadsheetsaveoptions/
 ---
 ## SpreadsheetSaveOptions class

@@ -3,7 +3,7 @@ title: FormFieldType
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحدد نوع حقل النموذج .
 type: docs
-weight: 450
+weight: 470
 url: /ar/net/groupdocs.signature.domain/formfieldtype/
 ---
 ## FormFieldType enumeration

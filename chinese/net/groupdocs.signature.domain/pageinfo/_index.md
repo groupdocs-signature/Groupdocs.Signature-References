@@ -3,7 +3,7 @@ title: PageInfo
 second_title: GroupDocs.Signature for .NET API 参考
 description: 文档页面描述类
 type: docs
-weight: 620
+weight: 650
 url: /zh/net/groupdocs.signature.domain/pageinfo/
 ---
 ## PageInfo class

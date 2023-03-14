@@ -3,7 +3,7 @@ title: GetEnumerator
 second_title: GroupDocs.Signature لمرجع .NET API
 description: العداد المرتجع .
 type: docs
-weight: 20
+weight: 70
 url: /ar/net/groupdocs.signature.domain/searchresult/getenumerator/
 ---
 ## SearchResult.GetEnumerator method

@@ -3,7 +3,7 @@ title: TiffSaveOptions
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Параметры сохранения Tiff для документов изображений.
 type: docs
-weight: 1680
+weight: 1760
 url: /ru/net/groupdocs.signature.options/tiffsaveoptions/
 ---
 ## TiffSaveOptions class

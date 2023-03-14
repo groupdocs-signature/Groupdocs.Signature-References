@@ -1,14 +1,14 @@
 ---
 title: PdfDigitalSignatureType
 second_title: GroupDocs.Signature for .NET API 参考
-description: 描述 PDF 数字签名类型的枚举
+description: 描述了PDF数字签名类型的枚举
 type: docs
-weight: 640
+weight: 670
 url: /zh/net/groupdocs.signature.domain/pdfdigitalsignaturetype/
 ---
 ## PdfDigitalSignatureType enumeration
 
-描述 PDF 数字签名类型的枚举。
+描述了PDF数字签名类型的枚举。
 
 ```csharp
 public enum PdfDigitalSignatureType
@@ -18,7 +18,7 @@ public enum PdfDigitalSignatureType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Signature | `0` | 数字签名。 |
+| Signature | `0` | 数字签名. |
 | Certificate | `1` | 数字证书。每个文件只能认证一次。 |
 
 ### 也可以看看

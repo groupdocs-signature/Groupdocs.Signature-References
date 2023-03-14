@@ -1,14 +1,14 @@
 ---
 title: LoadExternalResources
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Ottiene o imposta le opzioni che specificano se devono essere caricate risorse di documenti esterni. Questa opzione con valore disabilitato false consente di risparmiare tempo di caricamento per i documenti con collegamenti a risorse esterne molti o grandi. Per impostazione predefinita il valore è abilitato true.
+description: Ottiene o imposta le opzioni che specificano se le risorse del documento esterno devono essere caricate. Questa opzione con valore disabilitato false consente di risparmiare tempo di caricamento per i documenti con molti o grandi collegamenti a risorse esterne. Per impostazione predefinita il valore è abilitato true.
 type: docs
 weight: 20
 url: /it/net/groupdocs.signature.options/loadoptions/loadexternalresources/
 ---
 ## LoadOptions.LoadExternalResources property
 
-Ottiene o imposta le opzioni che specificano se devono essere caricate risorse di documenti esterni. Questa opzione con valore disabilitato (false) consente di risparmiare tempo di caricamento per i documenti con collegamenti a risorse esterne molti o grandi. Per impostazione predefinita, il valore è abilitato (true).
+Ottiene o imposta le opzioni che specificano se le risorse del documento esterno devono essere caricate. Questa opzione con valore disabilitato (false) consente di risparmiare tempo di caricamento per i documenti con molti o grandi collegamenti a risorse esterne. Per impostazione predefinita il valore è abilitato (true).
 
 ```csharp
 public bool LoadExternalResources { get; set; }

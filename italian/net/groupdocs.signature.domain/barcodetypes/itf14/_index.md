@@ -3,7 +3,7 @@ title: ITF14
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: ITF14 Oggetto tipo codice a barre.
 type: docs
-weight: 370
+weight: 400
 url: /it/net/groupdocs.signature.domain/barcodetypes/itf14/
 ---
 ## BarcodeTypes.ITF14 field

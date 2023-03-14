@@ -1,14 +1,14 @@
 ---
 title: SignatureID
 second_title: GroupDocs.Signature for .NET API 参考
-description: 指定大于零的文本签名 ID如果应进行验证仅 Pdf 文档支持此属性
+description: 如果应验证请指定大于零的文本签名 ID此属性仅支持 Pdf 文档
 type: docs
 weight: 50
 url: /zh/net/groupdocs.signature.options/textverifyoptions/signatureid/
 ---
 ## TextVerifyOptions.SignatureID property
 
-指定大于零的文本签名 ID（如果应进行验证）。仅 Pdf 文档支持此属性
+如果应验证，请指定大于零的文本签名 ID。此属性仅支持 Pdf 文档
 
 ```csharp
 public int SignatureID { get; set; }

@@ -3,7 +3,7 @@ title: POT
 second_title: GroupDocs.Signature för .NET API-referens
 description: PowerPointmall .pot representerar Microsoft PowerPointmallfiler skapade av PowerPoint 972003versioner. Läs mer om detta filformathärhttps//wiki.fileformat.com/presentation/pot .
 type: docs
-weight: 290
+weight: 300
 url: /sv/net/groupdocs.signature.domain/filetype/pot/
 ---
 ## FileType.POT field

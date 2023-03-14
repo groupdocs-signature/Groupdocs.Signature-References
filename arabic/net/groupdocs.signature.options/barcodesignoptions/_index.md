@@ -3,7 +3,7 @@ title: BarcodeSignOptions
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يمثل خيارات توقيع الباركود.
 type: docs
-weight: 1190
+weight: 1260
 url: /ar/net/groupdocs.signature.options/barcodesignoptions/
 ---
 ## BarcodeSignOptions class
@@ -45,13 +45,13 @@ public class BarcodeSignOptions : TextSignOptions
 | virtual [LocationMeasureType](../../groupdocs.signature.options/textsignoptions/locationmeasuretype) { get; set; } | نوع القياس (وحدات البكسل أو النسب المئوية أو المليمترات) للخصائص اليسرى والعلوية . |
 | virtual [Margin](../../groupdocs.signature.options/textsignoptions/margin) { get; set; } | الحصول على المسافة بين حواف التوقيع والمستند أو تعيينها. (يعمل فقط في حالة تحديد المحاذاة الأفقية أو الرأسية) . |
 | virtual [MarginMeasureType](../../groupdocs.signature.options/textsignoptions/marginmeasuretype) { get; set; } | الحصول على نوع المقياس أو تحديده (بكسل أو نسبة مئوية أو ملليمتر) للهامش. |
-| [Native](../../groupdocs.signature.options/textsignoptions/native) { get; set; } | الحصول على أو تعيين السمة الأصلية. إذا تم تعيينه ، يمكن استخدام توقيعات محددة للمستند. |
+| [Native](../../groupdocs.signature.options/textsignoptions/native) { get; set; } | الحصول على أو تعيين السمة الأصلية. إذا تم تعيينه ، فيمكن استخدام توقيعات محددة للمستند. |
 | virtual [PageNumber](../../groupdocs.signature.options/signoptions/pagenumber) { get; set; } | الحصول على رقم صفحة المستند أو تعيينه للتوقيع. القيمة الدنيا والافتراضية هي 1. |
 | virtual [PagesSetup](../../groupdocs.signature.options/signoptions/pagessetup) { get; set; } | خيارات لتحديد الصفحات المراد توقيعها. |
 | [ReturnContent](../../groupdocs.signature.options/barcodesignoptions/returncontent) { get; set; } | الحصول على علامة أو تعيينها للحصول على محتوى صورة الرمز الشريطي للتوقيع الذي تم وضعه على صفحة المستند.[`ReturnContentType`](./returncontenttype) . يتم تعطيل هذا الخيار افتراضيًا. |
 | [ReturnContentType](../../groupdocs.signature.options/barcodesignoptions/returncontenttype) { get; set; } | يحدد نوع الملف لمحتوى الصورة التي تم إرجاعها لتوقيع الباركود عند تمكين خاصية ReturnContent . بشكل افتراضي يتم تعيينها على Null. هذا يعني إرجاع محتوى صورة الباركود بالتنسيق الأصلي. تم تحديد تنسيق الصورة هذا على[`Format`](../../groupdocs.signature.domain/barcodesignature/format) القيم الممكنة المدعومة هي: FileType.JPEG ، FileType.PNG ، FileType.BMP. إذا كان التنسيق المقدم غير مدعوم ، فسيتم إرجاع محتوى صورة الرمز الشريطي بتنسيق .png . |
 | [RotationAngle](../../groupdocs.signature.options/textsignoptions/rotationangle) { get; set; } | زاوية دوران التوقيع على صفحة المستند (باتجاه عقارب الساعة). |
-| [ShapeType](../../groupdocs.signature.options/textsignoptions/shapetype) { get; set; } | الحصول على نوع الشكل لوضع النص أو تعيينه. يمكن استخدام هذه الخاصية فقط مع SignatureImplementation = TextStamp. القيمة الافتراضية هي المستطيل . |
+| [ShapeType](../../groupdocs.signature.options/textsignoptions/shapetype) { get; set; } | الحصول على نوع الشكل لوضع نص أو تعيينه. يمكن استخدام هذه الخاصية فقط مع SignatureImplementation = TextStamp. القيمة الافتراضية هي المستطيل . |
 | [SignatureID](../../groupdocs.signature.options/textsignoptions/signatureid) { get; set; } | الحصول على أو تعيين المعرف الفريد للتوقيع. يمكن استخدامه في خيارات التحقق من التوقيع. الخاصية مدعومة لمستندات Pdf فقط. |
 | [SignatureImplementation](../../groupdocs.signature.options/textsignoptions/signatureimplementation) { get; set; } | الحصول على أو تحديد نوع تنفيذ توقيع النص. |
 | [SignatureType](../../groupdocs.signature.options/signoptions/signaturetype) { get; } | احصل على نوع التوقيع[`SignatureType`](../../groupdocs.signature.domain/signaturetype) |

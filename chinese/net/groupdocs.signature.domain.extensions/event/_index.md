@@ -1,14 +1,14 @@
 ---
 title: Event
 second_title: GroupDocs.Signature for .NET API 参考
-description: 代表标准二维码事件详情
+description: 表示标准二维码事件详细信息
 type: docs
-weight: 230
+weight: 250
 url: /zh/net/groupdocs.signature.domain.extensions/event/
 ---
 ## Event class
 
-代表标准二维码事件详情。
+表示标准二维码事件详细信息。
 
 ```csharp
 public sealed class Event

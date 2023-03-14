@@ -3,7 +3,7 @@ title: MetadataSignatureCollection
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Meta veri imza nesnelerinin toplanması.
 type: docs
-weight: 600
+weight: 620
 url: /tr/net/groupdocs.signature.domain/metadatasignaturecollection/
 ---
 ## MetadataSignatureCollection class

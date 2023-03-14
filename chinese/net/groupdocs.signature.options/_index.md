@@ -1,62 +1,63 @@
 ---
 title: GroupDocs.Signature.Options
 second_title: GroupDocs.Signature for .NET API 参考
-description: 命名空间提供类以在加载签名验证搜索和保存文档时指定其他选项
+description: 命名空间提供类来指定加载签名验证搜索和保存文档时的附加选项
 type: docs
-weight: 40
+weight: 50
 url: /zh/net/groupdocs.signature.options/
 ---
-命名空间提供类以在加载、签名、验证、搜索和保存文档时指定其他选项。
+命名空间提供类来指定加载、签名、验证、搜索和保存文档时的附加选项。
 
 ## 课程
 
 | 班级 | 描述 |
 | --- | --- |
 | [BarcodeSearchOptions](./barcodesearchoptions) | 表示条形码签名的搜索选项。 |
-| [BarcodeSignOptions](./barcodesignoptions) | 表示条形码签名选项。 |
+| [BarcodeSignOptions](./barcodesignoptions) | 代表Barcode签名选项。 |
 | [BarcodeVerifyOptions](./barcodeverifyoptions) | 表示条形码验证选项。 |
 | [BmpSaveOptions](./bmpsaveoptions) | Bmp 图像文档的保存选项。 |
+| [CertificateVerifyOptions](./certificateverifyoptions) | 保留验证证书文件的选项。 |
 | [CreatePageStream](./createpagestream) | 定义创建输出页面预览流的方法的委托。 |
 | [CreateSignatureStream](./createsignaturestream) | 定义创建输出签名预览流的方法的委托。 |
 | [DigitalSearchOptions](./digitalsearchoptions) | 表示数字签名的搜索选项。 |
-| [DigitalSignOptions](./digitalsignoptions) | 表示数字签名选项。 |
-| [DigitalVerifyOptions](./digitalverifyoptions) | 保留验证文档数字签名的选项。 |
-| [ExportImageSaveOptions](./exportimagesaveoptions) | 保存用于将文档导出到图像的选项。 |
+| [DigitalSignOptions](./digitalsignoptions) | 代表数字签名选项。 |
+| [DigitalVerifyOptions](./digitalverifyoptions) | 保留选项以验证文档数字签名。 |
+| [ExportImageSaveOptions](./exportimagesaveoptions) | 将文档导出到图像的保存选项。 |
 | [FormFieldSearchOptions](./formfieldsearchoptions) | 表示表单字段签名的搜索选项。 |
 | [FormFieldSignOptions](./formfieldsignoptions) | 表示 Pdf 文档的 FormField 签名选项的类。 |
 | [GifSaveOptions](./gifsaveoptions) | 图像文档的 Gif 格式保存选项。 |
 | [ImageSaveOptions](./imagesaveoptions) | 图像文档的保存选项。 |
 | [ImageSearchOptions](./imagesearchoptions) | 表示图像签名的搜索选项。 |
-| [ImageSignOptions](./imagesignoptions) | 表示图像签名选项。 |
+| [ImageSignOptions](./imagesignoptions) | 代表Image签名选项。 |
 | [JpegSaveOptions](./jpegsaveoptions) | Jpeg 图像文档的保存选项。 |
-| [LoadOptions](./loadoptions) | 允许在打开要签名的文档时指定其他选项（例如密码）。 |
+| [LoadOptions](./loadoptions) | 允许在打开文档进行签名时指定其他选项（例如密码）。 |
 | [MetadataSearchOptions](./metadatasearchoptions) | 表示元数据签名的搜索选项。 |
 | [MetadataSignOptions](./metadatasignoptions) | 表示元数据签名选项。 |
 | [PagesSetup](./pagessetup) | 描述要使用的特殊文档页面。 |
 | [PdfSaveOptions](./pdfsaveoptions) | PDF 文档的保存选项。 |
-| [PdfTextAnnotationVerifyExtensions](./pdftextannotationverifyextensions) | 描述PDF文本注释对象的验证扩展 |
-| [PdfTextStickerVerifyExtensions](./pdftextstickerverifyextensions) | 描述 PDF 贴纸对象的验证扩展。 |
-| [PngSaveOptions](./pngsaveoptions) | Png 图像文档的保存选项。 |
-| [PresentationSaveOptions](./presentationsaveoptions) | 保存演示文档的选项。 |
+| [PdfTextAnnotationVerifyExtensions](./pdftextannotationverifyextensions) | 描述了PDF文本注释对象的校验扩展 |
+| [PdfTextStickerVerifyExtensions](./pdftextstickerverifyextensions) | 描述了PDF标签对象验证的扩展。 |
+| [PngSaveOptions](./pngsaveoptions) | 图像文档的 Png 保存选项。 |
+| [PresentationSaveOptions](./presentationsaveoptions) | 演示文档的保存选项。 |
 | [PreviewOptions](./previewoptions) | 表示文档预览选项。 |
 | [PreviewSignatureOptions](./previewsignatureoptions) | 代表签名预览选项。 |
-| [QrCodeSearchOptions](./qrcodesearchoptions) | 表示 QR 码签名的搜索选项。 |
+| [QrCodeSearchOptions](./qrcodesearchoptions) | 代表QR-Code签名的搜索选项。 |
 | [QrCodeSignOptions](./qrcodesignoptions) | 代表二维码签名选项。 |
-| [QrCodeVerifyOptions](./qrcodeverifyoptions) | 保留验证文档 QR 码签名的选项。 |
-| [ReleasePageStream](./releasepagestream) | 定义释放输出页面预览流的方法的委托。 |
-| [ReleaseSignatureStream](./releasesignaturestream) | 定义释放输出签名预览流的方法的委托。 |
+| [QrCodeVerifyOptions](./qrcodeverifyoptions) | 保留验证文档二维码签名的选项。 |
+| [ReleasePageStream](./releasepagestream) | 定义释放输出页面预览流方法的委托。 |
+| [ReleaseSignatureStream](./releasesignaturestream) | 定义释放输出签名预览流方法的委托。 |
 | [SaveOptions](./saveoptions) | 允许在保存要签名的文档时指定其他选项（例如密码）。 |
 | [SearchOptions](./searchoptions) | 表示从文档选项中提取签名。 |
 | [SignOptions](./signoptions) | 代表签名选项。 |
 | [SpreadsheetSaveOptions](./spreadsheetsaveoptions) | 电子表格文档的保存选项。 |
-| [StampSignOptions](./stampsignoptions) | 表示 Stamp 签名选项。 |
+| [StampSignOptions](./stampsignoptions) | 代表Stamp签名选项。 |
 | [TextSearchOptions](./textsearchoptions) | 表示文本签名的搜索选项。 |
 | [TextSignOptions](./textsignoptions) | 表示文本签名选项。 |
-| [TextVerifyOptions](./textverifyoptions) | 保留验证文档文本签名的选项。 |
-| [TiffSaveOptions](./tiffsaveoptions) | Tiff 图像文档的保存选项。 |
-| [VerifyExtensions](./verifyextensions) | 为文档页面上的替代签名实现保留额外的验证选项。 |
-| [VerifyOptions](./verifyoptions) | 保留验证文档的选项。 |
-| [WordProcessingSaveOptions](./wordprocessingsaveoptions) | 文字处理文档的保存选项。 |
+| [TextVerifyOptions](./textverifyoptions) | 保留选项以验证文档文本签名。 |
+| [TiffSaveOptions](./tiffsaveoptions) | 图像文档的 Tiff 保存选项。 |
+| [VerifyExtensions](./verifyextensions) | 为文档页面上的签名替代实现保留额外的验证选项。 |
+| [VerifyOptions](./verifyoptions) | 保留选项以验证文档。 |
+| [WordProcessingSaveOptions](./wordprocessingsaveoptions) | WordProcessing 文档的保存选项。 |
 ## 枚举
 
 | 枚举 | 描述 |
@@ -66,7 +67,7 @@ url: /zh/net/groupdocs.signature.options/
 | [JpegCompressionMode](./jpegcompressionmode) | 指定 JPEG 压缩模式。 |
 | [JpegRoundingMode](./jpegroundingmode) | 指定不同的 JPEG 舍入模式。 |
 | [PngColorType](./pngcolortype) | 代表PNG图片颜色类型。 |
-| [PngFilterType](./pngfiltertype) | 表示 PNG 图片滤镜类型。 |
+| [PngFilterType](./pngfiltertype) | 代表PNG图片滤镜类型。 |
 | [PreviewOptions.PreviewFormats](./previewoptions.previewformats) | 文档预览支持的格式 |
 | [PreviewSignatureOptions.PreviewFormats](./previewsignatureoptions.previewformats) | 签名预览支持的格式 |
 | [TiffFormat](./tiffformat) | 指定不同的 tiff 格式。 |

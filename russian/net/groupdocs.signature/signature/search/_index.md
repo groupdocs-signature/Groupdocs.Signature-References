@@ -24,7 +24,7 @@ public SearchResult Search(List<SearchOptions> searchOptionsList)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о поиске электронных подписей в документах с помощью GroupDocs.Signature: [Как искать электронные подписи внутри документа с помощью C#](https://docs.groupdocs.com/display/signaturenet/Search+for+electronic+signatures+in+document)
 * Подробнее о поиске электронных подписей в зависимости от типа eSign: [Расширенные варианты использования поиска электронных подписей с помощью GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Searching)
@@ -58,7 +58,7 @@ public List<T> Search<T>(SearchOptions searchOptions)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о поиске электронных подписей в документах с помощью GroupDocs.Signature: [Как искать электронные подписи внутри документа с помощью C#](https://docs.groupdocs.com/display/signaturenet/Search+for+electronic+signatures+in+document)
 * Подробнее о поиске электронных подписей в зависимости от типа eSign: [Расширенные варианты использования поиска электронных подписей с помощью GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Searching)
@@ -92,7 +92,7 @@ public List<T> Search<T>(SignatureType signatureType)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о поиске электронных подписей в документах с помощью GroupDocs.Signature: [Как искать электронные подписи внутри документа с помощью C#](https://docs.groupdocs.com/display/signaturenet/Search+for+electronic+signatures+in+document)
 * Подробнее о поиске электронных подписей в зависимости от типа eSign: [Расширенные варианты использования поиска электронных подписей с помощью GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Searching)
@@ -125,7 +125,7 @@ public SearchResult Search(params SignatureType[] signatureTypes)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о поиске электронных подписей в документах с помощью GroupDocs.Signature: [Как искать электронные подписи внутри документа с помощью C#](https://docs.groupdocs.com/display/signaturenet/Search+for+electronic+signatures+in+document)
 * Подробнее о поиске электронных подписей в зависимости от типа eSign: [Расширенные варианты использования поиска электронных подписей с помощью GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Searching)

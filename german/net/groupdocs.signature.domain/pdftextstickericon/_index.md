@@ -3,7 +3,7 @@ title: PdfTextStickerIcon
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Beschreibt die Aufzählung des Aussehens des Aufklebersymbols für PDFTextanmerkungen.
 type: docs
-weight: 690
+weight: 720
 url: /de/net/groupdocs.signature.domain/pdftextstickericon/
 ---
 ## PdfTextStickerIcon enumeration

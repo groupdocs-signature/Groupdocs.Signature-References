@@ -1,14 +1,14 @@
 ---
 title: All
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置所有边的填充值 更改任何部分边如左或上使该属性等于 0
+description: 获取或设置所有边缘的填充值 更改任何部分边缘如左或上会使此属性等于 0
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.domain/padding/all/
 ---
 ## Padding.All property
 
-获取或设置所有边的填充值。 更改任何部分边，如左或上，使该属性等于 0；
+获取或设置所有边缘的填充值。 更改任何部分边缘（如左或上）会使此属性等于 0；
 
 ```csharp
 public int All { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Decode
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Algoritma türü anahtar ve tuz parametrelerine dayalı olarak geçirilen dizenin şifresini çözer
+description: Algoritma türü anahtar ve tuz parametrelerine dayalı olarak iletilen dizenin şifresini çözer
 type: docs
 weight: 20
 url: /tr/net/groupdocs.signature.domain.extensions/symmetricencryptionattribute/decode/
 ---
 ## SymmetricEncryptionAttribute.Decode method
 
-Algoritma türü, anahtar ve tuz parametrelerine dayalı olarak geçirilen dizenin şifresini çözer
+Algoritma türü, anahtar ve tuz parametrelerine dayalı olarak iletilen dizenin şifresini çözer
 
 ```csharp
 public string Decode(string source)
@@ -20,7 +20,7 @@ public string Decode(string source)
 
 ### Geri dönüş değeri
 
-Kodu çözülmüş dizeyi döndürür.
+Kodu çözülmüş diziyi döndürür.
 
 ### Ayrıca bakınız
 

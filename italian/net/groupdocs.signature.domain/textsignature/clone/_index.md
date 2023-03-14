@@ -16,7 +16,7 @@ public override object Clone()
 
 ### Valore di ritorno
 
-Restituisce l'istanza di firma del testo clonata.
+Restituisce l'istanza della firma di testo clonata.
 
 ### Guarda anche
 

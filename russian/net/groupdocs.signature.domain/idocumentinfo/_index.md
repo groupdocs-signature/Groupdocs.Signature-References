@@ -3,7 +3,7 @@ title: IDocumentInfo
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Определяет свойства описания документа.
 type: docs
-weight: 490
+weight: 510
 url: /ru/net/groupdocs.signature.domain/idocumentinfo/
 ---
 ## IDocumentInfo interface
@@ -25,6 +25,7 @@ public interface IDocumentInfo
 | [FormFieldSignatures](../../groupdocs.signature.domain/idocumentinfo/formfieldsignatures) { get; } | Коллекция подписей полей формы документа, добавленных или обновленных[`Signature`](../../groupdocs.signature/signature) методы. |
 | [ImageSignatures](../../groupdocs.signature.domain/idocumentinfo/imagesignatures) { get; } | Коллекция подписей изображений документов, добавленных или обновленных[`Signature`](../../groupdocs.signature/signature) методы. |
 | [MaxPageHeight](../../groupdocs.signature.domain/idocumentinfo/maxpageheight) { get; set; } | Определяет максимальную высоту страницы. |
+| [MetadataSignatures](../../groupdocs.signature.domain/idocumentinfo/metadatasignatures) { get; } | Коллекция подписей метаданных документа. |
 | [PageCount](../../groupdocs.signature.domain/idocumentinfo/pagecount) { get; set; } | Количество страниц документа. |
 | [Pages](../../groupdocs.signature.domain/idocumentinfo/pages) { get; set; } | Коллекция описаний страниц документа. |
 | [ProcessLogs](../../groupdocs.signature.domain/idocumentinfo/processlogs) { get; } | Сбор журналов обработки истории документов. |

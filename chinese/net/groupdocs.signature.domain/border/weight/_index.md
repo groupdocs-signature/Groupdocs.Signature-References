@@ -1,14 +1,14 @@
 ---
 title: Weight
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置签名边框的权重
+description: 获取或设置签名边框的粗细
 type: docs
 weight: 60
 url: /zh/net/groupdocs.signature.domain/border/weight/
 ---
 ## Border.Weight property
 
-获取或设置签名边框的权重。
+获取或设置签名边框的粗细。
 
 ```csharp
 public double Weight { get; set; }

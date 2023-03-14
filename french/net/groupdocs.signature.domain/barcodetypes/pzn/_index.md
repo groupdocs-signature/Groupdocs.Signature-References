@@ -3,7 +3,7 @@ title: PZN
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Objet Type de codebarres PZN.
 type: docs
-weight: 520
+weight: 550
 url: /fr/net/groupdocs.signature.domain/barcodetypes/pzn/
 ---
 ## BarcodeTypes.PZN field

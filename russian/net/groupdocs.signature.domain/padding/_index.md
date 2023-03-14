@@ -3,7 +3,7 @@ title: Padding
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет информацию об отступах или полях связанную с элементом.
 type: docs
-weight: 610
+weight: 640
 url: /ru/net/groupdocs.signature.domain/padding/
 ---
 ## Padding class

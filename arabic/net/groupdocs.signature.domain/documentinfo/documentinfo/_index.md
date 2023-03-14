@@ -1,14 +1,14 @@
 ---
 title: DocumentInfo
 second_title: GroupDocs.Signature لمرجع .NET API
-description: يقوم بتهيئة مثيل جديد لملفDocumentInfogroupdocs.signature.domain/documentinfo فئة .
+description: يقوم بتهيئة مثيل جديد لملفDocumentInfogroupdocs.signature.domain/documentinfoفئة .
 type: docs
 weight: 10
 url: /ar/net/groupdocs.signature.domain/documentinfo/documentinfo/
 ---
 ## DocumentInfo constructor
 
-يقوم بتهيئة مثيل جديد لملف[`DocumentInfo`](../../documentinfo) فئة .
+يقوم بتهيئة مثيل جديد لملف[`DocumentInfo`](../../documentinfo)فئة .
 
 ```csharp
 public DocumentInfo()

@@ -1,14 +1,14 @@
 ---
 title: Pages
 second_title: GroupDocs.Signature for .NET API 参考
-description: 文档页面描述的集合
+description: 文档页面描述集合
 type: docs
-weight: 100
+weight: 110
 url: /zh/net/groupdocs.signature.domain/documentinfo/pages/
 ---
 ## DocumentInfo.Pages property
 
-文档页面描述的集合。
+文档页面描述集合。
 
 ```csharp
 public IList<PageInfo> Pages { get; set; }

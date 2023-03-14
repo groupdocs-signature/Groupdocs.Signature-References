@@ -3,7 +3,7 @@ title: License
 second_title: GroupDocs.Signature för .NET API-referens
 description: Tillhandahåller metoder för att licensiera komponenten. Läs mer om licensieringhärhttps//purchase.groupdocs.com/faqs/licensing .
 type: docs
-weight: 1100
+weight: 1130
 url: /sv/net/groupdocs.signature/license/
 ---
 ## License class

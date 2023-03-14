@@ -3,7 +3,7 @@ title: Standard2of5
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Standard2of5 Barkod Türü nesnesi.
 type: docs
-weight: 570
+weight: 600
 url: /tr/net/groupdocs.signature.domain/barcodetypes/standard2of5/
 ---
 ## BarcodeTypes.Standard2of5 field

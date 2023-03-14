@@ -3,7 +3,7 @@ title: ShowDeletedSignaturesInfo
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Obtient ou définit un indicateur qui inclut les signatures supprimées dans le résultat des informations sur le document. Chaque signatureBaseSignaturegroupdocs.signature.domain/basesignature a le drapeau SuppriméDeletedgroupdocs.signature.domain/basesignature/deleted pour détecter sil a été supprimé.
 type: docs
-weight: 50
+weight: 80
 url: /fr/net/groupdocs.signature/signaturesettings/showdeletedsignaturesinfo/
 ---
 ## SignatureSettings.ShowDeletedSignaturesInfo property

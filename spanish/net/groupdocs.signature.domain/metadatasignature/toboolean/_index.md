@@ -3,7 +3,7 @@ title: ToBoolean
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Convierte a booleano.
 type: docs
-weight: 80
+weight: 90
 url: /es/net/groupdocs.signature.domain/metadatasignature/toboolean/
 ---
 ## MetadataSignature.ToBoolean method

@@ -1,14 +1,14 @@
 ---
 title: Signature
 second_title: GroupDocs.Signature for .NET API 参考
-description: 初始化的新实例Signaturegroupdocs.signature/signature带有由 stream. 提供的文档的类
+description: 初始化新实例Signaturegroupdocs.signature/signature类与 stream. 提供的文档
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature/signature/signature/
 ---
 ## Signature(Stream) {#constructor}
 
-初始化的新实例[`Signature`](../../signature)带有由 stream. 提供的文档的类
+初始化新实例[`Signature`](../../signature)类与 stream. 提供的文档
 
 ```csharp
 public Signature(Stream document)
@@ -20,10 +20,10 @@ public Signature(Stream document)
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 有关 GroupDocs.Signature 支持的文件类型的更多信息： [GroupDocs.Signature 支持的文档格式](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
-* 更多关于 GroupDocs.Signature 的 .NET 功能： [开发者指南](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
+* 有关 GroupDocs 支持的文件类型的更多信息。签名： [GroupDocs.Signature 支持的文档格式](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
+* 有关 GroupDocs.Signature for .NET 功能的更多信息： [开发者指南](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
 
 ### 也可以看看
 
@@ -35,7 +35,7 @@ public Signature(Stream document)
 
 ## Signature(Stream, LoadOptions) {#constructor_1}
 
-初始化的新实例[`Signature`](../../signature)流和加载选项提供的文档类LoadOptions.
+初始化新实例[`Signature`](../../signature)带有流和加载选项提供的文档的类LoadOptions.
 
 ```csharp
 public Signature(Stream document, LoadOptions loadOptions)
@@ -48,10 +48,10 @@ public Signature(Stream document, LoadOptions loadOptions)
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 有关 GroupDocs.Signature 支持的文件类型的更多信息： [GroupDocs.Signature 支持的文档格式](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
-* 更多关于 GroupDocs.Signature 的 .NET 功能： [开发者指南](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
+* 有关 GroupDocs 支持的文件类型的更多信息。签名： [GroupDocs.Signature 支持的文档格式](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
+* 有关 GroupDocs.Signature for .NET 功能的更多信息： [开发者指南](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
 * 更多关于如何打开和电子签名受密码保护的文档和来自不同存储的文档： [使用 GroupDocs.Signature 加载和电子签名文档](https://docs.groupdocs.com/display/signaturenet/Loading)
 
 ### 也可以看看
@@ -65,7 +65,7 @@ public Signature(Stream document, LoadOptions loadOptions)
 
 ## Signature(Stream, SignatureSettings) {#constructor_3}
 
-初始化的新实例[`Signature`](../../signature)具有流提供的文档的类实例和[`SignatureSettings`](../../signaturesettings).
+初始化新实例[`Signature`](../../signature)具有流提供的文档的类实例和[`SignatureSettings`](../../signaturesettings).
 
 ```csharp
 public Signature(Stream document, SignatureSettings settings)
@@ -78,10 +78,10 @@ public Signature(Stream document, SignatureSettings settings)
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 有关 GroupDocs.Signature 支持的文件类型的更多信息： [GroupDocs.Signature 支持的文档格式](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
-* 更多关于 GroupDocs.Signature 的 .NET 功能： [开发者指南](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
+* 有关 GroupDocs 支持的文件类型的更多信息。签名： [GroupDocs.Signature 支持的文档格式](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
+* 有关 GroupDocs.Signature for .NET 功能的更多信息： [开发者指南](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
 
 ### 也可以看看
 
@@ -94,7 +94,7 @@ public Signature(Stream document, SignatureSettings settings)
 
 ## Signature(Stream, LoadOptions, SignatureSettings) {#constructor_2}
 
-初始化的新实例[`Signature`](../../signature)流提供文档的类实例，加载选项LoadOptions和设置[`SignatureSettings`](../../signaturesettings).
+初始化新实例[`Signature`](../../signature)带有流提供的文档的类实例，加载选项LoadOptions和设置[`SignatureSettings`](../../signaturesettings).
 
 ```csharp
 public Signature(Stream document, LoadOptions loadOptions, SignatureSettings settings)
@@ -108,10 +108,10 @@ public Signature(Stream document, LoadOptions loadOptions, SignatureSettings set
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 有关 GroupDocs.Signature 支持的文件类型的更多信息： [GroupDocs.Signature 支持的文档格式](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
-* 更多关于 GroupDocs.Signature 的 .NET 功能： [开发者指南](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
+* 有关 GroupDocs 支持的文件类型的更多信息。签名： [GroupDocs.Signature 支持的文档格式](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
+* 有关 GroupDocs.Signature for .NET 功能的更多信息： [开发者指南](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
 * 更多关于如何打开和电子签名受密码保护的文档和来自不同存储的文档： [使用 GroupDocs.Signature 加载和电子签名文档](https://docs.groupdocs.com/display/signaturenet/Loading)
 
 ### 也可以看看
@@ -126,7 +126,7 @@ public Signature(Stream document, LoadOptions loadOptions, SignatureSettings set
 
 ## Signature(string) {#constructor_4}
 
-初始化的新实例[`Signature`](../../signature)具有文件路径提供的文档的类实例。
+初始化新实例[`Signature`](../../signature)文件路径提供文档的类实例.
 
 ```csharp
 public Signature(string filePath)
@@ -138,10 +138,10 @@ public Signature(string filePath)
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 有关 GroupDocs.Signature 支持的文件类型的更多信息： [GroupDocs.Signature 支持的文档格式](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
-* 更多关于 GroupDocs.Signature 的 .NET 功能： [开发者指南](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
+* 有关 GroupDocs 支持的文件类型的更多信息。签名： [GroupDocs.Signature 支持的文档格式](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
+* 有关 GroupDocs.Signature for .NET 功能的更多信息： [开发者指南](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
 
 ### 也可以看看
 
@@ -153,7 +153,7 @@ public Signature(string filePath)
 
 ## Signature(string, LoadOptions) {#constructor_5}
 
-初始化的新实例[`Signature`](../../signature)具有文件路径提供的文档的类实例和LoadOptions.
+初始化新实例[`Signature`](../../signature)具有文件路径提供的文档的类实例和LoadOptions.
 
 ```csharp
 public Signature(string filePath, LoadOptions loadOptions)
@@ -166,10 +166,10 @@ public Signature(string filePath, LoadOptions loadOptions)
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 有关 GroupDocs.Signature 支持的文件类型的更多信息： [GroupDocs.Signature 支持的文档格式](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
-* 更多关于 GroupDocs.Signature 的 .NET 功能： [开发者指南](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
+* 有关 GroupDocs 支持的文件类型的更多信息。签名： [GroupDocs.Signature 支持的文档格式](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
+* 有关 GroupDocs.Signature for .NET 功能的更多信息： [开发者指南](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
 * 更多关于如何打开和电子签名受密码保护的文档和来自不同存储的文档： [使用 GroupDocs.Signature 加载和电子签名文档](https://docs.groupdocs.com/display/signaturenet/Loading)
 
 ### 也可以看看
@@ -183,7 +183,7 @@ public Signature(string filePath, LoadOptions loadOptions)
 
 ## Signature(string, SignatureSettings) {#constructor_7}
 
-初始化的新实例[`Signature`](../../signature)具有文件路径提供的文档的类实例和[`SignatureSettings`](../../signaturesettings).
+初始化新实例[`Signature`](../../signature)具有文件路径提供的文档的类实例和[`SignatureSettings`](../../signaturesettings).
 
 ```csharp
 public Signature(string filePath, SignatureSettings settings)
@@ -196,10 +196,10 @@ public Signature(string filePath, SignatureSettings settings)
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 有关 GroupDocs.Signature 支持的文件类型的更多信息： [GroupDocs.Signature 支持的文档格式](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
-* 更多关于 GroupDocs.Signature 的 .NET 功能： [开发者指南](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
+* 有关 GroupDocs 支持的文件类型的更多信息。签名： [GroupDocs.Signature 支持的文档格式](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
+* 有关 GroupDocs.Signature for .NET 功能的更多信息： [开发者指南](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
 
 ### 也可以看看
 
@@ -212,7 +212,7 @@ public Signature(string filePath, SignatureSettings settings)
 
 ## Signature(string, LoadOptions, SignatureSettings) {#constructor_6}
 
-初始化的新实例[`Signature`](../../signature)具有文件路径提供的文档的类实例，LoadOptions和[`SignatureSettings`](../../signaturesettings).
+初始化新实例[`Signature`](../../signature)具有文件路径提供的文档的类实例，LoadOptions和[`SignatureSettings`](../../signaturesettings).
 
 ```csharp
 public Signature(string filePath, LoadOptions loadOptions, SignatureSettings settings)
@@ -226,10 +226,10 @@ public Signature(string filePath, LoadOptions loadOptions, SignatureSettings set
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 有关 GroupDocs.Signature 支持的文件类型的更多信息： [GroupDocs.Signature 支持的文档格式](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
-* 更多关于 GroupDocs.Signature 的 .NET 功能： [开发者指南](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
+* 有关 GroupDocs 支持的文件类型的更多信息。签名： [GroupDocs.Signature 支持的文档格式](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
+* 有关 GroupDocs.Signature for .NET 功能的更多信息： [开发者指南](https://docs.groupdocs.com/display/signaturenet/Developer+Guide)
 * 更多关于如何打开和电子签名受密码保护的文档和来自不同存储的文档： [使用 GroupDocs.Signature 加载和电子签名文档](https://docs.groupdocs.com/display/signaturenet/Loading)
 
 ### 也可以看看

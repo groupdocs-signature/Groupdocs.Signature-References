@@ -3,7 +3,7 @@ title: PdfTextStickerAppearance
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: PDF metin ek açıklama çıkartma nesnesinin görünümünü ve çıkartma açılır penceresini tanımlar.
 type: docs
-weight: 1160
+weight: 1230
 url: /tr/net/groupdocs.signature.options.appearances/pdftextstickerappearance/
 ---
 ## PdfTextStickerAppearance class
@@ -18,7 +18,7 @@ public sealed class PdfTextStickerAppearance : SignatureAppearance
 
 | İsim | Tanım |
 | --- | --- |
-| [PdfTextStickerAppearance](pdftextstickerappearance)() | PDF imza metni açıklama görünüm nesnesi oluşturur. |
+| [PdfTextStickerAppearance](pdftextstickerappearance)() | PDF imza metni ek açıklama görünüm nesnesi oluşturur. |
 
 ## Özellikleri
 

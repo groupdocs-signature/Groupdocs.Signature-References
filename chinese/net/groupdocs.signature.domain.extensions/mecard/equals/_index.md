@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: GroupDocs.Signature for .NET API 参考
-description: 覆盖 Equals 方法来比较 MeCard 属性
+description: 覆盖 Equals 方法以比较 MeCard 属性
 type: docs
 weight: 120
 url: /zh/net/groupdocs.signature.domain.extensions/mecard/equals/
 ---
 ## MeCard.Equals method
 
-覆盖 Equals 方法来比较 MeCard 属性
+覆盖 Equals 方法以比较 MeCard 属性
 
 ```csharp
 public override bool Equals(object obj)
@@ -20,7 +20,7 @@ public override bool Equals(object obj)
 
 ### 返回值
 
-如果传递的 MeCard 对象具有相同的类型并且其所有属性都等于此实例属性，则返回 true。
+如果传递的 MeCard 对象具有相同类型并且其所有属性都等于此实例属性，则返回 true。
 
 ### 也可以看看
 

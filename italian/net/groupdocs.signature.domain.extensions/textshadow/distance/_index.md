@@ -1,14 +1,14 @@
 ---
 title: Distance
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Ottiene o imposta la distanza dal testo allombreggiatura. Il valore predefinito è 1.
+description: Ottiene o imposta la distanza dal testo allombra. Il valore predefinito è 1.
 type: docs
 weight: 50
 url: /it/net/groupdocs.signature.domain.extensions/textshadow/distance/
 ---
 ## TextShadow.Distance property
 
-Ottiene o imposta la distanza dal testo all'ombreggiatura. Il valore predefinito è 1.
+Ottiene o imposta la distanza dal testo all'ombra. Il valore predefinito è 1.
 
 ```csharp
 public double Distance { get; set; }

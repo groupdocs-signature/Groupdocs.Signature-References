@@ -1,14 +1,14 @@
 ---
 title: OuterBorder
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Dış Sınırı Ayarlayın.
+description: Dış Kenarlığı Ayarlayın.
 type: docs
 weight: 60
 url: /tr/net/groupdocs.signature.domain/stampline/outerborder/
 ---
 ## StampLine.OuterBorder property
 
-Dış Sınırı Ayarlayın.
+Dış Kenarlığı Ayarlayın.
 
 ```csharp
 public Border OuterBorder { get; set; }

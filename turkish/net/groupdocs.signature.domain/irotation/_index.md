@@ -3,7 +3,7 @@ title: IRotation
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: İmza dönüşü için özellikleri tanımlar.
 type: docs
-weight: 520
+weight: 540
 url: /tr/net/groupdocs.signature.domain/irotation/
 ---
 ## IRotation interface

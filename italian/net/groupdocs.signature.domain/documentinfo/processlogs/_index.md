@@ -3,7 +3,7 @@ title: ProcessLogs
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Raccolta di processi di cronologia dei documenti come firma aggiornamento eliminazione.
 type: docs
-weight: 110
+weight: 120
 url: /it/net/groupdocs.signature.domain/documentinfo/processlogs/
 ---
 ## DocumentInfo.ProcessLogs property

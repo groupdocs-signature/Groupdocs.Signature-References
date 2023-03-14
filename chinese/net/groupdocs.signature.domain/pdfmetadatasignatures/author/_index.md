@@ -1,14 +1,14 @@
 ---
 title: Author
 second_title: GroupDocs.Signature for .NET API 参考
-description: Pdf 文档作者元数据
+description: Pdf 文档作者元数据.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.domain/pdfmetadatasignatures/author/
 ---
 ## PdfMetadataSignatures.Author property
 
-Pdf 文档作者元数据。
+Pdf 文档作者元数据.
 
 ```csharp
 public static PdfMetadataSignature Author { get; }

@@ -3,7 +3,7 @@ title: Equals
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Détermine si le courantFileTypegroupdocs.signature.domain/filetypeest le même que celui spécifiéFileTypegroupdocs.signature.domain/filetype objet.
 type: docs
-weight: 600
+weight: 610
 url: /fr/net/groupdocs.signature.domain/filetype/equals/
 ---
 ## Equals(FileType) {#equals}
@@ -20,7 +20,7 @@ public bool Equals(FileType other)
 
 ### Return_Value
 
-si les deux[`FileType`](../../filetype) les objets sont les mêmes; Par ailleurs,
+si les deux[`FileType`](../../filetype) les objets sont les mêmes; sinon,
 
 ```csharp
 true
@@ -52,7 +52,7 @@ public override bool Equals(object obj)
 
 ### Return_Value
 
-si le paramètre est[`FileType`](../../filetype) et est le même que le courant[`FileType`](../../filetype) objet; Par ailleurs,
+si le paramètre est[`FileType`](../../filetype) et est le même que le courant[`FileType`](../../filetype) objet; sinon,
 
 ```csharp
 true

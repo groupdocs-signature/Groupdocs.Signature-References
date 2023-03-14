@@ -3,7 +3,7 @@ title: SquareBorder
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Instancia para mantener las propiedades de la línea de borde para la línea de sello cuadrado.
 type: docs
-weight: 860
+weight: 890
 url: /es/net/groupdocs.signature.domain/squareborder/
 ---
 ## SquareBorder class

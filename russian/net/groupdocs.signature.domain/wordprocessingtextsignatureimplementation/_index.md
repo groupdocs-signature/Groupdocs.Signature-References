@@ -3,7 +3,7 @@ title: WordProcessingTextSignatureImplementation
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Указывает тип реализации текстовой подписи для документов WordProcessing.
 type: docs
-weight: 1060
+weight: 1090
 url: /ru/net/groupdocs.signature.domain/wordprocessingtextsignatureimplementation/
 ---
 ## WordProcessingTextSignatureImplementation enumeration

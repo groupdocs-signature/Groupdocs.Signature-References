@@ -3,7 +3,7 @@ title: TryParse
 second_title: GroupDocs.Signature لمرجع .NET API
 description: إرجاع نوع الرمز الشريطي باسم pasringType. إذا كان اسم الباركود غير معروف  لن يتم طرح استثناء ولكن الطريقة سترجع قيمة فارغة.
 type: docs
-weight: 650
+weight: 680
 url: /ar/net/groupdocs.signature.domain/barcodetypes/tryparse/
 ---
 ## BarcodeTypes.TryParse method

@@ -3,7 +3,7 @@ title: FormFieldType
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Form Alanı türünü belirtir.
 type: docs
-weight: 450
+weight: 470
 url: /tr/net/groupdocs.signature.domain/formfieldtype/
 ---
 ## FormFieldType enumeration

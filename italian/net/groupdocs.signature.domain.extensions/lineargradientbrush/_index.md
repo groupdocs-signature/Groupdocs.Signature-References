@@ -1,14 +1,14 @@
 ---
 title: LinearGradientBrush
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Rappresenta il pennello gradiente lineare.
+description: Rappresenta il pennello sfumato lineare.
 type: docs
-weight: 270
+weight: 290
 url: /it/net/groupdocs.signature.domain.extensions/lineargradientbrush/
 ---
 ## LinearGradientBrush class
 
-Rappresenta il pennello gradiente lineare.
+Rappresenta il pennello sfumato lineare.
 
 ```csharp
 public class LinearGradientBrush : Brush

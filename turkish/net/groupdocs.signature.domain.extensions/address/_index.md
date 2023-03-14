@@ -3,7 +3,7 @@ title: Address
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Kişi için adresi temsil eder.
 type: docs
-weight: 170
+weight: 180
 url: /tr/net/groupdocs.signature.domain.extensions/address/
 ---
 ## Address class
@@ -28,13 +28,13 @@ public sealed class Address
 | [Country](../../groupdocs.signature.domain.extensions/address/country) { get; set; } | Ülke adresini alır veya ayarlar. |
 | [State](../../groupdocs.signature.domain.extensions/address/state) { get; set; } | Adres durumunu alır veya ayarlar. |
 | [Street](../../groupdocs.signature.domain.extensions/address/street) { get; set; } | Adres caddesini alır veya ayarlar. |
-| [ZIP](../../groupdocs.signature.domain.extensions/address/zip) { get; set; } | ZIP adresini alır veya ayarlar. |
+| [ZIP](../../groupdocs.signature.domain.extensions/address/zip) { get; set; } | ZIP. adresini alır veya ayarlar |
 
 ## yöntemler
 
 | İsim | Tanım |
 | --- | --- |
-| override [Equals](../../groupdocs.signature.domain.extensions/address/equals)(object) | Adres özelliklerini karşılaştırmak için Eşittir yönteminin Üzerine Yazılır |
+| override [Equals](../../groupdocs.signature.domain.extensions/address/equals)(object) | Adres özelliklerini karşılaştırmak için Equals yönteminin üzerine yazar |
 | override [GetHashCode](../../groupdocs.signature.domain.extensions/address/gethashcode)() | GetHashCode yöntemini geçersiz kılar |
 
 ### Ayrıca bakınız

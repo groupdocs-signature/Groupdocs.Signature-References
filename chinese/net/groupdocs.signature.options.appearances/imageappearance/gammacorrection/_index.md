@@ -1,14 +1,14 @@
 ---
 title: GammaCorrection
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置图像 gamma. 默认值为 1 对应于图像的原始 gamma.
+description: 获取或设置图像gamma. 默认值为1 它对应于图像的原始gamma.
 type: docs
 weight: 40
 url: /zh/net/groupdocs.signature.options.appearances/imageappearance/gammacorrection/
 ---
 ## ImageAppearance.GammaCorrection property
 
-获取或设置图像 gamma. 默认值为 1 对应于图像的原始 gamma.
+获取或设置图像gamma. 默认值为1 它对应于图像的原始gamma.
 
 ```csharp
 public float GammaCorrection { get; set; }

@@ -3,7 +3,7 @@ title: FileType
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Représente le type de fichier.
 type: docs
-weight: 430
+weight: 450
 url: /fr/net/groupdocs.signature.domain/filetype/
 ---
 ## FileType class
@@ -65,6 +65,7 @@ public sealed class FileType : IEquatable<FileType>
 | static readonly [OTT](../../groupdocs.signature.domain/filetype/ott) | OpenDocument Document Template (.ott) représente les modèles de documents générés par les applications conformément au format standard OpenDocument d'OASIS. En savoir plus sur ce format de fichier[ici](https://wiki.fileformat.com/word-processing/ott) . |
 | static readonly [PCL](../../groupdocs.signature.domain/filetype/pcl) | Document de langage de commande d'imprimante (.pcl) |
 | static readonly [PDF](../../groupdocs.signature.domain/filetype/pdf) | Portable Document Format File (.pdf) est un type de document créé par Adobe dans les années 1990. Le but de ce format de fichier était d'introduire une norme pour la représentation des documents et autres documents de référence dans un format indépendant du logiciel d'application, du matériel ainsi que du système d'exploitation. En savoir plus sur ce format de fichier[ici](https://wiki.fileformat.com/view/pdf) . |
+| static readonly [PFX](../../groupdocs.signature.domain/filetype/pfx) | Scalable Vector Graphics File (.svg) est un fichier Scalar Vector Graphics qui utilise le format texte basé sur XML pour décrire l'apparence d'une image. En savoir plus sur ce format de fichier[ici](https://wiki.fileformat.com/page-description-language/svg) . |
 | static readonly [PNG](../../groupdocs.signature.domain/filetype/png) | Portable Network Graphic (.png) est un type de format de fichier image raster qui utilise une compression sans perte. Ce format de fichier a été créé en remplacement de Graphics Interchange Format (GIF) et n'a aucune limitation de copyright. En savoir plus sur ce format de fichier[ici](https://wiki.fileformat.com/image/png) . |
 | static readonly [POT](../../groupdocs.signature.domain/filetype/pot) | Le modèle PowerPoint (.pot) représente les fichiers de modèle Microsoft PowerPoint créés par les versions PowerPoint 97-2003. En savoir plus sur ce format de fichier[ici](https://wiki.fileformat.com/presentation/pot) . |
 | static readonly [POTM](../../groupdocs.signature.domain/filetype/potm) | PowerPoint Open XML Macro-Enabled Presentation Template (.potm) sont des fichiers de modèle Microsoft PowerPoint prenant en charge les macros. Les fichiers POTM sont créés avec PowerPoint 2007 ou supérieur et contiennent des paramètres par défaut qui peuvent être utilisés pour créer d'autres fichiers de présentation. En savoir plus sur ce format de fichier[ici](https://wiki.fileformat.com/presentation/potm) . |

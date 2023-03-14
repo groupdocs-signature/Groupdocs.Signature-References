@@ -3,7 +3,7 @@ title: PdfTextAnnotationVerifyExtensions
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يصف امتدادات التحقق من كائن التعليقات التوضيحية النصية بتنسيق PDF
 type: docs
-weight: 1440
+weight: 1520
 url: /ar/net/groupdocs.signature.options/pdftextannotationverifyextensions/
 ---
 ## PdfTextAnnotationVerifyExtensions class

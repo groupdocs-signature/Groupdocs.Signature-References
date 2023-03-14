@@ -1,14 +1,14 @@
 ---
 title: Column
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: İmzanın sol sütun numarasını alır veya ayarlar min değeri 0dır.
+description: İmzanın sol sütun numarasını alır veya ayarlar minimum değer 0dır.
 type: docs
 weight: 20
 url: /tr/net/groupdocs.signature.domain.extensions/spreadsheetposition/column/
 ---
 ## SpreadsheetPosition.Column property
 
-İmzanın sol sütun numarasını alır veya ayarlar (min değeri 0'dır).
+İmzanın sol sütun numarasını alır veya ayarlar (minimum değer 0'dır).
 
 ```csharp
 public int Column { get; set; }

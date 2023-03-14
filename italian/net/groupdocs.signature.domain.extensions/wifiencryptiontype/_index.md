@@ -3,7 +3,7 @@ title: WiFiEncryptionType
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Rappresenta il tipo di crittografia WiFi.
 type: docs
-weight: 420
+weight: 440
 url: /it/net/groupdocs.signature.domain.extensions/wifiencryptiontype/
 ---
 ## WiFiEncryptionType enumeration
@@ -18,11 +18,11 @@ public enum WiFiEncryptionType
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| None | `0` | Non rappresenta il tipo WiFi di crittografia. |
-| WPA | `1` | Rappresenta il WiFi con il tipo di crittografia WPA. |
-| WPAEAP | `2` | Rappresenta il WiFi con il tipo di crittografia WPA-EAP. |
-| WPAWPA2 | `3` | Rappresenta il WiFi con il tipo di crittografia WPA/WPA2. |
-| WEP | `4` | Rappresenta il WiFi con il tipo di crittografia WEP. |
+| None | `0` | Non rappresenta alcun tipo WiFi di crittografia. |
+| WPA | `1` | Rappresenta WiFi con il tipo di crittografia WPA. |
+| WPAEAP | `2` | Rappresenta WiFi con il tipo di crittografia WPA-EAP. |
+| WPAWPA2 | `3` | Rappresenta WiFi con il tipo di crittografia WPA/WPA2. |
+| WEP | `4` | Rappresenta WiFi con il tipo di crittografia WEP. |
 
 ### Guarda anche
 

@@ -3,7 +3,7 @@ title: ImageSaveFileFormat
 second_title: GroupDocs.Signature for .NET API 参考
 description: 定义不同的保存文件格式
 type: docs
-weight: 560
+weight: 580
 url: /zh/net/groupdocs.signature.domain/imagesavefileformat/
 ---
 ## ImageSaveFileFormat enumeration
@@ -19,7 +19,7 @@ public enum ImageSaveFileFormat
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Default | `0` | 文件格式不会改变。 |
-| Bmp | `1` | 以 Bmp 格式保存文档。 |
+| Bmp | `1` | 以 Bmp 格式保存文件。 |
 | Gif | `2` | 以 Gif 格式保存文档。 |
 | Jpg | `3` | 以 Jpg 格式保存文档。 |
 | Png | `4` | 以 Png 格式保存文档。 |

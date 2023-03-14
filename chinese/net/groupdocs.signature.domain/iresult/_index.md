@@ -1,14 +1,14 @@
 ---
 title: IResult
 second_title: GroupDocs.Signature for .NET API 参考
-description: 签名处理结果通用接口
+description: 签名处理结果通用接口.
 type: docs
-weight: 510
+weight: 530
 url: /zh/net/groupdocs.signature.domain/iresult/
 ---
 ## IResult interface
 
-签名处理结果通用接口
+签名处理结果通用接口.
 
 ```csharp
 public interface IResult
@@ -18,8 +18,12 @@ public interface IResult
 
 | 姓名 | 描述 |
 | --- | --- |
+| [DestinDocumentSize](../../groupdocs.signature.domain/iresult/destindocumentsize) { get; } | 返回目标文件大小 |
 | [Failed](../../groupdocs.signature.domain/iresult/failed) { get; } | 未处理的签名列表[`BaseSignature`](../basesignature). |
+| [ProcessingTime](../../groupdocs.signature.domain/iresult/processingtime) { get; } | 以毫秒为单位返回进程的执行时间 |
+| [SourceDocumentSize](../../groupdocs.signature.domain/iresult/sourcedocumentsize) { get; } | 返回源文件大小 |
 | [Succeeded](../../groupdocs.signature.domain/iresult/succeeded) { get; } | 成功处理的签名列表[`BaseSignature`](../basesignature). |
+| [TotalSignatures](../../groupdocs.signature.domain/iresult/totalsignatures) { get; } | 返回已处理的签名总数 |
 
 ### 也可以看看
 

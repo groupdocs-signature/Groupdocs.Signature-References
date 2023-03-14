@@ -3,7 +3,7 @@ title: GroupDocs.Signature.Options.Appearances
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: El espacio de nombres proporciona clases para apariciones de firmas adicionales.
 type: docs
-weight: 50
+weight: 60
 url: /es/net/groupdocs.signature.options.appearances/
 ---
 El espacio de nombres proporciona clases para apariciones de firmas adicionales.

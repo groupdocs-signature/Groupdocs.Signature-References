@@ -3,7 +3,7 @@ title: TextShapeType
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Especifica tipos de formas de texto.
 type: docs
-weight: 960
+weight: 990
 url: /es/net/groupdocs.signature.domain/textshapetype/
 ---
 ## TextShapeType enumeration
@@ -154,7 +154,7 @@ public enum TextShapeType
 | FlowChartDelay | `135` | RetrasoDiagramaDeFlujo. |
 | TextPlainText | `136` | TextoTextoNormal. |
 | TextStop | `137` | ParadaTexto. |
-| TextTriangle | `138` | Triángulo de Texto. |
+| TextTriangle | `138` | Triángulo de texto. |
 | TextTriangleInverted | `139` | TextoTriánguloInvertido. |
 | TextChevron | `140` | TextoChevron. |
 | TextChevronInverted | `141` | TextChevronInverted. |

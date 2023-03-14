@@ -1,14 +1,14 @@
 ---
 title: Size
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取元数据值大小的只读值
+description: 获取元数据值大小的只读值 value
 type: docs
 weight: 40
 url: /zh/net/groupdocs.signature.domain/imagemetadatasignature/size/
 ---
 ## ImageMetadataSignature.Size property
 
-获取元数据值大小的只读值
+获取元数据值大小的只读值 value
 
 ```csharp
 public int Size { get; }

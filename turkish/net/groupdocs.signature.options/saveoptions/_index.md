@@ -3,7 +3,7 @@ title: SaveOptions
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Bir belgeyi imzalamak üzere kaydederken ek seçenekler şifre gibi belirlemeye izin verir.
 type: docs
-weight: 1590
+weight: 1670
 url: /tr/net/groupdocs.signature.options/saveoptions/
 ---
 ## SaveOptions class

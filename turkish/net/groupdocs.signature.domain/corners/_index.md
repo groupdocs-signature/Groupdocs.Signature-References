@@ -3,7 +3,7 @@ title: Corners
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Kare bir grafik nesnenin köşelerini temsil eder.
 type: docs
-weight: 100
+weight: 110
 url: /tr/net/groupdocs.signature.domain/corners/
 ---
 ## Corners class
@@ -37,8 +37,8 @@ public class Corners : ICloneable
 | İsim | Tanım |
 | --- | --- |
 | [Clone](../../groupdocs.signature.domain/corners/clone)() | Bu nesnenin bir kopyasını alır. |
-| override [Equals](../../groupdocs.signature.domain/corners/equals)(object) | Geçersiz kılma, method 'ye eşittir |
-| override [GetHashCode](../../groupdocs.signature.domain/corners/gethashcode)() | Benzersiz karma kod değeri elde etmeyi geçersiz kılar |
+| override [Equals](../../groupdocs.signature.domain/corners/equals)(object) | Geçersiz kılma eşittir method |
+| override [GetHashCode](../../groupdocs.signature.domain/corners/gethashcode)() | Benzersiz karma kod value elde edilmesini geçersiz kılar |
 
 ## Alanlar
 

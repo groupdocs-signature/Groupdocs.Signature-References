@@ -3,7 +3,7 @@ title: SpreadsheetPosition
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Define la posición de la firma para documentos de hoja de cálculo.
 type: docs
-weight: 340
+weight: 360
 url: /es/net/groupdocs.signature.domain.extensions/spreadsheetposition/
 ---
 ## SpreadsheetPosition class

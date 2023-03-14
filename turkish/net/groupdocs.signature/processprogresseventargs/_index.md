@@ -3,7 +3,7 @@ title: ProcessProgressEventArgs
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: İmzalama doğrulama ve arama işlemlerinin OnProgress olayı için veri sağlar.
 type: docs
-weight: 1760
+weight: 1840
 url: /tr/net/groupdocs.signature/processprogresseventargs/
 ---
 ## ProcessProgressEventArgs class
@@ -26,9 +26,9 @@ public class ProcessProgressEventArgs : ProcessEventArgs
 | --- | --- |
 | [Cancel](../../groupdocs.signature/processprogresseventargs/cancel) { get; set; } | İşlemin iptal edilip edilmeyeceğini belirtir. |
 | [ProcessedSignatures](../../groupdocs.signature/processprogresseventargs/processedsignatures) { get; set; } | İşlenen imzaların miktarını temsil eder. |
-| [Progress](../../groupdocs.signature/processprogresseventargs/progress) { get; set; } | Yüzde cinsinden ilerlemeyi temsil eder. Değer aralığı 0 ile 100. arasındadır. |
+| [Progress](../../groupdocs.signature/processprogresseventargs/progress) { get; set; } | İlerlemeyi yüzde cinsinden temsil eder. Değer aralığı 0 ile 100. arasındadır. |
 | [Status](../../groupdocs.signature/processeventargs/status) { get; set; } | Geçerli işlem durumunu gösterir. |
-| [Ticks](../../groupdocs.signature/processprogresseventargs/ticks) { get; set; } | İşlem Başlatma olayından bu yana milisaniye cinsinden harcanan süreyi temsil eder. |
+| [Ticks](../../groupdocs.signature/processprogresseventargs/ticks) { get; set; } | İşlem Başlatma olayından bu yana geçen süreyi milisaniye cinsinden temsil eder. |
 
 ### Ayrıca bakınız
 

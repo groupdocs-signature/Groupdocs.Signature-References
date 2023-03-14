@@ -3,7 +3,7 @@ title: DocumentType
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Belge türünü tanımlar.
 type: docs
-weight: 160
+weight: 170
 url: /tr/net/groupdocs.signature.domain/documenttype/
 ---
 ## DocumentType enumeration
@@ -24,6 +24,7 @@ public enum DocumentType
 | Presentation | `3` | Sunum Belgesi Türü. |
 | Spreadsheet | `4` | Elektronik Tablo Belge Türü. |
 | Image | `5` | Görüntü Belge Türü. |
+| Certificate | `6` | Sertifika dosyası Türü. |
 
 ### Ayrıca bakınız
 

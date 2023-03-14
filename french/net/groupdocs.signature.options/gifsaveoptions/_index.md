@@ -3,7 +3,7 @@ title: GifSaveOptions
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Options denregistrement au format GIF pour les documents image.
 type: docs
-weight: 1310
+weight: 1390
 url: /fr/net/groupdocs.signature.options/gifsaveoptions/
 ---
 ## GifSaveOptions class

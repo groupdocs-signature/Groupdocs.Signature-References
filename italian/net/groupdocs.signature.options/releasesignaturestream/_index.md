@@ -3,7 +3,7 @@ title: ReleaseSignatureStream
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Delegato che definisce il metodo per rilasciare il flusso di anteprima della firma di output.
 type: docs
-weight: 1580
+weight: 1660
 url: /it/net/groupdocs.signature.options/releasesignaturestream/
 ---
 ## ReleaseSignatureStream delegate
@@ -18,7 +18,7 @@ public delegate void ReleaseSignatureStream(PreviewSignatureOptions previewOptio
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | previewOptions | PreviewSignatureOptions | Le opzioni della firma in anteprima. |
-| signatureStream | Stream | Il flusso di immagini della firma da rilasciare. |
+| signatureStream | Stream | Il flusso dell'immagine della firma da rilasciare. |
 
 ### Guarda anche
 

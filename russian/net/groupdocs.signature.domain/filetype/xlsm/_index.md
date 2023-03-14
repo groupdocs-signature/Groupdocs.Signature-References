@@ -3,7 +3,7 @@ title: XLSM
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Электронная таблица Excel Open XML с поддержкой макросов .xlsm  это тип файлов электронных таблиц поддерживающих макросы. Подробнее об этом формате файловздесьhttps//wiki.fileformat.com/spreadsheet/xlsm .
 type: docs
-weight: 530
+weight: 540
 url: /ru/net/groupdocs.signature.domain/filetype/xlsm/
 ---
 ## FileType.XLSM field

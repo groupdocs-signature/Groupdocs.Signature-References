@@ -1,14 +1,14 @@
 ---
 title: Margin
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置符号和文档边缘之间的空间 仅在指定水平或垂直对齐时有效
+description: 获取或设置 Sign 和 Document 边缘之间的空间 仅在指定水平或垂直对齐时有效
 type: docs
 weight: 120
 url: /zh/net/groupdocs.signature.options/textsignoptions/margin/
 ---
 ## TextSignOptions.Margin property
 
-获取或设置符号和文档边缘之间的空间。 （仅在指定水平或垂直对齐时有效）。
+获取或设置 Sign 和 Document 边缘之间的空间。 （仅在指定水平或垂直对齐时有效）。
 
 ```csharp
 public virtual Padding Margin { get; set; }

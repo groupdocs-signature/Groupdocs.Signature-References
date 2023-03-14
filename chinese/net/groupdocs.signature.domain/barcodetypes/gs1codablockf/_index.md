@@ -1,14 +1,14 @@
 ---
 title: GS1CodablockF
 second_title: GroupDocs.Signature for .NET API 参考
-description: GS1CodablockF 条形码类型对象
+description: GS1CodablockF 条码类型对象
 type: docs
 weight: 290
 url: /zh/net/groupdocs.signature.domain/barcodetypes/gs1codablockf/
 ---
 ## BarcodeTypes.GS1CodablockF field
 
-GS1CodablockF 条形码类型对象。
+GS1CodablockF 条码类型对象。
 
 ```csharp
 public static readonly BarcodeType GS1CodablockF;

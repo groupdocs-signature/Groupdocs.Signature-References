@@ -3,7 +3,7 @@ title: Failed
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Elenco delle firme che non sono state elaborateBaseSignaturegroupdocs.signature.domain/basesignature .
 type: docs
-weight: 10
+weight: 20
 url: /it/net/groupdocs.signature.domain/iresult/failed/
 ---
 ## IResult.Failed property

@@ -3,7 +3,7 @@ title: XLT
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Le modèle binaire Excel .xlt représente le format de fichier de modèle Excel. En savoir plus sur ce format de fichiericihttps//wiki.fileformat.com/spreadsheet/xlt .
 type: docs
-weight: 550
+weight: 560
 url: /fr/net/groupdocs.signature.domain/filetype/xlt/
 ---
 ## FileType.XLT field

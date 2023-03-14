@@ -14,25 +14,25 @@ Lo spazio dei nomi fornisce estensioni per l'aspetto della firma e funzionalità
 | --- | --- |
 | [Address](./address) | Rappresenta l'indirizzo per il contatto. |
 | [Brush](./brush) | Rappresenta la classe base per vari pennelli. |
-| [CryptoCurrencyTransfer](./cryptocurrencytransfer) | Rappresenta il trasferimento di valuta Crypto (ricezione o invio) per QR-Code. |
+| [CryptoCurrencyTransfer](./cryptocurrencytransfer) | Rappresenta il trasferimento di criptovaluta (ricezione o invio) per QR-Code. |
 | [Email](./email) | Rappresenta il formato e-mail per il codice QR. |
 | [EPC](./epc) | Rappresenta il codice di risposta rapida del Consiglio europeo per i pagamenti. |
 | [Event](./event) | Rappresenta i dettagli dell'evento codice QR standard. |
 | [FormatAttribute](./formatattribute) | Indica alla serializzazione degli oggetti di serializzare il membro con il nome e il formato specificati |
-| [LinearGradientBrush](./lineargradientbrush) | Rappresenta il pennello gradiente lineare. |
+| [LinearGradientBrush](./lineargradientbrush) | Rappresenta il pennello sfumato lineare. |
 | [MeCard](./mecard) | Rappresenta i dettagli di contatto standard di MeCard. |
 | [RadialGradientBrush](./radialgradientbrush) | Rappresenta il pennello sfumato radiale. |
 | [SignatureExtension](./signatureextension) | Rappresenta la classe base per le estensioni delle firme. |
 | [SkipSerializationAttribute](./skipserializationattribute) | Indica alla serializzazione di ignorare il membro. |
-| [SMS](./sms) | Rappresenta i dettagli del servizio SMS SMS. |
-| [SolidBrush](./solidbrush) | Rappresenta un pennello solido. Potrebbe essere utilizzato al posto della proprietà del colore di sfondo. |
+| [SMS](./sms) | Rappresenta i dettagli del servizio SMS. |
+| [SolidBrush](./solidbrush) | Rappresenta il pennello a tinta unita. Potrebbe essere utilizzato al posto della proprietà del colore di sfondo. |
 | [SpreadsheetPosition](./spreadsheetposition) | Definisce la posizione della firma per i documenti Spreadsheet. |
 | [SymmetricEncryption](./symmetricencryption) | Implementa algoritmi simmetrici standard per la crittografia dei dati con chiave singola e passphrase (salt). |
-| [SymmetricEncryptionAttribute](./symmetricencryptionattribute) | Indica alla serializzazione delle istanze di crittografare/decodificare la stringa di serializzazione dell'oggetto. |
-| [TextShadow](./textshadow) | Rappresenta le proprietà dell'ombreggiatura del testo per le firme di testo. Il risultato può variare a seconda del tipo di firma e del formato del documento. TextShadow è consigliato per l'utilizzo con la firma TextAsImage per tutti i tipi di documenti supportati, anche con TextSignature e TextSignature semplici come filigrana per fogli di calcolo ( .xslx) e Presentazioni (.pptx). Anche Simple TextSignature for Words (.docx) è consigliato, ma ha funzionalità limitate. |
+| [SymmetricEncryptionAttribute](./symmetricencryptionattribute) | Indica alla serializzazione delle istanze di crittografare/decrittografare la stringa di serializzazione dell'oggetto. |
+| [TextShadow](./textshadow) | Rappresenta le proprietà di ombreggiatura del testo per le firme di testo. Il risultato può variare a seconda del tipo di firma e del formato del documento. TextShadow è consigliato per l'utilizzo con la firma TextAsImage per tutti i tipi di documenti supportati, anche con TextSignature semplice e TextSignature come filigrana per fogli di calcolo ( .xslx) e Presentazioni (.pptx). Si consiglia anche Simple TextSignature for Words (.docx), ma ha funzionalità limitate. |
 | [TextureBrush](./texturebrush) | Rappresenta il pennello texture. |
 | [VCard](./vcard) | Rappresenta i dettagli di contatto standard del biglietto da visita elettronico. |
-| [WiFi](./wifi) | Rappresenta i dettagli della connessione di rete Wi-Fi. |
+| [WiFi](./wifi) | Rappresenta i dettagli della connessione di rete WiFi. |
 ## Interfacce
 
 | Interfaccia | Descrizione |
@@ -43,7 +43,8 @@ Lo spazio dei nomi fornisce estensioni per l'aspetto della firma e funzionalità
 
 | Enumerazione | Descrizione |
 | --- | --- |
-| [CryptoCurrencyType](./cryptocurrencytype) | Rappresenta il tipo di valuta Crypto. |
+| [CryptoCurrencyType](./cryptocurrencytype) | Rappresenta il tipo di criptovaluta. |
+| [DataMatrixEncodeMode](./datamatrixencodemode) | Modalità di codifica del codificatore DataMatrix, predefinita su Auto |
 | [SymmetricAlgorithmType](./symmetricalgorithmtype) | Rappresenta il tipo di algoritmo di crittografia simmetrica. |
 | [WiFiEncryptionType](./wifiencryptiontype) | Rappresenta il tipo di crittografia WiFi. |
 

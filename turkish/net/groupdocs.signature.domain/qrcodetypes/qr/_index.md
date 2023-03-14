@@ -3,7 +3,7 @@ title: QR
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: QR QR Kodu Türü object.
 type: docs
-weight: 60
+weight: 90
 url: /tr/net/groupdocs.signature.domain/qrcodetypes/qr/
 ---
 ## QrCodeTypes.QR field

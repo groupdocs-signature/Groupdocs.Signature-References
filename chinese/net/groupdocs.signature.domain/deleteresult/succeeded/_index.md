@@ -1,14 +1,14 @@
 ---
 title: Succeeded
 second_title: GroupDocs.Signature for .NET API 参考
-description: 成功删除的签名列表BaseSignaturegroupdocs.signature.domain/basesignature.
+description: 删除成功的签名列表BaseSignaturegroupdocs.signature.domain/basesignature.
 type: docs
-weight: 20
+weight: 50
 url: /zh/net/groupdocs.signature.domain/deleteresult/succeeded/
 ---
 ## DeleteResult.Succeeded property
 
-成功删除的签名列表[`BaseSignature`](../../basesignature).
+删除成功的签名列表[`BaseSignature`](../../basesignature).
 
 ```csharp
 public List<BaseSignature> Succeeded { get; }

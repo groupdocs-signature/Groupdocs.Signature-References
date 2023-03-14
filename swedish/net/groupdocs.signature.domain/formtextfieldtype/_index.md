@@ -3,7 +3,7 @@ title: FormTextFieldType
 second_title: GroupDocs.Signature för .NET API-referens
 description: Definierar typer av text för WordsProcessingdokumentformulärfält.
 type: docs
-weight: 460
+weight: 480
 url: /sv/net/groupdocs.signature.domain/formtextfieldtype/
 ---
 ## FormTextFieldType enumeration

@@ -1,14 +1,14 @@
 ---
 title: SaveDocumentOnEmptyDelete
 second_title: Referencia de API de GroupDocs.Signature para .NET
-description: Obtiene o establece el indicador para volver a guardar el documento de origen cuando el método Eliminar no tiene firmas afectadas para eliminar. Si este indicador se establece en verdadero de forma predeterminada el documento se guardará con el registro del proceso de historial correspondiente fecha y tipo de operación incluso si el método Eliminar no tiene firmas para eliminar. Cuando este plano se configura como falso el documento de origen no se modificará en absoluto.
+description: Obtiene o establece el indicador para volver a guardar el documento de origen cuando el método de eliminación no tiene firmas afectadas para eliminar. El método de eliminación no tiene firmas para eliminar. Cuando este plano se configura como falso el documento de origen no se modificará en absoluto.
 type: docs
-weight: 30
+weight: 60
 url: /es/net/groupdocs.signature/signaturesettings/savedocumentonemptydelete/
 ---
 ## SignatureSettings.SaveDocumentOnEmptyDelete property
 
-Obtiene o establece el indicador para volver a guardar el documento de origen cuando el método Eliminar no tiene firmas afectadas para eliminar. Si este indicador se establece en verdadero (de forma predeterminada), el documento se guardará con el registro del proceso de historial correspondiente (fecha y tipo de operación) incluso si el método Eliminar no tiene firmas para eliminar. Cuando este plano se configura como falso, el documento de origen no se modificará en absoluto.
+Obtiene o establece el indicador para volver a guardar el documento de origen cuando el método de eliminación no tiene firmas afectadas para eliminar. El método de eliminación no tiene firmas para eliminar. Cuando este plano se configura como falso, el documento de origen no se modificará en absoluto.
 
 ```csharp
 public bool SaveDocumentOnEmptyDelete { get; set; }

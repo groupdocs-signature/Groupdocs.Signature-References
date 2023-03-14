@@ -1,14 +1,14 @@
 ---
 title: Opened
 second_title: GroupDocs.Signature for .NET API 参考
-description: 设置是否默认打开贴纸弹出窗口
+description: 设置是否默认打开贴纸弹出窗口.
 type: docs
 weight: 50
 url: /zh/net/groupdocs.signature.options.appearances/pdftextstickerappearance/opened/
 ---
 ## PdfTextStickerAppearance.Opened property
 
-设置是否默认打开贴纸弹出窗口。
+设置是否默认打开贴纸弹出窗口.
 
 ```csharp
 public bool Opened { get; set; }

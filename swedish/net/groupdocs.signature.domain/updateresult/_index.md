@@ -3,7 +3,7 @@ title: UpdateResult
 second_title: GroupDocs.Signature för .NET API-referens
 description: Resultat av ändring av signaturer i dokumentet.
 type: docs
-weight: 1010
+weight: 1040
 url: /sv/net/groupdocs.signature.domain/updateresult/
 ---
 ## UpdateResult class
@@ -18,8 +18,12 @@ public class UpdateResult : IResult
 
 | namn | Beskrivning |
 | --- | --- |
+| [DestinDocumentSize](../../groupdocs.signature.domain/updateresult/destindocumentsize) { get; } | Returnerar måldokumentstorlek |
 | [Failed](../../groupdocs.signature.domain/updateresult/failed) { get; } | Lista över signaturer som inte uppdaterades[`BaseSignature`](../basesignature) . |
+| [ProcessingTime](../../groupdocs.signature.domain/updateresult/processingtime) { get; } | Returnerar exekveringstiden för processen i millisekunder |
+| [SourceDocumentSize](../../groupdocs.signature.domain/updateresult/sourcedocumentsize) { get; } | Returnerar källdokumentets storlek |
 | [Succeeded](../../groupdocs.signature.domain/updateresult/succeeded) { get; } | Lista över framgångsrikt modifierade signaturer[`BaseSignature`](../basesignature) . |
+| [TotalSignatures](../../groupdocs.signature.domain/updateresult/totalsignatures) { get; } | Returnerar det totala antalet behandlade signaturer |
 
 ### Se även
 

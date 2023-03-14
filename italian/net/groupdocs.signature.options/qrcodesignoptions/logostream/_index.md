@@ -1,14 +1,14 @@
 ---
 title: LogoStream
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Ottiene o imposta il flusso dellimmagine del logo QRcode. Se viene specificata questa proprietà viene sempre utilizzata al posto di LogoFilePath. Lutilizzo di questa proprietà potrebbe causare problemi con la verifica. Usalo con attenzione.
+description: Ottiene o imposta il flusso dellimmagine del logo del codice QR. Se questa proprietà è specificata viene sempre utilizzata invece LogoFilePath. Lutilizzo di questa proprietà potrebbe causare problemi con la verifica. Usalo con attenzione.
 type: docs
 weight: 90
 url: /it/net/groupdocs.signature.options/qrcodesignoptions/logostream/
 ---
 ## QrCodeSignOptions.LogoStream property
 
-Ottiene o imposta il flusso dell'immagine del logo QR-code. Se viene specificata questa proprietà, viene sempre utilizzata al posto di LogoFilePath. L'utilizzo di questa proprietà potrebbe causare problemi con la verifica. Usalo con attenzione.
+Ottiene o imposta il flusso dell'immagine del logo del codice QR. Se questa proprietà è specificata, viene sempre utilizzata invece LogoFilePath. L'utilizzo di questa proprietà potrebbe causare problemi con la verifica. Usalo con attenzione.
 
 ```csharp
 public Stream LogoStream { get; set; }

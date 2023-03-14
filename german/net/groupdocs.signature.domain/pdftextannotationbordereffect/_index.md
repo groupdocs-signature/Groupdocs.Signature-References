@@ -3,7 +3,7 @@ title: PdfTextAnnotationBorderEffect
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Beschreibt den Effekt der auf den Rand der PDFTextanmerkungen angewendet werden soll.
 type: docs
-weight: 680
+weight: 710
 url: /de/net/groupdocs.signature.domain/pdftextannotationbordereffect/
 ---
 ## PdfTextAnnotationBorderEffect enumeration
@@ -18,7 +18,7 @@ public enum PdfTextAnnotationBorderEffect
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| None | `0` | Keine Wirkung. |
+| None | `0` | Keine Auswirkung. |
 | Cloudy | `1` | Der Rand erscheint "bewölkt". |
 
 ### Siehe auch

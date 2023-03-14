@@ -1,14 +1,14 @@
 ---
 title: SpreadsheetMetadataSignature
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Crea la firma dei metadati del foglio di calcolo con nome predefinito e valore vuoto.
+description: Crea la firma dei metadati del foglio di calcolo con un nome predefinito e un valore vuoto.
 type: docs
 weight: 10
 url: /it/net/groupdocs.signature.domain/spreadsheetmetadatasignature/spreadsheetmetadatasignature/
 ---
 ## SpreadsheetMetadataSignature(string) {#constructor}
 
-Crea la firma dei metadati del foglio di calcolo con nome predefinito e valore vuoto.
+Crea la firma dei metadati del foglio di calcolo con un nome predefinito e un valore vuoto.
 
 ```csharp
 public SpreadsheetMetadataSignature(string name)
@@ -16,7 +16,7 @@ public SpreadsheetMetadataSignature(string name)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| name | String | Nome della firma dei metadati del foglio di lavoro. |
+| name | String | Metadati del foglio di calcolo Nome della firma. |
 
 ### Guarda anche
 

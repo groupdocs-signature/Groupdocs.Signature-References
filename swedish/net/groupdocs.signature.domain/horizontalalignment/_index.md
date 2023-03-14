@@ -3,7 +3,7 @@ title: HorizontalAlignment
 second_title: GroupDocs.Signature för .NET API-referens
 description: Anger horisontell justering av element på en dokumentsida.
 type: docs
-weight: 470
+weight: 490
 url: /sv/net/groupdocs.signature.domain/horizontalalignment/
 ---
 ## HorizontalAlignment enumeration

@@ -1,14 +1,14 @@
 ---
 title: AllTypes
 second_title: GroupDocs.Signature for .NET API 参考
-description: 所有条码类型
+description: 所有条形码类型
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.domain/barcodetypes/alltypes/
 ---
 ## BarcodeTypes.AllTypes property
 
-所有条码类型。
+所有条形码类型。
 
 ```csharp
 public static BarcodeType[] AllTypes { get; }

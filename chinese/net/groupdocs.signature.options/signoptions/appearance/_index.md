@@ -1,14 +1,14 @@
 ---
 title: Appearance
 second_title: GroupDocs.Signature for .NET API 参考
-description: 附加签名外观
+description: 附加签名外观.
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.options/signoptions/appearance/
 ---
 ## SignOptions.Appearance property
 
-附加签名外观。
+附加签名外观.
 
 ```csharp
 public SignatureAppearance Appearance { get; set; }

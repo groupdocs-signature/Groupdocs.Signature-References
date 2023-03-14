@@ -3,7 +3,7 @@ title: DigitalSignOptions
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Representa las opciones de firma digital.
 type: docs
-weight: 1260
+weight: 1340
 url: /es/net/groupdocs.signature.options/digitalsignoptions/
 ---
 ## DigitalSignOptions class
@@ -76,7 +76,7 @@ public class DigitalSignOptions : ImageSignOptions
 **Aprende más**
 
 * Uso básico de creación de firma electrónica digital por GroupDocs. Firma: [Cómo firmar un documento con firma digital](https://docs.groupdocs.com/display/signaturenet/eSign+document+with+Digital+signature)
-* Uso avanzado de configuración de Firma electrónica digital con GroupDocs.Firma: [Uso avanzado para firmar documentos electrónicos con firma digital y configuraciones adicionales](https://docs.groupdocs.com/display/signaturenet/Sign+document+with+Digital+signature+-+advanced)
+* Uso avanzado de configuración de Firma electrónica digital con GroupDocs. Firma: [Uso avanzado para firmar documentos electrónicos con firma digital y configuraciones adicionales](https://docs.groupdocs.com/display/signaturenet/Sign+document+with+Digital+signature+-+advanced)
 
 ### Ver también
 

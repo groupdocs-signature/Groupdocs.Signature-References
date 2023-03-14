@@ -1,14 +1,14 @@
 ---
 title: Selected
 second_title: GroupDocs.Signature for .NET API 参考
-description: 包含选定的值
+description: 包含选定值
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.domain/radiobuttonformfieldsignature/selected/
 ---
 ## RadioButtonFormFieldSignature.Selected property
 
-包含选定的值。
+包含选定值。
 
 ```csharp
 public string Selected { get; set; }

@@ -3,7 +3,7 @@ title: QrCodeSignOptions
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет параметры подписи QRкода.
 type: docs
-weight: 1550
+weight: 1630
 url: /ru/net/groupdocs.signature.options/qrcodesignoptions/
 ---
 ## QrCodeSignOptions class
@@ -72,7 +72,7 @@ public class QrCodeSignOptions : TextSignOptions
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Базовое использование для создания электронной подписи QR-Code с помощью GroupDocs.Signature: [Как подписать документ электронной подписью с помощью QR-кода](https://docs.groupdocs.com/display/signaturenet/eSign+document+with+QR-code+signature)
 * Расширенное использование настроек электронной подписи QR-Code с GroupDocs.Signature: [Расширенное использование документа eSign с подписью QR-Code и дополнительными настройками](https://docs.groupdocs.com/display/signaturenet/Sign+document+with+QR-code+signature+-+advanced)

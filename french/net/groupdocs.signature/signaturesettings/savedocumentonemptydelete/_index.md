@@ -1,14 +1,14 @@
 ---
 title: SaveDocumentOnEmptyDelete
 second_title: Référence de l'API GroupDocs.Signature pour .NET
-description: Obtient ou définit lindicateur pour réenregistrer le document source lorsque la méthode de suppression na aucune signature affectée à supprimer. Si cet indicateur est défini sur vrai par défaut le document sera enregistré avec le journal de processus dhistorique correspondant date et type dopération même si la méthode de suppression na aucune signature à supprimer. Lorsque cet appartement est défini sur faux le document source ne sera pas modifié du tout.
+description: Obtient ou définit lindicateur pour réenregistrer le document source lorsque la méthode de suppression na aucune signature affectée à supprimer. Si cet indicateur est défini sur vrai par défaut le document sera enregistré avec le journal de processus dhistorique correspondant date et type dopération même si La méthode de suppression na aucune signature à supprimer. Lorsque ce plat est défini sur faux le document source ne sera pas modifié du tout.
 type: docs
-weight: 30
+weight: 60
 url: /fr/net/groupdocs.signature/signaturesettings/savedocumentonemptydelete/
 ---
 ## SignatureSettings.SaveDocumentOnEmptyDelete property
 
-Obtient ou définit l'indicateur pour réenregistrer le document source lorsque la méthode de suppression n'a aucune signature affectée à supprimer. Si cet indicateur est défini sur vrai (par défaut), le document sera enregistré avec le journal de processus d'historique correspondant (date et type d'opération) même si la méthode de suppression n'a aucune signature à supprimer. Lorsque cet appartement est défini sur faux, le document source ne sera pas modifié du tout.
+Obtient ou définit l'indicateur pour réenregistrer le document source lorsque la méthode de suppression n'a aucune signature affectée à supprimer. Si cet indicateur est défini sur vrai (par défaut), le document sera enregistré avec le journal de processus d'historique correspondant (date et type d'opération) même si La méthode de suppression n'a aucune signature à supprimer. Lorsque ce plat est défini sur faux, le document source ne sera pas modifié du tout.
 
 ```csharp
 public bool SaveDocumentOnEmptyDelete { get; set; }

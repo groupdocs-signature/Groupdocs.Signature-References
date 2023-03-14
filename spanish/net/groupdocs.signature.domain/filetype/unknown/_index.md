@@ -3,7 +3,7 @@ title: Unknown
 second_title: Referencia de API de GroupDocs.Signature para .NET
 description: Representa un tipo de archivo desconocido.
 type: docs
-weight: 460
+weight: 470
 url: /es/net/groupdocs.signature.domain/filetype/unknown/
 ---
 ## FileType.Unknown field

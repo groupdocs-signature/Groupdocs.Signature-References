@@ -3,7 +3,7 @@ title: ComboboxFormFieldSignature
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Contient les propriétés de signature de champ de formulaire de saisie de zone de liste déroulante.
 type: docs
-weight: 90
+weight: 100
 url: /fr/net/groupdocs.signature.domain/comboboxformfieldsignature/
 ---
 ## ComboboxFormFieldSignature class

@@ -1,14 +1,14 @@
 ---
 title: Left
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Posizione X sinistra dellarea Firma sulla Pagina del documento in Unità di misura pixel percentuali o millimetri vediMeasureTypegroupdocs.signature.domain/measuretype LocationMeasureType.
+description: Posizione X sinistra dellarea della firma sulla pagina del documento in unità di misura pixel percentuali o millimetri vedereMeasureTypegroupdocs.signature.domain/measuretype LocationMeasureType.
 type: docs
 weight: 20
 url: /it/net/groupdocs.signature.domain/irectangle/left/
 ---
 ## IRectangle.Left property
 
-Posizione X sinistra dell'area Firma sulla Pagina del documento in Unità di misura (pixel, percentuali o millimetri vedi[`MeasureType`](../../measuretype) LocationMeasureType).
+Posizione X sinistra dell'area della firma sulla pagina del documento in unità di misura (pixel, percentuali o millimetri vedere[`MeasureType`](../../measuretype) LocationMeasureType).
 
 ```csharp
 public int Left { get; set; }

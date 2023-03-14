@@ -3,7 +3,7 @@ title: SignatureAppearance
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: İmza görünümünü temsil eder  belge sayfasında oturum açmanın alternatif uygulamaları için ek seçenekler.
 type: docs
-weight: 1170
+weight: 1240
 url: /tr/net/groupdocs.signature.options.appearances/signatureappearance/
 ---
 ## SignatureAppearance class

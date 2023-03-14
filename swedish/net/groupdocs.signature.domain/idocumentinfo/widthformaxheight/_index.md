@@ -3,7 +3,7 @@ title: WidthForMaxHeight
 second_title: GroupDocs.Signature för .NET API-referens
 description: Anger bredd för max sidhöjd.
 type: docs
-weight: 150
+weight: 160
 url: /sv/net/groupdocs.signature.domain/idocumentinfo/widthformaxheight/
 ---
 ## IDocumentInfo.WidthForMaxHeight property

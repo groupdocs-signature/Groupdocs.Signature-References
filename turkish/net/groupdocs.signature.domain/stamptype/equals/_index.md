@@ -32,7 +32,7 @@ Karşılaştırma sonucu.
 
 ## Equals(object) {#equals_1}
 
-Geçersiz kılınan yöntem, belirtilen System.Object öğesinin geçerli System.Object. değerine eşit olup olmadığını belirler.
+Geçersiz kılma yöntemi, belirtilen System.Object öğesinin geçerli System.Object. değerine eşit olup olmadığını belirler.
 
 ```csharp
 public override bool Equals(object obj)

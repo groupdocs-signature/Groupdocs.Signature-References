@@ -16,7 +16,7 @@ public string Encode(string source)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| source | String | Stringa di origine da codificare. |
+| source | String | Stringa sorgente da codificare. |
 
 ### Valore di ritorno
 

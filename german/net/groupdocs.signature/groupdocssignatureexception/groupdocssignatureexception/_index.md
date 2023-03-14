@@ -1,14 +1,14 @@
 ---
 title: GroupDocsSignatureException
 second_title: GroupDocs.Signature für .NET-API-Referenz
-description: Initialisiert eine neue Instanz vonGroupDocsSignatureExceptiongroupdocs.signature/groupdocssignatureexception Klasse.
+description: Initialisiert eine neue Instanz vonGroupDocsSignatureExceptiongroupdocs.signature/groupdocssignatureexceptionKlasse.
 type: docs
 weight: 10
 url: /de/net/groupdocs.signature/groupdocssignatureexception/groupdocssignatureexception/
 ---
 ## GroupDocsSignatureException() {#constructor}
 
-Initialisiert eine neue Instanz von[`GroupDocsSignatureException`](../../groupdocssignatureexception) Klasse.
+Initialisiert eine neue Instanz von[`GroupDocsSignatureException`](../../groupdocssignatureexception)Klasse.
 
 ```csharp
 public GroupDocsSignatureException()
@@ -24,7 +24,7 @@ public GroupDocsSignatureException()
 
 ## GroupDocsSignatureException(string) {#constructor_2}
 
-Initialisiert eine neue Instanz von[`GroupDocsSignatureException`](../../groupdocssignatureexception)Klasse mit einer bestimmten Fehlermeldung.
+Initialisiert eine neue Instanz von[`GroupDocsSignatureException`](../../groupdocssignatureexception) Klasse mit einer bestimmten Fehlermeldung.
 
 ```csharp
 public GroupDocsSignatureException(string message)

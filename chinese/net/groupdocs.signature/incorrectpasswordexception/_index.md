@@ -3,12 +3,12 @@ title: IncorrectPasswordException
 second_title: GroupDocs.Signature for .NET API 参考
 description: 指定密码错误时抛出的异常
 type: docs
-weight: 1090
+weight: 1120
 url: /zh/net/groupdocs.signature/incorrectpasswordexception/
 ---
 ## IncorrectPasswordException class
 
-指定密码错误时抛出的异常
+指定密码错误时抛出的异常。
 
 ```csharp
 public class IncorrectPasswordException : GroupDocsSignatureException

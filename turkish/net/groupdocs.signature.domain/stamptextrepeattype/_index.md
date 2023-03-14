@@ -3,7 +3,7 @@ title: StampTextRepeatType
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Damga satırları için metin yineleme türünü belirtir.
 type: docs
-weight: 890
+weight: 920
 url: /tr/net/groupdocs.signature.domain/stamptextrepeattype/
 ---
 ## StampTextRepeatType enumeration

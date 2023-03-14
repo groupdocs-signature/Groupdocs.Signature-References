@@ -3,7 +3,7 @@ title: PdfTextAnnotationBorderEffect
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: PDF metin açıklamalarının kenarına uygulanması gereken efekti tanımlar.
 type: docs
-weight: 680
+weight: 710
 url: /tr/net/groupdocs.signature.domain/pdftextannotationbordereffect/
 ---
 ## PdfTextAnnotationBorderEffect enumeration

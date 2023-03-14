@@ -3,7 +3,7 @@ title: GetData
 second_title: GroupDocs.Signature för .NET API-referens
 description: Hämta objekt från Metadata Signature Value över deserialization.
 type: docs
-weight: 60
+weight: 70
 url: /sv/net/groupdocs.signature.domain/metadatasignature/getdata/
 ---
 ## GetData&lt;T&gt;() {#getdata}

@@ -1,14 +1,14 @@
 ---
 title: CertificateFilePath
 second_title: GroupDocs.Signature for .NET API 参考
-description: 数字证书的文件路径
+description: 数字证书文件路径.
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.options/digitalverifyoptions/certificatefilepath/
 ---
 ## DigitalVerifyOptions.CertificateFilePath property
 
-数字证书的文件路径。
+数字证书文件路径.
 
 ```csharp
 public string CertificateFilePath { get; set; }

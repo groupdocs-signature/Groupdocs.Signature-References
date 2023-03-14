@@ -1,14 +1,14 @@
 ---
 title: Background
 second_title: Referencia de API de GroupDocs.Signature para .NET
-description: Obtener o establecer el color de fondo de la apariencia de la firma. De manera predeterminada el valor es SystemColors.Windows
+description: Obtener o establecer el color de fondo de la apariencia de la firma. De forma predeterminada el valor es SystemColors.Windows
 type: docs
 weight: 20
 url: /es/net/groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/background/
 ---
 ## PdfDigitalSignatureAppearance.Background property
 
-Obtener o establecer el color de fondo de la apariencia de la firma. De manera predeterminada, el valor es SystemColors.Windows
+Obtener o establecer el color de fondo de la apariencia de la firma. De forma predeterminada, el valor es SystemColors.Windows
 
 ```csharp
 public Color Background { get; set; }

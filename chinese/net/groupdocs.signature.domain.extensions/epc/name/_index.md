@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置受益人姓名最大长度为 70 个字符
+description: 获取或设置收款人姓名最大长度为 70 个字符
 type: docs
 weight: 90
 url: /zh/net/groupdocs.signature.domain.extensions/epc/name/
 ---
 ## EPC.Name property
 
-获取或设置受益人姓名。最大长度为 70 个字符。
+获取或设置收款人姓名。最大长度为 70 个字符。
 
 ```csharp
 public string Name { get; set; }

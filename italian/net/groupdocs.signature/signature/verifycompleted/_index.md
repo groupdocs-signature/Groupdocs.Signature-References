@@ -1,14 +1,14 @@
 ---
 title: VerifyCompleted
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Si verifica al completamento del processo di verifica della firma.
+description: Si verifica quando il processo di verifica della firma è completato.
 type: docs
 weight: 80
 url: /it/net/groupdocs.signature/signature/verifycompleted/
 ---
 ## Signature.VerifyCompleted event
 
-Si verifica al completamento del processo di verifica della firma.
+Si verifica quando il processo di verifica della firma è completato.
 
 ```csharp
 public event ProcessCompleteEventHandler VerifyCompleted;

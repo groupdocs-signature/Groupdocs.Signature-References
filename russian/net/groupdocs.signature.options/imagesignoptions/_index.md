@@ -3,7 +3,7 @@ title: ImageSignOptions
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет параметры подписи изображения.
 type: docs
-weight: 1340
+weight: 1420
 url: /ru/net/groupdocs.signature.options/imagesignoptions/
 ---
 ## ImageSignOptions class
@@ -62,7 +62,7 @@ public class ImageSignOptions : SignOptions, IAlignment, IDisposable, IRectangle
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Основное использование создания электронной подписи изображения с помощью GroupDocs.Signature: [Как подписать документ электронной подписью с подписью изображения](https://docs.groupdocs.com/display/signaturenet/eSign+document+with+Image+signature)
 * Расширенное использование настроек электронной подписи Изображение с GroupDocs.Signature: [Расширенное использование документа eSign с подписью изображения и дополнительными настройками](https://docs.groupdocs.com/display/signaturenet/Sign+document+with+Image+signature+-+advanced)

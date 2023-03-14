@@ -1,14 +1,14 @@
 ---
 title: TotalSignatures
 second_title: GroupDocs.Signature for .NET API 参考
-description: 表示要处理的签名总数
+description: 表示待处理的签名总数
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature/processstarteventargs/totalsignatures/
 ---
 ## ProcessStartEventArgs.TotalSignatures property
 
-表示要处理的签名总数。
+表示待处理的签名总数。
 
 ```csharp
 public int TotalSignatures { get; set; }

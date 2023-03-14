@@ -1,14 +1,14 @@
 ---
 title: Address
 second_title: Referencia de API de GroupDocs.Signature para .NET
-description: Obtiene o establece la dirección pública de moneda criptográfica.
+description: Obtiene o establece la dirección pública de la criptomoneda.
 type: docs
 weight: 20
 url: /es/net/groupdocs.signature.domain.extensions/cryptocurrencytransfer/address/
 ---
 ## CryptoCurrencyTransfer.Address property
 
-Obtiene o establece la dirección pública de moneda criptográfica.
+Obtiene o establece la dirección pública de la criptomoneda.
 
 ```csharp
 public string Address { get; set; }

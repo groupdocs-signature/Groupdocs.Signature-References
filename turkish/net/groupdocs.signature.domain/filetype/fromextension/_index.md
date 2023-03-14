@@ -3,7 +3,7 @@ title: FromExtension
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Dosya uzantısını dosya türüyle eşler.
 type: docs
-weight: 570
+weight: 580
 url: /tr/net/groupdocs.signature.domain/filetype/fromextension/
 ---
 ## FileType.FromExtension method
@@ -16,7 +16,7 @@ public static FileType FromExtension(string extension)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| extension | String | Dosya uzantısı ("." dönemi dahil). |
+| extension | String | Dosya uzantısı ("." Noktası dahil). |
 
 ### Geri dönüş değeri
 
@@ -26,7 +26,7 @@ Dosya türü desteklendiğinde onu döndürür, aksi takdirde varsayılanı dön
 
 | istisna | şart |
 | --- | --- |
-| ArgumentException | ne zaman atıldı*extension* null veya boş dizedir. |
+| ArgumentException | Ne zaman atıldı*extension* null veya boş dizedir. |
 
 ### Ayrıca bakınız
 

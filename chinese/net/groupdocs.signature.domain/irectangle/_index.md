@@ -1,14 +1,14 @@
 ---
 title: IRectangle
 second_title: GroupDocs.Signature for .NET API 参考
-description: 定义文档页面上签名区域的界面属性
+description: 定义文档页面上签名区域的接口属性
 type: docs
-weight: 500
+weight: 520
 url: /zh/net/groupdocs.signature.domain/irectangle/
 ---
 ## IRectangle interface
 
-定义文档页面上签名区域的界面属性。
+定义文档页面上签名区域的接口属性。
 
 ```csharp
 public interface IRectangle
@@ -18,13 +18,13 @@ public interface IRectangle
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Height](../../groupdocs.signature.domain/irectangle/height) { get; set; } | 文档页面上签名区域的高度，以度量单位 （像素、百分比或毫米见[`MeasureType`](../measuretype)SizeMeasureType). |
-| [Left](../../groupdocs.signature.domain/irectangle/left) { get; set; } | 文档页面上签名区域的左 X 位置，以度量单位 （像素、百分比或毫米见[`MeasureType`](../measuretype)LocationMeasureType). |
+| [Height](../../groupdocs.signature.domain/irectangle/height) { get; set; } | 文档页面上签名区域的高度，单位为 （像素、百分比或毫米，请参阅[`MeasureType`](../measuretype)SizeMeasureType). |
+| [Left](../../groupdocs.signature.domain/irectangle/left) { get; set; } | 文档页面上签名区域的左侧 X 位置，以测量单位表示 （像素、百分比或毫米，请参阅[`MeasureType`](../measuretype)LocationMeasureType). |
 | [LocationMeasureType](../../groupdocs.signature.domain/irectangle/locationmeasuretype) { get; set; } | Left 和 Top 属性的测量类型（像素、百分比或毫米）。 |
 | [SizeMeasureType](../../groupdocs.signature.domain/irectangle/sizemeasuretype) { get; set; } | 宽度和高度属性的测量类型（像素、百分比或毫米）。 |
 | [Stretch](../../groupdocs.signature.domain/irectangle/stretch) { get; set; } | 文档页面上的拉伸模式。 |
-| [Top](../../groupdocs.signature.domain/irectangle/top) { get; set; } | 文档页面上签名区域的顶部 Y 位置，以度量单位 （像素、百分比或毫米见[`MeasureType`](../measuretype)LocationMeasureType). |
-| [Width](../../groupdocs.signature.domain/irectangle/width) { get; set; } | 文档页面上签名区域的宽度，以测量值 （像素、百分比或毫米见[`MeasureType`](../measuretype)SizeMeasureType). |
+| [Top](../../groupdocs.signature.domain/irectangle/top) { get; set; } | 文档页面上签名区域的顶部 Y 位置，以测量单位 （像素、百分比或毫米见[`MeasureType`](../measuretype)LocationMeasureType). |
+| [Width](../../groupdocs.signature.domain/irectangle/width) { get; set; } | 文档页面上签名区域的宽度，测量值 （像素、百分比或毫米见[`MeasureType`](../measuretype)SizeMeasureType). |
 
 ### 也可以看看
 

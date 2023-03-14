@@ -3,7 +3,7 @@ title: ComboboxFormFieldSignature
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Содержит свойства подписи поля формы ввода со списком.
 type: docs
-weight: 90
+weight: 100
 url: /ru/net/groupdocs.signature.domain/comboboxformfieldsignature/
 ---
 ## ComboboxFormFieldSignature class

@@ -3,7 +3,7 @@ title: XLTM
 second_title: GroupDocs.Signature لمرجع .NET API
 description: قالب ملف Excel Office OpenXML .xltm يمثل تنسيق ملف قالب Excel . تعرف على المزيد حول تنسيق الملف هذاهناhttps//wiki.fileformat.com/spreadsheet/xltm .
 type: docs
-weight: 560
+weight: 570
 url: /ar/net/groupdocs.signature.domain/filetype/xltm/
 ---
 ## FileType.XLTM field

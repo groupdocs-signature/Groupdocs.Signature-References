@@ -1,14 +1,14 @@
 ---
 title: WordProcessingMetadataSignature
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Crea la firma dei metadati di elaborazione testi con nome predefinito e valore vuoto.
+description: Crea la firma dei metadati di WordProcessing con un nome predefinito e un valore vuoto.
 type: docs
 weight: 10
 url: /it/net/groupdocs.signature.domain/wordprocessingmetadatasignature/wordprocessingmetadatasignature/
 ---
 ## WordProcessingMetadataSignature(string) {#constructor}
 
-Crea la firma dei metadati di elaborazione testi con nome predefinito e valore vuoto.
+Crea la firma dei metadati di WordProcessing con un nome predefinito e un valore vuoto.
 
 ```csharp
 public WordProcessingMetadataSignature(string name)
@@ -16,7 +16,7 @@ public WordProcessingMetadataSignature(string name)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| name | String | Nome della firma dei metadati di elaborazione testi. |
+| name | String | Nome della firma dei metadati di elaborazione di testi. |
 
 ### Guarda anche
 

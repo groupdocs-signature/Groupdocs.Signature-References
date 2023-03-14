@@ -3,7 +3,7 @@ title: CreatePageStream
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Delegato che definisce il metodo per creare il flusso di anteprima della pagina di output.
 type: docs
-weight: 1230
+weight: 1310
 url: /it/net/groupdocs.signature.options/createpagestream/
 ---
 ## CreatePageStream delegate
@@ -16,7 +16,7 @@ public delegate Stream CreatePageStream(int pageNumber);
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pageNumber | Int32 | Il numero di pagine visualizzate in anteprima. |
+| pageNumber | Int32 | Il numero della pagina visualizzata in anteprima. |
 
 ### Guarda anche
 

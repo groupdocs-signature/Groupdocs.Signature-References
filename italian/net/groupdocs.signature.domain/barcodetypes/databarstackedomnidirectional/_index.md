@@ -1,14 +1,14 @@
 ---
 title: DatabarStackedOmniDirectional
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: DatabarStackedOmniDirectional Tipo di oggetto codice a barre.
+description: DatabarStackedOmniDirectional Oggetto tipo di codice a barre.
 type: docs
 weight: 190
 url: /it/net/groupdocs.signature.domain/barcodetypes/databarstackedomnidirectional/
 ---
 ## BarcodeTypes.DatabarStackedOmniDirectional field
 
-DatabarStackedOmniDirectional Tipo di oggetto codice a barre.
+DatabarStackedOmniDirectional Oggetto tipo di codice a barre.
 
 ```csharp
 public static readonly BarcodeType DatabarStackedOmniDirectional;

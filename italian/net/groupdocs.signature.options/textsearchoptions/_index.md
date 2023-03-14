@@ -3,7 +3,7 @@ title: TextSearchOptions
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Rappresenta le opzioni di ricerca per le firme di testo.
 type: docs
-weight: 1640
+weight: 1720
 url: /it/net/groupdocs.signature.options/textsearchoptions/
 ---
 ## TextSearchOptions class
@@ -29,13 +29,13 @@ public class TextSearchOptions : SearchOptions
 | [MatchType](../../groupdocs.signature.options/textsearchoptions/matchtype) { get; set; } | Ottiene o imposta la ricerca del tipo di corrispondenza del testo. |
 | [PageNumber](../../groupdocs.signature.options/searchoptions/pagenumber) { get; set; } | Ottiene o imposta il numero di pagina del documento per la ricerca. Il valore è facoltativo. |
 | [PagesSetup](../../groupdocs.signature.options/searchoptions/pagessetup) { get; set; } | Opzioni per specificare le pagine per la ricerca della firma. |
-| [SignatureImplementation](../../groupdocs.signature.options/textsearchoptions/signatureimplementation) { get; set; } | Specifica l'implementazione della firma di testo da cercare. |
+| [SignatureImplementation](../../groupdocs.signature.options/textsearchoptions/signatureimplementation) { get; set; } | Specifica l'implementazione della firma del testo da cercare. |
 | [SkipExternal](../../groupdocs.signature.options/searchoptions/skipexternal) { get; set; } | Flag per restituire solo le firme contrassegnate come IsSignature. Per impostazione predefinita, il valore è false che indica di restituire tutte le firme che corrispondono ai criteri specificati. |
-| [Text](../../groupdocs.signature.options/textsearchoptions/text) { get; set; } | Specifica il testo della firma da abbinare durante la ricerca. |
+| [Text](../../groupdocs.signature.options/textsearchoptions/text) { get; set; } | Specifica il testo della firma da abbinare alla ricerca. |
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Utilizzo di base della ricerca della firma elettronica del testo da parte di GroupDocs.Signature: [ Come eSearch Firme di testo in un documento](https://docs.groupdocs.com/display/signaturenet/Search+for+Text+e-signatures)
 * Utilizzo avanzato delle impostazioni di ricerca della firma elettronica del testo con GroupDocs.Signature: [Utilizzo avanzato delle firme di testo eSearch in un documento e impostazioni aggiuntive](https://docs.groupdocs.com/display/signaturenet/Advanced+search+for+Text+signatures)

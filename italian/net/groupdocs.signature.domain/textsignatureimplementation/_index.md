@@ -3,7 +3,7 @@ title: TextSignatureImplementation
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Specifica il tipo di implementazione per la firma del testo PDF.
 type: docs
-weight: 980
+weight: 1010
 url: /it/net/groupdocs.signature.domain/textsignatureimplementation/
 ---
 ## TextSignatureImplementation enumeration

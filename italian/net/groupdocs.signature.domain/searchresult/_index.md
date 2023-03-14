@@ -1,35 +1,41 @@
 ---
 title: SearchResult
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Risultato della ricerca di firme nel documento specificato.
+description: Risultato della ricerca delle firme nel documento specificato.
 type: docs
-weight: 800
+weight: 830
 url: /it/net/groupdocs.signature.domain/searchresult/
 ---
 ## SearchResult class
 
-Risultato della ricerca di firme nel documento specificato.
+Risultato della ricerca delle firme nel documento specificato.
 
 ```csharp
-public class SearchResult : IEnumerable<BaseSignature>
+public class SearchResult : IEnumerable<BaseSignature>, IResult
 ```
 
 ## Proprietà
 
 | Nome | Descrizione |
 | --- | --- |
-| [Signatures](../../groupdocs.signature.domain/searchresult/signatures) { get; } | Elenco delle firme rilevate[`BaseSignature`](../basesignature) . |
+| [DestinDocumentSize](../../groupdocs.signature.domain/searchresult/destindocumentsize) { get; } | Restituisce la dimensione del documento di destinazione. Per il metodo di ricerca restituisce sempre 0. |
+| [ProcessingTime](../../groupdocs.signature.domain/searchresult/processingtime) { get; } | Restituisce il tempo di esecuzione del processo di ricerca in millisecondi. |
+| [Signatures](../../groupdocs.signature.domain/searchresult/signatures) { get; } | Elenco delle firme trovate[`BaseSignature`](../basesignature) . |
+| [SourceDocumentSize](../../groupdocs.signature.domain/searchresult/sourcedocumentsize) { get; } | Restituisce la dimensione del documento di origine |
+| [Succeeded](../../groupdocs.signature.domain/searchresult/succeeded) { get; } | Elenco delle firme trovate[`BaseSignature`](../basesignature) . Questo elenco sarà sempre uguale a[`Signatures`](./signatures) proprietà. |
+| [TotalSignatures](../../groupdocs.signature.domain/searchresult/totalsignatures) { get; } | Restituisce le firme totali elaborate dal processo di ricerca |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
 | [GetEnumerator](../../groupdocs.signature.domain/searchresult/getenumerator)() | Restituisce l'enumeratore. |
-| [ToList&lt;T&gt;](../../groupdocs.signature.domain/searchresult/tolist)() | Fornisce la conversione in un elenco di firme fortemente tipizzato. |
+| [ToList&lt;T&gt;](../../groupdocs.signature.domain/searchresult/tolist)() | Fornisce la conversione in un elenco di firme fortemente tipizzate. |
 
 ### Guarda anche
 
 * class [BaseSignature](../basesignature)
+* interface [IResult](../iresult)
 * spazio dei nomi [GroupDocs.Signature.Domain](../../groupdocs.signature.domain)
 * assemblea [GroupDocs.Signature](../../)
 

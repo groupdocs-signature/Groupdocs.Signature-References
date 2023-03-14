@@ -3,7 +3,7 @@ title: RM4SCC
 second_title: GroupDocs.Signature för .NET API-referens
 description: RM4SCC streckkodstypobjekt.
 type: docs
-weight: 530
+weight: 560
 url: /sv/net/groupdocs.signature.domain/barcodetypes/rm4scc/
 ---
 ## BarcodeTypes.RM4SCC field

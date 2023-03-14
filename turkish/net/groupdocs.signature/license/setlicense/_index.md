@@ -20,7 +20,7 @@ public void SetLicense(string licensePath)
 
 ### Örnekler
 
-Aşağıdaki örnek, lisans dosyasının yolunu geçerek bir lisansın nasıl ayarlanacağını gösterir.
+Aşağıdaki örnek, lisans dosyasına bir yol ileten bir lisansın nasıl ayarlanacağını gösterir.
 
 ```csharp
 string licensePath = "GroupDocs.Signature.lic";
@@ -50,7 +50,7 @@ public void SetLicense(Stream licenseStream)
 
 ### Örnekler
 
-Aşağıdaki örnek, lisans dosyasının Akışını geçen bir lisans öğesinin nasıl ayarlanacağını gösterir.
+Aşağıdaki örnek, lisans dosyasının Akışını geçen bir license 'nin nasıl ayarlanacağını gösterir.
 
 ```csharp
 using (FileStream licenseStream = new FileStream("GroupDocs.Signature.lic", FileMode.Open))

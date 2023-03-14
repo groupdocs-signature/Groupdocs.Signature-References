@@ -1,14 +1,14 @@
 ---
 title: IssuerName
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Doğrulanacak sertifikanın veren adı. Değer büyük/küçük harf duyarlıdır. Bu özellik ayarlanırsa doğrulama İmzanın veren adının iletilen değeri içerip içermediğini kontrol eder
+description: Doğrulanacak sertifikanın veren adı. Değer büyük/küçük harfe duyarlıdır. Bu özellik ayarlanırsa doğrulama İmzanın veren adının geçen değeri içerip içermediğini veya bu değere eşit olup olmadığını kontrol eder
 type: docs
 weight: 70
 url: /tr/net/groupdocs.signature.options/digitalverifyoptions/issuername/
 ---
 ## DigitalVerifyOptions.IssuerName property
 
-Doğrulanacak sertifikanın veren adı. Değer büyük/küçük harf duyarlıdır. Bu özellik ayarlanırsa doğrulama, İmza'nın veren adının iletilen değeri içerip içermediğini kontrol eder
+Doğrulanacak sertifikanın veren adı. Değer, büyük/küçük harfe duyarlıdır. Bu özellik ayarlanırsa doğrulama, İmza'nın veren adının geçen değeri içerip içermediğini veya bu değere eşit olup olmadığını kontrol eder
 
 ```csharp
 public string IssuerName { get; set; }

@@ -3,7 +3,7 @@ title: SymmetricAlgorithmType
 second_title: GroupDocs.Signature for .NET API 参考
 description: 表示对称加密算法类型
 type: docs
-weight: 350
+weight: 370
 url: /zh/net/groupdocs.signature.domain.extensions/symmetricalgorithmtype/
 ---
 ## SymmetricAlgorithmType enumeration
@@ -19,9 +19,9 @@ public enum SymmetricAlgorithmType
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | DES | `0` | 表示 DES 数据加密标准算法。 |
-| TripleDES | `1` | 表示 TripleDES 对称加密算法.. |
-| RC2 | `2` | 表示 RC2 算法。 |
-| Rijndael | `3` | 代表 Rijndael 对称加密算法。 |
+| TripleDES | `1` | 代表TripleDES对称加密算法.. |
+| RC2 | `2` | 代表RC2算法。 |
+| Rijndael | `3` | 表示 Rijndael 对称加密算法。 |
 | AES | `4` | 表示 AES（高级加密标准）加密算法。 |
 | AESNew | `5` | 表示改进的 AES（高级加密标准）加密算法。 |
 

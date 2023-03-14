@@ -1,14 +1,14 @@
 ---
 title: TopRight
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置右上角的值
+description: 获取或设置右上角值
 type: docs
 weight: 70
 url: /zh/net/groupdocs.signature.domain/corners/topright/
 ---
 ## Corners.TopRight property
 
-获取或设置右上角的值。
+获取或设置右上角值。
 
 ```csharp
 public double TopRight { get; set; }

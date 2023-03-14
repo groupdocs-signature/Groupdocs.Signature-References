@@ -1,14 +1,14 @@
 ---
 title: Transparency
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置签名边框透明度值从 0.0不透明到 1.0透明默认值为 0不透明
+description: 获取或设置签名边框透明度值从 0.0不透明到 1.0透明默认值为 0不透明.
 type: docs
 weight: 40
 url: /zh/net/groupdocs.signature.domain/border/transparency/
 ---
 ## Border.Transparency property
 
-获取或设置签名边框透明度（值从 0.0（不透明）到 1.0（透明））。默认值为 0（不透明）。
+获取或设置签名边框透明度（值从 0.0（不透明）到 1.0（透明））。默认值为 0（不透明）.
 
 ```csharp
 public double Transparency { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Content
 second_title: GroupDocs.Signature for .NET API 参考
-description: 指定 Barcode 二进制数据图像内容类型Formatgroupdocs.signature.domain/barcodesignature/format. 默认情况下不会设置此属性 使用属性ReturnContentgroupdocs.signature.options/barcodesearchoptions/returncontent启用此功能
+description: 指定条形码二进制数据图像内容类型Formatgroupdocs.signature.domain/barcodesignature/format. 默认情况下不会设置此属性 使用属性ReturnContentgroupdocs.signature.options/barcodesearchoptions/returncontent启用此功能
 type: docs
 weight: 20
 url: /zh/net/groupdocs.signature.domain/barcodesignature/content/
 ---
 ## BarcodeSignature.Content property
 
-指定 Barcode 二进制数据图像内容类型[`Format`](../format). 默认情况下不会设置此属性。 使用属性[`ReturnContent`](../../../groupdocs.signature.options/barcodesearchoptions/returncontent)启用此功能。
+指定条形码二进制数据图像内容类型[`Format`](../format). 默认情况下不会设置此属性。 使用属性[`ReturnContent`](../../../groupdocs.signature.options/barcodesearchoptions/returncontent)启用此功能。
 
 ```csharp
 public byte[] Content { get; }

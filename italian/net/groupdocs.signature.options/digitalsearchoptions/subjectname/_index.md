@@ -1,14 +1,14 @@
 ---
 title: SubjectName
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Per valori non vuoti specifica il nome del soggetto distinto del certificato da cercare.
+description: Per i valori non vuoti specifica il nome del soggetto distinto del certificato da cercare.
 type: docs
 weight: 60
 url: /it/net/groupdocs.signature.options/digitalsearchoptions/subjectname/
 ---
 ## DigitalSearchOptions.SubjectName property
 
-Per valori non vuoti specifica il nome del soggetto distinto del certificato da cercare.
+Per i valori non vuoti specifica il nome del soggetto distinto del certificato da cercare.
 
 ```csharp
 public string SubjectName { get; set; }

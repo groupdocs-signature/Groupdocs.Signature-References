@@ -3,7 +3,7 @@ title: Parse
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: pasringType adıyla Barkod türünü döndürür. Barkodun adı bilinmiyorsa  İstisna atılacaktır.
 type: docs
-weight: 640
+weight: 670
 url: /tr/net/groupdocs.signature.domain/barcodetypes/parse/
 ---
 ## BarcodeTypes.Parse method

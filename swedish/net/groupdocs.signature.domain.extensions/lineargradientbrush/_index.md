@@ -3,7 +3,7 @@ title: LinearGradientBrush
 second_title: GroupDocs.Signature för .NET API-referens
 description: Representerar linjär gradientborste.
 type: docs
-weight: 270
+weight: 290
 url: /sv/net/groupdocs.signature.domain.extensions/lineargradientbrush/
 ---
 ## LinearGradientBrush class

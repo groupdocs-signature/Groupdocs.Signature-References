@@ -3,7 +3,7 @@ title: ImageSearchOptions
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Rappresenta le opzioni di ricerca per le firme delle immagini.
 type: docs
-weight: 1330
+weight: 1410
 url: /it/net/groupdocs.signature.options/imagesearchoptions/
 ---
 ## ImageSearchOptions class
@@ -30,14 +30,14 @@ public class ImageSearchOptions : SearchOptions
 | [PageNumber](../../groupdocs.signature.options/searchoptions/pagenumber) { get; set; } | Ottiene o imposta il numero di pagina del documento per la ricerca. Il valore è facoltativo. |
 | [PagesSetup](../../groupdocs.signature.options/searchoptions/pagessetup) { get; set; } | Opzioni per specificare le pagine per la ricerca della firma. |
 | [ReturnContent](../../groupdocs.signature.options/imagesearchoptions/returncontent) { get; set; } | Ottiene o imposta il flag per catturare il contenuto dell'immagine della firma sulla pagina del documento. Se questo flag è impostato su true, il contenuto della firma dell'immagine manterrà i dati dell'immagine non elaborata nel formato richiesto[`ReturnContentType`](./returncontenttype) . Per impostazione predefinita questa opzione è disabilitata. |
-| [ReturnContentType](../../groupdocs.signature.options/imagesearchoptions/returncontenttype) { get; set; } | Specifica il tipo di file del contenuto restituito della firma dell'immagine quando la proprietà ReturnContent è abilitata. Per impostazione predefinita è impostata su Null. Ciò significa restituire il contenuto dell'immagine nel formato originale. Questo formato immagine è specificato in[`Format`](../../groupdocs.signature.domain/imagesignature/format) I possibili valori supportati sono: TipoFile.JPEG, TipoFile.PNG, TipoFile.BMP. Se il formato fornito non è supportato, verrà restituito il contenuto dell'immagine nel formato originale. |
+| [ReturnContentType](../../groupdocs.signature.options/imagesearchoptions/returncontenttype) { get; set; } | Specifica il tipo di file del contenuto restituito della firma dell'immagine quando la proprietà ReturnContent è abilitata. Per impostazione predefinita è impostata su Null. Ciò significa restituire il contenuto dell'immagine nel formato originale. Questo formato immagine è specificato in[`Format`](../../groupdocs.signature.domain/imagesignature/format) I possibili valori supportati sono: FileType.JPEG, FileType.PNG, FileType.BMP. Se il formato fornito non è supportato, verrà restituito il contenuto dell'immagine nel formato originale. |
 | [SkipExternal](../../groupdocs.signature.options/searchoptions/skipexternal) { get; set; } | Flag per restituire solo le firme contrassegnate come IsSignature. Per impostazione predefinita, il valore è false che indica di restituire tutte le firme che corrispondono ai criteri specificati. |
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
-* Utilizzo di base della ricerca della firma elettronica dell'immagine da parte di GroupDocs.Signature: [ Come eseguire la ricerca elettronica delle firme di immagini in un documento](https://docs.groupdocs.com/display/signaturenet/Search+for+Image+e-signatures)
+* Utilizzo di base della ricerca della firma elettronica dell'immagine da parte di GroupDocs.Signature: [ Come eSearch Firme di immagini in un documento](https://docs.groupdocs.com/display/signaturenet/Search+for+Image+e-signatures)
 * Utilizzo avanzato delle impostazioni di ricerca della firma elettronica dell'immagine con GroupDocs.Signature: [Utilizzo avanzato delle firme di eSearch Image in un documento e impostazioni aggiuntive](https://docs.groupdocs.com/display/signaturenet/Advanced+search+for+Image+signatures)
 
 ### Guarda anche

@@ -3,7 +3,7 @@ title: Planet
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Объект типа штрихкода планеты.
 type: docs
-weight: 500
+weight: 530
 url: /ru/net/groupdocs.signature.domain/barcodetypes/planet/
 ---
 ## BarcodeTypes.Planet field

@@ -3,7 +3,7 @@ title: VerticalAlignment
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Belge sayfasındaki öğenin dikey hizalamasını belirtir.
 type: docs
-weight: 1030
+weight: 1060
 url: /tr/net/groupdocs.signature.domain/verticalalignment/
 ---
 ## VerticalAlignment enumeration
@@ -18,8 +18,8 @@ public enum VerticalAlignment
 
 | İsim | Değer | Tanım |
 | --- | --- | --- |
-| None | `0` | Nesne, genellikle Top özelliği kullanılarak açıkça konumlandırılır. |
-| Top | `1` | Nesnenin dikey hizalama tabanının en üstünde olacağını belirtir. |
+| None | `0` | Nesne, genellikle Top özelliği kullanılarak açıkça konumlandırılmıştır. |
+| Top | `1` | Nesnenin dikey hizalama tabanının üstünde olacağını belirtir. |
 | Center | `2` | Nesnenin dikey hizalama tabanına göre ortalanacağını belirtir. |
 | Bottom | `3` | Nesnenin dikey hizalama tabanının altında olacağını belirtir. |
 

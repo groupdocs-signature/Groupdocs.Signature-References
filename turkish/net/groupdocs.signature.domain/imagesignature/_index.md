@@ -3,7 +3,7 @@ title: ImageSignature
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Görüntü imza özelliklerini içerir.
 type: docs
-weight: 570
+weight: 590
 url: /tr/net/groupdocs.signature.domain/imagesignature/
 ---
 ## ImageSignature class
@@ -24,7 +24,7 @@ public class ImageSignature : BaseSignature
 
 | İsim | Tanım |
 | --- | --- |
-| [Content](../../groupdocs.signature.domain/imagesignature/content) { get; } | türündeki görüntü ikili veri içeriğini belirtir[`Format`](./format) . Varsayılan olarak bu özellik ayarlanmaz. Özelliği kullan[`ReturnContent`](../../groupdocs.signature.options/imagesearchoptions/returncontent) bu özelliği etkinleştirmek için. |
+| [Content](../../groupdocs.signature.domain/imagesignature/content) { get; } | türündeki görüntü ikili veri içeriğini belirtir[`Format`](./format) . Varsayılan olarak bu özellik ayarlanmayacaktır. Özelliği kullan[`ReturnContent`](../../groupdocs.signature.options/imagesearchoptions/returncontent) bu özelliği etkinleştirmek için. |
 | [CreatedOn](../../groupdocs.signature.domain/basesignature/createdon) { get; set; } | İmza oluşturma tarihini alın veya ayarlayın. |
 | [Deleted](../../groupdocs.signature.domain/basesignature/deleted) { get; } | Bu imzanın belgeden silinip silinmediğini gösteren bayrağı alın. Bu özellik, silinen imzaların listesini tutmak için yalnızca belge geçmişi günlük kayıtları için kullanılır. |
 | [Format](../../groupdocs.signature.domain/imagesignature/format) { get; } | İmza görüntüsünün formatını belirtir. |

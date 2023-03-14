@@ -1,14 +1,14 @@
 ---
 title: OuterBorder
 second_title: GroupDocs.Signature for .NET API 参考
-description: 设置外边框.
+description: 设置外边框
 type: docs
 weight: 60
 url: /zh/net/groupdocs.signature.domain/stampline/outerborder/
 ---
 ## StampLine.OuterBorder property
 
-设置外边框.
+设置外边框。
 
 ```csharp
 public Border OuterBorder { get; set; }

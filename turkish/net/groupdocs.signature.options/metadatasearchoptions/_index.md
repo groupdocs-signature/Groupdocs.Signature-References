@@ -3,7 +3,7 @@ title: MetadataSearchOptions
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Meta veri imzaları için arama seçeneklerini temsil eder.
 type: docs
-weight: 1400
+weight: 1480
 url: /tr/net/groupdocs.signature.options/metadatasearchoptions/
 ---
 ## MetadataSearchOptions class
@@ -27,7 +27,7 @@ public class MetadataSearchOptions : SearchOptions
 | [AllPages](../../groupdocs.signature.options/searchoptions/allpages) { get; set; } | Her Belge sayfasında arama yapmak için işaretleyin. Varsayılan olarak bu değer true. olarak ayarlanmıştır. |
 | [DataEncryption](../../groupdocs.signature.options/metadatasearchoptions/dataencryption) { get; set; } | Şunun uygulanmasını alır veya ayarlar:[`IDataEncryption`](../../groupdocs.signature.domain.extensions/idataencryption) bu seçenek koleksiyonuyla tüm Meta veri imzalarının şifresini çözmek için arayüz. Bu değer ayarlanırsa, bulunan tüm imzalar varsayılan olarak bu şifrelemeyi veya atanmışsa kendi DataEncryption'ını kullanır. |
 | [IncludeBuiltinProperties](../../groupdocs.signature.options/metadatasearchoptions/includebuiltinproperties) { get; set; } | Belge istatistiği, bilgi vb. Yerleşik belge özelliklerinin Arama sonucuna dahil edilip edilmeyeceğini belirtir. Bu işaretin Sunum, Elektronik Tablo ve Kelime İşleme belge dosya türleri için anlamı vardır. |
-| [Name](../../groupdocs.signature.options/metadatasearchoptions/name) { get; set; } | Aranıp eşleşmesi gerekiyorsa Meta Veri İmza adını belirtir. |
+| [Name](../../groupdocs.signature.options/metadatasearchoptions/name) { get; set; } | Aranması ve eşleşmesi gerekiyorsa Meta Veri İmzası adını belirtir. |
 | [NameMatchType](../../groupdocs.signature.options/metadatasearchoptions/namematchtype) { get; set; } | Meta veri adı Eşleme Türü aramasını alır veya ayarlar. Yalnızca Name özelliği ayarlandığında kullanılır. |
 | [PageNumber](../../groupdocs.signature.options/searchoptions/pagenumber) { get; set; } | Arama için Belge sayfa numarasını alır veya ayarlar. Değer isteğe bağlıdır. |
 | [PagesSetup](../../groupdocs.signature.options/searchoptions/pagessetup) { get; set; } | İmza araması için sayfaları belirleme seçenekleri. |
@@ -37,8 +37,8 @@ public class MetadataSearchOptions : SearchOptions
 
 **Daha fazla bilgi edin**
 
-* GroupDocs tarafından Meta Veri elektronik imzası aramasının temel kullanımı.İmza: [ Bir belgede Meta Veri imzalarında e-Arama nasıl yapılır](https://docs.groupdocs.com/display/signaturenet/Search+for+Metadata+e-signatures)
-* GroupDocs ile Meta Veri elektronik imzası arama ayarlarının gelişmiş kullanımı.İmza: [Bir belgede eSearch Meta Veri imzalarının gelişmiş kullanımı ve ek ayarlar](https://docs.groupdocs.com/display/signaturenet/Search+for+built-in+Metadata+signatures)
+* GroupDocs.Signature tarafından Meta veri elektronik imza aramasının temel kullanımı: [ Bir belgede Meta veri imzalarını e-Arama](https://docs.groupdocs.com/display/signaturenet/Search+for+Metadata+e-signatures)
+* GroupDocs.Signature ile Meta veri elektronik imza arama ayarlarının gelişmiş kullanımı: [Bir belgede eSearch Metadata imzalarının gelişmiş kullanımı ve ek ayarlar](https://docs.groupdocs.com/display/signaturenet/Search+for+built-in+Metadata+signatures)
 
 ### Ayrıca bakınız
 

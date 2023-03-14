@@ -3,7 +3,7 @@ title: ToDecimal
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Ondalık Sayıya Dönüştürür.
 type: docs
-weight: 100
+weight: 110
 url: /tr/net/groupdocs.signature.domain/metadatasignature/todecimal/
 ---
 ## ToDecimal() {#todecimal}

@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: GroupDocs.Signature for .NET API 参考
-description: 重写的方法用作转换为字符串类型
+description: 重写方法作为字符串类型的转换
 type: docs
 weight: 50
 url: /zh/net/groupdocs.signature.domain/stamptype/tostring/
 ---
 ## StampType.ToString method
 
-重写的方法用作转换为字符串类型。
+重写方法作为字符串类型的转换。
 
 ```csharp
 public override string ToString()

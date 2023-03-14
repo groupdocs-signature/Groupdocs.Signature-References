@@ -3,7 +3,7 @@ title: SignatureFont
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Font özelliklerini belirtmek için SignatureFont sınıfı örneğini oluşturur.
 type: docs
-weight: 820
+weight: 850
 url: /tr/net/groupdocs.signature.domain/signaturefont/
 ---
 ## SignatureFont class

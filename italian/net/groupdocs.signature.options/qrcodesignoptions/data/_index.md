@@ -1,14 +1,14 @@
 ---
 title: Data
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Ottiene o imposta loggetto personalizzato da serializzare in contenuto QRCode.
+description: Ottiene o imposta loggetto personalizzato da serializzare nel contenuto del codice QR.
 type: docs
 weight: 30
 url: /it/net/groupdocs.signature.options/qrcodesignoptions/data/
 ---
 ## QrCodeSignOptions.Data property
 
-Ottiene o imposta l'oggetto personalizzato da serializzare in contenuto QR-Code.
+Ottiene o imposta l'oggetto personalizzato da serializzare nel contenuto del codice QR.
 
 ```csharp
 public object Data { get; set; }

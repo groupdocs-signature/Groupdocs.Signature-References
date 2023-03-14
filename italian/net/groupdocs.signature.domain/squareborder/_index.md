@@ -3,7 +3,7 @@ title: SquareBorder
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Istanza per mantenere le proprietà della linea del bordo per la linea del timbro quadrato.
 type: docs
-weight: 860
+weight: 890
 url: /it/net/groupdocs.signature.domain/squareborder/
 ---
 ## SquareBorder class

@@ -3,7 +3,7 @@ title: IDocumentInfo
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحدد خصائص وصف الوثيقة.
 type: docs
-weight: 490
+weight: 510
 url: /ar/net/groupdocs.signature.domain/idocumentinfo/
 ---
 ## IDocumentInfo interface
@@ -25,6 +25,7 @@ public interface IDocumentInfo
 | [FormFieldSignatures](../../groupdocs.signature.domain/idocumentinfo/formfieldsignatures) { get; } | مجموعة توقيعات حقل نموذج المستند التي تمت إضافتها أو تحديثها بواسطة[`Signature`](../../groupdocs.signature/signature) الأساليب . |
 | [ImageSignatures](../../groupdocs.signature.domain/idocumentinfo/imagesignatures) { get; } | تمت إضافة مجموعة توقيعات صورة المستند أو تحديثها بواسطة[`Signature`](../../groupdocs.signature/signature) الأساليب . |
 | [MaxPageHeight](../../groupdocs.signature.domain/idocumentinfo/maxpageheight) { get; set; } | يحدد أقصى ارتفاع للصفحة. |
+| [MetadataSignatures](../../groupdocs.signature.domain/idocumentinfo/metadatasignatures) { get; } | مجموعة تواقيع البيانات الوصفية للوثيقة . |
 | [PageCount](../../groupdocs.signature.domain/idocumentinfo/pagecount) { get; set; } | عدد صفحات المستند . |
 | [Pages](../../groupdocs.signature.domain/idocumentinfo/pages) { get; set; } | مجموعة أوصاف صفحات الوثيقة. |
 | [ProcessLogs](../../groupdocs.signature.domain/idocumentinfo/processlogs) { get; } | مجموعة من سجلات عملية محفوظات المستند . |

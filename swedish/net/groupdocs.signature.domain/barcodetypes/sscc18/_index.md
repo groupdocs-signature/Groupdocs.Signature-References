@@ -3,7 +3,7 @@ title: SSCC18
 second_title: GroupDocs.Signature för .NET API-referens
 description: SSCC18 Barcode Type object.
 type: docs
-weight: 560
+weight: 590
 url: /sv/net/groupdocs.signature.domain/barcodetypes/sscc18/
 ---
 ## BarcodeTypes.SSCC18 field

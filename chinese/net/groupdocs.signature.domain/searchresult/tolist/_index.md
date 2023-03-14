@@ -3,7 +3,7 @@ title: ToList
 second_title: GroupDocs.Signature for .NET API 参考
 description: 提供到强类型签名列表的转换
 type: docs
-weight: 30
+weight: 80
 url: /zh/net/groupdocs.signature.domain/searchresult/tolist/
 ---
 ## SearchResult.ToList&lt;T&gt; method
@@ -17,7 +17,7 @@ public List<T> ToList<T>()
 
 | 范围 | 描述 |
 | --- | --- |
-| T | 列表中的签名类型。 |
+| T | 列表中签名的类型。 |
 
 ### 返回值
 

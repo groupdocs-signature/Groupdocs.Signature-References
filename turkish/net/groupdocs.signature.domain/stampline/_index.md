@@ -3,7 +3,7 @@ title: StampLine
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Damga satırı özelliklerini belirtin.
 type: docs
-weight: 880
+weight: 910
 url: /tr/net/groupdocs.signature.domain/stampline/
 ---
 ## StampLine class
@@ -28,7 +28,7 @@ public class StampLine
 | [Font](../../groupdocs.signature.domain/stampline/font) { get; set; } | Damga Satırı metninin Yazı Tipini alır veya ayarlar. |
 | [Height](../../groupdocs.signature.domain/stampline/height) { get; set; } | Damga üzerindeki satır yüksekliğini alır veya ayarlar. |
 | [InnerBorder](../../groupdocs.signature.domain/stampline/innerborder) { get; set; } | İç Sınırı Ayarlayın. |
-| [OuterBorder](../../groupdocs.signature.domain/stampline/outerborder) { get; set; } | Dış Sınırı Ayarlayın. |
+| [OuterBorder](../../groupdocs.signature.domain/stampline/outerborder) { get; set; } | Dış Kenarlığı Ayarlayın. |
 | [Text](../../groupdocs.signature.domain/stampline/text) { get; set; } | Damga satırının metnini alır veya ayarlar. |
 | [TextBottomIntent](../../groupdocs.signature.domain/stampline/textbottomintent) { get; set; } | Metnin alt amacını alır veya ayarlar. |
 | [TextColor](../../groupdocs.signature.domain/stampline/textcolor) { get; set; } | İmzanın metin rengini alır veya ayarlar. |

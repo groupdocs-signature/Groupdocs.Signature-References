@@ -1,14 +1,14 @@
 ---
 title: PdfTextAnnotationAppearance
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: PDF imza metni açıklama görünüm nesnesi oluşturur.
+description: PDF imza metni ek açıklama görünüm nesnesi oluşturur.
 type: docs
 weight: 10
 url: /tr/net/groupdocs.signature.options.appearances/pdftextannotationappearance/pdftextannotationappearance/
 ---
 ## PdfTextAnnotationAppearance() {#constructor}
 
-PDF imza metni açıklama görünüm nesnesi oluşturur.
+PDF imza metni ek açıklama görünüm nesnesi oluşturur.
 
 ```csharp
 public PdfTextAnnotationAppearance()
@@ -24,7 +24,7 @@ public PdfTextAnnotationAppearance()
 
 ## PdfTextAnnotationAppearance(string, string, string) {#constructor_1}
 
-Belirtilen değerlerle (başlık, konu, içerik) PDF imza metni ek açıklaması oluşturur.
+Belirtilen değerlerle (başlık, konu, içerik) PDF imza metni notu oluşturur.
 
 ```csharp
 public PdfTextAnnotationAppearance(string title, string subject, string contents)
@@ -34,7 +34,7 @@ public PdfTextAnnotationAppearance(string title, string subject, string contents
 | --- | --- | --- |
 | title | String | Başlık. |
 | subject | String | Ders. |
-| contents | String | İçindekiler |
+| contents | String | içindekiler. |
 
 ### Ayrıca bakınız
 

@@ -1,14 +1,14 @@
 ---
 title: TextSignature
 second_title: .NET API Başvurusu için GroupDocs.Signature
-description: Arama işleminden sonra elde edilen imza tanımlayıcılı TextSignature nesnesini başlat. Bu benzersiz tanımlayıcı belge imza bilgi katmanından bu imza için ek özellikler bulmak için kullanılır.
+description: TextSignature nesnesini arama işleminden sonra elde edilen imza tanımlayıcıyla başlat. Bu benzersiz tanımlayıcı belge imza bilgisi katmanından bu imza için ek özellikler bulmak için kullanılır.
 type: docs
 weight: 10
 url: /tr/net/groupdocs.signature.domain/textsignature/textsignature/
 ---
 ## TextSignature constructor
 
-Arama işleminden sonra elde edilen imza tanımlayıcılı TextSignature nesnesini başlat. Bu benzersiz tanımlayıcı, belge imza bilgi katmanından bu imza için ek özellikler bulmak için kullanılır.
+TextSignature nesnesini, arama işleminden sonra elde edilen imza tanımlayıcıyla başlat. Bu benzersiz tanımlayıcı, belge imza bilgisi katmanından bu imza için ek özellikler bulmak için kullanılır.
 
 ```csharp
 public TextSignature(string signatureId)

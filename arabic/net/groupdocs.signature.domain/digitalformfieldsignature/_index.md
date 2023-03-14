@@ -3,7 +3,7 @@ title: DigitalFormFieldSignature
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يحتوي على خصائص حقل نموذج إدخال التوقيع الرقمي لمستندات Pdf.
 type: docs
-weight: 130
+weight: 140
 url: /ar/net/groupdocs.signature.domain/digitalformfieldsignature/
 ---
 ## DigitalFormFieldSignature class

@@ -3,7 +3,7 @@ title: EPC
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Avrupa Ödemeler Konseyi Hızlı Yanıt Kodunu Temsil Eder.
 type: docs
-weight: 210
+weight: 230
 url: /tr/net/groupdocs.signature.domain.extensions/epc/
 ---
 ## EPC class

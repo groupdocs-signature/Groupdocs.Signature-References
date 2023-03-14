@@ -3,7 +3,7 @@ title: BarcodeVerifyOptions
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Rappresenta le opzioni di verifica del codice a barre.
 type: docs
-weight: 1200
+weight: 1270
 url: /it/net/groupdocs.signature.options/barcodeverifyoptions/
 ---
 ## BarcodeVerifyOptions class
@@ -42,7 +42,7 @@ public class BarcodeVerifyOptions : TextVerifyOptions
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Utilizzo di base della verifica per la firma elettronica del codice a barre da parte di GroupDocs.Signature: [ Come eVerification Firme di codici a barre in un documento](https://docs.groupdocs.com/display/signaturenet/Verify+Barcode+signatures+in+the+document)
 * Utilizzo avanzato delle impostazioni di verifica per la firma elettronica del codice a barre con GroupDocs.Signature: [Utilizzo avanzato delle firme dei codici a barre eVerification in un documento e impostazioni aggiuntive]()

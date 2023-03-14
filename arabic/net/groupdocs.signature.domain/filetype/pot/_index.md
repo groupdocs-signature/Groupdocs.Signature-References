@@ -3,7 +3,7 @@ title: POT
 second_title: GroupDocs.Signature لمرجع .NET API
 description: قالب PowerPoint .pot يمثل ملفات قوالب Microsoft PowerPoint التي تم إنشاؤها بواسطة إصدارات PowerPoint 972003. تعرف على المزيد حول تنسيق الملف هذاهناhttps//wiki.fileformat.com/presentation/pot .
 type: docs
-weight: 290
+weight: 300
 url: /ar/net/groupdocs.signature.domain/filetype/pot/
 ---
 ## FileType.POT field

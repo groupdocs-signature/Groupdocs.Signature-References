@@ -3,7 +3,7 @@ title: FromExtension
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Сопоставляет расширение файла с типом файла.
 type: docs
-weight: 570
+weight: 580
 url: /ru/net/groupdocs.signature.domain/filetype/fromextension/
 ---
 ## FileType.FromExtension method

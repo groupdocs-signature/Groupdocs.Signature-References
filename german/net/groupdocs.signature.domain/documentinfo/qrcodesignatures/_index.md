@@ -3,7 +3,7 @@ title: QrCodeSignatures
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Sammlung von DokumentQRCodeSignaturen hinzugefügt oder aktualisiert vonSignaturegroupdocs.signature/signature Methoden.
 type: docs
-weight: 120
+weight: 130
 url: /de/net/groupdocs.signature.domain/documentinfo/qrcodesignatures/
 ---
 ## DocumentInfo.QrCodeSignatures property

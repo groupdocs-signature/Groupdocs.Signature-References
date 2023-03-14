@@ -1,14 +1,14 @@
 ---
 title: DatabarStacked
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Oggetto tipo codice a barre DatabarStacked.
+description: DatabarStacked Barcode Type oggetto.
 type: docs
 weight: 180
 url: /it/net/groupdocs.signature.domain/barcodetypes/databarstacked/
 ---
 ## BarcodeTypes.DatabarStacked field
 
-Oggetto tipo codice a barre DatabarStacked.
+DatabarStacked Barcode Type oggetto.
 
 ```csharp
 public static readonly BarcodeType DatabarStacked;

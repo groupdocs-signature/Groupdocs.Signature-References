@@ -3,7 +3,7 @@ title: ITF6
 second_title: GroupDocs.Signature لمرجع .NET API
 description: كائن نوع الرمز الشريطي لـ ITF6 .
 type: docs
-weight: 380
+weight: 410
 url: /ar/net/groupdocs.signature.domain/barcodetypes/itf6/
 ---
 ## BarcodeTypes.ITF6 field

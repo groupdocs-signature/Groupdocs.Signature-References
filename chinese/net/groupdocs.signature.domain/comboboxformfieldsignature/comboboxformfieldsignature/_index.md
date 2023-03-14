@@ -1,14 +1,14 @@
 ---
 title: ComboboxFormFieldSignature
 second_title: GroupDocs.Signature for .NET API 参考
-description: 使用预定义的名称创建 ComboboxFormFieldSignature
+description: 创建具有预定义名称的 ComboboxFormFieldSignature
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.domain/comboboxformfieldsignature/comboboxformfieldsignature/
 ---
 ## ComboboxFormFieldSignature(string) {#constructor}
 
-使用预定义的名称创建 ComboboxFormFieldSignature。
+创建具有预定义名称的 ComboboxFormFieldSignature。
 
 ```csharp
 public ComboboxFormFieldSignature(string name)
@@ -28,7 +28,7 @@ public ComboboxFormFieldSignature(string name)
 
 ## ComboboxFormFieldSignature(string, List&lt;string&gt;) {#constructor_1}
 
-使用预定义的名称和选项列表创建 ComboboxFormFieldSignature。
+使用预定义名称和选项列表创建 ComboboxFormFieldSignature。
 
 ```csharp
 public ComboboxFormFieldSignature(string name, List<string> items)
@@ -49,7 +49,7 @@ public ComboboxFormFieldSignature(string name, List<string> items)
 
 ## ComboboxFormFieldSignature(string, List&lt;string&gt;, object) {#constructor_2}
 
-使用预定义的名称、选项列表和选定的值创建 ComboboxFormFieldSignature。
+创建具有预定义名称、选项列表和选定值的 ComboboxFormFieldSignature。
 
 ```csharp
 public ComboboxFormFieldSignature(string name, List<string> items, object selected)

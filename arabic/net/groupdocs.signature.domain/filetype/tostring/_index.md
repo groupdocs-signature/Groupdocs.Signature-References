@@ -3,7 +3,7 @@ title: ToString
 second_title: GroupDocs.Signature لمرجع .NET API
 description: إرجاع سلسلة تمثل الكائن الحالي.
 type: docs
-weight: 620
+weight: 630
 url: /ar/net/groupdocs.signature.domain/filetype/tostring/
 ---
 ## FileType.ToString method

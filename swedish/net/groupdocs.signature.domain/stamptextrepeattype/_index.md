@@ -3,7 +3,7 @@ title: StampTextRepeatType
 second_title: GroupDocs.Signature för .NET API-referens
 description: Anger typ av textupprepning för stämpelrader.
 type: docs
-weight: 890
+weight: 920
 url: /sv/net/groupdocs.signature.domain/stamptextrepeattype/
 ---
 ## StampTextRepeatType enumeration

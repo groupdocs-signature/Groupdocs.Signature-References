@@ -3,7 +3,7 @@ title: VerificationResult
 second_title: GroupDocs.Signature لمرجع .NET API
 description: مثيل للاحتفاظ بنتائج عملية التحقق .
 type: docs
-weight: 1020
+weight: 1050
 url: /ar/net/groupdocs.signature.domain/verificationresult/
 ---
 ## VerificationResult class
@@ -11,23 +11,23 @@ url: /ar/net/groupdocs.signature.domain/verificationresult/
 مثيل للاحتفاظ بنتائج عملية التحقق .
 
 ```csharp
-public class VerificationResult
+public class VerificationResult : IResult
 ```
-
-## المنشئون
-
-| اسم | وصف |
-| --- | --- |
-| [VerificationResult](verificationresult)() | Default_Constructor |
 
 ## الخصائص
 
 | اسم | وصف |
 | --- | --- |
+| [DestinDocumentSize](../../groupdocs.signature.domain/verificationresult/destindocumentsize) { get; } | إرجاع حجم المستند الوجهة. للتحقق من أن هذا المتغير يحتوي دائمًا على صفر. |
 | [IsValid](../../groupdocs.signature.domain/verificationresult/isvalid) { get; } | يعود صحيحًا إذا نجحت عملية التحقق ، وإلا فسيتم إرجاعه إلى خطأ . |
+| [ProcessingTime](../../groupdocs.signature.domain/verificationresult/processingtime) { get; } | إرجاع وقت تنفيذ العملية بالمللي ثانية. |
+| [SourceDocumentSize](../../groupdocs.signature.domain/verificationresult/sourcedocumentsize) { get; } | إرجاع حجم المستند المصدر بالبايت |
+| [Succeeded](../../groupdocs.signature.domain/verificationresult/succeeded) { get; } | قائمة التوقيعات التي تم التحقق منها بنجاح[`BaseSignature`](../basesignature) . |
+| [TotalSignatures](../../groupdocs.signature.domain/verificationresult/totalsignatures) { get; } | إرجاع إجمالي التواقيع المعالجة |
 
 ### أنظر أيضا
 
+* interface [IResult](../iresult)
 * مساحة الاسم [GroupDocs.Signature.Domain](../../groupdocs.signature.domain)
 * المجسم [GroupDocs.Signature](../../)
 

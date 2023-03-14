@@ -1,14 +1,14 @@
 ---
 title: SignatureId
 second_title: GroupDocs.Signature for .NET API 参考
-description: 区分签名的唯一值 使用 SignatureId 标识预览选项
+description: 区分签名的唯一值 使用 SignatureId 识别预览选项
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.options/previewsignatureoptions/signatureid/
 ---
 ## PreviewSignatureOptions.SignatureId property
 
-区分签名的唯一值。 使用 SignatureId 标识预览选项。
+区分签名的唯一值。 使用 SignatureId 识别预览选项。
 
 ```csharp
 public string SignatureId { get; set; }

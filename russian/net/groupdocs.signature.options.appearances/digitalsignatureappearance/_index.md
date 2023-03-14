@@ -3,7 +3,7 @@ title: DigitalSignatureAppearance
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Описывает внешний вид строки подписи для цифровой подписи. Одна строка подписи может применяться только для одной цифровой подписи. Строка подписи всегда находится на первой странице. Эта функция может быть полезна для форматов файлов .docx .doc .odt и .xlsx.
 type: docs
-weight: 1120
+weight: 1190
 url: /ru/net/groupdocs.signature.options.appearances/digitalsignatureappearance/
 ---
 ## DigitalSignatureAppearance class

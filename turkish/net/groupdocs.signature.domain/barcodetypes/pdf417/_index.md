@@ -3,7 +3,7 @@ title: Pdf417
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Pdf417 Barkod Türü nesnesi.
 type: docs
-weight: 480
+weight: 510
 url: /tr/net/groupdocs.signature.domain/barcodetypes/pdf417/
 ---
 ## BarcodeTypes.Pdf417 field

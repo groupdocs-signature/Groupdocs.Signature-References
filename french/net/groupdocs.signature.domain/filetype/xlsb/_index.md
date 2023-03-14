@@ -3,7 +3,7 @@ title: XLSB
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Feuille de calcul binaire Excel .xlsb spécifie le format de fichier binaire Excel qui est une collection denregistrements et de structures qui spécifient le contenu du classeur Excel. En savoir plus sur ce format de fichiericihttps//wiki.fileformat.com/spreadsheet/xlsb .
 type: docs
-weight: 520
+weight: 530
 url: /fr/net/groupdocs.signature.domain/filetype/xlsb/
 ---
 ## FileType.XLSB field

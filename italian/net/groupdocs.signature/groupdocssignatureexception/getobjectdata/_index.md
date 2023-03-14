@@ -16,8 +16,8 @@ public override void GetObjectData(SerializationInfo info, StreamingContext cont
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| info | SerializationInfo | IlSerializationInfo che contiene i dati dell'oggetto serializzato sull'eccezione generata. |
-| context | StreamingContext | IlStreamingContext che contiene informazioni contestuali sull'origine o sulla destinazione. |
+| info | SerializationInfo | ILSerializationInfo che contiene i dati dell'oggetto serializzato sull'eccezione generata. |
+| context | StreamingContext | ILStreamingContext che contiene informazioni contestuali sull'origine o sulla destinazione. |
 
 ### Guarda anche
 

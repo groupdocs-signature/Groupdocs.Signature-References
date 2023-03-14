@@ -3,7 +3,7 @@ title: CreatePageStream
 second_title: GroupDocs.Signature لمرجع .NET API
 description: المفوض الذي يحدد طريقة إنشاء تدفق معاينة صفحة الإخراج.
 type: docs
-weight: 1230
+weight: 1310
 url: /ar/net/groupdocs.signature.options/createpagestream/
 ---
 ## CreatePageStream delegate

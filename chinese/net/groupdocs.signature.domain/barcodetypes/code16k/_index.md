@@ -1,14 +1,14 @@
 ---
 title: Code16K
 second_title: GroupDocs.Signature for .NET API 参考
-description: Code16K 条形码类型对象
+description: Code16K 条码类型对象
 type: docs
 weight: 80
 url: /zh/net/groupdocs.signature.domain/barcodetypes/code16k/
 ---
 ## BarcodeTypes.Code16K field
 
-Code16K 条形码类型对象。
+Code16K 条码类型对象。
 
 ```csharp
 public static readonly BarcodeType Code16K;

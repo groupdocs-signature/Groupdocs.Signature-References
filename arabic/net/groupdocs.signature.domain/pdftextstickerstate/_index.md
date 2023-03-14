@@ -3,7 +3,7 @@ title: PdfTextStickerState
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يصف تعداد حالات ملصقات التعليقات التوضيحية النصية بتنسيق PDF .
 type: docs
-weight: 700
+weight: 730
 url: /ar/net/groupdocs.signature.domain/pdftextstickerstate/
 ---
 ## PdfTextStickerState enumeration

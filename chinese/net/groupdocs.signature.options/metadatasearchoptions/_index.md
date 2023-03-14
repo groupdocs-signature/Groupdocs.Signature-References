@@ -3,7 +3,7 @@ title: MetadataSearchOptions
 second_title: GroupDocs.Signature for .NET API 参考
 description: 表示元数据签名的搜索选项
 type: docs
-weight: 1400
+weight: 1480
 url: /zh/net/groupdocs.signature.options/metadatasearchoptions/
 ---
 ## MetadataSearchOptions class
@@ -25,20 +25,20 @@ public class MetadataSearchOptions : SearchOptions
 | 姓名 | 描述 |
 | --- | --- |
 | [AllPages](../../groupdocs.signature.options/searchoptions/allpages) { get; set; } | 在每个文档页面上搜索的标志。默认情况下，此值设置为 true. |
-| [DataEncryption](../../groupdocs.signature.options/metadatasearchoptions/dataencryption) { get; set; } | 获取或设置的实现[`IDataEncryption`](../../groupdocs.signature.domain.extensions/idataencryption)使用此选项集合解密所有元数据签名的接口。 如果设置了此值，则所有找到的签名将默认使用此加密，如果已分配，则使用其自己的 DataEncryption。 |
-| [IncludeBuiltinProperties](../../groupdocs.signature.options/metadatasearchoptions/includebuiltinproperties) { get; set; } | 指示是否应将文档统计信息、信息等内置文档属性包含在搜索结果中。 此标志对演示文稿、电子表格和文字处理文档文件类型有意义。 |
-| [Name](../../groupdocs.signature.options/metadatasearchoptions/name) { get; set; } | 指定元数据签名名称是否应该被搜索和匹配。 |
-| [NameMatchType](../../groupdocs.signature.options/metadatasearchoptions/namematchtype) { get; set; } | 获取或设置元数据名称匹配类型搜索。仅在设置 Name 属性时使用。 |
+| [DataEncryption](../../groupdocs.signature.options/metadatasearchoptions/dataencryption) { get; set; } | 获取或设置的实现[`IDataEncryption`](../../groupdocs.signature.domain.extensions/idataencryption)使用此选项集合解密所有元数据签名的接口。 如果设置此值，则所有找到的签名将默认使用此加密或它自己的 DataEncryption（如果已分配）。 |
+| [IncludeBuiltinProperties](../../groupdocs.signature.options/metadatasearchoptions/includebuiltinproperties) { get; set; } | 指示内置文档属性（如文档统计信息、信息等）是否应包含在搜索结果中。 此标志对演示文稿、电子表格和文字处理文档文件类型有意义。 |
+| [Name](../../groupdocs.signature.options/metadatasearchoptions/name) { get; set; } | 指定元数据签名名称是否应被搜索和匹配。 |
+| [NameMatchType](../../groupdocs.signature.options/metadatasearchoptions/namematchtype) { get; set; } | 获取或设置元数据名称匹配类型搜索。它仅在设置 Name 属性时使用。 |
 | [PageNumber](../../groupdocs.signature.options/searchoptions/pagenumber) { get; set; } | 获取或设置用于搜索的文档页码。 值是可选的。 |
 | [PagesSetup](../../groupdocs.signature.options/searchoptions/pagessetup) { get; set; } | 用于指定签名搜索页面的选项。 |
 | [SkipExternal](../../groupdocs.signature.options/searchoptions/skipexternal) { get; set; } | 标志以仅返回标记为 IsSignature 的签名。默认值为 false，表示返回所有符合指定条件的签名。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* GroupDocs.Signature 搜索元数据电子签名的基本用法： [如何在文档中搜索元数据签名](https://docs.groupdocs.com/display/signaturenet/Search+for+Metadata+e-signatures)
-* 使用 GroupDocs.Signature 搜索元数据电子签名设置的高级用法： [文档中 eSearch 元数据签名的高级使用和其他设置](https://docs.groupdocs.com/display/signaturenet/Search+for+built-in+Metadata+signatures)
+* GroupDocs.Signature: 搜索元数据电子签名的基本用法[如何在文档中搜索元数据签名](https://docs.groupdocs.com/display/signaturenet/Search+for+Metadata+e-signatures)
+* 使用 GroupDocs 搜索元数据电子签名设置的高级用法。签名： [文档中 eSearch 元数据签名的高级用法和其他设置](https://docs.groupdocs.com/display/signaturenet/Search+for+built-in+Metadata+signatures)
 
 ### 也可以看看
 

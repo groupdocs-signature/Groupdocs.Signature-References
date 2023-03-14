@@ -1,14 +1,14 @@
 ---
 title: PdfTextStickerVerifyExtensions
 second_title: GroupDocs.Signature for .NET API 参考
-description: 使用空值创建 PDF 文本贴纸签名验证扩展
+description: 创建具有空值的 PDF 文本标签签名验证扩展
 type: docs
 weight: 10
 url: /zh/net/groupdocs.signature.options/pdftextstickerverifyextensions/pdftextstickerverifyextensions/
 ---
 ## PdfTextStickerVerifyExtensions constructor
 
-使用空值创建 PDF 文本贴纸签名验证扩展。
+创建具有空值的 PDF 文本标签签名验证扩展。
 
 ```csharp
 public PdfTextStickerVerifyExtensions()

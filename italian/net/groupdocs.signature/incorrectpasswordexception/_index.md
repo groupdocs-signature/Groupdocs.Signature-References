@@ -3,7 +3,7 @@ title: IncorrectPasswordException
 second_title: Riferimento API GroupDocs.Signature per .NET
 description: Leccezione generata quando la password specificata non è corretta.
 type: docs
-weight: 1090
+weight: 1120
 url: /it/net/groupdocs.signature/incorrectpasswordexception/
 ---
 ## IncorrectPasswordException class

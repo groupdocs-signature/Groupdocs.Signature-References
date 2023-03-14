@@ -3,7 +3,7 @@ title: TimeStamp
 second_title: .NET API Başvurusu için GroupDocs.Signature
 description: Üçüncü taraf siteden zaman damgası almak için verileri temsil eder.
 type: docs
-weight: 1000
+weight: 1030
 url: /tr/net/groupdocs.signature.domain/timestamp/
 ---
 ## TimeStamp structure

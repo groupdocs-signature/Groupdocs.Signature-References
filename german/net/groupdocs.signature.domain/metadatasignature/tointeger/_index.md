@@ -3,7 +3,7 @@ title: ToInteger
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Konvertiert in Ganzzahl.
 type: docs
-weight: 120
+weight: 130
 url: /de/net/groupdocs.signature.domain/metadatasignature/tointeger/
 ---
 ## MetadataSignature.ToInteger method

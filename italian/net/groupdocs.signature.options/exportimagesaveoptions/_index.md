@@ -1,14 +1,14 @@
 ---
 title: ExportImageSaveOptions
 second_title: Riferimento API GroupDocs.Signature per .NET
-description: Salva le opzioni per esportare i documenti nellimmagine.
+description: Opzioni di salvataggio per lesportazione di documenti in immagine.
 type: docs
-weight: 1280
+weight: 1360
 url: /it/net/groupdocs.signature.options/exportimagesaveoptions/
 ---
 ## ExportImageSaveOptions class
 
-Salva le opzioni per esportare i documenti nell'immagine.
+Opzioni di salvataggio per l'esportazione di documenti in immagine.
 
 ```csharp
 public class ExportImageSaveOptions : ImageSaveOptions
@@ -25,17 +25,17 @@ public class ExportImageSaveOptions : ImageSaveOptions
 
 | Nome | Descrizione |
 | --- | --- |
-| [AddMissingExtenstion](../../groupdocs.signature.options/saveoptions/addmissingextenstion) { get; set; } | Ottiene o imposta il flag per aggiungere automaticamente l'estensione quando mancava nel file di output percorso Il valore predefinito è false. |
+| [AddMissingExtenstion](../../groupdocs.signature.options/saveoptions/addmissingextenstion) { get; set; } | Ottiene o imposta il flag per aggiungere automaticamente l'estensione quando mancava nel file di output path Il valore predefinito è false. |
 | [Border](../../groupdocs.signature.options/exportimagesaveoptions/border) { get; set; } | Ottiene o imposta le impostazioni del bordo dell'immagine. Di default questo valore non è impostato. |
 | [ExportAllPages](../../groupdocs.signature.options/exportimagesaveoptions/exportallpages) { get; set; } | Flag per esportare ogni pagina. |
 | [FileFormat](../../groupdocs.signature.options/imagesaveoptions/fileformat) { get; set; } | Ottiene o imposta il formato file del documento firmato. |
-| [OverwriteExistingFiles](../../groupdocs.signature.options/saveoptions/overwriteexistingfiles) { get; set; } | Ottiene o imposta se sovrascrivere il file esistente con il nuovo file di output. Altrimenti verrà creato un nuovo file con il numero come suffisso. Per impostazione predefinita, questo valore impostato su true significa che il file verrà sovrascritto. |
-| [PageColumns](../../groupdocs.signature.options/exportimagesaveoptions/pagecolumns) { get; set; } | Ottiene o imposta il numero di colonne per le immagini esportate. Usa questa proprietà se hai bisogno di mettere le immagini in una riga. |
+| [OverwriteExistingFiles](../../groupdocs.signature.options/saveoptions/overwriteexistingfiles) { get; set; } | Ottiene o imposta se sovrascrivere il file esistente con il nuovo file di output. Altrimenti verrà creato un nuovo file con numero come suffisso. Per impostazione predefinita, questo valore è impostato su true, il che significa che il file verrà sovrascritto. |
+| [PageColumns](../../groupdocs.signature.options/exportimagesaveoptions/pagecolumns) { get; set; } | Ottiene o imposta il numero di colonne per le immagini esportate. Usa questa proprietà se hai bisogno di mettere le immagini in fila. |
 | [PageNumber](../../groupdocs.signature.options/exportimagesaveoptions/pagenumber) { get; set; } | Ottiene o imposta il numero di pagina del documento per l'esportazione. Il valore minimo è 1. |
 | [PagesSetup](../../groupdocs.signature.options/exportimagesaveoptions/pagessetup) { get; set; } | Opzioni per specificare le pagine da firmare. |
-| [Password](../../groupdocs.signature.options/saveoptions/password) { get; set; } | Ottiene o imposta la password per salvare il documento firmato con protezione tramite password. Questa proprietà non è supportata per i documenti Immagine. |
+| [Password](../../groupdocs.signature.options/saveoptions/password) { get; set; } | Ottiene o imposta la password per salvare il documento firmato con protezione tramite password. Questa proprietà non è supportata per i documenti immagine. |
 | [TiffMultipage](../../groupdocs.signature.options/exportimagesaveoptions/tiffmultipage) { get; set; } | Posiziona le pagine del documento su cornici diverse nell'immagine Tiff. |
-| [UseOriginalPassword](../../groupdocs.signature.options/saveoptions/useoriginalpassword) { get; set; } | Ottiene o imposta se utilizzare la password da LoadOptions per salvare il documento firmato come protetto. Il valore predefinito è true. Questa proprietà non è supportata per i documenti Immagine. |
+| [UseOriginalPassword](../../groupdocs.signature.options/saveoptions/useoriginalpassword) { get; set; } | Ottiene o imposta se utilizzare la password di LoadOptions per salvare il documento firmato come protetto. Il valore predefinito è true. Questa proprietà non è supportata per i documenti immagine. |
 
 ### Guarda anche
 

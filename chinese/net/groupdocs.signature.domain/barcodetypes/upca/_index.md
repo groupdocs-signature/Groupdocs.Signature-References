@@ -1,14 +1,14 @@
 ---
 title: UPCA
 second_title: GroupDocs.Signature for .NET API 参考
-description: UPCA 条形码类型对象
+description: UPCA 条码类型对象
 type: docs
-weight: 590
+weight: 620
 url: /zh/net/groupdocs.signature.domain/barcodetypes/upca/
 ---
 ## BarcodeTypes.UPCA field
 
-UPCA 条形码类型对象。
+UPCA 条码类型对象。
 
 ```csharp
 public static readonly BarcodeType UPCA;

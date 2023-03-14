@@ -16,7 +16,7 @@ public override string ToString()
 
 ### Valor_devuelto
 
-Cuerda.
+Cadena.
 
 ### Ver también
 

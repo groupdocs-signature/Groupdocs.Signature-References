@@ -3,7 +3,7 @@ title: FileType
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Представляет тип файла.
 type: docs
-weight: 430
+weight: 450
 url: /ru/net/groupdocs.signature.domain/filetype/
 ---
 ## FileType class
@@ -65,6 +65,7 @@ public sealed class FileType : IEquatable<FileType>
 | static readonly [OTT](../../groupdocs.signature.domain/filetype/ott) | Шаблон документа OpenDocument (.ott) представляет шаблоны документов, созданные приложениями в соответствии со стандартным форматом OpenDocument OASIS. Узнайте больше об этом формате файла[здесь](https://wiki.fileformat.com/word-processing/ott) . |
 | static readonly [PCL](../../groupdocs.signature.domain/filetype/pcl) | Документ языка управления принтером (.pcl) |
 | static readonly [PDF](../../groupdocs.signature.domain/filetype/pdf) | Portable Document Format File (.pdf) — это тип документа, созданный Adobe еще в 1990-х годах. Цель этого формата файла состояла в том, чтобы ввести стандарт для представления документов и других справочных материалов в формате, который не зависит от прикладного программного обеспечения, аппаратного обеспечения, а также операционной системы. Узнайте больше об этом формате файла[здесь](https://wiki.fileformat.com/view/pdf) . |
+| static readonly [PFX](../../groupdocs.signature.domain/filetype/pfx) | Файл масштабируемой векторной графики (.svg) — это файл скалярной векторной графики, который использует текстовый формат на основе XML для описания внешнего вида изображения. Узнайте больше об этом формате файла[здесь](https://wiki.fileformat.com/page-description-language/svg) . |
 | static readonly [PNG](../../groupdocs.signature.domain/filetype/png) | Portable Network Graphics (.png) — это тип файла растрового изображения, в котором используется сжатие без потерь. Этот формат файла был создан в качестве замены формата обмена графикой (GIF) и не имеет ограничений авторского права. Подробнее об этом формате файла[здесь](https://wiki.fileformat.com/image/png) . |
 | static readonly [POT](../../groupdocs.signature.domain/filetype/pot) | Шаблон PowerPoint (.pot) представляет собой файлы шаблонов Microsoft PowerPoint, созданные версиями PowerPoint 97-2003. Узнайте больше об этом формате файла[здесь](https://wiki.fileformat.com/presentation/pot) . |
 | static readonly [POTM](../../groupdocs.signature.domain/filetype/potm) | Шаблон презентации PowerPoint Open XML с поддержкой макросов (.potm) — это файлы шаблонов Microsoft PowerPoint с поддержкой макросов. Файлы POTM создаются с помощью PowerPoint 2007 или более поздней версии и содержат параметры по умолчанию, которые можно использовать для создания дополнительных файлов презентаций. Подробнее об этом формате файлов[здесь](https://wiki.fileformat.com/presentation/potm) . |
@@ -79,7 +80,7 @@ public sealed class FileType : IEquatable<FileType>
 | static readonly [PSD](../../groupdocs.signature.domain/filetype/psd) | Документ Adobe Photoshop (.psd) представляет собой собственный формат файлов Adobe Photoshop, используемый для проектирования и разработки графики. Узнайте больше об этом формате файла[здесь](https://wiki.fileformat.com/image/psd) . |
 | static readonly [RTF](../../groupdocs.signature.domain/filetype/rtf) | Файл форматированного текста (.rtf) представляет собой метод кодирования форматированного текста и графики для использования в приложениях. Узнайте больше об этом формате файла[здесь](https://wiki.fileformat.com/word-processing/rtf) . |
 | static readonly [SVG](../../groupdocs.signature.domain/filetype/svg) | Файл масштабируемой векторной графики (.svg) — это файл скалярной векторной графики, который использует текстовый формат на основе XML для описания внешнего вида изображения. Узнайте больше об этом формате файла[здесь](https://wiki.fileformat.com/page-description-language/svg) . |
-| static readonly [TIF](../../groupdocs.signature.domain/filetype/tif) | Файл изображения с тегами (.tif) представляет собой растровые изображения, предназначенные для использования на различных устройствах, соответствующих этому стандарту формата файла. Он способен описывать двухуровневые, полутоновые, палитры и полноцветные данные изображения в нескольких цветовых пространствах. Узнайте больше об этом формате файла[здесь](https://wiki.fileformat.com/image/tiff) . |
+| static readonly [TIF](../../groupdocs.signature.domain/filetype/tif) | Файл изображения с тегами (.tif) представляет собой растровые изображения, предназначенные для использования на различных устройствах, соответствующих этому стандарту формата файлов. Он способен описывать двухуровневые, полутоновые, палитры и полноцветные данные изображения в нескольких цветовых пространствах. Узнайте больше об этом формате файла[здесь](https://wiki.fileformat.com/image/tiff) . |
 | static readonly [TIFF](../../groupdocs.signature.domain/filetype/tiff) | Формат файла изображения с тегами (.tiff) представляет растровые изображения, которые предназначены для использования на различных устройствах, соответствующих этому стандарту формата файлов. Он способен описывать двухуровневые, полутоновые, палитры и полноцветные данные изображения в нескольких цветовых пространствах. Узнайте больше об этом формате файла[здесь](https://wiki.fileformat.com/image/tiff) . |
 | static readonly [TSV](../../groupdocs.signature.domain/filetype/tsv) | Файл значений, разделенных табуляцией (.tsv) представляет данные, разделенные табуляцией, в текстовом формате. Узнайте больше об этом формате файла[здесь](https://wiki.fileformat.com/spreadsheet/tsv) . |
 | static readonly [TXT](../../groupdocs.signature.domain/filetype/txt) | Файл обычного текста (.txt) представляет собой текстовый документ, содержащий обычный текст в виде строк. Узнайте больше об этом формате файла[здесь](https://wiki.fileformat.com/word-processing/txt) . |
@@ -97,7 +98,7 @@ public sealed class FileType : IEquatable<FileType>
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о типах файлов, поддерживаемых GroupDocs.Signature: [Форматы документов, поддерживаемые GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
 * Подробнее о том, как получить список поддерживаемых форматов в C#: [Как получить поддерживаемые форматы файлов в коде C#](https://docs.groupdocs.com/display/signaturenet/Get+supported+file+formats)

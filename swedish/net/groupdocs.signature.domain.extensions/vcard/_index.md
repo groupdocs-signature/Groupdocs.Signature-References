@@ -3,7 +3,7 @@ title: VCard
 second_title: GroupDocs.Signature för .NET API-referens
 description: Representerar elektroniska visitkorts standardkontaktuppgifter.
 type: docs
-weight: 400
+weight: 420
 url: /sv/net/groupdocs.signature.domain.extensions/vcard/
 ---
 ## VCard class

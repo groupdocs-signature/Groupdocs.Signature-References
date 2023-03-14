@@ -1,14 +1,14 @@
 ---
 title: SignatureID
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置签名的唯一标识它可用于签名验证选项 属性仅支持 Pdf 文档
+description: 获取或设置签名的唯一ID它可以用于签名验证选项 属性仅支持 Pdf 文档
 type: docs
 weight: 170
 url: /zh/net/groupdocs.signature.options/textsignoptions/signatureid/
 ---
 ## TextSignOptions.SignatureID property
 
-获取或设置签名的唯一标识。它可用于签名验证选项。 属性仅支持 Pdf 文档。
+获取或设置签名的唯一ID。它可以用于签名验证选项。 属性仅支持 Pdf 文档。
 
 ```csharp
 public int SignatureID { get; set; }

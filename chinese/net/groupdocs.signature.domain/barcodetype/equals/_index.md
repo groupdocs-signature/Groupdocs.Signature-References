@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: GroupDocs.Signature for .NET API 参考
-description: 判断指定的 BarcodeType 是否等于当前对象
+description: 判断指定的BarcodeType是否等于当前对象
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.domain/barcodetype/equals/
 ---
 ## Equals(BarcodeType) {#equals}
 
-判断指定的 BarcodeType 是否等于当前对象。
+判断指定的BarcodeType是否等于当前对象。
 
 ```csharp
 public bool Equals(BarcodeType other)
@@ -32,7 +32,7 @@ public bool Equals(BarcodeType other)
 
 ## Equals(object) {#equals_1}
 
-重写方法判断指定的System.Object是否等于当前的System.Object.
+重写方法判断指定System.Object是否等于当前System.Object.
 
 ```csharp
 public override bool Equals(object obj)

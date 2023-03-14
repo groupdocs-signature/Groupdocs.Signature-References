@@ -3,7 +3,7 @@ title: PdfDigitalSignatureAppearance
 second_title: GroupDocs.Signature لمرجع .NET API
 description: يصف مظهر التوقيع الرقمي في مستندات PDF .
 type: docs
-weight: 1140
+weight: 1210
 url: /ar/net/groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/
 ---
 ## PdfDigitalSignatureAppearance class

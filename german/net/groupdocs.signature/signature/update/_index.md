@@ -24,7 +24,7 @@ Gibt true zurück, wenn die Operation erfolgreich war.
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zum Aktualisieren vorhandener elektronischer Signatureigenschaften mit GroupDocs.Signature: [So aktualisieren Sie Dokument-E-Signaturen in C#](https://docs.groupdocs.com/display/signaturenet/Update+signatures+in+documents)
 * Fortgeschrittenere Anwendungsfälle zum Aktualisieren elektronischer Dokumentensignaturen abhängig vom Signaturtyp: [Fortgeschrittene Anwendungsfälle elektronischer Signaturen werden mit GroupDocs.Signature aktualisiert](https://docs.groupdocs.com/display/signaturenet/Updating)
@@ -56,7 +56,7 @@ Gibt UpdateResult zurück[`UpdateResult`](../../../groupdocs.signature.domain/up
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zum Aktualisieren vorhandener elektronischer Signatureigenschaften mit GroupDocs.Signature: [So aktualisieren Sie Dokument-E-Signaturen in C#](https://docs.groupdocs.com/display/signaturenet/Update+signatures+in+documents)
 * Fortgeschrittenere Anwendungsfälle zum Aktualisieren elektronischer Dokumentensignaturen abhängig vom Signaturtyp: [Fortgeschrittene Anwendungsfälle elektronischer Signaturen werden mit GroupDocs.Signature aktualisiert](https://docs.groupdocs.com/display/signaturenet/Updating)

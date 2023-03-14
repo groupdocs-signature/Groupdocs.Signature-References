@@ -3,7 +3,7 @@ title: LinearGradientBrush
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Stellt einen linearen Verlaufspinsel dar.
 type: docs
-weight: 270
+weight: 290
 url: /de/net/groupdocs.signature.domain.extensions/lineargradientbrush/
 ---
 ## LinearGradientBrush class

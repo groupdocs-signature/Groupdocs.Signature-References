@@ -1,14 +1,14 @@
 ---
 title: Hidden
 second_title: GroupDocs.Signature for .NET API 参考
-description: 获取或设置 WiFi 是否为隐藏 SSID
+description: 获取或设置 WiFi 是否为隐藏 SSID.
 type: docs
 weight: 30
 url: /zh/net/groupdocs.signature.domain.extensions/wifi/hidden/
 ---
 ## WiFi.Hidden property
 
-获取或设置 WiFi 是否为隐藏 SSID。
+获取或设置 WiFi 是否为隐藏 SSID.
 
 ```csharp
 public bool Hidden { get; set; }

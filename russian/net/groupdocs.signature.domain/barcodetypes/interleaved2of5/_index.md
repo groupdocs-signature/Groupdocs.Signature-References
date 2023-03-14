@@ -3,7 +3,7 @@ title: Interleaved2of5
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Interleaved2of5 Объект типа штрихкода.
 type: docs
-weight: 320
+weight: 350
 url: /ru/net/groupdocs.signature.domain/barcodetypes/interleaved2of5/
 ---
 ## BarcodeTypes.Interleaved2of5 field

@@ -3,7 +3,7 @@ title: CodeTextAlignment
 second_title: Справочник по API GroupDocs.Signature для .NET
 description: Выравнивание текста кода для штрихкодов и QRкодов.
 type: docs
-weight: 80
+weight: 90
 url: /ru/net/groupdocs.signature.domain/codetextalignment/
 ---
 ## CodeTextAlignment enumeration

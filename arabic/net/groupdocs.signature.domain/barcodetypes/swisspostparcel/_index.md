@@ -3,7 +3,7 @@ title: SwissPostParcel
 second_title: GroupDocs.Signature لمرجع .NET API
 description: كائن نوع الرمز الشريطي لـ SwissPostParcel .
 type: docs
-weight: 580
+weight: 610
 url: /ar/net/groupdocs.signature.domain/barcodetypes/swisspostparcel/
 ---
 ## BarcodeTypes.SwissPostParcel field

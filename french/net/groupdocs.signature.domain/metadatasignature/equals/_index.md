@@ -3,7 +3,7 @@ title: Equals
 second_title: Référence de l'API GroupDocs.Signature pour .NET
 description: Écrase la méthode Equals pour comparer les propriétés de la signature
 type: docs
-weight: 50
+weight: 60
 url: /fr/net/groupdocs.signature.domain/metadatasignature/equals/
 ---
 ## MetadataSignature.Equals method

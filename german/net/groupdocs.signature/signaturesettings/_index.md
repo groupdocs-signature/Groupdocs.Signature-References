@@ -3,7 +3,7 @@ title: SignatureSettings
 second_title: GroupDocs.Signature für .NET-API-Referenz
 description: Definiert Einstellungen für das CustomizingSignature./signature Verhalten.
 type: docs
-weight: 1810
+weight: 1890
 url: /de/net/groupdocs.signature/signaturesettings/
 ---
 ## SignatureSettings class
@@ -18,15 +18,19 @@ public class SignatureSettings
 
 | Name | Beschreibung |
 | --- | --- |
-| [SignatureSettings](signaturesettings)() | Default_Constructor |
+| [SignatureSettings](signaturesettings#constructor)() | Erstellt eine standardmäßige SignatureSettings-Instanz mit Standardwerten. |
+| [SignatureSettings](signaturesettings#constructor_1)(ILogger) | Erstellt eine standardmäßige SignatureSettings-Instanz mit der Logger-Implementierung. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
 | [DefaultCulture](../../groupdocs.signature/signaturesettings/defaultculture) { get; set; } | Ruft die während der Dokumentverarbeitung zu verwendende Standardkultur ab oder legt sie fest. Der Standardwert ist "en-US". |
-| [SaveDocumentOnEmptyDelete](../../groupdocs.signature/signaturesettings/savedocumentonemptydelete) { get; set; } | Erhält oder setzt das Flag zum erneuten Speichern des Quelldokuments, wenn die Delete-Methode keine zu entfernenden betroffenen Signaturen hat. Wenn dieses Flag auf true gesetzt ist (standardmäßig), wird das Dokument mit dem entsprechenden Verlaufsprozessprotokoll (Datum und Vorgangstyp) gespeichert, selbst wenn die Delete-Methode verwendet wird hat keine zu entfernenden Signaturen. Wenn diese Flat auf "false" gesetzt ist, wird das Quelldokument überhaupt nicht geändert. |
-| [SaveDocumentOnEmptyUpdate](../../groupdocs.signature/signaturesettings/savedocumentonemptyupdate) { get; set; } | Ruft oder setzt das Flag zum erneuten Speichern des Quelldokuments, wenn die Update-Methode keine zu aktualisierenden Signaturen hat. Wenn dieses Flag (standardmäßig) auf „true“ gesetzt ist, wird das Dokument mit dem entsprechenden Verlaufsprozessprotokoll (Datum und Vorgangstyp) gespeichert, selbst wenn die Update-Methode dies hat keine zu aktualisierenden Signaturen. Wenn diese Flat auf "false" gesetzt ist, wird das Quelldokument überhaupt nicht geändert. |
+| [IncludeStandardMetadataSignatures](../../groupdocs.signature/signaturesettings/includestandardmetadatasignatures) { get; set; } | Ruft oder setzt Flag, um die eingebetteten Standard-Metadaten-Signaturen von Dokumenten wie Autor, Besitzer, Erstellungsdatum des Dokuments, Änderungsdatum usw. in die Metadatenliste aufzunehmen. Wenn dieses Flag auf „false“ gesetzt ist (standardmäßig), enthält GetDocumentInfo diese Metadaten nicht Signaturen. Wenn dieses Flag auf „true“ gesetzt ist, enthalten die Dokumentinformationen diese Standard-Metadaten-Signaturen. |
+| [Logger](../../groupdocs.signature/signaturesettings/logger) { get; } | Die für die Protokollierung verwendete Logger-Implementierung (Errors, Warnings, Traces).[`ILogger`](../../groupdocs.signature.logging/ilogger) . |
+| [LogLevel](../../groupdocs.signature/signaturesettings/loglevel) { get; set; } | Die Ebene der Protokollierung zur Begrenzung der Meldungen (Alle, Traces, Warnungen, Fehler).[`LogLevel`](./loglevel) . Standardmäßig ist der Ebenentyp Alle eingestellt. |
+| [SaveDocumentOnEmptyDelete](../../groupdocs.signature/signaturesettings/savedocumentonemptydelete) { get; set; } | Erhält oder setzt das Flag zum erneuten Speichern des Quelldokuments, wenn die Delete-Methode keine zu entfernenden betroffenen Signaturen hat. Wenn dieses Flag (standardmäßig) auf „true“ gesetzt ist, wird das Dokument mit dem entsprechenden Verlaufsprozessprotokoll (Datum und Vorgangstyp) gespeichert, selbst wenn Die Methode "Löschen" hat keine zu entfernenden Signaturen. Wenn diese Flat auf "false" gesetzt ist, wird das Quelldokument überhaupt nicht geändert. |
+| [SaveDocumentOnEmptyUpdate](../../groupdocs.signature/signaturesettings/savedocumentonemptyupdate) { get; set; } | Erhält oder setzt das Flag zum erneuten Speichern des Quelldokuments, wenn die Update-Methode keine zu aktualisierenden Signaturen hat. Wenn dieses Flag (standardmäßig) auf „true“ gesetzt ist, wird das Dokument mit dem entsprechenden Verlaufsprozessprotokoll (Datum und Vorgangstyp) gespeichert, selbst wenn es aktualisiert wird Methode hat keine zu aktualisierenden Signaturen. Wenn diese Flat auf false gesetzt ist, wird das Quelldokument überhaupt nicht geändert. |
 | [ShowDeletedSignaturesInfo](../../groupdocs.signature/signaturesettings/showdeletedsignaturesinfo) { get; set; } | Erhält oder setzt ein Flag, das gelöschte Signaturen in das Dokumentinfo-Ergebnis einschließt. Jede Signatur[`BaseSignature`](../../groupdocs.signature.domain/basesignature) hat das Flag Gelöscht[`Deleted`](../../groupdocs.signature.domain/basesignature/deleted) um festzustellen, ob es gelöscht wurde. |
 
 ### Siehe auch
