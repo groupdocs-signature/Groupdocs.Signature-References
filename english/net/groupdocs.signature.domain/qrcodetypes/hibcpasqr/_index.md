@@ -1,17 +1,17 @@
 ---
-title: QR
+title: HIBCPASQR
 second_title: GroupDocs.Signature for .NET API Reference
-description: QR QRCode Type object.
+description: HIBC PAS QRCode Type object.
 type: docs
-weight: 120
-url: /net/groupdocs.signature.domain/qrcodetypes/qr/
+weight: 110
+url: /net/groupdocs.signature.domain/qrcodetypes/hibcpasqr/
 ---
-## QrCodeTypes.QR field
+## QrCodeTypes.HIBCPASQR field
 
-QR QR-Code Type object.
+HIBC PAS QR-Code Type object.
 
 ```csharp
-public static readonly QrCodeType QR;
+public static readonly QrCodeType HIBCPASQR;
 ```
 
 ### See Also

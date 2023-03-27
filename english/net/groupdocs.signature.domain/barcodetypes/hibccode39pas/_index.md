@@ -1,17 +1,17 @@
 ---
-title: SingaporePost
+title: HIBCCode39PAS
 second_title: GroupDocs.Signature for .NET API Reference
-description: SingaporePost Barcode Type object.
+description: HIBC PAS 39 Barcode Type object.
 type: docs
-weight: 600
-url: /net/groupdocs.signature.domain/barcodetypes/singaporepost/
+weight: 350
+url: /net/groupdocs.signature.domain/barcodetypes/hibccode39pas/
 ---
-## BarcodeTypes.SingaporePost field
+## BarcodeTypes.HIBCCode39PAS field
 
-SingaporePost Barcode Type object.
+HIBC PAS 39 Barcode Type object.
 
 ```csharp
-public static readonly BarcodeType SingaporePost;
+public static readonly BarcodeType HIBCCode39PAS;
 ```
 
 ### See Also

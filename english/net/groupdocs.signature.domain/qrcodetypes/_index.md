@@ -38,6 +38,9 @@ public static class QrCodeTypes
 | static readonly [HIBCLICAztec](../../groupdocs.signature.domain/qrcodetypes/hibclicaztec) | HIBC LIC Aztec QR-Code Type object. |
 | static readonly [HIBCLICDataMatrix](../../groupdocs.signature.domain/qrcodetypes/hibclicdatamatrix) | HIBC LIC Data Matrix QR-Code Type object. |
 | static readonly [HIBCLICQR](../../groupdocs.signature.domain/qrcodetypes/hibclicqr) | HIBC LIC QR-Code Type object. |
+| static readonly [HIBCPASAztec](../../groupdocs.signature.domain/qrcodetypes/hibcpasaztec) | HIBC PAS Aztec QR-Code Type object. |
+| static readonly [HIBCPASDataMatrix](../../groupdocs.signature.domain/qrcodetypes/hibcpasdatamatrix) | HIBC PAS Data Matrix QR-Code Type object. |
+| static readonly [HIBCPASQR](../../groupdocs.signature.domain/qrcodetypes/hibcpasqr) | HIBC PAS QR-Code Type object. |
 | static readonly [QR](../../groupdocs.signature.domain/qrcodetypes/qr) | QR QR-Code Type object. |
 
 ### See Also
