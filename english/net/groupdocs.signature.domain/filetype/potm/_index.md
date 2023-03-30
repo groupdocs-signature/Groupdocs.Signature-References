@@ -3,7 +3,7 @@ title: POTM
 second_title: GroupDocs.Signature for .NET API Reference
 description: PowerPoint Open XML MacroEnabled Presentation Template .potm are Microsoft PowerPoint template files with support for Macros. POTM files are created with PowerPoint 2007 or above and contains default settings that can be used to create further presentation files. Learn more about this file format herehttps//wiki.fileformat.com/presentation/potm.
 type: docs
-weight: 310
+weight: 320
 url: /net/groupdocs.signature.domain/filetype/potm/
 ---
 ## FileType.POTM field

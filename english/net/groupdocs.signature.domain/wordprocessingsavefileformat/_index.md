@@ -44,6 +44,7 @@ public enum WordProcessingSaveFileFormat
 | Bmp | `102` | Renders a page of the document and saves it as a BMP file. |
 | Emf | `103` | Renders a page of the document and saves it as a vector EMF (Enhanced Meta File) file. |
 | Jpeg | `104` | Renders a page of the document and saves it as a JPEG file. |
+| Azw3 | `105` | Renders a page of the document and saves it as a Azw3 file. |
 
 ### See Also
 

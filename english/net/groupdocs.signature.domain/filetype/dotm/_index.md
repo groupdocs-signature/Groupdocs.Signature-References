@@ -3,7 +3,7 @@ title: DOTM
 second_title: GroupDocs.Signature for .NET API Reference
 description: Word Open XML MacroEnabled Document Template .dotm represents template file created with Microsoft Word 2007 or higher. Learn more about this file format herehttps//wiki.fileformat.com/wordprocessing/dotm.
 type: docs
-weight: 120
+weight: 130
 url: /net/groupdocs.signature.domain/filetype/dotm/
 ---
 ## FileType.DOTM field

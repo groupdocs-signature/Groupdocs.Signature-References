@@ -3,7 +3,7 @@ title: XLT
 second_title: GroupDocs.Signature for .NET API Reference
 description: Excel binary Template .xlt represents Excel Template File Format. Learn more about this file format herehttps//wiki.fileformat.com/spreadsheet/xlt.
 type: docs
-weight: 560
+weight: 570
 url: /net/groupdocs.signature.domain/filetype/xlt/
 ---
 ## FileType.XLT field

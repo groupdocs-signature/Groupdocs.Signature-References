@@ -3,7 +3,7 @@ title: TIFF
 second_title: GroupDocs.Signature for .NET API Reference
 description: Tagged Image File Format .tiff represents raster images that are meant for usage on a variety of devices that comply with this file format standard. It is capable of describing bilevel grayscale palettecolor and fullcolor image data in several color spaces. Learn more about this file format herehttps//wiki.fileformat.com/image/tiff.
 type: docs
-weight: 440
+weight: 450
 url: /net/groupdocs.signature.domain/filetype/tiff/
 ---
 ## FileType.TIFF field

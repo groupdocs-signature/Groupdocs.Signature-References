@@ -38,6 +38,7 @@ public sealed class FileType : IEquatable<FileType>
 
 | Name | Description |
 | --- | --- |
+| static readonly [AZW3](../../groupdocs.signature.domain/filetype/azw3) | WordPerfect Document (.wpd) |
 | static readonly [BMP](../../groupdocs.signature.domain/filetype/bmp) | Bitmap Image File (.bmp) is used to store bitmap digital images. These images are independent of graphics adapter and are also called device independent bitmap (DIB) file format. Learn more about this file format [here](https://wiki.fileformat.com/image/bmp). |
 | static readonly [CDR](../../groupdocs.signature.domain/filetype/cdr) | CorelDraw Vector Graphic Drawing (.cdr) is a vector drawing image file that is natively created with CorelDRAW for storing digital image encoded and compressed. Such a drawing file contains text, lines, shapes, images, colours and effects for vector representation of image contents. Learn more about this file format [here](https://wiki.fileformat.com/image/cdr). |
 | static readonly [CGM](../../groupdocs.signature.domain/filetype/cgm) | Computer Graphics Metafile (.cgm) is a free, platform-independent, international standard metafile format for storing and exchanging of vector graphics (2D), raster graphics, and text. CGM uses object-oriented approach and many function provisions for image production. Learn more about this file format [here](https://wiki.fileformat.com/page-description-language/cgm). |

@@ -3,7 +3,7 @@ title: DOCM
 second_title: GroupDocs.Signature for .NET API Reference
 description: Word Open XML MacroEnabled Document .docm is a Microsoft Word 2007 or higher generated documents with the ability to run macros. Learn more about this file format herehttps//wiki.fileformat.com/wordprocessing/docm.
 type: docs
-weight: 90
+weight: 100
 url: /net/groupdocs.signature.domain/filetype/docm/
 ---
 ## FileType.DOCM field

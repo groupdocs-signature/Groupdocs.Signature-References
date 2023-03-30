@@ -3,7 +3,7 @@ title: GetHashCode
 second_title: GroupDocs.Signature for .NET API Reference
 description: Returns the hash code for the current FileTypegroupdocs.signature.domain/filetype object.
 type: docs
-weight: 620
+weight: 630
 url: /net/groupdocs.signature.domain/filetype/gethashcode/
 ---
 ## FileType.GetHashCode method
