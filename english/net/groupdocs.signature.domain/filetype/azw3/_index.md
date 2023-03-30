@@ -1,17 +1,17 @@
 ---
-title: CMX
+title: AZW3
 second_title: GroupDocs.Signature for .NET API Reference
-description: CorelDRAW Metafile Exchange Image File .cmx
+description: WordPerfect Document .wpd
 type: docs
-weight: 50
-url: /net/groupdocs.signature.domain/filetype/cmx/
+weight: 10
+url: /net/groupdocs.signature.domain/filetype/azw3/
 ---
-## FileType.CMX field
+## FileType.AZW3 field
 
-CorelDRAW Metafile Exchange Image File (.cmx)
+WordPerfect Document (.wpd)
 
 ```csharp
-public static readonly FileType CMX;
+public static readonly FileType AZW3;
 ```
 
 ### See Also

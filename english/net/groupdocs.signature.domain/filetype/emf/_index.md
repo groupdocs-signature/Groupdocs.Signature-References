@@ -3,7 +3,7 @@ title: EMF
 second_title: GroupDocs.Signature for .NET API Reference
 description: Enhanced Windows Metafile .emf represents graphical images deviceindependently. Metafiles of EMF comprises of variablelength records in chronological order that can render the stored image after parsing on any output device. Learn more about this file format herehttps//wiki.fileformat.com/image/emf.
 type: docs
-weight: 140
+weight: 150
 url: /net/groupdocs.signature.domain/filetype/emf/
 ---
 ## FileType.EMF field

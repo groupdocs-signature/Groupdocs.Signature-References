@@ -3,7 +3,7 @@ title: FromExtension
 second_title: GroupDocs.Signature for .NET API Reference
 description: Maps file extension to file type.
 type: docs
-weight: 580
+weight: 590
 url: /net/groupdocs.signature.domain/filetype/fromextension/
 ---
 ## FileType.FromExtension method
