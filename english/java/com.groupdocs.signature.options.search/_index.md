@@ -3,7 +3,7 @@ title: com.groupdocs.signature.options.search
 second_title: GroupDocs.Signature for Java API Reference
 description: The GroupDocs.Signature.Options.Search namespace provides classes for working with Search options.
 type: docs
-weight: 34
+weight: 35
 url: /java/com.groupdocs.signature.options.search/
 ---
 

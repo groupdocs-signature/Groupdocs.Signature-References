@@ -45,6 +45,7 @@ Defines document description properties.
 | [getQrCodeSignatures()](#getQrCodeSignatures--) | Collection of document QR-code signatures added or updated by [Signature](../../com.groupdocs.signature/signature) methods. |
 | [getFormFieldSignatures()](#getFormFieldSignatures--) | Collection of document Form Field signatures added or updated by [Signature](../../com.groupdocs.signature/signature) methods. |
 | [getFormFields()](#getFormFields--) | Collection of all existing supported Form Fields in the document. |
+| [getMetadataSignatures()](#getMetadataSignatures--) | Collection of document Metadata signatures. |
 | [getProcessLogs()](#getProcessLogs--) | Collection of document history processes like Sign, Update, Delete. |
 | [getSignatures()](#getSignatures--) | Collection of document all types signatures [BaseSignature](../../com.groupdocs.signature.domain.signatures/basesignature). |
 ### DocumentInfo() {#DocumentInfo--}
@@ -280,6 +281,16 @@ Collection of all existing supported Form Fields in the document. This property 
 
 **Returns:**
 java.util.List<com.groupdocs.signature.domain.signatures.formfield.FormFieldSignature>
+### getMetadataSignatures() {#getMetadataSignatures--}
+```
+public final List<MetadataSignature> getMetadataSignatures()
+```
+
+
+Collection of document Metadata signatures.
+
+**Returns:**
+java.util.List<com.groupdocs.signature.domain.signatures.metadata.MetadataSignature>
 ### getProcessLogs() {#getProcessLogs--}
 ```
 public final List<ProcessLog> getProcessLogs()

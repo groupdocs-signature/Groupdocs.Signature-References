@@ -3,7 +3,7 @@ title: com.groupdocs.signature.options.saveoptions.imagessaveoptions
 second_title: GroupDocs.Signature for Java API Reference
 description: The GroupDocs.Signature.Options.SaveOptions.ImageSaveOptions namespace provides classes for working with ImageSaveOptions options.
 type: docs
-weight: 33
+weight: 34
 url: /java/com.groupdocs.signature.options.saveoptions.imagessaveoptions/
 ---
 

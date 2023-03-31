@@ -33,6 +33,7 @@ Defines document description properties.
 | [getQrCodeSignatures()](#getQrCodeSignatures--) | Collection of document QR-code signatures added or updated by [QrCodeSignature](../../com.groupdocs.signature.domain.signatures/qrcodesignature) methods. |
 | [getFormFieldSignatures()](#getFormFieldSignatures--) | Collection of document Form Field signatures added or updated by [FormFieldSignature](../../com.groupdocs.signature.domain.signatures.formfield/formfieldsignature) methods. |
 | [getFormFields()](#getFormFields--) | Collection of all existing supported Form Fields in the document. |
+| [getMetadataSignatures()](#getMetadataSignatures--) | Collection of document Metadata signatures. |
 | [getProcessLogs()](#getProcessLogs--) | Collection of document history process logs. |
 | [getSignatures()](#getSignatures--) | Collection of document all types signatures [BaseSignature](../../com.groupdocs.signature.domain.signatures/basesignature). |
 ### getPageCount() {#getPageCount--}
@@ -243,6 +244,16 @@ Collection of all existing supported Form Fields in the document. This property 
 
 **Returns:**
 java.util.List<com.groupdocs.signature.domain.signatures.formfield.FormFieldSignature>
+### getMetadataSignatures() {#getMetadataSignatures--}
+```
+public abstract List<MetadataSignature> getMetadataSignatures()
+```
+
+
+Collection of document Metadata signatures.
+
+**Returns:**
+java.util.List<com.groupdocs.signature.domain.signatures.metadata.MetadataSignature>
 ### getProcessLogs() {#getProcessLogs--}
 ```
 public abstract List<ProcessLog> getProcessLogs()

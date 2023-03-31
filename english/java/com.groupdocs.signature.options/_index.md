@@ -3,7 +3,7 @@ title: com.groupdocs.signature.options
 second_title: GroupDocs.Signature for Java API Reference
 description: The GroupDocs.Signature.Options namespace provides classes to specify additional options when loading signing verifyin searching and saving documents.
 type: docs
-weight: 29
+weight: 30
 url: /java/com.groupdocs.signature.options/
 ---
 

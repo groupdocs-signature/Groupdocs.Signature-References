@@ -17,7 +17,8 @@ Defines settings for customizing [Signature](../../com.groupdocs.signature/signa
 
 | Constructor | Description |
 | --- | --- |
-| [SignatureSettings()](#SignatureSettings--) |  |
+| [SignatureSettings()](#SignatureSettings--) | Creates default SignatureSettings instance with default values. |
+| [SignatureSettings(ILogger logger)](#SignatureSettings-com.groupdocs.signature.logging.ILogger-) | Creates default SignatureSettings instance with the Logger implementation. |
 ## Methods
 
 | Method | Description |
@@ -30,11 +31,31 @@ Defines settings for customizing [Signature](../../com.groupdocs.signature/signa
 | [setSaveDocumentOnEmptyUpdate(boolean value)](#setSaveDocumentOnEmptyUpdate-boolean-) | Gets or sets flag to resave source document when Update method has no signatures to update. |
 | [getSaveDocumentOnEmptyDelete()](#getSaveDocumentOnEmptyDelete--) | Gets or sets flag to resave source document when Delete method has no affected signatures to remove. |
 | [setSaveDocumentOnEmptyDelete(boolean value)](#setSaveDocumentOnEmptyDelete-boolean-) | Gets or sets flag to resave source document when Delete method has no affected signatures to remove. |
+| [getIncludeStandardMetadataSignatures()](#getIncludeStandardMetadataSignatures--) | Gets or sets flag to include into the Metadata List the embedded standard document metadata signatures like Author, Owner, document creation date, modified date, etc. |
+| [setIncludeStandardMetadataSignatures(boolean value)](#setIncludeStandardMetadataSignatures-boolean-) | Gets or sets flag to include into the Metadata List the embedded standard document metadata signatures like Author, Owner, document creation date, modified date, etc. |
+| [getLogger()](#getLogger--) | The logger implementation used for logging (Errors, Warnings, Traces). |
+| [getLogLevel()](#getLogLevel--) | The level of the logging to limit the messages (All, Traces, Warnings, Errors). |
+| [setLogLevel(int value)](#setLogLevel-int-) | The level of the logging to limit the messages (All, Traces, Warnings, Errors). |
 ### SignatureSettings() {#SignatureSettings--}
 ```
 public SignatureSettings()
 ```
 
+
+Creates default SignatureSettings instance with default values.
+
+### SignatureSettings(ILogger logger) {#SignatureSettings-com.groupdocs.signature.logging.ILogger-}
+```
+public SignatureSettings(ILogger logger)
+```
+
+
+Creates default SignatureSettings instance with the Logger implementation.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| logger | [ILogger](../../com.groupdocs.signature.logging/ilogger) |  |
 
 ### getDefaultCulture() {#getDefaultCulture--}
 ```
@@ -127,4 +148,60 @@ Gets or sets flag to resave source document when Delete method has no affected s
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | boolean |  |
+
+### getIncludeStandardMetadataSignatures() {#getIncludeStandardMetadataSignatures--}
+```
+public final boolean getIncludeStandardMetadataSignatures()
+```
+
+
+Gets or sets flag to include into the Metadata List the embedded standard document metadata signatures like Author, Owner, document creation date, modified date, etc. If this flag is set to false (by default) the GetDocumentInfo will not include these metadata signatures. When this flag is set to true the document information will include these standard metadata signatures.
+
+**Returns:**
+boolean
+### setIncludeStandardMetadataSignatures(boolean value) {#setIncludeStandardMetadataSignatures-boolean-}
+```
+public final void setIncludeStandardMetadataSignatures(boolean value)
+```
+
+
+Gets or sets flag to include into the Metadata List the embedded standard document metadata signatures like Author, Owner, document creation date, modified date, etc. If this flag is set to false (by default) the GetDocumentInfo will not include these metadata signatures. When this flag is set to true the document information will include these standard metadata signatures.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean |  |
+
+### getLogger() {#getLogger--}
+```
+public final ILogger getLogger()
+```
+
+
+The logger implementation used for logging (Errors, Warnings, Traces). [ILogger](../../com.groupdocs.signature.logging/ilogger).
+
+**Returns:**
+[ILogger](../../com.groupdocs.signature.logging/ilogger)
+### getLogLevel() {#getLogLevel--}
+```
+public final int getLogLevel()
+```
+
+
+The level of the logging to limit the messages (All, Traces, Warnings, Errors).  LogLevel . BY default the All level type is set.
+
+**Returns:**
+int
+### setLogLevel(int value) {#setLogLevel-int-}
+```
+public final void setLogLevel(int value)
+```
+
+
+The level of the logging to limit the messages (All, Traces, Warnings, Errors).  LogLevel . BY default the All level type is set.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
 

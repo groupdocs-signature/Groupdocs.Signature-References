@@ -7,7 +7,7 @@ weight: 14
 url: /java/com.groupdocs.signature.options.search/metadatasearchoptions/
 ---
 **Inheritance:**
-java.lang.Object, [com.groupdocs.signature.options.search.SearchOptions](../../com.groupdocs.signature.options.search/searchoptions)
+java.lang.Object, [com.groupdocs.signature.options.OptionsExtensions](../../com.groupdocs.signature.options/optionsextensions), [com.groupdocs.signature.options.search.SearchOptions](../../com.groupdocs.signature.options.search/searchoptions)
 ```
 public class MetadataSearchOptions extends SearchOptions
 ```

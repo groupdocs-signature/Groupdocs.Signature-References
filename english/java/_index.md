@@ -5,7 +5,7 @@ weight: 11
 url: /java/
 description: GroupDocs.Signature for Java API References contain examples, code snippets, and API documentation. It provides packages, classes, interfaces, and other API details.
 is_root: true
-version: 22.11
+version: 23.4
 ---
 
 ## Packages
@@ -29,6 +29,7 @@ version: 22.11
 | [com.groupdocs.signature.exception](./com.groupdocs.signature.exception) | The **GroupDocs.Signature.Exception** namespace provides classes to handle Signature exceptions. |
 | [com.groupdocs.signature.handler.events](./com.groupdocs.signature.handler.events) | The **GroupDocs.Signature.Handler.Events** namespace provides classes for input and output Data Handlers. |
 | [com.groupdocs.signature.licensing](./com.groupdocs.signature.licensing) | The **GroupDocs.Signature.Licensing** namespace provides classes for licensing the Signature library. |
+| [com.groupdocs.signature.logging](./com.groupdocs.signature.logging) | The **GroupDocs.Signature.Logging** namespace provides classes for logging purposes. |
 | [com.groupdocs.signature.metered](./com.groupdocs.signature.metered) | Provides methods to set metered key. |
 | [com.groupdocs.signature.options](./com.groupdocs.signature.options) | The **GroupDocs.Signature.Options** namespace provides classes to specify additional options when loading, signing, verifyin, searching and saving documents. |
 | [com.groupdocs.signature.options.appearances](./com.groupdocs.signature.options.appearances) | The **GroupDocs.Signature.Options.Appearances** namespace provides classes for additional signature appearances. |

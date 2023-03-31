@@ -39,6 +39,7 @@ Represents file type.
 | [EPS](#EPS) | Encapsulated PostScript File (.eps) describes an Encapsulated PostScript language program that describes the appearance of a single page. |
 | [ODG](#ODG) | OpenDocument Graphic File (.odg) is used by Apache OpenOffice's Draw application to store drawing elements as a vector image. |
 | [SVG](#SVG) | Scalable Vector Graphics File (.svg) is a Scalar Vector Graphics file that uses XML based text format for describing the appearance of an image. |
+| [PFX](#PFX) | Scalable Vector Graphics File (.svg) is a Scalar Vector Graphics file that uses XML based text format for describing the appearance of an image. |
 | [PDF](#PDF) | Portable Document Format File (.pdf) is a type of document created by Adobe back in 1990s. |
 | [PPT](#PPT) | PowerPoint Presentation (.ppt) represents PowerPoint file that consists of a collection of slides for displaying as SlideShow. |
 | [PPTX](#PPTX) | PowerPoint Open XML Presentation (.pptx) are presentation files created with popular Microsoft PowerPoint application. |
@@ -308,6 +309,17 @@ OpenDocument Graphic File (.odg) is used by Apache OpenOffice's Draw application
 ### SVG {#SVG}
 ```
 public static final FileType SVG
+```
+
+
+Scalable Vector Graphics File (.svg) is a Scalar Vector Graphics file that uses XML based text format for describing the appearance of an image. Learn more about this file format  [here][] .
+
+
+[here]: https://wiki.fileformat.com/page-description-language/svg
+
+### PFX {#PFX}
+```
+public static final FileType PFX
 ```
 
 
