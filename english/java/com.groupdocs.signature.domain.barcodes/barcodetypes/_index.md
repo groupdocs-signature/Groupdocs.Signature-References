@@ -51,6 +51,7 @@ Barcode Types container.
 | [EAN14](#EAN14) | EAN14 Barcode Type object. |
 | [GS1CodablockF](#GS1CodablockF) | GS1CodablockF Barcode Type object. |
 | [GS1Code128](#GS1Code128) | GS1 Code128 Barcode Type object. |
+| [GS1CompositeBar](#GS1CompositeBar) | GS1 Composite Barcode Type object. |
 | [IATA2of5](#IATA2of5) | IATA2of5 Barcode Type object. |
 | [Interleaved2of5](#Interleaved2of5) | Interleaved2of5 Barcode Type object. |
 | [ISBN](#ISBN) | ISBN Barcode Type object. |
@@ -330,6 +331,14 @@ public static final BarcodeType GS1Code128
 
 
 GS1 Code128 Barcode Type object.
+
+### GS1CompositeBar {#GS1CompositeBar}
+```
+public static final BarcodeType GS1CompositeBar
+```
+
+
+GS1 Composite Barcode Type object.
 
 ### IATA2of5 {#IATA2of5}
 ```

@@ -26,6 +26,11 @@ Signature Type define the method to sign.
 | [Metadata](#Metadata) | The Metadata Signature - put metadata properties to Document. |
 | [FormField](#FormField) | The FormField Signature - put form-field objects to Document. |
 | [Digital](#Digital) | The Digital Signature - sign document with digital key. |
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [asString()](#asString--) |  |
 ### Unknown {#Unknown}
 ```
 public static final int Unknown
@@ -98,3 +103,13 @@ public static final int Digital
 
 The Digital Signature - sign document with digital key.
 
+### asString() {#asString--}
+```
+public static String[] asString()
+```
+
+
+
+
+**Returns:**
+java.lang.String[]

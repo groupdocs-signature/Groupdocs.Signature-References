@@ -23,6 +23,7 @@ Defines document type.
 | [Presentation](#Presentation) | Presentation Document Type. |
 | [Spreadsheet](#Spreadsheet) | Spreadsheet Document Type. |
 | [Image](#Image) | Image Document Type. |
+| [Certificate](#Certificate) | Certificate file Type. |
 ### Unknown {#Unknown}
 ```
 public static final int Unknown
@@ -70,4 +71,12 @@ public static final int Image
 
 
 Image Document Type.
+
+### Certificate {#Certificate}
+```
+public static final int Certificate
+```
+
+
+Certificate file Type.
 

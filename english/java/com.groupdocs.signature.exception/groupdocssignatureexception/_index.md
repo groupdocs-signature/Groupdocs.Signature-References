@@ -19,7 +19,7 @@ Represents errors that occur during document signing.
 | --- | --- |
 | [GroupDocsSignatureException()](#GroupDocsSignatureException--) | Initializes a new instance of the [GroupDocsSignatureException](../../com.groupdocs.signature.exception/groupdocssignatureexception) class. |
 | [GroupDocsSignatureException(String message)](#GroupDocsSignatureException-java.lang.String-) | Initializes a new instance of the [GroupDocsSignatureException](../../com.groupdocs.signature.exception/groupdocssignatureexception) class with a specified error message. |
-| [GroupDocsSignatureException(RuntimeException ex, String message)](#GroupDocsSignatureException-java.lang.RuntimeException-java.lang.String-) | Initializes a new instance of the [GroupDocsSignatureException](../../com.groupdocs.signature.exception/groupdocssignatureexception) class with a specified error message and original exception. |
+| [GroupDocsSignatureException(Exception ex, String message)](#GroupDocsSignatureException-java.lang.Exception-java.lang.String-) | Initializes a new instance of the [GroupDocsSignatureException](../../com.groupdocs.signature.exception/groupdocssignatureexception) class with a specified error message and original exception. |
 ### GroupDocsSignatureException() {#GroupDocsSignatureException--}
 ```
 public GroupDocsSignatureException()
@@ -41,9 +41,9 @@ Initializes a new instance of the [GroupDocsSignatureException](../../com.groupd
 | --- | --- | --- |
 | message | java.lang.String | The message that describes the error. |
 
-### GroupDocsSignatureException(RuntimeException ex, String message) {#GroupDocsSignatureException-java.lang.RuntimeException-java.lang.String-}
+### GroupDocsSignatureException(Exception ex, String message) {#GroupDocsSignatureException-java.lang.Exception-java.lang.String-}
 ```
-public GroupDocsSignatureException(RuntimeException ex, String message)
+public GroupDocsSignatureException(Exception ex, String message)
 ```
 
 
@@ -52,6 +52,6 @@ Initializes a new instance of the [GroupDocsSignatureException](../../com.groupd
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ex | java.lang.RuntimeException | The original exception. |
+| ex | java.lang.Exception | The original exception. |
 | message | java.lang.String | The message that describes the error. |
 

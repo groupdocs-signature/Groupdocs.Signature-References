@@ -7,9 +7,9 @@ weight: 16
 url: /java/com.groupdocs.signature.options.search/searchoptions/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, [com.groupdocs.signature.options.OptionsExtensions](../../com.groupdocs.signature.options/optionsextensions)
 ```
-public abstract class SearchOptions
+public abstract class SearchOptions extends OptionsExtensions
 ```
 
 Represents the extract signatures from document options.

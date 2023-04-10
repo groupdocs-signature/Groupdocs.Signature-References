@@ -13,23 +13,56 @@ public class VerificationResult
 ```
 
 Instance to keep results of verification process.
-## Constructors
-
-| Constructor | Description |
-| --- | --- |
-| [VerificationResult()](#VerificationResult--) |  |
 ## Methods
 
 | Method | Description |
 | --- | --- |
+| [getProcessingTime()](#getProcessingTime--) | Returns the execution time of the process in milliseconds. |
+| [getTotalSignatures()](#getTotalSignatures--) | Returns the total processed signatures |
+| [getSourceDocumentSize()](#getSourceDocumentSize--) | Returns source document size in bytes |
+| [getDestinDocumentSize()](#getDestinDocumentSize--) | Returns the destination document size. |
 | [isValid()](#isValid--) | Returns true if Verification process was successful otherwise false. |
 | [setValid(boolean value)](#setValid-boolean-) | Returns true if Verification process was successful otherwise false. |
-### VerificationResult() {#VerificationResult--}
+### getProcessingTime() {#getProcessingTime--}
 ```
-public VerificationResult()
+public final long getProcessingTime()
 ```
 
 
+Returns the execution time of the process in milliseconds.
+
+**Returns:**
+long
+### getTotalSignatures() {#getTotalSignatures--}
+```
+public final int getTotalSignatures()
+```
+
+
+Returns the total processed signatures
+
+**Returns:**
+int
+### getSourceDocumentSize() {#getSourceDocumentSize--}
+```
+public final long getSourceDocumentSize()
+```
+
+
+Returns source document size in bytes
+
+**Returns:**
+long
+### getDestinDocumentSize() {#getDestinDocumentSize--}
+```
+public final long getDestinDocumentSize()
+```
+
+
+Returns the destination document size. For verification this variable always contains zero.
+
+**Returns:**
+long
 ### isValid() {#isValid--}
 ```
 public final boolean isValid()

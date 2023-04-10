@@ -7,7 +7,7 @@ weight: 13
 url: /java/com.groupdocs.signature.options.search/imagesearchoptions/
 ---
 **Inheritance:**
-java.lang.Object, [com.groupdocs.signature.options.search.SearchOptions](../../com.groupdocs.signature.options.search/searchoptions)
+java.lang.Object, [com.groupdocs.signature.options.OptionsExtensions](../../com.groupdocs.signature.options/optionsextensions), [com.groupdocs.signature.options.search.SearchOptions](../../com.groupdocs.signature.options.search/searchoptions)
 ```
 public class ImageSearchOptions extends SearchOptions
 ```
