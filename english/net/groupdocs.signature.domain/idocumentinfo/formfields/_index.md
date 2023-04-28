@@ -3,7 +3,7 @@ title: FormFields
 second_title: GroupDocs.Signature for .NET API Reference
 description: Collection of all existing supported Form Fields in the document. This property is supported only for Pdf and Word Processing document types.
 type: docs
-weight: 40
+weight: 50
 url: /net/groupdocs.signature.domain/idocumentinfo/formfields/
 ---
 ## IDocumentInfo.FormFields property

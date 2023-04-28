@@ -3,7 +3,7 @@ title: MetadataSignatures
 second_title: GroupDocs.Signature for .NET API Reference
 description: Collection of document Metadata signatures.
 type: docs
-weight: 90
+weight: 100
 url: /net/groupdocs.signature.domain/documentinfo/metadatasignatures/
 ---
 ## DocumentInfo.MetadataSignatures property
