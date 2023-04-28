@@ -3,7 +3,7 @@ title: op_Inequality
 second_title: GroupDocs.Signature for .NET API Reference
 description: Determines whether two FileTypegroupdocs.signature.domain/filetype objects are not the same.
 type: docs
-weight: 670
+weight: 700
 url: /net/groupdocs.signature.domain/filetype/op_inequality/
 ---
 ## FileType Inequality operator

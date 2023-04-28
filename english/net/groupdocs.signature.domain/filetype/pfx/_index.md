@@ -1,14 +1,14 @@
 ---
 title: PFX
 second_title: GroupDocs.Signature for .NET API Reference
-description: Scalable Vector Graphics File .svg is a Scalar Vector Graphics file that uses XML based text format for describing the appearance of an image. Learn more about this file format herehttps//wiki.fileformat.com/pagedescriptionlanguage/svg.
+description: Personal Information Exchange .pfx file password protected file certificate commonly used for code signing your application. Learn more about this file format herehttps//fileinfo.com/extension/pfx.
 type: docs
 weight: 290
 url: /net/groupdocs.signature.domain/filetype/pfx/
 ---
 ## FileType.PFX field
 
-Scalable Vector Graphics File (.svg) is a Scalar Vector Graphics file that uses XML based text format for describing the appearance of an image. Learn more about this file format [here](https://wiki.fileformat.com/page-description-language/svg).
+Personal Information Exchange (.pfx) file password protected file certificate commonly used for code signing your application. Learn more about this file format [here](https://fileinfo.com/extension/pfx).
 
 ```csharp
 public static readonly FileType PFX;

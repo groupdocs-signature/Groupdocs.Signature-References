@@ -3,7 +3,7 @@ title: IResult
 second_title: GroupDocs.Signature for .NET API Reference
 description: Common interface for signature process result.
 type: docs
-weight: 530
+weight: 540
 url: /net/groupdocs.signature.domain/iresult/
 ---
 ## IResult interface

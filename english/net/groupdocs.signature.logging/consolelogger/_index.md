@@ -3,7 +3,7 @@ title: ConsoleLogger
 second_title: GroupDocs.Signature for .NET API Reference
 description: Writes log messages to the file.
 type: docs
-weight: 1140
+weight: 1150
 url: /net/groupdocs.signature.logging/consolelogger/
 ---
 ## ConsoleLogger class
