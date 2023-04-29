@@ -3,7 +3,7 @@ title: ImageSignatures
 second_title: GroupDocs.Signature for .NET API Reference
 description: Collection of document image signatures added or updated by Signaturegroupdocs.signature/signature methods.
 type: docs
-weight: 70
+weight: 80
 url: /net/groupdocs.signature.domain/documentinfo/imagesignatures/
 ---
 ## DocumentInfo.ImageSignatures property

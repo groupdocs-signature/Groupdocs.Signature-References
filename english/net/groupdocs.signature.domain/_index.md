@@ -26,6 +26,7 @@ The namespace provides classes for working with document representation.
 | [DigitalFormFieldSignature](./digitalformfieldsignature) | Contains digital signature input form field properties for Pdf Documents. |
 | [DigitalSignature](./digitalsignature) | Contains Digital signature properties. |
 | [DocumentInfo](./documentinfo) | Defines document description properties. |
+| [DocumentResultSignature](./documentresultsignature) | Result of processing archive document signing process for document with newly created signatures. |
 | [FileType](./filetype) | Represents file type. |
 | [FormFieldSignature](./formfieldsignature) | Contains Form field signature properties. |
 | [ImageMetadataSignature](./imagemetadatasignature) | Contains Image Metadata signature properties. |

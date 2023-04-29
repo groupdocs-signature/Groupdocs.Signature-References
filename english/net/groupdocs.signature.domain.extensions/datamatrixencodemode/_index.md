@@ -3,7 +3,7 @@ title: DataMatrixEncodeMode
 second_title: GroupDocs.Signature for .NET API Reference
 description: DataMatrix encoders encoding mode default to Auto
 type: docs
-weight: 220
+weight: 230
 url: /net/groupdocs.signature.domain.extensions/datamatrixencodemode/
 ---
 ## DataMatrixEncodeMode enumeration

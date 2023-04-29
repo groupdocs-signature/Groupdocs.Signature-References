@@ -3,7 +3,7 @@ title: IDocumentInfo
 second_title: GroupDocs.Signature for .NET API Reference
 description: Defines document description properties.
 type: docs
-weight: 510
+weight: 520
 url: /net/groupdocs.signature.domain/idocumentinfo/
 ---
 ## IDocumentInfo interface
@@ -20,6 +20,7 @@ public interface IDocumentInfo
 | --- | --- |
 | [BarcodeSignatures](../../groupdocs.signature.domain/idocumentinfo/barcodesignatures) { get; } | Collection of document barcode signatures added or updated by [`Signature`](../../groupdocs.signature/signature) methods. |
 | [DigitalSignatures](../../groupdocs.signature.domain/idocumentinfo/digitalsignatures) { get; } | Collection of document digital signatures added or updated by [`Signature`](../../groupdocs.signature/signature) methods. |
+| [Documents](../../groupdocs.signature.domain/idocumentinfo/documents) { get; } | Collection of all existing documents within the archive files. This property is supported only for Archive document types. |
 | [FileType](../../groupdocs.signature.domain/idocumentinfo/filetype) { get; set; } | File format type |
 | [FormFields](../../groupdocs.signature.domain/idocumentinfo/formfields) { get; } | Collection of all existing supported Form Fields in the document. This property is supported only for Pdf and Word Processing document types. |
 | [FormFieldSignatures](../../groupdocs.signature.domain/idocumentinfo/formfieldsignatures) { get; } | Collection of document Form Field signatures added or updated by [`Signature`](../../groupdocs.signature/signature) methods. |

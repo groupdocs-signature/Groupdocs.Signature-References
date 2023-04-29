@@ -3,7 +3,7 @@ title: MaxPageHeight
 second_title: GroupDocs.Signature for .NET API Reference
 description: Specifies max page height.
 type: docs
-weight: 70
+weight: 80
 url: /net/groupdocs.signature.domain/idocumentinfo/maxpageheight/
 ---
 ## IDocumentInfo.MaxPageHeight property

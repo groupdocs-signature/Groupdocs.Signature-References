@@ -3,7 +3,7 @@ title: CryptoCurrencyTransfer
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents Cryptocurrency transfer receive or send for QRCode.
 type: docs
-weight: 200
+weight: 210
 url: /net/groupdocs.signature.domain.extensions/cryptocurrencytransfer/
 ---
 ## CryptoCurrencyTransfer class

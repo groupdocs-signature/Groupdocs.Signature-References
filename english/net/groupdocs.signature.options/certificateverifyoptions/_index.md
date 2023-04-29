@@ -3,7 +3,7 @@ title: CertificateVerifyOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Keeps options to verify certificate documents.
 type: docs
-weight: 1300
+weight: 1310
 url: /net/groupdocs.signature.options/certificateverifyoptions/
 ---
 ## CertificateVerifyOptions class

@@ -3,7 +3,7 @@ title: Pages
 second_title: GroupDocs.Signature for .NET API Reference
 description: Collection of document pages descriptions.
 type: docs
-weight: 100
+weight: 110
 url: /net/groupdocs.signature.domain/idocumentinfo/pages/
 ---
 ## IDocumentInfo.Pages property
