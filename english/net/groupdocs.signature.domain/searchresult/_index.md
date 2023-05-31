@@ -19,6 +19,7 @@ public class SearchResult : IEnumerable<BaseSignature>, IResult
 | Name | Description |
 | --- | --- |
 | [DestinDocumentSize](../../groupdocs.signature.domain/searchresult/destindocumentsize) { get; } | Returns destination document size. For Search method it always returns 0. |
+| [Failed](../../groupdocs.signature.domain/searchresult/failed) { get; } | List of signatures [`BaseSignature`](../basesignature) that failed Search process by search criteria. Supported only for failed Archive documents on Search method. |
 | [ProcessingTime](../../groupdocs.signature.domain/searchresult/processingtime) { get; } | Returns the execution time of the search process in milliseconds. |
 | [Signatures](../../groupdocs.signature.domain/searchresult/signatures) { get; } | List of found signatures [`BaseSignature`](../basesignature). |
 | [SourceDocumentSize](../../groupdocs.signature.domain/searchresult/sourcedocumentsize) { get; } | Returns source document size |

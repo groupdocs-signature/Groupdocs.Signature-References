@@ -45,6 +45,12 @@ public class DocumentResultSignature : BaseSignature, IResult
 | override [Equals](../../groupdocs.signature.domain/basesignature/equals)(object) | Overwrites Equals method to compare signature properties |
 | override [GetHashCode](../../groupdocs.signature.domain/basesignature/gethashcode)() | Overrides GetHashCode method |
 
+### Remarks
+
+**Learn more**
+
+* More about signing documents withing arhives using GroupDocs.Signature: [How to sign documents withing archives using C#](https://docs.groupdocs.com/signature/net/signing-archive-documents/)
+
 ### See Also
 
 * class [BaseSignature](../basesignature)
