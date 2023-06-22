@@ -85,6 +85,10 @@ Barcode Types container.
 | [UpcaGs1DatabarCoupon](#UpcaGs1DatabarCoupon) | UpcaGs1DatabarCoupon Barcode Type object. |
 | [UPCE](#UPCE) | UPCE Barcode Type object. |
 | [VIN](#VIN) | VIN Barcode Type object. |
+| [HIBCCode39LIC](#HIBCCode39LIC) | HIBC LIC 39 Barcode Type object. |
+| [HIBCCode128LIC](#HIBCCode128LIC) | HIBC LIC 128 Barcode Type object. |
+| [HIBCCode39PAS](#HIBCCode39PAS) | HIBC PAS 39 Barcode Type object. |
+| [HIBCCode128PAS](#HIBCCode128PAS) | HIBC PAS 128 Barcode Type object. |
 ## Methods
 
 | Method | Description |
@@ -92,6 +96,7 @@ Barcode Types container.
 | [getAllTypes()](#getAllTypes--) | All barcode types. |
 | [parse(String parsingType)](#parse-java.lang.String-) | Returns Barcode type with pasringType name. |
 | [tryParse(String parsingType)](#tryParse-java.lang.String-) | Returns Barcode type with pasringType name. |
+| [getDecodeTypes()](#getDecodeTypes--) | Internal list of Decode Types for extraction |
 | [find(String encodeTypeName)](#find-java.lang.String-) |  |
 | [isBarcodeType(String encodeTypeName)](#isBarcodeType-java.lang.String-) |  |
 ### BarcodeTypes() {#BarcodeTypes--}
@@ -604,6 +609,38 @@ public static final BarcodeType VIN
 
 VIN Barcode Type object.
 
+### HIBCCode39LIC {#HIBCCode39LIC}
+```
+public static final BarcodeType HIBCCode39LIC
+```
+
+
+HIBC LIC 39 Barcode Type object.
+
+### HIBCCode128LIC {#HIBCCode128LIC}
+```
+public static final BarcodeType HIBCCode128LIC
+```
+
+
+HIBC LIC 128 Barcode Type object.
+
+### HIBCCode39PAS {#HIBCCode39PAS}
+```
+public static final BarcodeType HIBCCode39PAS
+```
+
+
+HIBC PAS 39 Barcode Type object.
+
+### HIBCCode128PAS {#HIBCCode128PAS}
+```
+public static final BarcodeType HIBCCode128PAS
+```
+
+
+HIBC PAS 128 Barcode Type object.
+
 ### getAllTypes() {#getAllTypes--}
 ```
 public static BarcodeType[] getAllTypes()
@@ -644,6 +681,16 @@ Returns Barcode type with pasringType name. If name of Barcode is unknown - no E
 
 **Returns:**
 [BarcodeType](../../com.groupdocs.signature.domain.barcodes/barcodetype) - BarcodeType instance.
+### getDecodeTypes() {#getDecodeTypes--}
+```
+public static System.Collections.Generic.List<BaseDecodeType> getDecodeTypes()
+```
+
+
+Internal list of Decode Types for extraction
+
+**Returns:**
+com.aspose.ms.System.Collections.Generic.List<com.aspose.barcode.barcoderecognition.BaseDecodeType>
 ### find(String encodeTypeName) {#find-java.lang.String-}
 ```
 public static BarcodeType find(String encodeTypeName)

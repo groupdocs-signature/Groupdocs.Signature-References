@@ -294,7 +294,7 @@ public final FileType getReturnContentType()
 ```
 
 
-Specifies file type of returned image content of the QR-Code signature when ReturnContent property is enabled. By default it set to Null. That means to return QR-Code image content in original format. This image format is specified at  QrCodeSignature.Format ([QrCodeSignature.getFormat](../../com.groupdocs.signature.domain.signatures/qrcodesignature\#getFormat)/[QrCodeSignature.setFormat(FileType)](../../com.groupdocs.signature.domain.signatures/qrcodesignature\#setFormat-FileType-)) Possible supported values are: FileType.JPEG, FileType.PNG, FileType.BMP. If provided format is not supported than QR-Code image content in .png format will be returned.
+Specifies file type of returned image content of the QR-Code signature when ReturnContent property is enabled. By default it set to Null. That means to return QR-Code image content in original format. This image format is specified at  QrCodeSignature.Format ([QrCodeSignature.getFormat](../../com.groupdocs.signature.domain.signatures/qrcodesignature\#getFormat)/\{@link QrCodeSignature\#(FileType)\}) Possible supported values are: FileType.JPEG, FileType.PNG, FileType.BMP. If provided format is not supported than QR-Code image content in .png format will be returned.
 
 **Returns:**
 [FileType](../../com.groupdocs.signature.domain.documentpreview/filetype)
@@ -304,7 +304,7 @@ public final void setReturnContentType(FileType value)
 ```
 
 
-Specifies file type of returned image content of the QR-Code signature when ReturnContent property is enabled. By default it set to Null. That means to return QR-Code image content in original format. This image format is specified at  QrCodeSignature.Format ([QrCodeSignature.getFormat](../../com.groupdocs.signature.domain.signatures/qrcodesignature\#getFormat)/[QrCodeSignature.setFormat(FileType)](../../com.groupdocs.signature.domain.signatures/qrcodesignature\#setFormat-FileType-)) Possible supported values are: FileType.JPEG, FileType.PNG, FileType.BMP. If provided format is not supported than QR-Code image content in .png format will be returned.
+Specifies file type of returned image content of the QR-Code signature when ReturnContent property is enabled. By default it set to Null. That means to return QR-Code image content in original format. This image format is specified at  QrCodeSignature.Format ([QrCodeSignature.getFormat](../../com.groupdocs.signature.domain.signatures/qrcodesignature\#getFormat)/\{@link QrCodeSignature\#(FileType)\}) Possible supported values are: FileType.JPEG, FileType.PNG, FileType.BMP. If provided format is not supported than QR-Code image content in .png format will be returned.
 
 **Parameters:**
 | Parameter | Type | Description |

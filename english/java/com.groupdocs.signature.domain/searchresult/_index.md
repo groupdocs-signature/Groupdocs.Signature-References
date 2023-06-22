@@ -25,6 +25,7 @@ Result of searching for signatures in specified document.
 | [getSourceDocumentSize()](#getSourceDocumentSize--) | Returns source document size |
 | [getDestinDocumentSize()](#getDestinDocumentSize--) | Returns destination document size. |
 | [getSucceeded()](#getSucceeded--) | List of found signatures [BaseSignature](../../com.groupdocs.signature.domain.signatures/basesignature). |
+| [getFailed()](#getFailed--) | List of signatures [BaseSignature](../../com.groupdocs.signature.domain.signatures/basesignature) that failed Search process by search criteria. |
 | [getSignatures()](#getSignatures--) | List of detected signatures [BaseSignature](../../com.groupdocs.signature.domain.signatures/basesignature). |
 | [<T>toList(Class<T> typeOfT)](#-T-toList-java.lang.Class-T--) | Provides conversion to strongly typed list of signatures. |
 | [updateContextData(SearchContext context, int documentType)](#updateContextData-com.groupdocs.signature.provider.SearchContext-int-) |  |
@@ -75,6 +76,16 @@ public final List<BaseSignature> getSucceeded()
 
 
 List of found signatures [BaseSignature](../../com.groupdocs.signature.domain.signatures/basesignature). This list will be always equal to  Signatures (\#getSignatures.getSignatures/\#setSignatures(List).setSignatures(List)) property.
+
+**Returns:**
+java.util.List<com.groupdocs.signature.domain.signatures.BaseSignature>
+### getFailed() {#getFailed--}
+```
+public final List<BaseSignature> getFailed()
+```
+
+
+List of signatures [BaseSignature](../../com.groupdocs.signature.domain.signatures/basesignature) that failed Search process by search criteria. Not supported in current version.
 
 **Returns:**
 java.util.List<com.groupdocs.signature.domain.signatures.BaseSignature>

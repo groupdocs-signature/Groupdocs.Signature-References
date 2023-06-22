@@ -24,6 +24,7 @@ Defines document type.
 | [Spreadsheet](#Spreadsheet) | Spreadsheet Document Type. |
 | [Image](#Image) | Image Document Type. |
 | [Certificate](#Certificate) | Certificate file Type. |
+| [Archive](#Archive) | Archive file type. |
 ### Unknown {#Unknown}
 ```
 public static final int Unknown
@@ -79,4 +80,12 @@ public static final int Certificate
 
 
 Certificate file Type.
+
+### Archive {#Archive}
+```
+public static final int Archive
+```
+
+
+Archive file type.
 
