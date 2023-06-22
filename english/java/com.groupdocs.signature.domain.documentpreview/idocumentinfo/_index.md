@@ -34,6 +34,7 @@ Defines document description properties.
 | [getFormFieldSignatures()](#getFormFieldSignatures--) | Collection of document Form Field signatures added or updated by [FormFieldSignature](../../com.groupdocs.signature.domain.signatures.formfield/formfieldsignature) methods. |
 | [getFormFields()](#getFormFields--) | Collection of all existing supported Form Fields in the document. |
 | [getMetadataSignatures()](#getMetadataSignatures--) | Collection of document Metadata signatures. |
+| [getDocuments()](#getDocuments--) | Collection of all existing documents within the archive files. |
 | [getProcessLogs()](#getProcessLogs--) | Collection of document history process logs. |
 | [getSignatures()](#getSignatures--) | Collection of document all types signatures [BaseSignature](../../com.groupdocs.signature.domain.signatures/basesignature). |
 ### getPageCount() {#getPageCount--}
@@ -254,6 +255,16 @@ Collection of document Metadata signatures.
 
 **Returns:**
 java.util.List<com.groupdocs.signature.domain.signatures.metadata.MetadataSignature>
+### getDocuments() {#getDocuments--}
+```
+public abstract System.Collections.Generic.IGenericList<DocumentResultSignature> getDocuments()
+```
+
+
+Collection of all existing documents within the archive files. This property is supported only for Archive document types.
+
+**Returns:**
+com.aspose.ms.System.Collections.Generic.IGenericList<com.groupdocs.signature.domain.signatures.DocumentResultSignature>
 ### getProcessLogs() {#getProcessLogs--}
 ```
 public abstract List<ProcessLog> getProcessLogs()

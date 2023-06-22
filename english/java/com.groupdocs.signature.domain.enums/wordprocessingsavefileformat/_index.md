@@ -43,6 +43,7 @@ Defines different save file formats for WordProcessing documents.
 | [Bmp](#Bmp) | Renders a page of the document and saves it as a BMP file. |
 | [Emf](#Emf) | Renders a page of the document and saves it as a vector EMF (Enhanced Meta File) file. |
 | [Jpeg](#Jpeg) | Renders a page of the document and saves it as a JPEG file. |
+| [Azw3](#Azw3) | Renders a page of the document and saves it as a Azw3 file. |
 ### Default {#Default}
 ```
 public static final int Default
@@ -250,4 +251,12 @@ public static final int Jpeg
 
 
 Renders a page of the document and saves it as a JPEG file.
+
+### Azw3 {#Azw3}
+```
+public static final int Azw3
+```
+
+
+Renders a page of the document and saves it as a Azw3 file.
 

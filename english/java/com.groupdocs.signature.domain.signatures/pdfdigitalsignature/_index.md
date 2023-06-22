@@ -3,7 +3,7 @@ title: PdfDigitalSignature
 second_title: GroupDocs.Signature for Java API Reference
 description: Contains Pdf Digital signature properties.
 type: docs
-weight: 14
+weight: 15
 url: /java/com.groupdocs.signature.domain.signatures/pdfdigitalsignature/
 ---
 **Inheritance:**
