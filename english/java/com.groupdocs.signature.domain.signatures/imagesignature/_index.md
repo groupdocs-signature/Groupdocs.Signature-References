@@ -3,7 +3,7 @@ title: ImageSignature
 second_title: GroupDocs.Signature for Java API Reference
 description: Contains Image signature properties.
 type: docs
-weight: 13
+weight: 14
 url: /java/com.groupdocs.signature.domain.signatures/imagesignature/
 ---
 **Inheritance:**

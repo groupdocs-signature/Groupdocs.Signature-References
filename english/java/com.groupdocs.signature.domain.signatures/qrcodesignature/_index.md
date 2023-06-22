@@ -3,7 +3,7 @@ title: QrCodeSignature
 second_title: GroupDocs.Signature for Java API Reference
 description: Contains QR-code signature properties.
 type: docs
-weight: 15
+weight: 16
 url: /java/com.groupdocs.signature.domain.signatures/qrcodesignature/
 ---
 **Inheritance:**

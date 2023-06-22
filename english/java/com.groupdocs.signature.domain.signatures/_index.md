@@ -17,6 +17,7 @@ The **GroupDocs.Signature.Domain.Signatures** namespace provides classes for wor
 | [BarcodeSignature](../com.groupdocs.signature.domain.signatures/barcodesignature) | Contains Barcode Signature properties. |
 | [BaseSignature](../com.groupdocs.signature.domain.signatures/basesignature) | Describes base class for signatures. |
 | [DigitalSignature](../com.groupdocs.signature.domain.signatures/digitalsignature) | Contains Digital signature properties. |
+| [DocumentResultSignature](../com.groupdocs.signature.domain.signatures/documentresultsignature) | Result of processing archive document signing process for document with newly created signatures. |
 | [ImageSignature](../com.groupdocs.signature.domain.signatures/imagesignature) | Contains Image signature properties. |
 | [PdfDigitalSignature](../com.groupdocs.signature.domain.signatures/pdfdigitalsignature) | Contains Pdf Digital signature properties. |
 | [QrCodeSignature](../com.groupdocs.signature.domain.signatures/qrcodesignature) | Contains QR-code signature properties. |
