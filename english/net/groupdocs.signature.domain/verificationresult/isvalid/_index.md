@@ -3,7 +3,7 @@ title: IsValid
 second_title: GroupDocs.Signature for .NET API Reference
 description: Returns true if Verification process was successful otherwise false.
 type: docs
-weight: 20
+weight: 30
 url: /net/groupdocs.signature.domain/verificationresult/isvalid/
 ---
 ## VerificationResult.IsValid property

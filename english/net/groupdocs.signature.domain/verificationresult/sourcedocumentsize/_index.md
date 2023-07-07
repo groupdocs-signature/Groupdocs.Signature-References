@@ -3,7 +3,7 @@ title: SourceDocumentSize
 second_title: GroupDocs.Signature for .NET API Reference
 description: Returns source document size in bytes
 type: docs
-weight: 40
+weight: 50
 url: /net/groupdocs.signature.domain/verificationresult/sourcedocumentsize/
 ---
 ## VerificationResult.SourceDocumentSize property

@@ -3,7 +3,7 @@ title: JpegCompressionMode
 second_title: GroupDocs.Signature for .NET API Reference
 description: Specifies JPEG compression modes.
 type: docs
-weight: 1450
+weight: 1460
 url: /net/groupdocs.signature.options/jpegcompressionmode/
 ---
 ## JpegCompressionMode enumeration

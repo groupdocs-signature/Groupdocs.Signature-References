@@ -1,17 +1,17 @@
 ---
-title: Succeeded
+title: Failed
 second_title: GroupDocs.Signature for .NET API Reference
-description: List of successfully verified signatures BaseSignaturegroupdocs.signature.domain/basesignature.
+description: List of signatures that failed verification process. Currently this property is not supported.
 type: docs
-weight: 60
-url: /net/groupdocs.signature.domain/verificationresult/succeeded/
+weight: 20
+url: /net/groupdocs.signature.domain/verificationresult/failed/
 ---
-## VerificationResult.Succeeded property
+## VerificationResult.Failed property
 
-List of successfully verified signatures [`BaseSignature`](../../basesignature).
+List of signatures that failed verification process. Currently this property is not supported.
 
 ```csharp
-public List<BaseSignature> Succeeded { get; }
+public List<BaseSignature> Failed { get; }
 ```
 
 ### See Also

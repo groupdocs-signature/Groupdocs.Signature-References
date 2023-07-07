@@ -3,7 +3,7 @@ title: JpegRoundingMode
 second_title: GroupDocs.Signature for .NET API Reference
 description: Specifies different JPEG rounding modes.
 type: docs
-weight: 1460
+weight: 1470
 url: /net/groupdocs.signature.options/jpegroundingmode/
 ---
 ## JpegRoundingMode enumeration

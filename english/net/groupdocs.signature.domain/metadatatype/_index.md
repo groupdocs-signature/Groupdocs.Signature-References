@@ -21,9 +21,9 @@ public enum MetadataType
 | Undefined | `0` | Value type is undefined. |
 | Boolean | `1` | Value is Boolean type. |
 | Integer | `2` | Value is integer type. |
-| Double | `3` | Process was started. |
-| DateTime | `4` | Process is in progress. |
-| String | `5` | Process is completed. |
+| Double | `3` | Value is Double type. |
+| DateTime | `4` | Value is DateTime type. |
+| String | `5` | Value is string type. |
 
 ### See Also
 
