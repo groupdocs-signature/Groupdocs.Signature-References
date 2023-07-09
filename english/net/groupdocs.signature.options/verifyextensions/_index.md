@@ -3,7 +3,7 @@ title: VerifyExtensions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Keeps additional verification options for alternative implementations of signature on a document page.
 type: docs
-weight: 1780
+weight: 1790
 url: /net/groupdocs.signature.options/verifyextensions/
 ---
 ## VerifyExtensions class

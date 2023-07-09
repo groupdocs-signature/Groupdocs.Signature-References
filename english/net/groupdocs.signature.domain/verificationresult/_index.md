@@ -19,6 +19,7 @@ public class VerificationResult : IResult
 | Name | Description |
 | --- | --- |
 | [DestinDocumentSize](../../groupdocs.signature.domain/verificationresult/destindocumentsize) { get; } | Returns the destination document size. For verification this variable always contains zero. |
+| [Failed](../../groupdocs.signature.domain/verificationresult/failed) { get; } | List of signatures that failed verification process. Currently this property is not supported. |
 | [IsValid](../../groupdocs.signature.domain/verificationresult/isvalid) { get; } | Returns true if Verification process was successful otherwise false. |
 | [ProcessingTime](../../groupdocs.signature.domain/verificationresult/processingtime) { get; } | Returns the execution time of the process in milliseconds. |
 | [SourceDocumentSize](../../groupdocs.signature.domain/verificationresult/sourcedocumentsize) { get; } | Returns source document size in bytes |

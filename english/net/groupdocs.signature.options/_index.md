@@ -16,6 +16,7 @@ The namespace provides classes to specify additional options when loading, signi
 | [BarcodeSignOptions](./barcodesignoptions) | Represents the Barcode signature options. |
 | [BarcodeVerifyOptions](./barcodeverifyoptions) | Represents the Barcode verify options. |
 | [BmpSaveOptions](./bmpsaveoptions) | Bmp Save options for image documents. |
+| [CertificateSearchOptions](./certificatesearchoptions) | Represents search options for Certificate metadata signatures. |
 | [CertificateVerifyOptions](./certificateverifyoptions) | Keeps options to verify certificate documents. |
 | [CreatePageStream](./createpagestream) | Delegate that defines method to create output page preview stream. |
 | [CreateSignatureStream](./createsignaturestream) | Delegate that defines method to create output signature preview stream. |

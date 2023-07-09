@@ -21,6 +21,7 @@ public class DocumentResultSignature : BaseSignature, IResult
 | [CreatedOn](../../groupdocs.signature.domain/basesignature/createdon) { get; set; } | Get or set the signature creation date. |
 | [Deleted](../../groupdocs.signature.domain/basesignature/deleted) { get; } | Get the flag that indicates if this signature was deleted from the document. This property is being used only for document history log records to keep the list of deleted signatures. |
 | [DestinDocumentSize](../../groupdocs.signature.domain/documentresultsignature/destindocumentsize) { get; } | Returns destination document size |
+| [ErrorMessage](../../groupdocs.signature.domain/documentresultsignature/errormessage) { get; } | if document was processed with error this property will contain the error message |
 | [Failed](../../groupdocs.signature.domain/documentresultsignature/failed) { get; } | List of the signatures that failed during the process [`BaseSignature`](../basesignature). |
 | [FileName](../../groupdocs.signature.domain/documentresultsignature/filename) { get; } | Document file name |
 | [Height](../../groupdocs.signature.domain/basesignature/height) { get; set; } | Specifies height of signature. |
@@ -49,7 +50,7 @@ public class DocumentResultSignature : BaseSignature, IResult
 
 **Learn more**
 
-* More about signing documents withing arhives using GroupDocs.Signature: [How to sign documents withing archives using C#](https://docs.groupdocs.com/signature/net/signing-archive-documents/)
+* More about signing documents withing archives using GroupDocs.Signature: [How to sign documents withing archives using C#](https://docs.groupdocs.com/signature/net/signing-archive-documents/)
 
 ### See Also
 

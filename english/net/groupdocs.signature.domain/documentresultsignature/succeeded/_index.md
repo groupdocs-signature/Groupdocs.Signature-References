@@ -3,7 +3,7 @@ title: Succeeded
 second_title: GroupDocs.Signature for .NET API Reference
 description: List of successfully processed signatures BaseSignaturegroupdocs.signature.domain/basesignature.
 type: docs
-weight: 60
+weight: 70
 url: /net/groupdocs.signature.domain/documentresultsignature/succeeded/
 ---
 ## DocumentResultSignature.Succeeded property

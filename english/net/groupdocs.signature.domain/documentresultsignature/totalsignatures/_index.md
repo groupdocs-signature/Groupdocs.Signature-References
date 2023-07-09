@@ -3,7 +3,7 @@ title: TotalSignatures
 second_title: GroupDocs.Signature for .NET API Reference
 description: Returns the total processed signatures
 type: docs
-weight: 70
+weight: 80
 url: /net/groupdocs.signature.domain/documentresultsignature/totalsignatures/
 ---
 ## DocumentResultSignature.TotalSignatures property

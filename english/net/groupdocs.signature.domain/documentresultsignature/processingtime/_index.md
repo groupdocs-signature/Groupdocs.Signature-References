@@ -3,7 +3,7 @@ title: ProcessingTime
 second_title: GroupDocs.Signature for .NET API Reference
 description: Returns the execution time of the process in milliseconds
 type: docs
-weight: 40
+weight: 50
 url: /net/groupdocs.signature.domain/documentresultsignature/processingtime/
 ---
 ## DocumentResultSignature.ProcessingTime property
