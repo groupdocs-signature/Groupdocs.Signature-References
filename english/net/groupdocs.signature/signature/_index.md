@@ -3,7 +3,7 @@ title: Signature
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents main class that controls document signing process.
 type: docs
-weight: 1900
+weight: 1930
 url: /net/groupdocs.signature/signature/
 ---
 ## Signature class
