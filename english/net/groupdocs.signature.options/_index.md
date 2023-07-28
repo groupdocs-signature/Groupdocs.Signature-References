@@ -20,6 +20,8 @@ The namespace provides classes to specify additional options when loading, signi
 | [CertificateVerifyOptions](./certificateverifyoptions) | Keeps options to verify certificate documents. |
 | [CreatePageStream](./createpagestream) | Delegate that defines method to create output page preview stream. |
 | [CreateSignatureStream](./createsignaturestream) | Delegate that defines method to create output signature preview stream. |
+| [DicomSaveOptions](./dicomsaveoptions) | Save options for DICOM image documents. |
+| [DicomXmpEntry](./dicomxmpentry) | Entry of XMP data for DICOM images (.dcm). |
 | [DigitalSearchOptions](./digitalsearchoptions) | Represents search options for Digital signatures. |
 | [DigitalSignOptions](./digitalsignoptions) | Represents the Digital signature options. |
 | [DigitalVerifyOptions](./digitalverifyoptions) | Keeps options to verify document Digital signature. |
@@ -64,6 +66,7 @@ The namespace provides classes to specify additional options when loading, signi
 | Enumeration | Description |
 | --- | --- |
 | [BitmapCompression](./bitmapcompression) | Specifies different bitmap compression methods. |
+| [DicomXmpType](./dicomxmptype) | Supported types of XMP data for DICOM images (.dcm). |
 | [JpegCompressionColorMode](./jpegcompressioncolormode) | Specifies JPEG color compression modes. |
 | [JpegCompressionMode](./jpegcompressionmode) | Specifies JPEG compression modes. |
 | [JpegRoundingMode](./jpegroundingmode) | Specifies different JPEG rounding modes. |
