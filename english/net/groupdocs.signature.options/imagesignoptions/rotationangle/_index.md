@@ -3,7 +3,7 @@ title: RotationAngle
 second_title: GroupDocs.Signature for .NET API Reference
 description: Rotation angle of signature on document page clockwise.
 type: docs
-weight: 140
+weight: 130
 url: /net/groupdocs.signature.options/imagesignoptions/rotationangle/
 ---
 ## ImageSignOptions.RotationAngle property

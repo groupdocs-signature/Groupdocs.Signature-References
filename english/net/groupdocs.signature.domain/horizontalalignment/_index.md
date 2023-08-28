@@ -3,7 +3,7 @@ title: HorizontalAlignment
 second_title: GroupDocs.Signature for .NET API Reference
 description: Specifies horizontal alignment of element on a document page.
 type: docs
-weight: 500
+weight: 520
 url: /net/groupdocs.signature.domain/horizontalalignment/
 ---
 ## HorizontalAlignment enumeration

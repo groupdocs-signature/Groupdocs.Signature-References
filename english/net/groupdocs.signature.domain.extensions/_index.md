@@ -20,6 +20,7 @@ The namespace provides extensions for signature appearances and additional funct
 | [Event](./event) | Represents standard QR-Code Event details. |
 | [FormatAttribute](./formatattribute) | Instructs objects serialization to serialize the member with the specified name and format |
 | [LinearGradientBrush](./lineargradientbrush) | Represents linear gradient brush. |
+| [Mailmark2D](./mailmark2d) | Class for encoding and decoding the text embedded in the Royal Mail 2D Mailmark |
 | [MeCard](./mecard) | Represents MeCard standard contact details. |
 | [RadialGradientBrush](./radialgradientbrush) | Represents radial gradient brush. |
 | [SignatureExtension](./signatureextension) | Represents base class for signatures extensions. |
@@ -45,6 +46,7 @@ The namespace provides extensions for signature appearances and additional funct
 | --- | --- |
 | [CryptoCurrencyType](./cryptocurrencytype) | Represents Cryptocurrency type. |
 | [DataMatrixEncodeMode](./datamatrixencodemode) | DataMatrix encoder's encoding mode, default to Auto |
+| [Mailmark2DType](./mailmark2dtype) | 2D Mailmark Type defines size of Data Matrix barcode |
 | [SymmetricAlgorithmType](./symmetricalgorithmtype) | Represents symmetric encryption algorithm type. |
 | [WiFiEncryptionType](./wifiencryptiontype) | Represents WiFi Encryption type. |
 

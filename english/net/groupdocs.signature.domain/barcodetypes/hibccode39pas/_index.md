@@ -3,7 +3,7 @@ title: HIBCCode39PAS
 second_title: GroupDocs.Signature for .NET API Reference
 description: HIBC PAS 39 Barcode Type object.
 type: docs
-weight: 350
+weight: 360
 url: /net/groupdocs.signature.domain/barcodetypes/hibccode39pas/
 ---
 ## BarcodeTypes.HIBCCode39PAS field

@@ -3,7 +3,7 @@ title: Margin
 second_title: GroupDocs.Signature for .NET API Reference
 description: Gets or sets the space between Sign and Document edges. works ONLY if horizontal or vertical alignment are specified.
 type: docs
-weight: 110
+weight: 100
 url: /net/groupdocs.signature.options/imagesignoptions/margin/
 ---
 ## ImageSignOptions.Margin property

@@ -3,7 +3,7 @@ title: FileLogger
 second_title: GroupDocs.Signature for .NET API Reference
 description: Writes log messages to the file.
 type: docs
-weight: 1160
+weight: 1180
 url: /net/groupdocs.signature.logging/filelogger/
 ---
 ## FileLogger class

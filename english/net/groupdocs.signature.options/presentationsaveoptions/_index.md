@@ -3,7 +3,7 @@ title: PresentationSaveOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Save options for Presentation documents.
 type: docs
-weight: 1620
+weight: 1640
 url: /net/groupdocs.signature.options/presentationsaveoptions/
 ---
 ## PresentationSaveOptions class

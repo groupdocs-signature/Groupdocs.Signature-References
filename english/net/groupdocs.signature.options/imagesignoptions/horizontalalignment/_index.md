@@ -3,7 +3,7 @@ title: HorizontalAlignment
 second_title: GroupDocs.Signature for .NET API Reference
 description: Horizontal alignment of signature on document page.
 type: docs
-weight: 60
+weight: 50
 url: /net/groupdocs.signature.options/imagesignoptions/horizontalalignment/
 ---
 ## ImageSignOptions.HorizontalAlignment property

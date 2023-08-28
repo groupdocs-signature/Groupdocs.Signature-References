@@ -3,7 +3,7 @@ title: DigitalSignOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents the Digital signature options.
 type: docs
-weight: 1390
+weight: 1410
 url: /net/groupdocs.signature.options/digitalsignoptions/
 ---
 ## DigitalSignOptions class
@@ -30,7 +30,7 @@ public class DigitalSignOptions : ImageSignOptions
 
 | Name | Description |
 | --- | --- |
-| override [AllPages](../../groupdocs.signature.options/imagesignoptions/allpages) { get; set; } | Put signature on all document pages. This property can only be used for multi-frames image formats (Tiff). |
+| virtual [AllPages](../../groupdocs.signature.options/signoptions/allpages) { get; set; } | Put signature on all document pages. |
 | [Appearance](../../groupdocs.signature.options/signoptions/appearance) { get; set; } | Additional signature appearance. |
 | [Border](../../groupdocs.signature.options/imagesignoptions/border) { get; set; } | Specify border settings |
 | [CertificateFilePath](../../groupdocs.signature.options/digitalsignoptions/certificatefilepath) { get; set; } | Gets or sets the digital certificate file path. This property is used only if CertificateStream is not specified. |

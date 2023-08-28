@@ -3,7 +3,7 @@ title: ILogger
 second_title: GroupDocs.Signature for .NET API Reference
 description: Defines the methods that are used to perform logging.
 type: docs
-weight: 1170
+weight: 1190
 url: /net/groupdocs.signature.logging/ilogger/
 ---
 ## ILogger interface

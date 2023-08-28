@@ -3,7 +3,7 @@ title: MarginMeasureType
 second_title: GroupDocs.Signature for .NET API Reference
 description: Gets or sets the measure type pixels percents or millimeters for Margin.
 type: docs
-weight: 120
+weight: 110
 url: /net/groupdocs.signature.options/imagesignoptions/marginmeasuretype/
 ---
 ## ImageSignOptions.MarginMeasureType property
