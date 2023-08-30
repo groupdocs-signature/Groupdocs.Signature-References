@@ -3,7 +3,7 @@ title: Height
 second_title: GroupDocs.Signature for .NET API Reference
 description: Height of Signature on Document Page in Measure values pixels percents or millimeters see MeasureTypegroupdocs.signature.domain/measuretype SizeMeasureType.
 type: docs
-weight: 50
+weight: 40
 url: /net/groupdocs.signature.options/imagesignoptions/height/
 ---
 ## ImageSignOptions.Height property

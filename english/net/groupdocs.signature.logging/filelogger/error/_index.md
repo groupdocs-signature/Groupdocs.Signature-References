@@ -11,20 +11,20 @@ url: /net/groupdocs.signature.logging/filelogger/error/
 Writes an error message to the console. Error log messages provide information about unrecoverable events in application flow.
 
 ```csharp
-public void Error(string message, Exception exception)
+public void Error(string message, Exception ex)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | message | String | The error message. |
-| exception | Exception | The exception. |
+| ex | Exception | The exception. |
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
 | ArgumentNullException | Thrown when *message* is null. |
-| ArgumentNullException | Thrown when *exception* is null. |
+| ArgumentNullException | Thrown when *ex* is null. |
 
 ### See Also
 

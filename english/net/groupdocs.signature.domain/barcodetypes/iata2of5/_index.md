@@ -3,7 +3,7 @@ title: IATA2of5
 second_title: GroupDocs.Signature for .NET API Reference
 description: IATA2of5 Barcode Type object.
 type: docs
-weight: 360
+weight: 370
 url: /net/groupdocs.signature.domain/barcodetypes/iata2of5/
 ---
 ## BarcodeTypes.IATA2of5 field

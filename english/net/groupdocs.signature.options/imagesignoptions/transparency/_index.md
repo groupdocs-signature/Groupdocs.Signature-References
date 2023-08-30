@@ -3,7 +3,7 @@ title: Transparency
 second_title: GroupDocs.Signature for .NET API Reference
 description: Gets or sets the signature transparency value from 0.0 opaque through 1.0 clear. Default value is 0 opaque.
 type: docs
-weight: 180
+weight: 170
 url: /net/groupdocs.signature.options/imagesignoptions/transparency/
 ---
 ## ImageSignOptions.Transparency property

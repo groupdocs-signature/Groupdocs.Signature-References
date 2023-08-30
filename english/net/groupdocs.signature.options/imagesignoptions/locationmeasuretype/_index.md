@@ -3,7 +3,7 @@ title: LocationMeasureType
 second_title: GroupDocs.Signature for .NET API Reference
 description: Measure type pixels percents or millimeters for Left and Top properties.
 type: docs
-weight: 100
+weight: 90
 url: /net/groupdocs.signature.options/imagesignoptions/locationmeasuretype/
 ---
 ## ImageSignOptions.LocationMeasureType property

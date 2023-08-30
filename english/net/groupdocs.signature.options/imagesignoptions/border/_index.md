@@ -3,7 +3,7 @@ title: Border
 second_title: GroupDocs.Signature for .NET API Reference
 description: Specify border settings
 type: docs
-weight: 40
+weight: 30
 url: /net/groupdocs.signature.options/imagesignoptions/border/
 ---
 ## ImageSignOptions.Border property

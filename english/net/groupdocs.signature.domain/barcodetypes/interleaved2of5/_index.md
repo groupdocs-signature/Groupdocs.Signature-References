@@ -3,7 +3,7 @@ title: Interleaved2of5
 second_title: GroupDocs.Signature for .NET API Reference
 description: Interleaved2of5 Barcode Type object.
 type: docs
-weight: 370
+weight: 380
 url: /net/groupdocs.signature.domain/barcodetypes/interleaved2of5/
 ---
 ## BarcodeTypes.Interleaved2of5 field

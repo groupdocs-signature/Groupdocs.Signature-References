@@ -3,7 +3,7 @@ title: ImageSignOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents the Image signature options.
 type: docs
-weight: 1470
+weight: 1490
 url: /net/groupdocs.signature.options/imagesignoptions/
 ---
 ## ImageSignOptions class
@@ -27,7 +27,7 @@ public class ImageSignOptions : SignOptions, IAlignment, IDisposable, IRectangle
 
 | Name | Description |
 | --- | --- |
-| override [AllPages](../../groupdocs.signature.options/imagesignoptions/allpages) { get; set; } | Put signature on all document pages. This property can only be used for multi-frames image formats (Tiff). |
+| virtual [AllPages](../../groupdocs.signature.options/signoptions/allpages) { get; set; } | Put signature on all document pages. |
 | [Appearance](../../groupdocs.signature.options/signoptions/appearance) { get; set; } | Additional signature appearance. |
 | [Border](../../groupdocs.signature.options/imagesignoptions/border) { get; set; } | Specify border settings |
 | [DocumentType](../../groupdocs.signature.options/signoptions/documenttype) { get; set; } | Get or set the Document Type of the Signature Options [`DocumentType`](../../groupdocs.signature.domain/documenttype) |

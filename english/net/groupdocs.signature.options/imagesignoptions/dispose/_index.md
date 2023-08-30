@@ -3,7 +3,7 @@ title: Dispose
 second_title: GroupDocs.Signature for .NET API Reference
 description: Clears internal resources
 type: docs
-weight: 210
+weight: 200
 url: /net/groupdocs.signature.options/imagesignoptions/dispose/
 ---
 ## ImageSignOptions.Dispose method

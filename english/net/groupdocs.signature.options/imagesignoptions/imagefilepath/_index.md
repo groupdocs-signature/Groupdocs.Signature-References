@@ -3,7 +3,7 @@ title: ImageFilePath
 second_title: GroupDocs.Signature for .NET API Reference
 description: Gets or sets the signature image file path. This property is used only if ImageStream is not specified.
 type: docs
-weight: 70
+weight: 60
 url: /net/groupdocs.signature.options/imagesignoptions/imagefilepath/
 ---
 ## ImageSignOptions.ImageFilePath property

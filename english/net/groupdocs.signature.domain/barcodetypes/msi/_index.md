@@ -3,7 +3,7 @@ title: MSI
 second_title: GroupDocs.Signature for .NET API Reference
 description: MSI Barcode Type object.
 type: docs
-weight: 490
+weight: 500
 url: /net/groupdocs.signature.domain/barcodetypes/msi/
 ---
 ## BarcodeTypes.MSI field

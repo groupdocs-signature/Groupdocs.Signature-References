@@ -3,7 +3,7 @@ title: Rectangle
 second_title: GroupDocs.Signature for .NET API Reference
 description: Rectangle of area to put the image on document.
 type: docs
-weight: 130
+weight: 120
 url: /net/groupdocs.signature.options/imagesignoptions/rectangle/
 ---
 ## ImageSignOptions.Rectangle property

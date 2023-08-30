@@ -3,7 +3,7 @@ title: ReleasePageStream
 second_title: GroupDocs.Signature for .NET API Reference
 description: Delegate that defines method to release output page preview stream.
 type: docs
-weight: 1700
+weight: 1720
 url: /net/groupdocs.signature.options/releasepagestream/
 ---
 ## ReleasePageStream delegate

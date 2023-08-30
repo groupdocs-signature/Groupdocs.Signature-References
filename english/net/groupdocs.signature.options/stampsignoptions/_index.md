@@ -3,7 +3,7 @@ title: StampSignOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents the Stamp signature options.
 type: docs
-weight: 1760
+weight: 1780
 url: /net/groupdocs.signature.options/stampsignoptions/
 ---
 ## StampSignOptions class
@@ -25,7 +25,7 @@ public class StampSignOptions : ImageSignOptions
 
 | Name | Description |
 | --- | --- |
-| override [AllPages](../../groupdocs.signature.options/imagesignoptions/allpages) { get; set; } | Put signature on all document pages. This property can only be used for multi-frames image formats (Tiff). |
+| virtual [AllPages](../../groupdocs.signature.options/signoptions/allpages) { get; set; } | Put signature on all document pages. |
 | [Appearance](../../groupdocs.signature.options/signoptions/appearance) { get; set; } | Additional signature appearance. |
 | [Background](../../groupdocs.signature.options/stampsignoptions/background) { get; set; } | Gets or sets the Stamp background. |
 | [BackgroundColorCropType](../../groupdocs.signature.options/stampsignoptions/backgroundcolorcroptype) { get; set; } | Gets or sets the background color crop type of signature. |

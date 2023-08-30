@@ -3,7 +3,7 @@ title: SearchOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents the extract signatures from document options.
 type: docs
-weight: 1730
+weight: 1750
 url: /net/groupdocs.signature.options/searchoptions/
 ---
 ## SearchOptions class

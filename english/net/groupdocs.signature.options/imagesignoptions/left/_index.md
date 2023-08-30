@@ -3,7 +3,7 @@ title: Left
 second_title: GroupDocs.Signature for .NET API Reference
 description: Left X position of Signature on Document Page in Measure values pixels percents or millimeters see MeasureTypegroupdocs.signature.domain/measuretype LocationMeasureType. works if horizontal alignment is not specified.
 type: docs
-weight: 90
+weight: 80
 url: /net/groupdocs.signature.options/imagesignoptions/left/
 ---
 ## ImageSignOptions.Left property

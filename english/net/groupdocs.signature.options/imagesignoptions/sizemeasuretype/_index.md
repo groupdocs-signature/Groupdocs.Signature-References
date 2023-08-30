@@ -3,7 +3,7 @@ title: SizeMeasureType
 second_title: GroupDocs.Signature for .NET API Reference
 description: Measure type pixels percents or millimeters for Width and Height properties.
 type: docs
-weight: 150
+weight: 140
 url: /net/groupdocs.signature.options/imagesignoptions/sizemeasuretype/
 ---
 ## ImageSignOptions.SizeMeasureType property
