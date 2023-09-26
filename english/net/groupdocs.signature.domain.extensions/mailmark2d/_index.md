@@ -3,7 +3,7 @@ title: Mailmark2D
 second_title: GroupDocs.Signature for .NET API Reference
 description: Class for encoding and decoding the text embedded in the Royal Mail 2D Mailmark
 type: docs
-weight: 310
+weight: 350
 url: /net/groupdocs.signature.domain.extensions/mailmark2d/
 ---
 ## Mailmark2D class
@@ -18,7 +18,7 @@ public class Mailmark2D : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Mailmark2D](mailmark2d)() | Creates HIBC (Healthcare Industry Bar Code Council) LIC (Licensed Identification Code) combined data with default primary and secondary data values. |
+| [Mailmark2D](mailmark2d)() | Creates Royal Mail Mailmark combined data with default primary and secondary data values. |
 
 ## Properties
 

@@ -3,7 +3,7 @@ title: RadialGradientBrush
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents radial gradient brush.
 type: docs
-weight: 340
+weight: 380
 url: /net/groupdocs.signature.domain.extensions/radialgradientbrush/
 ---
 ## RadialGradientBrush class

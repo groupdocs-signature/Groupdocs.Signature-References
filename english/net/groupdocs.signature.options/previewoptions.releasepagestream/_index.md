@@ -1,16 +1,17 @@
 ---
-title: ReleasePageStream
+title: PreviewOptions.ReleasePageStream
 second_title: GroupDocs.Signature for .NET API Reference
 description: Delegate that defines method to release output page preview stream.
 type: docs
-weight: 1720
-url: /net/groupdocs.signature.options/releasepagestream/
+weight: 1730
+url: /net/groupdocs.signature.options/previewoptions.releasepagestream/
 ---
-## ReleasePageStream delegate
+## PreviewOptions.ReleasePageStream delegate
 
 Delegate that defines method to release output page preview stream.
 
 ```csharp
+[Obsolete("This member is obsolete and will be deprecated in 23.12 version. Use ReleaseDocPageStream instead.")]
 public delegate void ReleasePageStream(int pageNumber, Stream pageStream);
 ```
 
@@ -21,6 +22,7 @@ public delegate void ReleasePageStream(int pageNumber, Stream pageStream);
 
 ### See Also
 
+* class [PreviewOptions](../previewoptions)
 * namespace [GroupDocs.Signature.Options](../../groupdocs.signature.options)
 * assembly [GroupDocs.Signature](../../)
 

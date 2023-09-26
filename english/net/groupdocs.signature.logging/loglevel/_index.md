@@ -3,7 +3,7 @@ title: LogLevel
 second_title: GroupDocs.Signature for .NET API Reference
 description: Specifies the available Log Level types. This enumeration can be used as flags to set several possible values as enabled bits Example LogLevel.Error x7C LogLevel.Warning or LogLevel.Error x7C LogLevel.Trace
 type: docs
-weight: 1200
+weight: 1240
 url: /net/groupdocs.signature.logging/loglevel/
 ---
 ## LogLevel enumeration

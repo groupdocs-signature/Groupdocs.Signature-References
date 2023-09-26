@@ -3,7 +3,7 @@ title: VerificationResult
 second_title: GroupDocs.Signature for .NET API Reference
 description: Instance to keep results of verification process.
 type: docs
-weight: 1080
+weight: 1120
 url: /net/groupdocs.signature.domain/verificationresult/
 ---
 ## VerificationResult class
