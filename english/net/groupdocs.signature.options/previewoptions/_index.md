@@ -3,7 +3,7 @@ title: PreviewOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents document preview options.
 type: docs
-weight: 1650
+weight: 1680
 url: /net/groupdocs.signature.options/previewoptions/
 ---
 ## PreviewOptions class
@@ -18,8 +18,8 @@ public class PreviewOptions
 
 | Name | Description |
 | --- | --- |
-| [PreviewOptions](previewoptions#constructor_1)(CreatePageStream, params int[]) | Initializes PreviewOptions object. |
-| [PreviewOptions](previewoptions#constructor)(CreatePageStream, ReleasePageStream, params int[]) | Initializes PreviewOptions object. |
+| [PreviewOptions](previewoptions#constructor)(CreateDocPageStream, params int[]) | Initializes PreviewOptions object. |
+| [PreviewOptions](previewoptions#constructor_1)(CreateDocPageStream, ReleaseDocPageStream, params int[]) | Initializes PreviewOptions object. |
 
 ## Properties
 

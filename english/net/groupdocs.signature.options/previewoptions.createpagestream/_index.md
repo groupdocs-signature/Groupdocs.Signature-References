@@ -1,16 +1,17 @@
 ---
-title: CreatePageStream
+title: PreviewOptions.CreatePageStream
 second_title: GroupDocs.Signature for .NET API Reference
 description: Delegate that defines method to create output page preview stream.
 type: docs
-weight: 1350
-url: /net/groupdocs.signature.options/createpagestream/
+weight: 1700
+url: /net/groupdocs.signature.options/previewoptions.createpagestream/
 ---
-## CreatePageStream delegate
+## PreviewOptions.CreatePageStream delegate
 
 Delegate that defines method to create output page preview stream.
 
 ```csharp
+[Obsolete("This member is obsolete and will be deprecated in 23.12 version. Use CreateDocPageStream instead.")]
 public delegate Stream CreatePageStream(int pageNumber);
 ```
 
@@ -20,6 +21,7 @@ public delegate Stream CreatePageStream(int pageNumber);
 
 ### See Also
 
+* class [PreviewOptions](../previewoptions)
 * namespace [GroupDocs.Signature.Options](../../groupdocs.signature.options)
 * assembly [GroupDocs.Signature](../../)
 

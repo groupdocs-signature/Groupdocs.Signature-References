@@ -19,6 +19,9 @@ The namespace provides extensions for signature appearances and additional funct
 | [EPC](./epc) | Represents European Payments Council Quick Response Code. |
 | [Event](./event) | Represents standard QR-Code Event details. |
 | [FormatAttribute](./formatattribute) | Instructs objects serialization to serialize the member with the specified name and format |
+| [HIBCLICCombinedData](./hibcliccombineddata) | Class for storing HIBC (Healthcare Industry Bar Code Council) LIC (Licensed Identification Code) combined data with primary and secondary data entities. |
+| [HIBCLICPrimaryData](./hibclicprimarydata) | Class for storing HIBC (Healthcare Industry Bar Code Council) LIC (Licensed Identification Code) primary data. |
+| [HIBCLICSecondaryAdditionalData](./hibclicsecondaryadditionaldata) | Class for storing HIBC (Healthcare Industry Bar Code Council) LIC (Licensed Identification Code) secondary and additional data. |
 | [LinearGradientBrush](./lineargradientbrush) | Represents linear gradient brush. |
 | [Mailmark2D](./mailmark2d) | Class for encoding and decoding the text embedded in the Royal Mail 2D Mailmark |
 | [MeCard](./mecard) | Represents MeCard standard contact details. |
@@ -46,6 +49,7 @@ The namespace provides extensions for signature appearances and additional funct
 | --- | --- |
 | [CryptoCurrencyType](./cryptocurrencytype) | Represents Cryptocurrency type. |
 | [DataMatrixEncodeMode](./datamatrixencodemode) | DataMatrix encoder's encoding mode, default to Auto |
+| [HIBCLICDateFormat](./hibclicdateformat) | Specifies the different types of date formats for HIBC (Healthcare Industry Bar Code) LIC (Licensed Identification Code). |
 | [Mailmark2DType](./mailmark2dtype) | 2D Mailmark Type defines size of Data Matrix barcode |
 | [SymmetricAlgorithmType](./symmetricalgorithmtype) | Represents symmetric encryption algorithm type. |
 | [WiFiEncryptionType](./wifiencryptiontype) | Represents WiFi Encryption type. |

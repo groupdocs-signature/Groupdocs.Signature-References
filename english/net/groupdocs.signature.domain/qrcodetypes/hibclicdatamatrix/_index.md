@@ -3,7 +3,7 @@ title: HIBCLICDataMatrix
 second_title: GroupDocs.Signature for .NET API Reference
 description: HIBC LIC Data Matrix QRCode Type object.
 type: docs
-weight: 70
+weight: 80
 url: /net/groupdocs.signature.domain/qrcodetypes/hibclicdatamatrix/
 ---
 ## QrCodeTypes.HIBCLICDataMatrix field

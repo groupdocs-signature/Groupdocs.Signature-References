@@ -3,7 +3,7 @@ title: Mailmark2DType
 second_title: GroupDocs.Signature for .NET API Reference
 description: 2D Mailmark Type defines size of Data Matrix barcode
 type: docs
-weight: 320
+weight: 360
 url: /net/groupdocs.signature.domain.extensions/mailmark2dtype/
 ---
 ## Mailmark2DType enumeration

@@ -18,7 +18,8 @@ The namespace provides classes to specify additional options when loading, signi
 | [BmpSaveOptions](./bmpsaveoptions) | Bmp Save options for image documents. |
 | [CertificateSearchOptions](./certificatesearchoptions) | Represents search options for Certificate metadata signatures. |
 | [CertificateVerifyOptions](./certificateverifyoptions) | Keeps options to verify certificate documents. |
-| [CreatePageStream](./createpagestream) | Delegate that defines method to create output page preview stream. |
+| [PreviewOptions.CreateDocPageStream](./previewoptions.createdocpagestream) | Delegate that defines method to create output document page preview stream. |
+| [PreviewOptions.CreatePageStream](./previewoptions.createpagestream) | Delegate that defines method to create output page preview stream. |
 | [CreateSignatureStream](./createsignaturestream) | Delegate that defines method to create output signature preview stream. |
 | [DicomSaveOptions](./dicomsaveoptions) | Save options for DICOM image documents. |
 | [DicomXmpEntry](./dicomxmpentry) | Entry of XMP data for DICOM images (.dcm). |
@@ -43,11 +44,13 @@ The namespace provides classes to specify additional options when loading, signi
 | [PngSaveOptions](./pngsaveoptions) | Png Save options for image documents. |
 | [PresentationSaveOptions](./presentationsaveoptions) | Save options for Presentation documents. |
 | [PreviewOptions](./previewoptions) | Represents document preview options. |
+| [PreviewPageData](./previewpagedata) | Contains data about document page to be saved as preview image. |
 | [PreviewSignatureOptions](./previewsignatureoptions) | Represents signature preview options. |
 | [QrCodeSearchOptions](./qrcodesearchoptions) | Represents search options for QR-Code signatures. |
 | [QrCodeSignOptions](./qrcodesignoptions) | Represents the QR-Code signature options. |
 | [QrCodeVerifyOptions](./qrcodeverifyoptions) | Keeps options to verify document QR-code signature. |
-| [ReleasePageStream](./releasepagestream) | Delegate that defines method to release output page preview stream. |
+| [PreviewOptions.ReleaseDocPageStream](./previewoptions.releasedocpagestream) | Delegate that defines method to release output document page preview stream. |
+| [PreviewOptions.ReleasePageStream](./previewoptions.releasepagestream) | Delegate that defines method to release output page preview stream. |
 | [ReleaseSignatureStream](./releasesignaturestream) | Delegate that defines method to release output signature preview stream. |
 | [SaveOptions](./saveoptions) | Allows to specify additional options (such as password) when saving a document to sign. |
 | [SearchOptions](./searchoptions) | Represents the extract signatures from document options. |

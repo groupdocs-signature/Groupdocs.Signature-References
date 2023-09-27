@@ -3,7 +3,7 @@ title: PdfDigitalSignatureType
 second_title: GroupDocs.Signature for .NET API Reference
 description: Describes enumeration of PDF digital signature type.
 type: docs
-weight: 700
+weight: 740
 url: /net/groupdocs.signature.domain/pdfdigitalsignaturetype/
 ---
 ## PdfDigitalSignatureType enumeration

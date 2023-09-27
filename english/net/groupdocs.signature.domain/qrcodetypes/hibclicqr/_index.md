@@ -3,7 +3,7 @@ title: HIBCLICQR
 second_title: GroupDocs.Signature for .NET API Reference
 description: HIBC LIC QRCode Type object.
 type: docs
-weight: 80
+weight: 90
 url: /net/groupdocs.signature.domain/qrcodetypes/hibclicqr/
 ---
 ## QrCodeTypes.HIBCLICQR field

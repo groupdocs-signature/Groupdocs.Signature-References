@@ -6,47 +6,47 @@ type: docs
 weight: 10
 url: /net/groupdocs.signature.options/previewoptions/previewoptions/
 ---
-## PreviewOptions(CreatePageStream, params int[]) {#constructor_1}
+## PreviewOptions(CreateDocPageStream, params int[]) {#constructor}
 
 Initializes PreviewOptions object.
 
 ```csharp
-public PreviewOptions(CreatePageStream createPageStream, params int[] pageNumbers)
+public PreviewOptions(CreateDocPageStream createPageStream, params int[] pageNumbers)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| createPageStream | CreatePageStream | Delegate which defines method to create output page preview stream. |
+| createPageStream | CreateDocPageStream | Delegate which defines method to create output document page preview stream. |
 | pageNumbers | Int32[] | Desired page numbers |
 
 ### See Also
 
-* delegate [CreatePageStream](../../createpagestream)
+* delegate [CreateDocPageStream](../../previewoptions.createdocpagestream)
 * class [PreviewOptions](../../previewoptions)
 * namespace [GroupDocs.Signature.Options](../../previewoptions)
 * assembly [GroupDocs.Signature](../../../)
 
 ---
 
-## PreviewOptions(CreatePageStream, ReleasePageStream, params int[]) {#constructor}
+## PreviewOptions(CreateDocPageStream, ReleaseDocPageStream, params int[]) {#constructor_1}
 
 Initializes PreviewOptions object.
 
 ```csharp
-public PreviewOptions(CreatePageStream createPageStream, ReleasePageStream releasePageStream, 
+public PreviewOptions(CreateDocPageStream createPageStream, ReleaseDocPageStream releasePageStream, 
     params int[] pageNumbers)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| createPageStream | CreatePageStream | Delegate which defines method to create output page preview stream. |
-| releasePageStream | ReleasePageStream | Delegate which defines method to release output page preview stream. |
+| createPageStream | CreateDocPageStream | Delegate which defines method to create output document page preview stream. |
+| releasePageStream | ReleaseDocPageStream | Delegate which defines method to release output document page preview stream. |
 | pageNumbers | Int32[] | Desired page numbers |
 
 ### See Also
 
-* delegate [CreatePageStream](../../createpagestream)
-* delegate [ReleasePageStream](../../releasepagestream)
+* delegate [CreateDocPageStream](../../previewoptions.createdocpagestream)
+* delegate [ReleaseDocPageStream](../../previewoptions.releasedocpagestream)
 * class [PreviewOptions](../../previewoptions)
 * namespace [GroupDocs.Signature.Options](../../previewoptions)
 * assembly [GroupDocs.Signature](../../../)

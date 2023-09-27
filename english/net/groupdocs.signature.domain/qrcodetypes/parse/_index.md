@@ -3,7 +3,7 @@ title: Parse
 second_title: GroupDocs.Signature for .NET API Reference
 description: Returns QRCode type with pasringType name. If name of QRCode is unknown  Exception will be throw
 type: docs
-weight: 130
+weight: 140
 url: /net/groupdocs.signature.domain/qrcodetypes/parse/
 ---
 ## QrCodeTypes.Parse method

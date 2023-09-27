@@ -1,14 +1,14 @@
 ---
 title: Mailmark2D
 second_title: GroupDocs.Signature for .NET API Reference
-description: Creates HIBC Healthcare Industry Bar Code Council LIC Licensed Identification Code combined data with default primary and secondary data values.
+description: Creates Royal Mail Mailmark combined data with default primary and secondary data values.
 type: docs
 weight: 10
 url: /net/groupdocs.signature.domain.extensions/mailmark2d/mailmark2d/
 ---
 ## Mailmark2D constructor
 
-Creates HIBC (Healthcare Industry Bar Code Council) LIC (Licensed Identification Code) combined data with default primary and secondary data values.
+Creates Royal Mail Mailmark combined data with default primary and secondary data values.
 
 ```csharp
 public Mailmark2D()

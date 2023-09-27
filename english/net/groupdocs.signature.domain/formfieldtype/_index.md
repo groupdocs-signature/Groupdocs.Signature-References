@@ -3,7 +3,7 @@ title: FormFieldType
 second_title: GroupDocs.Signature for .NET API Reference
 description: Specifies Form Field type.
 type: docs
-weight: 500
+weight: 540
 url: /net/groupdocs.signature.domain/formfieldtype/
 ---
 ## FormFieldType enumeration

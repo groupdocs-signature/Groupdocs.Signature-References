@@ -3,7 +3,7 @@ title: FileType
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents file type.
 type: docs
-weight: 480
+weight: 520
 url: /net/groupdocs.signature.domain/filetype/
 ---
 ## FileType class
