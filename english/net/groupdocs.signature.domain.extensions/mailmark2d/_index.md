@@ -3,7 +3,7 @@ title: Mailmark2D
 second_title: GroupDocs.Signature for .NET API Reference
 description: Class for encoding and decoding the text embedded in the Royal Mail 2D Mailmark
 type: docs
-weight: 350
+weight: 360
 url: /net/groupdocs.signature.domain.extensions/mailmark2d/
 ---
 ## Mailmark2D class

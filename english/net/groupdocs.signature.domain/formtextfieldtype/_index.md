@@ -3,7 +3,7 @@ title: FormTextFieldType
 second_title: GroupDocs.Signature for .NET API Reference
 description: Defines types of text for WordsProcessing document form fields.
 type: docs
-weight: 550
+weight: 580
 url: /net/groupdocs.signature.domain/formtextfieldtype/
 ---
 ## FormTextFieldType enumeration

@@ -3,7 +3,7 @@ title: ProcessLog
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents document process details.
 type: docs
-weight: 830
+weight: 860
 url: /net/groupdocs.signature.domain/processlog/
 ---
 ## ProcessLog class

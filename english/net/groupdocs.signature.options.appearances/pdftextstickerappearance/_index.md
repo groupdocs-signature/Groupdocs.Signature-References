@@ -3,7 +3,7 @@ title: PdfTextStickerAppearance
 second_title: GroupDocs.Signature for .NET API Reference
 description: Describes appearance of PDF text annotation sticker object and popup window of sticker.
 type: docs
-weight: 1300
+weight: 1330
 url: /net/groupdocs.signature.options.appearances/pdftextstickerappearance/
 ---
 ## PdfTextStickerAppearance class

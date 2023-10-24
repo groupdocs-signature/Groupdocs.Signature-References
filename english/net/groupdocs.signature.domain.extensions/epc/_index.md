@@ -3,7 +3,7 @@ title: EPC
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents European Payments Council Quick Response Code.
 type: docs
-weight: 240
+weight: 250
 url: /net/groupdocs.signature.domain.extensions/epc/
 ---
 ## EPC class

@@ -3,7 +3,7 @@ title: CertificateStoreLocation
 second_title: GroupDocs.Signature for .NET API Reference
 description: Specifies the store location of the certificate
 type: docs
-weight: 30
+weight: 40
 url: /net/groupdocs.signature.domain/digitalsignature/certificatestorelocation/
 ---
 ## DigitalSignature.CertificateStoreLocation property

@@ -15,6 +15,7 @@ The namespace provides extensions for signature appearances and additional funct
 | [Address](./address) | Represents address for contact. |
 | [Brush](./brush) | Represents base class for various brushes. |
 | [CryptoCurrencyTransfer](./cryptocurrencytransfer) | Represents Cryptocurrency transfer (receive or send) for QR-Code. |
+| [DigitalVBA](./digitalvba) | Represents digital signature for Spreadsheets VBA projects. It provides ability to sign VBA project at specific Spreadsheets document formats like Xlsm or Xltm. If several DigitalVBA extensions are added to DigitalSignOptions.Extensions only first is involved in document signing. |
 | [Email](./email) | Represents Email format for QR-Code. |
 | [EPC](./epc) | Represents European Payments Council Quick Response Code. |
 | [Event](./event) | Represents standard QR-Code Event details. |
@@ -31,6 +32,8 @@ The namespace provides extensions for signature appearances and additional funct
 | [SMS](./sms) | Represents SMS short message service details. |
 | [SolidBrush](./solidbrush) | Represents solid brush. It could be used instead background color property. |
 | [SpreadsheetPosition](./spreadsheetposition) | Defines signature position for Spreadsheet documents. |
+| [SwissAddress](./swissaddress) | Represents the address of the creditor or debtor. You can either set street, house number, postal code, and town (structured address type) or address line 1 and 2 (combined address elements type). |
+| [SwissQR](./swissqr) | Class for encoding and decoding the text embedded in the SwissQR code. |
 | [SymmetricEncryption](./symmetricencryption) | Implements standard symmetric algorithms for data encryption with single key and passphrase (salt). |
 | [SymmetricEncryptionAttribute](./symmetricencryptionattribute) | Instructs instances serialization to encrypt / decrypt object serialization string. |
 | [TextShadow](./textshadow) | Represents text shadow properties for text signatures. The result may vary depending on the signature type and document format. TextShadow is recommended for using with TextAsImage signature for all supported document types, also with simple TextSignature and TextSignature as watermark for Spreadsheets (.xslx) and Presentations (.pptx). Simple TextSignature for Words (.docx) is recommended too, but has limited functionality. |

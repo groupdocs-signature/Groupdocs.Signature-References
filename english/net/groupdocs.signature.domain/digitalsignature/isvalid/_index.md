@@ -3,7 +3,7 @@ title: IsValid
 second_title: GroupDocs.Signature for .NET API Reference
 description: Keeps true if this digital signature is valid and the document has not been tampered with.
 type: docs
-weight: 60
+weight: 70
 url: /net/groupdocs.signature.domain/digitalsignature/isvalid/
 ---
 ## DigitalSignature.IsValid property

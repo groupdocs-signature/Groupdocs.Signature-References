@@ -3,7 +3,7 @@ title: DigitalVerifyOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Keeps options to verify document Digital signature.
 type: docs
-weight: 1450
+weight: 1480
 url: /net/groupdocs.signature.options/digitalverifyoptions/
 ---
 ## DigitalVerifyOptions class

@@ -3,7 +3,7 @@ title: SignTime
 second_title: GroupDocs.Signature for .NET API Reference
 description: Gets or sets the time the document was signed.
 type: docs
-weight: 70
+weight: 80
 url: /net/groupdocs.signature.domain/digitalsignature/signtime/
 ---
 ## DigitalSignature.SignTime property

@@ -3,7 +3,7 @@ title: Clone
 second_title: GroupDocs.Signature for .NET API Reference
 description: Clone Barcode Signature instance.
 type: docs
-weight: 100
+weight: 110
 url: /net/groupdocs.signature.domain/digitalsignature/clone/
 ---
 ## DigitalSignature.Clone method
