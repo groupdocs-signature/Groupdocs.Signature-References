@@ -3,7 +3,7 @@ title: CertificateStoreName
 second_title: GroupDocs.Signature for .NET API Reference
 description: Specifies the store name of the certificate.
 type: docs
-weight: 40
+weight: 50
 url: /net/groupdocs.signature.domain/digitalsignature/certificatestorename/
 ---
 ## DigitalSignature.CertificateStoreName property

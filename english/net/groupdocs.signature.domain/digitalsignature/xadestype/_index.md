@@ -3,7 +3,7 @@ title: XAdESType
 second_title: GroupDocs.Signature for .NET API Reference
 description: XAdES type XAdESTypegroupdocs.signature.domain/digitalsignature/xadestype. Default value is None XAdES is off. At this moment XAdES signature type is supported only for Spreadsheet documents.
 type: docs
-weight: 90
+weight: 100
 url: /net/groupdocs.signature.domain/digitalsignature/xadestype/
 ---
 ## DigitalSignature.XAdESType property

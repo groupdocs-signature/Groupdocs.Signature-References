@@ -29,6 +29,7 @@ public class DigitalSignature : BaseSignature
 | Name | Description |
 | --- | --- |
 | [Certificate](../../groupdocs.signature.domain/digitalsignature/certificate) { get; set; } | Gets or sets the X509 certificate. |
+| [CertificateCustomStoreName](../../groupdocs.signature.domain/digitalsignature/certificatecustomstorename) { get; set; } | Specifies the custom store name of the certificate. |
 | [CertificateStoreLocation](../../groupdocs.signature.domain/digitalsignature/certificatestorelocation) { get; set; } | Specifies the store location of the certificate |
 | [CertificateStoreName](../../groupdocs.signature.domain/digitalsignature/certificatestorename) { get; set; } | Specifies the store name of the certificate. |
 | [Comments](../../groupdocs.signature.domain/digitalsignature/comments) { get; set; } | Gets or sets the signing purpose comment. |
@@ -55,9 +56,11 @@ public class DigitalSignature : BaseSignature
 | override [Clone](../../groupdocs.signature.domain/digitalsignature/clone)() | Clone Barcode Signature instance. |
 | override [Equals](../../groupdocs.signature.domain/digitalsignature/equals)(object) | Overwrites Equals method to compare signature properties |
 | override [GetHashCode](../../groupdocs.signature.domain/digitalsignature/gethashcode)() | Overrides GetHashCode method |
-| static [LoadDigitalSignatures](../../groupdocs.signature.domain/digitalsignature/loaddigitalsignatures#loaddigitalsignatures)() | Load Digital signature from all system X509 Certificates Stores. |
-| static [LoadDigitalSignatures](../../groupdocs.signature.domain/digitalsignature/loaddigitalsignatures#loaddigitalsignatures_1)(StoreName) | Load Digital signature from passed X509 Certificates Store. |
-| static [LoadDigitalSignatures](../../groupdocs.signature.domain/digitalsignature/loaddigitalsignatures#loaddigitalsignatures_2)(StoreName, StoreLocation) | Load Digital signature from passed X509 Certificates Store. |
+| static [LoadDigitalSignatures](../../groupdocs.signature.domain/digitalsignature/loaddigitalsignatures#loaddigitalsignatures)() | Load Digital signatures from all system X509 Certificates Stores. |
+| static [LoadDigitalSignatures](../../groupdocs.signature.domain/digitalsignature/loaddigitalsignatures#loaddigitalsignatures_1)(StoreName) | Load Digital signatures from a certificate storage. |
+| static [LoadDigitalSignatures](../../groupdocs.signature.domain/digitalsignature/loaddigitalsignatures#loaddigitalsignatures_3)(string) | Load Digital signatures from a certificate storage. |
+| static [LoadDigitalSignatures](../../groupdocs.signature.domain/digitalsignature/loaddigitalsignatures#loaddigitalsignatures_2)(StoreName, StoreLocation) | Load Digital signatures from a digital certificate storage placed in specific location. |
+| static [LoadDigitalSignatures](../../groupdocs.signature.domain/digitalsignature/loaddigitalsignatures#loaddigitalsignatures_4)(string, StoreLocation) | Load Digital signatures from a digital certificate storage placed in specific location. |
 
 ### See Also
 

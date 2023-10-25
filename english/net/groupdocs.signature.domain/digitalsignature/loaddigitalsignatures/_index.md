@@ -1,14 +1,14 @@
 ---
 title: LoadDigitalSignatures
 second_title: GroupDocs.Signature for .NET API Reference
-description: Load Digital signature from all system X509 Certificates Stores.
+description: Load Digital signatures from all system X509 Certificates Stores.
 type: docs
-weight: 130
+weight: 140
 url: /net/groupdocs.signature.domain/digitalsignature/loaddigitalsignatures/
 ---
 ## LoadDigitalSignatures() {#loaddigitalsignatures}
 
-Load Digital signature from all system X509 Certificates Stores.
+Load Digital signatures from all system X509 Certificates Stores.
 
 ```csharp
 public static List<DigitalSignature> LoadDigitalSignatures()
@@ -28,7 +28,7 @@ Returns list of [`DigitalSignature`](../../digitalsignature) Digital Signatures.
 
 ## LoadDigitalSignatures(StoreName) {#loaddigitalsignatures_1}
 
-Load Digital signature from passed X509 Certificates Store.
+Load Digital signatures from a certificate storage.
 
 ```csharp
 public static List<DigitalSignature> LoadDigitalSignatures(StoreName storeName)
@@ -36,7 +36,31 @@ public static List<DigitalSignature> LoadDigitalSignatures(StoreName storeName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| storeName | StoreName | Certificate Store to load digital certificates. |
+| storeName | StoreName | Name of a digital storage containing certificates. |
+
+### Return Value
+
+Returns list of [`DigitalSignature`](../../digitalsignature) Digital Signatures.
+
+### See Also
+
+* class [DigitalSignature](../../digitalsignature)
+* namespace [GroupDocs.Signature.Domain](../../digitalsignature)
+* assembly [GroupDocs.Signature](../../../)
+
+---
+
+## LoadDigitalSignatures(string) {#loaddigitalsignatures_3}
+
+Load Digital signatures from a certificate storage.
+
+```csharp
+public static List<DigitalSignature> LoadDigitalSignatures(string storeName)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| storeName | String | Custom name of a digital storage containing certificates. |
 
 ### Return Value
 
@@ -52,7 +76,7 @@ Returns list of [`DigitalSignature`](../../digitalsignature) Digital Signatures.
 
 ## LoadDigitalSignatures(StoreName, StoreLocation) {#loaddigitalsignatures_2}
 
-Load Digital signature from passed X509 Certificates Store.
+Load Digital signatures from a digital certificate storage placed in specific location.
 
 ```csharp
 public static List<DigitalSignature> LoadDigitalSignatures(StoreName storeName, 
@@ -61,8 +85,34 @@ public static List<DigitalSignature> LoadDigitalSignatures(StoreName storeName,
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| storeName | StoreName | Certificate Store to load digital certificates. |
-| storeLocation | StoreLocation | Certificate Location to load digital certificates. |
+| storeName | StoreName | Name of a digital storage containing certificates. |
+| storeLocation | StoreLocation | Location of a digital certificate storage. |
+
+### Return Value
+
+Returns list of [`DigitalSignature`](../../digitalsignature) Digital Signatures.
+
+### See Also
+
+* class [DigitalSignature](../../digitalsignature)
+* namespace [GroupDocs.Signature.Domain](../../digitalsignature)
+* assembly [GroupDocs.Signature](../../../)
+
+---
+
+## LoadDigitalSignatures(string, StoreLocation) {#loaddigitalsignatures_4}
+
+Load Digital signatures from a digital certificate storage placed in specific location.
+
+```csharp
+public static List<DigitalSignature> LoadDigitalSignatures(string storeName, 
+    StoreLocation storeLocation)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| storeName | String | Custom name of a digital storage containing certificates. |
+| storeLocation | StoreLocation | Location of a digital certificate storage. |
 
 ### Return Value
 

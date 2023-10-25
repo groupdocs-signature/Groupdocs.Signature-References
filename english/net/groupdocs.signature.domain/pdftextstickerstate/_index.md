@@ -3,7 +3,7 @@ title: PdfTextStickerState
 second_title: GroupDocs.Signature for .NET API Reference
 description: Describes enumeration of PDF text annotation sticker states.
 type: docs
-weight: 800
+weight: 830
 url: /net/groupdocs.signature.domain/pdftextstickerstate/
 ---
 ## PdfTextStickerState enumeration

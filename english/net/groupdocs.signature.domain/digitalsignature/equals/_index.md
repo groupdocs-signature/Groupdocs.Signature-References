@@ -3,7 +3,7 @@ title: Equals
 second_title: GroupDocs.Signature for .NET API Reference
 description: Overwrites Equals method to compare signature properties
 type: docs
-weight: 110
+weight: 120
 url: /net/groupdocs.signature.domain/digitalsignature/equals/
 ---
 ## DigitalSignature.Equals method

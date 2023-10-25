@@ -3,7 +3,7 @@ title: PdfSaveOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Save options for PDF documents.
 type: docs
-weight: 1610
+weight: 1640
 url: /net/groupdocs.signature.options/pdfsaveoptions/
 ---
 ## PdfSaveOptions class

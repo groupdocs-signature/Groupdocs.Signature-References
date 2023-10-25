@@ -3,7 +3,7 @@ title: Thumbprint
 second_title: GroupDocs.Signature for .NET API Reference
 description: Gets the thumbprint of a certificate.
 type: docs
-weight: 80
+weight: 90
 url: /net/groupdocs.signature.domain/digitalsignature/thumbprint/
 ---
 ## DigitalSignature.Thumbprint property

@@ -3,7 +3,7 @@ title: HIBCLICPrimaryData
 second_title: GroupDocs.Signature for .NET API Reference
 description: Class for storing HIBC Healthcare Industry Bar Code Council LIC Licensed Identification Code primary data.
 type: docs
-weight: 300
+weight: 310
 url: /net/groupdocs.signature.domain.extensions/hibclicprimarydata/
 ---
 ## HIBCLICPrimaryData class

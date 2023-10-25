@@ -3,7 +3,7 @@ title: PasswordRequiredException
 second_title: GroupDocs.Signature for .NET API Reference
 description: The exception that is thrown when password is required to load the document.
 type: docs
-weight: 1940
+weight: 1970
 url: /net/groupdocs.signature/passwordrequiredexception/
 ---
 ## PasswordRequiredException class

@@ -3,7 +3,7 @@ title: PdfDigitalSignature
 second_title: GroupDocs.Signature for .NET API Reference
 description: Contains Pdf Digital signature properties.
 type: docs
-weight: 730
+weight: 760
 url: /net/groupdocs.signature.domain/pdfdigitalsignature/
 ---
 ## PdfDigitalSignature class
@@ -28,6 +28,7 @@ public class PdfDigitalSignature : DigitalSignature
 | Name | Description |
 | --- | --- |
 | [Certificate](../../groupdocs.signature.domain/digitalsignature/certificate) { get; set; } | Gets or sets the X509 certificate. |
+| [CertificateCustomStoreName](../../groupdocs.signature.domain/digitalsignature/certificatecustomstorename) { get; set; } | Specifies the custom store name of the certificate. |
 | [CertificateStoreLocation](../../groupdocs.signature.domain/digitalsignature/certificatestorelocation) { get; set; } | Specifies the store location of the certificate |
 | [CertificateStoreName](../../groupdocs.signature.domain/digitalsignature/certificatestorename) { get; set; } | Specifies the store name of the certificate. |
 | [Comments](../../groupdocs.signature.domain/digitalsignature/comments) { get; set; } | Gets or sets the signing purpose comment. |

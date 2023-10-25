@@ -3,7 +3,7 @@ title: StampBackgroundCropType
 second_title: GroupDocs.Signature for .NET API Reference
 description: Specifies crop type of background layer on Stamp elements.
 type: docs
-weight: 970
+weight: 1000
 url: /net/groupdocs.signature.domain/stampbackgroundcroptype/
 ---
 ## StampBackgroundCropType enumeration

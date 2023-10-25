@@ -3,7 +3,7 @@ title: HIBCLICDateFormat
 second_title: GroupDocs.Signature for .NET API Reference
 description: Specifies the different types of date formats for HIBC Healthcare Industry Bar Code LIC Licensed Identification Code.
 type: docs
-weight: 290
+weight: 300
 url: /net/groupdocs.signature.domain.extensions/hibclicdateformat/
 ---
 ## HIBCLICDateFormat enumeration
