@@ -1,14 +1,14 @@
 ---
 title: FileName
 second_title: GroupDocs.Signature for .NET API Reference
-description: Name of a file which is being processed in order to get page previews.
+description: Name of a file which is being processed in order to get page previews. In case of nameless stream processing it equals fromstream.
 type: docs
 weight: 20
 url: /net/groupdocs.signature.options/previewpagedata/filename/
 ---
 ## PreviewPageData.FileName property
 
-Name of a file which is being processed in order to get page previews.
+Name of a file which is being processed in order to get page previews. In case of nameless stream processing it equals 'fromstream'.
 
 ```csharp
 public string FileName { get; }

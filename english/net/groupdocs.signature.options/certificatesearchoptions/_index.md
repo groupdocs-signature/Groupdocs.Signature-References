@@ -3,7 +3,7 @@ title: CertificateSearchOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents search options for Certificate metadata signatures.
 type: docs
-weight: 1400
+weight: 1460
 url: /net/groupdocs.signature.options/certificatesearchoptions/
 ---
 ## CertificateSearchOptions class

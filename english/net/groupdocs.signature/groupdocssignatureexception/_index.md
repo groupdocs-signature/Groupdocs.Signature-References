@@ -3,7 +3,7 @@ title: GroupDocsSignatureException
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents the generic errors that occur during document processing.
 type: docs
-weight: 1210
+weight: 1270
 url: /net/groupdocs.signature/groupdocssignatureexception/
 ---
 ## GroupDocsSignatureException class

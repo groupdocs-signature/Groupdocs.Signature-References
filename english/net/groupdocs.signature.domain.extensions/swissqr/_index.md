@@ -3,7 +3,7 @@ title: SwissQR
 second_title: GroupDocs.Signature for .NET API Reference
 description: Class for encoding and decoding the text embedded in the SwissQR code.
 type: docs
-weight: 460
+weight: 520
 url: /net/groupdocs.signature.domain.extensions/swissqr/
 ---
 ## SwissQR class
