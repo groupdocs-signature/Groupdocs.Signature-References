@@ -3,7 +3,7 @@ title: BarcodeSignOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents the Barcode signature options.
 type: docs
-weight: 1360
+weight: 1420
 url: /net/groupdocs.signature.options/barcodesignoptions/
 ---
 ## BarcodeSignOptions class

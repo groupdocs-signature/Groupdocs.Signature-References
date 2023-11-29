@@ -3,7 +3,7 @@ title: PreviewPageData
 second_title: GroupDocs.Signature for .NET API Reference
 description: Contains data about document page to be saved as preview image.
 type: docs
-weight: 1770
+weight: 1830
 url: /net/groupdocs.signature.options/previewpagedata/
 ---
 ## PreviewPageData class
@@ -24,7 +24,7 @@ public sealed class PreviewPageData
 
 | Name | Description |
 | --- | --- |
-| [FileName](../../groupdocs.signature.options/previewpagedata/filename) { get; } | Name of a file which is being processed in order to get page previews. |
+| [FileName](../../groupdocs.signature.options/previewpagedata/filename) { get; } | Name of a file which is being processed in order to get page previews. In case of nameless stream processing it equals 'fromstream'. |
 | [PageNumber](../../groupdocs.signature.options/previewpagedata/pagenumber) { get; } | Document page number of current preview. |
 | [PreviewFormat](../../groupdocs.signature.options/previewpagedata/previewformat) { get; } | Selected preview format. |
 

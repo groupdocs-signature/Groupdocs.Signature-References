@@ -3,7 +3,7 @@ title: MetadataType
 second_title: GroupDocs.Signature for .NET API Reference
 description: Specifies the supported Metadata signature data type of the value.
 type: docs
-weight: 730
+weight: 790
 url: /net/groupdocs.signature.domain/metadatatype/
 ---
 ## MetadataType enumeration

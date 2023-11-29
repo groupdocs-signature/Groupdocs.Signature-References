@@ -3,7 +3,7 @@ title: SearchResult
 second_title: GroupDocs.Signature for .NET API Reference
 description: Result of searching for signatures in specified document.
 type: docs
-weight: 930
+weight: 990
 url: /net/groupdocs.signature.domain/searchresult/
 ---
 ## SearchResult class

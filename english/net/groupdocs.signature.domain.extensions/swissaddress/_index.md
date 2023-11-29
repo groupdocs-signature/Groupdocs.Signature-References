@@ -3,7 +3,7 @@ title: SwissAddress
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents the address of the creditor or debtor. You can either set street house number postal code and town structured address type or address line 1 and 2 combined address elements type.
 type: docs
-weight: 450
+weight: 510
 url: /net/groupdocs.signature.domain.extensions/swissaddress/
 ---
 ## SwissAddress class

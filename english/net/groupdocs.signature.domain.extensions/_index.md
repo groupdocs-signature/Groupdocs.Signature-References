@@ -23,8 +23,12 @@ The namespace provides extensions for signature appearances and additional funct
 | [HIBCLICCombinedData](./hibcliccombineddata) | Class for storing HIBC (Healthcare Industry Bar Code Council) LIC (Licensed Identification Code) combined data with primary and secondary data entities. |
 | [HIBCLICPrimaryData](./hibclicprimarydata) | Class for storing HIBC (Healthcare Industry Bar Code Council) LIC (Licensed Identification Code) primary data. |
 | [HIBCLICSecondaryAdditionalData](./hibclicsecondaryadditionaldata) | Class for storing HIBC (Healthcare Industry Bar Code Council) LIC (Licensed Identification Code) secondary and additional data. |
+| [HIBCPASData](./hibcpasdata) | Class for encoding and decoding the text embedded in the HIBC PAS code. |
+| [HIBCPASRecord](./hibcpasrecord) | Class for storing HIBC (Healthcare Industry Bar Code Council) PAS (Provider Applications Standard) Record |
 | [LinearGradientBrush](./lineargradientbrush) | Represents linear gradient brush. |
 | [Mailmark2D](./mailmark2d) | Class for encoding and decoding the text embedded in the Royal Mail 2D Mailmark |
+| [MaxiCodeMode2](./maxicodemode2) | Class for encoding and decoding the text embedded in the MaxiCode code for modes |
+| [MaxiCodeSecondMessage](./maxicodesecondmessage) | Class for encoding and decoding standart second message for MaxiCode barcode. |
 | [MeCard](./mecard) | Represents MeCard standard contact details. |
 | [RadialGradientBrush](./radialgradientbrush) | Represents radial gradient brush. |
 | [SignatureExtension](./signatureextension) | Represents base class for signatures extensions. |
@@ -53,6 +57,8 @@ The namespace provides extensions for signature appearances and additional funct
 | [CryptoCurrencyType](./cryptocurrencytype) | Represents Cryptocurrency type. |
 | [DataMatrixEncodeMode](./datamatrixencodemode) | DataMatrix encoder's encoding mode, default to Auto |
 | [HIBCLICDateFormat](./hibclicdateformat) | Specifies the different types of date formats for HIBC (Healthcare Industry Bar Code) LIC (Licensed Identification Code). |
+| [HIBCPASDataLocation](./hibcpasdatalocation) | Specifies HIBC PAS data location types. HIBC - Healthcare Industry Bar Code PAS - Provider Applications Standard |
+| [HIBCPASDataType](./hibcpasdatatype) | Specifies the different data types of HIBC PAS record. HIBC - Healthcare Industry Bar Code PAS - Provider Applications Standard |
 | [Mailmark2DType](./mailmark2dtype) | 2D Mailmark Type defines size of Data Matrix barcode |
 | [SymmetricAlgorithmType](./symmetricalgorithmtype) | Represents symmetric encryption algorithm type. |
 | [WiFiEncryptionType](./wifiencryptiontype) | Represents WiFi Encryption type. |
