@@ -3,7 +3,7 @@ title: HIBCPASQR
 second_title: GroupDocs.Signature for .NET API Reference
 description: HIBC PAS QRCode Type object.
 type: docs
-weight: 120
+weight: 130
 url: /net/groupdocs.signature.domain/qrcodetypes/hibcpasqr/
 ---
 ## QrCodeTypes.HIBCPASQR field

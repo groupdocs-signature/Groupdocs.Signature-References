@@ -1,17 +1,17 @@
 ---
-title: HIBCLICQR
+title: GS1HanXin
 second_title: GroupDocs.Signature for .NET API Reference
-description: HIBC LIC QRCode Type object.
+description: GS1 Han Xin QRCode Type object.
 type: docs
-weight: 100
-url: /net/groupdocs.signature.domain/qrcodetypes/hibclicqr/
+weight: 50
+url: /net/groupdocs.signature.domain/qrcodetypes/gs1hanxin/
 ---
-## QrCodeTypes.HIBCLICQR field
+## QrCodeTypes.GS1HanXin field
 
-HIBC LIC QR-Code Type object.
+GS1 Han Xin QR-Code Type object.
 
 ```csharp
-public static readonly QrCodeType HIBCLICQR;
+public static readonly QrCodeType GS1HanXin;
 ```
 
 ### See Also

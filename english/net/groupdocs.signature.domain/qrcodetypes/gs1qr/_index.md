@@ -3,7 +3,7 @@ title: GS1QR
 second_title: GroupDocs.Signature for .NET API Reference
 description: GS1 QRCode Type object.
 type: docs
-weight: 50
+weight: 60
 url: /net/groupdocs.signature.domain/qrcodetypes/gs1qr/
 ---
 ## QrCodeTypes.GS1QR field

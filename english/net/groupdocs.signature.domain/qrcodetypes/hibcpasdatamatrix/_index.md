@@ -3,7 +3,7 @@ title: HIBCPASDataMatrix
 second_title: GroupDocs.Signature for .NET API Reference
 description: HIBC PAS Data Matrix QRCode Type object.
 type: docs
-weight: 110
+weight: 120
 url: /net/groupdocs.signature.domain/qrcodetypes/hibcpasdatamatrix/
 ---
 ## QrCodeTypes.HIBCPASDataMatrix field
