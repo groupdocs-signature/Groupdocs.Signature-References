@@ -39,6 +39,7 @@ Contains Digital signature properties.
 | [hashCode()](#hashCode--) | Overrides GetHashCode method |
 | [deepClone()](#deepClone--) | Clone Barcode Signature instance. |
 | [loadDigitalSignatures()](#loadDigitalSignatures--) | Load Digital signature from all system X509 Certificates Stores. |
+| [loadDigitalSignatures(StoreName storeName)](#loadDigitalSignatures-com.groupdocs.signature.domain.signatures.StoreName-) | Load Digital signature from passed X509 Certificates Store. |
 ### DigitalSignature() {#DigitalSignature--}
 ```
 public DigitalSignature()
@@ -240,6 +241,21 @@ public static List<DigitalSignature> loadDigitalSignatures()
 
 
 Load Digital signature from all system X509 Certificates Stores.
+
+**Returns:**
+java.util.List<com.groupdocs.signature.domain.signatures.DigitalSignature> - Returns list of [DigitalSignature](../../com.groupdocs.signature.domain.signatures/digitalsignature) Digital Signatures.
+### loadDigitalSignatures(StoreName storeName) {#loadDigitalSignatures-com.groupdocs.signature.domain.signatures.StoreName-}
+```
+public static List<DigitalSignature> loadDigitalSignatures(StoreName storeName)
+```
+
+
+Load Digital signature from passed X509 Certificates Store.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| storeName | [StoreName](../../com.groupdocs.signature.domain.signatures/storename) |  |
 
 **Returns:**
 java.util.List<com.groupdocs.signature.domain.signatures.DigitalSignature> - Returns list of [DigitalSignature](../../com.groupdocs.signature.domain.signatures/digitalsignature) Digital Signatures.

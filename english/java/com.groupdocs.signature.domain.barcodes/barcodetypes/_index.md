@@ -89,6 +89,7 @@ Barcode Types container.
 | [HIBCCode128LIC](#HIBCCode128LIC) | HIBC LIC 128 Barcode Type object. |
 | [HIBCCode39PAS](#HIBCCode39PAS) | HIBC PAS 39 Barcode Type object. |
 | [HIBCCode128PAS](#HIBCCode128PAS) | HIBC PAS 128 Barcode Type object. |
+| [GS1DotCode](#GS1DotCode) | GS1 DotCode Barcode Type object. |
 ## Methods
 
 | Method | Description |
@@ -640,6 +641,14 @@ public static final BarcodeType HIBCCode128PAS
 
 
 HIBC PAS 128 Barcode Type object.
+
+### GS1DotCode {#GS1DotCode}
+```
+public static final BarcodeType GS1DotCode
+```
+
+
+GS1 DotCode Barcode Type object.
 
 ### getAllTypes() {#getAllTypes--}
 ```

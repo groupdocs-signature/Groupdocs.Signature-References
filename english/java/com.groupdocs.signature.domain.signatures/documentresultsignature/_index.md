@@ -24,6 +24,7 @@ Result of processing archive document signing process for document with newly cr
 | [getDestinDocumentSize()](#getDestinDocumentSize--) | Returns destination document size |
 | [getSucceeded()](#getSucceeded--) | List of successfully processed signatures [BaseSignature](../../com.groupdocs.signature.domain.signatures/basesignature). |
 | [getFailed()](#getFailed--) | List of the signatures that failed during the process [BaseSignature](../../com.groupdocs.signature.domain.signatures/basesignature). |
+| [getErrorMessage()](#getErrorMessage--) | if document was processed with error this property will contain the error message |
 ### getFileName() {#getFileName--}
 ```
 public final String getFileName()
@@ -94,3 +95,13 @@ List of the signatures that failed during the process [BaseSignature](../../com.
 
 **Returns:**
 java.util.List<com.groupdocs.signature.domain.signatures.BaseSignature>
+### getErrorMessage() {#getErrorMessage--}
+```
+public final String getErrorMessage()
+```
+
+
+if document was processed with error this property will contain the error message
+
+**Returns:**
+java.lang.String

@@ -3,7 +3,7 @@ title: PageSignatureStreamFactory
 second_title: GroupDocs.Signature for Java API Reference
 description: 
 type: docs
-weight: 15
+weight: 13
 url: /java/com.groupdocs.signature.options/pagesignaturestreamfactory/
 ---```
 public interface PageSignatureStreamFactory

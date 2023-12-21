@@ -3,7 +3,7 @@ title: PreviewSignatureFormats
 second_title: GroupDocs.Signature for Java API Reference
 description: 
 type: docs
-weight: 13
+weight: 11
 url: /java/com.groupdocs.signature.options/previewsignatureformats/
 ---
 **Inheritance:**

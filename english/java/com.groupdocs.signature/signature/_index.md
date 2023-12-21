@@ -49,7 +49,7 @@ Represents main class that controls document signing process.
 | [verify(VerifyOptions verifyOptions)](#verify-com.groupdocs.signature.options.verify.VerifyOptions-) | Verifies the document signatures with given VerifyOptions data. |
 | [verify(List<VerifyOptions> verifyOptionsList)](#verify-java.util.List-com.groupdocs.signature.options.verify.VerifyOptions--) | Verifies the document signatures with list of VerifyOptions data. |
 | [getDocumentInfo()](#getDocumentInfo--) | Gets information about document pages: their sizes, maximum page height, the width of a page with the maximum height. |
-| [generatePreview(PreviewOptions previewOptions)](#generatePreview-com.groupdocs.signature.options.PreviewOptions-) | Generates document pages preview. |
+| [generatePreview(PreviewOptions previewOptions)](#generatePreview-com.groupdocs.signature.options.preview.PreviewOptions-) | Generates document pages preview. |
 | [search(List<SearchOptions> searchOptionsList)](#search-java.util.List-com.groupdocs.signature.options.search.SearchOptions--) | Searches for signatures in a document by [SearchOptions](../../com.groupdocs.signature.options.search/searchoptions) list. |
 | [<T>search(Class<T> typeOfT, SearchOptions searchOptions)](#-T-search-java.lang.Class-T--com.groupdocs.signature.options.search.SearchOptions-) | Searches for signatures in a document by [SearchOptions](../../com.groupdocs.signature.options.search/searchoptions) options. |
 | [<T>search(Class<T> typeOfT, int signatureType)](#-T-search-java.lang.Class-T--int-) | Searches for exact type of signatures in the document by [SignatureType](../../com.groupdocs.signature.domain.enums/signaturetype) value. |
@@ -567,7 +567,7 @@ Gets information about document pages: their sizes, maximum page height, the wid
 
 
 [How to get document properties in Java]: https://docs.groupdocs.com/signature/java/get-document-information/
-### generatePreview(PreviewOptions previewOptions) {#generatePreview-com.groupdocs.signature.options.PreviewOptions-}
+### generatePreview(PreviewOptions previewOptions) {#generatePreview-com.groupdocs.signature.options.preview.PreviewOptions-}
 ```
 public final void generatePreview(PreviewOptions previewOptions)
 ```
@@ -578,7 +578,7 @@ Generates document pages preview.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| previewOptions | [PreviewOptions](../../com.groupdocs.signature.options/previewoptions) | The preview options.
+| previewOptions | [PreviewOptions](../../com.groupdocs.signature.options.preview/previewoptions) | The preview options.
 
 --------------------
 
