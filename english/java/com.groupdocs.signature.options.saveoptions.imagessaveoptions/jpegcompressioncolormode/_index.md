@@ -3,7 +3,7 @@ title: JpegCompressionColorMode
 second_title: GroupDocs.Signature for Java API Reference
 description: Specifies JPEG color compression modes.
 type: docs
-weight: 13
+weight: 16
 url: /java/com.groupdocs.signature.options.saveoptions.imagessaveoptions/jpegcompressioncolormode/
 ---
 **Inheritance:**

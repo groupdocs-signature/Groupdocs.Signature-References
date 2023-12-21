@@ -3,7 +3,7 @@ title: TextVerifyOptions
 second_title: GroupDocs.Signature for Java API Reference
 description: Keeps options to verify document Text signature.
 type: docs
-weight: 13
+weight: 14
 url: /java/com.groupdocs.signature.options.verify/textverifyoptions/
 ---
 **Inheritance:**

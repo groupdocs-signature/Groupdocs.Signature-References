@@ -3,7 +3,7 @@ title: DigitalSearchOptions
 second_title: GroupDocs.Signature for Java API Reference
 description: Represents base options for Digital signatures search
 type: docs
-weight: 11
+weight: 12
 url: /java/com.groupdocs.signature.options.search/digitalsearchoptions/
 ---
 **Inheritance:**

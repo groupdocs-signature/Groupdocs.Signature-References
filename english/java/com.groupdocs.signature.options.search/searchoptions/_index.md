@@ -3,7 +3,7 @@ title: SearchOptions
 second_title: GroupDocs.Signature for Java API Reference
 description: Represents the extract signatures from document options.
 type: docs
-weight: 16
+weight: 17
 url: /java/com.groupdocs.signature.options.search/searchoptions/
 ---
 **Inheritance:**

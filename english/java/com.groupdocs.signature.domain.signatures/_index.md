@@ -3,7 +3,7 @@ title: com.groupdocs.signature.domain.signatures
 second_title: GroupDocs.Signature for Java API Reference
 description: The GroupDocs.Signature.Domain.Signatures namespace provides classes for working with Signatures
 type: docs
-weight: 20
+weight: 22
 url: /java/com.groupdocs.signature.domain.signatures/
 ---
 
@@ -21,4 +21,5 @@ The **GroupDocs.Signature.Domain.Signatures** namespace provides classes for wor
 | [ImageSignature](../com.groupdocs.signature.domain.signatures/imagesignature) | Contains Image signature properties. |
 | [PdfDigitalSignature](../com.groupdocs.signature.domain.signatures/pdfdigitalsignature) | Contains Pdf Digital signature properties. |
 | [QrCodeSignature](../com.groupdocs.signature.domain.signatures/qrcodesignature) | Contains QR-code signature properties. |
+| [StoreName](../com.groupdocs.signature.domain.signatures/storename) |  |
 | [TextSignature](../com.groupdocs.signature.domain.signatures/textsignature) | Contains Text signature properties. |

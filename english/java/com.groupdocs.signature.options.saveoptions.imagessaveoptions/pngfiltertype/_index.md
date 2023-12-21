@@ -3,7 +3,7 @@ title: PngFilterType
 second_title: GroupDocs.Signature for Java API Reference
 description: Represents PNG image filter type.
 type: docs
-weight: 18
+weight: 21
 url: /java/com.groupdocs.signature.options.saveoptions.imagessaveoptions/pngfiltertype/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: com.groupdocs.signature.options.saveoptions.imagessaveoptions
 second_title: GroupDocs.Signature for Java API Reference
 description: The GroupDocs.Signature.Options.SaveOptions.ImageSaveOptions namespace provides classes for working with ImageSaveOptions options.
 type: docs
-weight: 34
+weight: 37
 url: /java/com.groupdocs.signature.options.saveoptions.imagessaveoptions/
 ---
 
@@ -16,6 +16,9 @@ The **GroupDocs.Signature.Options.SaveOptions.ImageSaveOptions** namespace provi
 | --- | --- |
 | [BitmapCompression](../com.groupdocs.signature.options.saveoptions.imagessaveoptions/bitmapcompression) | Specifies different bitmap compression methods. |
 | [BmpSaveOptions](../com.groupdocs.signature.options.saveoptions.imagessaveoptions/bmpsaveoptions) | Bmp Save options for image documents. |
+| [DicomSaveOptions](../com.groupdocs.signature.options.saveoptions.imagessaveoptions/dicomsaveoptions) | Save options for DICOM image documents. |
+| [DicomXmpEntry](../com.groupdocs.signature.options.saveoptions.imagessaveoptions/dicomxmpentry) | Entry of XMP data for DICOM images (.dcm). |
+| [DicomXmpType](../com.groupdocs.signature.options.saveoptions.imagessaveoptions/dicomxmptype) | Supported types of XMP data for DICOM images (.dcm). |
 | [GifSaveOptions](../com.groupdocs.signature.options.saveoptions.imagessaveoptions/gifsaveoptions) | Gif format save options for Image Documents. |
 | [JpegCompressionColorMode](../com.groupdocs.signature.options.saveoptions.imagessaveoptions/jpegcompressioncolormode) | Specifies JPEG color compression modes. |
 | [JpegCompressionMode](../com.groupdocs.signature.options.saveoptions.imagessaveoptions/jpegcompressionmode) | Specifies JPEG compression modes. |

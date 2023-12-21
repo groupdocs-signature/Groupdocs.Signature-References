@@ -3,7 +3,7 @@ title: PngSaveOptions
 second_title: GroupDocs.Signature for Java API Reference
 description: Png Save options for Image Documents.
 type: docs
-weight: 19
+weight: 22
 url: /java/com.groupdocs.signature.options.saveoptions.imagessaveoptions/pngsaveoptions/
 ---
 **Inheritance:**

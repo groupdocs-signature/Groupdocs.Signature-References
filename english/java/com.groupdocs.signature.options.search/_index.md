@@ -3,7 +3,7 @@ title: com.groupdocs.signature.options.search
 second_title: GroupDocs.Signature for Java API Reference
 description: The GroupDocs.Signature.Options.Search namespace provides classes for working with Search options.
 type: docs
-weight: 35
+weight: 38
 url: /java/com.groupdocs.signature.options.search/
 ---
 
@@ -15,6 +15,7 @@ The **GroupDocs.Signature.Options.Search** namespace provides classes for workin
 | Class | Description |
 | --- | --- |
 | [BarcodeSearchOptions](../com.groupdocs.signature.options.search/barcodesearchoptions) | Represents abstract search Options for Barcode signatures. |
+| [CertificateSearchOptions](../com.groupdocs.signature.options.search/certificatesearchoptions) | Represents search options for Certificate metadata signatures. |
 | [DigitalSearchOptions](../com.groupdocs.signature.options.search/digitalsearchoptions) | Represents base options for Digital signatures search |
 | [FormFieldSearchOptions](../com.groupdocs.signature.options.search/formfieldsearchoptions) | Represents abstract search Options for Form-field signatures. |
 | [ImageSearchOptions](../com.groupdocs.signature.options.search/imagesearchoptions) | Represents search options for Image signatures. |

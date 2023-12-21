@@ -3,7 +3,7 @@ title: GifSaveOptions
 second_title: GroupDocs.Signature for Java API Reference
 description: Gif format save options for Image Documents.
 type: docs
-weight: 12
+weight: 15
 url: /java/com.groupdocs.signature.options.saveoptions.imagessaveoptions/gifsaveoptions/
 ---
 **Inheritance:**

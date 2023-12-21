@@ -3,7 +3,7 @@ title: MetadataSearchOptions
 second_title: GroupDocs.Signature for Java API Reference
 description: Represents abstract search Options for Metadata signatures.
 type: docs
-weight: 14
+weight: 15
 url: /java/com.groupdocs.signature.options.search/metadatasearchoptions/
 ---
 **Inheritance:**

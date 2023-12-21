@@ -3,7 +3,7 @@ title: MetadataSignature
 second_title: GroupDocs.Signature for Java API Reference
 description: Contains Metadata signature properties.
 type: docs
-weight: 11
+weight: 12
 url: /java/com.groupdocs.signature.domain.signatures.metadata/metadatasignature/
 ---
 **Inheritance:**

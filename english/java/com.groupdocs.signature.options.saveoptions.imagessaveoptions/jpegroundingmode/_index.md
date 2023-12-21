@@ -3,7 +3,7 @@ title: JpegRoundingMode
 second_title: GroupDocs.Signature for Java API Reference
 description: Specifies different JPEG rounding modes.
 type: docs
-weight: 15
+weight: 18
 url: /java/com.groupdocs.signature.options.saveoptions.imagessaveoptions/jpegroundingmode/
 ---
 **Inheritance:**

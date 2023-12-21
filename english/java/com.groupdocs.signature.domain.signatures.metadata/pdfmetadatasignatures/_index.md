@@ -3,7 +3,7 @@ title: PdfMetadataSignatures
 second_title: GroupDocs.Signature for Java API Reference
 description: Contains standard Metadata signatures to be used for Pdf document Metadata Signature Options.
 type: docs
-weight: 14
+weight: 15
 url: /java/com.groupdocs.signature.domain.signatures.metadata/pdfmetadatasignatures/
 ---
 **Inheritance:**
