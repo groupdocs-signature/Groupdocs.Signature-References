@@ -3,7 +3,7 @@ title: PreviewSignatureOptions
 second_title: GroupDocs.Signature for Java API Reference
 description: Represents signature preview options.
 type: docs
-weight: 14
+weight: 12
 url: /java/com.groupdocs.signature.options/previewsignatureoptions/
 ---
 **Inheritance:**

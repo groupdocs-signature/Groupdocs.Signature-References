@@ -3,7 +3,7 @@ title: SMS
 second_title: GroupDocs.Signature for Java API Reference
 description: Represents SMS short message service details.
 type: docs
-weight: 17
+weight: 18
 url: /java/com.groupdocs.signature.domain.extensions.serialization/sms/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: SearchOptions
 second_title: GroupDocs.Signature for Java API Reference
 description: Represents the extract signatures from document options.
 type: docs
-weight: 16
+weight: 17
 url: /java/com.groupdocs.signature.options.search/searchoptions/
 ---
 **Inheritance:**
@@ -25,6 +25,7 @@ Represents the extract signatures from document options.
 | [setAllPages(boolean value)](#setAllPages-boolean-) | Flag to search on each Document page. |
 | [getSkipExternal()](#getSkipExternal--) | Flag to return only signatures marked as IsSignature. |
 | [setSkipExternal(boolean value)](#setSkipExternal-boolean-) | Flag to return only signatures marked as IsSignature. |
+| [getSearchPages(int totalPages)](#getSearchPages-int-) | Virtual method to get list of pages for Signature extraction. |
 | [toString()](#toString--) | Override string conversion. |
 ### getPageNumber() {#getPageNumber--}
 ```
@@ -118,6 +119,21 @@ Flag to return only signatures marked as IsSignature. By default value is false 
 | --- | --- | --- |
 | value | boolean |  |
 
+### getSearchPages(int totalPages) {#getSearchPages-int-}
+```
+public System.Collections.Generic.List<Integer> getSearchPages(int totalPages)
+```
+
+
+Virtual method to get list of pages for Signature extraction.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| totalPages | int | Total count of pages |
+
+**Returns:**
+com.aspose.ms.System.Collections.Generic.List<java.lang.Integer> - List of page numbers
 ### toString() {#toString--}
 ```
 public String toString()

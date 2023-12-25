@@ -3,7 +3,7 @@ title: com.groupdocs.signature.domain.extensions.serialization
 second_title: GroupDocs.Signature for Java API Reference
 description: The GroupDocs.Signature.Domain.Extensions namespace provides extensions for signature appearances and additional functionality.
 type: docs
-weight: 17
+weight: 19
 url: /java/com.groupdocs.signature.domain.extensions.serialization/
 ---
 
@@ -17,6 +17,7 @@ The **GroupDocs.Signature.Domain.Extensions** namespace provides extensions for 
 | [Address](../com.groupdocs.signature.domain.extensions.serialization/address) | Represents Address of VCard contact details. |
 | [CryptoCurrencyTransfer](../com.groupdocs.signature.domain.extensions.serialization/cryptocurrencytransfer) | Represents Crypto currency transfer (reciever or transfer) for QR-Code. |
 | [CryptoCurrencyType](../com.groupdocs.signature.domain.extensions.serialization/cryptocurrencytype) | Represents Crypto currency type. |
+| [DataMatrixEncodeMode](../com.groupdocs.signature.domain.extensions.serialization/datamatrixencodemode) | DataMatrix encoder's encoding mode, default to Auto |
 | [EPC](../com.groupdocs.signature.domain.extensions.serialization/epc) | Represents European Payments Council Quick Response Code. |
 | [Email](../com.groupdocs.signature.domain.extensions.serialization/email) | Represents Email format for QR-Code. |
 | [Event](../com.groupdocs.signature.domain.extensions.serialization/event) | Represents standard QR-Code Event details. |

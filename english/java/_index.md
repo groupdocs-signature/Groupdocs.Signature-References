@@ -5,7 +5,7 @@ weight: 11
 url: /java/
 description: GroupDocs.Signature for Java API References contain examples, code snippets, and API documentation. It provides packages, classes, interfaces, and other API details.
 is_root: true
-version: 23.6.1
+version: 23.12
 ---
 
 ## Packages
@@ -18,6 +18,8 @@ version: 23.6.1
 | [com.groupdocs.signature.domain.enums](./com.groupdocs.signature.domain.enums) | The **GroupDocs.Signature.Domain.Enums** namespace provides classes for working with Enums |
 | [com.groupdocs.signature.domain.extensions](./com.groupdocs.signature.domain.extensions) | The **GroupDocs.Signature.Domain.Extensions** namespace provides extensions for signature appearances and additional functionality. |
 | [com.groupdocs.signature.domain.extensions.encryption](./com.groupdocs.signature.domain.extensions.encryption) | The **GroupDocs.Signature.Domain.Extensions.Encryption** namespace provides classes for working with Encryption |
+| [com.groupdocs.signature.domain.extensions.hibclic](./com.groupdocs.signature.domain.extensions.hibclic) |  |
+| [com.groupdocs.signature.domain.extensions.mailmark2d](./com.groupdocs.signature.domain.extensions.mailmark2d) |  |
 | [com.groupdocs.signature.domain.extensions.serialization](./com.groupdocs.signature.domain.extensions.serialization) | The **GroupDocs.Signature.Domain.Extensions** namespace provides extensions for signature appearances and additional functionality. |
 | [com.groupdocs.signature.domain.interfaces](./com.groupdocs.signature.domain.interfaces) | The **GroupDocs.Signature.Domain.Interfaces** namespace provides classes for working with Interfaces |
 | [com.groupdocs.signature.domain.qrcodes](./com.groupdocs.signature.domain.qrcodes) | The **GroupDocs.Signature.Domain.QRCodes** namespace provides classes for working with QRCodes |
@@ -34,6 +36,7 @@ version: 23.6.1
 | [com.groupdocs.signature.options](./com.groupdocs.signature.options) | The **GroupDocs.Signature.Options** namespace provides classes to specify additional options when loading, signing, verifyin, searching and saving documents. |
 | [com.groupdocs.signature.options.appearances](./com.groupdocs.signature.options.appearances) | The **GroupDocs.Signature.Options.Appearances** namespace provides classes for additional signature appearances. |
 | [com.groupdocs.signature.options.loadoptions](./com.groupdocs.signature.options.loadoptions) | The **GroupDocs.Signature.Options.LoadOptions** namespace provides classes for working with LoadOptions options. |
+| [com.groupdocs.signature.options.preview](./com.groupdocs.signature.options.preview) |  |
 | [com.groupdocs.signature.options.saveoptions](./com.groupdocs.signature.options.saveoptions) | The **GroupDocs.Signature.Options.SaveOptions** namespace provides classes for working with SaveOptions options. |
 | [com.groupdocs.signature.options.saveoptions.imagessaveoptions](./com.groupdocs.signature.options.saveoptions.imagessaveoptions) | The **GroupDocs.Signature.Options.SaveOptions.ImageSaveOptions** namespace provides classes for working with ImageSaveOptions options. |
 | [com.groupdocs.signature.options.search](./com.groupdocs.signature.options.search) | The **GroupDocs.Signature.Options.Search** namespace provides classes for working with Search options. |

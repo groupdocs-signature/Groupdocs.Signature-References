@@ -3,7 +3,7 @@ title: TiffFormat
 second_title: GroupDocs.Signature for Java API Reference
 description: Specifies different tiff formats.
 type: docs
-weight: 20
+weight: 23
 url: /java/com.groupdocs.signature.options.saveoptions.imagessaveoptions/tiffformat/
 ---
 **Inheritance:**

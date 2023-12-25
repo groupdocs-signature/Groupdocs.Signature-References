@@ -41,6 +41,8 @@ QRCode Types container.
 | [parse(String parsingType)](#parse-java.lang.String-) | Returns QRCode type with pasringType name. |
 | [tryParse(String parsingType)](#tryParse-java.lang.String-) | Returns QRCode type with pasringType name. |
 | [getDecodeTypes()](#getDecodeTypes--) | Internal list of Decode Types for extraction |
+| [isComplexType(System.Type type, QrCodeType qrCodeType)](#isComplexType-com.aspose.ms.System.Type-com.groupdocs.signature.domain.qrcodes.QrCodeType-) |  |
+| [getDataEncoding(System.Type type, QrCodeType qrCodeType)](#getDataEncoding-com.aspose.ms.System.Type-com.groupdocs.signature.domain.qrcodes.QrCodeType-) |  |
 ### QrCodeTypes() {#QrCodeTypes--}
 ```
 public QrCodeTypes()
@@ -185,3 +187,35 @@ Internal list of Decode Types for extraction
 
 **Returns:**
 com.aspose.ms.System.Collections.Generic.List<com.aspose.barcode.barcoderecognition.BaseDecodeType>
+### isComplexType(System.Type type, QrCodeType qrCodeType) {#isComplexType-com.aspose.ms.System.Type-com.groupdocs.signature.domain.qrcodes.QrCodeType-}
+```
+public static boolean isComplexType(System.Type type, QrCodeType qrCodeType)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| type | com.aspose.ms.System.Type |  |
+| qrCodeType | [QrCodeType](../../com.groupdocs.signature.domain.qrcodes/qrcodetype) |  |
+
+**Returns:**
+boolean
+### getDataEncoding(System.Type type, QrCodeType qrCodeType) {#getDataEncoding-com.aspose.ms.System.Type-com.groupdocs.signature.domain.qrcodes.QrCodeType-}
+```
+public static IComplexCodeDataEncoding getDataEncoding(System.Type type, QrCodeType qrCodeType)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| type | com.aspose.ms.System.Type |  |
+| qrCodeType | [QrCodeType](../../com.groupdocs.signature.domain.qrcodes/qrcodetype) |  |
+
+**Returns:**
+[IComplexCodeDataEncoding](../../com.groupdocs.signature.domain.extensions/icomplexcodedataencoding)

@@ -3,7 +3,7 @@ title: com.groupdocs.signature.domain.structs
 second_title: GroupDocs.Signature for Java API Reference
 description: 
 type: docs
-weight: 24
+weight: 26
 url: /java/com.groupdocs.signature.domain.structs/
 ---
 

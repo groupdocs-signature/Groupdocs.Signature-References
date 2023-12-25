@@ -3,7 +3,7 @@ title: TextSearchOptions
 second_title: GroupDocs.Signature for Java API Reference
 description: Represents search options for Text signatures.
 type: docs
-weight: 17
+weight: 18
 url: /java/com.groupdocs.signature.options.search/textsearchoptions/
 ---
 **Inheritance:**

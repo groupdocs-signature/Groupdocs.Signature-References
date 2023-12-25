@@ -3,7 +3,7 @@ title: MetadataSignature
 second_title: GroupDocs.Signature for Java API Reference
 description: Contains Metadata signature properties.
 type: docs
-weight: 11
+weight: 12
 url: /java/com.groupdocs.signature.domain.signatures.metadata/metadatasignature/
 ---
 **Inheritance:**
@@ -21,6 +21,8 @@ Contains Metadata signature properties.
 | [setName(String value)](#setName-java.lang.String-) | Specifies unique metadata name. |
 | [getValue()](#getValue--) | Specifies metadata object. |
 | [setValue(Object value)](#setValue-java.lang.Object-) | Specifies metadata object. |
+| [getType()](#getType--) | Specifies metadata value type. |
+| [setType(int value)](#setType-int-) | Specifies metadata value type. |
 | [getDataEncryption()](#getDataEncryption--) | Gets or sets implementation of [IDataEncryption](../../com.groupdocs.signature.domain.extensions.encryption/idataencryption) interface to encode and decode signature Value properties. |
 | [setDataEncryption(IDataEncryption value)](#setDataEncryption-com.groupdocs.signature.domain.extensions.encryption.IDataEncryption-) | Gets or sets implementation of [IDataEncryption](../../com.groupdocs.signature.domain.extensions.encryption/idataencryption) interface to encode and decode signature Value properties. |
 | [<T>getData(Class<T> typeOfT)](#-T-getData-java.lang.Class-T--) | Obtain object from Metadata Signature Value over deserialization. |
@@ -38,8 +40,6 @@ Contains Metadata signature properties.
 | [toString()](#toString--) | Converts to String with override ToString() method |
 | [toString(String format)](#toString-java.lang.String-) | Converts to String with specified format |
 | [toString(String format, Locale provider)](#toString-java.lang.String-java.util.Locale-) | Converts to String with specified format |
-| [getType()](#getType--) | Specifies metadata value type. |
-| [setType(int value)](#setType-int-) | Specifies metadata value type. |
 | [deepClone()](#deepClone--) | Clone Metadata Signature instance. |
 | [deepClone(Object value)](#deepClone-java.lang.Object-) | Clone Metadata Signature instance with given value. |
 ### getName() {#getName--}
@@ -87,6 +87,29 @@ Specifies metadata object.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | java.lang.Object |  |
+
+### getType() {#getType--}
+```
+public final int getType()
+```
+
+
+Specifies metadata value type.
+
+**Returns:**
+int
+### setType(int value) {#setType-int-}
+```
+public final void setType(int value)
+```
+
+
+Specifies metadata value type.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
 
 ### getDataEncryption() {#getDataEncryption--}
 ```
@@ -351,29 +374,6 @@ Converts a boolean property into "True" or "False". |
 
 **Returns:**
 java.lang.String - Returns the Metadata Signature value as String.
-### getType() {#getType--}
-```
-public final int getType()
-```
-
-
-Specifies metadata value type.
-
-**Returns:**
-int
-### setType(int value) {#setType-int-}
-```
-public final void setType(int value)
-```
-
-
-Specifies metadata value type.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int |  |
-
 ### deepClone() {#deepClone--}
 ```
 public Object deepClone()

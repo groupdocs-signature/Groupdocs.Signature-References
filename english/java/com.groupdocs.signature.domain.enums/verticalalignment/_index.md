@@ -17,19 +17,10 @@ Specifies vertical alignment of element on Document Page.
 
 | Field | Description |
 | --- | --- |
-| [Default](#Default) | Same as GroupDocs.Signature.Domain.VerticalAlignment.None. |
 | [None](#None) | The object is explicitly positioned, usually using its Top property. |
 | [Top](#Top) | Specifies that the object shall be at the top of the vertical alignment base. |
 | [Center](#Center) | Specifies that the object shall be centered with respect to the vertical alignment base. |
 | [Bottom](#Bottom) | Specifies that the object shall be at the bottom of the vertical alignment base. |
-### Default {#Default}
-```
-public static final int Default
-```
-
-
-Same as GroupDocs.Signature.Domain.VerticalAlignment.None.
-
 ### None {#None}
 ```
 public static final int None

@@ -17,7 +17,6 @@ Specifies horizontal alignment of element on Document Page.
 
 | Field | Description |
 | --- | --- |
-| [Default](#Default) | Same as GroupDocs.Signature.Domain.HorizontalAlignment.None. |
 | [None](#None) | The object is explicitly positioned, usually using its Left property. |
 | [Left](#Left) | Specifies that the object shall be left aligned to the horizontal alignment base. |
 | [Center](#Center) | Specifies that the object shall be centered with respect to the horizontal alignment base. |
@@ -27,14 +26,6 @@ Specifies horizontal alignment of element on Document Page.
 | Method | Description |
 | --- | --- |
 | [getValues()](#getValues--) |  |
-### Default {#Default}
-```
-public static final int Default
-```
-
-
-Same as GroupDocs.Signature.Domain.HorizontalAlignment.None.
-
 ### None {#None}
 ```
 public static final int None

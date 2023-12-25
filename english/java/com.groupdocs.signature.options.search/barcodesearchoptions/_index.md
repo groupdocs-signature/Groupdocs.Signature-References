@@ -167,7 +167,7 @@ public final FileType getReturnContentType()
 ```
 
 
-Specifies file type of returned image content of the Barcode signature when ReturnContent property is enabled. By default it set to Null. That means to return Barcode image content in original format. This image format is specified at  BarcodeSignature.Format ([BarcodeSignature.getFormat](../../com.groupdocs.signature.domain.signatures/barcodesignature\#getFormat)/[BarcodeSignature.setFormat(FileType)](../../com.groupdocs.signature.domain.signatures/barcodesignature\#setFormat-FileType-)) Possible supported values are: FileType.JPEG, FileType.PNG, FileType.BMP. If provided format is not supported than Barcode image content in .png format will be returned.
+Specifies file type of returned image content of the Barcode signature when ReturnContent property is enabled. By default it set to Null. That means to return Barcode image content in original format. This image format is specified at  BarcodeSignature.Format ([BarcodeSignature.getFormat](../../com.groupdocs.signature.domain.signatures/barcodesignature\#getFormat)\}) Possible supported values are: FileType.JPEG, FileType.PNG, FileType.BMP. If provided format is not supported than Barcode image content in .png format will be returned.
 
 **Returns:**
 [FileType](../../com.groupdocs.signature.domain.documentpreview/filetype)
@@ -177,7 +177,7 @@ public final void setReturnContentType(FileType value)
 ```
 
 
-Specifies file type of returned image content of the Barcode signature when ReturnContent property is enabled. By default it set to Null. That means to return Barcode image content in original format. This image format is specified at  BarcodeSignature.Format ([BarcodeSignature.getFormat](../../com.groupdocs.signature.domain.signatures/barcodesignature\#getFormat)/[BarcodeSignature.setFormat(FileType)](../../com.groupdocs.signature.domain.signatures/barcodesignature\#setFormat-FileType-)) Possible supported values are: FileType.JPEG, FileType.PNG, FileType.BMP. If provided format is not supported than Barcode image content in .png format will be returned.
+Specifies file type of returned image content of the Barcode signature when ReturnContent property is enabled. By default it set to Null. That means to return Barcode image content in original format. This image format is specified at  BarcodeSignature.Format ([BarcodeSignature.getFormat](../../com.groupdocs.signature.domain.signatures/barcodesignature\#getFormat)\}) Possible supported values are: FileType.JPEG, FileType.PNG, FileType.BMP. If provided format is not supported than Barcode image content in .png format will be returned.
 
 **Parameters:**
 | Parameter | Type | Description |

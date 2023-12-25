@@ -3,7 +3,7 @@ title: WordProcessingMetadataSignature
 second_title: GroupDocs.Signature for Java API Reference
 description: Contains WordProcessing Metadata Signature properties.
 type: docs
-weight: 17
+weight: 18
 url: /java/com.groupdocs.signature.domain.signatures.metadata/wordprocessingmetadatasignature/
 ---
 **Inheritance:**

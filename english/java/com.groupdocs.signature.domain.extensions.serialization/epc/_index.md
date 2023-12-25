@@ -3,7 +3,7 @@ title: EPC
 second_title: GroupDocs.Signature for Java API Reference
 description: Represents European Payments Council Quick Response Code.
 type: docs
-weight: 13
+weight: 14
 url: /java/com.groupdocs.signature.domain.extensions.serialization/epc/
 ---
 **Inheritance:**

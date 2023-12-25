@@ -3,7 +3,7 @@ title: WiFi
 second_title: GroupDocs.Signature for Java API Reference
 description: Represents WiFi network connection details.
 type: docs
-weight: 19
+weight: 20
 url: /java/com.groupdocs.signature.domain.extensions.serialization/wifi/
 ---
 **Inheritance:**

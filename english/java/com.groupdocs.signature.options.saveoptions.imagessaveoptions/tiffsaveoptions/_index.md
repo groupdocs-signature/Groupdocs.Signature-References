@@ -3,7 +3,7 @@ title: TiffSaveOptions
 second_title: GroupDocs.Signature for Java API Reference
 description: Tiff Save options for Image Documents.
 type: docs
-weight: 21
+weight: 24
 url: /java/com.groupdocs.signature.options.saveoptions.imagessaveoptions/tiffsaveoptions/
 ---
 **Inheritance:**

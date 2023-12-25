@@ -3,7 +3,7 @@ title: com.groupdocs.signature.domain.interfaces
 second_title: GroupDocs.Signature for Java API Reference
 description: The GroupDocs.Signature.Domain.Interfaces namespace provides classes for working with Interfaces
 type: docs
-weight: 18
+weight: 20
 url: /java/com.groupdocs.signature.domain.interfaces/
 ---
 

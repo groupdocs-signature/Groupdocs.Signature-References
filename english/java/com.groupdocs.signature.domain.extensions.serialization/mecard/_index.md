@@ -3,7 +3,7 @@ title: MeCard
 second_title: GroupDocs.Signature for Java API Reference
 description: Represents MeCard standard contact details.
 type: docs
-weight: 16
+weight: 17
 url: /java/com.groupdocs.signature.domain.extensions.serialization/mecard/
 ---
 **Inheritance:**

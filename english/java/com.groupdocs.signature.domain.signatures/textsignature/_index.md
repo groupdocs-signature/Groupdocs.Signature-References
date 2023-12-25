@@ -3,7 +3,7 @@ title: TextSignature
 second_title: GroupDocs.Signature for Java API Reference
 description: Contains Text signature properties.
 type: docs
-weight: 17
+weight: 18
 url: /java/com.groupdocs.signature.domain.signatures/textsignature/
 ---
 **Inheritance:**

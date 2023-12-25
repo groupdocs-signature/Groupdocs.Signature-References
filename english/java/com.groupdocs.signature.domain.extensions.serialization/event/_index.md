@@ -3,7 +3,7 @@ title: Event
 second_title: GroupDocs.Signature for Java API Reference
 description: Represents standard QR-Code Event details.
 type: docs
-weight: 15
+weight: 16
 url: /java/com.groupdocs.signature.domain.extensions.serialization/event/
 ---
 **Inheritance:**

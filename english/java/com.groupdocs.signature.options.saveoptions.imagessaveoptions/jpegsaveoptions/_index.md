@@ -3,7 +3,7 @@ title: JpegSaveOptions
 second_title: GroupDocs.Signature for Java API Reference
 description: Jpeg Save options for Image Documents.
 type: docs
-weight: 16
+weight: 19
 url: /java/com.groupdocs.signature.options.saveoptions.imagessaveoptions/jpegsaveoptions/
 ---
 **Inheritance:**

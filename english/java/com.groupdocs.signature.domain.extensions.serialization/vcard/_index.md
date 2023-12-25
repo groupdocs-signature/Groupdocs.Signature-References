@@ -3,7 +3,7 @@ title: VCard
 second_title: GroupDocs.Signature for Java API Reference
 description: Represents VCard standard contact details.
 type: docs
-weight: 18
+weight: 19
 url: /java/com.groupdocs.signature.domain.extensions.serialization/vcard/
 ---
 **Inheritance:**

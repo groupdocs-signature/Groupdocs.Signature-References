@@ -3,7 +3,7 @@ title: com.groupdocs.signature.options.appearances
 second_title: GroupDocs.Signature for Java API Reference
 description: The GroupDocs.Signature.Options.Appearances namespace provides classes for additional signature appearances.
 type: docs
-weight: 31
+weight: 33
 url: /java/com.groupdocs.signature.options.appearances/
 ---
 

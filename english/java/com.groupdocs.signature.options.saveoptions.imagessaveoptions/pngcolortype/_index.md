@@ -3,7 +3,7 @@ title: PngColorType
 second_title: GroupDocs.Signature for Java API Reference
 description: Represents the PNG image color type.
 type: docs
-weight: 17
+weight: 20
 url: /java/com.groupdocs.signature.options.saveoptions.imagessaveoptions/pngcolortype/
 ---
 **Inheritance:**
