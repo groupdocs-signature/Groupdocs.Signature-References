@@ -3,7 +3,7 @@ title: TextSignature
 second_title: GroupDocs.Signature for .NET API Reference
 description: Contains Text signature properties.
 type: docs
-weight: 1160
+weight: 1170
 url: /net/groupdocs.signature.domain/textsignature/
 ---
 ## TextSignature class

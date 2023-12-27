@@ -94,6 +94,7 @@ The namespace provides classes for working with document representation.
 | [PresentationSaveFileFormat](./presentationsavefileformat) | Defines different save file formats. |
 | [ProcessStatus](./processstatus) | Specifies status of signing and verification processes. |
 | [ProcessType](./processtype) | Defines supported process with documents like Info, Preview, Sign, Verify, Search, Update, Delete |
+| [ShapePosition](./shapeposition) | Specifies shape position in the document layout |
 | [SignatureType](./signaturetype) | Defines supported types of signatures for various processes like Sign, Verify, Search, Update, Delete |
 | [SpreadsheetSaveFileFormat](./spreadsheetsavefileformat) | Defines different save formats for Spreadsheet documents. |
 | [StampBackgroundCropType](./stampbackgroundcroptype) | Specifies crop type of background layer on Stamp elements. |

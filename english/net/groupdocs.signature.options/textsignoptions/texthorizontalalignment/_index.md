@@ -3,7 +3,7 @@ title: TextHorizontalAlignment
 second_title: GroupDocs.Signature for .NET API Reference
 description: Horizontal alignment of text inside a signature. This feature is supported only for Image and Annotation signature implementations see TextSignatureImplementationgroupdocs.signature.domain/textsignatureimplementation SignatureImplementation property.
 type: docs
-weight: 220
+weight: 230
 url: /net/groupdocs.signature.options/textsignoptions/texthorizontalalignment/
 ---
 ## TextSignOptions.TextHorizontalAlignment property

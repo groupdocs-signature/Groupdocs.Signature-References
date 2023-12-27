@@ -3,7 +3,7 @@ title: SpreadsheetSaveFileFormat
 second_title: GroupDocs.Signature for .NET API Reference
 description: Defines different save formats for Spreadsheet documents.
 type: docs
-weight: 1040
+weight: 1050
 url: /net/groupdocs.signature.domain/spreadsheetsavefileformat/
 ---
 ## SpreadsheetSaveFileFormat enumeration

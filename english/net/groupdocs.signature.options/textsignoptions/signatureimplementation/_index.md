@@ -3,7 +3,7 @@ title: SignatureImplementation
 second_title: GroupDocs.Signature for .NET API Reference
 description: Gets or sets the type of text signature implementation.
 type: docs
-weight: 180
+weight: 190
 url: /net/groupdocs.signature.options/textsignoptions/signatureimplementation/
 ---
 ## TextSignOptions.SignatureImplementation property

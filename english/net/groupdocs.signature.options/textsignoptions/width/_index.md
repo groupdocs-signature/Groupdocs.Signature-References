@@ -3,7 +3,7 @@ title: Width
 second_title: GroupDocs.Signature for .NET API Reference
 description: Width of Signature on Document Page in Measure values pixels percents or millimeters see MeasureTypegroupdocs.signature.domain/measuretype SizeMeasureType property.
 type: docs
-weight: 270
+weight: 280
 url: /net/groupdocs.signature.options/textsignoptions/width/
 ---
 ## TextSignOptions.Width property

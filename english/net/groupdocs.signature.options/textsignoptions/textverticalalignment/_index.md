@@ -3,7 +3,7 @@ title: TextVerticalAlignment
 second_title: GroupDocs.Signature for .NET API Reference
 description: Vertical alignment of text inside a signature. This feature is supported only for Image signature implementation see TextSignatureImplementationgroupdocs.signature.domain/textsignatureimplementation SignatureImplementation property.
 type: docs
-weight: 230
+weight: 240
 url: /net/groupdocs.signature.options/textsignoptions/textverticalalignment/
 ---
 ## TextSignOptions.TextVerticalAlignment property

@@ -3,7 +3,7 @@ title: TextSignOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents the Text signature options.
 type: docs
-weight: 1960
+weight: 1970
 url: /net/groupdocs.signature.options/textsignoptions/
 ---
 ## TextSignOptions class
@@ -45,6 +45,7 @@ public class TextSignOptions : SignOptions, IAlignment, IRectangle, IRotation, I
 | virtual [PageNumber](../../groupdocs.signature.options/signoptions/pagenumber) { get; set; } | Gets or sets document page number for signing. Minimal and default value is 1. |
 | virtual [PagesSetup](../../groupdocs.signature.options/signoptions/pagessetup) { get; set; } | Options to specify pages to be signed. |
 | [RotationAngle](../../groupdocs.signature.options/textsignoptions/rotationangle) { get; set; } | Rotation angle of signature on document page (clockwise). |
+| [ShapePosition](../../groupdocs.signature.options/textsignoptions/shapeposition) { get; set; } | Defines where shape should be presented in the document layout |
 | [ShapeType](../../groupdocs.signature.options/textsignoptions/shapetype) { get; set; } | Gets or sets the type of shape to put text. This property could be used only with SignatureImplementation = TextStamp. Value by default is Rectangle. |
 | [SignatureID](../../groupdocs.signature.options/textsignoptions/signatureid) { get; set; } | Gets or sets the unique ID of signature. It can be used in signature verification options. Property is supported for Pdf documents only. |
 | [SignatureImplementation](../../groupdocs.signature.options/textsignoptions/signatureimplementation) { get; set; } | Gets or sets the type of text signature implementation. |

@@ -3,7 +3,7 @@ title: Text
 second_title: GroupDocs.Signature for .NET API Reference
 description: Gets or sets the text of signature.
 type: docs
-weight: 210
+weight: 220
 url: /net/groupdocs.signature.options/textsignoptions/text/
 ---
 ## TextSignOptions.Text property
