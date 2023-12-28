@@ -3,7 +3,7 @@ title: ShapeType
 second_title: GroupDocs.Signature for .NET API Reference
 description: Gets or sets the type of shape to put text. This property could be used only with SignatureImplementation  TextStamp. Value by default is Rectangle.
 type: docs
-weight: 160
+weight: 170
 url: /net/groupdocs.signature.options/textsignoptions/shapetype/
 ---
 ## TextSignOptions.ShapeType property

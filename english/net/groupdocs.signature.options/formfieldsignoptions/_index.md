@@ -3,7 +3,7 @@ title: FormFieldSignOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents class of the FormField signature options for Pdf documents.
 type: docs
-weight: 1570
+weight: 1580
 url: /net/groupdocs.signature.options/formfieldsignoptions/
 ---
 ## FormFieldSignOptions class
@@ -45,6 +45,7 @@ public sealed class FormFieldSignOptions : TextSignOptions
 | virtual [PageNumber](../../groupdocs.signature.options/signoptions/pagenumber) { get; set; } | Gets or sets document page number for signing. Minimal and default value is 1. |
 | virtual [PagesSetup](../../groupdocs.signature.options/signoptions/pagessetup) { get; set; } | Options to specify pages to be signed. |
 | [RotationAngle](../../groupdocs.signature.options/textsignoptions/rotationangle) { get; set; } | Rotation angle of signature on document page (clockwise). |
+| [ShapePosition](../../groupdocs.signature.options/textsignoptions/shapeposition) { get; set; } | Defines where shape should be presented in the document layout |
 | [ShapeType](../../groupdocs.signature.options/textsignoptions/shapetype) { get; set; } | Gets or sets the type of shape to put text. This property could be used only with SignatureImplementation = TextStamp. Value by default is Rectangle. |
 | [Signature](../../groupdocs.signature.options/formfieldsignoptions/signature) { get; set; } | Gets or sets the FormField of signature. |
 | [SignatureID](../../groupdocs.signature.options/textsignoptions/signatureid) { get; set; } | Gets or sets the unique ID of signature. It can be used in signature verification options. Property is supported for Pdf documents only. |

@@ -1,14 +1,14 @@
 ---
 title: HanXin
 second_title: GroupDocs.Signature for .NET API Reference
-description: HIBC PAS Aztec QRCode Type object.
+description: Han Xin QRCode Type object.
 type: docs
-weight: 60
+weight: 70
 url: /net/groupdocs.signature.domain/qrcodetypes/hanxin/
 ---
 ## QrCodeTypes.HanXin field
 
-HIBC PAS Aztec QR-Code Type object.
+Han Xin QR-Code Type object.
 
 ```csharp
 public static readonly QrCodeType HanXin;

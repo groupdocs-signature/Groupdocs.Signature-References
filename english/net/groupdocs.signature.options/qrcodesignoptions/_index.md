@@ -3,7 +3,7 @@ title: QrCodeSignOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents the QRCode signature options.
 type: docs
-weight: 1870
+weight: 1880
 url: /net/groupdocs.signature.options/qrcodesignoptions/
 ---
 ## QrCodeSignOptions class
@@ -55,6 +55,7 @@ public class QrCodeSignOptions : TextSignOptions
 | [ReturnContent](../../groupdocs.signature.options/qrcodesignoptions/returncontent) { get; set; } | Gets or sets flag to get QR-Code image content of a signature which was put on document page. If this flag is set true, QR-Code signature image content will keep raw image data by required format [`ReturnContentType`](./returncontenttype). By default this option is disabled. |
 | [ReturnContentType](../../groupdocs.signature.options/qrcodesignoptions/returncontenttype) { get; set; } | Specifies file type of returned image content of the QR-Code signature when ReturnContent property is enabled. By default it set to Null. That means to return QR-Code image content in original format. This image format is specified at [`Format`](../../groupdocs.signature.domain/qrcodesignature/format) Possible supported values are: FileType.JPEG, FileType.PNG, FileType.BMP. If provided format is not supported than QR-Code image content in .png format will be returned. |
 | [RotationAngle](../../groupdocs.signature.options/textsignoptions/rotationangle) { get; set; } | Rotation angle of signature on document page (clockwise). |
+| [ShapePosition](../../groupdocs.signature.options/textsignoptions/shapeposition) { get; set; } | Defines where shape should be presented in the document layout |
 | [ShapeType](../../groupdocs.signature.options/textsignoptions/shapetype) { get; set; } | Gets or sets the type of shape to put text. This property could be used only with SignatureImplementation = TextStamp. Value by default is Rectangle. |
 | [SignatureID](../../groupdocs.signature.options/textsignoptions/signatureid) { get; set; } | Gets or sets the unique ID of signature. It can be used in signature verification options. Property is supported for Pdf documents only. |
 | [SignatureImplementation](../../groupdocs.signature.options/textsignoptions/signatureimplementation) { get; set; } | Gets or sets the type of text signature implementation. |

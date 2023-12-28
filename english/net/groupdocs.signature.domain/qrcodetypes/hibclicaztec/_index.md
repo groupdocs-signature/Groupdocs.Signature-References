@@ -3,7 +3,7 @@ title: HIBCLICAztec
 second_title: GroupDocs.Signature for .NET API Reference
 description: HIBC LIC Aztec QRCode Type object.
 type: docs
-weight: 70
+weight: 80
 url: /net/groupdocs.signature.domain/qrcodetypes/hibclicaztec/
 ---
 ## QrCodeTypes.HIBCLICAztec field

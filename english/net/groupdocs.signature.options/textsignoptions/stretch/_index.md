@@ -3,7 +3,7 @@ title: Stretch
 second_title: GroupDocs.Signature for .NET API Reference
 description: Stretch mode on Document Page.
 type: docs
-weight: 200
+weight: 210
 url: /net/groupdocs.signature.options/textsignoptions/stretch/
 ---
 ## TextSignOptions.Stretch property
