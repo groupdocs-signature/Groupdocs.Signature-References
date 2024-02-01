@@ -53,6 +53,7 @@ public class DigitalSignOptions : ImageSignOptions
 | [Reason](../../groupdocs.signature.options/digitalsignoptions/reason) { get; set; } | Gets or sets the reason of signature. |
 | [Rectangle](../../groupdocs.signature.options/imagesignoptions/rectangle) { get; } | Rectangle of area to put the image on document. |
 | [RotationAngle](../../groupdocs.signature.options/imagesignoptions/rotationangle) { get; set; } | Rotation angle of signature on document page (clockwise). |
+| [ShapePosition](../../groupdocs.signature.options/imagesignoptions/shapeposition) { get; set; } | Defines where shape should be presented in the document layout |
 | [Signature](../../groupdocs.signature.options/digitalsignoptions/signature) { get; set; } | Gets or sets properties of document digital signature. For signing Pdf documents it is possible to set advanced properties by using instance of [`PdfDigitalSignature`](../../groupdocs.signature.domain/pdfdigitalsignature) |
 | [SignatureType](../../groupdocs.signature.options/signoptions/signaturetype) { get; } | Get the Signature Type [`SignatureType`](../../groupdocs.signature.domain/signaturetype) |
 | virtual [SizeMeasureType](../../groupdocs.signature.options/imagesignoptions/sizemeasuretype) { get; set; } | Measure type (pixels, percents or millimeters) for Width and Height properties. |

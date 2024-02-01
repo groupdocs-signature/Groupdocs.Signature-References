@@ -3,7 +3,7 @@ title: VerticalAlignment
 second_title: GroupDocs.Signature for .NET API Reference
 description: Vertical alignment of signature on document page.
 type: docs
-weight: 180
+weight: 190
 url: /net/groupdocs.signature.options/imagesignoptions/verticalalignment/
 ---
 ## ImageSignOptions.VerticalAlignment property
