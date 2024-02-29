@@ -34,6 +34,7 @@ public class TextVerifyOptions : VerifyOptions
 | [MatchType](../../groupdocs.signature.options/textverifyoptions/matchtype) { get; set; } | Gets or sets Text Match Type verification. |
 | virtual [PageNumber](../../groupdocs.signature.options/verifyoptions/pagenumber) { get; set; } | Document Page Number to be verified. If property is not set - all Pages of Document will be verified for first occurrence. Minimal value is 1. |
 | virtual [PagesSetup](../../groupdocs.signature.options/verifyoptions/pagessetup) { get; set; } | Page Options to specify pages to be verified. |
+| [ShapePosition](../../groupdocs.signature.options/verifyoptions/shapeposition) { get; set; } | Specifies shape position in the document layout. For verifing signatures in headers/footers |
 | [SignatureID](../../groupdocs.signature.options/textverifyoptions/signatureid) { get; set; } | Specify Text Signature ID more than zero if it should be verified. This property is supported only for Pdf documents |
 | [SignatureImplementation](../../groupdocs.signature.options/textverifyoptions/signatureimplementation) { get; set; } | Type of Signature to be verified. |
 | [Text](../../groupdocs.signature.options/textverifyoptions/text) { get; set; } | Specify Signature Text if it should be verified. |

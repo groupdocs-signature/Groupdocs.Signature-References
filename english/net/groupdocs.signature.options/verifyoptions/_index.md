@@ -23,6 +23,7 @@ public abstract class VerifyOptions
 | [IsValid](../../groupdocs.signature.options/verifyoptions/isvalid) { get; } | Valid property flag. |
 | virtual [PageNumber](../../groupdocs.signature.options/verifyoptions/pagenumber) { get; set; } | Document Page Number to be verified. If property is not set - all Pages of Document will be verified for first occurrence. Minimal value is 1. |
 | virtual [PagesSetup](../../groupdocs.signature.options/verifyoptions/pagessetup) { get; set; } | Page Options to specify pages to be verified. |
+| [ShapePosition](../../groupdocs.signature.options/verifyoptions/shapeposition) { get; set; } | Specifies shape position in the document layout. For verifing signatures in headers/footers |
 
 ### See Also
 
