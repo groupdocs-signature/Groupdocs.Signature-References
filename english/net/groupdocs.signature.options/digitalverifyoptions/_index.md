@@ -40,6 +40,7 @@ public class DigitalVerifyOptions : VerifyOptions
 | virtual [PagesSetup](../../groupdocs.signature.options/verifyoptions/pagessetup) { get; set; } | Page Options to specify pages to be verified. |
 | [Password](../../groupdocs.signature.options/digitalverifyoptions/password) { get; set; } | Password of Digital Certificate if required. |
 | [Reason](../../groupdocs.signature.options/digitalverifyoptions/reason) { get; set; } | Reason of Digital Signature to validate. |
+| [ShapePosition](../../groupdocs.signature.options/verifyoptions/shapeposition) { get; set; } | Specifies shape position in the document layout. For verifing signatures in headers/footers |
 | [SignDateTimeFrom](../../groupdocs.signature.options/digitalverifyoptions/signdatetimefrom) { get; set; } | Date and time range of Digital Signature to validate. Nullable value will be ignored. |
 | [SignDateTimeTo](../../groupdocs.signature.options/digitalverifyoptions/signdatetimeto) { get; set; } | Date and time range of Digital Signature to validate. Nullable value will be ignored. |
 | [SubjectName](../../groupdocs.signature.options/digitalverifyoptions/subjectname) { get; set; } | Subject distinguished name of the certificate to validate. Value is case sensitive. If this property is set verification will check if Signature subject name contains or equals passed value |

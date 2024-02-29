@@ -35,6 +35,7 @@ public class CertificateVerifyOptions : VerifyOptions
 | virtual [PagesSetup](../../groupdocs.signature.options/verifyoptions/pagessetup) { get; set; } | Page Options to specify pages to be verified. |
 | [PerformChainValidation](../../groupdocs.signature.options/certificateverifyoptions/performchainvalidation) { get; set; } | Get or set if verification process should provide X.509 chain validation using basic validation policy. By default this value is true. |
 | [SerialNumber](../../groupdocs.signature.options/certificateverifyoptions/serialnumber) { get; set; } | Specify Certificate Serial Number if it should be verified. |
+| [ShapePosition](../../groupdocs.signature.options/verifyoptions/shapeposition) { get; set; } | Specifies shape position in the document layout. For verifing signatures in headers/footers |
 | [Subject](../../groupdocs.signature.options/certificateverifyoptions/subject) { get; set; } | Specify Certificate subject if it should be verified. |
 | [Thumbprint](../../groupdocs.signature.options/certificateverifyoptions/thumbprint) { get; set; } | Specify Certificate Thumbprint if it should be verified. |
 
