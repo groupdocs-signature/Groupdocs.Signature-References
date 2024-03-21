@@ -33,6 +33,7 @@ Instance to keep Border line properties.
 | [setWeight(double value)](#setWeight-double-) | Gets or sets the weight of the signature border. |
 | [getColor()](#getColor--) | Gets or sets the border color of signature. |
 | [setColor(Color value)](#setColor-java.awt.Color-) | Gets or sets the border color of signature. |
+| [setColor(String value)](#setColor-java.lang.String-) | Gets or sets the border color of signature. |
 | [getVisible()](#getVisible--) | Gets or sets the border visibility. |
 | [setVisible(boolean value)](#setVisible-boolean-) |  |
 | [deepClone()](#deepClone--) | Implement IClonable interface |
@@ -133,6 +134,19 @@ Gets or sets the border color of signature.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | java.awt.Color |  |
+
+### setColor(String value) {#setColor-java.lang.String-}
+```
+public final void setColor(String value)
+```
+
+
+Gets or sets the border color of signature.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String |  |
 
 ### getVisible() {#getVisible--}
 ```

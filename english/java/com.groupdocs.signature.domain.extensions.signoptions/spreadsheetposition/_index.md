@@ -3,11 +3,11 @@ title: SpreadsheetPosition
 second_title: GroupDocs.Signature for Java API Reference
 description: Defines signature position for Spreadsheet documents.
 type: docs
-weight: 15
-url: /java/com.groupdocs.signature.domain.extensions/spreadsheetposition/
+weight: 12
+url: /java/com.groupdocs.signature.domain.extensions.signoptions/spreadsheetposition/
 ---
 **Inheritance:**
-java.lang.Object, [com.groupdocs.signature.domain.extensions.SignatureExtension](../../com.groupdocs.signature.domain.extensions/signatureextension)
+java.lang.Object, [com.groupdocs.signature.domain.extensions.signoptions.SignatureExtension](../../com.groupdocs.signature.domain.extensions.signoptions/signatureextension)
 ```
 public class SpreadsheetPosition extends SignatureExtension
 ```

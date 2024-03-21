@@ -28,6 +28,7 @@ Represents the Barcode signature options.
 | [setEncodeType(BarcodeType value)](#setEncodeType-com.groupdocs.signature.domain.barcodes.BarcodeType-) | Gets or sets Barcode type. |
 | [getForeColor()](#getForeColor--) | Gets or sets the Fore color of Barcode bars Using of this property could cause problems with verification. |
 | [setForeColor(Color value)](#setForeColor-java.awt.Color-) | Gets or sets the Fore color of Barcode bars Using of this property could cause problems with verification. |
+| [setForeColor(String value)](#setForeColor-java.lang.String-) | Gets or sets the Fore color of Barcode bars Using of this property could cause problems with verification. |
 | [getInnerMargins()](#getInnerMargins--) | Gets or sets the space between Barcode elements and result image borders. |
 | [setInnerMargins(Padding value)](#setInnerMargins-com.groupdocs.signature.domain.Padding-) | Gets or sets the space between Barcode elements and result image borders. |
 | [getCodeTextAlignment()](#getCodeTextAlignment--) | Gets or sets the alignment of text in the result Barcode image. |
@@ -118,6 +119,19 @@ Gets or sets the Fore color of Barcode bars Using of this property could cause p
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | java.awt.Color |  |
+
+### setForeColor(String value) {#setForeColor-java.lang.String-}
+```
+public void setForeColor(String value)
+```
+
+
+Gets or sets the Fore color of Barcode bars Using of this property could cause problems with verification. Use it carefully.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String |  |
 
 ### getInnerMargins() {#getInnerMargins--}
 ```

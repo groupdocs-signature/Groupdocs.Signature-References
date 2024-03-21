@@ -26,6 +26,8 @@ Contains Digital signature properties.
 | --- | --- |
 | [getCertificate()](#getCertificate--) | Gets or sets the X509 certificate. |
 | [setCertificate(KeyStore value)](#setCertificate-java.security.KeyStore-) | Gets or sets the X509 certificate. |
+| [getCertificateName()](#getCertificateName--) | Gets or sets the X509 certificate name. |
+| [setCertificateName(String value)](#setCertificateName-java.lang.String-) | Gets or sets the X509 certificate name. |
 | [getComments()](#getComments--) | Gets or sets the signing purpose comment. |
 | [setComments(String value)](#setComments-java.lang.String-) | Gets or sets the signing purpose comment. |
 | [isValid()](#isValid--) | Keeps true if this digital signature is valid and the document has not been tampered with. |
@@ -96,6 +98,29 @@ Gets or sets the X509 certificate.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | java.security.KeyStore |  |
+
+### getCertificateName() {#getCertificateName--}
+```
+public final String getCertificateName()
+```
+
+
+Gets or sets the X509 certificate name.
+
+**Returns:**
+java.lang.String
+### setCertificateName(String value) {#setCertificateName-java.lang.String-}
+```
+public final void setCertificateName(String value)
+```
+
+
+Gets or sets the X509 certificate name.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String |  |
 
 ### getComments() {#getComments--}
 ```

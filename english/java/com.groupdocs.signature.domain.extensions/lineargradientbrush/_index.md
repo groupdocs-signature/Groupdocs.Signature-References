@@ -19,14 +19,17 @@ Represents linear gradient brush.
 | --- | --- |
 | [LinearGradientBrush()](#LinearGradientBrush--) | Initializes a new instance of the LinearGradientBrush class with default values. |
 | [LinearGradientBrush(Color startColor, Color endColor, float angle)](#LinearGradientBrush-java.awt.Color-java.awt.Color-float-) | Initializes a new instance of the LinearGradientBrush class. |
+| [LinearGradientBrush(String startColor, String endColor, float angle)](#LinearGradientBrush-java.lang.String-java.lang.String-float-) | Initializes a new instance of the LinearGradientBrush class. |
 ## Methods
 
 | Method | Description |
 | --- | --- |
 | [getStartColor()](#getStartColor--) | Gets or sets start gradient color. |
 | [setStartColor(Color value)](#setStartColor-java.awt.Color-) | Gets or sets start gradient color. |
+| [setStartColor(String value)](#setStartColor-java.lang.String-) | Gets or sets start gradient color. |
 | [getEndColor()](#getEndColor--) | Gets or sets finish gradient color. |
 | [setEndColor(Color value)](#setEndColor-java.awt.Color-) | Gets or sets finish gradient color. |
+| [setEndColor(String value)](#setEndColor-java.lang.String-) | Gets or sets finish gradient color. |
 | [getAngle()](#getAngle--) | Gets or sets gradient angle. |
 | [setAngle(float value)](#setAngle-float-) | Gets or sets gradient angle. |
 ### LinearGradientBrush() {#LinearGradientBrush--}
@@ -52,6 +55,21 @@ Initializes a new instance of the LinearGradientBrush class.
 | endColor | java.awt.Color | End color. |
 | angle | float | Angle. Default value is 0. |
 
+### LinearGradientBrush(String startColor, String endColor, float angle) {#LinearGradientBrush-java.lang.String-java.lang.String-float-}
+```
+public LinearGradientBrush(String startColor, String endColor, float angle)
+```
+
+
+Initializes a new instance of the LinearGradientBrush class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| startColor | java.lang.String | Start color. |
+| endColor | java.lang.String | End color. |
+| angle | float | Angle. Default value is 0. |
+
 ### getStartColor() {#getStartColor--}
 ```
 public final Color getStartColor()
@@ -75,6 +93,19 @@ Gets or sets start gradient color.
 | --- | --- | --- |
 | value | java.awt.Color |  |
 
+### setStartColor(String value) {#setStartColor-java.lang.String-}
+```
+public final void setStartColor(String value)
+```
+
+
+Gets or sets start gradient color.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String |  |
+
 ### getEndColor() {#getEndColor--}
 ```
 public final Color getEndColor()
@@ -97,6 +128,19 @@ Gets or sets finish gradient color.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | java.awt.Color |  |
+
+### setEndColor(String value) {#setEndColor-java.lang.String-}
+```
+public final void setEndColor(String value)
+```
+
+
+Gets or sets finish gradient color.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String |  |
 
 ### getAngle() {#getAngle--}
 ```

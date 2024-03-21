@@ -24,7 +24,7 @@ Represents the signature options.
 | [getAppearance()](#getAppearance--) | Additional signature appearance. |
 | [setAppearance(SignatureAppearance value)](#setAppearance-com.groupdocs.signature.options.appearances.SignatureAppearance-) | Additional signature appearance. |
 | [getExtensions()](#getExtensions--) | Signature Extensions. |
-| [setExtensions(List<SignatureExtension> value)](#setExtensions-java.util.List-com.groupdocs.signature.domain.extensions.SignatureExtension--) | Signature Extensions. |
+| [setExtensions(List<SignatureExtension> value)](#setExtensions-java.util.List-com.groupdocs.signature.domain.extensions.signoptions.SignatureExtension--) | Signature Extensions. |
 | [getPagesSetup()](#getPagesSetup--) | Options to specify pages to be signed. |
 | [setPagesSetup(PagesSetup value)](#setPagesSetup-com.groupdocs.signature.options.PagesSetup-) | Options to specify pages to be signed. |
 | [getSignatureType()](#getSignatureType--) | Get the Signature Type [SignatureType](../../com.groupdocs.signature.domain.enums/signaturetype) |
@@ -112,8 +112,8 @@ public final List<SignatureExtension> getExtensions()
 Signature Extensions.
 
 **Returns:**
-java.util.List<com.groupdocs.signature.domain.extensions.SignatureExtension>
-### setExtensions(List<SignatureExtension> value) {#setExtensions-java.util.List-com.groupdocs.signature.domain.extensions.SignatureExtension--}
+java.util.List<com.groupdocs.signature.domain.extensions.signoptions.SignatureExtension>
+### setExtensions(List<SignatureExtension> value) {#setExtensions-java.util.List-com.groupdocs.signature.domain.extensions.signoptions.SignatureExtension--}
 ```
 public void setExtensions(List<SignatureExtension> value)
 ```
@@ -124,7 +124,7 @@ Signature Extensions.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | java.util.List<com.groupdocs.signature.domain.extensions.SignatureExtension> |  |
+| value | java.util.List<com.groupdocs.signature.domain.extensions.signoptions.SignatureExtension> |  |
 
 ### getPagesSetup() {#getPagesSetup--}
 ```

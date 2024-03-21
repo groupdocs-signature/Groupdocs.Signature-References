@@ -33,6 +33,8 @@ QRCode Types container.
 | [HIBCPASQR](#HIBCPASQR) | HIBC PAS QR-Code Type object. |
 | [HIBCPASDataMatrix](#HIBCPASDataMatrix) | HIBC PAS Data Matrix QR-Code Type object. |
 | [HIBCPASAztec](#HIBCPASAztec) | HIBC PAS Aztec QR-Code Type object. |
+| [HanXin](#HanXin) | Han Xin QR-Code Type object. |
+| [GS1HanXin](#GS1HanXin) | GS1 Han Xin QR-Code Type object. |
 ## Methods
 
 | Method | Description |
@@ -136,6 +138,22 @@ public static final QrCodeType HIBCPASAztec
 
 
 HIBC PAS Aztec QR-Code Type object.
+
+### HanXin {#HanXin}
+```
+public static final QrCodeType HanXin
+```
+
+
+Han Xin QR-Code Type object.
+
+### GS1HanXin {#GS1HanXin}
+```
+public static final QrCodeType GS1HanXin
+```
+
+
+GS1 Han Xin QR-Code Type object.
 
 ### getAllTypes() {#getAllTypes--}
 ```

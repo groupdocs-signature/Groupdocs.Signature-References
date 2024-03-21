@@ -3,7 +3,7 @@ title: com.groupdocs.signature.domain.stamps
 second_title: GroupDocs.Signature for Java API Reference
 description: The GroupDocs.Signature.Domain.Stamps namespace provides classes for working with Stamps.
 type: docs
-weight: 25
+weight: 27
 url: /java/com.groupdocs.signature.domain.stamps/
 ---
 

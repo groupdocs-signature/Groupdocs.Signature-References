@@ -24,6 +24,7 @@ Represents background appearance
 | --- | --- |
 | [getColor()](#getColor--) | Gets or sets the background color of signature. |
 | [setColor(Color value)](#setColor-java.awt.Color-) | Gets or sets the background color of signature. |
+| [setColor(String value)](#setColor-java.lang.String-) | Gets or sets the background color of signature. |
 | [getTransparency()](#getTransparency--) | Gets or sets the background transparency (value from 0.0 (opaque) through 1.0 (clear)). |
 | [setTransparency(double value)](#setTransparency-double-) | Gets or sets the background transparency (value from 0.0 (opaque) through 1.0 (clear)). |
 | [getBrush()](#getBrush--) | Gets or sets the background brush. |
@@ -56,6 +57,19 @@ Gets or sets the background color of signature.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | java.awt.Color |  |
+
+### setColor(String value) {#setColor-java.lang.String-}
+```
+public final void setColor(String value)
+```
+
+
+Gets or sets the background color of signature.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String |  |
 
 ### getTransparency() {#getTransparency--}
 ```

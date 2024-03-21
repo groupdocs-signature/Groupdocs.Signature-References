@@ -7,9 +7,9 @@ weight: 13
 url: /java/com.groupdocs.signature.domain.extensions.serialization/datamatrixencodemode/
 ---
 **Inheritance:**
-java.lang.Object, com.aspose.ms.System.ValueType, com.aspose.ms.System.Enum
+java.lang.Object
 ```
-public final class DataMatrixEncodeMode extends System.Enum
+public final class DataMatrixEncodeMode
 ```
 
 DataMatrix encoder's encoding mode, default to Auto
