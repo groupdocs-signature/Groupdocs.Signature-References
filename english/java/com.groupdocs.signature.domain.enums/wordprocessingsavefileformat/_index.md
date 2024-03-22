@@ -3,7 +3,7 @@ title: WordProcessingSaveFileFormat
 second_title: GroupDocs.Signature for Java API Reference
 description: Defines different save file formats for WordProcessing documents.
 type: docs
-weight: 34
+weight: 35
 url: /java/com.groupdocs.signature.domain.enums/wordprocessingsavefileformat/
 ---
 **Inheritance:**

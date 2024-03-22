@@ -3,7 +3,7 @@ title: VerticalAlignment
 second_title: GroupDocs.Signature for Java API Reference
 description: Specifies vertical alignment of element on Document Page.
 type: docs
-weight: 33
+weight: 34
 url: /java/com.groupdocs.signature.domain.enums/verticalalignment/
 ---
 **Inheritance:**

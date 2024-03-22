@@ -3,7 +3,7 @@ title: SignatureType
 second_title: GroupDocs.Signature for Java API Reference
 description: Signature Type define the method to sign.
 type: docs
-weight: 25
+weight: 26
 url: /java/com.groupdocs.signature.domain.enums/signaturetype/
 ---
 **Inheritance:**
