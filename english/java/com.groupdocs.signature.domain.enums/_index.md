@@ -29,6 +29,7 @@ The **GroupDocs.Signature.Domain.Enums** namespace provides classes for working 
 | [PresentationSaveFileFormat](../com.groupdocs.signature.domain.enums/presentationsavefileformat) | Defines different save file formats. |
 | [ProcessStatus](../com.groupdocs.signature.domain.enums/processstatus) | Specifies status of signing and verification processes. |
 | [ProcessType](../com.groupdocs.signature.domain.enums/processtype) | Defines supported process with documents like Info, Preview, Sign, Verify, Search, Update, Delete |
+| [ShapePosition](../com.groupdocs.signature.domain.enums/shapeposition) | Specifies shape position in the document layout |
 | [SignatureType](../com.groupdocs.signature.domain.enums/signaturetype) | Signature Type define the method to sign. |
 | [SpreadsheetSaveFileFormat](../com.groupdocs.signature.domain.enums/spreadsheetsavefileformat) | Defines different save formats for Spreadsheet documents. |
 | [StretchMode](../com.groupdocs.signature.domain.enums/stretchmode) | Represents Stretch Mode of Signature area on Document Page. |

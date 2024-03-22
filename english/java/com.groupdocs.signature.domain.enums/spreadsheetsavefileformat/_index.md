@@ -3,7 +3,7 @@ title: SpreadsheetSaveFileFormat
 second_title: GroupDocs.Signature for Java API Reference
 description: Defines different save formats for Spreadsheet documents.
 type: docs
-weight: 26
+weight: 27
 url: /java/com.groupdocs.signature.domain.enums/spreadsheetsavefileformat/
 ---
 **Inheritance:**

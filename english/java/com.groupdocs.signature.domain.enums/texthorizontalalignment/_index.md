@@ -3,7 +3,7 @@ title: TextHorizontalAlignment
 second_title: GroupDocs.Signature for Java API Reference
 description: Specifies text horizontal alignment inside a Signature.
 type: docs
-weight: 28
+weight: 29
 url: /java/com.groupdocs.signature.domain.enums/texthorizontalalignment/
 ---
 **Inheritance:**

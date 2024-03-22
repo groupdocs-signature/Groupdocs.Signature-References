@@ -3,7 +3,7 @@ title: TextMatchType
 second_title: GroupDocs.Signature for Java API Reference
 description: Specifies Text Match type in string - Exact StartsWith EndsWith Contains.
 type: docs
-weight: 29
+weight: 30
 url: /java/com.groupdocs.signature.domain.enums/textmatchtype/
 ---
 **Inheritance:**

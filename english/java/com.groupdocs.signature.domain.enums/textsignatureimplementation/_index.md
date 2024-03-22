@@ -3,7 +3,7 @@ title: TextSignatureImplementation
 second_title: GroupDocs.Signature for Java API Reference
 description: Specifies type of implementation for PDF text signature.
 type: docs
-weight: 31
+weight: 32
 url: /java/com.groupdocs.signature.domain.enums/textsignatureimplementation/
 ---
 **Inheritance:**

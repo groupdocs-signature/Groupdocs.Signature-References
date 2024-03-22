@@ -3,7 +3,7 @@ title: TextShapeType
 second_title: GroupDocs.Signature for Java API Reference
 description: Specifies types of text shapes.
 type: docs
-weight: 30
+weight: 31
 url: /java/com.groupdocs.signature.domain.enums/textshapetype/
 ---
 **Inheritance:**
