@@ -45,12 +45,14 @@ Describes appearance of Digital Signature are on PDF documents.
 | [setDateSignedAtLabel(String value)](#setDateSignedAtLabel-java.lang.String-) | Gets or sets date signed label. |
 | [getBackground()](#getBackground--) | Get or set background color of signature appearance. |
 | [setBackground(Color value)](#setBackground-java.awt.Color-) | Get or set background color of signature appearance. |
+| [setBackground(String value)](#setBackground-java.lang.String-) | Get or set background color of signature appearance. |
 | [getFontFamilyName()](#getFontFamilyName--) | Gets or sets the Font family name to display the labels. |
 | [setFontFamilyName(String value)](#setFontFamilyName-java.lang.String-) | Gets or sets the Font family name to display the labels. |
 | [getFontSize()](#getFontSize--) | Gets or sets the Font size to display the labels. |
 | [setFontSize(double value)](#setFontSize-double-) | Gets or sets the Font size to display the labels. |
 | [getForeground()](#getForeground--) | Get or set foreground text color of signature appearance. |
 | [setForeground(Color value)](#setForeground-java.awt.Color-) | Get or set foreground text color of signature appearance. |
+| [setForeground(String value)](#setForeground-java.lang.String-) | Get or set foreground text color of signature appearance. |
 ### PdfDigitalSignatureAppearance() {#PdfDigitalSignatureAppearance--}
 ```
 public PdfDigitalSignatureAppearance()
@@ -197,6 +199,19 @@ Get or set background color of signature appearance. By default the value is Sys
 | --- | --- | --- |
 | value | java.awt.Color |  |
 
+### setBackground(String value) {#setBackground-java.lang.String-}
+```
+public final void setBackground(String value)
+```
+
+
+Get or set background color of signature appearance. By default the value is SystemColors.Windows
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String |  |
+
 ### getFontFamilyName() {#getFontFamilyName--}
 ```
 public final String getFontFamilyName()
@@ -265,4 +280,17 @@ Get or set foreground text color of signature appearance. By default the value i
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | java.awt.Color |  |
+
+### setForeground(String value) {#setForeground-java.lang.String-}
+```
+public final void setForeground(String value)
+```
+
+
+Get or set foreground text color of signature appearance. By default the value is Color.FromArgb(76, 100, 255)
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String |  |
 

@@ -3,7 +3,7 @@ title: com.groupdocs.signature.handler.events
 second_title: GroupDocs.Signature for Java API Reference
 description: The GroupDocs.Signature.Handler.Events namespace provides classes for input and output Data Handlers.
 type: docs
-weight: 28
+weight: 30
 url: /java/com.groupdocs.signature.handler.events/
 ---
 

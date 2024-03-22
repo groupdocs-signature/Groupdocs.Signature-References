@@ -1,11 +1,14 @@
 ---
 title: com.groupdocs.signature.domain.extensions.mailmark2d
 second_title: GroupDocs.Signature for Java API Reference
-description: 
+description: The GroupDocs.Signature.Domain.Extensions.MailMark2D namespace provides classes for working with MailMark2D
 type: docs
 weight: 18
 url: /java/com.groupdocs.signature.domain.extensions.mailmark2d/
 ---
+
+The **GroupDocs.Signature.Domain.Extensions.MailMark2D** namespace provides classes for working with MailMark2D
+
 
 ## Classes
 

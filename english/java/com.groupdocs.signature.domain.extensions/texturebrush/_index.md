@@ -3,7 +3,7 @@ title: TextureBrush
 second_title: GroupDocs.Signature for Java API Reference
 description: Represents texture brush.
 type: docs
-weight: 17
+weight: 14
 url: /java/com.groupdocs.signature.domain.extensions/texturebrush/
 ---
 **Inheritance:**

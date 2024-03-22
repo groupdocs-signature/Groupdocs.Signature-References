@@ -3,7 +3,7 @@ title: com.groupdocs.signature.exception
 second_title: GroupDocs.Signature for Java API Reference
 description: The GroupDocs.Signature.Exception namespace provides classes to handle Signature exceptions.
 type: docs
-weight: 27
+weight: 29
 url: /java/com.groupdocs.signature.exception/
 ---
 

@@ -3,7 +3,7 @@ title: com.groupdocs.signature.domain.signatures
 second_title: GroupDocs.Signature for Java API Reference
 description: The GroupDocs.Signature.Domain.Signatures namespace provides classes for working with Signatures
 type: docs
-weight: 22
+weight: 24
 url: /java/com.groupdocs.signature.domain.signatures/
 ---
 

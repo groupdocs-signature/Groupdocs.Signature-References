@@ -27,12 +27,14 @@ Specify Stamp line properties.
 | [setHeight(int value)](#setHeight-int-) | Gets or sets the line height on Stamp. |
 | [getBackgroundColor()](#getBackgroundColor--) | Gets or sets the background color of signature. |
 | [setBackgroundColor(Color value)](#setBackgroundColor-java.awt.Color-) | Gets or sets the background color of signature. |
+| [setBackgroundColor(String value)](#setBackgroundColor-java.lang.String-) | Gets or sets the background color of signature. |
 | [getText()](#getText--) | Gets or sets the text of stamp line. |
 | [setText(String value)](#setText-java.lang.String-) | Gets or sets the text of stamp line. |
 | [getFont()](#getFont--) | Get or set Font of Stamp Line text. |
 | [setFont(SignatureFont value)](#setFont-com.groupdocs.signature.domain.SignatureFont-) | Get or set Font of Stamp Line text. |
 | [getTextColor()](#getTextColor--) | Gets or sets the text color of signature. |
 | [setTextColor(Color value)](#setTextColor-java.awt.Color-) | Gets or sets the text color of signature. |
+| [setTextColor(String value)](#setTextColor-java.lang.String-) | Gets or sets the text color of signature. |
 | [getTextBottomIntent()](#getTextBottomIntent--) | Gets or sets the bottom intent of text. |
 | [setTextBottomIntent(int value)](#setTextBottomIntent-int-) | Gets or sets the bottom intent of text. |
 | [getTextRepeatType()](#getTextRepeatType--) | Gets or sets text repeat type. |
@@ -110,6 +112,19 @@ Gets or sets the background color of signature.
 | --- | --- | --- |
 | value | java.awt.Color |  |
 
+### setBackgroundColor(String value) {#setBackgroundColor-java.lang.String-}
+```
+public final void setBackgroundColor(String value)
+```
+
+
+Gets or sets the background color of signature.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String |  |
+
 ### getText() {#getText--}
 ```
 public final String getText()
@@ -178,6 +193,19 @@ Gets or sets the text color of signature.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | java.awt.Color |  |
+
+### setTextColor(String value) {#setTextColor-java.lang.String-}
+```
+public final void setTextColor(String value)
+```
+
+
+Gets or sets the text color of signature.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String |  |
 
 ### getTextBottomIntent() {#getTextBottomIntent--}
 ```

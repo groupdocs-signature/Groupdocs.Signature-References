@@ -5,7 +5,7 @@ weight: 11
 url: /java/
 description: GroupDocs.Signature for Java API References contain examples, code snippets, and API documentation. It provides packages, classes, interfaces, and other API details.
 is_root: true
-version: 23.12
+version: 24.3
 ---
 
 ## Packages
@@ -18,9 +18,11 @@ version: 23.12
 | [com.groupdocs.signature.domain.enums](./com.groupdocs.signature.domain.enums) | The **GroupDocs.Signature.Domain.Enums** namespace provides classes for working with Enums |
 | [com.groupdocs.signature.domain.extensions](./com.groupdocs.signature.domain.extensions) | The **GroupDocs.Signature.Domain.Extensions** namespace provides extensions for signature appearances and additional functionality. |
 | [com.groupdocs.signature.domain.extensions.encryption](./com.groupdocs.signature.domain.extensions.encryption) | The **GroupDocs.Signature.Domain.Extensions.Encryption** namespace provides classes for working with Encryption |
-| [com.groupdocs.signature.domain.extensions.hibclic](./com.groupdocs.signature.domain.extensions.hibclic) |  |
-| [com.groupdocs.signature.domain.extensions.mailmark2d](./com.groupdocs.signature.domain.extensions.mailmark2d) |  |
+| [com.groupdocs.signature.domain.extensions.hibclic](./com.groupdocs.signature.domain.extensions.hibclic) | The **GroupDocs.Signature.Domain.Extensions.HIBCLIC** namespace provides classes for working with HIBCLIC |
+| [com.groupdocs.signature.domain.extensions.mailmark2d](./com.groupdocs.signature.domain.extensions.mailmark2d) | The **GroupDocs.Signature.Domain.Extensions.MailMark2D** namespace provides classes for working with MailMark2D |
 | [com.groupdocs.signature.domain.extensions.serialization](./com.groupdocs.signature.domain.extensions.serialization) | The **GroupDocs.Signature.Domain.Extensions** namespace provides extensions for signature appearances and additional functionality. |
+| [com.groupdocs.signature.domain.extensions.signoptions](./com.groupdocs.signature.domain.extensions.signoptions) | The **GroupDocs.Signature.Domain.Extensions.SignOptions** namespace provides classes for working with SignOptions |
+| [com.groupdocs.signature.domain.extensions.swissqr](./com.groupdocs.signature.domain.extensions.swissqr) | The **GroupDocs.Signature.Domain.Extensions.SwissQR** namespace provides classes for working with SwissQR |
 | [com.groupdocs.signature.domain.interfaces](./com.groupdocs.signature.domain.interfaces) | The **GroupDocs.Signature.Domain.Interfaces** namespace provides classes for working with Interfaces |
 | [com.groupdocs.signature.domain.qrcodes](./com.groupdocs.signature.domain.qrcodes) | The **GroupDocs.Signature.Domain.QRCodes** namespace provides classes for working with QRCodes |
 | [com.groupdocs.signature.domain.signatures](./com.groupdocs.signature.domain.signatures) | The **GroupDocs.Signature.Domain.Signatures** namespace provides classes for working with Signatures |

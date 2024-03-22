@@ -3,7 +3,7 @@ title: com.groupdocs.signature.domain.signatures.metadata
 second_title: GroupDocs.Signature for Java API Reference
 description: The GroupDocs.Signature.Domain.Signatures.Metadata namespace provides classes for working with Metadata signatures
 type: docs
-weight: 24
+weight: 26
 url: /java/com.groupdocs.signature.domain.signatures.metadata/
 ---
 

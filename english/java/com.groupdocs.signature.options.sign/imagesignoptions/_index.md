@@ -27,8 +27,6 @@ Represents the Image signature options.
 
 | Method | Description |
 | --- | --- |
-| [getAllPages()](#getAllPages--) | Put signature on all document pages. |
-| [setAllPages(boolean value)](#setAllPages-boolean-) | Put signature on all document pages. |
 | [getImageFilePath()](#getImageFilePath--) | Gets or sets the signature image file path. |
 | [setImageFilePath(String value)](#setImageFilePath-java.lang.String-) | Gets or sets the signature image file path. |
 | [getImageStream()](#getImageStream--) | Gets or sets the signature image stream. |
@@ -59,6 +57,8 @@ Represents the Image signature options.
 | [setMarginMeasureType(int value)](#setMarginMeasureType-int-) | Gets or sets the measure type (pixels, percents or millimeters) for Margin. |
 | [getTransparency()](#getTransparency--) | Gets or sets the signature transparency (value from 0.0 (opaque) through 1.0 (clear)). |
 | [setTransparency(double value)](#setTransparency-double-) | Gets or sets the signature transparency (value from 0.0 (opaque) through 1.0 (clear)). |
+| [getShapePosition()](#getShapePosition--) | Defines where shape should be presented in the document layout |
+| [setShapePosition(int value)](#setShapePosition-int-) | Defines where shape should be presented in the document layout |
 | [getRectangle()](#getRectangle--) | Rectangle of area to put the image on document. |
 | [getBorder()](#getBorder--) | Specify border settings |
 | [setBorder(Border value)](#setBorder-com.groupdocs.signature.domain.Border-) | Specify border settings |
@@ -98,29 +98,6 @@ Initializes a new instance of the ImageSignOptions class with image stream.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | imageStream | java.io.InputStream | Image stream |
-
-### getAllPages() {#getAllPages--}
-```
-public boolean getAllPages()
-```
-
-
-Put signature on all document pages. This property can only be used for multi-frames image formats (Tiff).
-
-**Returns:**
-boolean
-### setAllPages(boolean value) {#setAllPages-boolean-}
-```
-public void setAllPages(boolean value)
-```
-
-
-Put signature on all document pages. This property can only be used for multi-frames image formats (Tiff).
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean |  |
 
 ### getImageFilePath() {#getImageFilePath--}
 ```
@@ -466,6 +443,29 @@ Gets or sets the signature transparency (value from 0.0 (opaque) through 1.0 (cl
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | double |  |
+
+### getShapePosition() {#getShapePosition--}
+```
+public final int getShapePosition()
+```
+
+
+Defines where shape should be presented in the document layout
+
+**Returns:**
+int
+### setShapePosition(int value) {#setShapePosition-int-}
+```
+public final void setShapePosition(int value)
+```
+
+
+Defines where shape should be presented in the document layout
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
 
 ### getRectangle() {#getRectangle--}
 ```

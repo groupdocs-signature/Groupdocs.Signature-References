@@ -3,11 +3,11 @@ title: TextShadow
 second_title: GroupDocs.Signature for Java API Reference
 description: Represents text shadow properties for text signatures.
 type: docs
-weight: 16
-url: /java/com.groupdocs.signature.domain.extensions/textshadow/
+weight: 13
+url: /java/com.groupdocs.signature.domain.extensions.signoptions/textshadow/
 ---
 **Inheritance:**
-java.lang.Object, [com.groupdocs.signature.domain.extensions.SignatureExtension](../../com.groupdocs.signature.domain.extensions/signatureextension)
+java.lang.Object, [com.groupdocs.signature.domain.extensions.signoptions.SignatureExtension](../../com.groupdocs.signature.domain.extensions.signoptions/signatureextension)
 ```
 public class TextShadow extends SignatureExtension
 ```
@@ -28,6 +28,7 @@ Represents text shadow properties for text signatures. The result may vary depen
 | [setAngle(double value)](#setAngle-double-) | Gets or sets angle for placing shadow relative to the text. |
 | [getColor()](#getColor--) | Gets or sets color of the shadow. |
 | [setColor(Color value)](#setColor-java.awt.Color-) | Gets or sets color of the shadow. |
+| [setColor(String value)](#setColor-java.lang.String-) | Gets or sets color of the shadow. |
 | [getTransparency()](#getTransparency--) | Gets or sets transparency of the shadow. |
 | [setTransparency(double value)](#setTransparency-double-) | Gets or sets transparency of the shadow. |
 | [getBlur()](#getBlur--) | Gets or sets blur of the shadow. |
@@ -108,6 +109,19 @@ Gets or sets color of the shadow. Default value is Black.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | java.awt.Color |  |
+
+### setColor(String value) {#setColor-java.lang.String-}
+```
+public final void setColor(String value)
+```
+
+
+Gets or sets color of the shadow. Default value is Black.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String |  |
 
 ### getTransparency() {#getTransparency--}
 ```

@@ -3,7 +3,7 @@ title: com.groupdocs.signature.metered
 second_title: GroupDocs.Signature for Java API Reference
 description: Provides methods to set metered key.
 type: docs
-weight: 31
+weight: 33
 url: /java/com.groupdocs.signature.metered/
 ---
 

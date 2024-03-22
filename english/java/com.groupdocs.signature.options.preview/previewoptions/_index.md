@@ -18,6 +18,7 @@ Represents document preview options.
 | Constructor | Description |
 | --- | --- |
 | [PreviewOptions(PageStreamFactory pageStreamFactory, int[] pageNumbers)](#PreviewOptions-com.groupdocs.signature.options.PageStreamFactory-int...-) | Initializes PreviewOptions object. |
+| [PreviewOptions(PageDataStreamFactory pageDataStreamFactory, int[] pageNumbers)](#PreviewOptions-com.groupdocs.signature.options.PageDataStreamFactory-int...-) | Initializes PreviewOptions object. |
 | [PreviewOptions(String filePathFormat, int[] pageNumbers)](#PreviewOptions-java.lang.String-int...-) | Initializes PreviewOptions object. |
 ## Methods
 
@@ -46,6 +47,20 @@ Initializes PreviewOptions object.
 | --- | --- | --- |
 | pageStreamFactory | [PageStreamFactory](../../com.groupdocs.signature.options/pagestreamfactory) | Interface which defines method to create output page preview stream. |
 | pageNumbers | int[] | Desired page numbers |
+
+### PreviewOptions(PageDataStreamFactory pageDataStreamFactory, int[] pageNumbers) {#PreviewOptions-com.groupdocs.signature.options.PageDataStreamFactory-int...-}
+```
+public PreviewOptions(PageDataStreamFactory pageDataStreamFactory, int[] pageNumbers)
+```
+
+
+Initializes PreviewOptions object.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pageDataStreamFactory | [PageDataStreamFactory](../../com.groupdocs.signature.options/pagedatastreamfactory) | Interface which defines method to create output page preview stream. |
+| pageNumbers | int[] |  |
 
 ### PreviewOptions(String filePathFormat, int[] pageNumbers) {#PreviewOptions-java.lang.String-int...-}
 ```

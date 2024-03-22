@@ -83,6 +83,8 @@ Represents the Text signature options.
 | [setBackground(Background value)](#setBackground-com.groupdocs.signature.domain.Background-) | Gets or sets the signature background settings. |
 | [getNative()](#getNative--) | Gets or sets the native attribute. |
 | [setNative(boolean value)](#setNative-boolean-) | Gets or sets the native attribute. |
+| [getShapePosition()](#getShapePosition--) | Defines where shape should be presented in the document layout |
+| [setShapePosition(int value)](#setShapePosition-int-) | Defines where shape should be presented in the document layout |
 | [validate()](#validate--) | Internal method to validate the options parameters. |
 | [toString()](#toString--) | Override string conversion. |
 ### TextSignOptions() {#TextSignOptions--}
@@ -709,6 +711,29 @@ Gets or sets the native attribute. If it is set document specific signatures cou
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | boolean |  |
+
+### getShapePosition() {#getShapePosition--}
+```
+public final int getShapePosition()
+```
+
+
+Defines where shape should be presented in the document layout
+
+**Returns:**
+int
+### setShapePosition(int value) {#setShapePosition-int-}
+```
+public final void setShapePosition(int value)
+```
+
+
+Defines where shape should be presented in the document layout
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
 
 ### validate() {#validate--}
 ```

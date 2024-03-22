@@ -8,8 +8,11 @@ url: /java/com.groupdocs.signature.domain.extensions.hibclic/hibclicsecondaryadd
 ---
 **Inheritance:**
 java.lang.Object
+
+**All Implemented Interfaces:**
+[com.groupdocs.signature.domain.extensions.interfaces.IComplexData](../../com.groupdocs.signature.domain.extensions.interfaces/icomplexdata)
 ```
-public class HIBCLICSecondaryAdditionalData
+public class HIBCLICSecondaryAdditionalData implements IComplexData
 ```
 
 Class for storing HIBC (Healthcare Industry Bar Code Council) LIC (Licensed Identification Code) secondary and additional data.

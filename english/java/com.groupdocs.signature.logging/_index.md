@@ -3,7 +3,7 @@ title: com.groupdocs.signature.logging
 second_title: GroupDocs.Signature for Java API Reference
 description: The GroupDocs.Signature.Logging namespace provides classes for logging purposes.
 type: docs
-weight: 30
+weight: 32
 url: /java/com.groupdocs.signature.logging/
 ---
 

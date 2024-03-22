@@ -1,11 +1,14 @@
 ---
 title: com.groupdocs.signature.domain.extensions.hibclic
 second_title: GroupDocs.Signature for Java API Reference
-description: 
+description: The GroupDocs.Signature.Domain.Extensions.HIBCLIC namespace provides classes for working with HIBCLIC
 type: docs
 weight: 17
 url: /java/com.groupdocs.signature.domain.extensions.hibclic/
 ---
+
+The **GroupDocs.Signature.Domain.Extensions.HIBCLIC** namespace provides classes for working with HIBCLIC
+
 
 ## Classes
 

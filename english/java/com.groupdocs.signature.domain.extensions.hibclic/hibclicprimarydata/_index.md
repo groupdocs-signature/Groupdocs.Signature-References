@@ -8,8 +8,11 @@ url: /java/com.groupdocs.signature.domain.extensions.hibclic/hibclicprimarydata/
 ---
 **Inheritance:**
 java.lang.Object
+
+**All Implemented Interfaces:**
+[com.groupdocs.signature.domain.extensions.interfaces.IComplexData](../../com.groupdocs.signature.domain.extensions.interfaces/icomplexdata)
 ```
-public class HIBCLICPrimaryData
+public class HIBCLICPrimaryData implements IComplexData
 ```
 
 Class for storing HIBC (Healthcare Industry Bar Code Council) LIC (Licensed Identification Code) primary data.
@@ -29,6 +32,7 @@ Class for storing HIBC (Healthcare Industry Bar Code Council) LIC (Licensed Iden
 | [getUnitOfMeasureID()](#getUnitOfMeasureID--) | Identifies unit of measure ID. |
 | [setUnitOfMeasureID(int value)](#setUnitOfMeasureID-int-) | Identifies unit of measure ID. |
 | [deepClone()](#deepClone--) | Gets a copy of this object. |
+| [getCodetext()](#getCodetext--) |  |
 ### HIBCLICPrimaryData() {#HIBCLICPrimaryData--}
 ```
 public HIBCLICPrimaryData()
@@ -116,3 +120,13 @@ Gets a copy of this object.
 
 **Returns:**
 java.lang.Object
+### getCodetext() {#getCodetext--}
+```
+public final IComplexCodetext getCodetext()
+```
+
+
+
+
+**Returns:**
+com.aspose.barcode.complexbarcode.IComplexCodetext
