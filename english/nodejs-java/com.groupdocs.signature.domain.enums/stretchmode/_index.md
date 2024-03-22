@@ -3,7 +3,7 @@ title: StretchMode
 second_title: GroupDocs.Signature for Node.js via Java API Reference
 description: Represents Stretch Mode of Signature area on Document Page.
 type: docs
-weight: 27
+weight: 28
 url: /nodejs-java/com.groupdocs.signature.domain.enums/stretchmode/
 ---
 **Inheritance:**

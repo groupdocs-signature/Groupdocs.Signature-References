@@ -3,7 +3,7 @@ title: XAdESType
 second_title: GroupDocs.Signature for Node.js via Java API Reference
 description: Type of XML Advanced Electronic Signature XAdES.
 type: docs
-weight: 36
+weight: 37
 url: /nodejs-java/com.groupdocs.signature.domain.enums/xadestype/
 ---
 **Inheritance:**

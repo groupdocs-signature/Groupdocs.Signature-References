@@ -3,7 +3,7 @@ title: TextHorizontalAlignment
 second_title: GroupDocs.Signature for Node.js via Java API Reference
 description: Specifies text horizontal alignment inside a Signature.
 type: docs
-weight: 28
+weight: 29
 url: /nodejs-java/com.groupdocs.signature.domain.enums/texthorizontalalignment/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: TextVerticalAlignment
 second_title: GroupDocs.Signature for Node.js via Java API Reference
 description: Specifies text vertical alignment inside a Signature.
 type: docs
-weight: 32
+weight: 33
 url: /nodejs-java/com.groupdocs.signature.domain.enums/textverticalalignment/
 ---
 **Inheritance:**
