@@ -31,6 +31,7 @@ public class ImageSearchOptions : SearchOptions
 | [PagesSetup](../../groupdocs.signature.options/searchoptions/pagessetup) { get; set; } | Options to specify pages for Signature searching. |
 | [ReturnContent](../../groupdocs.signature.options/imagesearchoptions/returncontent) { get; set; } | Gets or sets flag to grab image content of signature on document page. If this flag is set true, image signature content will keep raw image data by required format [`ReturnContentType`](./returncontenttype). By default this option is disabled. |
 | [ReturnContentType](../../groupdocs.signature.options/imagesearchoptions/returncontenttype) { get; set; } | Specifies file type of returned content of the image signature when ReturnContent property is enabled. By default it set to Null. That means to return image content in original format. This image format is specified at [`Format`](../../groupdocs.signature.domain/imagesignature/format) Possible supported values are: FileType.JPEG, FileType.PNG, FileType.BMP. If provided format is not supported than image content in original format will be returned. |
+| [ShapePosition](../../groupdocs.signature.options/searchoptions/shapeposition) { get; set; } | Flag to return specify shape position in the document layout. Avaliable only for Word documents |
 | [SkipExternal](../../groupdocs.signature.options/searchoptions/skipexternal) { get; set; } | Flag to return only signatures marked as IsSignature. By default value is false that indicates to return all signatures that match specified criteria. |
 
 ### Remarks

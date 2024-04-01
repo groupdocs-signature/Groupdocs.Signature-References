@@ -47,7 +47,7 @@ public class StampSignOptions : ImageSignOptions
 | virtual [PagesSetup](../../groupdocs.signature.options/signoptions/pagessetup) { get; set; } | Options to specify pages to be signed. |
 | [Rectangle](../../groupdocs.signature.options/imagesignoptions/rectangle) { get; } | Rectangle of area to put the image on document. |
 | [RotationAngle](../../groupdocs.signature.options/imagesignoptions/rotationangle) { get; set; } | Rotation angle of signature on document page (clockwise). |
-| [ShapePosition](../../groupdocs.signature.options/imagesignoptions/shapeposition) { get; set; } | Defines where shape should be presented in the document layout |
+| [ShapePosition](../../groupdocs.signature.options/imagesignoptions/shapeposition) { get; set; } | Defines where shape should be presented in the document layout. Avaliable only for Word documents |
 | [SignatureType](../../groupdocs.signature.options/signoptions/signaturetype) { get; } | Get the Signature Type [`SignatureType`](../../groupdocs.signature.domain/signaturetype) |
 | virtual [SizeMeasureType](../../groupdocs.signature.options/imagesignoptions/sizemeasuretype) { get; set; } | Measure type (pixels, percents or millimeters) for Width and Height properties. |
 | [StampType](../../groupdocs.signature.options/stampsignoptions/stamptype) { get; set; } | Gets or sets stamp type. Value by default is Round. |

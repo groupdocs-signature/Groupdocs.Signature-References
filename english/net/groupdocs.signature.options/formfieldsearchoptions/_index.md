@@ -28,6 +28,7 @@ public class FormFieldSearchOptions : SearchOptions
 | [Name](../../groupdocs.signature.options/formfieldsearchoptions/name) { get; set; } | Specifies regular expression pattern of form field signature name if it should be searched. You can use it simple as "text" or regular expression like "abc\d+". Default value is empty string. |
 | [PageNumber](../../groupdocs.signature.options/searchoptions/pagenumber) { get; set; } | Gets or sets Document page number for searching. Value is optional. |
 | [PagesSetup](../../groupdocs.signature.options/searchoptions/pagessetup) { get; set; } | Options to specify pages for Signature searching. |
+| [ShapePosition](../../groupdocs.signature.options/searchoptions/shapeposition) { get; set; } | Flag to return specify shape position in the document layout. Avaliable only for Word documents |
 | [SkipExternal](../../groupdocs.signature.options/searchoptions/skipexternal) { get; set; } | Flag to return only signatures marked as IsSignature. By default value is false that indicates to return all signatures that match specified criteria. |
 | [Type](../../groupdocs.signature.options/formfieldsearchoptions/type) { get; set; } | Specifies type of form field signature if it should be searched. Default value is null. |
 | [Value](../../groupdocs.signature.options/formfieldsearchoptions/value) { get; set; } | Specifies value of form field signature if it should be searched. Default value is null. |

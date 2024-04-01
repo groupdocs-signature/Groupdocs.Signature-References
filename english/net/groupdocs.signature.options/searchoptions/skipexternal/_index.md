@@ -3,7 +3,7 @@ title: SkipExternal
 second_title: GroupDocs.Signature for .NET API Reference
 description: Flag to return only signatures marked as IsSignature. By default value is false that indicates to return all signatures that match specified criteria.
 type: docs
-weight: 40
+weight: 50
 url: /net/groupdocs.signature.options/searchoptions/skipexternal/
 ---
 ## SearchOptions.SkipExternal property

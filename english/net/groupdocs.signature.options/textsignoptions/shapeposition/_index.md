@@ -1,14 +1,14 @@
 ---
 title: ShapePosition
 second_title: GroupDocs.Signature for .NET API Reference
-description: Defines where shape should be presented in the document layout
+description: Defines where shape should be presented in the document layout. Avaliable only for Word documents
 type: docs
 weight: 160
 url: /net/groupdocs.signature.options/textsignoptions/shapeposition/
 ---
 ## TextSignOptions.ShapePosition property
 
-Defines where shape should be presented in the document layout
+Defines where shape should be presented in the document layout. Avaliable only for Word documents
 
 ```csharp
 public ShapePosition ShapePosition { get; set; }

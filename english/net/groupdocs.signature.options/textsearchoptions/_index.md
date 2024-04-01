@@ -29,6 +29,7 @@ public class TextSearchOptions : SearchOptions
 | [MatchType](../../groupdocs.signature.options/textsearchoptions/matchtype) { get; set; } | Gets or sets text match type search. |
 | [PageNumber](../../groupdocs.signature.options/searchoptions/pagenumber) { get; set; } | Gets or sets Document page number for searching. Value is optional. |
 | [PagesSetup](../../groupdocs.signature.options/searchoptions/pagessetup) { get; set; } | Options to specify pages for Signature searching. |
+| [ShapePosition](../../groupdocs.signature.options/searchoptions/shapeposition) { get; set; } | Flag to return specify shape position in the document layout. Avaliable only for Word documents |
 | [SignatureImplementation](../../groupdocs.signature.options/textsearchoptions/signatureimplementation) { get; set; } | Specifies text signature implementation to search. |
 | [SkipExternal](../../groupdocs.signature.options/searchoptions/skipexternal) { get; set; } | Flag to return only signatures marked as IsSignature. By default value is false that indicates to return all signatures that match specified criteria. |
 | [Text](../../groupdocs.signature.options/textsearchoptions/text) { get; set; } | Specifies signature text to match on searching. |
