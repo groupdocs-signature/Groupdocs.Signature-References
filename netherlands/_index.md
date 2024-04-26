@@ -20,6 +20,7 @@ Native .NET API om de meest populaire typen digitale handtekeningen toe te voege
 Dit zijn links naar enkele nuttige bronnen:
 
 - [GroupDocs.Signature voor .NET API-referentie](/signature/nl/net/)
+- [GroupDocs.Signature voor .NET API-zelfstudies](/tutorials/signature/nl/net/)
 
 
 ## GroupDocs.Signature voor Java

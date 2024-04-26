@@ -20,6 +20,7 @@ Native .NET API för att lägga till, söka och verifiera de mest populära digi
 Det här är länkar till några användbara resurser:
 
 - [GroupDocs.Signature för .NET API-referens](/signature/sv/net/)
+- [Guider för GroupDocs.Signature för .NET API](/tutorials/signature/sv/net/)
 
 
 ## GroupDocs.Signature för Java

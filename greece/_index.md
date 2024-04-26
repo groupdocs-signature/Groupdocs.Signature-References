@@ -20,6 +20,7 @@ Native .NET API για προσθήκη, αναζήτηση και επαλήθ�
 Αυτοί είναι σύνδεσμοι προς μερικούς χρήσιμους πόρους:
 
 - [GroupDocs.Signature για Αναφορά API .NET](/signature/el/net/)
+- [GroupDocs.Signature για .NET API Tutorials](/tutorials/signature/el/net/)
 
 
 ## GroupDocs.Signature για Java

@@ -20,6 +20,7 @@ API .NET nativa per aggiungere, cercare e verificare i tipi di firma digitale pi
 Questi sono i link ad alcune risorse utili:
 
 - [Riferimento API GroupDocs.Signature per .NET](/signature/it/net/)
+- [GroupDocs.Signature per esercitazioni sull'API .NET](/tutorials/signature/it/net/)
 
 
 ## GroupDocs.Signature per Java

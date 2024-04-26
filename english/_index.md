@@ -20,6 +20,7 @@ Native .NET API to add, search and verify most popular digital signature types t
 These are links to some useful resources:
 
 - [GroupDocs.Signature for .NET API Reference](/signature/net/)
+- [GroupDocs.Signature for .NET API Tutorials](/tutorials/signature/net/)
 
 
 ## GroupDocs.Signature for Java

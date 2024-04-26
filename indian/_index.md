@@ -20,6 +20,7 @@ Microsoft Office, PDF, छवियों और .NET अनुप्रयो�
 ये कुछ उपयोगी संसाधनों के लिंक हैं:
 
 - [.NET API संदर्भ के लिए GroupDocs.Signature](/signature/hi/net/)
+- [.NET एपीआई ट्यूटोरियल के लिए GroupDocs.Signature](/tutorials/signature/hi/net/)
 
 
 ## Java के लिए GroupDocs.Signature

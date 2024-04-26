@@ -20,6 +20,7 @@ API .NET native pour ajouter, rechercher et vérifier les types de signature num
 Voici des liens vers des ressources utiles :
 
 - [Référence de l'API GroupDocs.Signature pour .NET](/signature/fr/net/)
+- [GroupDocs.Signature pour les didacticiels de l'API .NET](/tutorials/signature/fr/net/)
 
 
 ## GroupDocs.Signature pour Java

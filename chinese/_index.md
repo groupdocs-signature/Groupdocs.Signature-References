@@ -20,6 +20,7 @@ url: /zh/
 这些是一些有用资源的链接：
 
 - [GroupDocs.Signature for .NET API 参考](/signature/zh/net/)
+- [.NET API 教程的 GroupDocs.Signature](/tutorials/signature/zh/net/)
 
 
 ## GroupDocs.Signature for Java

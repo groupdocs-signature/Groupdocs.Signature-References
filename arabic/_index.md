@@ -20,6 +20,7 @@ Native .NET API لإضافة والبحث والتحقق من أنواع الت�
 هذه روابط لبعض المصادر المفيدة:
 
 - [GroupDocs.Signature لمرجع .NET API](/signature/ar/net/)
+- [GroupDocs.Signature لبرامج .NET API التعليمية](/tutorials/signature/ar/net/)
 
 
 ## GroupDocs.Signature for Java

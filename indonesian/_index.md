@@ -20,6 +20,7 @@ Native .NET API untuk menambah, mencari, dan memverifikasi jenis tanda tangan di
 Ini adalah tautan ke beberapa sumber daya yang berguna:
 
 - [GroupDocs.Signature untuk Referensi .NET API](/signature/id/net/)
+- [GroupDocs.Signature untuk Tutorial .NET API](/tutorials/signature/id/net/)
 
 
 ## GroupDocs.Signature untuk Java

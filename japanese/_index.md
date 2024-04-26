@@ -20,6 +20,7 @@ url: /ja/
 これらは、いくつかの有用なリソースへのリンクです。
 
 - [GroupDocs.Signature for .NET API リファレンス](/signature/ja/net/)
+- [.NET API 用の GroupDocs.Signature チュートリアル](/tutorials/signature/ja/net/)
 
 
 ## GroupDocs.Signature for Java

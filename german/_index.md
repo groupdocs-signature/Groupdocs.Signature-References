@@ -20,6 +20,7 @@ Native .NET-API zum Hinzufügen, Suchen und Überprüfen der gängigsten digital
 Dies sind Links zu einigen nützlichen Ressourcen:
 
 - [GroupDocs.Signature für .NET-API-Referenz](/signature/de/net/)
+- [GroupDocs.Signature für .NET API-Tutorials](/tutorials/signature/de/net/)
 
 
 ## GroupDocs.Signatur für Java

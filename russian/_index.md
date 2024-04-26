@@ -20,6 +20,7 @@ url: /ru/
 Это ссылки на некоторые полезные ресурсы:
 
 - [Справочник по API GroupDocs.Signature для .NET](/signature/ru/net/)
+- [GroupDocs.Signature для учебных пособий по .NET API](/tutorials/signature/ru/net/)
 
 
 ## GroupDocs.Signature для Java
