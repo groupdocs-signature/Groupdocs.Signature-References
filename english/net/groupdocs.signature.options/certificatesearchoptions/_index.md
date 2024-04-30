@@ -29,6 +29,7 @@ public class CertificateSearchOptions : SearchOptions
 | [MatchType](../../groupdocs.signature.options/certificatesearchoptions/matchtype) { get; set; } | Gets or sets text match type search. |
 | [PageNumber](../../groupdocs.signature.options/searchoptions/pagenumber) { get; set; } | Gets or sets Document page number for searching. Value is optional. |
 | [PagesSetup](../../groupdocs.signature.options/searchoptions/pagessetup) { get; set; } | Options to specify pages for Signature searching. |
+| [ShapePosition](../../groupdocs.signature.options/searchoptions/shapeposition) { get; set; } | Flag to return specify shape position in the document layout. Avaliable only for Word documents |
 | [SkipExternal](../../groupdocs.signature.options/searchoptions/skipexternal) { get; set; } | Flag to return only signatures marked as IsSignature. By default value is false that indicates to return all signatures that match specified criteria. |
 | [Text](../../groupdocs.signature.options/certificatesearchoptions/text) { get; set; } | Specifies certificate property text to match on searching. |
 

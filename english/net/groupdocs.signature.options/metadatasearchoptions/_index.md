@@ -31,6 +31,7 @@ public class MetadataSearchOptions : SearchOptions
 | [NameMatchType](../../groupdocs.signature.options/metadatasearchoptions/namematchtype) { get; set; } | Gets or sets Metadata name Match Type search. It is used only when Name property is set. |
 | [PageNumber](../../groupdocs.signature.options/searchoptions/pagenumber) { get; set; } | Gets or sets Document page number for searching. Value is optional. |
 | [PagesSetup](../../groupdocs.signature.options/searchoptions/pagessetup) { get; set; } | Options to specify pages for Signature searching. |
+| [ShapePosition](../../groupdocs.signature.options/searchoptions/shapeposition) { get; set; } | Flag to return specify shape position in the document layout. Avaliable only for Word documents |
 | [SkipExternal](../../groupdocs.signature.options/searchoptions/skipexternal) { get; set; } | Flag to return only signatures marked as IsSignature. By default value is false that indicates to return all signatures that match specified criteria. |
 
 ### Remarks
