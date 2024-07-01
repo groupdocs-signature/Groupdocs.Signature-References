@@ -3,7 +3,7 @@ title: ZIP
 second_title: GroupDocs.Signature for .NET API Reference
 description: Document ZIP archive .zip is an archive file format that supports lossless data compression. Can hold one or more files or directories. Learn more about this file format herehttps//docs.fileformat.com/compression/zip/.
 type: docs
-weight: 610
+weight: 630
 url: /net/groupdocs.signature.domain/filetype/zip/
 ---
 ## FileType.ZIP field

@@ -3,7 +3,7 @@ title: XLS
 second_title: GroupDocs.Signature for .NET API Reference
 description: Excel Spreadsheet .xls represents Excel Binary File Format. Such files can be created by Microsoft Excel as well as other similar spreadsheet programs such as OpenOffice Calc or Apple Numbers. Learn more about this file format herehttps//wiki.fileformat.com/spreadsheet/xls.
 type: docs
-weight: 550
+weight: 570
 url: /net/groupdocs.signature.domain/filetype/xls/
 ---
 ## FileType.XLS field

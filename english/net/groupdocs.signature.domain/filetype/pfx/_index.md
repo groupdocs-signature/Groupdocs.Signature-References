@@ -3,7 +3,7 @@ title: PFX
 second_title: GroupDocs.Signature for .NET API Reference
 description: Personal Information Exchange .pfx file password protected file certificate commonly used for code signing your application. Learn more about this file format herehttps//fileinfo.com/extension/pfx.
 type: docs
-weight: 290
+weight: 310
 url: /net/groupdocs.signature.domain/filetype/pfx/
 ---
 ## FileType.PFX field
