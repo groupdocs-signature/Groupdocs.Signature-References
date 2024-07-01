@@ -3,7 +3,7 @@ title: SevenZip
 second_title: GroupDocs.Signature for .NET API Reference
 description: High compressed archive .7z compressing files and folders with a high compression ratio. Learn more about this file format herehttps//wiki.fileformat.com/pagedescriptionlanguage/7z.
 type: docs
-weight: 430
+weight: 450
 url: /net/groupdocs.signature.domain/filetype/sevenzip/
 ---
 ## FileType.SevenZip field

@@ -3,7 +3,7 @@ title: WMF
 second_title: GroupDocs.Signature for .NET API Reference
 description: Windows Metafile .wmf represents Microsoft Windows Metafile WMF for storing vector as well as bitmapformat images data. Learn more about this file format herehttps//wiki.fileformat.com/image/wmf.
 type: docs
-weight: 530
+weight: 550
 url: /net/groupdocs.signature.domain/filetype/wmf/
 ---
 ## FileType.WMF field
