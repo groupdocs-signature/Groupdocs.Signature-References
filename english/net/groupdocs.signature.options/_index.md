@@ -19,7 +19,6 @@ The namespace provides classes to specify additional options when loading, signi
 | [CertificateSearchOptions](./certificatesearchoptions) | Represents search options for Certificate metadata signatures. |
 | [CertificateVerifyOptions](./certificateverifyoptions) | Keeps options to verify certificate documents. |
 | [PreviewOptions.CreateDocPageStream](./previewoptions.createdocpagestream) | Delegate that defines method to create output document page preview stream. |
-| [PreviewOptions.CreatePageStream](./previewoptions.createpagestream) | Delegate that defines method to create output page preview stream. |
 | [CreateSignatureStream](./createsignaturestream) | Delegate that defines method to create output signature preview stream. |
 | [DicomSaveOptions](./dicomsaveoptions) | Save options for DICOM image documents. |
 | [DicomXmpEntry](./dicomxmpentry) | Entry of XMP data for DICOM images (.dcm). |
@@ -50,7 +49,6 @@ The namespace provides classes to specify additional options when loading, signi
 | [QrCodeSignOptions](./qrcodesignoptions) | Represents the QR-Code signature options. |
 | [QrCodeVerifyOptions](./qrcodeverifyoptions) | Keeps options to verify document QR-code signature. |
 | [PreviewOptions.ReleaseDocPageStream](./previewoptions.releasedocpagestream) | Delegate that defines method to release output document page preview stream. |
-| [PreviewOptions.ReleasePageStream](./previewoptions.releasepagestream) | Delegate that defines method to release output page preview stream. |
 | [ReleaseSignatureStream](./releasesignaturestream) | Delegate that defines method to release output signature preview stream. |
 | [SaveOptions](./saveoptions) | Allows to specify additional options (such as password) when saving a document to sign. |
 | [SearchOptions](./searchoptions) | Represents the extract signatures from document options. |
