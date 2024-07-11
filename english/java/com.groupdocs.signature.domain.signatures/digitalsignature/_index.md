@@ -20,12 +20,17 @@ Contains Digital signature properties.
 | [DigitalSignature()](#DigitalSignature--) | Initialize Digital signature with default parameters. |
 | [DigitalSignature(String signatureId)](#DigitalSignature-java.lang.String-) | Initialize Digital signature with known SignatureId. |
 | [DigitalSignature(KeyStore certificate)](#DigitalSignature-java.security.KeyStore-) | Create Digital signature with specified certificate. |
+| [DigitalSignature(X509Certificate cert, PrivateKey key)](#DigitalSignature-java.security.cert.X509Certificate-java.security.PrivateKey-) | Create Digital signature based on X509Certificate certificate and PrivateKey. |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getCertificate()](#getCertificate--) | Gets or sets the X509 certificate. |
-| [setCertificate(KeyStore value)](#setCertificate-java.security.KeyStore-) | Gets or sets the X509 certificate. |
+| [getCertificate()](#getCertificate--) | Gets or sets the KeyStore certificate. |
+| [setCertificate(KeyStore value)](#setCertificate-java.security.KeyStore-) | Gets or sets the KeyStore certificate. |
+| [getX509Certificate()](#getX509Certificate--) | Gets or sets the X509 certificate. |
+| [setX509Certificate(X509Certificate value)](#setX509Certificate-java.security.cert.X509Certificate-) | Gets or sets the X509 certificate. |
+| [getPrivateKey()](#getPrivateKey--) | Gets or sets the PrivateKey of certificate. |
+| [setPrivateKey(PrivateKey value)](#setPrivateKey-java.security.PrivateKey-) | Gets or sets the PrivateKey of certificate. |
 | [getCertificateName()](#getCertificateName--) | Gets or sets the X509 certificate name. |
 | [setCertificateName(String value)](#setCertificateName-java.lang.String-) | Gets or sets the X509 certificate name. |
 | [getComments()](#getComments--) | Gets or sets the signing purpose comment. |
@@ -76,13 +81,27 @@ Create Digital signature with specified certificate.
 | --- | --- | --- |
 | certificate | java.security.KeyStore | X509 certificate. |
 
+### DigitalSignature(X509Certificate cert, PrivateKey key) {#DigitalSignature-java.security.cert.X509Certificate-java.security.PrivateKey-}
+```
+public DigitalSignature(X509Certificate cert, PrivateKey key)
+```
+
+
+Create Digital signature based on X509Certificate certificate and PrivateKey.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| cert | java.security.cert.X509Certificate | X509Certificate certificate. |
+| key | java.security.PrivateKey | PrivateKey of certificate. |
+
 ### getCertificate() {#getCertificate--}
 ```
 public final KeyStore getCertificate()
 ```
 
 
-Gets or sets the X509 certificate.
+Gets or sets the KeyStore certificate.
 
 **Returns:**
 java.security.KeyStore
@@ -92,12 +111,58 @@ public final void setCertificate(KeyStore value)
 ```
 
 
-Gets or sets the X509 certificate.
+Gets or sets the KeyStore certificate.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | java.security.KeyStore |  |
+
+### getX509Certificate() {#getX509Certificate--}
+```
+public final X509Certificate getX509Certificate()
+```
+
+
+Gets or sets the X509 certificate.
+
+**Returns:**
+java.security.cert.X509Certificate
+### setX509Certificate(X509Certificate value) {#setX509Certificate-java.security.cert.X509Certificate-}
+```
+public final void setX509Certificate(X509Certificate value)
+```
+
+
+Gets or sets the X509 certificate.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.security.cert.X509Certificate |  |
+
+### getPrivateKey() {#getPrivateKey--}
+```
+public final PrivateKey getPrivateKey()
+```
+
+
+Gets or sets the PrivateKey of certificate.
+
+**Returns:**
+java.security.PrivateKey
+### setPrivateKey(PrivateKey value) {#setPrivateKey-java.security.PrivateKey-}
+```
+public final void setPrivateKey(PrivateKey value)
+```
+
+
+Gets or sets the PrivateKey of certificate.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.security.PrivateKey |  |
 
 ### getCertificateName() {#getCertificateName--}
 ```
