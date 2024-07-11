@@ -20,7 +20,7 @@ Contains Digital signature properties.
 | [DigitalSignature()](#DigitalSignature--) | Initialize Digital signature with default parameters. |
 | [DigitalSignature(String signatureId)](#DigitalSignature-java.lang.String-) | Initialize Digital signature with known SignatureId. |
 | [DigitalSignature(KeyStore certificate)](#DigitalSignature-java.security.KeyStore-) | Create Digital signature with specified certificate. |
-| [DigitalSignature(X509Certificate cert, PrivateKey key)](#DigitalSignature-java.security.cert.X509Certificate-java.security.PrivateKey-) | Create Digital signature based on X509Certificate certificate and PrivateKey and index of certificate. |
+| [DigitalSignature(X509Certificate cert, PrivateKey key)](#DigitalSignature-java.security.cert.X509Certificate-java.security.PrivateKey-) | Create Digital signature based on X509Certificate certificate and PrivateKey. |
 ## Methods
 
 | Method | Description |
@@ -87,7 +87,7 @@ public DigitalSignature(X509Certificate cert, PrivateKey key)
 ```
 
 
-Create Digital signature based on X509Certificate certificate and PrivateKey and index of certificate.
+Create Digital signature based on X509Certificate certificate and PrivateKey.
 
 **Parameters:**
 | Parameter | Type | Description |
