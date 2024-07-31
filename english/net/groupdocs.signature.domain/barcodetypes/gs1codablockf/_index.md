@@ -3,7 +3,7 @@ title: GS1CodablockF
 second_title: GroupDocs.Signature for .NET API Reference
 description: GS1CodablockF Barcode Type object.
 type: docs
-weight: 290
+weight: 300
 url: /net/groupdocs.signature.domain/barcodetypes/gs1codablockf/
 ---
 ## BarcodeTypes.GS1CodablockF field

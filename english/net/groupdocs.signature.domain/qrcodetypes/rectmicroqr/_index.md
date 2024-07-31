@@ -1,17 +1,17 @@
 ---
-title: QR
+title: RectMicroQR
 second_title: GroupDocs.Signature for .NET API Reference
-description: QR QRCode Type object.
+description: RectMicroQR Type object.
 type: docs
-weight: 150
-url: /net/groupdocs.signature.domain/qrcodetypes/qr/
+weight: 160
+url: /net/groupdocs.signature.domain/qrcodetypes/rectmicroqr/
 ---
-## QrCodeTypes.QR field
+## QrCodeTypes.RectMicroQR field
 
-QR QR-Code Type object.
+RectMicroQR Type object.
 
 ```csharp
-public static readonly QrCodeType QR;
+public static readonly QrCodeType RectMicroQR;
 ```
 
 ### See Also

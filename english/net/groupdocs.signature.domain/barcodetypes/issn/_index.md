@@ -3,7 +3,7 @@ title: ISSN
 second_title: GroupDocs.Signature for .NET API Reference
 description: ISSN Barcode Type object.
 type: docs
-weight: 410
+weight: 430
 url: /net/groupdocs.signature.domain/barcodetypes/issn/
 ---
 ## BarcodeTypes.ISSN field

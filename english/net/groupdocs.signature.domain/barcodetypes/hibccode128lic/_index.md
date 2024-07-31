@@ -3,7 +3,7 @@ title: HIBCCode128LIC
 second_title: GroupDocs.Signature for .NET API Reference
 description: HIBC LIC 128 Barcode Type object.
 type: docs
-weight: 330
+weight: 350
 url: /net/groupdocs.signature.domain/barcodetypes/hibccode128lic/
 ---
 ## BarcodeTypes.HIBCCode128LIC field

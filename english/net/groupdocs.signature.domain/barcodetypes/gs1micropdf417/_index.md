@@ -1,17 +1,17 @@
 ---
-title: Pdf417
+title: GS1MicroPdf417
 second_title: GroupDocs.Signature for .NET API Reference
-description: Pdf417 Barcode Type object.
+description: GS1MicroPdf417 Barcode Type object.
 type: docs
-weight: 560
-url: /net/groupdocs.signature.domain/barcodetypes/pdf417/
+weight: 340
+url: /net/groupdocs.signature.domain/barcodetypes/gs1micropdf417/
 ---
-## BarcodeTypes.Pdf417 field
+## BarcodeTypes.GS1MicroPdf417 field
 
-Pdf417 Barcode Type object.
+GS1MicroPdf417 Barcode Type object.
 
 ```csharp
-public static readonly BarcodeType Pdf417;
+public static readonly BarcodeType GS1MicroPdf417;
 ```
 
 ### See Also

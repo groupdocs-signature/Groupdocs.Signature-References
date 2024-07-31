@@ -3,7 +3,7 @@ title: GS1Code128
 second_title: GroupDocs.Signature for .NET API Reference
 description: GS1 Code128 Barcode Type object.
 type: docs
-weight: 300
+weight: 310
 url: /net/groupdocs.signature.domain/barcodetypes/gs1code128/
 ---
 ## BarcodeTypes.GS1Code128 field

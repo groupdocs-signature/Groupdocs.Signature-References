@@ -1,17 +1,17 @@
 ---
-title: QR
+title: MicroQR
 second_title: GroupDocs.Signature for .NET API Reference
-description: QR QRCode Type object.
+description: MicroQR Type object.
 type: docs
-weight: 150
-url: /net/groupdocs.signature.domain/qrcodetypes/qr/
+weight: 140
+url: /net/groupdocs.signature.domain/qrcodetypes/microqr/
 ---
-## QrCodeTypes.QR field
+## QrCodeTypes.MicroQR field
 
-QR QR-Code Type object.
+MicroQR Type object.
 
 ```csharp
-public static readonly QrCodeType QR;
+public static readonly QrCodeType MicroQR;
 ```
 
 ### See Also

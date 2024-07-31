@@ -1,17 +1,17 @@
 ---
-title: Code39Extended
+title: Code39
 second_title: GroupDocs.Signature for .NET API Reference
-description: Code39Extended Barcode Type object.
+description: Code39 Barcode Type object.
 type: docs
 weight: 100
-url: /net/groupdocs.signature.domain/barcodetypes/code39extended/
+url: /net/groupdocs.signature.domain/barcodetypes/code39/
 ---
-## BarcodeTypes.Code39Extended field
+## BarcodeTypes.Code39 field
 
-Code39Extended Barcode Type object.
+Code39 Barcode Type object.
 
 ```csharp
-public static readonly BarcodeType Code39Extended;
+public static readonly BarcodeType Code39;
 ```
 
 ### See Also
