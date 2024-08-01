@@ -1,17 +1,17 @@
 ---
-title: Code93Extended
+title: Code39FullASCII
 second_title: GroupDocs.Signature for .NET API Reference
-description: Code93Extended Barcode Type object.
+description: Code39FullASCII Barcode Type object.
 type: docs
-weight: 120
-url: /net/groupdocs.signature.domain/barcodetypes/code93extended/
+weight: 110
+url: /net/groupdocs.signature.domain/barcodetypes/code39fullascii/
 ---
-## BarcodeTypes.Code93Extended field
+## BarcodeTypes.Code39FullASCII field
 
-Code93Extended Barcode Type object.
+Code39FullASCII Barcode Type object.
 
 ```csharp
-public static readonly BarcodeType Code93Extended;
+public static readonly BarcodeType Code39FullASCII;
 ```
 
 ### See Also

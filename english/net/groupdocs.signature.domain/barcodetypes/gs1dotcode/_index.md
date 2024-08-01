@@ -3,7 +3,7 @@ title: GS1DotCode
 second_title: GroupDocs.Signature for .NET API Reference
 description: GS1 DotCode Barcode Type object.
 type: docs
-weight: 320
+weight: 330
 url: /net/groupdocs.signature.domain/barcodetypes/gs1dotcode/
 ---
 ## BarcodeTypes.GS1DotCode field

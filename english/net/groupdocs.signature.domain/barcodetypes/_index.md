@@ -39,9 +39,9 @@ public static class BarcodeTypes
 | static readonly [Code128](../../groupdocs.signature.domain/barcodetypes/code128) | Code128 Barcode Type object. |
 | static readonly [Code16K](../../groupdocs.signature.domain/barcodetypes/code16k) | Code16K Barcode Type object. |
 | static readonly [Code32](../../groupdocs.signature.domain/barcodetypes/code32) | Code32 Barcode Type object. |
-| static readonly [Code39Extended](../../groupdocs.signature.domain/barcodetypes/code39extended) | Code39Extended Barcode Type object. |
-| static readonly [Code39Standard](../../groupdocs.signature.domain/barcodetypes/code39standard) | Code39Standard Barcode Type object. |
-| static readonly [Code93Extended](../../groupdocs.signature.domain/barcodetypes/code93extended) | Code93Extended Barcode Type object. |
+| static readonly [Code39](../../groupdocs.signature.domain/barcodetypes/code39) | Code39 Barcode Type object. |
+| static readonly [Code39FullASCII](../../groupdocs.signature.domain/barcodetypes/code39fullascii) | Code39FullASCII Barcode Type object. |
+| static readonly [Code93](../../groupdocs.signature.domain/barcodetypes/code93) | Code93 Barcode Type object. |
 | static readonly [Code93Standard](../../groupdocs.signature.domain/barcodetypes/code93standard) | Code93Standard Barcode Type object. |
 | static readonly [DatabarExpanded](../../groupdocs.signature.domain/barcodetypes/databarexpanded) | DatabarExpanded Barcode Type object. |
 | static readonly [DatabarExpandedStacked](../../groupdocs.signature.domain/barcodetypes/databarexpandedstacked) | DatabarExpandedStacked Barcode Type object. |
@@ -58,10 +58,12 @@ public static class BarcodeTypes
 | static readonly [EAN13](../../groupdocs.signature.domain/barcodetypes/ean13) | EAN13 Barcode Type object. |
 | static readonly [EAN14](../../groupdocs.signature.domain/barcodetypes/ean14) | EAN14 Barcode Type object. |
 | static readonly [EAN8](../../groupdocs.signature.domain/barcodetypes/ean8) | EAN8 Barcode Type object. |
+| static readonly [GS1Aztec](../../groupdocs.signature.domain/barcodetypes/gs1aztec) | GS1Aztec Barcode Type object. |
 | static readonly [GS1CodablockF](../../groupdocs.signature.domain/barcodetypes/gs1codablockf) | GS1CodablockF Barcode Type object. |
 | static readonly [GS1Code128](../../groupdocs.signature.domain/barcodetypes/gs1code128) | GS1 Code128 Barcode Type object. |
 | static readonly [GS1CompositeBar](../../groupdocs.signature.domain/barcodetypes/gs1compositebar) | GS1 Composite Barcode Type object. |
 | static readonly [GS1DotCode](../../groupdocs.signature.domain/barcodetypes/gs1dotcode) | GS1 DotCode Barcode Type object. |
+| static readonly [GS1MicroPdf417](../../groupdocs.signature.domain/barcodetypes/gs1micropdf417) | GS1MicroPdf417 Barcode Type object. |
 | static readonly [HIBCCode128LIC](../../groupdocs.signature.domain/barcodetypes/hibccode128lic) | HIBC LIC 128 Barcode Type object. |
 | static readonly [HIBCCode128PAS](../../groupdocs.signature.domain/barcodetypes/hibccode128pas) | HIBC PAS 128 Barcode Type object. |
 | static readonly [HIBCCode39LIC](../../groupdocs.signature.domain/barcodetypes/hibccode39lic) | HIBC LIC 39 Barcode Type object. |

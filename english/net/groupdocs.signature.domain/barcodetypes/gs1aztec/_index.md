@@ -1,17 +1,17 @@
 ---
-title: Code39Standard
+title: GS1Aztec
 second_title: GroupDocs.Signature for .NET API Reference
-description: Code39Standard Barcode Type object.
+description: GS1Aztec Barcode Type object.
 type: docs
-weight: 110
-url: /net/groupdocs.signature.domain/barcodetypes/code39standard/
+weight: 290
+url: /net/groupdocs.signature.domain/barcodetypes/gs1aztec/
 ---
-## BarcodeTypes.Code39Standard field
+## BarcodeTypes.GS1Aztec field
 
-Code39Standard Barcode Type object.
+GS1Aztec Barcode Type object.
 
 ```csharp
-public static readonly BarcodeType Code39Standard;
+public static readonly BarcodeType GS1Aztec;
 ```
 
 ### See Also

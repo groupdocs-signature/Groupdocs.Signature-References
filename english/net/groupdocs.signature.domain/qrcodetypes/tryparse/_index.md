@@ -3,7 +3,7 @@ title: TryParse
 second_title: GroupDocs.Signature for .NET API Reference
 description: Returns QRCode type with pasringType name. If name of QRCode is unknown  no Exception will be throw but method will return null value.
 type: docs
-weight: 160
+weight: 180
 url: /net/groupdocs.signature.domain/qrcodetypes/tryparse/
 ---
 ## QrCodeTypes.TryParse method

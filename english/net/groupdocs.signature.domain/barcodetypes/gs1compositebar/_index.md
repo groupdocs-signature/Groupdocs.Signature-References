@@ -3,7 +3,7 @@ title: GS1CompositeBar
 second_title: GroupDocs.Signature for .NET API Reference
 description: GS1 Composite Barcode Type object.
 type: docs
-weight: 310
+weight: 320
 url: /net/groupdocs.signature.domain/barcodetypes/gs1compositebar/
 ---
 ## BarcodeTypes.GS1CompositeBar field
