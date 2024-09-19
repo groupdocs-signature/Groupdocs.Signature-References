@@ -1,17 +1,17 @@
 ---
-title: Width
+title: Resolution
 second_title: GroupDocs.Signature for .NET API Reference
-description: Gets or sets preview images width.
+description: Gets or sets the resolution of the preview images in DPI dots per inch.
 type: docs
-weight: 70
-url: /net/groupdocs.signature.options/previewoptions/width/
+weight: 60
+url: /net/groupdocs.signature.options/previewoptions/resolution/
 ---
-## PreviewOptions.Width property
+## PreviewOptions.Resolution property
 
-Gets or sets preview images width.
+Gets or sets the resolution of the preview images in DPI (dots per inch).
 
 ```csharp
-public int Width { get; set; }
+public int Resolution { get; set; }
 ```
 
 ### See Also

@@ -6,17 +6,19 @@ type: docs
 weight: 10
 url: /net/groupdocs.signature.options/previewoptions/previewoptions/
 ---
-## PreviewOptions(CreateDocPageStream, params int[]) {#constructor}
+## PreviewOptions(CreateDocPageStream, int, params int[]) {#constructor}
 
 Initializes PreviewOptions object.
 
 ```csharp
-public PreviewOptions(CreateDocPageStream createPageStream, params int[] pageNumbers)
+public PreviewOptions(CreateDocPageStream createPageStream, int resolution = 96, 
+    params int[] pageNumbers)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | createPageStream | CreateDocPageStream | Delegate which defines method to create output document page preview stream. |
+| resolution | Int32 | Resolution of the preview images in DPI (optional). |
 | pageNumbers | Int32[] | Desired page numbers |
 
 ### See Also
@@ -28,19 +30,20 @@ public PreviewOptions(CreateDocPageStream createPageStream, params int[] pageNum
 
 ---
 
-## PreviewOptions(CreateDocPageStream, ReleaseDocPageStream, params int[]) {#constructor_1}
+## PreviewOptions(CreateDocPageStream, ReleaseDocPageStream, int, params int[]) {#constructor_1}
 
 Initializes PreviewOptions object.
 
 ```csharp
 public PreviewOptions(CreateDocPageStream createPageStream, ReleaseDocPageStream releasePageStream, 
-    params int[] pageNumbers)
+    int resolution = 96, params int[] pageNumbers)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | createPageStream | CreateDocPageStream | Delegate which defines method to create output document page preview stream. |
 | releasePageStream | ReleaseDocPageStream | Delegate which defines method to release output document page preview stream. |
+| resolution | Int32 | Resolution of the preview images in DPI (optional). |
 | pageNumbers | Int32[] | Desired page numbers |
 
 ### See Also
