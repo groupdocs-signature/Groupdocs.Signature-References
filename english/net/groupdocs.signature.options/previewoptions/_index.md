@@ -18,8 +18,8 @@ public class PreviewOptions
 
 | Name | Description |
 | --- | --- |
-| [PreviewOptions](previewoptions#constructor)(CreateDocPageStream, params int[]) | Initializes PreviewOptions object. |
-| [PreviewOptions](previewoptions#constructor_1)(CreateDocPageStream, ReleaseDocPageStream, params int[]) | Initializes PreviewOptions object. |
+| [PreviewOptions](previewoptions#constructor)(CreateDocPageStream, int, params int[]) | Initializes PreviewOptions object. |
+| [PreviewOptions](previewoptions#constructor_1)(CreateDocPageStream, ReleaseDocPageStream, int, params int[]) | Initializes PreviewOptions object. |
 
 ## Properties
 
@@ -29,6 +29,7 @@ public class PreviewOptions
 | [HideSignatures](../../groupdocs.signature.options/previewoptions/hidesignatures) { get; set; } | Gets or sets flag to hide signatures from page preview image. Only signatures are marked as IsSignature will be hidden from generated document page image. |
 | [PageNumbers](../../groupdocs.signature.options/previewoptions/pagenumbers) { get; set; } | Gets or sets preview images page numbers. |
 | [PreviewFormat](../../groupdocs.signature.options/previewoptions/previewformat) { get; set; } | Gets or sets preview images format. |
+| [Resolution](../../groupdocs.signature.options/previewoptions/resolution) { get; set; } | Gets or sets the resolution of the preview images in DPI (dots per inch). |
 | [Width](../../groupdocs.signature.options/previewoptions/width) { get; set; } | Gets or sets preview images width. |
 
 ### See Also
