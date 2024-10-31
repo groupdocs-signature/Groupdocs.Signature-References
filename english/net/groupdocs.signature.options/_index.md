@@ -71,6 +71,7 @@ The namespace provides classes to specify additional options when loading, signi
 | [JpegCompressionColorMode](./jpegcompressioncolormode) | Specifies JPEG color compression modes. |
 | [JpegCompressionMode](./jpegcompressionmode) | Specifies JPEG compression modes. |
 | [JpegRoundingMode](./jpegroundingmode) | Specifies different JPEG rounding modes. |
+| [Permissions](./permissions) | Specifies configurable permissions for PDF documents, such as printing, content modification, and data extraction. These settings are applicable to PDF format only and control user access and interaction capabilities. |
 | [PngColorType](./pngcolortype) | Represents the PNG image color type. |
 | [PngFilterType](./pngfiltertype) | Represents PNG image filter type. |
 | [PreviewOptions.PreviewFormats](./previewoptions.previewformats) | Document preview supported formats |
