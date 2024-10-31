@@ -31,6 +31,8 @@ public class PdfSaveOptions : SaveOptions
 | [FileFormat](../../groupdocs.signature.options/pdfsaveoptions/fileformat) { get; set; } | Gets or sets file format of signed document. |
 | [OverwriteExistingFiles](../../groupdocs.signature.options/saveoptions/overwriteexistingfiles) { get; set; } | Gets or sets whether to overwrite existing file with new output file. Otherwise new file will be created with number as suffix. By default this value set to true that means file will be overwritten. |
 | [Password](../../groupdocs.signature.options/saveoptions/password) { get; set; } | Gets or sets password to save signed document with password protection. This property is not supported for Image documents. |
+| [Permissions](../../groupdocs.signature.options/pdfsaveoptions/permissions) { get; set; } | The PDF document permissions such as printing, modification and data extraction. |
+| [PermissionsPassword](../../groupdocs.signature.options/pdfsaveoptions/permissionspassword) { get; set; } | A permissions password (the primary password) requires a password to change permission settings. |
 | [UseOriginalPassword](../../groupdocs.signature.options/saveoptions/useoriginalpassword) { get; set; } | Gets or sets whether to use password from LoadOptions to save signed document as protected. Default value is true. This property is not supported for Image documents. |
 
 ### See Also

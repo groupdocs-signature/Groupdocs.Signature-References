@@ -26,6 +26,7 @@ public class LoadOptions
 | --- | --- |
 | [LoadExternalResources](../../groupdocs.signature.options/loadoptions/loadexternalresources) { get; set; } | Gets or sets options that specifies if external document resources should be loaded. This option with disabled value (false) allows to save loading time for the documents with many or large external resource links. By default value is enabled (true). |
 | [Password](../../groupdocs.signature.options/loadoptions/password) { get; set; } | Gets or sets password to open a protected document. It will be also used to save signed document as protected. |
+| [Permissions](../../groupdocs.signature.options/loadoptions/permissions) { get; } | The PDF document permissions such as printing, modification and data extraction.Only for PDF documents. |
 
 ### See Also
 
