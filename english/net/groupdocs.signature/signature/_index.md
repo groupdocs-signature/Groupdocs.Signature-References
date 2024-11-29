@@ -40,10 +40,13 @@ public class Signature : IDisposable
 | [Dispose](../../groupdocs.signature/signature/dispose)() | Implement IDisposable interface to clean up internal resources |
 | [GeneratePreview](../../groupdocs.signature/signature/generatepreview)(PreviewOptions) | Generates document pages preview. |
 | [GetDocumentInfo](../../groupdocs.signature/signature/getdocumentinfo)() | Gets information about document pages: their sizes, maximum page height, the width of a page with the maximum height. |
+| [Search](../../groupdocs.signature/signature/search#search_3)(Func&lt;BaseSignature, bool&gt;) | Searches for signatures in the document using all available search options and filters the results based on the specified predicate. |
 | [Search](../../groupdocs.signature/signature/search#search_1)(List&lt;SearchOptions&gt;) | Searches for signatures in a document by [`SearchOptions`](../../groupdocs.signature.options/searchoptions) list. |
 | [Search](../../groupdocs.signature/signature/search#search)(params SignatureType[]) | Searches for specified signature types in the document by [`SignatureType`](../../groupdocs.signature.domain/signaturetype) value. |
-| [Search&lt;T&gt;](../../groupdocs.signature/signature/search#search_3)(SearchOptions) | Searches for signatures in a document by [`SearchOptions`](../../groupdocs.signature.options/searchoptions) options. |
-| [Search&lt;T&gt;](../../groupdocs.signature/signature/search#search_2)(SignatureType) | Searches for exact type of signatures in the document by [`SignatureType`](../../groupdocs.signature.domain/signaturetype) value. |
+| [Search](../../groupdocs.signature/signature/search#search_2)(List&lt;SearchOptions&gt;, Func&lt;BaseSignature, bool&gt;) | Searches for signatures in the document using the provided search options and filters the results based on the specified predicate. |
+| [Search&lt;T&gt;](../../groupdocs.signature/signature/search#search_5)(SearchOptions) | Searches for signatures in a document by [`SearchOptions`](../../groupdocs.signature.options/searchoptions) options. |
+| [Search&lt;T&gt;](../../groupdocs.signature/signature/search#search_4)(SignatureType) | Searches for exact type of signatures in the document by [`SignatureType`](../../groupdocs.signature.domain/signaturetype) value. |
+| [Search&lt;T&gt;](../../groupdocs.signature/signature/search#search_6)(SearchOptions, Func&lt;T, bool&gt;) | Searches for signatures in the document using the provided search options and filters the results based on the specified predicate. |
 | [Sign](../../groupdocs.signature/signature/sign#sign_2)(Stream, List&lt;SignOptions&gt;) | Signs document with collection of [`SignOptions`](../../groupdocs.signature.options/signoptions) and saves result to a stream. |
 | [Sign](../../groupdocs.signature/signature/sign#sign)(Stream, SignOptions) | Signs document with [`SignOptions`](../../groupdocs.signature.options/signoptions) and saves result to a stream. |
 | [Sign](../../groupdocs.signature/signature/sign#sign_6)(string, List&lt;SignOptions&gt;) | Signs document with collection of [`SignOptions`](../../groupdocs.signature.options/signoptions) and saves result to specified file path. |
@@ -54,8 +57,11 @@ public class Signature : IDisposable
 | [Sign](../../groupdocs.signature/signature/sign#sign_5)(string, SignOptions, SaveOptions) | Signs document with [`SignOptions`](../../groupdocs.signature.options/signoptions) and saves result to specified file path with predefined [`SaveOptions`](../../groupdocs.signature.options/saveoptions). |
 | [Update](../../groupdocs.signature/signature/update#update)(BaseSignature) | Updates passed signature [`BaseSignature`](../../groupdocs.signature.domain/basesignature) in the document. |
 | [Update](../../groupdocs.signature/signature/update#update_1)(List&lt;BaseSignature&gt;) | Updates passed signatures [`BaseSignature`](../../groupdocs.signature.domain/basesignature) in the document. |
+| [Verify](../../groupdocs.signature/signature/verify#verify_4)(Func&lt;BaseSignature, bool&gt;) | Verifies the document signatures using all available verification options and filters the results based on the specified predicate. |
 | [Verify](../../groupdocs.signature/signature/verify#verify_1)(List&lt;VerifyOptions&gt;) | Verifies the document signatures with list of VerifyOptions data. |
 | [Verify](../../groupdocs.signature/signature/verify#verify)(VerifyOptions) | Verifies the document signatures with given VerifyOptions data. |
+| [Verify](../../groupdocs.signature/signature/verify#verify_3)(List&lt;VerifyOptions&gt;, Func&lt;BaseSignature, bool&gt;) | Verifies the document signatures using all available verification options and filters the results based on the specified predicate. |
+| [Verify](../../groupdocs.signature/signature/verify#verify_2)(VerifyOptions, Func&lt;BaseSignature, bool&gt;) | Verifies the document signatures using the provided verification options and filters the results based on the specified predicate. |
 | static [GenerateSignaturePreview](../../groupdocs.signature/signature/generatesignaturepreview)(PreviewSignatureOptions) | Generates Signature preview based on given SignOptions. [`SignOptions`](../../groupdocs.signature.options/signoptions) |
 
 ## Events
