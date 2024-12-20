@@ -39,7 +39,43 @@ Returns instance of [`SearchResult`](../../../groupdocs.signature.domain/searchr
 
 ---
 
-## Search&lt;T&gt;(SearchOptions) {#search_3}
+## Search(List&lt;SearchOptions&gt;, Func&lt;BaseSignature, bool&gt;) {#search_2}
+
+Searches for signatures in the document using the provided search options and filters the results based on the specified predicate.
+
+```csharp
+public SearchResult Search(List<SearchOptions> searchOptionsList, 
+    Func<BaseSignature, bool> predicate)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| searchOptionsList | List`1 | A list of [`SearchOptions`](../../../groupdocs.signature.options/searchoptions) instances defining the criteria for searching signatures. |
+| predicate | Func`2 | The filter predicate to apply on the list of found signatures. |
+
+### Return Value
+
+Returns a [`SearchResult`](../../../groupdocs.signature.domain/searchresult) containing the signatures that match the specified search options and satisfy the predicate.
+
+### Remarks
+
+**Learn more**
+
+* More about search electronic signatures in a documents using GroupDocs.Signature: [How to search for electronic signatures inside document using C#](https://docs.groupdocs.com/display/signaturenet/Search+for+electronic+signatures+in+document)
+* More about electronic signatures search dependent on eSign type: [Advanced use cases of electronic signatures search with GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Searching)
+
+### See Also
+
+* class [SearchResult](../../../groupdocs.signature.domain/searchresult)
+* class [SearchOptions](../../../groupdocs.signature.options/searchoptions)
+* class [BaseSignature](../../../groupdocs.signature.domain/basesignature)
+* class [Signature](../../signature)
+* namespace [GroupDocs.Signature](../../../groupdocs.signature)
+* assembly [GroupDocs.Signature](../../../)
+
+---
+
+## Search&lt;T&gt;(SearchOptions) {#search_5}
 
 Searches for signatures in a document by [`SearchOptions`](../../../groupdocs.signature.options/searchoptions) options.
 
@@ -73,7 +109,43 @@ Returns the list of signatures found.
 
 ---
 
-## Search&lt;T&gt;(SignatureType) {#search_2}
+## Search&lt;T&gt;(SearchOptions, Func&lt;T, bool&gt;) {#search_6}
+
+Searches for signatures in the document using the provided search options and filters the results based on the specified predicate.
+
+```csharp
+public List<T> Search<T>(SearchOptions searchOptions, Func<T, bool> predicate)
+    where T : BaseSignature
+```
+
+| Parameter | Description |
+| --- | --- |
+| T | The type of signature being searched for, derived from [`BaseSignature`](../../../groupdocs.signature.domain/basesignature). |
+| searchOptions | The search options specifying the criteria for locating signatures. |
+| predicate | The filter predicate to apply on the list of found signatures. If null, no additional filtering is applied. |
+
+### Return Value
+
+Returns a list of *T* instances that match the search options and satisfy the predicate.
+
+### Remarks
+
+**Learn more**
+
+* More about search electronic signatures in a documents using GroupDocs.Signature: [How to search for electronic signatures inside document using C#](https://docs.groupdocs.com/display/signaturenet/Search+for+electronic+signatures+in+document)
+* More about electronic signatures search dependent on eSign type: [Advanced use cases of electronic signatures search with GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Searching)
+
+### See Also
+
+* class [SearchOptions](../../../groupdocs.signature.options/searchoptions)
+* class [BaseSignature](../../../groupdocs.signature.domain/basesignature)
+* class [Signature](../../signature)
+* namespace [GroupDocs.Signature](../../../groupdocs.signature)
+* assembly [GroupDocs.Signature](../../../)
+
+---
+
+## Search&lt;T&gt;(SignatureType) {#search_4}
 
 Searches for exact type of signatures in the document by [`SignatureType`](../../../groupdocs.signature.domain/signaturetype) value.
 
@@ -134,6 +206,44 @@ Returns instance of [`SearchResult`](../../../groupdocs.signature.domain/searchr
 
 * class [SearchResult](../../../groupdocs.signature.domain/searchresult)
 * enum [SignatureType](../../../groupdocs.signature.domain/signaturetype)
+* class [Signature](../../signature)
+* namespace [GroupDocs.Signature](../../../groupdocs.signature)
+* assembly [GroupDocs.Signature](../../../)
+
+---
+
+## Search(Func&lt;BaseSignature, bool&gt;) {#search_3}
+
+Searches for signatures in the document using all available search options and filters the results based on the specified predicate.
+
+```csharp
+public List<BaseSignature> Search(Func<BaseSignature, bool> predicate)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| predicate | Func`2 | The filter predicate to apply on the list of found signatures. Cannot be null. |
+
+### Return Value
+
+Returns a list of [`BaseSignature`](../../../groupdocs.signature.domain/basesignature) instances that satisfy the provided predicate.
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentNullException | Thrown when the *predicate* is null. |
+
+### Remarks
+
+**Learn more**
+
+* More about search electronic signatures in a documents using GroupDocs.Signature: [How to search for electronic signatures inside document using C#](https://docs.groupdocs.com/display/signaturenet/Search+for+electronic+signatures+in+document)
+* More about electronic signatures search dependent on eSign type: [Advanced use cases of electronic signatures search with GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Searching)
+
+### See Also
+
+* class [BaseSignature](../../../groupdocs.signature.domain/basesignature)
 * class [Signature](../../signature)
 * namespace [GroupDocs.Signature](../../../groupdocs.signature)
 * assembly [GroupDocs.Signature](../../../)
