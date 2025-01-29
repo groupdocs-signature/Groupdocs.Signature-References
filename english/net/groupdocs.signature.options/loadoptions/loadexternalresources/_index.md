@@ -3,7 +3,7 @@ title: LoadExternalResources
 second_title: GroupDocs.Signature for .NET API Reference
 description: Gets or sets options that specifies if external document resources should be loaded. This option with disabled value false allows to save loading time for the documents with many or large external resource links. By default value is enabled true.
 type: docs
-weight: 20
+weight: 30
 url: /net/groupdocs.signature.options/loadoptions/loadexternalresources/
 ---
 ## LoadOptions.LoadExternalResources property

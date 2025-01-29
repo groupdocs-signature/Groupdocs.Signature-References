@@ -60,6 +60,7 @@ public class DigitalSignOptions : ImageSignOptions
 | [Stretch](../../groupdocs.signature.options/imagesignoptions/stretch) { get; set; } | Stretch mode on Document Page. |
 | virtual [Top](../../groupdocs.signature.options/imagesignoptions/top) { get; set; } | Top Y Position of Signature on Document Page in Measure values (pixels, percents or millimeters see [`MeasureType`](../../groupdocs.signature.domain/measuretype) LocationMeasureType). (works if vertical alignment is not specified). |
 | [Transparency](../../groupdocs.signature.options/imagesignoptions/transparency) { get; set; } | Gets or sets the signature transparency (value from 0.0 (opaque) through 1.0 (clear)). Default value is 0 (opaque). |
+| [UseLtv](../../groupdocs.signature.options/digitalsignoptions/useltv) { get; set; } | Gets/sets ltv(Long Term Validation) validation flag. |
 | [VerticalAlignment](../../groupdocs.signature.options/imagesignoptions/verticalalignment) { get; set; } | Vertical alignment of signature on document page. |
 | [Visible](../../groupdocs.signature.options/digitalsignoptions/visible) { get; set; } | Gets or sets the visibility of signature. |
 | [Width](../../groupdocs.signature.options/imagesignoptions/width) { get; set; } | Width of Signature on Document Page in Measure values (pixels, percents or millimeters [`MeasureType`](../../groupdocs.signature.domain/measuretype) SizeMeasureType). |

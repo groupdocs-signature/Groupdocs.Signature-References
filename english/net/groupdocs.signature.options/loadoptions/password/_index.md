@@ -3,7 +3,7 @@ title: Password
 second_title: GroupDocs.Signature for .NET API Reference
 description: Gets or sets password to open a protected document. It will be also used to save signed document as protected.
 type: docs
-weight: 30
+weight: 40
 url: /net/groupdocs.signature.options/loadoptions/password/
 ---
 ## LoadOptions.Password property
