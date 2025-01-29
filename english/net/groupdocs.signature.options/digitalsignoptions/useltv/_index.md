@@ -1,17 +1,17 @@
 ---
-title: Visible
+title: UseLtv
 second_title: GroupDocs.Signature for .NET API Reference
-description: Gets or sets the visibility of signature.
+description: Gets/sets ltvLong Term Validation validation flag.
 type: docs
-weight: 100
-url: /net/groupdocs.signature.options/digitalsignoptions/visible/
+weight: 90
+url: /net/groupdocs.signature.options/digitalsignoptions/useltv/
 ---
-## DigitalSignOptions.Visible property
+## DigitalSignOptions.UseLtv property
 
-Gets or sets the visibility of signature.
+Gets/sets ltv(Long Term Validation) validation flag.
 
 ```csharp
-public bool Visible { get; set; }
+public bool UseLtv { get; set; }
 ```
 
 ### See Also

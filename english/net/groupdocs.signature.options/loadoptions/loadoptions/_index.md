@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/groupdocs.signature.options/loadoptions/loadoptions/
 ---
-## LoadOptions constructor
+## LoadOptions() {#constructor}
 
 Initializes a new instance of LoadOptions class.
 
@@ -16,6 +16,23 @@ public LoadOptions()
 
 ### See Also
 
+* class [LoadOptions](../../loadoptions)
+* namespace [GroupDocs.Signature.Options](../../../groupdocs.signature.options)
+* assembly [GroupDocs.Signature](../../../)
+
+---
+
+## LoadOptions(FileType) {#constructor_1}
+
+Initializes a new instance of the [`LoadOptions`](../../loadoptions) class with a specified file type.
+
+```csharp
+public LoadOptions(FileType fileType)
+```
+
+### See Also
+
+* class [FileType](../../../groupdocs.signature.domain/filetype)
 * class [LoadOptions](../../loadoptions)
 * namespace [GroupDocs.Signature.Options](../../../groupdocs.signature.options)
 * assembly [GroupDocs.Signature](../../../)
