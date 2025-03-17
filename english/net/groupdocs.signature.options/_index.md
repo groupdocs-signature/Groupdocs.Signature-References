@@ -52,6 +52,7 @@ The namespace provides classes to specify additional options when loading, signi
 | [ReleaseSignatureStream](./releasesignaturestream) | Delegate that defines method to release output signature preview stream. |
 | [SaveOptions](./saveoptions) | Allows to specify additional options (such as password) when saving a document to sign. |
 | [SearchOptions](./searchoptions) | Represents the extract signatures from document options. |
+| [SignatureContext](./signaturecontext) | Represents the context for a document signature process, encapsulating the signing options. |
 | [SignOptions](./signoptions) | Represents the signature options. |
 | [SpreadsheetSaveOptions](./spreadsheetsaveoptions) | Save options for Spreadsheet Documents. |
 | [StampSignOptions](./stampsignoptions) | Represents the Stamp signature options. |
@@ -62,6 +63,11 @@ The namespace provides classes to specify additional options when loading, signi
 | [VerifyExtensions](./verifyextensions) | Keeps additional verification options for alternative implementations of signature on a document page. |
 | [VerifyOptions](./verifyoptions) | Keeps options to verify document. |
 | [WordProcessingSaveOptions](./wordprocessingsaveoptions) | Save options for WordProcessing documents. |
+## Interfaces
+
+| Interface | Description |
+| --- | --- |
+| [ICustomSignHash](./icustomsignhash) | Defines a contract for custom hash signing operations. |
 ## Enumeration
 
 | Enumeration | Description |

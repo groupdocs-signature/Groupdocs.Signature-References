@@ -3,7 +3,7 @@ title: WordProcessingMetadataSignature
 second_title: GroupDocs.Signature for .NET API Reference
 description: Contains WordProcessing Metadata Signature properties.
 type: docs
-weight: 1240
+weight: 1250
 url: /net/groupdocs.signature.domain/wordprocessingmetadatasignature/
 ---
 ## WordProcessingMetadataSignature class

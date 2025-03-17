@@ -3,7 +3,7 @@ title: SpreadsheetMetadataSignature
 second_title: GroupDocs.Signature for .NET API Reference
 description: Contains Spreadsheet Metadata Signature properties.
 type: docs
-weight: 1040
+weight: 1050
 url: /net/groupdocs.signature.domain/spreadsheetmetadatasignature/
 ---
 ## SpreadsheetMetadataSignature class

@@ -3,7 +3,7 @@ title: BarcodeSignOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents the Barcode signature options.
 type: docs
-weight: 1430
+weight: 1440
 url: /net/groupdocs.signature.options/barcodesignoptions/
 ---
 ## BarcodeSignOptions class
@@ -38,6 +38,7 @@ public class BarcodeSignOptions : TextSignOptions
 | override [ForeColor](../../groupdocs.signature.options/barcodesignoptions/forecolor) { get; set; } | Gets or sets the Fore color of Barcode bars Using of this property could cause problems with verification. Use it carefully. |
 | [FormTextFieldTitle](../../groupdocs.signature.options/textsignoptions/formtextfieldtitle) { get; set; } | Gets or sets the title of text form field to put text signature into it. This property could be used only with SignatureImplementation = TextToFormField. |
 | [FormTextFieldType](../../groupdocs.signature.options/textsignoptions/formtextfieldtype) { get; set; } | Gets or sets the type of form field to put text signature into it. This property could be used only with SignatureImplementation = TextToFormField. Value by default is AllTextTypes. |
+| [HashAlgorithm](../../groupdocs.signature.options/signoptions/hashalgorithm) { get; set; } | Gets or sets the hash algorithm to be used for cryptographic operations. Supported exclusively for digital signatures in PDF files. |
 | [Height](../../groupdocs.signature.options/textsignoptions/height) { get; set; } | Height of Signature on Document Page in Measure values (pixels, percents or millimeters see [`MeasureType`](../../groupdocs.signature.domain/measuretype) SizeMeasureType property). |
 | [HorizontalAlignment](../../groupdocs.signature.options/textsignoptions/horizontalalignment) { get; set; } | Horizontal alignment of signature on document page. |
 | [InnerMargins](../../groupdocs.signature.options/barcodesignoptions/innermargins) { get; set; } | Gets or sets the space between Barcode elements and result image borders. |

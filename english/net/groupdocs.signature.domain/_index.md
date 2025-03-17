@@ -82,6 +82,7 @@ The namespace provides classes for working with document representation.
 | [DocumentType](./documenttype) | Defines the Document type. |
 | [FormFieldType](./formfieldtype) | Specifies Form Field type. |
 | [FormTextFieldType](./formtextfieldtype) | Defines types of text for WordsProcessing document form fields. |
+| [HashAlgorithm](./hashalgorithm) | Specifies the hash algorithm used for cryptographic signing. |
 | [HorizontalAlignment](./horizontalalignment) | Specifies horizontal alignment of element on a document page. |
 | [ImageSaveFileFormat](./imagesavefileformat) | Defines different save file formats. |
 | [MeasureType](./measuretype) | Specifies measure units of signature on a document page. |

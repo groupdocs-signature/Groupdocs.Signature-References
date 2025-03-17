@@ -3,7 +3,7 @@ title: SignatureType
 second_title: GroupDocs.Signature for .NET API Reference
 description: Get the Signature Type SignatureTypegroupdocs.signature.domain/signaturetype
 type: docs
-weight: 70
+weight: 80
 url: /net/groupdocs.signature.options/signoptions/signaturetype/
 ---
 ## SignOptions.SignatureType property

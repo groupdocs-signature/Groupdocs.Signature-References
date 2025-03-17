@@ -3,7 +3,7 @@ title: TextSignOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents the Text signature options.
 type: docs
-weight: 1960
+weight: 1990
 url: /net/groupdocs.signature.options/textsignoptions/
 ---
 ## TextSignOptions class
@@ -35,6 +35,7 @@ public class TextSignOptions : SignOptions, IAlignment, IRectangle, IRotation, I
 | virtual [ForeColor](../../groupdocs.signature.options/textsignoptions/forecolor) { get; set; } | Gets or sets the fore color of signature. |
 | [FormTextFieldTitle](../../groupdocs.signature.options/textsignoptions/formtextfieldtitle) { get; set; } | Gets or sets the title of text form field to put text signature into it. This property could be used only with SignatureImplementation = TextToFormField. |
 | [FormTextFieldType](../../groupdocs.signature.options/textsignoptions/formtextfieldtype) { get; set; } | Gets or sets the type of form field to put text signature into it. This property could be used only with SignatureImplementation = TextToFormField. Value by default is AllTextTypes. |
+| [HashAlgorithm](../../groupdocs.signature.options/signoptions/hashalgorithm) { get; set; } | Gets or sets the hash algorithm to be used for cryptographic operations. Supported exclusively for digital signatures in PDF files. |
 | [Height](../../groupdocs.signature.options/textsignoptions/height) { get; set; } | Height of Signature on Document Page in Measure values (pixels, percents or millimeters see [`MeasureType`](../../groupdocs.signature.domain/measuretype) SizeMeasureType property). |
 | [HorizontalAlignment](../../groupdocs.signature.options/textsignoptions/horizontalalignment) { get; set; } | Horizontal alignment of signature on document page. |
 | [Left](../../groupdocs.signature.options/textsignoptions/left) { get; set; } | Left X position of Signature on Document Page in Measure values (pixels, percents or millimeters see [`MeasureType`](../../groupdocs.signature.domain/measuretype) LocationMeasureType property). (works if horizontal alignment is not specified). |

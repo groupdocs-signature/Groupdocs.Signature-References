@@ -3,7 +3,7 @@ title: PreviewPageData
 second_title: GroupDocs.Signature for .NET API Reference
 description: Contains data about document page to be saved as preview image.
 type: docs
-weight: 1830
+weight: 1850
 url: /net/groupdocs.signature.options/previewpagedata/
 ---
 ## PreviewPageData class

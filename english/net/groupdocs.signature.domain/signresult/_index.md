@@ -3,7 +3,7 @@ title: SignResult
 second_title: GroupDocs.Signature for .NET API Reference
 description: Result of signing process for document with newly created signatures.
 type: docs
-weight: 1010
+weight: 1020
 url: /net/groupdocs.signature.domain/signresult/
 ---
 ## SignResult class

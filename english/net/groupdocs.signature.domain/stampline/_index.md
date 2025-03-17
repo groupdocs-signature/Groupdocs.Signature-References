@@ -3,7 +3,7 @@ title: StampLine
 second_title: GroupDocs.Signature for .NET API Reference
 description: Specify Stamp line properties.
 type: docs
-weight: 1080
+weight: 1090
 url: /net/groupdocs.signature.domain/stampline/
 ---
 ## StampLine class

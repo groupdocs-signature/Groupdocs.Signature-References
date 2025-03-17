@@ -3,7 +3,7 @@ title: SignOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents the signature options.
 type: docs
-weight: 1920
+weight: 1940
 url: /net/groupdocs.signature.options/signoptions/
 ---
 ## SignOptions class
@@ -22,6 +22,7 @@ public abstract class SignOptions
 | [Appearance](../../groupdocs.signature.options/signoptions/appearance) { get; set; } | Additional signature appearance. |
 | [DocumentType](../../groupdocs.signature.options/signoptions/documenttype) { get; set; } | Get or set the Document Type of the Signature Options [`DocumentType`](../../groupdocs.signature.domain/documenttype) |
 | [Extensions](../../groupdocs.signature.options/signoptions/extensions) { get; } | Signature Extensions. |
+| [HashAlgorithm](../../groupdocs.signature.options/signoptions/hashalgorithm) { get; set; } | Gets or sets the hash algorithm to be used for cryptographic operations. Supported exclusively for digital signatures in PDF files. |
 | virtual [PageNumber](../../groupdocs.signature.options/signoptions/pagenumber) { get; set; } | Gets or sets document page number for signing. Minimal and default value is 1. |
 | virtual [PagesSetup](../../groupdocs.signature.options/signoptions/pagessetup) { get; set; } | Options to specify pages to be signed. |
 | [SignatureType](../../groupdocs.signature.options/signoptions/signaturetype) { get; } | Get the Signature Type [`SignatureType`](../../groupdocs.signature.domain/signaturetype) |

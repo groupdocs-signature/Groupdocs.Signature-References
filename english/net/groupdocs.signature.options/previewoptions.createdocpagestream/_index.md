@@ -3,7 +3,7 @@ title: PreviewOptions.CreateDocPageStream
 second_title: GroupDocs.Signature for .NET API Reference
 description: Delegate that defines method to create output document page preview stream.
 type: docs
-weight: 1800
+weight: 1820
 url: /net/groupdocs.signature.options/previewoptions.createdocpagestream/
 ---
 ## PreviewOptions.CreateDocPageStream delegate

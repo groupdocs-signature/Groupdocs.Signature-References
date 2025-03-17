@@ -3,7 +3,7 @@ title: Visible
 second_title: GroupDocs.Signature for .NET API Reference
 description: Gets or sets the visibility of signature.
 type: docs
-weight: 100
+weight: 110
 url: /net/groupdocs.signature.options/digitalsignoptions/visible/
 ---
 ## DigitalSignOptions.Visible property

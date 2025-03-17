@@ -3,7 +3,7 @@ title: ImageSignOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents the Image signature options.
 type: docs
-weight: 1620
+weight: 1640
 url: /net/groupdocs.signature.options/imagesignoptions/
 ---
 ## ImageSignOptions class
@@ -32,6 +32,7 @@ public class ImageSignOptions : SignOptions, IAlignment, IDisposable, IRectangle
 | [Border](../../groupdocs.signature.options/imagesignoptions/border) { get; set; } | Specify border settings |
 | [DocumentType](../../groupdocs.signature.options/signoptions/documenttype) { get; set; } | Get or set the Document Type of the Signature Options [`DocumentType`](../../groupdocs.signature.domain/documenttype) |
 | [Extensions](../../groupdocs.signature.options/signoptions/extensions) { get; } | Signature Extensions. |
+| [HashAlgorithm](../../groupdocs.signature.options/signoptions/hashalgorithm) { get; set; } | Gets or sets the hash algorithm to be used for cryptographic operations. Supported exclusively for digital signatures in PDF files. |
 | [Height](../../groupdocs.signature.options/imagesignoptions/height) { get; set; } | Height of Signature on Document Page in Measure values (pixels, percents or millimeters see [`MeasureType`](../../groupdocs.signature.domain/measuretype) SizeMeasureType). |
 | [HorizontalAlignment](../../groupdocs.signature.options/imagesignoptions/horizontalalignment) { get; set; } | Horizontal alignment of signature on document page. |
 | [ImageFilePath](../../groupdocs.signature.options/imagesignoptions/imagefilepath) { get; set; } | Gets or sets the signature image file path. This property is used only if ImageStream is not specified. |

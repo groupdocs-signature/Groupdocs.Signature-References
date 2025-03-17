@@ -3,7 +3,7 @@ title: Permissions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Specifies configurable permissions for PDF documents such as printing content modification and data extraction. These settings are applicable to PDF format only and control user access and interaction capabilities.
 type: docs
-weight: 1740
+weight: 1760
 url: /net/groupdocs.signature.options/permissions/
 ---
 ## Permissions enumeration

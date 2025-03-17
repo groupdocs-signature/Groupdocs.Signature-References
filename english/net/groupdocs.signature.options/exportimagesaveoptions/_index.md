@@ -3,7 +3,7 @@ title: ExportImageSaveOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Save options for exporting documents to image.
 type: docs
-weight: 1560
+weight: 1570
 url: /net/groupdocs.signature.options/exportimagesaveoptions/
 ---
 ## ExportImageSaveOptions class
