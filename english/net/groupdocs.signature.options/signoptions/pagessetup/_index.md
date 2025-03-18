@@ -3,7 +3,7 @@ title: PagesSetup
 second_title: GroupDocs.Signature for .NET API Reference
 description: Options to specify pages to be signed.
 type: docs
-weight: 60
+weight: 70
 url: /net/groupdocs.signature.options/signoptions/pagessetup/
 ---
 ## SignOptions.PagesSetup property

@@ -3,7 +3,7 @@ title: DicomXmpType
 second_title: GroupDocs.Signature for .NET API Reference
 description: Supported types of XMP data for DICOM images .dcm.
 type: docs
-weight: 1520
+weight: 1530
 url: /net/groupdocs.signature.options/dicomxmptype/
 ---
 ## DicomXmpType enumeration

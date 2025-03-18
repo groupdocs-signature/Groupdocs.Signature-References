@@ -3,7 +3,7 @@ title: Signature
 second_title: GroupDocs.Signature for .NET API Reference
 description: Gets or sets properties of document digital signature. For signing Pdf documents it is possible to set advanced properties by using instance of PdfDigitalSignaturegroupdocs.signature.domain/pdfdigitalsignature
 type: docs
-weight: 80
+weight: 90
 url: /net/groupdocs.signature.options/digitalsignoptions/signature/
 ---
 ## DigitalSignOptions.Signature property

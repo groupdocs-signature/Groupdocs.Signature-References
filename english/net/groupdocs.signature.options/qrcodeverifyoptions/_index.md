@@ -3,7 +3,7 @@ title: QrCodeVerifyOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Keeps options to verify document QRcode signature.
 type: docs
-weight: 1880
+weight: 1900
 url: /net/groupdocs.signature.options/qrcodeverifyoptions/
 ---
 ## QrCodeVerifyOptions class

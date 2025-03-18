@@ -3,7 +3,7 @@ title: MetadataSignOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents Metadata signature options.
 type: docs
-weight: 1690
+weight: 1710
 url: /net/groupdocs.signature.options/metadatasignoptions/
 ---
 ## MetadataSignOptions class
@@ -30,6 +30,7 @@ public class MetadataSignOptions : SignOptions
 | [DataEncryption](../../groupdocs.signature.options/metadatasignoptions/dataencryption) { get; set; } | Gets or sets implementation of [`IDataEncryption`](../../groupdocs.signature.domain.extensions/idataencryption) interface to encrypt all Metadata signatures withing this options collection. If this value is set all added signatures will use this encryption by default or its own DataEncryption if it was assigned. |
 | [DocumentType](../../groupdocs.signature.options/signoptions/documenttype) { get; set; } | Get or set the Document Type of the Signature Options [`DocumentType`](../../groupdocs.signature.domain/documenttype) |
 | [Extensions](../../groupdocs.signature.options/signoptions/extensions) { get; } | Signature Extensions. |
+| [HashAlgorithm](../../groupdocs.signature.options/signoptions/hashalgorithm) { get; set; } | Gets or sets the hash algorithm to be used for cryptographic operations. Supported exclusively for digital signatures in PDF files. |
 | virtual [PageNumber](../../groupdocs.signature.options/signoptions/pagenumber) { get; set; } | Gets or sets document page number for signing. Minimal and default value is 1. |
 | virtual [PagesSetup](../../groupdocs.signature.options/signoptions/pagessetup) { get; set; } | Options to specify pages to be signed. |
 | [Signatures](../../groupdocs.signature.options/metadatasignoptions/signatures) { get; set; } | Gets or sets the Metadata of signature. |

@@ -3,7 +3,7 @@ title: ZOrder
 second_title: GroupDocs.Signature for .NET API Reference
 description: Gets or sets the Zorder position of text signature. Determines the display order of overlapping signatures.
 type: docs
-weight: 80
+weight: 90
 url: /net/groupdocs.signature.options/signoptions/zorder/
 ---
 ## SignOptions.ZOrder property
