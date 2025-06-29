@@ -3,7 +3,7 @@ title: GZip
 second_title: GroupDocs.Signature for .NET API Reference
 description: GZip compressed archive .gz compressing files with a high compression ratio. Learn more about this file format herehttps//wiki.fileformat.com/compression/gz.
 type: docs
-weight: 180
+weight: 190
 url: /net/groupdocs.signature.domain/filetype/gzip/
 ---
 ## FileType.GZip field

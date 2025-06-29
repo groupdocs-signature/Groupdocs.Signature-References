@@ -3,7 +3,7 @@ title: op_Equality
 second_title: GroupDocs.Signature for .NET API Reference
 description: Determines whether two FileTypegroupdocs.signature.domain/filetype objects are the same.
 type: docs
-weight: 710
+weight: 730
 url: /net/groupdocs.signature.domain/filetype/op_equality/
 ---
 ## FileType Equality operator

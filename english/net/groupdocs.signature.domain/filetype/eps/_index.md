@@ -3,7 +3,7 @@ title: EPS
 second_title: GroupDocs.Signature for .NET API Reference
 description: Encapsulated PostScript File .eps describes an Encapsulated PostScript language program that describes the appearance of a single page. Learn more about this file format herehttps//wiki.fileformat.com/pagedescriptionlanguage/eps.
 type: docs
-weight: 160
+weight: 170
 url: /net/groupdocs.signature.domain/filetype/eps/
 ---
 ## FileType.EPS field

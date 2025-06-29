@@ -3,7 +3,7 @@ title: TXT
 second_title: GroupDocs.Signature for .NET API Reference
 description: Plain Text File .txt represents a text document that contains plain text in the form of lines. Learn more about this file format herehttps//wiki.fileformat.com/wordprocessing/txt.
 type: docs
-weight: 510
+weight: 530
 url: /net/groupdocs.signature.domain/filetype/txt/
 ---
 ## FileType.TXT field

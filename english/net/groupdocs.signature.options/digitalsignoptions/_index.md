@@ -36,7 +36,7 @@ public class DigitalSignOptions : ImageSignOptions
 | [CertificateFilePath](../../groupdocs.signature.options/digitalsignoptions/certificatefilepath) { get; set; } | Gets or sets the digital certificate file path. This property is used only if CertificateStream is not specified. |
 | [CertificateStream](../../groupdocs.signature.options/digitalsignoptions/certificatestream) { get; set; } | Gets or sets digital certificate stream. If this property is specified it is always used instead CertificateFilePath. |
 | [Contact](../../groupdocs.signature.options/digitalsignoptions/contact) { get; set; } | Gets or sets the signature contact. |
-| [CustomSignHash](../../groupdocs.signature.options/digitalsignoptions/customsignhash) { get; set; } | Delegate instance for custom hash signing. |
+| [CustomSignHash](../../groupdocs.signature.options/digitalsignoptions/customsignhash) { get; set; } | Gets or sets a custom hash signing function, allowing users to implement their own digital signing logic. This enables signing with external certificates and supports different hash algorithms. |
 | [DocumentType](../../groupdocs.signature.options/signoptions/documenttype) { get; set; } | Get or set the Document Type of the Signature Options [`DocumentType`](../../groupdocs.signature.domain/documenttype) |
 | [Extensions](../../groupdocs.signature.options/signoptions/extensions) { get; } | Signature Extensions. |
 | [HashAlgorithm](../../groupdocs.signature.options/signoptions/hashalgorithm) { get; set; } | Gets or sets the hash algorithm to be used for cryptographic operations. Supported exclusively for digital signatures in PDF files. |

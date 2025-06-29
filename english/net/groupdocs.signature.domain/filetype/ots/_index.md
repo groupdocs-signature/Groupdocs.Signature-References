@@ -3,7 +3,7 @@ title: OTS
 second_title: GroupDocs.Signature for .NET API Reference
 description: OpenDocument Spreadsheet Template .ots
 type: docs
-weight: 270
+weight: 280
 url: /net/groupdocs.signature.domain/filetype/ots/
 ---
 ## FileType.OTS field

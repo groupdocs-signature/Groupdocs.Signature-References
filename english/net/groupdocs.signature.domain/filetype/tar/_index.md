@@ -3,7 +3,7 @@ title: TAR
 second_title: GroupDocs.Signature for .NET API Reference
 description: Unixbased utility for collecting one or more files .tar is a archive that can hold one or more files or directories. Learn more about this file format herehttps//docs.fileformat.com/compression/tar/.
 type: docs
-weight: 470
+weight: 480
 url: /net/groupdocs.signature.domain/filetype/tar/
 ---
 ## FileType.TAR field

@@ -1,14 +1,14 @@
 ---
 title: CustomSignHash
 second_title: GroupDocs.Signature for .NET API Reference
-description: Delegate instance for custom hash signing.
+description: Gets or sets a custom hash signing function allowing users to implement their own digital signing logic. This enables signing with external certificates and supports different hash algorithms.
 type: docs
 weight: 50
 url: /net/groupdocs.signature.options/digitalsignoptions/customsignhash/
 ---
 ## DigitalSignOptions.CustomSignHash property
 
-Delegate instance for custom hash signing.
+Gets or sets a custom hash signing function, allowing users to implement their own digital signing logic. This enables signing with external certificates and supports different hash algorithms.
 
 ```csharp
 public ICustomSignHash CustomSignHash { get; set; }

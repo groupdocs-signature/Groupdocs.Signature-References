@@ -3,7 +3,7 @@ title: CMX
 second_title: GroupDocs.Signature for .NET API Reference
 description: CorelDRAW Metafile Exchange Image File .cmx
 type: docs
-weight: 50
+weight: 60
 url: /net/groupdocs.signature.domain/filetype/cmx/
 ---
 ## FileType.CMX field
