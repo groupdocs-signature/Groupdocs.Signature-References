@@ -31,6 +31,7 @@ public sealed class PdfDigitalSignatureAppearance : SignatureAppearance
 | [FontFamilyName](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/fontfamilyname) { get; set; } | Gets or sets the Font family name to display the labels. Default value is "Arial". |
 | [FontSize](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/fontsize) { get; set; } | Gets or sets the Font size to display the labels. Default value is 10. |
 | [Foreground](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/foreground) { get; set; } | Get or set foreground text color of signature appearance. By default the value is Color.FromArgb(76, 100, 255) |
+| [IsForegroundImage](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/isforegroundimage) { get; set; } | Gets or sets a value indicating whether the image in the signature appearance is drawn as a foreground image. Default value: false. |
 | [LocationLabel](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/locationlabel) { get; set; } | Gets or sets location label. Default value: "Location". if this value is empty then no location label will appear on digital signature area. |
 | [ReasonLabel](../../groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/reasonlabel) { get; set; } | Gets or sets reason label. Default value: "Reason". if this value is empty then no reason label will appear on digital signature area. |
 

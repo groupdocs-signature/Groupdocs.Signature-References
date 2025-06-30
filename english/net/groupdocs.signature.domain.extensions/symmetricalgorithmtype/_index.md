@@ -18,11 +18,7 @@ public enum SymmetricAlgorithmType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| DES | `0` | Represents DES Data Encryption Standard algorithm. |
-| TripleDES | `1` | Represents TripleDES symmetric encryption algorithm.. |
-| RC2 | `2` | Represents RC2 algorithm. |
 | Rijndael | `3` | Represents Rijndael symmetric encryption algorithm. |
-| AES | `4` | Represents AES (Advanced Encryption Standard) encryption algorithm. |
 | AESNew | `5` | Represents improved AES (Advanced Encryption Standard) encryption algorithm. |
 
 ### See Also

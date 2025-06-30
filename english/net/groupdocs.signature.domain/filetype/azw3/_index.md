@@ -3,7 +3,7 @@ title: AZW3
 second_title: GroupDocs.Signature for .NET API Reference
 description: WordPerfect Document .wpd
 type: docs
-weight: 10
+weight: 20
 url: /net/groupdocs.signature.domain/filetype/azw3/
 ---
 ## FileType.AZW3 field

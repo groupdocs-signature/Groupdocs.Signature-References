@@ -3,7 +3,7 @@ title: RTF
 second_title: GroupDocs.Signature for .NET API Reference
 description: Rich Text Format File .rtf represents a method of encoding formatted text and graphics for use within applications. Learn more about this file format herehttps//wiki.fileformat.com/wordprocessing/rtf.
 type: docs
-weight: 440
+weight: 450
 url: /net/groupdocs.signature.domain/filetype/rtf/
 ---
 ## FileType.RTF field

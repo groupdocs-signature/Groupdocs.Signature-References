@@ -3,7 +3,7 @@ title: LZip
 second_title: GroupDocs.Signature for .NET API Reference
 description: LZip compressed archive .lz compressing files with a high compression ratio. Learn more about this file format herehttps//wiki.fileformat.com/compression/lz.
 type: docs
-weight: 210
+weight: 220
 url: /net/groupdocs.signature.domain/filetype/lzip/
 ---
 ## FileType.LZip field

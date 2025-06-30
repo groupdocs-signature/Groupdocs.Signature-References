@@ -3,7 +3,7 @@ title: DCM
 second_title: GroupDocs.Signature for .NET API Reference
 description: DICOM Image .dcm represents digital image which stores medical information of patients such as MRIs CT scans and ultrasound images. Learn more about this file format herehttps//wiki.fileformat.com/image/dcm.
 type: docs
-weight: 70
+weight: 80
 url: /net/groupdocs.signature.domain/filetype/dcm/
 ---
 ## FileType.DCM field

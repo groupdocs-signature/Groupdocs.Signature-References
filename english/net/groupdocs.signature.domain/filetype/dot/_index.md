@@ -3,7 +3,7 @@ title: DOT
 second_title: GroupDocs.Signature for .NET API Reference
 description: Word Document Template .dot are template files created by Microsoft Word to have preformatted settings for generation of further DOC or DOCX files. Learn more about this file format herehttps//wiki.fileformat.com/wordprocessing/dot.
 type: docs
-weight: 120
+weight: 130
 url: /net/groupdocs.signature.domain/filetype/dot/
 ---
 ## FileType.DOT field
