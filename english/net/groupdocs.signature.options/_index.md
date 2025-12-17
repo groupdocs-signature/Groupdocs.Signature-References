@@ -29,6 +29,8 @@ The namespace provides classes to specify additional options when loading, signi
 | [FormFieldSearchOptions](./formfieldsearchoptions) | Represents search options for Form-field signatures. |
 | [FormFieldSignOptions](./formfieldsignoptions) | Represents class of the FormField signature options for Pdf documents. |
 | [GifSaveOptions](./gifsaveoptions) | Gif format save options for image documents. |
+| [ImageDigitalSignOptions](./imagedigitalsignoptions) | Represents options to embed Aspose.Imaging digital (steganography) signature into raster images. |
+| [ImageDigitalVerifyOptions](./imagedigitalverifyoptions) | Keeps options to verify digital signatures in raster images. |
 | [ImageSaveOptions](./imagesaveoptions) | Save options for image documents. |
 | [ImageSearchOptions](./imagesearchoptions) | Represents search options for Image signatures. |
 | [ImageSignOptions](./imagesignoptions) | Represents the Image signature options. |
