@@ -3,7 +3,7 @@ title: SignatureContext
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents the context for a document signature process encapsulating the signing options.
 type: docs
-weight: 1950
+weight: 1970
 url: /net/groupdocs.signature.options/signaturecontext/
 ---
 ## SignatureContext class

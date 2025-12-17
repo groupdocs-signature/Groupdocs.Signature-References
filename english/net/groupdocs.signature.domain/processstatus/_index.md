@@ -18,7 +18,6 @@ public enum ProcessStatus
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` | Process is not started. |
 | Started | `0` | Process was started. |
 | InProgress | `1` | Process is in progress. |
 | Completed | `2` | Process is completed. |

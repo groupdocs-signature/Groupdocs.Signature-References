@@ -3,7 +3,7 @@ title: Permissions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Specifies configurable permissions for PDF documents such as printing content modification and data extraction. These settings are applicable to PDF format only and control user access and interaction capabilities.
 type: docs
-weight: 1760
+weight: 1780
 url: /net/groupdocs.signature.options/permissions/
 ---
 ## Permissions enumeration
@@ -19,7 +19,7 @@ public enum Permissions
 
 | Name | Value | Description |
 | --- | --- | --- |
-| AllowAll | `0` | Allow all actions, including printing, modification, and data extraction. |
+| None | `0` | Allow all actions, including printing, modification, and data extraction. |
 | DenyPrinting | `1` | Deny printing of the document. |
 | DenyModification | `2` | Deny content modification, including filling forms and adding or modifying annotations. |
 | DenyDataExtraction | `4` | Deny extraction of text and graphics from the document. |
