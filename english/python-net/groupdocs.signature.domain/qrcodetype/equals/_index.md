@@ -27,7 +27,7 @@ def equals(self, other):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| other | [`QrCodeType`](/signature/python-net/groupdocs.signature.domain/qrcodetype) | Object for comparison. |
+| other | groupdocs.signature.domain.QrCodeType | Object for comparison. |
 
 
 

@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/odt/
 is_root: false
-weight: 300
+weight: 310
 ---
 
 ## ODT property

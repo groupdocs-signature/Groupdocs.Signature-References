@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## __init__ {#str}
+## __init__ {#System.String}
 
 Initializes a new instance of the TextureBrush class with image file.
 
@@ -36,7 +36,7 @@ def __init__(self, image_file_path):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| image_file_path | str | Image file path. |
+| image_file_path | System.String | Image file path. |
 
 
 ## __init__ {#io.RawIOBase}

@@ -8,7 +8,7 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#str}
+## __init__ {#System.String}
 
 Initialize BarcodeSignature object with signature identifier that was obtained after search process.
 This unique identifier is used to find additional properties for this signature from document signature information layer.
@@ -23,7 +23,7 @@ def __init__(self, signature_id):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| signature_id | str | Unique signature identifier obtained by Sign or Search method of Signature class [`Signature`](/signature/python-net/groupdocs.signature/signature). |
+| signature_id | System.String | Unique signature identifier obtained by Sign or Search method of Signature class [`Signature`](/signature/python-net/groupdocs.signature/signature). |
 
 
 

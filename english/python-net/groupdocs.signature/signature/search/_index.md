@@ -8,7 +8,7 @@ is_root: false
 weight: 60
 ---
 
-## search {#System.Collections.Generic.List<GroupDocs.Signature.Options.SearchOptions>}
+## search {#System.Collections.Generic.List`1[[GroupDocs.Signature.Options.SearchOptions]]}
 
 
 
@@ -22,7 +22,7 @@ def search(self, search_options_list):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| search_options_list | System.Collections.Generic.List<GroupDocs.Signature.Options.SearchOptions> |  |
+| search_options_list | System.Collections.Generic.List`1[[GroupDocs.Signature.Options.SearchOptions]] |  |
 
 
 ## search {#list}

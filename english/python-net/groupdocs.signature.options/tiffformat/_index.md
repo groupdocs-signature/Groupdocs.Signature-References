@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.options/tiffformat/
 is_root: false
-weight: 570
+weight: 590
 ---
 
 ## TiffFormat enumeration

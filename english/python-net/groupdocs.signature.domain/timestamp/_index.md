@@ -19,7 +19,7 @@ The TimeStamp type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.domain/timestamp/__init__/#str-str-str) | Instantiates new time stamp structure. |
+| [__init__](/signature/python-net/groupdocs.signature.domain/timestamp/__init__/#System.String-System.String-System.String) | Instantiates new time stamp structure. |
 | [__init__](/signature/python-net/groupdocs.signature.domain/timestamp/__init__/#) | Constructs a new instance of TimeStamp |
 
 

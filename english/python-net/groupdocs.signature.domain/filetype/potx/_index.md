@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/potx/
 is_root: false
-weight: 400
+weight: 410
 ---
 
 ## POTX property

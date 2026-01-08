@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/location_label/
 is_root: false
-weight: 100
+weight: 110
 ---
 
 ## location_label property

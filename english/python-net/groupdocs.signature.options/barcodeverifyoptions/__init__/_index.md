@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## __init__ {#str}
+## __init__ {#System.String}
 
 Creates default Verification Option with verification text
 
@@ -36,7 +36,7 @@ def __init__(self, text):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| text | str | Barcode text to verify |
+| text | System.String | Barcode text to verify |
 
 
 ## __init__ {#groupdocs.signature.domain.BarcodeType}
@@ -56,7 +56,7 @@ def __init__(self, encode_type):
 | encode_type | groupdocs.signature.domain.BarcodeType | Barcode Type verification |
 
 
-## __init__ {#str-groupdocs.signature.domain.BarcodeType}
+## __init__ {#System.String-groupdocs.signature.domain.BarcodeType}
 
 Creates default Verification Option with Barcode Type verification and text
 
@@ -70,7 +70,7 @@ def __init__(self, text, encode_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| text | str | Barcode text to verify |
+| text | System.String | Barcode text to verify |
 | encode_type | groupdocs.signature.domain.BarcodeType | Barcode Type verification |
 
 

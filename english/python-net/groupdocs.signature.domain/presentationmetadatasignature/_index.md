@@ -25,8 +25,8 @@ The PresentationMetadataSignature type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.domain/presentationmetadatasignature/__init__/#str) | Creates Presentation Metadata Signature with predefined name and empty value |
-| [__init__](/signature/python-net/groupdocs.signature.domain/presentationmetadatasignature/__init__/#str-any) | Creates Presentation Metadata Signature with predefined values |
+| [__init__](/signature/python-net/groupdocs.signature.domain/presentationmetadatasignature/__init__/#System.String) | Creates Presentation Metadata Signature with predefined name and empty value |
+| [__init__](/signature/python-net/groupdocs.signature.domain/presentationmetadatasignature/__init__/#System.String-System.Object) | Creates Presentation Metadata Signature with predefined values |
 
 
 ### Properties
@@ -53,14 +53,14 @@ The PresentationMetadataSignature type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [clone](/signature/python-net/groupdocs.signature.domain/presentationmetadatasignature/clone/#) | Clone Metadata Signature instance. |
-| [clone](/signature/python-net/groupdocs.signature.domain/presentationmetadatasignature/clone/#any) | Clone Slides Metadata Signature instance with given value. |
+| [clone](/signature/python-net/groupdocs.signature.domain/presentationmetadatasignature/clone/#System.Object) | Clone Slides Metadata Signature instance with given value. |
 | [to_boolean](/signature/python-net/groupdocs.signature.domain/presentationmetadatasignature/to_boolean/#) | Converts to boolean. |
 | [to_integer](/signature/python-net/groupdocs.signature.domain/presentationmetadatasignature/to_integer/#) | Converts to integer. |
 | [to_decimal](/signature/python-net/groupdocs.signature.domain/presentationmetadatasignature/to_decimal/#) | Converts to Decimal. |
 | [to_double](/signature/python-net/groupdocs.signature.domain/presentationmetadatasignature/to_double/#) | Converts to Double. |
 | [to_single](/signature/python-net/groupdocs.signature.domain/presentationmetadatasignature/to_single/#) | Converts to float. |
 | [to_date_time](/signature/python-net/groupdocs.signature.domain/presentationmetadatasignature/to_date_time/#) | Converts to DateTime. |
-| [to_string](/signature/python-net/groupdocs.signature.domain/presentationmetadatasignature/to_string/#str) | Converts to String with specified format |
+| [to_string](/signature/python-net/groupdocs.signature.domain/presentationmetadatasignature/to_string/#System.String) | Converts to String with specified format |
 
 
 

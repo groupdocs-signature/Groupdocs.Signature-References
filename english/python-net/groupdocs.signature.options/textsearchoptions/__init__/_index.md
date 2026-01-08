@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## __init__ {#str}
+## __init__ {#System.String}
 
 Initializes a new instance of the TextSearchOptions class with text value.
 
@@ -36,7 +36,7 @@ def __init__(self, text):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| text | str | Set Text of Text signature. |
+| text | System.String | Set Text of Text signature. |
 
 
 

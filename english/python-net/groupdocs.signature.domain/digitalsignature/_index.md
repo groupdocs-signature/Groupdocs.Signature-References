@@ -25,7 +25,7 @@ The DigitalSignature type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [__init__](/signature/python-net/groupdocs.signature.domain/digitalsignature/__init__/#) | Initialize Digital signature with default parameters. |
-| [__init__](/signature/python-net/groupdocs.signature.domain/digitalsignature/__init__/#str) | Initialize Digital signature with known SignatureId. |
+| [__init__](/signature/python-net/groupdocs.signature.domain/digitalsignature/__init__/#System.String) | Initialize Digital signature with known SignatureId. |
 | [__init__](/signature/python-net/groupdocs.signature.domain/digitalsignature/__init__/#System.Security.Cryptography.X509Certificates.X509Certificate2) | Create Digital signature with specified certificate. |
 
 
@@ -56,7 +56,7 @@ The DigitalSignature type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [load_digital_signatures](/signature/python-net/groupdocs.signature.domain/digitalsignature/load_digital_signatures/#) | Load Digital signatures from all system X509 Certificates Stores. |
-| [load_digital_signatures](/signature/python-net/groupdocs.signature.domain/digitalsignature/load_digital_signatures/#str) | Load Digital signatures from a certificate storage. |
+| [load_digital_signatures](/signature/python-net/groupdocs.signature.domain/digitalsignature/load_digital_signatures/#System.String) | Load Digital signatures from a certificate storage. |
 | [clone](/signature/python-net/groupdocs.signature.domain/digitalsignature/clone/#) | Clone Barcode Signature instance. |
 
 

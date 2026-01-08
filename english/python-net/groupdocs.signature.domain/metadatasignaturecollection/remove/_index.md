@@ -8,7 +8,7 @@ is_root: false
 weight: 80
 ---
 
-## remove {#str}
+## remove {#System.String}
 
 Removes a Metadata Signature with the specified name from the collection.
 
@@ -27,7 +27,7 @@ def remove(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The case-insensitive name of the Metadata Signature. |
+| name | System.String | The case-insensitive name of the Metadata Signature. |
 
 
 

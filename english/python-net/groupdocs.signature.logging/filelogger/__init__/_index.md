@@ -8,7 +8,7 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#str}
+## __init__ {#System.String}
 
 Create logger to file.
 
@@ -22,7 +22,7 @@ def __init__(self, file_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_name | str | Full file name with path |
+| file_name | System.String | Full file name with path |
 
 
 

@@ -8,7 +8,7 @@ is_root: false
 weight: 20
 ---
 
-## decode {#str}
+## decode {#System.String}
 
 Decrypts string based on provided algorithm type, key and salt parameters
 
@@ -27,7 +27,7 @@ def decode(self, source):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source | str | Encrypted string to decode. |
+| source | System.String | Encrypted string to decode. |
 
 
 

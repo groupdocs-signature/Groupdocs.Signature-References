@@ -10,8 +10,7 @@ weight: 50
 
 ## get_document_info {#}
 
-Gets information about document pages: their sizes,
-maximum page height, the width of a page with the maximum height.
+Gets information about document pages: their sizes, maximum page height, the width of a page with the maximum height.
 
 
 ### Returns 

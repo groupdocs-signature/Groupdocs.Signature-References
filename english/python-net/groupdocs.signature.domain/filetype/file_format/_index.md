@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/file_format/
 is_root: false
-weight: 700
+weight: 720
 ---
 
 ## file_format property

@@ -19,7 +19,6 @@ The ProcessStatus type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| NONE | Process is not started. |
 | STARTED | Process was started. |
 | IN_PROGRESS | Process is in progress. |
 | COMPLETED | Process is completed. |

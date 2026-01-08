@@ -20,7 +20,7 @@ The HIBCPASRecord type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [__init__](/signature/python-net/groupdocs.signature.domain.extensions/hibcpasrecord/__init__/#) | Default ctor() |
-| [__init__](/signature/python-net/groupdocs.signature.domain.extensions/hibcpasrecord/__init__/#groupdocs.signature.domain.extensions.HIBCPASDataType-str) | Creates HIBCPASRecord with data and type. |
+| [__init__](/signature/python-net/groupdocs.signature.domain.extensions/hibcpasrecord/__init__/#groupdocs.signature.domain.extensions.HIBCPASDataType-System.String) | Creates HIBCPASRecord with data and type. |
 
 
 ### Properties

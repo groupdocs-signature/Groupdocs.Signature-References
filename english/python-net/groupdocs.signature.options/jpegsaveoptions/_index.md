@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.options/jpegsaveoptions/
 is_root: false
-weight: 200
+weight: 220
 ---
 
 ## JpegSaveOptions class

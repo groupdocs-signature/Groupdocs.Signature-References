@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## __init__ {#str}
+## __init__ {#System.String}
 
 Initializes a new instance of the QRCodeSignOptions class with text.
 
@@ -36,10 +36,10 @@ def __init__(self, text):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| text | str | Signature text. |
+| text | System.String | Signature text. |
 
 
-## __init__ {#str-groupdocs.signature.domain.QrCodeType}
+## __init__ {#System.String-groupdocs.signature.domain.QrCodeType}
 
 Initializes a new instance of the BarcodeSignOptions class with text.
 
@@ -53,7 +53,7 @@ def __init__(self, text, encode_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| text | str | QRCode text |
+| text | System.String | QRCode text |
 | encode_type | groupdocs.signature.domain.QrCodeType | QRCode encode type see [`QrCodeType`](/signature/python-net/groupdocs.signature.domain/qrcodetype) |
 
 

@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## __init__ {#str}
+## __init__ {#System.String}
 
 Initializes a new instance of the [`GroupDocsSignatureException`](/signature/python-net/groupdocs.signature/groupdocssignatureexception) class with a specified error message.
 
@@ -36,7 +36,7 @@ def __init__(self, message):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| message | str | The message that describes the error. |
+| message | System.String | The message that describes the error. |
 
 
 

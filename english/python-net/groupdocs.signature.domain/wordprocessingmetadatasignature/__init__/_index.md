@@ -8,7 +8,7 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#str}
+## __init__ {#System.String}
 
 Creates WordProcessing Metadata Signature with predefined name and empty value.
 
@@ -22,10 +22,10 @@ def __init__(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | WordProcessing Metadata Signature name. |
+| name | System.String | WordProcessing Metadata Signature name. |
 
 
-## __init__ {#str-any}
+## __init__ {#System.String-System.Object}
 
 Creates WordProcessing Metadata Signature with predefined values.
 
@@ -39,8 +39,8 @@ def __init__(self, name, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | Name of Metadata signature object. |
-| value | any | Value of Metadata signature. |
+| name | System.String | Name of Metadata signature object. |
+| value | System.Object | Value of Metadata signature. |
 
 
 

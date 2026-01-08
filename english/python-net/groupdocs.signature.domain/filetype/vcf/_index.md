@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/vcf/
 is_root: false
-weight: 580
+weight: 600
 ---
 
 ## VCF property

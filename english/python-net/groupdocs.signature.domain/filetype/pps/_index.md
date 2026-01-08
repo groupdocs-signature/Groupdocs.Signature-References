@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/pps/
 is_root: false
-weight: 410
+weight: 420
 ---
 
 ## PPS property

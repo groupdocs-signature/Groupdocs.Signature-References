@@ -27,8 +27,8 @@ The StampTypes type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [parse](/signature/python-net/groupdocs.signature.domain/stamptypes/parse/#str) | Returns stamp type with pasringType name. When name of stamp is unknown - exception is thrown. |
-| [try_parse](/signature/python-net/groupdocs.signature.domain/stamptypes/try_parse/#str) | Returns stamp type with pasringType name. When name of stamp is unknown - no exception is thrown and method returns null value. |
+| [parse](/signature/python-net/groupdocs.signature.domain/stamptypes/parse/#System.String) | Returns stamp type with pasringType name. When name of stamp is unknown - exception is thrown. |
+| [try_parse](/signature/python-net/groupdocs.signature.domain/stamptypes/try_parse/#System.String) | Returns stamp type with pasringType name. When name of stamp is unknown - no exception is thrown and method returns null value. |
 
 
 

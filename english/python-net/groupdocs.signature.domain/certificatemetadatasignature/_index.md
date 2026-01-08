@@ -25,8 +25,8 @@ The CertificateMetadataSignature type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.domain/certificatemetadatasignature/__init__/#str) | Creates Certificate Metadata Signature with predefined name and empty value. |
-| [__init__](/signature/python-net/groupdocs.signature.domain/certificatemetadatasignature/__init__/#str-any) | Creates Certificate Metadata Signature with predefined values. |
+| [__init__](/signature/python-net/groupdocs.signature.domain/certificatemetadatasignature/__init__/#System.String) | Creates Certificate Metadata Signature with predefined name and empty value. |
+| [__init__](/signature/python-net/groupdocs.signature.domain/certificatemetadatasignature/__init__/#System.String-System.Object) | Creates Certificate Metadata Signature with predefined values. |
 
 
 ### Properties
@@ -53,14 +53,14 @@ The CertificateMetadataSignature type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [clone](/signature/python-net/groupdocs.signature.domain/certificatemetadatasignature/clone/#) | Clone Metadata Signature instance. |
-| [clone](/signature/python-net/groupdocs.signature.domain/certificatemetadatasignature/clone/#any) | Clone Certificate Metadata Signature instance with given value. |
+| [clone](/signature/python-net/groupdocs.signature.domain/certificatemetadatasignature/clone/#System.Object) | Clone Certificate Metadata Signature instance with given value. |
 | [to_boolean](/signature/python-net/groupdocs.signature.domain/certificatemetadatasignature/to_boolean/#) | Converts to boolean. |
 | [to_integer](/signature/python-net/groupdocs.signature.domain/certificatemetadatasignature/to_integer/#) | Converts to integer. |
 | [to_decimal](/signature/python-net/groupdocs.signature.domain/certificatemetadatasignature/to_decimal/#) | Converts to Decimal. |
 | [to_double](/signature/python-net/groupdocs.signature.domain/certificatemetadatasignature/to_double/#) | Converts to Double. |
 | [to_single](/signature/python-net/groupdocs.signature.domain/certificatemetadatasignature/to_single/#) | Converts to float. |
 | [to_date_time](/signature/python-net/groupdocs.signature.domain/certificatemetadatasignature/to_date_time/#) | Converts to DateTime. |
-| [to_string](/signature/python-net/groupdocs.signature.domain/certificatemetadatasignature/to_string/#str) | Converts to String with specified format |
+| [to_string](/signature/python-net/groupdocs.signature.domain/certificatemetadatasignature/to_string/#System.String) | Converts to String with specified format |
 
 
 

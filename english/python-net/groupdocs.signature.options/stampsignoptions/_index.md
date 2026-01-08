@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.options/stampsignoptions/
 is_root: false
-weight: 410
+weight: 430
 ---
 
 ## StampSignOptions class
@@ -70,7 +70,7 @@ The StampSignOptions type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [from_base64](/signature/python-net/groupdocs.signature.options/stampsignoptions/from_base64/#str) | Creates a new instance of the ImageSignOptions class with predefined Image from Base64. |
+| [from_base64](/signature/python-net/groupdocs.signature.options/stampsignoptions/from_base64/#System.String) | Creates a new instance of the ImageSignOptions class with predefined Image from Base64. |
 
 
 

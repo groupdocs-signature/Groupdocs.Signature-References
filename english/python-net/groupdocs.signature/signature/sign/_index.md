@@ -31,7 +31,7 @@ def sign(self, document, sign_options):
 | sign_options | groupdocs.signature.options.SignOptions | The signature options. |
 
 
-## sign {#io.RawIOBase-System.Collections.Generic.List<GroupDocs.Signature.Options.SignOptions>}
+## sign {#io.RawIOBase-System.Collections.Generic.List`1[[GroupDocs.Signature.Options.SignOptions]]}
 
 
 
@@ -46,10 +46,10 @@ def sign(self, document, sign_options_list):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | document | io.RawIOBase |  |
-| sign_options_list | System.Collections.Generic.List<GroupDocs.Signature.Options.SignOptions> |  |
+| sign_options_list | System.Collections.Generic.List`1[[GroupDocs.Signature.Options.SignOptions]] |  |
 
 
-## sign {#str-groupdocs.signature.options.SignOptions}
+## sign {#System.String-groupdocs.signature.options.SignOptions}
 
 Signs document with [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions) and saves result to specified file path.
 
@@ -68,11 +68,11 @@ def sign(self, file_path, sign_options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_path | str | The output file path. |
+| file_path | System.String | The output file path. |
 | sign_options | groupdocs.signature.options.SignOptions | The signature options. |
 
 
-## sign {#str-System.Collections.Generic.List<GroupDocs.Signature.Options.SignOptions>}
+## sign {#System.String-System.Collections.Generic.List`1[[GroupDocs.Signature.Options.SignOptions]]}
 
 
 
@@ -86,8 +86,8 @@ def sign(self, file_path, sign_options_list):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_path | str |  |
-| sign_options_list | System.Collections.Generic.List<GroupDocs.Signature.Options.SignOptions> |  |
+| file_path | System.String |  |
+| sign_options_list | System.Collections.Generic.List`1[[GroupDocs.Signature.Options.SignOptions]] |  |
 
 
 ## sign {#io.RawIOBase-groupdocs.signature.options.SignOptions-groupdocs.signature.options.SaveOptions}
@@ -114,7 +114,7 @@ def sign(self, document, sign_options, save_options):
 | save_options | groupdocs.signature.options.SaveOptions | The save options. |
 
 
-## sign {#io.RawIOBase-System.Collections.Generic.List<GroupDocs.Signature.Options.SignOptions>-groupdocs.signature.options.SaveOptions}
+## sign {#io.RawIOBase-System.Collections.Generic.List`1[[GroupDocs.Signature.Options.SignOptions]]-groupdocs.signature.options.SaveOptions}
 
 
 
@@ -129,11 +129,11 @@ def sign(self, document, sign_options_list, save_options):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | document | io.RawIOBase |  |
-| sign_options_list | System.Collections.Generic.List<GroupDocs.Signature.Options.SignOptions> |  |
+| sign_options_list | System.Collections.Generic.List`1[[GroupDocs.Signature.Options.SignOptions]] |  |
 | save_options | groupdocs.signature.options.SaveOptions |  |
 
 
-## sign {#str-groupdocs.signature.options.SignOptions-groupdocs.signature.options.SaveOptions}
+## sign {#System.String-groupdocs.signature.options.SignOptions-groupdocs.signature.options.SaveOptions}
 
 Signs document with [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions) and saves result to specified file path with predefined [`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions).
 
@@ -152,12 +152,12 @@ def sign(self, file_path, sign_options, save_options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_path | str | The output file path. |
+| file_path | System.String | The output file path. |
 | sign_options | groupdocs.signature.options.SignOptions | The signature options. |
 | save_options | groupdocs.signature.options.SaveOptions | The save options. |
 
 
-## sign {#str-System.Collections.Generic.List<GroupDocs.Signature.Options.SignOptions>-groupdocs.signature.options.SaveOptions}
+## sign {#System.String-System.Collections.Generic.List`1[[GroupDocs.Signature.Options.SignOptions]]-groupdocs.signature.options.SaveOptions}
 
 
 
@@ -171,8 +171,8 @@ def sign(self, file_path, sign_options_list, save_options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_path | str |  |
-| sign_options_list | System.Collections.Generic.List<GroupDocs.Signature.Options.SignOptions> |  |
+| file_path | System.String |  |
+| sign_options_list | System.Collections.Generic.List`1[[GroupDocs.Signature.Options.SignOptions]] |  |
 | save_options | groupdocs.signature.options.SaveOptions |  |
 
 

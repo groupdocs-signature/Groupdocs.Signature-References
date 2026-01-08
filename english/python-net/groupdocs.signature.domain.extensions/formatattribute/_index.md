@@ -19,8 +19,8 @@ The FormatAttribute type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.domain.extensions/formatattribute/__init__/#str) | Creates Format attribute with given property Name |
-| [__init__](/signature/python-net/groupdocs.signature.domain.extensions/formatattribute/__init__/#str-str) | Creates Format attribute with given property Name |
+| [__init__](/signature/python-net/groupdocs.signature.domain.extensions/formatattribute/__init__/#System.String) | Creates Format attribute with given property Name |
+| [__init__](/signature/python-net/groupdocs.signature.domain.extensions/formatattribute/__init__/#System.String-System.String) | Creates Format attribute with given property Name |
 
 
 ### Properties

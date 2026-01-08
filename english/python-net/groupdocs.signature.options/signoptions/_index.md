@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.options/signoptions/
 is_root: false
-weight: 380
+weight: 400
 ---
 
 ## SignOptions class

@@ -19,8 +19,8 @@ The ILogger type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [trace](/signature/python-net/groupdocs.signature.logging/ilogger/trace/#str) | Writes a trace message. Trace log messages provide generally useful information about application flow. |
-| [warning](/signature/python-net/groupdocs.signature.logging/ilogger/warning/#str) | Writes warning log message; Warning log messages provides information about unexpected and recoverable event in application flow. |
+| [trace](/signature/python-net/groupdocs.signature.logging/ilogger/trace/#System.String) | Writes a trace message. Trace log messages provide generally useful information about application flow. |
+| [warning](/signature/python-net/groupdocs.signature.logging/ilogger/warning/#System.String) | Writes warning log message; Warning log messages provides information about unexpected and recoverable event in application flow. |
 
 
 

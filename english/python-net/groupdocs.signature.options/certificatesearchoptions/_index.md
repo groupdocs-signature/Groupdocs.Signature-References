@@ -25,7 +25,7 @@ The CertificateSearchOptions type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [__init__](/signature/python-net/groupdocs.signature.options/certificatesearchoptions/__init__/#) | Initializes a new instance of the TextSearchOptions class with default values. |
-| [__init__](/signature/python-net/groupdocs.signature.options/certificatesearchoptions/__init__/#str) | Initializes a new instance of the TextSearchOptions class with text value. |
+| [__init__](/signature/python-net/groupdocs.signature.options/certificatesearchoptions/__init__/#System.String) | Initializes a new instance of the TextSearchOptions class with text value. |
 
 
 ### Properties

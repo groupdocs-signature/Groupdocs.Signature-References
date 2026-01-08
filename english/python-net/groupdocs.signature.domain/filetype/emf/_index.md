@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/emf/
 is_root: false
-weight: 200
+weight: 210
 ---
 
 ## EMF property

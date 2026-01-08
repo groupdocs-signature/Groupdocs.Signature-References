@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/csv/
 is_root: false
-weight: 110
+weight: 120
 ---
 
 ## CSV property

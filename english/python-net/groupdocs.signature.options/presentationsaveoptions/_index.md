@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.options/presentationsaveoptions/
 is_root: false
-weight: 290
+weight: 310
 ---
 
 ## PresentationSaveOptions class

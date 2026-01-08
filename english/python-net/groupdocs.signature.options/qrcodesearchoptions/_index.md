@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.options/qrcodesearchoptions/
 is_root: false
-weight: 330
+weight: 350
 ---
 
 ## QrCodeSearchOptions class
@@ -26,7 +26,7 @@ The QrCodeSearchOptions type exposes the following members:
 | :- | :- |
 | [__init__](/signature/python-net/groupdocs.signature.options/qrcodesearchoptions/__init__/#) | Initializes a new instance of the QRCodeSearchOptions class with default values. |
 | [__init__](/signature/python-net/groupdocs.signature.options/qrcodesearchoptions/__init__/#groupdocs.signature.domain.QrCodeType) | Initializes a new instance of the QRCodeSearchOptions class with encode type value. |
-| [__init__](/signature/python-net/groupdocs.signature.options/qrcodesearchoptions/__init__/#groupdocs.signature.domain.QrCodeType-str) | Initializes a new instance of the QRCodeSearchOptions class with encode type and text values. |
+| [__init__](/signature/python-net/groupdocs.signature.options/qrcodesearchoptions/__init__/#groupdocs.signature.domain.QrCodeType-System.String) | Initializes a new instance of the QRCodeSearchOptions class with encode type and text values. |
 
 
 ### Properties

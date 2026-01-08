@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/tsv/
 is_root: false
-weight: 550
+weight: 570
 ---
 
 ## TSV property

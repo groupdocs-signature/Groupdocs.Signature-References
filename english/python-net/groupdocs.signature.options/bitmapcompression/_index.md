@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.options/bitmapcompression/
 is_root: false
-weight: 490
+weight: 510
 ---
 
 ## BitmapCompression enumeration

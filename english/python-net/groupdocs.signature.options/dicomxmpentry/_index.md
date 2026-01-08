@@ -19,7 +19,7 @@ The DicomXmpEntry type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.options/dicomxmpentry/__init__/#groupdocs.signature.options.DicomXmpType-str) | Creates Xmp entry for DICOM image. |
+| [__init__](/signature/python-net/groupdocs.signature.options/dicomxmpentry/__init__/#groupdocs.signature.options.DicomXmpType-System.String) | Creates Xmp entry for DICOM image. |
 
 
 ### Properties

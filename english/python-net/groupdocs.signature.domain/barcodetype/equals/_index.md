@@ -27,7 +27,7 @@ def equals(self, other):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| other | [`BarcodeType`](/signature/python-net/groupdocs.signature.domain/barcodetype) | Object for comparison. |
+| other | groupdocs.signature.domain.BarcodeType | Object for comparison. |
 
 
 

@@ -25,7 +25,7 @@ The ImageMetadataSignature type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.domain/imagemetadatasignature/__init__/#int-any) | Creates Image Metadata Signature with Id and value |
+| [__init__](/signature/python-net/groupdocs.signature.domain/imagemetadatasignature/__init__/#int-System.Object) | Creates Image Metadata Signature with Id and value |
 
 
 ### Properties
@@ -55,14 +55,14 @@ The ImageMetadataSignature type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [clone](/signature/python-net/groupdocs.signature.domain/imagemetadatasignature/clone/#) | Clone Metadata Signature instance. |
-| [clone](/signature/python-net/groupdocs.signature.domain/imagemetadatasignature/clone/#any) | Clone Image Metadata Signature instance with given value. |
+| [clone](/signature/python-net/groupdocs.signature.domain/imagemetadatasignature/clone/#System.Object) | Clone Image Metadata Signature instance with given value. |
 | [to_boolean](/signature/python-net/groupdocs.signature.domain/imagemetadatasignature/to_boolean/#) | Converts to boolean. |
 | [to_integer](/signature/python-net/groupdocs.signature.domain/imagemetadatasignature/to_integer/#) | Converts to integer. |
 | [to_decimal](/signature/python-net/groupdocs.signature.domain/imagemetadatasignature/to_decimal/#) | Converts to Decimal. |
 | [to_double](/signature/python-net/groupdocs.signature.domain/imagemetadatasignature/to_double/#) | Converts to Double. |
 | [to_single](/signature/python-net/groupdocs.signature.domain/imagemetadatasignature/to_single/#) | Converts to float. |
 | [to_date_time](/signature/python-net/groupdocs.signature.domain/imagemetadatasignature/to_date_time/#) | Converts to DateTime. |
-| [to_string](/signature/python-net/groupdocs.signature.domain/imagemetadatasignature/to_string/#str) | Converts to String with specified format |
+| [to_string](/signature/python-net/groupdocs.signature.domain/imagemetadatasignature/to_string/#System.String) | Converts to String with specified format |
 | [to_long](/signature/python-net/groupdocs.signature.domain/imagemetadatasignature/to_long/#) | Converts to long. |
 
 

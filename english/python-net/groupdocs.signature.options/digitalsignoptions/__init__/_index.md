@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## __init__ {#str}
+## __init__ {#System.String}
 
 Initializes a new instance of the DigitalSignOptions class with certificate file.
 
@@ -36,7 +36,7 @@ def __init__(self, certificate_file_path):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| certificate_file_path | str | Digital certificate file path |
+| certificate_file_path | System.String | Digital certificate file path |
 
 
 ## __init__ {#io.RawIOBase}
@@ -56,7 +56,7 @@ def __init__(self, certificate_stream):
 | certificate_stream | io.RawIOBase | Digital Certificate stream |
 
 
-## __init__ {#str-str}
+## __init__ {#System.String-System.String}
 
 Initializes a new instance of the DigitalSignOptions class with certificate file and image file.
 
@@ -70,11 +70,11 @@ def __init__(self, certificate_file_path, image_file_path):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| certificate_file_path | str | Digital certificate file path |
-| image_file_path | str | Signature Appearance image file path |
+| certificate_file_path | System.String | Digital certificate file path |
+| image_file_path | System.String | Signature Appearance image file path |
 
 
-## __init__ {#str-io.RawIOBase}
+## __init__ {#System.String-io.RawIOBase}
 
 Initializes a new instance of the DigitalSignOptions class with certificate file and image stream.
 
@@ -88,11 +88,11 @@ def __init__(self, certificate_file_path, appearence_image_stream):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| certificate_file_path | str | Digital certificate file path |
+| certificate_file_path | System.String | Digital certificate file path |
 | appearence_image_stream | io.RawIOBase | Signature Appearance image stream |
 
 
-## __init__ {#io.RawIOBase-str}
+## __init__ {#io.RawIOBase-System.String}
 
 Initializes a new instance of the DigitalSignOptions class with certificate stream and image file.
 
@@ -107,7 +107,7 @@ def __init__(self, certificate_stream, image_file_path):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | certificate_stream | io.RawIOBase | Digital Certificate stream |
-| image_file_path | str | Signature Appearance image file path |
+| image_file_path | System.String | Signature Appearance image file path |
 
 
 ## __init__ {#io.RawIOBase-io.RawIOBase}

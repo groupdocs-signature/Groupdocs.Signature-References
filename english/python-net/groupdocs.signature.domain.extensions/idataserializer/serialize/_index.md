@@ -5,10 +5,10 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/idataserializer/serialize/
 is_root: false
-weight: 20
+weight: 30
 ---
 
-## serialize {#any}
+## serialize {#System.Object}
 
 Serialize method to format object to string representing.
 
@@ -27,7 +27,7 @@ def serialize(self, data):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| data | any | Source object to serialize |
+| data | System.Object | Source object to serialize |
 
 
 

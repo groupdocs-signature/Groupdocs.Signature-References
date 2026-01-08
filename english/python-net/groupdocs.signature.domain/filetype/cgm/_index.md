@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/cgm/
 is_root: false
-weight: 90
+weight: 100
 ---
 
 ## CGM property

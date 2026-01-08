@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/png/
 is_root: false
-weight: 370
+weight: 380
 ---
 
 ## PNG property

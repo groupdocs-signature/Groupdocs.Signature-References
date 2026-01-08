@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/tiff/
 is_root: false
-weight: 540
+weight: 560
 ---
 
 ## TIFF property

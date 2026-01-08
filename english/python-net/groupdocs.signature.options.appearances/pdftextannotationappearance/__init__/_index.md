@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## __init__ {#str-str-str}
+## __init__ {#System.String-System.String-System.String}
 
 Creates  PDF signature text annotation with specified values (title, subject, contents).
 
@@ -36,9 +36,9 @@ def __init__(self, title, subject, contents):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| title | str | Title. |
-| subject | str | Subject. |
-| contents | str | Contents. |
+| title | System.String | Title. |
+| subject | System.String | Subject. |
+| contents | System.String | Contents. |
 
 
 

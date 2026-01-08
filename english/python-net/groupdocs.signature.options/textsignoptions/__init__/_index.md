@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## __init__ {#str}
+## __init__ {#System.String}
 
 Initializes a new instance of the TextSignOptions class with text.
 
@@ -36,7 +36,7 @@ def __init__(self, text):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| text | str | Signature text. |
+| text | System.String | Signature text. |
 
 
 

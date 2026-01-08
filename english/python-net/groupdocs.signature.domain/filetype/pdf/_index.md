@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/pdf/
 is_root: false
-weight: 350
+weight: 360
 ---
 
 ## PDF property

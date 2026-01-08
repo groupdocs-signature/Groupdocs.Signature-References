@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.options/textverifyoptions/
 is_root: false
-weight: 440
+weight: 460
 ---
 
 ## TextVerifyOptions class
@@ -25,8 +25,8 @@ The TextVerifyOptions type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [__init__](/signature/python-net/groupdocs.signature.options/textverifyoptions/__init__/#) | Initializes a new instance of the TextVerifyOptions with default values. |
-| [__init__](/signature/python-net/groupdocs.signature.options/textverifyoptions/__init__/#str) | Initializes a new instance of the TextVerifyOptions with verification text. |
-| [__init__](/signature/python-net/groupdocs.signature.options/textverifyoptions/__init__/#str-groupdocs.signature.domain.TextSignatureImplementation) | Initializes a new instance of the TextVerifyOptions with Text property to verify and signature implementation. |
+| [__init__](/signature/python-net/groupdocs.signature.options/textverifyoptions/__init__/#System.String) | Initializes a new instance of the TextVerifyOptions with verification text. |
+| [__init__](/signature/python-net/groupdocs.signature.options/textverifyoptions/__init__/#System.String-groupdocs.signature.domain.TextSignatureImplementation) | Initializes a new instance of the TextVerifyOptions with Text property to verify and signature implementation. |
 
 
 ### Properties

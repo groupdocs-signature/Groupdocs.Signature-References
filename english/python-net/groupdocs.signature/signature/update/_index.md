@@ -30,7 +30,7 @@ def update(self, signature):
 | signature | groupdocs.signature.domain.BaseSignature | Signature object to be updated in the document. |
 
 
-## update {#System.Collections.Generic.List<GroupDocs.Signature.Domain.BaseSignature>}
+## update {#System.Collections.Generic.List`1[[GroupDocs.Signature.Domain.BaseSignature]]}
 
 
 
@@ -44,7 +44,7 @@ def update(self, signatures):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| signatures | System.Collections.Generic.List<GroupDocs.Signature.Domain.BaseSignature> |  |
+| signatures | System.Collections.Generic.List`1[[GroupDocs.Signature.Domain.BaseSignature]] |  |
 
 
 

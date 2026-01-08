@@ -25,7 +25,7 @@ The DigitalFormFieldSignature type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.domain/digitalformfieldsignature/__init__/#str) | Creates PdfDigitalFormFieldSignature with predefined name. |
+| [__init__](/signature/python-net/groupdocs.signature.domain/digitalformfieldsignature/__init__/#System.String) | Creates PdfDigitalFormFieldSignature with predefined name. |
 
 
 ### Properties

@@ -39,7 +39,7 @@ def __init__(self, corners):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| corners | [`Corners`](/signature/python-net/groupdocs.signature.domain/corners) | Radius of square corners. |
+| corners | groupdocs.signature.domain.Corners | Radius of square corners. |
 
 
 

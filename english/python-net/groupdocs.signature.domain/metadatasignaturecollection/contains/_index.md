@@ -8,7 +8,7 @@ is_root: false
 weight: 60
 ---
 
-## contains {#str}
+## contains {#System.String}
 
 Returns true if a Metadata with the specified name exists in the collection.
 
@@ -27,7 +27,7 @@ def contains(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The case-insensitive name of the property. |
+| name | System.String | The case-insensitive name of the property. |
 
 
 

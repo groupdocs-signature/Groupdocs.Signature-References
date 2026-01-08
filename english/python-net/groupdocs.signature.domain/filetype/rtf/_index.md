@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/rtf/
 is_root: false
-weight: 490
+weight: 500
 ---
 
 ## RTF property

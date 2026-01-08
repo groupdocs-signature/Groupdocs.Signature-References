@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/g_zip/
 is_root: false
-weight: 230
+weight: 240
 ---
 
 ## G_ZIP property

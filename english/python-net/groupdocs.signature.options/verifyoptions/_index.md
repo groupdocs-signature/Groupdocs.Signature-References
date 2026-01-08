@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.options/verifyoptions/
 is_root: false
-weight: 470
+weight: 490
 ---
 
 ## VerifyOptions class

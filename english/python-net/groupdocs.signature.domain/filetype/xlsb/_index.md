@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/xlsb/
 is_root: false
-weight: 630
+weight: 650
 ---
 
 ## XLSB property

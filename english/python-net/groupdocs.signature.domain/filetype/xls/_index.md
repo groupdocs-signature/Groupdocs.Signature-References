@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/xls/
 is_root: false
-weight: 620
+weight: 640
 ---
 
 ## XLS property

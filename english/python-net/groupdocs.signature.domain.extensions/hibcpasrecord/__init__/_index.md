@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## __init__ {#groupdocs.signature.domain.extensions.HIBCPASDataType-str}
+## __init__ {#groupdocs.signature.domain.extensions.HIBCPASDataType-System.String}
 
 Creates HIBCPASRecord with data and type.
 
@@ -36,8 +36,8 @@ def __init__(self, data_type, data):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| data_type | [`HIBCPASDataType`](/signature/python-net/groupdocs.signature.domain.extensions/hibcpasdatatype) | HIBC PAS record's data type. |
-| data | str | HIBC PAS record's data. |
+| data_type | groupdocs.signature.domain.extensions.HIBCPASDataType | HIBC PAS record's data type. |
+| data | System.String | HIBC PAS record's data. |
 
 
 

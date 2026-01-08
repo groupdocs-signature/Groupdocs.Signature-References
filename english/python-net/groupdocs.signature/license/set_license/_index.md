@@ -8,7 +8,7 @@ is_root: false
 weight: 20
 ---
 
-## set_license {#str}
+## set_license {#System.String}
 
 Licenses the component.
 
@@ -22,7 +22,7 @@ def set_license(self, license_path):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| license_path | str | The license path. |
+| license_path | System.String | The license path. |
 
 ### Example 
 

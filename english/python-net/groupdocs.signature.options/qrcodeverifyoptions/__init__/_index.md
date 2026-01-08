@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## __init__ {#str}
+## __init__ {#System.String}
 
 Creates verification option QrCodeVerifyOptions for QR-Code Signatures with QR-Code text  to verify.
 
@@ -36,10 +36,10 @@ def __init__(self, text):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| text | str | QR-code Text to verify |
+| text | System.String | QR-code Text to verify |
 
 
-## __init__ {#str-groupdocs.signature.domain.QrCodeType}
+## __init__ {#System.String-groupdocs.signature.domain.QrCodeType}
 
 Creates verification option QrCodeVerifyOptions for QR-Code Signatures with text and QR-Code encode type to verify.
 
@@ -53,7 +53,7 @@ def __init__(self, text, encode_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| text | str | Text to be verified |
+| text | System.String | Text to be verified |
 | encode_type | groupdocs.signature.domain.QrCodeType | Type of encoding |
 
 

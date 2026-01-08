@@ -8,7 +8,7 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#str-str}
+## __init__ {#System.String-System.String}
 
 Initializes a new instance of the DigitalVBA class with certificate file.
 
@@ -22,11 +22,11 @@ def __init__(self, certificate_file_path, password):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| certificate_file_path | str | Digital certificate file path |
-| password | str | Digital certificate password |
+| certificate_file_path | System.String | Digital certificate file path |
+| password | System.String | Digital certificate password |
 
 
-## __init__ {#io.RawIOBase-str}
+## __init__ {#io.RawIOBase-System.String}
 
 Initializes a new instance of the DigitalVBA class with certificate stream.
 
@@ -41,7 +41,7 @@ def __init__(self, certificate_stream, password):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | certificate_stream | io.RawIOBase | Digital Certificate stream |
-| password | str | Digital certificate password |
+| password | System.String | Digital certificate password |
 
 
 

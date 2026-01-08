@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/extension/
 is_root: false
-weight: 690
+weight: 710
 ---
 
 ## extension property

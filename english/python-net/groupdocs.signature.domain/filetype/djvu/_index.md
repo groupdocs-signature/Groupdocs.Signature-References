@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/djvu/
 is_root: false
-weight: 130
+weight: 140
 ---
 
 ## DJVU property

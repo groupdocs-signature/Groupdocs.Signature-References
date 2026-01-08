@@ -26,8 +26,8 @@ The DigitalVBA type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.domain.extensions/digitalvba/__init__/#str-str) | Initializes a new instance of the DigitalVBA class with certificate file. |
-| [__init__](/signature/python-net/groupdocs.signature.domain.extensions/digitalvba/__init__/#io.RawIOBase-str) | Initializes a new instance of the DigitalVBA class with certificate stream. |
+| [__init__](/signature/python-net/groupdocs.signature.domain.extensions/digitalvba/__init__/#System.String-System.String) | Initializes a new instance of the DigitalVBA class with certificate file. |
+| [__init__](/signature/python-net/groupdocs.signature.domain.extensions/digitalvba/__init__/#io.RawIOBase-System.String) | Initializes a new instance of the DigitalVBA class with certificate stream. |
 
 
 ### Properties

@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.options/permissions/
 is_root: false
-weight: 540
+weight: 560
 ---
 
 ## Permissions enumeration
@@ -20,7 +20,7 @@ The Permissions type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| ALLOW_ALL | Allow all actions, including printing, modification, and data extraction. |
+| NONE | Allow all actions, including printing, modification, and data extraction. |
 | DENY_PRINTING | Deny printing of the document. |
 | DENY_MODIFICATION | Deny content modification, including filling forms and adding or modifying annotations. |
 | DENY_DATA_EXTRACTION | Deny extraction of text and graphics from the document. |

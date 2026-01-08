@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.options/previewpagedata/
 is_root: false
-weight: 310
+weight: 330
 ---
 
 ## PreviewPageData class

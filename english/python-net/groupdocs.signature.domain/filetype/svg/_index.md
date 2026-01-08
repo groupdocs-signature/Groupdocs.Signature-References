@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/svg/
 is_root: false
-weight: 510
+weight: 520
 ---
 
 ## SVG property

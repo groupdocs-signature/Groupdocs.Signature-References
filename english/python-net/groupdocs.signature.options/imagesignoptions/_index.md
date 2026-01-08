@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.options/imagesignoptions/
 is_root: false
-weight: 190
+weight: 210
 ---
 
 ## ImageSignOptions class
@@ -25,7 +25,7 @@ The ImageSignOptions type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [__init__](/signature/python-net/groupdocs.signature.options/imagesignoptions/__init__/#) | Initializes a new instance of the ImageSignOptions class with default values. |
-| [__init__](/signature/python-net/groupdocs.signature.options/imagesignoptions/__init__/#str) | Initializes a new instance of the ImageSignOptions class with image file. |
+| [__init__](/signature/python-net/groupdocs.signature.options/imagesignoptions/__init__/#System.String) | Initializes a new instance of the ImageSignOptions class with image file. |
 | [__init__](/signature/python-net/groupdocs.signature.options/imagesignoptions/__init__/#io.RawIOBase) | Initializes a new instance of the ImageSignOptions class with image stream. |
 
 
@@ -64,7 +64,7 @@ The ImageSignOptions type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [from_base64](/signature/python-net/groupdocs.signature.options/imagesignoptions/from_base64/#str) | Creates a new instance of the ImageSignOptions class with predefined Image from Base64. |
+| [from_base64](/signature/python-net/groupdocs.signature.options/imagesignoptions/from_base64/#System.String) | Creates a new instance of the ImageSignOptions class with predefined Image from Base64. |
 
 
 

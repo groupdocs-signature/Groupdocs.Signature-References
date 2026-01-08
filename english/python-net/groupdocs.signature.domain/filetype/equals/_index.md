@@ -27,7 +27,7 @@ def equals(self, other):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| other | [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype) | The object to compare with the current [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype) object. |
+| other | groupdocs.signature.domain.FileType | The object to compare with the current [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype) object. |
 
 
 

@@ -8,7 +8,7 @@ is_root: false
 weight: 70
 ---
 
-## index_of {#str}
+## index_of {#System.String}
 
 Gets the index of a property by name.
 
@@ -27,7 +27,7 @@ def index_of(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The case-insensitive name of the MetadataSignature. |
+| name | System.String | The case-insensitive name of the MetadataSignature. |
 
 
 

@@ -25,8 +25,8 @@ The CheckboxFormFieldSignature type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.domain/checkboxformfieldsignature/__init__/#str) | Creates CheckboxFormFieldSignature with predefined name. |
-| [__init__](/signature/python-net/groupdocs.signature.domain/checkboxformfieldsignature/__init__/#str-bool) | Creates CheckboxFormFieldSignature with predefined name and value |
+| [__init__](/signature/python-net/groupdocs.signature.domain/checkboxformfieldsignature/__init__/#System.String) | Creates CheckboxFormFieldSignature with predefined name. |
+| [__init__](/signature/python-net/groupdocs.signature.domain/checkboxformfieldsignature/__init__/#System.String-bool) | Creates CheckboxFormFieldSignature with predefined name and value |
 
 
 ### Properties

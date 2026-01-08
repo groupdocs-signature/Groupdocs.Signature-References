@@ -30,7 +30,7 @@ def verify(self, verify_options):
 | verify_options | groupdocs.signature.options.VerifyOptions | The signature verification options. |
 
 
-## verify {#System.Collections.Generic.List<GroupDocs.Signature.Options.VerifyOptions>}
+## verify {#System.Collections.Generic.List`1[[GroupDocs.Signature.Options.VerifyOptions]]}
 
 
 
@@ -44,7 +44,7 @@ def verify(self, verify_options_list):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| verify_options_list | System.Collections.Generic.List<GroupDocs.Signature.Options.VerifyOptions> |  |
+| verify_options_list | System.Collections.Generic.List`1[[GroupDocs.Signature.Options.VerifyOptions]] |  |
 
 
 

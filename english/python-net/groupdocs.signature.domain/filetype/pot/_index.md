@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/pot/
 is_root: false
-weight: 380
+weight: 390
 ---
 
 ## POT property

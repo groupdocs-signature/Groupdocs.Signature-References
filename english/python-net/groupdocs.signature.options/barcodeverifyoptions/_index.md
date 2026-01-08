@@ -26,9 +26,9 @@ The BarcodeVerifyOptions type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [__init__](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions/__init__/#) | Creates default Verification Option for Barcode Signature. |
-| [__init__](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions/__init__/#str) | Creates default Verification Option with verification text |
+| [__init__](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions/__init__/#System.String) | Creates default Verification Option with verification text |
 | [__init__](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions/__init__/#groupdocs.signature.domain.BarcodeType) | Creates default Verification Option with Barcode Type verification |
-| [__init__](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions/__init__/#str-groupdocs.signature.domain.BarcodeType) | Creates default Verification Option with Barcode Type verification and text |
+| [__init__](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions/__init__/#System.String-groupdocs.signature.domain.BarcodeType) | Creates default Verification Option with Barcode Type verification and text |
 
 
 ### Properties

@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/gif/
 is_root: false
-weight: 220
+weight: 230
 ---
 
 ## GIF property

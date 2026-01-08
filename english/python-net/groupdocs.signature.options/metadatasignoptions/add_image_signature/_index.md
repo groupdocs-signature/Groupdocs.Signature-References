@@ -8,7 +8,7 @@ is_root: false
 weight: 30
 ---
 
-## add_image_signature {#int-any}
+## add_image_signature {#int-System.Object}
 
 Creates new ImageMetadataSignature with passed arguments and adds it to collection.
 
@@ -28,7 +28,7 @@ def add_image_signature(self, id, value):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | id | int | Unique identifier Image Metadata Signature name. See references for Exif tags specifications for possible id values |
-| value | any | Metadata value |
+| value | System.Object | Metadata value |
 
 
 

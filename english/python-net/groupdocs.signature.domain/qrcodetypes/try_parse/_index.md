@@ -8,7 +8,7 @@ is_root: false
 weight: 30
 ---
 
-## try_parse {#str}
+## try_parse {#System.String}
 
 Returns QRCode type with pasringType name. 
 If name of QRCode is unknown - no Exception will be throw but method will return null value.
@@ -28,10 +28,11 @@ def try_parse(self, parsing_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| parsing_type | str | Source string of QRCode type name. |
+| parsing_type | System.String | Source string of QRCode type name. |
 
 
 
 ### See Also
 * module [`groupdocs.signature.domain`](../../)
+* class [`QrCodeType`](/signature/python-net/groupdocs.signature.domain/qrcodetype)
 * class [`QrCodeTypes`](/signature/python-net/groupdocs.signature.domain/qrcodetypes)

@@ -8,7 +8,7 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#groupdocs.signature.options.DicomXmpType-str}
+## __init__ {#groupdocs.signature.options.DicomXmpType-System.String}
 
 Creates Xmp entry for DICOM image.
 
@@ -22,8 +22,8 @@ def __init__(self, type, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`DicomXmpType`](/signature/python-net/groupdocs.signature.options/dicomxmptype) | Entry type |
-| value | str | Entry value |
+| type | groupdocs.signature.options.DicomXmpType | Entry type |
+| value | System.String | Entry value |
 
 
 

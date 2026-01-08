@@ -8,7 +8,7 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#str}
+## __init__ {#System.String}
 
 Creates PdfDigitalFormFieldSignature with predefined name.
 
@@ -22,7 +22,7 @@ def __init__(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | Name of form field object. |
+| name | System.String | Name of form field object. |
 
 
 

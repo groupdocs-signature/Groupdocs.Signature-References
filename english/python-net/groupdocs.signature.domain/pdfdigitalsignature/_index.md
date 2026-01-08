@@ -62,7 +62,7 @@ The PdfDigitalSignature type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [load_digital_signatures](/signature/python-net/groupdocs.signature.domain/pdfdigitalsignature/load_digital_signatures/#) | Load Digital signatures from all system X509 Certificates Stores. |
-| [load_digital_signatures](/signature/python-net/groupdocs.signature.domain/pdfdigitalsignature/load_digital_signatures/#str) | Load Digital signatures from a certificate storage. |
+| [load_digital_signatures](/signature/python-net/groupdocs.signature.domain/pdfdigitalsignature/load_digital_signatures/#System.String) | Load Digital signatures from a certificate storage. |
 | [clone](/signature/python-net/groupdocs.signature.domain/pdfdigitalsignature/clone/#) | Clone Barcode Signature instance. |
 
 

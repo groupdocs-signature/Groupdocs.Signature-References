@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.options/jpegcompressionmode/
 is_root: false
-weight: 520
+weight: 540
 ---
 
 ## JpegCompressionMode enumeration

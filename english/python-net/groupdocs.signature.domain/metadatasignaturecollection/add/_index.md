@@ -22,7 +22,7 @@ def add(self, signature):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| signature | [`MetadataSignature`](/signature/python-net/groupdocs.signature.domain/metadatasignature) | Metadata signature to be added to collection. |
+| signature | groupdocs.signature.domain.MetadataSignature | Metadata signature to be added to collection. |
 
 
 

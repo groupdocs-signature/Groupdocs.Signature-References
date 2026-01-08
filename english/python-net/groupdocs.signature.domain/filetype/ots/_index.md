@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/ots/
 is_root: false
-weight: 320
+weight: 330
 ---
 
 ## OTS property

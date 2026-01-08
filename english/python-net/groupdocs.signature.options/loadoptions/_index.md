@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.options/loadoptions/
 is_root: false
-weight: 210
+weight: 230
 ---
 
 ## LoadOptions class

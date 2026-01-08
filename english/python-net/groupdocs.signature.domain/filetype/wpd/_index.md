@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/wpd/
 is_root: false
-weight: 610
+weight: 630
 ---
 
 ## WPD property

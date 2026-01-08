@@ -24,7 +24,7 @@ The TextSignature type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.domain/textsignature/__init__/#str) | Initialize TextSignature object with signature identifier that was obtained after search process.<br/>This unique identifier is used to find additional properties for this signature from document signature information layer. |
+| [__init__](/signature/python-net/groupdocs.signature.domain/textsignature/__init__/#System.String) | Initialize TextSignature object with signature identifier that was obtained after search process.<br/>This unique identifier is used to find additional properties for this signature from document signature information layer. |
 
 
 ### Properties

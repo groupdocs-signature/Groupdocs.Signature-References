@@ -29,7 +29,7 @@ def custom_sign_hash(self, signable_hash, hash_algorithm, signature_context):
 | :- | :- | :- |
 | signable_hash | bytes | The hash value to be signed. |
 | hash_algorithm | groupdocs.signature.domain.HashAlgorithm | The hash algorithm used to generate the hash. |
-| signature_context | [`SignatureContext`](/signature/python-net/groupdocs.signature.options/signaturecontext) | The context providing additional signature-related options. |
+| signature_context | groupdocs.signature.options.SignatureContext | The context providing additional signature-related options. |
 
 
 

@@ -8,7 +8,7 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#str}
+## __init__ {#System.String}
 
 Creates ComboboxFormFieldSignature with predefined name.
 
@@ -22,10 +22,10 @@ def __init__(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | Name of form field object. |
+| name | System.String | Name of form field object. |
 
 
-## __init__ {#str-System.Collections.Generic.List<string>}
+## __init__ {#System.String-System.Collections.Generic.List`1[[System.String]]}
 
 Constructs a new instance of ComboboxFormFieldSignature
 
@@ -39,11 +39,11 @@ def __init__(self, name, items):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str |  |
-| items | System.Collections.Generic.List<string> |  |
+| name | System.String |  |
+| items | System.Collections.Generic.List`1[[System.String]] |  |
 
 
-## __init__ {#str-System.Collections.Generic.List<string>-any}
+## __init__ {#System.String-System.Collections.Generic.List`1[[System.String]]-System.Object}
 
 Constructs a new instance of ComboboxFormFieldSignature
 
@@ -57,9 +57,9 @@ def __init__(self, name, items, selected):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str |  |
-| items | System.Collections.Generic.List<string> |  |
-| selected | any |  |
+| name | System.String |  |
+| items | System.Collections.Generic.List`1[[System.String]] |  |
+| selected | System.Object |  |
 
 
 

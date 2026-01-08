@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.options/textsearchoptions/
 is_root: false
-weight: 420
+weight: 440
 ---
 
 ## TextSearchOptions class
@@ -25,7 +25,7 @@ The TextSearchOptions type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [__init__](/signature/python-net/groupdocs.signature.options/textsearchoptions/__init__/#) | Initializes a new instance of the TextSearchOptions class with default values. |
-| [__init__](/signature/python-net/groupdocs.signature.options/textsearchoptions/__init__/#str) | Initializes a new instance of the TextSearchOptions class with text value. |
+| [__init__](/signature/python-net/groupdocs.signature.options/textsearchoptions/__init__/#System.String) | Initializes a new instance of the TextSearchOptions class with text value. |
 
 
 ### Properties

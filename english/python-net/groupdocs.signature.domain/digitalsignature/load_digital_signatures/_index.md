@@ -27,7 +27,7 @@ def load_digital_signatures(self):
 
 
 
-## load_digital_signatures {#str}
+## load_digital_signatures {#System.String}
 
 Load Digital signatures from a certificate storage.
 
@@ -46,7 +46,7 @@ def load_digital_signatures(self, store_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| store_name | str | Custom name of a digital storage containing certificates. |
+| store_name | System.String | Custom name of a digital storage containing certificates. |
 
 
 
