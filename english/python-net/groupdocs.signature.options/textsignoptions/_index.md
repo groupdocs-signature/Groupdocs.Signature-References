@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.options/textsignoptions/
 is_root: false
-weight: 430
+weight: 450
 ---
 
 ## TextSignOptions class
@@ -25,7 +25,7 @@ The TextSignOptions type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [__init__](/signature/python-net/groupdocs.signature.options/textsignoptions/__init__/#) | Initializes a new instance of the TextSignOptions class with default values. |
-| [__init__](/signature/python-net/groupdocs.signature.options/textsignoptions/__init__/#str) | Initializes a new instance of the TextSignOptions class with text. |
+| [__init__](/signature/python-net/groupdocs.signature.options/textsignoptions/__init__/#System.String) | Initializes a new instance of the TextSignOptions class with text. |
 
 
 ### Properties

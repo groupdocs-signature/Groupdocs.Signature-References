@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.options/metadatasignoptions/
 is_root: false
-weight: 230
+weight: 250
 ---
 
 ## MetadataSignOptions class
@@ -47,8 +47,8 @@ The MetadataSignOptions type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [add_pdf_signature](/signature/python-net/groupdocs.signature.options/metadatasignoptions/add_pdf_signature/#str-any-str) | Creates new PdfMetadataSignature with passed arguments and adds it to collection. |
-| [add_image_signature](/signature/python-net/groupdocs.signature.options/metadatasignoptions/add_image_signature/#int-any) | Creates new ImageMetadataSignature with passed arguments and adds it to collection. |
+| [add_pdf_signature](/signature/python-net/groupdocs.signature.options/metadatasignoptions/add_pdf_signature/#System.String-System.Object-System.String) | Creates new PdfMetadataSignature with passed arguments and adds it to collection. |
+| [add_image_signature](/signature/python-net/groupdocs.signature.options/metadatasignoptions/add_image_signature/#int-System.Object) | Creates new ImageMetadataSignature with passed arguments and adds it to collection. |
 | [add](/signature/python-net/groupdocs.signature.options/metadatasignoptions/add/#groupdocs.signature.domain.MetadataSignature) | Add existing  MetadataSignature instance to collection. |
 
 

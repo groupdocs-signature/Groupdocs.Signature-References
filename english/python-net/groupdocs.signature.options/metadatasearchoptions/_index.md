@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.options/metadatasearchoptions/
 is_root: false
-weight: 220
+weight: 240
 ---
 
 ## MetadataSearchOptions class

@@ -8,7 +8,7 @@ is_root: false
 weight: 30
 ---
 
-## warning {#str}
+## warning {#System.String}
 
 Writes warning log message; Warning log messages provides information about unexpected and recoverable event in application flow.
 
@@ -22,7 +22,7 @@ def warning(self, message):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| message | str | The warning message. |
+| message | System.String | The warning message. |
 
 
 

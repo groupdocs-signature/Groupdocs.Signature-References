@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## __init__ {#str}
+## __init__ {#System.String}
 
 Creates Digital Verification Option with given digital certificate file path.
 
@@ -36,7 +36,7 @@ def __init__(self, certificate_file_path):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| certificate_file_path | str | File path to digital certificate. |
+| certificate_file_path | System.String | File path to digital certificate. |
 
 
 ## __init__ {#io.RawIOBase}

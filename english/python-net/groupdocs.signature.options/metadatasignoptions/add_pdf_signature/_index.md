@@ -8,7 +8,7 @@ is_root: false
 weight: 40
 ---
 
-## add_pdf_signature {#str-any-str}
+## add_pdf_signature {#System.String-System.Object-System.String}
 
 Creates new PdfMetadataSignature with passed arguments and adds it to collection.
 
@@ -27,9 +27,9 @@ def add_pdf_signature(self, name, value, tag):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | Name of Metadata signature object |
-| value | any | Value of Metadata signature |
-| tag | str | Prefix tag of Metadata signature |
+| name | System.String | Name of Metadata signature object |
+| value | System.Object | Value of Metadata signature |
+| tag | System.String | Prefix tag of Metadata signature |
 
 
 

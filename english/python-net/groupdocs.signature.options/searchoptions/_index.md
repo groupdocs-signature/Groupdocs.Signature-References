@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.options/searchoptions/
 is_root: false
-weight: 370
+weight: 390
 ---
 
 ## SearchOptions class

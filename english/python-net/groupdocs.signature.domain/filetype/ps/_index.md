@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/ps/
 is_root: false
-weight: 470
+weight: 480
 ---
 
 ## PS property

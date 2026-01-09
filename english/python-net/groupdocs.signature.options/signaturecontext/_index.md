@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.options/signaturecontext/
 is_root: false
-weight: 390
+weight: 410
 ---
 
 ## SignatureContext class

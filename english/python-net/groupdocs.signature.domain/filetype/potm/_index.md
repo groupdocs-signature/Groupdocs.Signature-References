@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/potm/
 is_root: false
-weight: 390
+weight: 400
 ---
 
 ## POTM property

@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.options/spreadsheetsaveoptions/
 is_root: false
-weight: 400
+weight: 420
 ---
 
 ## SpreadsheetSaveOptions class

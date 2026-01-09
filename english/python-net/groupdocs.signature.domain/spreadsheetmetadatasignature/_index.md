@@ -25,8 +25,8 @@ The SpreadsheetMetadataSignature type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/__init__/#str) | Creates Spreadsheet Metadata Signature with predefined name and empty value. |
-| [__init__](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/__init__/#str-any) | Creates Spreadsheet Metadata Signature with predefined values. |
+| [__init__](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/__init__/#System.String) | Creates Spreadsheet Metadata Signature with predefined name and empty value. |
+| [__init__](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/__init__/#System.String-System.Object) | Creates Spreadsheet Metadata Signature with predefined values. |
 
 
 ### Properties
@@ -53,14 +53,14 @@ The SpreadsheetMetadataSignature type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [clone](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/clone/#) | Clone Metadata Signature instance. |
-| [clone](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/clone/#any) | Clone Spreadsheet Metadata Signature instance with given value. |
+| [clone](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/clone/#System.Object) | Clone Spreadsheet Metadata Signature instance with given value. |
 | [to_boolean](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/to_boolean/#) | Converts to boolean. |
 | [to_integer](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/to_integer/#) | Converts to integer. |
 | [to_decimal](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/to_decimal/#) | Converts to Decimal. |
 | [to_double](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/to_double/#) | Converts to Double. |
 | [to_single](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/to_single/#) | Converts to float. |
 | [to_date_time](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/to_date_time/#) | Converts to DateTime. |
-| [to_string](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/to_string/#str) | Converts to String with specified format |
+| [to_string](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/to_string/#System.String) | Converts to String with specified format |
 
 
 

@@ -8,7 +8,7 @@ is_root: false
 weight: 30
 ---
 
-## encode {#str}
+## encode {#System.String}
 
 Encode method to encrypt string.
 
@@ -27,7 +27,7 @@ def encode(self, source):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source | str | Source string to encode. |
+| source | System.String | Source string to encode. |
 
 
 

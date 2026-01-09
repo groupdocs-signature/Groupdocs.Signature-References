@@ -40,8 +40,8 @@ The QrCodeTypes type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [parse](/signature/python-net/groupdocs.signature.domain/qrcodetypes/parse/#str) | Returns QRCode type with pasringType name. If name of QRCode is unknown - Exception will be throw |
-| [try_parse](/signature/python-net/groupdocs.signature.domain/qrcodetypes/try_parse/#str) | Returns QRCode type with pasringType name. <br/>If name of QRCode is unknown - no Exception will be throw but method will return null value. |
+| [parse](/signature/python-net/groupdocs.signature.domain/qrcodetypes/parse/#System.String) | Returns QRCode type with pasringType name. If name of QRCode is unknown - Exception will be throw |
+| [try_parse](/signature/python-net/groupdocs.signature.domain/qrcodetypes/try_parse/#System.String) | Returns QRCode type with pasringType name. <br/>If name of QRCode is unknown - no Exception will be throw but method will return null value. |
 
 
 

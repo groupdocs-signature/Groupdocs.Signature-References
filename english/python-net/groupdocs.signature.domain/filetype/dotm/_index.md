@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/dotm/
 is_root: false
-weight: 180
+weight: 190
 ---
 
 ## DOTM property

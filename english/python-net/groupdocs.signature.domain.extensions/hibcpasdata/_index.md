@@ -32,7 +32,7 @@ The HIBCPASData type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [add_record](/signature/python-net/groupdocs.signature.domain.extensions/hibcpasdata/add_record/#groupdocs.signature.domain.extensions.HIBCPASDataType-str) | Adds new record [`HIBCPASRecord`](/signature/python-net/groupdocs.signature.domain.extensions/hibcpasrecord) with given data type and data |
+| [add_record](/signature/python-net/groupdocs.signature.domain.extensions/hibcpasdata/add_record/#groupdocs.signature.domain.extensions.HIBCPASDataType-System.String) | Adds new record [`HIBCPASRecord`](/signature/python-net/groupdocs.signature.domain.extensions/hibcpasrecord) with given data type and data |
 | [add_record](/signature/python-net/groupdocs.signature.domain.extensions/hibcpasdata/add_record/#groupdocs.signature.domain.extensions.HIBCPASRecord) | Adds new record |
 | [clear](/signature/python-net/groupdocs.signature.domain.extensions/hibcpasdata/clear/#) | Clears records list |
 

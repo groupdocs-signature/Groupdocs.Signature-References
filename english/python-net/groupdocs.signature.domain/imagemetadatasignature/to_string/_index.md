@@ -8,7 +8,7 @@ is_root: false
 weight: 100
 ---
 
-## to_string {#str}
+## to_string {#System.String}
 
 Converts to String with specified format
 
@@ -27,7 +27,7 @@ def to_string(self, format):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| format | str | Data format string. |
+| format | System.String | Data format string. |
 
 
 

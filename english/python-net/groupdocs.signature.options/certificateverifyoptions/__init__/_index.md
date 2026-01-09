@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## __init__ {#str}
+## __init__ {#System.String}
 
 Initializes a new instance of the CertificateVerifyOptions with subject to verify.
 
@@ -36,7 +36,7 @@ def __init__(self, subject):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| subject | str | Subject to be verified |
+| subject | System.String | Subject to be verified |
 
 
 

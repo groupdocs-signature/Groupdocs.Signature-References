@@ -39,6 +39,7 @@ The PdfDigitalSignatureAppearance type exposes the following members:
 | [font_family_name](/signature/python-net/groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/font_family_name) | Gets or sets the Font family name to display the labels. Default value is "Arial". |
 | [font_size](/signature/python-net/groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/font_size) | Gets or sets the Font size to display the labels. Default value is 10. |
 | [foreground](/signature/python-net/groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/foreground) | Get or set foreground text color of signature appearance.<br/>By default the value is Color.FromArgb(76, 100, 255) |
+| [is_foreground_image](/signature/python-net/groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/is_foreground_image) | Gets or sets a value indicating whether the image in the signature appearance is drawn as a foreground image.<br/>Default value: false. |
 
 
 

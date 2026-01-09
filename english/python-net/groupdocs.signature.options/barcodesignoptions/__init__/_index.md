@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## __init__ {#str}
+## __init__ {#System.String}
 
 Initializes a new instance of the BarcodeSignOptions class with text.
 
@@ -36,10 +36,10 @@ def __init__(self, text):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| text | str | Barcode text |
+| text | System.String | Barcode text |
 
 
-## __init__ {#str-groupdocs.signature.domain.BarcodeType}
+## __init__ {#System.String-groupdocs.signature.domain.BarcodeType}
 
 Initializes a new instance of the BarcodeSignOptions class with text.
 
@@ -53,7 +53,7 @@ def __init__(self, text, encode_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| text | str | Barcode text |
+| text | System.String | Barcode text |
 | encode_type | groupdocs.signature.domain.BarcodeType | Barcode encode type see [`BarcodeType`](/signature/python-net/groupdocs.signature.domain/barcodetype) |
 
 

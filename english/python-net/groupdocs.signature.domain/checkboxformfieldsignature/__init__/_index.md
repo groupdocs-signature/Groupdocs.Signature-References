@@ -8,7 +8,7 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#str}
+## __init__ {#System.String}
 
 Creates CheckboxFormFieldSignature with predefined name.
 
@@ -22,10 +22,10 @@ def __init__(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | Name of form field object. |
+| name | System.String | Name of form field object. |
 
 
-## __init__ {#str-bool}
+## __init__ {#System.String-bool}
 
 Creates CheckboxFormFieldSignature with predefined name and value
 
@@ -39,7 +39,7 @@ def __init__(self, name, is_checked):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | Name of form field object. |
+| name | System.String | Name of form field object. |
 | is_checked | bool | Value if check box is checked |
 
 

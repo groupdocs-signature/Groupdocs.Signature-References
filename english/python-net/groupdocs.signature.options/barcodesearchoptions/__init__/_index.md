@@ -39,7 +39,7 @@ def __init__(self, encode_type):
 | encode_type | groupdocs.signature.domain.BarcodeType | Specifies Barcode encode type. |
 
 
-## __init__ {#groupdocs.signature.domain.BarcodeType-str}
+## __init__ {#groupdocs.signature.domain.BarcodeType-System.String}
 
 Initializes a new instance of the BarcodeSearchOptions class with encode type and text values.
 
@@ -54,7 +54,7 @@ def __init__(self, encode_type, text):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | encode_type | groupdocs.signature.domain.BarcodeType | Specifies Barcode encode type. |
-| text | str | Set Text of Barcode signature. |
+| text | System.String | Set Text of Barcode signature. |
 
 
 

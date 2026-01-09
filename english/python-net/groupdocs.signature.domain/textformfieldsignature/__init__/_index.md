@@ -8,7 +8,7 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#str}
+## __init__ {#System.String}
 
 Creates PdfTextFormFieldSignature with predefined name.
 
@@ -22,10 +22,10 @@ def __init__(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | Name of form field object. |
+| name | System.String | Name of form field object. |
 
 
-## __init__ {#str-str}
+## __init__ {#System.String-System.String}
 
 Creates PdfTextFormFieldSignature with predefined name.
 
@@ -39,8 +39,8 @@ def __init__(self, name, text):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | Name of form field object. |
-| text | str | Text of form field object. |
+| name | System.String | Name of form field object. |
+| text | System.String | Text of form field object. |
 
 
 

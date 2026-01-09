@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/xlsx/
 is_root: false
-weight: 650
+weight: 670
 ---
 
 ## XLSX property

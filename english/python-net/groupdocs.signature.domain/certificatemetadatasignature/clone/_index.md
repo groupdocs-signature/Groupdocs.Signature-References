@@ -27,7 +27,7 @@ def clone(self):
 
 
 
-## clone {#any}
+## clone {#System.Object}
 
 Clone Certificate Metadata Signature instance with given value.
 
@@ -46,10 +46,11 @@ def clone(self, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| value | any | Value for new cloned object. |
+| value | System.Object | Value for new cloned object. |
 
 
 
 ### See Also
 * module [`groupdocs.signature.domain`](../../)
 * class [`CertificateMetadataSignature`](/signature/python-net/groupdocs.signature.domain/certificatemetadatasignature)
+* class [`MetadataSignature`](/signature/python-net/groupdocs.signature.domain/metadatasignature)

@@ -8,7 +8,7 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#str}
+## __init__ {#System.String}
 
 Creates Format attribute with given property Name
 
@@ -22,10 +22,10 @@ def __init__(self, property_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| property_name | str | The name of property |
+| property_name | System.String | The name of property |
 
 
-## __init__ {#str-str}
+## __init__ {#System.String-System.String}
 
 Creates Format attribute with given property Name
 
@@ -39,8 +39,8 @@ def __init__(self, property_name, property_format):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| property_name | str | The name of property |
-| property_format | str | The format of property |
+| property_name | System.String | The name of property |
+| property_format | System.String | The format of property |
 
 
 

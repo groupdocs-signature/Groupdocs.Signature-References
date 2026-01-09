@@ -26,11 +26,11 @@ The DigitalSignOptions type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [__init__](/signature/python-net/groupdocs.signature.options/digitalsignoptions/__init__/#) | Initializes a new instance of the DigitalSignOptions class with default values. |
-| [__init__](/signature/python-net/groupdocs.signature.options/digitalsignoptions/__init__/#str) | Initializes a new instance of the DigitalSignOptions class with certificate file. |
+| [__init__](/signature/python-net/groupdocs.signature.options/digitalsignoptions/__init__/#System.String) | Initializes a new instance of the DigitalSignOptions class with certificate file. |
 | [__init__](/signature/python-net/groupdocs.signature.options/digitalsignoptions/__init__/#io.RawIOBase) | Initializes a new instance of the DigitalSignOptions class with certificate stream. |
-| [__init__](/signature/python-net/groupdocs.signature.options/digitalsignoptions/__init__/#str-str) | Initializes a new instance of the DigitalSignOptions class with certificate file and image file. |
-| [__init__](/signature/python-net/groupdocs.signature.options/digitalsignoptions/__init__/#str-io.RawIOBase) | Initializes a new instance of the DigitalSignOptions class with certificate file and image stream. |
-| [__init__](/signature/python-net/groupdocs.signature.options/digitalsignoptions/__init__/#io.RawIOBase-str) | Initializes a new instance of the DigitalSignOptions class with certificate stream and image file. |
+| [__init__](/signature/python-net/groupdocs.signature.options/digitalsignoptions/__init__/#System.String-System.String) | Initializes a new instance of the DigitalSignOptions class with certificate file and image file. |
+| [__init__](/signature/python-net/groupdocs.signature.options/digitalsignoptions/__init__/#System.String-io.RawIOBase) | Initializes a new instance of the DigitalSignOptions class with certificate file and image stream. |
+| [__init__](/signature/python-net/groupdocs.signature.options/digitalsignoptions/__init__/#io.RawIOBase-System.String) | Initializes a new instance of the DigitalSignOptions class with certificate stream and image file. |
 | [__init__](/signature/python-net/groupdocs.signature.options/digitalsignoptions/__init__/#io.RawIOBase-io.RawIOBase) | Initializes a new instance of the DigitalSignOptions class with certificate stream and image stream. |
 
 
@@ -80,7 +80,7 @@ The DigitalSignOptions type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [from_base64](/signature/python-net/groupdocs.signature.options/digitalsignoptions/from_base64/#str) | Creates a new instance of the ImageSignOptions class with predefined Image from Base64. |
+| [from_base64](/signature/python-net/groupdocs.signature.options/digitalsignoptions/from_base64/#System.String) | Creates a new instance of the ImageSignOptions class with predefined Image from Base64. |
 
 
 

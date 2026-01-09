@@ -26,7 +26,7 @@ The BarcodeSearchOptions type exposes the following members:
 | :- | :- |
 | [__init__](/signature/python-net/groupdocs.signature.options/barcodesearchoptions/__init__/#) | Initializes a new instance of the BarcodeSearchOptions class with default values. |
 | [__init__](/signature/python-net/groupdocs.signature.options/barcodesearchoptions/__init__/#groupdocs.signature.domain.BarcodeType) | Initializes a new instance of the BarcodeSearchOptions class with encode type value. |
-| [__init__](/signature/python-net/groupdocs.signature.options/barcodesearchoptions/__init__/#groupdocs.signature.domain.BarcodeType-str) | Initializes a new instance of the BarcodeSearchOptions class with encode type and text values. |
+| [__init__](/signature/python-net/groupdocs.signature.options/barcodesearchoptions/__init__/#groupdocs.signature.domain.BarcodeType-System.String) | Initializes a new instance of the BarcodeSearchOptions class with encode type and text values. |
 
 
 ### Properties

@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/ppsx/
 is_root: false
-weight: 430
+weight: 440
 ---
 
 ## PPSX property

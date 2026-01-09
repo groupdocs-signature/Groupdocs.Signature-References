@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/wmf/
 is_root: false
-weight: 600
+weight: 620
 ---
 
 ## WMF property

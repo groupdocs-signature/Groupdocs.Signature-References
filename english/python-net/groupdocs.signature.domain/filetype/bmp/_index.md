@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/bmp/
 is_root: false
-weight: 70
+weight: 80
 ---
 
 ## BMP property

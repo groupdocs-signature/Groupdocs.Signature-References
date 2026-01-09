@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.options/imagesearchoptions/
 is_root: false
-weight: 180
+weight: 200
 ---
 
 ## ImageSearchOptions class

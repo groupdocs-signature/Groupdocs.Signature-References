@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.options/pagessetup/
 is_root: false
-weight: 240
+weight: 260
 ---
 
 ## PagesSetup class

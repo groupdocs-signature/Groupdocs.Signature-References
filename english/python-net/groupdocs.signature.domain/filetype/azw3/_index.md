@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/azw3/
 is_root: false
-weight: 60
+weight: 70
 ---
 
 ## AZW3 property

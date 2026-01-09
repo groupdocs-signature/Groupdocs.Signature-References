@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.options/qrcodeverifyoptions/
 is_root: false
-weight: 350
+weight: 370
 ---
 
 ## QrCodeVerifyOptions class
@@ -26,8 +26,8 @@ The QrCodeVerifyOptions type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [__init__](/signature/python-net/groupdocs.signature.options/qrcodeverifyoptions/__init__/#) | Creates verification option QrCodeVerifyOptions for QR-Code Signatures. |
-| [__init__](/signature/python-net/groupdocs.signature.options/qrcodeverifyoptions/__init__/#str) | Creates verification option QrCodeVerifyOptions for QR-Code Signatures with QR-Code text  to verify. |
-| [__init__](/signature/python-net/groupdocs.signature.options/qrcodeverifyoptions/__init__/#str-groupdocs.signature.domain.QrCodeType) | Creates verification option QrCodeVerifyOptions for QR-Code Signatures with text and QR-Code encode type to verify. |
+| [__init__](/signature/python-net/groupdocs.signature.options/qrcodeverifyoptions/__init__/#System.String) | Creates verification option QrCodeVerifyOptions for QR-Code Signatures with QR-Code text  to verify. |
+| [__init__](/signature/python-net/groupdocs.signature.options/qrcodeverifyoptions/__init__/#System.String-groupdocs.signature.domain.QrCodeType) | Creates verification option QrCodeVerifyOptions for QR-Code Signatures with text and QR-Code encode type to verify. |
 
 
 ### Properties

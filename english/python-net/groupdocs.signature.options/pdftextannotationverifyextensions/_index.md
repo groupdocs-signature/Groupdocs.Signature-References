@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.options/pdftextannotationverifyextensions/
 is_root: false
-weight: 260
+weight: 280
 ---
 
 ## PdfTextAnnotationVerifyExtensions class

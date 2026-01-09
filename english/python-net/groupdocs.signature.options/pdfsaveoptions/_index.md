@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.options/pdfsaveoptions/
 is_root: false
-weight: 250
+weight: 270
 ---
 
 ## PdfSaveOptions class

@@ -19,8 +19,8 @@ The SymmetricEncryption type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.domain.extensions/symmetricencryption/__init__/#groupdocs.signature.domain.extensions.SymmetricAlgorithmType-str-str) | Creates symmetric encryption algorithm with parameters. |
-| [__init__](/signature/python-net/groupdocs.signature.domain.extensions/symmetricencryption/__init__/#groupdocs.signature.domain.extensions.SymmetricAlgorithmType-str) | Creates symmetric encryption algorithm with default passphrase |
+| [__init__](/signature/python-net/groupdocs.signature.domain.extensions/symmetricencryption/__init__/#groupdocs.signature.domain.extensions.SymmetricAlgorithmType-System.String-System.String) | Creates symmetric encryption algorithm with parameters. |
+| [__init__](/signature/python-net/groupdocs.signature.domain.extensions/symmetricencryption/__init__/#groupdocs.signature.domain.extensions.SymmetricAlgorithmType-System.String) | Creates symmetric encryption algorithm with default passphrase |
 
 
 ### Properties
@@ -34,8 +34,8 @@ The SymmetricEncryption type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [encode](/signature/python-net/groupdocs.signature.domain.extensions/symmetricencryption/encode/#str) | Encrypts string based on provided algorithm type, key and salt parameters |
-| [decode](/signature/python-net/groupdocs.signature.domain.extensions/symmetricencryption/decode/#str) | Decrypts string based on provided algorithm type, key and salt parameters |
+| [encode](/signature/python-net/groupdocs.signature.domain.extensions/symmetricencryption/encode/#System.String) | Encrypts string based on provided algorithm type, key and salt parameters |
+| [decode](/signature/python-net/groupdocs.signature.domain.extensions/symmetricencryption/decode/#System.String) | Decrypts string based on provided algorithm type, key and salt parameters |
 
 
 

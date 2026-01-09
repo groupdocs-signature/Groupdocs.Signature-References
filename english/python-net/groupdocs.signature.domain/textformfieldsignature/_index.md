@@ -25,8 +25,8 @@ The TextFormFieldSignature type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.domain/textformfieldsignature/__init__/#str) | Creates PdfTextFormFieldSignature with predefined name. |
-| [__init__](/signature/python-net/groupdocs.signature.domain/textformfieldsignature/__init__/#str-str) | Creates PdfTextFormFieldSignature with predefined name. |
+| [__init__](/signature/python-net/groupdocs.signature.domain/textformfieldsignature/__init__/#System.String) | Creates PdfTextFormFieldSignature with predefined name. |
+| [__init__](/signature/python-net/groupdocs.signature.domain/textformfieldsignature/__init__/#System.String-System.String) | Creates PdfTextFormFieldSignature with predefined name. |
 
 
 ### Properties

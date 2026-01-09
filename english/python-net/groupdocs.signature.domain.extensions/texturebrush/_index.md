@@ -25,7 +25,7 @@ The TextureBrush type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [__init__](/signature/python-net/groupdocs.signature.domain.extensions/texturebrush/__init__/#) | Initializes a new instance of the TextureBrush class with default values. |
-| [__init__](/signature/python-net/groupdocs.signature.domain.extensions/texturebrush/__init__/#str) | Initializes a new instance of the TextureBrush class with image file. |
+| [__init__](/signature/python-net/groupdocs.signature.domain.extensions/texturebrush/__init__/#System.String) | Initializes a new instance of the TextureBrush class with image file. |
 | [__init__](/signature/python-net/groupdocs.signature.domain.extensions/texturebrush/__init__/#io.RawIOBase) | Initializes a new instance of the TextureBrush class with image stream option. |
 
 

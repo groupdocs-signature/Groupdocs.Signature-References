@@ -8,7 +8,7 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#int-any}
+## __init__ {#int-System.Object}
 
 Creates Image Metadata Signature with Id and value
 
@@ -23,7 +23,7 @@ def __init__(self, id, value):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | id | int | Unique identifier Image Metadata Signature name. See references for Exif tags specifications for possible id values |
-| value | any | Metadata value |
+| value | System.Object | Metadata value |
 
 
 

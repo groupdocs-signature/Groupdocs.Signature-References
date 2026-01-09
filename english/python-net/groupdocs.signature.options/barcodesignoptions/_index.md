@@ -26,8 +26,8 @@ The BarcodeSignOptions type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [__init__](/signature/python-net/groupdocs.signature.options/barcodesignoptions/__init__/#) | Initializes a new instance of the BarcodeSignOptions class with default values. |
-| [__init__](/signature/python-net/groupdocs.signature.options/barcodesignoptions/__init__/#str) | Initializes a new instance of the BarcodeSignOptions class with text. |
-| [__init__](/signature/python-net/groupdocs.signature.options/barcodesignoptions/__init__/#str-groupdocs.signature.domain.BarcodeType) | Initializes a new instance of the BarcodeSignOptions class with text. |
+| [__init__](/signature/python-net/groupdocs.signature.options/barcodesignoptions/__init__/#System.String) | Initializes a new instance of the BarcodeSignOptions class with text. |
+| [__init__](/signature/python-net/groupdocs.signature.options/barcodesignoptions/__init__/#System.String-groupdocs.signature.domain.BarcodeType) | Initializes a new instance of the BarcodeSignOptions class with text. |
 
 
 ### Properties

@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## __init__ {#str}
+## __init__ {#System.String}
 
 Initializes a new instance of the TextVerifyOptions with verification text.
 
@@ -36,10 +36,10 @@ def __init__(self, text):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| text | str | Text to be verified |
+| text | System.String | Text to be verified |
 
 
-## __init__ {#str-groupdocs.signature.domain.TextSignatureImplementation}
+## __init__ {#System.String-groupdocs.signature.domain.TextSignatureImplementation}
 
 Initializes a new instance of the TextVerifyOptions with Text property to verify and signature implementation.
 
@@ -53,7 +53,7 @@ def __init__(self, text, implementation):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| text | str | Text to be verified. |
+| text | System.String | Text to be verified. |
 | implementation | groupdocs.signature.domain.TextSignatureImplementation | Signature Implementation type. |
 
 

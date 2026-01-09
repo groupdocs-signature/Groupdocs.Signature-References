@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/tar/
 is_root: false
-weight: 520
+weight: 530
 ---
 
 ## TAR property

@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.options/qrcodesignoptions/
 is_root: false
-weight: 340
+weight: 360
 ---
 
 ## QrCodeSignOptions class
@@ -26,8 +26,8 @@ The QrCodeSignOptions type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [__init__](/signature/python-net/groupdocs.signature.options/qrcodesignoptions/__init__/#) | Initializes a new instance of the QRCodeSignOptions class with default values. |
-| [__init__](/signature/python-net/groupdocs.signature.options/qrcodesignoptions/__init__/#str) | Initializes a new instance of the QRCodeSignOptions class with text. |
-| [__init__](/signature/python-net/groupdocs.signature.options/qrcodesignoptions/__init__/#str-groupdocs.signature.domain.QrCodeType) | Initializes a new instance of the BarcodeSignOptions class with text. |
+| [__init__](/signature/python-net/groupdocs.signature.options/qrcodesignoptions/__init__/#System.String) | Initializes a new instance of the QRCodeSignOptions class with text. |
+| [__init__](/signature/python-net/groupdocs.signature.options/qrcodesignoptions/__init__/#System.String-groupdocs.signature.domain.QrCodeType) | Initializes a new instance of the BarcodeSignOptions class with text. |
 
 
 ### Properties

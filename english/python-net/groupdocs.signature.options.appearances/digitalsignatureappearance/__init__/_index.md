@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## __init__ {#str-str-str}
+## __init__ {#System.String-System.String-System.String}
 
 Creates Signature Line Appearance with specified values (signer, title, email).
 
@@ -36,9 +36,9 @@ def __init__(self, signer, title, email):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| signer | str | Signer name. |
-| title | str | Signature title. |
-| email | str | Author' email. |
+| signer | System.String | Signer name. |
+| title | System.String | Signature title. |
+| email | System.String | Author' email. |
 
 
 

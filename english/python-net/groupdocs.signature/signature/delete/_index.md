@@ -30,7 +30,7 @@ def delete(self, signature):
 | signature | groupdocs.signature.domain.BaseSignature | Signature object to be removed from the document. |
 
 
-## delete {#System.Collections.Generic.List<GroupDocs.Signature.Domain.BaseSignature>}
+## delete {#System.Collections.Generic.List`1[[GroupDocs.Signature.Domain.BaseSignature]]}
 
 
 
@@ -44,14 +44,12 @@ def delete(self, signatures):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| signatures | System.Collections.Generic.List<GroupDocs.Signature.Domain.BaseSignature> |  |
+| signatures | System.Collections.Generic.List`1[[GroupDocs.Signature.Domain.BaseSignature]] |  |
 
 
 ## delete {#groupdocs.signature.domain.SignatureType}
 
-Deletes signatures of the certain type [`SignatureType`](/signature/python-net/groupdocs.signature.domain/signaturetype) from the document.
-Only signatures that were added by Sign method and marked as Signatures [`BaseSignature.is_signature`](/signature/python-net/groupdocs.signature.domain/basesignature#is_signature)  will be removed.
-Following signature types are supported: Text, Image, Digital, Barcode, QR-Code
+Deletes signatures of the certain type [`SignatureType`](/signature/python-net/groupdocs.signature.domain/signaturetype) from the document. Only signatures that were added by Sign method and marked as Signatures [`BaseSignature.is_signature`](/signature/python-net/groupdocs.signature.domain/basesignature#is_signature)  will be removed. Following signature types are supported: Text, Image, Digital, Barcode, QR-Code
 
 
 ### Returns 
@@ -71,7 +69,7 @@ def delete(self, signature_type):
 | signature_type | groupdocs.signature.domain.SignatureType | The type of signatures to be removed from the document. |
 
 
-## delete {#System.Collections.Generic.List<GroupDocs.Signature.Domain.SignatureType>}
+## delete {#System.Collections.Generic.List`1[[GroupDocs.Signature.Domain.SignatureType]]}
 
 
 
@@ -85,10 +83,10 @@ def delete(self, signature_types):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| signature_types | System.Collections.Generic.List<GroupDocs.Signature.Domain.SignatureType> |  |
+| signature_types | System.Collections.Generic.List`1[[GroupDocs.Signature.Domain.SignatureType]] |  |
 
 
-## delete {#str}
+## delete {#System.String}
 
 Deletes signature by its specific signature Id from the document.
 
@@ -107,10 +105,10 @@ def delete(self, signature_id):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| signature_id | str | The Id of the signature to be removed from the document. |
+| signature_id | System.String | The Id of the signature to be removed from the document. |
 
 
-## delete {#System.Collections.Generic.List<string>}
+## delete {#System.Collections.Generic.List`1[[System.String]]}
 
 
 
@@ -124,7 +122,7 @@ def delete(self, signature_ids):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| signature_ids | System.Collections.Generic.List<string> |  |
+| signature_ids | System.Collections.Generic.List`1[[System.String]] |  |
 
 
 

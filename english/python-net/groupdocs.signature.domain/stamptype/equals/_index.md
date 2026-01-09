@@ -27,7 +27,7 @@ def equals(self, other):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| other | [`StampType`](/signature/python-net/groupdocs.signature.domain/stamptype) | Object for comparison. |
+| other | groupdocs.signature.domain.StampType | Object for comparison. |
 
 
 

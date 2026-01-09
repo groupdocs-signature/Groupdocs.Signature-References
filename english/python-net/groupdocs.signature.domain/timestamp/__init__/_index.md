@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## __init__ {#str-str-str}
+## __init__ {#System.String-System.String-System.String}
 
 Instantiates new time stamp structure.
 
@@ -36,9 +36,9 @@ def __init__(self, url, user, password):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| url | str | Url of third-party site. |
-| user | str | User. |
-| password | str | Password. |
+| url | System.String | Url of third-party site. |
+| user | System.String | User. |
+| password | System.String | Password. |
 
 
 

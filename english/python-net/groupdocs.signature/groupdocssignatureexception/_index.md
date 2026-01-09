@@ -20,7 +20,7 @@ The GroupDocsSignatureException type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [__init__](/signature/python-net/groupdocs.signature/groupdocssignatureexception/__init__/#) | Initializes a new instance of the [`GroupDocsSignatureException`](/signature/python-net/groupdocs.signature/groupdocssignatureexception) class. |
-| [__init__](/signature/python-net/groupdocs.signature/groupdocssignatureexception/__init__/#str) | Initializes a new instance of the [`GroupDocsSignatureException`](/signature/python-net/groupdocs.signature/groupdocssignatureexception) class with a specified error message. |
+| [__init__](/signature/python-net/groupdocs.signature/groupdocssignatureexception/__init__/#System.String) | Initializes a new instance of the [`GroupDocsSignatureException`](/signature/python-net/groupdocs.signature/groupdocssignatureexception) class with a specified error message. |
 
 
 

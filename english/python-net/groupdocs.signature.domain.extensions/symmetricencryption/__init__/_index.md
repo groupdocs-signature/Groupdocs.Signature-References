@@ -8,7 +8,7 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#groupdocs.signature.domain.extensions.SymmetricAlgorithmType-str}
+## __init__ {#groupdocs.signature.domain.extensions.SymmetricAlgorithmType-System.String}
 
 Creates symmetric encryption algorithm with default passphrase
 
@@ -22,11 +22,11 @@ def __init__(self, algorithm_type, key):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| algorithm_type | [`SymmetricAlgorithmType`](/signature/python-net/groupdocs.signature.domain.extensions/symmetricalgorithmtype) | Specify symmetric algorithm type |
-| key | str | Encryption key |
+| algorithm_type | groupdocs.signature.domain.extensions.SymmetricAlgorithmType | Specify symmetric algorithm type |
+| key | System.String | Encryption key |
 
 
-## __init__ {#groupdocs.signature.domain.extensions.SymmetricAlgorithmType-str-str}
+## __init__ {#groupdocs.signature.domain.extensions.SymmetricAlgorithmType-System.String-System.String}
 
 Creates symmetric encryption algorithm with parameters.
 
@@ -40,9 +40,9 @@ def __init__(self, algorithm_type, key, salt):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| algorithm_type | [`SymmetricAlgorithmType`](/signature/python-net/groupdocs.signature.domain.extensions/symmetricalgorithmtype) | Specify symmetric algorithm type |
-| key | str | Encryption key |
-| salt | str | Passphrase for encryption |
+| algorithm_type | groupdocs.signature.domain.extensions.SymmetricAlgorithmType | Specify symmetric algorithm type |
+| key | System.String | Encryption key |
+| salt | System.String | Passphrase for encryption |
 
 
 

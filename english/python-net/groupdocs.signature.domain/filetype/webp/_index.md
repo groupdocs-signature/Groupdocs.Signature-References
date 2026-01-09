@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/webp/
 is_root: false
-weight: 590
+weight: 610
 ---
 
 ## WEBP property

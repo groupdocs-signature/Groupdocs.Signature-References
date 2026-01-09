@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## __init__ {#str}
+## __init__ {#System.String}
 
 Initialize Digital signature with known SignatureId.
 
@@ -36,7 +36,7 @@ def __init__(self, signature_id):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| signature_id | str |  |
+| signature_id | System.String |  |
 
 
 ## __init__ {#System.Security.Cryptography.X509Certificates.X509Certificate2}

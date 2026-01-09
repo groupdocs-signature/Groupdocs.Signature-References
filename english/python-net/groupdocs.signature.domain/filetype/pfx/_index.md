@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/pfx/
 is_root: false
-weight: 360
+weight: 370
 ---
 
 ## PFX property

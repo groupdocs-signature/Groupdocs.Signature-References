@@ -25,7 +25,7 @@ The CertificateVerifyOptions type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [__init__](/signature/python-net/groupdocs.signature.options/certificateverifyoptions/__init__/#) | Initializes a new instance of the TextVerifyOptions with default values. |
-| [__init__](/signature/python-net/groupdocs.signature.options/certificateverifyoptions/__init__/#str) | Initializes a new instance of the CertificateVerifyOptions with subject to verify. |
+| [__init__](/signature/python-net/groupdocs.signature.options/certificateverifyoptions/__init__/#System.String) | Initializes a new instance of the CertificateVerifyOptions with subject to verify. |
 
 
 ### Properties

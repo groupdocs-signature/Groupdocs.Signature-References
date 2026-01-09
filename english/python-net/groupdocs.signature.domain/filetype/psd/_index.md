@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/psd/
 is_root: false
-weight: 480
+weight: 490
 ---
 
 ## PSD property

@@ -95,8 +95,8 @@ The BarcodeTypes type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [parse](/signature/python-net/groupdocs.signature.domain/barcodetypes/parse/#str) | Returns Barcode type with pasringType name. If name of Barcode is unknown - Exception will be thrown. |
-| [try_parse](/signature/python-net/groupdocs.signature.domain/barcodetypes/try_parse/#str) | Returns Barcode type with pasringType name. If name of Barcode is unknown - <br/>no Exception will be thrown but method will return null value. |
+| [parse](/signature/python-net/groupdocs.signature.domain/barcodetypes/parse/#System.String) | Returns Barcode type with pasringType name. If name of Barcode is unknown - Exception will be thrown. |
+| [try_parse](/signature/python-net/groupdocs.signature.domain/barcodetypes/try_parse/#System.String) | Returns Barcode type with pasringType name. If name of Barcode is unknown - <br/>no Exception will be thrown but method will return null value. |
 
 
 

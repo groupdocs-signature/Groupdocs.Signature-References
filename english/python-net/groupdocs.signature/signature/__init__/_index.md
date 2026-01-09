@@ -25,7 +25,7 @@ def __init__(self, document):
 | document | io.RawIOBase | The document content stream. |
 
 
-## __init__ {#str}
+## __init__ {#System.String}
 
 Initializes new instance of [`Signature`](/signature/python-net/groupdocs.signature/signature) class instance with document provided by file path.
 
@@ -39,7 +39,7 @@ def __init__(self, file_path):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_path | str | Absolute or relative file path. |
+| file_path | System.String | Absolute or relative file path. |
 
 
 ## __init__ {#io.RawIOBase-groupdocs.signature.options.LoadOptions}
@@ -75,10 +75,10 @@ def __init__(self, document, settings):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | document | io.RawIOBase | The document content stream. |
-| settings | [`SignatureSettings`](/signature/python-net/groupdocs.signature/signaturesettings) | The signature settings. |
+| settings | groupdocs.signature.SignatureSettings | The signature settings. |
 
 
-## __init__ {#str-groupdocs.signature.options.LoadOptions}
+## __init__ {#System.String-groupdocs.signature.options.LoadOptions}
 
 Initializes new instance of [`Signature`](/signature/python-net/groupdocs.signature/signature) class instance with document provided by file path and [`Signature.LoadOptions`](/signature/python-net/groupdocs.signature/signature).
 
@@ -92,11 +92,11 @@ def __init__(self, file_path, load_options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_path | str | Absolute or relative file path. |
+| file_path | System.String | Absolute or relative file path. |
 | load_options | groupdocs.signature.options.LoadOptions | The document load options. |
 
 
-## __init__ {#str-groupdocs.signature.SignatureSettings}
+## __init__ {#System.String-groupdocs.signature.SignatureSettings}
 
 Initializes new instance of [`Signature`](/signature/python-net/groupdocs.signature/signature) class instance with document provided by file path and [`SignatureSettings`](/signature/python-net/groupdocs.signature/signaturesettings).
 
@@ -110,8 +110,8 @@ def __init__(self, file_path, settings):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_path | str | Absolute or relative file path. |
-| settings | [`SignatureSettings`](/signature/python-net/groupdocs.signature/signaturesettings) | The signature settings. |
+| file_path | System.String | Absolute or relative file path. |
+| settings | groupdocs.signature.SignatureSettings | The signature settings. |
 
 
 ## __init__ {#io.RawIOBase-groupdocs.signature.options.LoadOptions-groupdocs.signature.SignatureSettings}
@@ -130,10 +130,10 @@ def __init__(self, document, load_options, settings):
 | :- | :- | :- |
 | document | io.RawIOBase | The document content stream. |
 | load_options | groupdocs.signature.options.LoadOptions | The document load options. |
-| settings | [`SignatureSettings`](/signature/python-net/groupdocs.signature/signaturesettings) | The signature settings. |
+| settings | groupdocs.signature.SignatureSettings | The signature settings. |
 
 
-## __init__ {#str-groupdocs.signature.options.LoadOptions-groupdocs.signature.SignatureSettings}
+## __init__ {#System.String-groupdocs.signature.options.LoadOptions-groupdocs.signature.SignatureSettings}
 
 Initializes new instance of [`Signature`](/signature/python-net/groupdocs.signature/signature) class instance with document provided by file path, [`Signature.LoadOptions`](/signature/python-net/groupdocs.signature/signature) and [`SignatureSettings`](/signature/python-net/groupdocs.signature/signaturesettings).
 
@@ -147,9 +147,9 @@ def __init__(self, file_path, load_options, settings):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_path | str | Absolute or relative file path. |
+| file_path | System.String | Absolute or relative file path. |
 | load_options | groupdocs.signature.options.LoadOptions | The document load options. |
-| settings | [`SignatureSettings`](/signature/python-net/groupdocs.signature/signaturesettings) | The signature settings. |
+| settings | groupdocs.signature.SignatureSettings | The signature settings. |
 
 
 

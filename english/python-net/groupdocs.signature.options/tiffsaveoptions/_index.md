@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.options/tiffsaveoptions/
 is_root: false
-weight: 450
+weight: 470
 ---
 
 ## TiffSaveOptions class

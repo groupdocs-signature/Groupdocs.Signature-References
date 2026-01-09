@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.options/jpegroundingmode/
 is_root: false
-weight: 530
+weight: 550
 ---
 
 ## JpegRoundingMode enumeration

@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/dcm/
 is_root: false
-weight: 120
+weight: 130
 ---
 
 ## DCM property

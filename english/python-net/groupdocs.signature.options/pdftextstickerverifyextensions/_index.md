@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.options/pdftextstickerverifyextensions/
 is_root: false
-weight: 270
+weight: 290
 ---
 
 ## PdfTextStickerVerifyExtensions class

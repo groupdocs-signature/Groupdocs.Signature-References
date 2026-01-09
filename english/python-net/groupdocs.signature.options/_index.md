@@ -29,6 +29,8 @@ The namespace provides classes to specify additional options when loading, signi
 | [`FormFieldSignOptions`](/signature/python-net/groupdocs.signature.options/formfieldsignoptions) | Represents class of the FormField signature options for Pdf documents. |
 | [`GifSaveOptions`](/signature/python-net/groupdocs.signature.options/gifsaveoptions) | Gif format save options for image documents. |
 | [`ICustomSignHash`](/signature/python-net/groupdocs.signature.options/icustomsignhash) | Defines a contract for custom hash signing operations. |
+| [`ImageDigitalSignOptions`](/signature/python-net/groupdocs.signature.options/imagedigitalsignoptions) | Represents options to embed Aspose.Imaging digital (steganography) signature into raster images. |
+| [`ImageDigitalVerifyOptions`](/signature/python-net/groupdocs.signature.options/imagedigitalverifyoptions) | Keeps options to verify digital signatures in raster images. |
 | [`ImageSaveOptions`](/signature/python-net/groupdocs.signature.options/imagesaveoptions) | Save options for image documents. |
 | [`ImageSearchOptions`](/signature/python-net/groupdocs.signature.options/imagesearchoptions) | Represents search options for Image signatures. |
 | [`ImageSignOptions`](/signature/python-net/groupdocs.signature.options/imagesignoptions) | Represents the Image signature options. |

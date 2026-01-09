@@ -27,7 +27,7 @@ def clone(self):
 
 
 
-## clone {#any}
+## clone {#System.Object}
 
 Clone Metadata Signature instance with given value.
 
@@ -46,7 +46,7 @@ def clone(self, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| value | any | Value for new cloned object. |
+| value | System.Object | Value for new cloned object. |
 
 
 

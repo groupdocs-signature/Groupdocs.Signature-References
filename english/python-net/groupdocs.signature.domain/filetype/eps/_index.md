@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/eps/
 is_root: false
-weight: 210
+weight: 220
 ---
 
 ## EPS property

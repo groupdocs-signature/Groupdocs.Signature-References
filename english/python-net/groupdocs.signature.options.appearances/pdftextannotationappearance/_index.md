@@ -25,7 +25,7 @@ The PdfTextAnnotationAppearance type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [__init__](/signature/python-net/groupdocs.signature.options.appearances/pdftextannotationappearance/__init__/#) | Creates PDF signature text annotation appearance object. |
-| [__init__](/signature/python-net/groupdocs.signature.options.appearances/pdftextannotationappearance/__init__/#str-str-str) | Creates  PDF signature text annotation with specified values (title, subject, contents). |
+| [__init__](/signature/python-net/groupdocs.signature.options.appearances/pdftextannotationappearance/__init__/#System.String-System.String-System.String) | Creates  PDF signature text annotation with specified values (title, subject, contents). |
 
 
 ### Properties

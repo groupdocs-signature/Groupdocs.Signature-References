@@ -28,7 +28,7 @@ The DigitalSignatureAppearance type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [__init__](/signature/python-net/groupdocs.signature.options.appearances/digitalsignatureappearance/__init__/#) | Creates Signature Line Appearance object. |
-| [__init__](/signature/python-net/groupdocs.signature.options.appearances/digitalsignatureappearance/__init__/#str-str-str) | Creates Signature Line Appearance with specified values (signer, title, email). |
+| [__init__](/signature/python-net/groupdocs.signature.options.appearances/digitalsignatureappearance/__init__/#System.String-System.String-System.String) | Creates Signature Line Appearance with specified values (signer, title, email). |
 
 
 ### Properties

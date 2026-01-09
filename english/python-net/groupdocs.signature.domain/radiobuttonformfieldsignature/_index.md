@@ -25,9 +25,9 @@ The RadioButtonFormFieldSignature type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.domain/radiobuttonformfieldsignature/__init__/#str) | Creates RadioButtonFieldSignature with predefined name. |
-| [__init__](/signature/python-net/groupdocs.signature.domain/radiobuttonformfieldsignature/__init__/#str-System.Collections.Generic.List<string>) | Constructs a new instance of RadioButtonFormFieldSignature |
-| [__init__](/signature/python-net/groupdocs.signature.domain/radiobuttonformfieldsignature/__init__/#str-System.Collections.Generic.List<string>-any) | Constructs a new instance of RadioButtonFormFieldSignature |
+| [__init__](/signature/python-net/groupdocs.signature.domain/radiobuttonformfieldsignature/__init__/#System.String) | Creates RadioButtonFieldSignature with predefined name. |
+| [__init__](/signature/python-net/groupdocs.signature.domain/radiobuttonformfieldsignature/__init__/#System.String-System.Collections.Generic.List`1[[System.String]]) | Constructs a new instance of RadioButtonFormFieldSignature |
+| [__init__](/signature/python-net/groupdocs.signature.domain/radiobuttonformfieldsignature/__init__/#System.String-System.Collections.Generic.List`1[[System.String]]-System.Object) | Constructs a new instance of RadioButtonFormFieldSignature |
 
 
 ### Properties

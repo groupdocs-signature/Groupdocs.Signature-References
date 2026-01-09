@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/ppsm/
 is_root: false
-weight: 420
+weight: 430
 ---
 
 ## PPSM property

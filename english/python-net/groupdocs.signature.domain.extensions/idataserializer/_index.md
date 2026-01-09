@@ -19,7 +19,8 @@ The IDataSerializer type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [serialize](/signature/python-net/groupdocs.signature.domain.extensions/idataserializer/serialize/#any) | Serialize method to format object to string representing. |
+| [serialize](/signature/python-net/groupdocs.signature.domain.extensions/idataserializer/serialize/#System.Object) | Serialize method to format object to string representing. |
+| [deserialize](/signature/python-net/groupdocs.signature.domain.extensions/idataserializer/deserialize/#System.String) | Deserialize method to obtain required object from string. |
 
 
 

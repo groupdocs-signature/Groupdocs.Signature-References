@@ -8,7 +8,7 @@ is_root: false
 weight: 20
 ---
 
-## decode {#str}
+## decode {#System.String}
 
 Decode method to obtain decrypted string.
 
@@ -27,7 +27,7 @@ def decode(self, source):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source | str | Encrypted string to decode. |
+| source | System.String | Encrypted string to decode. |
 
 
 

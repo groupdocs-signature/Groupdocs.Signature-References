@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/cdr/
 is_root: false
-weight: 80
+weight: 90
 ---
 
 ## CDR property

@@ -40,9 +40,9 @@ Returns a MetadataSignature object by index.
 | Method | Description |
 | :- | :- |
 | [clear](/signature/python-net/groupdocs.signature.domain/metadatasignaturecollection/clear/#) | Removes all items from the collection. |
-| [contains](/signature/python-net/groupdocs.signature.domain/metadatasignaturecollection/contains/#str) | Returns true if a Metadata with the specified name exists in the collection. |
-| [index_of](/signature/python-net/groupdocs.signature.domain/metadatasignaturecollection/index_of/#str) | Gets the index of a property by name. |
-| [remove](/signature/python-net/groupdocs.signature.domain/metadatasignaturecollection/remove/#str) | Removes a Metadata Signature with the specified name from the collection. |
+| [contains](/signature/python-net/groupdocs.signature.domain/metadatasignaturecollection/contains/#System.String) | Returns true if a Metadata with the specified name exists in the collection. |
+| [index_of](/signature/python-net/groupdocs.signature.domain/metadatasignaturecollection/index_of/#System.String) | Gets the index of a property by name. |
+| [remove](/signature/python-net/groupdocs.signature.domain/metadatasignaturecollection/remove/#System.String) | Removes a Metadata Signature with the specified name from the collection. |
 | [remove_at](/signature/python-net/groupdocs.signature.domain/metadatasignaturecollection/remove_at/#int) | Removes a Metadata Signature at the specified index. |
 | [add](/signature/python-net/groupdocs.signature.domain/metadatasignaturecollection/add/#groupdocs.signature.domain.MetadataSignature) | Add Metadata Signature object to collection. |
 | [add_range](/signature/python-net/groupdocs.signature.domain/metadatasignaturecollection/add_range/#list) |  |

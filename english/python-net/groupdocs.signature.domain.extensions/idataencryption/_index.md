@@ -19,8 +19,8 @@ The IDataEncryption type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [encode](/signature/python-net/groupdocs.signature.domain.extensions/idataencryption/encode/#str) | Encode method to encrypt string. |
-| [decode](/signature/python-net/groupdocs.signature.domain.extensions/idataencryption/decode/#str) | Decode method to obtain decrypted string. |
+| [encode](/signature/python-net/groupdocs.signature.domain.extensions/idataencryption/encode/#System.String) | Encode method to encrypt string. |
+| [decode](/signature/python-net/groupdocs.signature.domain.extensions/idataencryption/decode/#System.String) | Decode method to obtain decrypted string. |
 
 
 

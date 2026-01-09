@@ -25,7 +25,7 @@ The DigitalVerifyOptions type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [__init__](/signature/python-net/groupdocs.signature.options/digitalverifyoptions/__init__/#) | Creates Digital Verification Option with default values. |
-| [__init__](/signature/python-net/groupdocs.signature.options/digitalverifyoptions/__init__/#str) | Creates Digital Verification Option with given digital certificate file path. |
+| [__init__](/signature/python-net/groupdocs.signature.options/digitalverifyoptions/__init__/#System.String) | Creates Digital Verification Option with given digital certificate file path. |
 | [__init__](/signature/python-net/groupdocs.signature.options/digitalverifyoptions/__init__/#io.RawIOBase) | Creates Digital Verification Option with given certificate stream. |
 
 

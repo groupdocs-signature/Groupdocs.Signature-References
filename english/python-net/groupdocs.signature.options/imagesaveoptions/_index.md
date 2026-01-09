@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.options/imagesaveoptions/
 is_root: false
-weight: 170
+weight: 190
 ---
 
 ## ImageSaveOptions class

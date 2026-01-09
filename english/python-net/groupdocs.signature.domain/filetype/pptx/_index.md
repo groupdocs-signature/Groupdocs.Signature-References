@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/pptx/
 is_root: false
-weight: 460
+weight: 470
 ---
 
 ## PPTX property

@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.signature.options/dicomxmptype/
 is_root: false
-weight: 500
+weight: 520
 ---
 
 ## DicomXmpType enumeration

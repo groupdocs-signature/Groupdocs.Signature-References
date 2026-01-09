@@ -39,7 +39,7 @@ def __init__(self, encode_type):
 | encode_type | groupdocs.signature.domain.QrCodeType | Specifies QR-Code encode type. |
 
 
-## __init__ {#groupdocs.signature.domain.QrCodeType-str}
+## __init__ {#groupdocs.signature.domain.QrCodeType-System.String}
 
 Initializes a new instance of the QRCodeSearchOptions class with encode type and text values.
 
@@ -54,7 +54,7 @@ def __init__(self, encode_type, text):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | encode_type | groupdocs.signature.domain.QrCodeType | Specifies QR-Code encode type. |
-| text | str | Set Text of QR-Code signature. |
+| text | System.String | Set Text of QR-Code signature. |
 
 
 

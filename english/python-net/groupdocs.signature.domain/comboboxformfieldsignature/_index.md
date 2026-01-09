@@ -25,9 +25,9 @@ The ComboboxFormFieldSignature type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.domain/comboboxformfieldsignature/__init__/#str) | Creates ComboboxFormFieldSignature with predefined name. |
-| [__init__](/signature/python-net/groupdocs.signature.domain/comboboxformfieldsignature/__init__/#str-System.Collections.Generic.List<string>) | Constructs a new instance of ComboboxFormFieldSignature |
-| [__init__](/signature/python-net/groupdocs.signature.domain/comboboxformfieldsignature/__init__/#str-System.Collections.Generic.List<string>-any) | Constructs a new instance of ComboboxFormFieldSignature |
+| [__init__](/signature/python-net/groupdocs.signature.domain/comboboxformfieldsignature/__init__/#System.String) | Creates ComboboxFormFieldSignature with predefined name. |
+| [__init__](/signature/python-net/groupdocs.signature.domain/comboboxformfieldsignature/__init__/#System.String-System.Collections.Generic.List`1[[System.String]]) | Constructs a new instance of ComboboxFormFieldSignature |
+| [__init__](/signature/python-net/groupdocs.signature.domain/comboboxformfieldsignature/__init__/#System.String-System.Collections.Generic.List`1[[System.String]]-System.Object) | Constructs a new instance of ComboboxFormFieldSignature |
 
 
 ### Properties
