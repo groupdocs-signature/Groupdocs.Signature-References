@@ -13,24 +13,35 @@ public final class PdfTextStickerVerifyExtensions extends VerifyExtensions
 ```
 
 Describes extensions of verification of PDF sticker object.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [PdfTextStickerVerifyExtensions()](#PdfTextStickerVerifyExtensions--) | Creates PDF text sticker signature verification extensions with empty values. |
+| [PdfTextStickerVerifyExtensions()](#PdfTextStickerVerifyExtensions--) | Creates PDF text sticker signature verification extensions with empty values.
+ |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getTitle()](#getTitle--) | Title of sticker to be verified. |
-| [setTitle(String value)](#setTitle-java.lang.String-) | Title of sticker to be verified. |
-| [getSubject()](#getSubject--) | Subject of sticker to be verified. |
-| [setSubject(String value)](#setSubject-java.lang.String-) | Subject of sticker to be verified. |
-| [getContents()](#getContents--) | Contents of sticker to be verified. |
-| [setContents(String value)](#setContents-java.lang.String-) | Contents of sticker to be verified. |
-| [getIcon()](#getIcon--) | Icon of sticker to be verified. |
-| [setIcon(Integer value)](#setIcon-java.lang.Integer-) | Icon of sticker to be verified. |
-| [toString()](#toString--) | Override string conversion |
+| [getTitle()](#getTitle--) | Title of sticker to be verified.
+ |
+| [setTitle(String value)](#setTitle-java.lang.String-) | Title of sticker to be verified.
+ |
+| [getSubject()](#getSubject--) | Subject of sticker to be verified.
+ |
+| [setSubject(String value)](#setSubject-java.lang.String-) | Subject of sticker to be verified.
+ |
+| [getContents()](#getContents--) | Contents of sticker to be verified.
+ |
+| [setContents(String value)](#setContents-java.lang.String-) | Contents of sticker to be verified.
+ |
+| [getIcon()](#getIcon--) | Icon of sticker to be verified.
+ |
+| [setIcon(Integer value)](#setIcon-java.lang.Integer-) | Icon of sticker to be verified.
+ |
+| [toString()](#toString--) | Override string conversion
+ |
 ### PdfTextStickerVerifyExtensions() {#PdfTextStickerVerifyExtensions--}
 ```
 public PdfTextStickerVerifyExtensions()
@@ -39,13 +50,16 @@ public PdfTextStickerVerifyExtensions()
 
 Creates PDF text sticker signature verification extensions with empty values.
 
+
 ### getTitle() {#getTitle--}
 ```
 public final String getTitle()
 ```
 
 
-Title of sticker to be verified. Value will not be verified if equals empty string or null.
+Title of sticker to be verified.
+Value will not be verified if equals empty string or null.
+
 
 **Returns:**
 java.lang.String
@@ -55,7 +69,9 @@ public final void setTitle(String value)
 ```
 
 
-Title of sticker to be verified. Value will not be verified if equals empty string or null.
+Title of sticker to be verified.
+Value will not be verified if equals empty string or null.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -68,7 +84,9 @@ public final String getSubject()
 ```
 
 
-Subject of sticker to be verified. Value will not be verified if equals empty string or null.
+Subject of sticker to be verified.
+Value will not be verified if equals empty string or null.
+
 
 **Returns:**
 java.lang.String
@@ -78,7 +96,9 @@ public final void setSubject(String value)
 ```
 
 
-Subject of sticker to be verified. Value will not be verified if equals empty string or null.
+Subject of sticker to be verified.
+Value will not be verified if equals empty string or null.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -91,7 +111,9 @@ public final String getContents()
 ```
 
 
-Contents of sticker to be verified. Value will not be verified if equals empty string or null.
+Contents of sticker to be verified.
+Value will not be verified if equals empty string or null.
+
 
 **Returns:**
 java.lang.String
@@ -101,7 +123,9 @@ public final void setContents(String value)
 ```
 
 
-Contents of sticker to be verified. Value will not be verified if equals empty string or null.
+Contents of sticker to be verified.
+Value will not be verified if equals empty string or null.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -114,7 +138,9 @@ public final Integer getIcon()
 ```
 
 
-Icon of sticker to be verified. Value will not be verified if equals null.
+Icon of sticker to be verified.
+Value will not be verified if equals null.
+
 
 **Returns:**
 java.lang.Integer
@@ -124,7 +150,9 @@ public final void setIcon(Integer value)
 ```
 
 
-Icon of sticker to be verified. Value will not be verified if equals null.
+Icon of sticker to be verified.
+Value will not be verified if equals null.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -138,6 +166,7 @@ public String toString()
 
 
 Override string conversion
+
 
 **Returns:**
 java.lang.String - 

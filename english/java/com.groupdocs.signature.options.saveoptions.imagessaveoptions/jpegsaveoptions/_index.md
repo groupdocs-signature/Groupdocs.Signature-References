@@ -13,29 +13,47 @@ public class JpegSaveOptions extends ImageSaveOptions
 ```
 
 Jpeg Save options for Image Documents.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [JpegSaveOptions()](#JpegSaveOptions--) | Creates JpegSaveOptions with default values. |
+| [JpegSaveOptions()](#JpegSaveOptions--) | Creates JpegSaveOptions with default values.
+ |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getBitsPerChannel()](#getBitsPerChannel--) | Gets or sets bits per channel for lossless jpeg image. |
-| [setBitsPerChannel(byte value)](#setBitsPerChannel-byte-) | Gets or sets bits per channel for lossless jpeg image. |
-| [getColorType()](#getColorType--) | Gets or sets the color type for jpeg image. |
-| [setColorType(int value)](#setColorType-int-) | Gets or sets the color type for jpeg image. |
-| [getComment()](#getComment--) | Gets or sets the jpeg file comment. |
-| [setComment(String value)](#setComment-java.lang.String-) | Gets or sets the jpeg file comment. |
-| [getCompressionType()](#getCompressionType--) | Gets or sets the compression type. |
-| [setCompressionType(int value)](#setCompressionType-int-) | Gets or sets the compression type. |
-| [getQuality()](#getQuality--) | Gets or sets image quality. |
-| [setQuality(int value)](#setQuality-int-) | Gets or sets image quality. |
-| [getSampleRoundingMode()](#getSampleRoundingMode--) | Gets or sets the sample rounding mode to fit an 8-bit value to an n-bit value JpegOptions.BitsPerChannel. |
-| [setSampleRoundingMode(int value)](#setSampleRoundingMode-int-) | Gets or sets the sample rounding mode to fit an 8-bit value to an n-bit value JpegOptions.BitsPerChannel. |
-| [getFileFormat()](#getFileFormat--) | Gets or sets file format of signed document. |
-| [setFileFormat(int value)](#setFileFormat-int-) | Gets or sets file format of signed document. |
+| [getBitsPerChannel()](#getBitsPerChannel--) | Gets or sets bits per channel for lossless jpeg image.
+ |
+| [setBitsPerChannel(byte value)](#setBitsPerChannel-byte-) | Gets or sets bits per channel for lossless jpeg image.
+ |
+| [getColorType()](#getColorType--) | Gets or sets the color type for jpeg image.
+ |
+| [setColorType(int value)](#setColorType-int-) | Gets or sets the color type for jpeg image.
+ |
+| [getComment()](#getComment--) | Gets or sets the jpeg file comment.
+ |
+| [setComment(String value)](#setComment-java.lang.String-) | Gets or sets the jpeg file comment.
+ |
+| [getCompressionType()](#getCompressionType--) | Gets or sets the compression type.
+ |
+| [setCompressionType(int value)](#setCompressionType-int-) | Gets or sets the compression type.
+ |
+| [getQuality()](#getQuality--) | Gets or sets image quality.
+ |
+| [setQuality(int value)](#setQuality-int-) | Gets or sets image quality.
+ |
+| [getSampleRoundingMode()](#getSampleRoundingMode--) | Gets or sets the sample rounding mode to fit an 8-bit value to an n-bit value
+JpegOptions.BitsPerChannel.
+ |
+| [setSampleRoundingMode(int value)](#setSampleRoundingMode-int-) | Gets or sets the sample rounding mode to fit an 8-bit value to an n-bit value
+JpegOptions.BitsPerChannel.
+ |
+| [getFileFormat()](#getFileFormat--) | Gets or sets file format of signed document.
+ |
+| [setFileFormat(int value)](#setFileFormat-int-) | Gets or sets file format of signed document.
+ |
 ### JpegSaveOptions() {#JpegSaveOptions--}
 ```
 public JpegSaveOptions()
@@ -44,13 +62,16 @@ public JpegSaveOptions()
 
 Creates JpegSaveOptions with default values.
 
+
 ### getBitsPerChannel() {#getBitsPerChannel--}
 ```
 public byte getBitsPerChannel()
 ```
 
 
-Gets or sets bits per channel for lossless jpeg image. Now we support from 2 to 8 bits per channel.
+Gets or sets bits per channel for lossless jpeg image.
+Now we support from 2 to 8 bits per channel.
+
 
 **Returns:**
 byte
@@ -60,7 +81,9 @@ public void setBitsPerChannel(byte value)
 ```
 
 
-Gets or sets bits per channel for lossless jpeg image. Now we support from 2 to 8 bits per channel.
+Gets or sets bits per channel for lossless jpeg image.
+Now we support from 2 to 8 bits per channel.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -75,6 +98,7 @@ public int getColorType()
 
 Gets or sets the color type for jpeg image.
 
+
 **Returns:**
 int
 ### setColorType(int value) {#setColorType-int-}
@@ -84,6 +108,7 @@ public void setColorType(int value)
 
 
 Gets or sets the color type for jpeg image.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -98,6 +123,7 @@ public String getComment()
 
 Gets or sets the jpeg file comment.
 
+
 **Returns:**
 java.lang.String
 ### setComment(String value) {#setComment-java.lang.String-}
@@ -107,6 +133,7 @@ public void setComment(String value)
 
 
 Gets or sets the jpeg file comment.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -121,6 +148,7 @@ public int getCompressionType()
 
 Gets or sets the compression type.
 
+
 **Returns:**
 int
 ### setCompressionType(int value) {#setCompressionType-int-}
@@ -130,6 +158,7 @@ public void setCompressionType(int value)
 
 
 Gets or sets the compression type.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -144,6 +173,7 @@ public int getQuality()
 
 Gets or sets image quality.
 
+
 **Returns:**
 int
 ### setQuality(int value) {#setQuality-int-}
@@ -153,6 +183,7 @@ public void setQuality(int value)
 
 
 Gets or sets image quality.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -165,7 +196,9 @@ public int getSampleRoundingMode()
 ```
 
 
-Gets or sets the sample rounding mode to fit an 8-bit value to an n-bit value JpegOptions.BitsPerChannel.
+Gets or sets the sample rounding mode to fit an 8-bit value to an n-bit value
+JpegOptions.BitsPerChannel.
+
 
 **Returns:**
 int
@@ -175,7 +208,9 @@ public void setSampleRoundingMode(int value)
 ```
 
 
-Gets or sets the sample rounding mode to fit an 8-bit value to an n-bit value JpegOptions.BitsPerChannel.
+Gets or sets the sample rounding mode to fit an 8-bit value to an n-bit value
+JpegOptions.BitsPerChannel.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -190,6 +225,7 @@ public final int getFileFormat()
 
 Gets or sets file format of signed document. Hidden because not in use for this options class.
 
+
 **Returns:**
 int
 ### setFileFormat(int value) {#setFileFormat-int-}
@@ -199,6 +235,7 @@ public final void setFileFormat(int value)
 
 
 Gets or sets file format of signed document. Hidden because not in use for this options class.
+
 
 **Parameters:**
 | Parameter | Type | Description |

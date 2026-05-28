@@ -13,6 +13,7 @@ public class ProcessStartEventArgs extends ProcessEventArgs
 ```
 
 Provides data for Start event of signing, verification and search process
+
 ## Constructors
 
 | Constructor | Description |
@@ -22,10 +23,14 @@ Provides data for Start event of signing, verification and search process
 
 | Method | Description |
 | --- | --- |
-| [getStarted()](#getStarted--) | Represents time mark of process start. |
-| [setStarted(Date value)](#setStarted-java.util.Date-) | Represents time mark of process start. |
-| [getTotalSignatures()](#getTotalSignatures--) | Represents total quantity of signatures to be processed. |
-| [setTotalSignatures(int value)](#setTotalSignatures-int-) | Represents total quantity of signatures to be processed. |
+| [getStarted()](#getStarted--) | Represents time mark of process start.
+ |
+| [setStarted(Date value)](#setStarted-java.util.Date-) | Represents time mark of process start.
+ |
+| [getTotalSignatures()](#getTotalSignatures--) | Represents total quantity of signatures to be processed.
+ |
+| [setTotalSignatures(int value)](#setTotalSignatures-int-) | Represents total quantity of signatures to be processed.
+ |
 ### ProcessStartEventArgs() {#ProcessStartEventArgs--}
 ```
 public ProcessStartEventArgs()
@@ -40,6 +45,7 @@ public final Date getStarted()
 
 Represents time mark of process start.
 
+
 **Returns:**
 java.util.Date
 ### setStarted(Date value) {#setStarted-java.util.Date-}
@@ -49,6 +55,7 @@ public final void setStarted(Date value)
 
 
 Represents time mark of process start.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -63,6 +70,7 @@ public final int getTotalSignatures()
 
 Represents total quantity of signatures to be processed.
 
+
 **Returns:**
 int
 ### setTotalSignatures(int value) {#setTotalSignatures-int-}
@@ -72,6 +80,7 @@ public final void setTotalSignatures(int value)
 
 
 Represents total quantity of signatures to be processed.
+
 
 **Parameters:**
 | Parameter | Type | Description |

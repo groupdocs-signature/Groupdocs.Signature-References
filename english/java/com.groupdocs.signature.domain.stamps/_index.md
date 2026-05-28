@@ -10,6 +10,7 @@ url: /java/com.groupdocs.signature.domain.stamps/
 The **GroupDocs.Signature.Domain.Stamps** namespace provides classes for working with Stamps.
 
 
+
 ## Classes
 
 | Class | Description |

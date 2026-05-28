@@ -16,6 +16,7 @@ public class Border implements ITransparency
 ```
 
 Instance to keep Border line properties.
+
 ## Constructors
 
 | Constructor | Description |
@@ -25,18 +26,29 @@ Instance to keep Border line properties.
 
 | Method | Description |
 | --- | --- |
-| [getDashStyle()](#getDashStyle--) | Gets or sets the signature border style. |
-| [setDashStyle(int value)](#setDashStyle-int-) | Gets or sets the signature border style. |
-| [getTransparency()](#getTransparency--) | Gets or sets the signature border transparency (value from 0.0 (opaque) through 1.0 (clear)). |
-| [setTransparency(double value)](#setTransparency-double-) | Gets or sets the signature border transparency (value from 0.0 (opaque) through 1.0 (clear)). |
-| [getWeight()](#getWeight--) | Gets or sets the weight of the signature border. |
-| [setWeight(double value)](#setWeight-double-) | Gets or sets the weight of the signature border. |
-| [getColor()](#getColor--) | Gets or sets the border color of signature. |
-| [setColor(Color value)](#setColor-java.awt.Color-) | Gets or sets the border color of signature. |
-| [setColor(String value)](#setColor-java.lang.String-) | Gets or sets the border color of signature. |
-| [getVisible()](#getVisible--) | Gets or sets the border visibility. |
+| [getDashStyle()](#getDashStyle--) | Gets or sets the signature border style.
+ |
+| [setDashStyle(int value)](#setDashStyle-int-) | Gets or sets the signature border style.
+ |
+| [getTransparency()](#getTransparency--) | Gets or sets the signature border transparency (value from 0.0 (opaque) through 1.0 (clear)).
+ |
+| [setTransparency(double value)](#setTransparency-double-) | Gets or sets the signature border transparency (value from 0.0 (opaque) through 1.0 (clear)).
+ |
+| [getWeight()](#getWeight--) | Gets or sets the weight of the signature border.
+ |
+| [setWeight(double value)](#setWeight-double-) | Gets or sets the weight of the signature border.
+ |
+| [getColor()](#getColor--) | Gets or sets the border color of signature.
+ |
+| [setColor(Color value)](#setColor-java.awt.Color-) | Gets or sets the border color of signature.
+ |
+| [setColor(String value)](#setColor-java.lang.String-) | Gets or sets the border color of signature.
+ |
+| [getVisible()](#getVisible--) | Gets or sets the border visibility.
+ |
 | [setVisible(boolean value)](#setVisible-boolean-) |  |
-| [deepClone()](#deepClone--) | Implement IClonable interface |
+| [deepClone()](#deepClone--) | Implement IClonable interface
+ |
 ### Border() {#Border--}
 ```
 public Border()
@@ -51,6 +63,7 @@ public final int getDashStyle()
 
 Gets or sets the signature border style.
 
+
 **Returns:**
 int
 ### setDashStyle(int value) {#setDashStyle-int-}
@@ -60,6 +73,7 @@ public final void setDashStyle(int value)
 
 
 Gets or sets the signature border style.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -74,6 +88,7 @@ public final double getTransparency()
 
 Gets or sets the signature border transparency (value from 0.0 (opaque) through 1.0 (clear)).
 
+
 **Returns:**
 double
 ### setTransparency(double value) {#setTransparency-double-}
@@ -83,6 +98,7 @@ public final void setTransparency(double value)
 
 
 Gets or sets the signature border transparency (value from 0.0 (opaque) through 1.0 (clear)).
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -97,6 +113,7 @@ public final double getWeight()
 
 Gets or sets the weight of the signature border.
 
+
 **Returns:**
 double
 ### setWeight(double value) {#setWeight-double-}
@@ -106,6 +123,7 @@ public final void setWeight(double value)
 
 
 Gets or sets the weight of the signature border.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -120,6 +138,7 @@ public final Color getColor()
 
 Gets or sets the border color of signature.
 
+
 **Returns:**
 java.awt.Color
 ### setColor(Color value) {#setColor-java.awt.Color-}
@@ -129,6 +148,7 @@ public final void setColor(Color value)
 
 
 Gets or sets the border color of signature.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -143,6 +163,7 @@ public final void setColor(String value)
 
 Gets or sets the border color of signature.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -155,6 +176,7 @@ public boolean getVisible()
 
 
 Gets or sets the border visibility.
+
 
 **Returns:**
 boolean
@@ -179,5 +201,7 @@ public final Object deepClone()
 
 Implement IClonable interface
 
+
 **Returns:**
 java.lang.Object - Newly created Border instance with same properties
+

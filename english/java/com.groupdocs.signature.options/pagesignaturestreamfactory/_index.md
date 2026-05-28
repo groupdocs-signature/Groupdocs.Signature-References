@@ -12,8 +12,10 @@ public interface PageSignatureStreamFactory
 
 | Method | Description |
 | --- | --- |
-| [createSignatureStream(PreviewSignatureOptions previewOptions)](#createSignatureStream-com.groupdocs.signature.options.PreviewSignatureOptions-) | Method to create output page preview stream. |
-| [closeSignatureStream(PreviewSignatureOptions previewOptions, OutputStream pageStream)](#closeSignatureStream-com.groupdocs.signature.options.PreviewSignatureOptions-java.io.OutputStream-) | Method to release output page preview stream |
+| [createSignatureStream(PreviewSignatureOptions previewOptions)](#createSignatureStream-com.groupdocs.signature.options.PreviewSignatureOptions-) | Method to create output page preview stream.
+ |
+| [closeSignatureStream(PreviewSignatureOptions previewOptions, OutputStream pageStream)](#closeSignatureStream-com.groupdocs.signature.options.PreviewSignatureOptions-java.io.OutputStream-) | Method to release output page preview stream
+ |
 ### createSignatureStream(PreviewSignatureOptions previewOptions) {#createSignatureStream-com.groupdocs.signature.options.PreviewSignatureOptions-}
 ```
 public abstract OutputStream createSignatureStream(PreviewSignatureOptions previewOptions)
@@ -21,6 +23,7 @@ public abstract OutputStream createSignatureStream(PreviewSignatureOptions previ
 
 
 Method to create output page preview stream.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -36,6 +39,7 @@ public abstract void closeSignatureStream(PreviewSignatureOptions previewOptions
 
 
 Method to release output page preview stream
+
 
 **Parameters:**
 | Parameter | Type | Description |

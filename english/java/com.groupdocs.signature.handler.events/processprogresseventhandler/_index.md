@@ -13,6 +13,7 @@ public abstract class ProcessProgressEventHandler extends System.MulticastDelega
 ```
 
 Represents a method delegate which will handle processes on progress events for signing, verification and search.
+
 ## Constructors
 
 | Constructor | Description |

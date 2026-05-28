@@ -10,12 +10,15 @@ public interface IRotation
 ```
 
 Interface defines properties for Signature Rotation.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getRotationAngle()](#getRotationAngle--) | Rotation angle clockwise. |
-| [setRotationAngle(int value)](#setRotationAngle-int-) | Rotation angle clockwise. |
+| [getRotationAngle()](#getRotationAngle--) | Rotation angle clockwise.
+ |
+| [setRotationAngle(int value)](#setRotationAngle-int-) | Rotation angle clockwise.
+ |
 ### getRotationAngle() {#getRotationAngle--}
 ```
 public abstract int getRotationAngle()
@@ -23,6 +26,7 @@ public abstract int getRotationAngle()
 
 
 Rotation angle clockwise.
+
 
 **Returns:**
 int
@@ -33,6 +37,7 @@ public abstract void setRotationAngle(int value)
 
 
 Rotation angle clockwise.
+
 
 **Parameters:**
 | Parameter | Type | Description |

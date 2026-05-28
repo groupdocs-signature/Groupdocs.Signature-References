@@ -13,19 +13,25 @@ public class TiffSaveOptions extends ImageSaveOptions
 ```
 
 Tiff Save options for Image Documents.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [TiffSaveOptions()](#TiffSaveOptions--) | Creates TiffSaveOptions with default values. |
+| [TiffSaveOptions()](#TiffSaveOptions--) | Creates TiffSaveOptions with default values.
+ |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getExpectedTiffFormat()](#getExpectedTiffFormat--) | Gets or sets TIFF format of signed document. |
-| [setExpectedTiffFormat(int value)](#setExpectedTiffFormat-int-) | Gets or sets TIFF format of signed document. |
-| [getFileFormat()](#getFileFormat--) | Gets or sets file format of signed document. |
-| [setFileFormat(int value)](#setFileFormat-int-) | Gets or sets file format of signed document. |
+| [getExpectedTiffFormat()](#getExpectedTiffFormat--) | Gets or sets TIFF format of signed document.
+ |
+| [setExpectedTiffFormat(int value)](#setExpectedTiffFormat-int-) | Gets or sets TIFF format of signed document.
+ |
+| [getFileFormat()](#getFileFormat--) | Gets or sets file format of signed document.
+ |
+| [setFileFormat(int value)](#setFileFormat-int-) | Gets or sets file format of signed document.
+ |
 ### TiffSaveOptions() {#TiffSaveOptions--}
 ```
 public TiffSaveOptions()
@@ -34,6 +40,7 @@ public TiffSaveOptions()
 
 Creates TiffSaveOptions with default values.
 
+
 ### getExpectedTiffFormat() {#getExpectedTiffFormat--}
 ```
 public int getExpectedTiffFormat()
@@ -41,6 +48,7 @@ public int getExpectedTiffFormat()
 
 
 Gets or sets TIFF format of signed document.
+
 
 **Returns:**
 int
@@ -51,6 +59,7 @@ public void setExpectedTiffFormat(int value)
 
 
 Gets or sets TIFF format of signed document.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -65,6 +74,7 @@ public final int getFileFormat()
 
 Gets or sets file format of signed document. Hidden because not in use for this options class.
 
+
 **Returns:**
 int
 ### setFileFormat(int value) {#setFileFormat-int-}
@@ -74,6 +84,7 @@ public final void setFileFormat(int value)
 
 
 Gets or sets file format of signed document. Hidden because not in use for this options class.
+
 
 **Parameters:**
 | Parameter | Type | Description |

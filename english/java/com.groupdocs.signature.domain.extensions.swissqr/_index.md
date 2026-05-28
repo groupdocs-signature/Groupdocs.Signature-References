@@ -10,6 +10,7 @@ url: /java/com.groupdocs.signature.domain.extensions.swissqr/
 The **GroupDocs.Signature.Domain.Extensions.SwissQR** namespace provides classes for working with SwissQR
 
 
+
 ## Classes
 
 | Class | Description |

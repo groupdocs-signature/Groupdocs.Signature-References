@@ -13,12 +13,15 @@ public final class XAdESType
 ```
 
 Type of XML Advanced Electronic Signature (XAdES).
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [None](#None) | XAdES is off. |
-| [XAdES](#XAdES) | Basic XAdES. |
+| [None](#None) | XAdES is off.
+ |
+| [XAdES](#XAdES) | Basic XAdES.
+ |
 ### None {#None}
 ```
 public static final int None
@@ -27,6 +30,7 @@ public static final int None
 
 XAdES is off.
 
+
 ### XAdES {#XAdES}
 ```
 public static final int XAdES
@@ -34,4 +38,5 @@ public static final int XAdES
 
 
 Basic XAdES.
+
 

@@ -10,6 +10,7 @@ url: /java/com.groupdocs.signature.logging/
 The **GroupDocs.Signature.Logging** namespace provides classes for logging purposes.
 
 
+
 ## Classes
 
 | Class | Description |

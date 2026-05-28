@@ -13,19 +13,25 @@ public final class DigitalFormFieldSignature extends FormFieldSignature
 ```
 
 Contains digital signature input form field properties for Pdf Documents.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [DigitalFormFieldSignature(String name)](#DigitalFormFieldSignature-java.lang.String-) | Creates PdfDigitalFormFieldSignature with predefined name. |
+| [DigitalFormFieldSignature(String name)](#DigitalFormFieldSignature-java.lang.String-) | Creates PdfDigitalFormFieldSignature with predefined name.
+ |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getSigned()](#getSigned--) | Read-only property that shows if Form-field Signature was signed with digital certificate. |
-| [equals(Object signature)](#equals-java.lang.Object-) | Overwrites Equals method to compare signature properties |
-| [hashCode()](#hashCode--) | Overrides GetHashCode method |
-| [deepClone()](#deepClone--) | Clone FormField Signature instance. |
+| [getSigned()](#getSigned--) | Read-only property that shows if Form-field Signature was signed with digital certificate.
+ |
+| [equals(Object signature)](#equals-java.lang.Object-) | Overwrites Equals method to compare signature properties
+ |
+| [hashCode()](#hashCode--) | Overrides GetHashCode method
+ |
+| [deepClone()](#deepClone--) | Clone FormField Signature instance.
+ |
 ### DigitalFormFieldSignature(String name) {#DigitalFormFieldSignature-java.lang.String-}
 ```
 public DigitalFormFieldSignature(String name)
@@ -34,10 +40,12 @@ public DigitalFormFieldSignature(String name)
 
 Creates PdfDigitalFormFieldSignature with predefined name.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | java.lang.String | Name of form field object. |
+| name | java.lang.String | Name of form field object.
+ |
 
 ### getSigned() {#getSigned--}
 ```
@@ -46,6 +54,7 @@ public final boolean getSigned()
 
 
 Read-only property that shows if Form-field Signature was signed with digital certificate.
+
 
 **Returns:**
 boolean
@@ -57,13 +66,16 @@ public boolean equals(Object signature)
 
 Overwrites Equals method to compare signature properties
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signature | java.lang.Object | Signature object to compare with. |
+| signature | java.lang.Object | Signature object to compare with.
+ |
 
 **Returns:**
 boolean - Returns true if passed signature object has same type and all its properties are equal to this instance properties.
+
 ### hashCode() {#hashCode--}
 ```
 public int hashCode()
@@ -72,8 +84,10 @@ public int hashCode()
 
 Overrides GetHashCode method
 
+
 **Returns:**
 int - Signature hash code
+
 ### deepClone() {#deepClone--}
 ```
 public Object deepClone()
@@ -82,5 +96,7 @@ public Object deepClone()
 
 Clone FormField Signature instance.
 
+
 **Returns:**
 java.lang.Object - Returns cloned FormField Signature instance.
+

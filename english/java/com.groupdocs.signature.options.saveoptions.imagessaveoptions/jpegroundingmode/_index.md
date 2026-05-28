@@ -13,12 +13,15 @@ public final class JpegRoundingMode
 ```
 
 Specifies different JPEG rounding modes.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Extrapolate](#Extrapolate) | Extrapolate an 8-bit value to fit it into n bits, where n more than 1 and less 8. |
-| [Truncate](#Truncate) | Truncate an 8-bit value to fit it into n bits, where n more than 1 and less 8. |
+| [Extrapolate](#Extrapolate) | Extrapolate an 8-bit value to fit it into n bits, where n more than 1 and less 8.
+ |
+| [Truncate](#Truncate) | Truncate an 8-bit value to fit it into n bits, where n more than 1 and less 8.
+ |
 ### Extrapolate {#Extrapolate}
 ```
 public static final int Extrapolate
@@ -27,6 +30,7 @@ public static final int Extrapolate
 
 Extrapolate an 8-bit value to fit it into n bits, where n more than 1 and less 8.
 
+
 ### Truncate {#Truncate}
 ```
 public static final int Truncate
@@ -34,4 +38,5 @@ public static final int Truncate
 
 
 Truncate an 8-bit value to fit it into n bits, where n more than 1 and less 8.
+
 

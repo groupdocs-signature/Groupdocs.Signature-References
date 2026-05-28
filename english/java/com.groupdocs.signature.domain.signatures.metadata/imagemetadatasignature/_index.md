@@ -13,38 +13,63 @@ public final class ImageMetadataSignature extends MetadataSignature
 ```
 
 Contains Image Metadata signature properties.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [ImageMetadataSignature(int id, Object value)](#ImageMetadataSignature-int-java.lang.Object-) | Creates Image Metadata Signature with Id and value |
+| [ImageMetadataSignature(int id, Object value)](#ImageMetadataSignature-int-java.lang.Object-) | Creates Image Metadata Signature with Id and value
+ |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getId()](#getId--) | The identifier of Image Metadata signature. |
-| [setId(int value)](#setId-int-) | The identifier of Image Metadata signature. |
-| [getSize()](#getSize--) | Read-only value to get size of Metadata value |
-| [setSize(int value)](#setSize-int-) | Read-only value to get size of Metadata value |
-| [getDescription()](#getDescription--) | Read-only value to get description for standard Image Metadata signature |
-| [equals(Object signature)](#equals-java.lang.Object-) | Overwrites Equals method to compare signature properties |
-| [hashCode()](#hashCode--) | Overrides GetHashCode method |
-| [deepClone()](#deepClone--) | Clone Metadata Signature instance. |
-| [deepClone(Object value)](#deepClone-java.lang.Object-) | Clone Image Metadata Signature instance with given value. |
-| [toBoolean()](#toBoolean--) | Converts to boolean. |
-| [toInteger()](#toInteger--) | Converts to integer. |
-| [toLong()](#toLong--) | Converts to long. |
-| [toSingle()](#toSingle--) | Converts to float. |
-| [toSingle(Locale provider)](#toSingle-java.util.Locale-) | Converts to float. |
-| [toDouble()](#toDouble--) | Converts to Double. |
-| [toDouble(Locale provider)](#toDouble-java.util.Locale-) | Converts to Double. |
-| [toDecimal()](#toDecimal--) | Converts to Decimal. |
-| [toDecimal(Locale provider)](#toDecimal-java.util.Locale-) | Converts to Decimal. |
-| [toDateTime()](#toDateTime--) | Converts to DateTime. |
-| [toDateTime(Locale provider)](#toDateTime-java.util.Locale-) | Converts to DateTime. |
-| [toString()](#toString--) | Converts to String with override ToString() method |
-| [toString(String format)](#toString-java.lang.String-) | Converts to String with specified format |
-| [toString(String format, Locale provider)](#toString-java.lang.String-java.util.Locale-) | Converts to String with specified format |
+| [getId()](#getId--) | The identifier of Image Metadata signature.
+ |
+| [setId(int value)](#setId-int-) | The identifier of Image Metadata signature.
+ |
+| [getSize()](#getSize--) | Read-only value to get size of Metadata value
+ |
+| [setSize(int value)](#setSize-int-) | Read-only value to get size of Metadata value
+ |
+| [getDescription()](#getDescription--) | Read-only value to get description for standard Image Metadata signature
+ |
+| [equals(Object signature)](#equals-java.lang.Object-) | Overwrites Equals method to compare signature properties
+ |
+| [hashCode()](#hashCode--) | Overrides GetHashCode method
+ |
+| [deepClone()](#deepClone--) | Clone Metadata Signature instance.
+ |
+| [deepClone(Object value)](#deepClone-java.lang.Object-) | Clone Image Metadata Signature instance with given value.
+ |
+| [toBoolean()](#toBoolean--) | Converts to boolean.
+ |
+| [toInteger()](#toInteger--) | Converts to integer.
+ |
+| [toLong()](#toLong--) | Converts to long.
+ |
+| [toSingle()](#toSingle--) | Converts to float.
+ |
+| [toSingle(Locale provider)](#toSingle-java.util.Locale-) | Converts to float.
+ |
+| [toDouble()](#toDouble--) | Converts to Double.
+ |
+| [toDouble(Locale provider)](#toDouble-java.util.Locale-) | Converts to Double.
+ |
+| [toDecimal()](#toDecimal--) | Converts to Decimal.
+ |
+| [toDecimal(Locale provider)](#toDecimal-java.util.Locale-) | Converts to Decimal.
+ |
+| [toDateTime()](#toDateTime--) | Converts to DateTime.
+ |
+| [toDateTime(Locale provider)](#toDateTime-java.util.Locale-) | Converts to DateTime.
+ |
+| [toString()](#toString--) | Converts to String with override ToString() method
+ |
+| [toString(String format)](#toString-java.lang.String-) | Converts to String with specified format
+ |
+| [toString(String format, Locale provider)](#toString-java.lang.String-java.util.Locale-) | Converts to String with specified format
+ |
 | [setAsBool(Object value)](#setAsBool-java.lang.Object-) |  |
 | [setAsByte(Object value)](#setAsByte-java.lang.Object-) |  |
 | [setAsShrt(Object value)](#setAsShrt-java.lang.Object-) |  |
@@ -68,11 +93,14 @@ public ImageMetadataSignature(int id, Object value)
 
 Creates Image Metadata Signature with Id and value
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| id | int | Unique identifier Image Metadata Signature name. See references for Exif tags specifications for possible id values |
-| value | java.lang.Object | Metadata value |
+| id | int | Unique identifier Image Metadata Signature name. See references for Exif tags specifications for possible id values
+ |
+| value | java.lang.Object | Metadata value
+ |
 
 ### getId() {#getId--}
 ```
@@ -80,7 +108,9 @@ public final int getId()
 ```
 
 
-The identifier of Image Metadata signature. See [ImageMetadataSignatures](../../com.groupdocs.signature.domain.signatures.metadata/imagemetadatasignatures) class that contains standard Signature with predefined Id value.
+The identifier of Image Metadata signature.
+See [ImageMetadataSignatures](../../com.groupdocs.signature.domain.signatures.metadata/imagemetadatasignatures) class that contains standard Signature with predefined Id value.
+
 
 **Returns:**
 int
@@ -90,7 +120,9 @@ public final void setId(int value)
 ```
 
 
-The identifier of Image Metadata signature. See [ImageMetadataSignatures](../../com.groupdocs.signature.domain.signatures.metadata/imagemetadatasignatures) class that contains standard Signature with predefined Id value.
+The identifier of Image Metadata signature.
+See [ImageMetadataSignatures](../../com.groupdocs.signature.domain.signatures.metadata/imagemetadatasignatures) class that contains standard Signature with predefined Id value.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -105,6 +137,7 @@ public final int getSize()
 
 Read-only value to get size of Metadata value
 
+
 **Returns:**
 int
 ### setSize(int value) {#setSize-int-}
@@ -114,6 +147,7 @@ public final void setSize(int value)
 
 
 Read-only value to get size of Metadata value
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -128,6 +162,7 @@ public final String getDescription()
 
 Read-only value to get description for standard Image Metadata signature
 
+
 **Returns:**
 java.lang.String
 ### equals(Object signature) {#equals-java.lang.Object-}
@@ -138,13 +173,16 @@ public boolean equals(Object signature)
 
 Overwrites Equals method to compare signature properties
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signature | java.lang.Object | Signature object to compare with. |
+| signature | java.lang.Object | Signature object to compare with.
+ |
 
 **Returns:**
 boolean - Returns true if passed signature object has same type and all its properties are equal to this instance properties.
+
 ### hashCode() {#hashCode--}
 ```
 public int hashCode()
@@ -153,8 +191,10 @@ public int hashCode()
 
 Overrides GetHashCode method
 
+
 **Returns:**
 int - Signature hash code
+
 ### deepClone() {#deepClone--}
 ```
 public Object deepClone()
@@ -163,8 +203,10 @@ public Object deepClone()
 
 Clone Metadata Signature instance.
 
+
 **Returns:**
 java.lang.Object - Returns cloned Metadata Signature instance
+
 ### deepClone(Object value) {#deepClone-java.lang.Object-}
 ```
 public MetadataSignature deepClone(Object value)
@@ -173,13 +215,16 @@ public MetadataSignature deepClone(Object value)
 
 Clone Image Metadata Signature instance with given value.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | java.lang.Object | Value for new cloned object. |
+| value | java.lang.Object | Value for new cloned object.
+ |
 
 **Returns:**
 [MetadataSignature](../../com.groupdocs.signature.domain.signatures.metadata/metadatasignature) - Returns cloned Metadata Signature instance.
+
 ### toBoolean() {#toBoolean--}
 ```
 public boolean toBoolean()
@@ -188,12 +233,19 @@ public boolean toBoolean()
 
 Converts to boolean.
 
+
 **Returns:**
 boolean - Returns the Metadata signature value as boolean.
 
---------------------
+<br />
+
+*** ** * ** ***
 
 Throws an exception if the Metadata value could not be converted.
+
+<br />
+
+
 ### toInteger() {#toInteger--}
 ```
 public int toInteger()
@@ -202,12 +254,19 @@ public int toInteger()
 
 Converts to integer.
 
+
 **Returns:**
 int - Returns the Metadata Signature value as integer.
 
---------------------
+<br />
+
+*** ** * ** ***
 
 Throws an exception if the Metadata value could not be converted.
+
+<br />
+
+
 ### toLong() {#toLong--}
 ```
 public final long toLong()
@@ -216,12 +275,19 @@ public final long toLong()
 
 Converts to long.
 
+
 **Returns:**
 long - Returns the Metadata Signature value as long.
 
---------------------
+<br />
+
+*** ** * ** ***
 
 Throws an exception if the Metadata value could not be converted.
+
+<br />
+
+
 ### toSingle() {#toSingle--}
 ```
 public final float toSingle()
@@ -230,12 +296,19 @@ public final float toSingle()
 
 Converts to float.
 
+
 **Returns:**
 float - Returns the Image Metadata Signature value as float.
 
---------------------
+<br />
+
+*** ** * ** ***
 
 Throws an exception if the Metadata value could not be converted. If original value is string based the default culture property info will be used from SignatureSettings properties  SignatureSettings.DefaultCulture 
+
+<br />
+
+
 ### toSingle(Locale provider) {#toSingle-java.util.Locale-}
 ```
 public final float toSingle(Locale provider)
@@ -244,17 +317,25 @@ public final float toSingle(Locale provider)
 
 Converts to float.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | provider | java.util.Locale | Format data provider to use with data conversion operations.
 
---------------------
+<br />
 
-Throws an exception if the Metadata value could not be converted |
+*** ** * ** ***
+
+Throws an exception if the Metadata value could not be converted
+
+<br />
+
+ |
 
 **Returns:**
 float - Returns the Metadata Signature value as float.
+
 ### toDouble() {#toDouble--}
 ```
 public double toDouble()
@@ -263,12 +344,19 @@ public double toDouble()
 
 Converts to Double.
 
+
 **Returns:**
 double - Returns the Image Metadata Signature value as Double.
 
---------------------
+<br />
+
+*** ** * ** ***
 
 Throws an exception if the Metadata value could not be converted. If original value is string based the default culture property info will be used from SignatureSettings properties  SignatureSettings.DefaultCulture 
+
+<br />
+
+
 ### toDouble(Locale provider) {#toDouble-java.util.Locale-}
 ```
 public double toDouble(Locale provider)
@@ -277,17 +365,25 @@ public double toDouble(Locale provider)
 
 Converts to Double.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | provider | java.util.Locale | Format data provider to use with data conversion operations.
 
---------------------
+<br />
 
-Throws an exception if the Metadata value could not be converted |
+*** ** * ** ***
+
+Throws an exception if the Metadata value could not be converted
+
+<br />
+
+ |
 
 **Returns:**
 double - Returns the Metadata Signature value as Double.
+
 ### toDecimal() {#toDecimal--}
 ```
 public final BigDecimal toDecimal()
@@ -296,12 +392,19 @@ public final BigDecimal toDecimal()
 
 Converts to Decimal.
 
+
 **Returns:**
 java.math.BigDecimal - Returns the Image Metadata Signature value as Decimal.
 
---------------------
+<br />
+
+*** ** * ** ***
 
 Throws an exception if the Metadata value could not be converted. If original value is string based the default culture property info will be used from SignatureSettings properties  SignatureSettings.DefaultCulture 
+
+<br />
+
+
 ### toDecimal(Locale provider) {#toDecimal-java.util.Locale-}
 ```
 public final BigDecimal toDecimal(Locale provider)
@@ -310,17 +413,25 @@ public final BigDecimal toDecimal(Locale provider)
 
 Converts to Decimal.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | provider | java.util.Locale | Format data provider to use with data conversion operations.
 
---------------------
+<br />
 
-Throws an exception if the Metadata value could not be converted |
+*** ** * ** ***
+
+Throws an exception if the Metadata value could not be converted
+
+<br />
+
+ |
 
 **Returns:**
 java.math.BigDecimal - Returns the Metadata Signature value as Decimal.
+
 ### toDateTime() {#toDateTime--}
 ```
 public Date toDateTime()
@@ -329,12 +440,19 @@ public Date toDateTime()
 
 Converts to DateTime.
 
+
 **Returns:**
 java.util.Date - Returns the Metadata Signature value as DateTime.
 
---------------------
+<br />
+
+*** ** * ** ***
 
 Throws an exception if the Metadata value could not be converted. If original value is string based the default culture property info will be used from SignatureSettings properties  SignatureSettings.DefaultCulture 
+
+<br />
+
+
 ### toDateTime(Locale provider) {#toDateTime-java.util.Locale-}
 ```
 public Date toDateTime(Locale provider)
@@ -343,17 +461,25 @@ public Date toDateTime(Locale provider)
 
 Converts to DateTime.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | provider | java.util.Locale | Format data provider to use with data conversion operations.
 
---------------------
+<br />
 
-Throws an exception if the Metadata value could not be converted |
+*** ** * ** ***
+
+Throws an exception if the Metadata value could not be converted
+
+<br />
+
+ |
 
 **Returns:**
 java.util.Date - Returns the Metadata Signature value as DateTime.
+
 ### toString() {#toString--}
 ```
 public String toString()
@@ -362,8 +488,10 @@ public String toString()
 
 Converts to String with override ToString() method
 
+
 **Returns:**
 java.lang.String - Returns the Metadata Signature value as String.
+
 ### toString(String format) {#toString-java.lang.String-}
 ```
 public String toString(String format)
@@ -372,17 +500,25 @@ public String toString(String format)
 
 Converts to String with specified format
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | format | java.lang.String | Data format string.
 
---------------------
+<br />
 
-Converts a boolean property into "True" or "False". Default culture property info will be used from SignatureSettings properties  SignatureSettings.DefaultCulture  |
+*** ** * ** ***
+
+Converts a boolean property into "True" or "False". Default culture property info will be used from SignatureSettings properties  SignatureSettings.DefaultCulture 
+
+<br />
+
+ |
 
 **Returns:**
 java.lang.String - Returns the Metadata Signature value as String.
+
 ### toString(String format, Locale provider) {#toString-java.lang.String-java.util.Locale-}
 ```
 public String toString(String format, Locale provider)
@@ -391,18 +527,27 @@ public String toString(String format, Locale provider)
 
 Converts to String with specified format
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| format | java.lang.String | Data format string. |
+| format | java.lang.String | Data format string.
+ |
 | provider | java.util.Locale | Format data provider to use with data conversion operations.
 
---------------------
+<br />
 
-Converts a boolean property into "True" or "False". |
+*** ** * ** ***
+
+Converts a boolean property into "True" or "False".
+
+<br />
+
+ |
 
 **Returns:**
 java.lang.String - Returns the Metadata Signature value as String.
+
 ### setAsBool(Object value) {#setAsBool-java.lang.Object-}
 ```
 public final boolean setAsBool(Object value)

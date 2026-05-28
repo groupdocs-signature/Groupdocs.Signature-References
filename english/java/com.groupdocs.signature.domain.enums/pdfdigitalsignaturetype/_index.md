@@ -13,12 +13,15 @@ public final class PdfDigitalSignatureType
 ```
 
 Describes enumeration of PDF digital signature type.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Signature](#Signature) | Digital signature. |
-| [Certificate](#Certificate) | Digital certificate. |
+| [Signature](#Signature) | Digital signature.
+ |
+| [Certificate](#Certificate) | Digital certificate.
+ |
 ### Signature {#Signature}
 ```
 public static final int Signature
@@ -27,6 +30,7 @@ public static final int Signature
 
 Digital signature.
 
+
 ### Certificate {#Certificate}
 ```
 public static final int Certificate
@@ -34,4 +38,5 @@ public static final int Certificate
 
 
 Digital certificate. Each document could be certified only once.
+
 

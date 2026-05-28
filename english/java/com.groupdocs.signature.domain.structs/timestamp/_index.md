@@ -13,22 +13,30 @@ public class TimeStamp
 ```
 
 Represents data to get time stamp from third-party site.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
 | [TimeStamp()](#TimeStamp--) |  |
-| [TimeStamp(String url, String user, String password)](#TimeStamp-java.lang.String-java.lang.String-java.lang.String-) | Instantiates new time stamp structure. |
+| [TimeStamp(String url, String user, String password)](#TimeStamp-java.lang.String-java.lang.String-java.lang.String-) | Instantiates new time stamp structure.
+ |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getUrl()](#getUrl--) | Url of third-party site. |
-| [setUrl(String value)](#setUrl-java.lang.String-) | Url of third-party site. |
-| [getUser()](#getUser--) | User. |
-| [setUser(String value)](#setUser-java.lang.String-) | User. |
-| [getPassword()](#getPassword--) | Password. |
-| [setPassword(String value)](#setPassword-java.lang.String-) | Password. |
+| [getUrl()](#getUrl--) | Url of third-party site.
+ |
+| [setUrl(String value)](#setUrl-java.lang.String-) | Url of third-party site.
+ |
+| [getUser()](#getUser--) | User.
+ |
+| [setUser(String value)](#setUser-java.lang.String-) | User.
+ |
+| [getPassword()](#getPassword--) | Password.
+ |
+| [setPassword(String value)](#setPassword-java.lang.String-) | Password.
+ |
 | [CloneTo(TimeStamp that)](#CloneTo-com.groupdocs.signature.domain.structs.TimeStamp-) |  |
 | [Clone()](#Clone--) |  |
 | [clone()](#clone--) |  |
@@ -49,12 +57,16 @@ public TimeStamp(String url, String user, String password)
 
 Instantiates new time stamp structure.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| url | java.lang.String | Url of third-party site. |
-| user | java.lang.String | User. |
-| password | java.lang.String | Password. |
+| url | java.lang.String | Url of third-party site.
+ |
+| user | java.lang.String | User.
+ |
+| password | java.lang.String | Password.
+ |
 
 ### getUrl() {#getUrl--}
 ```
@@ -63,6 +75,7 @@ public final String getUrl()
 
 
 Url of third-party site.
+
 
 **Returns:**
 java.lang.String
@@ -73,6 +86,7 @@ public final void setUrl(String value)
 
 
 Url of third-party site.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -87,6 +101,7 @@ public final String getUser()
 
 User.
 
+
 **Returns:**
 java.lang.String
 ### setUser(String value) {#setUser-java.lang.String-}
@@ -96,6 +111,7 @@ public final void setUser(String value)
 
 
 User.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -110,6 +126,7 @@ public final String getPassword()
 
 Password.
 
+
 **Returns:**
 java.lang.String
 ### setPassword(String value) {#setPassword-java.lang.String-}
@@ -119,6 +136,7 @@ public final void setPassword(String value)
 
 
 Password.
+
 
 **Parameters:**
 | Parameter | Type | Description |

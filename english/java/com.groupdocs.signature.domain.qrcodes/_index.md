@@ -10,6 +10,7 @@ url: /java/com.groupdocs.signature.domain.qrcodes/
 The **GroupDocs.Signature.Domain.QRCodes** namespace provides classes for working with QRCodes
 
 
+
 ## Classes
 
 | Class | Description |

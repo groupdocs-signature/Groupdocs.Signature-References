@@ -13,25 +13,47 @@ public class PngSaveOptions extends ImageSaveOptions
 ```
 
 Png Save options for Image Documents.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [PngSaveOptions()](#PngSaveOptions--) | Creates PngSaveOptions with default values. |
+| [PngSaveOptions()](#PngSaveOptions--) | Creates PngSaveOptions with default values.
+ |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getBitDepth()](#getBitDepth--) | The bit depth. |
-| [setBitDepth(byte value)](#setBitDepth-byte-) | The bit depth. |
-| [getColorType()](#getColorType--) | Gets or sets the type of the  PngColorType . |
-| [setColorType(int value)](#setColorType-int-) | Gets or sets the type of the  PngColorType . |
-| [getCompressionLevel()](#getCompressionLevel--) | The png image compression level in the 0-9 range, where 9 is maximum compression and 0 is store mode. |
-| [setCompressionLevel(int value)](#setCompressionLevel-int-) | The png image compression level in the 0-9 range, where 9 is maximum compression and 0 is store mode. |
-| [getFilterType()](#getFilterType--) | Gets or sets the filter type  PngFilterType  used during png file save process. |
-| [setFilterType(int value)](#setFilterType-int-) | Gets or sets the filter type  PngFilterType  used during png file save process. |
-| [getProgressive()](#getProgressive--) | Gets or sets a value indicating whether this PngSaveOptions is progressive. |
-| [setProgressive(boolean value)](#setProgressive-boolean-) | Gets or sets a value indicating whether this PngSaveOptions is progressive. |
+| [getBitDepth()](#getBitDepth--) | The bit depth.
+ |
+| [setBitDepth(byte value)](#setBitDepth-byte-) | The bit depth.
+ |
+| [getColorType()](#getColorType--) | Gets or sets the type of the 
+PngColorType
+.
+ |
+| [setColorType(int value)](#setColorType-int-) | Gets or sets the type of the 
+PngColorType
+.
+ |
+| [getCompressionLevel()](#getCompressionLevel--) | The png image compression level in the 0-9 range, where 9 is maximum compression
+and 0 is store mode.
+ |
+| [setCompressionLevel(int value)](#setCompressionLevel-int-) | The png image compression level in the 0-9 range, where 9 is maximum compression
+and 0 is store mode.
+ |
+| [getFilterType()](#getFilterType--) | Gets or sets the filter type 
+PngFilterType
+ used during png file save process.
+ |
+| [setFilterType(int value)](#setFilterType-int-) | Gets or sets the filter type 
+PngFilterType
+ used during png file save process.
+ |
+| [getProgressive()](#getProgressive--) | Gets or sets a value indicating whether this PngSaveOptions is progressive.
+ |
+| [setProgressive(boolean value)](#setProgressive-boolean-) | Gets or sets a value indicating whether this PngSaveOptions is progressive.
+ |
 ### PngSaveOptions() {#PngSaveOptions--}
 ```
 public PngSaveOptions()
@@ -40,6 +62,7 @@ public PngSaveOptions()
 
 Creates PngSaveOptions with default values.
 
+
 ### getBitDepth() {#getBitDepth--}
 ```
 public byte getBitDepth()
@@ -47,6 +70,7 @@ public byte getBitDepth()
 
 
 The bit depth.
+
 
 **Returns:**
 byte
@@ -57,6 +81,7 @@ public void setBitDepth(byte value)
 
 
 The bit depth.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -69,7 +94,10 @@ public int getColorType()
 ```
 
 
-Gets or sets the type of the  PngColorType .
+Gets or sets the type of the 
+PngColorType
+.
+
 
 **Returns:**
 int
@@ -79,7 +107,10 @@ public void setColorType(int value)
 ```
 
 
-Gets or sets the type of the  PngColorType .
+Gets or sets the type of the 
+PngColorType
+.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -92,7 +123,9 @@ public int getCompressionLevel()
 ```
 
 
-The png image compression level in the 0-9 range, where 9 is maximum compression and 0 is store mode.
+The png image compression level in the 0-9 range, where 9 is maximum compression
+and 0 is store mode.
+
 
 **Returns:**
 int
@@ -102,7 +135,9 @@ public void setCompressionLevel(int value)
 ```
 
 
-The png image compression level in the 0-9 range, where 9 is maximum compression and 0 is store mode.
+The png image compression level in the 0-9 range, where 9 is maximum compression
+and 0 is store mode.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -115,7 +150,10 @@ public int getFilterType()
 ```
 
 
-Gets or sets the filter type  PngFilterType  used during png file save process.
+Gets or sets the filter type 
+PngFilterType
+ used during png file save process.
+
 
 **Returns:**
 int
@@ -125,7 +163,10 @@ public void setFilterType(int value)
 ```
 
 
-Gets or sets the filter type  PngFilterType  used during png file save process.
+Gets or sets the filter type 
+PngFilterType
+ used during png file save process.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -140,6 +181,7 @@ public boolean getProgressive()
 
 Gets or sets a value indicating whether this PngSaveOptions is progressive.
 
+
 **Returns:**
 boolean
 ### setProgressive(boolean value) {#setProgressive-boolean-}
@@ -149,6 +191,7 @@ public void setProgressive(boolean value)
 
 
 Gets or sets a value indicating whether this PngSaveOptions is progressive.
+
 
 **Parameters:**
 | Parameter | Type | Description |

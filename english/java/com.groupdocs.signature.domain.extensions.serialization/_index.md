@@ -10,6 +10,7 @@ url: /java/com.groupdocs.signature.domain.extensions.serialization/
 The **GroupDocs.Signature.Domain.Extensions** namespace provides extensions for signature appearances and additional functionality.
 
 
+
 ## Classes
 
 | Class | Description |

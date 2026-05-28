@@ -13,13 +13,17 @@ public final class MeasureType
 ```
 
 Specifies measure units of signature on document page.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Pixels](#Pixels) | Pixels. |
-| [Percents](#Percents) | Percents of page size. |
-| [Millimeters](#Millimeters) | Millimeters. |
+| [Pixels](#Pixels) | Pixels.
+ |
+| [Percents](#Percents) | Percents of page size.
+ |
+| [Millimeters](#Millimeters) | Millimeters.
+ |
 ### Pixels {#Pixels}
 ```
 public static final int Pixels
@@ -27,6 +31,7 @@ public static final int Pixels
 
 
 Pixels.
+
 
 ### Percents {#Percents}
 ```
@@ -36,6 +41,7 @@ public static final int Percents
 
 Percents of page size.
 
+
 ### Millimeters {#Millimeters}
 ```
 public static final int Millimeters
@@ -43,4 +49,5 @@ public static final int Millimeters
 
 
 Millimeters.
+
 

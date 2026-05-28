@@ -13,17 +13,25 @@ public class VerificationResult
 ```
 
 Instance to keep results of verification process.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getProcessingTime()](#getProcessingTime--) | Returns the execution time of the process in milliseconds. |
-| [getTotalSignatures()](#getTotalSignatures--) | Returns the total processed signatures |
-| [getSourceDocumentSize()](#getSourceDocumentSize--) | Returns source document size in bytes |
-| [getDestinDocumentSize()](#getDestinDocumentSize--) | Returns the destination document size. |
-| [getSucceeded()](#getSucceeded--) | List of successfully verified signatures [BaseSignature](../../com.groupdocs.signature.domain.signatures/basesignature). |
-| [isValid()](#isValid--) | Returns true if Verification process was successful otherwise false. |
-| [setValid(boolean value)](#setValid-boolean-) | Returns true if Verification process was successful otherwise false. |
+| [getProcessingTime()](#getProcessingTime--) | Returns the execution time of the process in milliseconds.
+ |
+| [getTotalSignatures()](#getTotalSignatures--) | Returns the total processed signatures
+ |
+| [getSourceDocumentSize()](#getSourceDocumentSize--) | Returns source document size in bytes
+ |
+| [getDestinDocumentSize()](#getDestinDocumentSize--) | Returns the destination document size.
+ |
+| [getSucceeded()](#getSucceeded--) | List of successfully verified signatures [BaseSignature](../../com.groupdocs.signature.domain.signatures/basesignature).
+ |
+| [isValid()](#isValid--) | Returns true if Verification process was successful otherwise false.
+ |
+| [setValid(boolean value)](#setValid-boolean-) | Returns true if Verification process was successful otherwise false.
+ |
 ### getProcessingTime() {#getProcessingTime--}
 ```
 public final long getProcessingTime()
@@ -31,6 +39,7 @@ public final long getProcessingTime()
 
 
 Returns the execution time of the process in milliseconds.
+
 
 **Returns:**
 long
@@ -42,6 +51,7 @@ public final int getTotalSignatures()
 
 Returns the total processed signatures
 
+
 **Returns:**
 int
 ### getSourceDocumentSize() {#getSourceDocumentSize--}
@@ -51,6 +61,7 @@ public final long getSourceDocumentSize()
 
 
 Returns source document size in bytes
+
 
 **Returns:**
 long
@@ -62,6 +73,7 @@ public final long getDestinDocumentSize()
 
 Returns the destination document size. For verification this variable always contains zero.
 
+
 **Returns:**
 long
 ### getSucceeded() {#getSucceeded--}
@@ -70,7 +82,9 @@ public final List<BaseSignature> getSucceeded()
 ```
 
 
-List of successfully verified signatures [BaseSignature](../../com.groupdocs.signature.domain.signatures/basesignature). Currently this property is not supported.
+List of successfully verified signatures [BaseSignature](../../com.groupdocs.signature.domain.signatures/basesignature).
+Currently this property is not supported.
+
 
 **Returns:**
 java.util.List<com.groupdocs.signature.domain.signatures.BaseSignature>
@@ -82,6 +96,7 @@ public final boolean isValid()
 
 Returns true if Verification process was successful otherwise false.
 
+
 **Returns:**
 boolean
 ### setValid(boolean value) {#setValid-boolean-}
@@ -91,6 +106,7 @@ public final void setValid(boolean value)
 
 
 Returns true if Verification process was successful otherwise false.
+
 
 **Parameters:**
 | Parameter | Type | Description |

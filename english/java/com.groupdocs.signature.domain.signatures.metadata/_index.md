@@ -10,6 +10,7 @@ url: /java/com.groupdocs.signature.domain.signatures.metadata/
 The **GroupDocs.Signature.Domain.Signatures.Metadata** namespace provides classes for working with Metadata signatures
 
 
+
 ## Classes
 
 | Class | Description |

@@ -13,16 +13,19 @@ public abstract class VerifyExtensions
 ```
 
 Keeps additional verification options for alternative implementations of signature on a document page.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [VerifyExtensions()](#VerifyExtensions--) | Creates default Verify Extensions. |
+| [VerifyExtensions()](#VerifyExtensions--) | Creates default Verify Extensions.
+ |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [toString()](#toString--) | Override string conversion. |
+| [toString()](#toString--) | Override string conversion.
+ |
 ### VerifyExtensions() {#VerifyExtensions--}
 ```
 public VerifyExtensions()
@@ -31,6 +34,7 @@ public VerifyExtensions()
 
 Creates default Verify Extensions.
 
+
 ### toString() {#toString--}
 ```
 public String toString()
@@ -38,6 +42,7 @@ public String toString()
 
 
 Override string conversion.
+
 
 **Returns:**
 java.lang.String - 

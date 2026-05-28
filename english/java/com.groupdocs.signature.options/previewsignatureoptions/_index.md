@@ -13,21 +13,29 @@ public class PreviewSignatureOptions
 ```
 
 Represents signature preview options.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [PreviewSignatureOptions(SignOptions signOptions, PageSignatureStreamFactory pageStreamFactory)](#PreviewSignatureOptions-com.groupdocs.signature.options.sign.SignOptions-com.groupdocs.signature.options.PageSignatureStreamFactory-) | Initializes PreviewSignatureOptions object. |
+| [PreviewSignatureOptions(SignOptions signOptions, PageSignatureStreamFactory pageStreamFactory)](#PreviewSignatureOptions-com.groupdocs.signature.options.sign.SignOptions-com.groupdocs.signature.options.PageSignatureStreamFactory-) | Initializes PreviewSignatureOptions object.
+ |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getSignatureId()](#getSignatureId--) | Unique value to distinct the signature. |
-| [setSignatureId(String value)](#setSignatureId-java.lang.String-) | Unique value to distinct the signature. |
-| [getSignOptions()](#getSignOptions--) | Signature Options for generate preview. |
-| [setSignOptions(SignOptions value)](#setSignOptions-com.groupdocs.signature.options.sign.SignOptions-) | Signature Options for generate preview. |
-| [getPreviewFormat()](#getPreviewFormat--) | Gets or sets preview images format. |
-| [setPreviewFormat(int value)](#setPreviewFormat-int-) | Gets or sets preview images format. |
+| [getSignatureId()](#getSignatureId--) | Unique value to distinct the signature.
+ |
+| [setSignatureId(String value)](#setSignatureId-java.lang.String-) | Unique value to distinct the signature.
+ |
+| [getSignOptions()](#getSignOptions--) | Signature Options for generate preview.
+ |
+| [setSignOptions(SignOptions value)](#setSignOptions-com.groupdocs.signature.options.sign.SignOptions-) | Signature Options for generate preview.
+ |
+| [getPreviewFormat()](#getPreviewFormat--) | Gets or sets preview images format.
+ |
+| [setPreviewFormat(int value)](#setPreviewFormat-int-) | Gets or sets preview images format.
+ |
 ### PreviewSignatureOptions(SignOptions signOptions, PageSignatureStreamFactory pageStreamFactory) {#PreviewSignatureOptions-com.groupdocs.signature.options.sign.SignOptions-com.groupdocs.signature.options.PageSignatureStreamFactory-}
 ```
 public PreviewSignatureOptions(SignOptions signOptions, PageSignatureStreamFactory pageStreamFactory)
@@ -36,11 +44,14 @@ public PreviewSignatureOptions(SignOptions signOptions, PageSignatureStreamFacto
 
 Initializes PreviewSignatureOptions object.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signOptions | [SignOptions](../../com.groupdocs.signature.options.sign/signoptions) | The signature options to generate preview for. |
-| pageStreamFactory | [PageSignatureStreamFactory](../../com.groupdocs.signature.options/pagesignaturestreamfactory) | Interface which defines method to create output page preview stream. |
+| signOptions | [SignOptions](../../com.groupdocs.signature.options.sign/signoptions) | The signature options to generate preview for.
+ |
+| pageStreamFactory | [PageSignatureStreamFactory](../../com.groupdocs.signature.options/pagesignaturestreamfactory) | Interface which defines method to create output page preview stream.
+ |
 
 ### getSignatureId() {#getSignatureId--}
 ```
@@ -48,7 +59,9 @@ public final String getSignatureId()
 ```
 
 
-Unique value to distinct the signature. Use SignatureId to identify the preview options.
+Unique value to distinct the signature.
+Use SignatureId to identify the preview options.
+
 
 **Returns:**
 java.lang.String
@@ -58,7 +71,9 @@ public final void setSignatureId(String value)
 ```
 
 
-Unique value to distinct the signature. Use SignatureId to identify the preview options.
+Unique value to distinct the signature.
+Use SignatureId to identify the preview options.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -73,6 +88,7 @@ public final SignOptions getSignOptions()
 
 Signature Options for generate preview.
 
+
 **Returns:**
 [SignOptions](../../com.groupdocs.signature.options.sign/signoptions)
 ### setSignOptions(SignOptions value) {#setSignOptions-com.groupdocs.signature.options.sign.SignOptions-}
@@ -82,6 +98,7 @@ public final void setSignOptions(SignOptions value)
 
 
 Signature Options for generate preview.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -94,7 +111,9 @@ public final int getPreviewFormat()
 ```
 
 
-Gets or sets preview images format. Default value is PNG
+Gets or sets preview images format.
+Default value is PNG
+
 
 **Returns:**
 int
@@ -104,7 +123,9 @@ public final void setPreviewFormat(int value)
 ```
 
 
-Gets or sets preview images format. Default value is PNG
+Gets or sets preview images format.
+Default value is PNG
+
 
 **Parameters:**
 | Parameter | Type | Description |

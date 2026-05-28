@@ -20,16 +20,22 @@ public class PreviewSignatureFormats
 
 | Field | Description |
 | --- | --- |
-| [PNG](#PNG) | PNG |
-| [JPEG](#JPEG) | JPEG |
-| [BMP](#BMP) | BMP |
-| [GIF](#GIF) | GIF |
-| [SVG](#SVG) | SVG |
+| [PNG](#PNG) | PNG
+ |
+| [JPEG](#JPEG) | JPEG
+ |
+| [BMP](#BMP) | BMP
+ |
+| [GIF](#GIF) | GIF
+ |
+| [SVG](#SVG) | SVG
+ |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [toExtension(int id)](#toExtension-int-) | To extension string. |
+| [toExtension(int id)](#toExtension-int-) | To extension string.
+ |
 ### PreviewSignatureFormats() {#PreviewSignatureFormats--}
 ```
 public PreviewSignatureFormats()
@@ -44,6 +50,7 @@ public static final int PNG
 
 PNG
 
+
 ### JPEG {#JPEG}
 ```
 public static final int JPEG
@@ -51,6 +58,7 @@ public static final int JPEG
 
 
 JPEG
+
 
 ### BMP {#BMP}
 ```
@@ -60,6 +68,7 @@ public static final int BMP
 
 BMP
 
+
 ### GIF {#GIF}
 ```
 public static final int GIF
@@ -67,6 +76,7 @@ public static final int GIF
 
 
 GIF
+
 
 ### SVG {#SVG}
 ```
@@ -76,6 +86,7 @@ public static final int SVG
 
 SVG
 
+
 ### toExtension(int id) {#toExtension-int-}
 ```
 public static String toExtension(int id)
@@ -84,6 +95,7 @@ public static String toExtension(int id)
 
 To extension string.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -91,3 +103,4 @@ To extension string.
 
 **Returns:**
 java.lang.String - the string
+

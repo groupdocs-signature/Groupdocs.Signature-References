@@ -13,6 +13,7 @@ public abstract class ProcessCompleteEventHandler extends System.MulticastDelega
 ```
 
 Represents a method delegate which will handle processes on complete events for signing, verification and search.
+
 ## Constructors
 
 | Constructor | Description |

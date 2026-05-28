@@ -14,25 +14,37 @@ public class CertificateSearchOptions extends SearchOptions
 
 Represents search options for Certificate metadata signatures.
 
---------------------
+<br />
+
+*** ** * ** ***
 
  **Learn more** 
 
- *  
+* 
+
+<br />
+
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [CertificateSearchOptions()](#CertificateSearchOptions--) | Initializes a new instance of the TextSearchOptions class with default values. |
-| [CertificateSearchOptions(String text)](#CertificateSearchOptions-java.lang.String-) | Initializes a new instance of the TextSearchOptions class with text value. |
+| [CertificateSearchOptions()](#CertificateSearchOptions--) | Initializes a new instance of the TextSearchOptions class with default values.
+ |
+| [CertificateSearchOptions(String text)](#CertificateSearchOptions-java.lang.String-) | Initializes a new instance of the TextSearchOptions class with text value.
+ |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getText()](#getText--) | Specifies certificate property text to match on searching. |
-| [setText(String value)](#setText-java.lang.String-) | Specifies certificate property text to match on searching. |
-| [getMatchType()](#getMatchType--) | Gets or sets text match type search. |
-| [setMatchType(int value)](#setMatchType-int-) | Gets or sets text match type search. |
+| [getText()](#getText--) | Specifies certificate property text to match on searching.
+ |
+| [setText(String value)](#setText-java.lang.String-) | Specifies certificate property text to match on searching.
+ |
+| [getMatchType()](#getMatchType--) | Gets or sets text match type search.
+ |
+| [setMatchType(int value)](#setMatchType-int-) | Gets or sets text match type search.
+ |
 ### CertificateSearchOptions() {#CertificateSearchOptions--}
 ```
 public CertificateSearchOptions()
@@ -40,6 +52,7 @@ public CertificateSearchOptions()
 
 
 Initializes a new instance of the TextSearchOptions class with default values.
+
 
 ### CertificateSearchOptions(String text) {#CertificateSearchOptions-java.lang.String-}
 ```
@@ -49,10 +62,12 @@ public CertificateSearchOptions(String text)
 
 Initializes a new instance of the TextSearchOptions class with text value.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | java.lang.String | Set Text of Text signature. |
+| text | java.lang.String | Set Text of Text signature.
+ |
 
 ### getText() {#getText--}
 ```
@@ -61,6 +76,7 @@ public final String getText()
 
 
 Specifies certificate property text to match on searching.
+
 
 **Returns:**
 java.lang.String
@@ -71,6 +87,7 @@ public final void setText(String value)
 
 
 Specifies certificate property text to match on searching.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -85,6 +102,7 @@ public final int getMatchType()
 
 Gets or sets text match type search.
 
+
 **Returns:**
 int
 ### setMatchType(int value) {#setMatchType-int-}
@@ -94,6 +112,7 @@ public final void setMatchType(int value)
 
 
 Gets or sets text match type search.
+
 
 **Parameters:**
 | Parameter | Type | Description |

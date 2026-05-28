@@ -13,26 +13,47 @@ public abstract class SignOptions
 ```
 
 Represents the signature options.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getPageNumber()](#getPageNumber--) | Gets or sets document page number for signing. |
-| [setPageNumber(int value)](#setPageNumber-int-) | Gets or sets document page number for signing. |
-| [getAllPages()](#getAllPages--) | Put signature on all document pages. |
-| [setAllPages(boolean value)](#setAllPages-boolean-) | Put signature on all document pages. |
-| [getAppearance()](#getAppearance--) | Additional signature appearance. |
-| [setAppearance(SignatureAppearance value)](#setAppearance-com.groupdocs.signature.options.appearances.SignatureAppearance-) | Additional signature appearance. |
-| [getExtensions()](#getExtensions--) | Signature Extensions. |
-| [setExtensions(List<SignatureExtension> value)](#setExtensions-java.util.List-com.groupdocs.signature.domain.extensions.signoptions.SignatureExtension--) | Signature Extensions. |
-| [getPagesSetup()](#getPagesSetup--) | Options to specify pages to be signed. |
-| [setPagesSetup(PagesSetup value)](#setPagesSetup-com.groupdocs.signature.options.PagesSetup-) | Options to specify pages to be signed. |
-| [getSignatureType()](#getSignatureType--) | Get the Signature Type [SignatureType](../../com.groupdocs.signature.domain.enums/signaturetype) |
-| [getDocumentType()](#getDocumentType--) | Get or set the Document Type of the Signature Options [DocumentType](../../com.groupdocs.signature.domain.enums/documenttype) |
-| [setDocumentType(int value)](#setDocumentType-int-) | Get or set the Document Type of the Signature Options [DocumentType](../../com.groupdocs.signature.domain.enums/documenttype) |
-| [getZOrder()](#getZOrder--) | Gets or sets the Z-order position of text signature. |
-| [setZOrder(int value)](#setZOrder-int-) | Gets or sets the Z-order position of text signature. |
-| [toString()](#toString--) | Override string conversion. |
+| [getPageNumber()](#getPageNumber--) | Gets or sets document page number for signing.
+ |
+| [setPageNumber(int value)](#setPageNumber-int-) | Gets or sets document page number for signing.
+ |
+| [getAllPages()](#getAllPages--) | Put signature on all document pages.
+ |
+| [setAllPages(boolean value)](#setAllPages-boolean-) | Put signature on all document pages.
+ |
+| [getAppearance()](#getAppearance--) | Additional signature appearance.
+ |
+| [setAppearance(SignatureAppearance value)](#setAppearance-com.groupdocs.signature.options.appearances.SignatureAppearance-) | Additional signature appearance.
+ |
+| [getExtensions()](#getExtensions--) | Signature Extensions.
+ |
+| [setExtensions(List<SignatureExtension> value)](#setExtensions-java.util.List-com.groupdocs.signature.domain.extensions.signoptions.SignatureExtension--) | Signature Extensions.
+ |
+| [getPagesSetup()](#getPagesSetup--) | Options to specify pages to be signed.
+ |
+| [setPagesSetup(PagesSetup value)](#setPagesSetup-com.groupdocs.signature.options.PagesSetup-) | Options to specify pages to be signed.
+ |
+| [getSignatureType()](#getSignatureType--) | Get the Signature Type [SignatureType](../../com.groupdocs.signature.domain.enums/signaturetype)
+ |
+| [getDocumentType()](#getDocumentType--) | Get or set the Document Type of the Signature Options [DocumentType](../../com.groupdocs.signature.domain.enums/documenttype)
+ |
+| [setDocumentType(int value)](#setDocumentType-int-) | Get or set the Document Type of the Signature Options [DocumentType](../../com.groupdocs.signature.domain.enums/documenttype)
+ |
+| [getZOrder()](#getZOrder--) | Gets or sets the Z-order position of text signature.
+ |
+| [setZOrder(int value)](#setZOrder-int-) | Gets or sets the Z-order position of text signature.
+ |
+| [getHashAlgorithm()](#getHashAlgorithm--) | Gets or sets the hash algorithm to be used for cryptographic operations.
+ |
+| [setHashAlgorithm(int value)](#setHashAlgorithm-int-) | Gets or sets the hash algorithm to be used for cryptographic operations.
+ |
+| [toString()](#toString--) | Override string conversion.
+ |
 | [addSignature(Object[] args)](#addSignature-java.lang.Object...-) |  |
 ### getPageNumber() {#getPageNumber--}
 ```
@@ -40,7 +61,9 @@ public int getPageNumber()
 ```
 
 
-Gets or sets document page number for signing. Minimal and default value is 1.
+Gets or sets document page number for signing.
+Minimal and default value is 1.
+
 
 **Returns:**
 int
@@ -50,7 +73,9 @@ public void setPageNumber(int value)
 ```
 
 
-Gets or sets document page number for signing. Minimal and default value is 1.
+Gets or sets document page number for signing.
+Minimal and default value is 1.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -65,6 +90,7 @@ public boolean getAllPages()
 
 Put signature on all document pages.
 
+
 **Returns:**
 boolean
 ### setAllPages(boolean value) {#setAllPages-boolean-}
@@ -74,6 +100,7 @@ public void setAllPages(boolean value)
 
 
 Put signature on all document pages.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -88,6 +115,7 @@ public final SignatureAppearance getAppearance()
 
 Additional signature appearance.
 
+
 **Returns:**
 [SignatureAppearance](../../com.groupdocs.signature.options.appearances/signatureappearance)
 ### setAppearance(SignatureAppearance value) {#setAppearance-com.groupdocs.signature.options.appearances.SignatureAppearance-}
@@ -97,6 +125,7 @@ public final void setAppearance(SignatureAppearance value)
 
 
 Additional signature appearance.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -111,6 +140,7 @@ public final List<SignatureExtension> getExtensions()
 
 Signature Extensions.
 
+
 **Returns:**
 java.util.List<com.groupdocs.signature.domain.extensions.signoptions.SignatureExtension>
 ### setExtensions(List<SignatureExtension> value) {#setExtensions-java.util.List-com.groupdocs.signature.domain.extensions.signoptions.SignatureExtension--}
@@ -120,6 +150,7 @@ public void setExtensions(List<SignatureExtension> value)
 
 
 Signature Extensions.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -134,6 +165,7 @@ public PagesSetup getPagesSetup()
 
 Options to specify pages to be signed.
 
+
 **Returns:**
 [PagesSetup](../../com.groupdocs.signature.options/pagessetup)
 ### setPagesSetup(PagesSetup value) {#setPagesSetup-com.groupdocs.signature.options.PagesSetup-}
@@ -143,6 +175,7 @@ public void setPagesSetup(PagesSetup value)
 
 
 Options to specify pages to be signed.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -157,6 +190,7 @@ public final int getSignatureType()
 
 Get the Signature Type [SignatureType](../../com.groupdocs.signature.domain.enums/signaturetype)
 
+
 **Returns:**
 int
 ### getDocumentType() {#getDocumentType--}
@@ -167,6 +201,7 @@ public final int getDocumentType()
 
 Get or set the Document Type of the Signature Options [DocumentType](../../com.groupdocs.signature.domain.enums/documenttype)
 
+
 **Returns:**
 int
 ### setDocumentType(int value) {#setDocumentType-int-}
@@ -176,6 +211,7 @@ public final void setDocumentType(int value)
 
 
 Get or set the Document Type of the Signature Options [DocumentType](../../com.groupdocs.signature.domain.enums/documenttype)
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -188,7 +224,9 @@ public final int getZOrder()
 ```
 
 
-Gets or sets the Z-order position of text signature. Determines the display order of overlapping signatures.
+Gets or sets the Z-order position of text signature.
+Determines the display order of overlapping signatures.
+
 
 **Returns:**
 int
@@ -198,7 +236,37 @@ public final void setZOrder(int value)
 ```
 
 
-Gets or sets the Z-order position of text signature. Determines the display order of overlapping signatures.
+Gets or sets the Z-order position of text signature.
+Determines the display order of overlapping signatures.
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
+
+### getHashAlgorithm() {#getHashAlgorithm--}
+```
+public final int getHashAlgorithm()
+```
+
+
+Gets or sets the hash algorithm to be used for cryptographic operations.
+Supported exclusively for digital signatures in PDF files.
+Value is one of the constants on [HashAlgorithm](../../com.groupdocs.signature.domain.enums/hashalgorithm).
+
+
+**Returns:**
+int
+### setHashAlgorithm(int value) {#setHashAlgorithm-int-}
+```
+public final void setHashAlgorithm(int value)
+```
+
+
+Gets or sets the hash algorithm to be used for cryptographic operations.
+Supported exclusively for digital signatures in PDF files.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -212,6 +280,7 @@ public String toString()
 
 
 Override string conversion.
+
 
 **Returns:**
 java.lang.String - 

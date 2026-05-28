@@ -13,6 +13,7 @@ public class PasswordRequiredException extends GroupDocsSignatureException
 ```
 
 The exception that is thrown when password is required to load the document.
+
 ## Constructors
 
 | Constructor | Description |

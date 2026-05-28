@@ -10,6 +10,7 @@ url: /java/com.groupdocs.signature.domain.barcodes/
 The **GroupDocs.Signature.Domain.Barcodes** namespace provides classes for working with Barcodes
 
 
+
 ## Classes
 
 | Class | Description |

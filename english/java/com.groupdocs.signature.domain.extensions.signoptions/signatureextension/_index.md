@@ -16,6 +16,7 @@ public abstract class SignatureExtension implements Cloneable
 ```
 
 Represents base class for signatures extensions.
+
 ## Constructors
 
 | Constructor | Description |
@@ -25,8 +26,10 @@ Represents base class for signatures extensions.
 
 | Method | Description |
 | --- | --- |
-| [deepClone()](#deepClone--) | Gets a copy of this object. |
-| [release()](#release--) | Releasing resources. |
+| [deepClone()](#deepClone--) | Gets a copy of this object.
+ |
+| [release()](#release--) | Releasing resources.
+ |
 ### SignatureExtension() {#SignatureExtension--}
 ```
 public SignatureExtension()
@@ -41,6 +44,7 @@ public Object deepClone()
 
 Gets a copy of this object.
 
+
 **Returns:**
 java.lang.Object
 ### release() {#release--}
@@ -50,4 +54,5 @@ public void release()
 
 
 Releasing resources.
+
 

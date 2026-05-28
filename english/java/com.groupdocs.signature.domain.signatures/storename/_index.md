@@ -15,13 +15,16 @@ public class StoreName
 
 | Field | Description |
 | --- | --- |
-| [My](#My) | Represents "Windows-My" java.security.KeyStore type. |
-| [Root](#Root) | Represents "Windows-Root" java.security.KeyStore type. |
+| [My](#My) | Represents "Windows-My" java.security.KeyStore type.
+ |
+| [Root](#Root) | Represents "Windows-Root" java.security.KeyStore type.
+ |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getStoreName()](#getStoreName--) | Store name e.g. |
+| [getStoreName()](#getStoreName--) | Store name e.g.
+ |
 ### My {#My}
 ```
 public static final StoreName My
@@ -29,6 +32,7 @@ public static final StoreName My
 
 
 Represents "Windows-My" java.security.KeyStore type.
+
 
 ### Root {#Root}
 ```
@@ -38,6 +42,7 @@ public static final StoreName Root
 
 Represents "Windows-Root" java.security.KeyStore type.
 
+
 ### getStoreName() {#getStoreName--}
 ```
 public final String getStoreName()
@@ -45,6 +50,7 @@ public final String getStoreName()
 
 
 Store name e.g. "Windows-My".
+
 
 **Returns:**
 java.lang.String

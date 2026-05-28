@@ -12,8 +12,10 @@ public interface PageStreamFactory
 
 | Method | Description |
 | --- | --- |
-| [createPageStream(int pageNumber)](#createPageStream-int-) | Method to create output page preview stream. |
-| [closePageStream(int pageNumber, OutputStream pageStream)](#closePageStream-int-java.io.OutputStream-) | Method to release output page preview stream |
+| [createPageStream(int pageNumber)](#createPageStream-int-) | Method to create output page preview stream.
+ |
+| [closePageStream(int pageNumber, OutputStream pageStream)](#closePageStream-int-java.io.OutputStream-) | Method to release output page preview stream
+ |
 ### createPageStream(int pageNumber) {#createPageStream-int-}
 ```
 public abstract OutputStream createPageStream(int pageNumber)
@@ -21,6 +23,7 @@ public abstract OutputStream createPageStream(int pageNumber)
 
 
 Method to create output page preview stream.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -36,6 +39,7 @@ public abstract void closePageStream(int pageNumber, OutputStream pageStream)
 
 
 Method to release output page preview stream
+
 
 **Parameters:**
 | Parameter | Type | Description |

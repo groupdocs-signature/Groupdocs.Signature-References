@@ -13,6 +13,7 @@ public abstract class Brush
 ```
 
 Represents base class for various brushes.
+
 ## Constructors
 
 | Constructor | Description |

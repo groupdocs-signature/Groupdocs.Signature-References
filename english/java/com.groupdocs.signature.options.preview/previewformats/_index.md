@@ -13,18 +13,23 @@ public class PreviewFormats
 ```
 
 Document preview supported formats
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [PNG](#PNG) | PNG |
-| [JPEG](#JPEG) | JPEG |
-| [BMP](#BMP) | BMP |
+| [PNG](#PNG) | PNG
+ |
+| [JPEG](#JPEG) | JPEG
+ |
+| [BMP](#BMP) | BMP
+ |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [toExtension(int id)](#toExtension-int-) | To extension string. |
+| [toExtension(int id)](#toExtension-int-) | To extension string.
+ |
 ### PNG {#PNG}
 ```
 public static final int PNG
@@ -32,6 +37,7 @@ public static final int PNG
 
 
 PNG
+
 
 ### JPEG {#JPEG}
 ```
@@ -41,6 +47,7 @@ public static final int JPEG
 
 JPEG
 
+
 ### BMP {#BMP}
 ```
 public static final int BMP
@@ -48,6 +55,7 @@ public static final int BMP
 
 
 BMP
+
 
 ### toExtension(int id) {#toExtension-int-}
 ```
@@ -57,6 +65,7 @@ public static String toExtension(int id)
 
 To extension string.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -64,3 +73,4 @@ To extension string.
 
 **Returns:**
 java.lang.String - the string
+

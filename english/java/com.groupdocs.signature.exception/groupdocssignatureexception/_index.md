@@ -13,13 +13,17 @@ public class GroupDocsSignatureException extends Exception
 ```
 
 Represents errors that occur during document signing.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [GroupDocsSignatureException()](#GroupDocsSignatureException--) | Initializes a new instance of the [GroupDocsSignatureException](../../com.groupdocs.signature.exception/groupdocssignatureexception) class. |
-| [GroupDocsSignatureException(String message)](#GroupDocsSignatureException-java.lang.String-) | Initializes a new instance of the [GroupDocsSignatureException](../../com.groupdocs.signature.exception/groupdocssignatureexception) class with a specified error message. |
-| [GroupDocsSignatureException(Exception ex, String message)](#GroupDocsSignatureException-java.lang.Exception-java.lang.String-) | Initializes a new instance of the [GroupDocsSignatureException](../../com.groupdocs.signature.exception/groupdocssignatureexception) class with a specified error message and original exception. |
+| [GroupDocsSignatureException()](#GroupDocsSignatureException--) | Initializes a new instance of the [GroupDocsSignatureException](../../com.groupdocs.signature.exception/groupdocssignatureexception) class.
+ |
+| [GroupDocsSignatureException(String message)](#GroupDocsSignatureException-java.lang.String-) | Initializes a new instance of the [GroupDocsSignatureException](../../com.groupdocs.signature.exception/groupdocssignatureexception) class with a specified error message.
+ |
+| [GroupDocsSignatureException(Exception ex, String message)](#GroupDocsSignatureException-java.lang.Exception-java.lang.String-) | Initializes a new instance of the [GroupDocsSignatureException](../../com.groupdocs.signature.exception/groupdocssignatureexception) class with a specified error message and original exception.
+ |
 ### GroupDocsSignatureException() {#GroupDocsSignatureException--}
 ```
 public GroupDocsSignatureException()
@@ -27,6 +31,7 @@ public GroupDocsSignatureException()
 
 
 Initializes a new instance of the [GroupDocsSignatureException](../../com.groupdocs.signature.exception/groupdocssignatureexception) class.
+
 
 ### GroupDocsSignatureException(String message) {#GroupDocsSignatureException-java.lang.String-}
 ```
@@ -36,10 +41,12 @@ public GroupDocsSignatureException(String message)
 
 Initializes a new instance of the [GroupDocsSignatureException](../../com.groupdocs.signature.exception/groupdocssignatureexception) class with a specified error message.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| message | java.lang.String | The message that describes the error. |
+| message | java.lang.String | The message that describes the error.
+ |
 
 ### GroupDocsSignatureException(Exception ex, String message) {#GroupDocsSignatureException-java.lang.Exception-java.lang.String-}
 ```
@@ -49,9 +56,12 @@ public GroupDocsSignatureException(Exception ex, String message)
 
 Initializes a new instance of the [GroupDocsSignatureException](../../com.groupdocs.signature.exception/groupdocssignatureexception) class with a specified error message and original exception.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ex | java.lang.Exception | The original exception. |
-| message | java.lang.String | The message that describes the error. |
+| ex | java.lang.Exception | The original exception.
+ |
+| message | java.lang.String | The message that describes the error.
+ |
 

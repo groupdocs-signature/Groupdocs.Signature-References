@@ -13,15 +13,20 @@ public final class FormFieldType
 ```
 
 Specifies Form Field type.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Text](#Text) | Simple text input. |
+| [Text](#Text) | Simple text input.
+ |
 | [Checkbox](#Checkbox) |  |
-| [Combobox](#Combobox) | Combo-box |
-| [DigitalSignature](#DigitalSignature) | Digital signature area. |
-| [Radio](#Radio) | Radio-button |
+| [Combobox](#Combobox) | Combo-box
+ |
+| [DigitalSignature](#DigitalSignature) | Digital signature area.
+ |
+| [Radio](#Radio) | Radio-button
+ |
 ### Text {#Text}
 ```
 public static final int Text
@@ -29,6 +34,7 @@ public static final int Text
 
 
 Simple text input.
+
 
 ### Checkbox {#Checkbox}
 ```
@@ -44,6 +50,7 @@ public static final int Combobox
 
 Combo-box
 
+
 ### DigitalSignature {#DigitalSignature}
 ```
 public static final int DigitalSignature
@@ -52,6 +59,7 @@ public static final int DigitalSignature
 
 Digital signature area.
 
+
 ### Radio {#Radio}
 ```
 public static final int Radio
@@ -59,4 +67,5 @@ public static final int Radio
 
 
 Radio-button
+
 

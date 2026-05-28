@@ -13,6 +13,7 @@ public class ProcessEventArgs extends System.EventArgs
 ```
 
 Provides data for different events of signature, verification and search processes.
+
 ## Constructors
 
 | Constructor | Description |
@@ -22,10 +23,14 @@ Provides data for different events of signature, verification and search process
 
 | Method | Description |
 | --- | --- |
-| [getFilePath()](#getFilePath--) | Represents document processing file name. |
-| [setFilePath(String value)](#setFilePath-java.lang.String-) | Represents document processing file name. |
-| [getStatus()](#getStatus--) | Indicates current process state. |
-| [setStatus(int value)](#setStatus-int-) | Indicates current process state. |
+| [getFilePath()](#getFilePath--) | Represents document processing file name.
+ |
+| [setFilePath(String value)](#setFilePath-java.lang.String-) | Represents document processing file name.
+ |
+| [getStatus()](#getStatus--) | Indicates current process state.
+ |
+| [setStatus(int value)](#setStatus-int-) | Indicates current process state.
+ |
 ### ProcessEventArgs() {#ProcessEventArgs--}
 ```
 public ProcessEventArgs()
@@ -40,6 +45,7 @@ public final String getFilePath()
 
 Represents document processing file name.
 
+
 **Returns:**
 java.lang.String
 ### setFilePath(String value) {#setFilePath-java.lang.String-}
@@ -49,6 +55,7 @@ public final void setFilePath(String value)
 
 
 Represents document processing file name.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -63,6 +70,7 @@ public final int getStatus()
 
 Indicates current process state.
 
+
 **Returns:**
 int
 ### setStatus(int value) {#setStatus-int-}
@@ -72,6 +80,7 @@ public final void setStatus(int value)
 
 
 Indicates current process state.
+
 
 **Parameters:**
 | Parameter | Type | Description |

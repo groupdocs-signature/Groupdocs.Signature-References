@@ -10,6 +10,7 @@ url: /java/com.groupdocs.signature/
 The **GroupDocs.Signature** namespace provides classes for signing documents of different formats with stamps, barcodes, QR-codes, text, image, metadata, form field and digital signatures.
 
 
+
 ## Classes
 
 | Class | Description |

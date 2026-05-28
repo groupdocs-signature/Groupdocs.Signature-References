@@ -13,17 +13,21 @@ public final class DicomSaveOptions extends ImageSaveOptions
 ```
 
 Save options for DICOM image documents.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [DicomSaveOptions()](#DicomSaveOptions--) | Creates DicomSaveOptions with default values. |
+| [DicomSaveOptions()](#DicomSaveOptions--) | Creates DicomSaveOptions with default values.
+ |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getXmpEntries()](#getXmpEntries--) | XMP data for DICOM. |
-| [setXmpEntries(List<DicomXmpEntry> value)](#setXmpEntries-java.util.List-com.groupdocs.signature.options.saveoptions.imagessaveoptions.DicomXmpEntry--) | XMP data for DICOM. |
+| [getXmpEntries()](#getXmpEntries--) | XMP data for DICOM.
+ |
+| [setXmpEntries(List<DicomXmpEntry> value)](#setXmpEntries-java.util.List-com.groupdocs.signature.options.saveoptions.imagessaveoptions.DicomXmpEntry--) | XMP data for DICOM.
+ |
 ### DicomSaveOptions() {#DicomSaveOptions--}
 ```
 public DicomSaveOptions()
@@ -32,6 +36,7 @@ public DicomSaveOptions()
 
 Creates DicomSaveOptions with default values.
 
+
 ### getXmpEntries() {#getXmpEntries--}
 ```
 public final List<DicomXmpEntry> getXmpEntries()
@@ -39,6 +44,7 @@ public final List<DicomXmpEntry> getXmpEntries()
 
 
 XMP data for DICOM. Use it for setting image metadata.
+
 
 **Returns:**
 java.util.List<com.groupdocs.signature.options.saveoptions.imagessaveoptions.DicomXmpEntry>
@@ -49,6 +55,7 @@ public final void setXmpEntries(List<DicomXmpEntry> value)
 
 
 XMP data for DICOM. Use it for setting image metadata.
+
 
 **Parameters:**
 | Parameter | Type | Description |

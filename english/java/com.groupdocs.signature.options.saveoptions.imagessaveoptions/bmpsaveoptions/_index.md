@@ -13,23 +13,33 @@ public final class BmpSaveOptions extends ImageSaveOptions
 ```
 
 Bmp Save options for image documents.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [BmpSaveOptions()](#BmpSaveOptions--) | Creates BmpSaveOptions with default values. |
+| [BmpSaveOptions()](#BmpSaveOptions--) | Creates BmpSaveOptions with default values.
+ |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getBitsPerPixel()](#getBitsPerPixel--) | Gets or sets the image bits per pixel count. |
-| [setBitsPerPixel(int value)](#setBitsPerPixel-int-) | Gets or sets the image bits per pixel count. |
-| [getCompression()](#getCompression--) | Gets or sets the compression. |
-| [setCompression(int value)](#setCompression-int-) | Gets or sets the compression. |
-| [getHorizontalResolution()](#getHorizontalResolution--) | Gets or sets the horizontal resolution. |
-| [setHorizontalResolution(double value)](#setHorizontalResolution-double-) | Gets or sets the horizontal resolution. |
-| [getVerticalResolution()](#getVerticalResolution--) | Gets or sets the vertical resolution. |
-| [setVerticalResolution(double value)](#setVerticalResolution-double-) | Gets or sets the vertical resolution. |
+| [getBitsPerPixel()](#getBitsPerPixel--) | Gets or sets the image bits per pixel count.
+ |
+| [setBitsPerPixel(int value)](#setBitsPerPixel-int-) | Gets or sets the image bits per pixel count.
+ |
+| [getCompression()](#getCompression--) | Gets or sets the compression.
+ |
+| [setCompression(int value)](#setCompression-int-) | Gets or sets the compression.
+ |
+| [getHorizontalResolution()](#getHorizontalResolution--) | Gets or sets the horizontal resolution.
+ |
+| [setHorizontalResolution(double value)](#setHorizontalResolution-double-) | Gets or sets the horizontal resolution.
+ |
+| [getVerticalResolution()](#getVerticalResolution--) | Gets or sets the vertical resolution.
+ |
+| [setVerticalResolution(double value)](#setVerticalResolution-double-) | Gets or sets the vertical resolution.
+ |
 ### BmpSaveOptions() {#BmpSaveOptions--}
 ```
 public BmpSaveOptions()
@@ -38,6 +48,7 @@ public BmpSaveOptions()
 
 Creates BmpSaveOptions with default values.
 
+
 ### getBitsPerPixel() {#getBitsPerPixel--}
 ```
 public final int getBitsPerPixel()
@@ -45,6 +56,7 @@ public final int getBitsPerPixel()
 
 
 Gets or sets the image bits per pixel count.
+
 
 **Returns:**
 int
@@ -55,6 +67,7 @@ public final void setBitsPerPixel(int value)
 
 
 Gets or sets the image bits per pixel count.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -69,6 +82,7 @@ public final int getCompression()
 
 Gets or sets the compression. See [BitmapCompression](../../com.groupdocs.signature.options.saveoptions.imagessaveoptions/bitmapcompression).
 
+
 **Returns:**
 int
 ### setCompression(int value) {#setCompression-int-}
@@ -78,6 +92,7 @@ public final void setCompression(int value)
 
 
 Gets or sets the compression. See [BitmapCompression](../../com.groupdocs.signature.options.saveoptions.imagessaveoptions/bitmapcompression).
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -90,7 +105,9 @@ public final double getHorizontalResolution()
 ```
 
 
-Gets or sets the horizontal resolution. Note due to the rounding the resulting resolution may slightly differ from the passed.
+Gets or sets the horizontal resolution. Note due to the rounding the resulting
+resolution may slightly differ from the passed.
+
 
 **Returns:**
 double
@@ -100,7 +117,9 @@ public final void setHorizontalResolution(double value)
 ```
 
 
-Gets or sets the horizontal resolution. Note due to the rounding the resulting resolution may slightly differ from the passed.
+Gets or sets the horizontal resolution. Note due to the rounding the resulting
+resolution may slightly differ from the passed.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -113,7 +132,9 @@ public final double getVerticalResolution()
 ```
 
 
-Gets or sets the vertical resolution. Note due to the rounding the resulting resolution may slightly differ from the passed.
+Gets or sets the vertical resolution. Note due to the rounding the resulting
+resolution may slightly differ from the passed.
+
 
 **Returns:**
 double
@@ -123,7 +144,9 @@ public final void setVerticalResolution(double value)
 ```
 
 
-Gets or sets the vertical resolution. Note due to the rounding the resulting resolution may slightly differ from the passed.
+Gets or sets the vertical resolution. Note due to the rounding the resulting
+resolution may slightly differ from the passed.
+
 
 **Parameters:**
 | Parameter | Type | Description |

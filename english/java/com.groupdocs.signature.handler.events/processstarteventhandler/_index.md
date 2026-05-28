@@ -13,6 +13,7 @@ public abstract class ProcessStartEventHandler extends System.MulticastDelegate
 ```
 
 Represents a method delegate which will handle processes on start events for signing, verification and search.
+
 ## Constructors
 
 | Constructor | Description |

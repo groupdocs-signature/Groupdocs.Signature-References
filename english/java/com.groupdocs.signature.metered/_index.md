@@ -10,8 +10,9 @@ url: /java/com.groupdocs.signature.metered/
 Provides methods to set metered key.
 
 
+
 ## Classes
 
 | Class | Description |
 | --- | --- |
-| [Metered](../com.groupdocs.signature.metered/metered) | Provides methods for applying  [Metered][]  license.[Metered]: https://purchase.groupdocs.com/faqs/licensing/metered |
+| [Metered](../com.groupdocs.signature.metered/metered) | Provides methods for applying [Metered](https://purchase.groupdocs.com/faqs/licensing/metered) license. |

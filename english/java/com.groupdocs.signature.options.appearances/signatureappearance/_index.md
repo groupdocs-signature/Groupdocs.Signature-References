@@ -13,16 +13,19 @@ public abstract class SignatureAppearance
 ```
 
 Represents the signature appearance - additional options for alternative implementations of sign on document page.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [SignatureAppearance()](#SignatureAppearance--) | Initializes a new instance of the SignatureAppearance class. |
+| [SignatureAppearance()](#SignatureAppearance--) | Initializes a new instance of the SignatureAppearance class.
+ |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [toString()](#toString--) | Override string conversion. |
+| [toString()](#toString--) | Override string conversion.
+ |
 ### SignatureAppearance() {#SignatureAppearance--}
 ```
 public SignatureAppearance()
@@ -31,6 +34,7 @@ public SignatureAppearance()
 
 Initializes a new instance of the SignatureAppearance class.
 
+
 ### toString() {#toString--}
 ```
 public String toString()
@@ -38,6 +42,7 @@ public String toString()
 
 
 Override string conversion.
+
 
 **Returns:**
 java.lang.String - 

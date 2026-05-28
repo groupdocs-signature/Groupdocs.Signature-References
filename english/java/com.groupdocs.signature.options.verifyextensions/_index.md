@@ -10,6 +10,7 @@ url: /java/com.groupdocs.signature.options.verifyextensions/
 The **GroupDocs.Signature.Options.VerifyExtensions** namespace provides classes for working with VerifyExtensions options.
 
 
+
 ## Classes
 
 | Class | Description |
