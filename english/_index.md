@@ -36,6 +36,8 @@ platforms:
     install: "pip install groupdocs-signature-net"
 
 formats: ["PDF", "Word", "Excel", "PowerPoint", "Images"]
+formatsCount: "60+"
+formatsNote: "…and 50+ more document and image formats."
 
 capabilities:
   - "Digital, barcode & QR-code signatures"
