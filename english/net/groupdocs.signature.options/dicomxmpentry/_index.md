@@ -3,7 +3,7 @@ title: DicomXmpEntry
 second_title: GroupDocs.Signature for .NET API Reference
 description: Entry of XMP data for DICOM images .dcm.
 type: docs
-weight: 1520
+weight: 1530
 url: /net/groupdocs.signature.options/dicomxmpentry/
 ---
 ## DicomXmpEntry class

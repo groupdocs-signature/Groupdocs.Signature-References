@@ -3,7 +3,7 @@ title: ImageDigitalSignOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents options to embed Aspose.Imaging digital steganography signature into raster images.
 type: docs
-weight: 1620
+weight: 1630
 url: /net/groupdocs.signature.options/imagedigitalsignoptions/
 ---
 ## ImageDigitalSignOptions class

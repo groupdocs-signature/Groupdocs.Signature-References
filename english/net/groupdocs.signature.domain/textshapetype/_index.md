@@ -3,7 +3,7 @@ title: TextShapeType
 second_title: GroupDocs.Signature for .NET API Reference
 description: Specifies types of text shapes.
 type: docs
-weight: 1170
+weight: 1180
 url: /net/groupdocs.signature.domain/textshapetype/
 ---
 ## TextShapeType enumeration
