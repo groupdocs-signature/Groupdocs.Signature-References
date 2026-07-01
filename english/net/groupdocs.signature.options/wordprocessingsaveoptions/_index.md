@@ -3,7 +3,7 @@ title: WordProcessingSaveOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Save options for WordProcessing documents.
 type: docs
-weight: 2070
+weight: 2080
 url: /net/groupdocs.signature.options/wordprocessingsaveoptions/
 ---
 ## WordProcessingSaveOptions class
@@ -29,6 +29,7 @@ public class WordProcessingSaveOptions : SaveOptions
 | --- | --- |
 | [AddMissingExtenstion](../../groupdocs.signature.options/saveoptions/addmissingextenstion) { get; set; } | Gets or sets flag to automatically add extension when it was missing in output file path Default value is false. |
 | [FileFormat](../../groupdocs.signature.options/wordprocessingsaveoptions/fileformat) { get; set; } | Gets or sets file format of signed document. |
+| [OoxmlCompliance](../../groupdocs.signature.options/wordprocessingsaveoptions/ooxmlcompliance) { get; set; } | Optional OOXML compliance level for the signed document. When set, overrides the original document's compliance. When null (default), the loaded document's compliance is preserved. Only honoured for OOXML formats (Docx, Docm, Dotx, Dotm, FlatOpc and FlatOpc variants). |
 | [OverwriteExistingFiles](../../groupdocs.signature.options/saveoptions/overwriteexistingfiles) { get; set; } | Gets or sets whether to overwrite existing file with new output file. Otherwise new file will be created with number as suffix. By default this value set to true that means file will be overwritten. |
 | [Password](../../groupdocs.signature.options/saveoptions/password) { get; set; } | Gets or sets password to save signed document with password protection. This property is not supported for Image documents. |
 | [UseOriginalPassword](../../groupdocs.signature.options/saveoptions/useoriginalpassword) { get; set; } | Gets or sets whether to use password from LoadOptions to save signed document as protected. Default value is true. This property is not supported for Image documents. |

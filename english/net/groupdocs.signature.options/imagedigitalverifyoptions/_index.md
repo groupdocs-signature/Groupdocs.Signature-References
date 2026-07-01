@@ -3,7 +3,7 @@ title: ImageDigitalVerifyOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Keeps options to verify digital signatures in raster images.
 type: docs
-weight: 1630
+weight: 1640
 url: /net/groupdocs.signature.options/imagedigitalverifyoptions/
 ---
 ## ImageDigitalVerifyOptions class

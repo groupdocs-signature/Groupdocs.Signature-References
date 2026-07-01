@@ -3,7 +3,7 @@ title: ICustomSignHash
 second_title: GroupDocs.Signature for .NET API Reference
 description: Defines a contract for custom hash signing operations.
 type: docs
-weight: 1610
+weight: 1620
 url: /net/groupdocs.signature.options/icustomsignhash/
 ---
 ## ICustomSignHash interface

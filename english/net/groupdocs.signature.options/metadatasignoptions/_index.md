@@ -3,7 +3,7 @@ title: MetadataSignOptions
 second_title: GroupDocs.Signature for .NET API Reference
 description: Represents Metadata signature options.
 type: docs
-weight: 1730
+weight: 1740
 url: /net/groupdocs.signature.options/metadatasignoptions/
 ---
 ## MetadataSignOptions class

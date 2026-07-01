@@ -3,7 +3,7 @@ title: ShapePosition
 second_title: GroupDocs.Signature for .NET API Reference
 description: Specifies shape position in the document layout
 type: docs
-weight: 1010
+weight: 1020
 url: /net/groupdocs.signature.domain/shapeposition/
 ---
 ## ShapePosition enumeration
