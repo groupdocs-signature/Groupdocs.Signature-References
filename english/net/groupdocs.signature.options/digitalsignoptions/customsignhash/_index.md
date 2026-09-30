@@ -3,7 +3,7 @@ title: CustomSignHash
 second_title: GroupDocs.Signature for .NET API Reference
 description: Gets or sets a custom hash signing function allowing users to implement their own digital signing logic. This enables signing with external certificates and supports different hash algorithms.
 type: docs
-weight: 50
+weight: 70
 url: /net/groupdocs.signature.options/digitalsignoptions/customsignhash/
 ---
 ## DigitalSignOptions.CustomSignHash property

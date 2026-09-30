@@ -3,7 +3,7 @@ title: CertificateStream
 second_title: GroupDocs.Signature for .NET API Reference
 description: Gets or sets digital certificate stream. If this property is specified it is always used instead CertificateFilePath.
 type: docs
-weight: 30
+weight: 50
 url: /net/groupdocs.signature.options/digitalsignoptions/certificatestream/
 ---
 ## DigitalSignOptions.CertificateStream property

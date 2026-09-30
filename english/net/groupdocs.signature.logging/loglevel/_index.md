@@ -1,14 +1,14 @@
 ---
 title: LogLevel
 second_title: GroupDocs.Signature for .NET API Reference
-description: Specifies the available Log Level types. This enumeration can be used as flags to set several possible values as enabled bits Example LogLevel.Error x7C LogLevel.Warning or LogLevel.Error x7C LogLevel.Trace
+description: Specifies which kinds of messages are passed to the logger set in SignatureSettings../groupdocs.signature/signaturesettings. The values are flags and can be combined for example LogLevel.Error  LogLevel.Warning.
 type: docs
 weight: 1360
 url: /net/groupdocs.signature.logging/loglevel/
 ---
 ## LogLevel enumeration
 
-Specifies the available Log Level types. This enumeration can be used as flags to set several possible values as enabled bits Example: LogLevel.Error &#x7C; LogLevel.Warning or LogLevel.Error &#x7C; LogLevel.Trace
+Specifies which kinds of messages are passed to the logger set in [`SignatureSettings`](../../groupdocs.signature/signaturesettings). The values are flags and can be combined, for example `LogLevel.Error | LogLevel.Warning`.
 
 ```csharp
 [Flags]
@@ -19,11 +19,11 @@ public enum LogLevel
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` | No logging limitation all information will be logged from trace, warning to errors |
-| Error | `1` | No logging limitation all information will be logged from trace, warning to errors |
-| Warning | `2` | Same as All level, all messages including the Trace level will be logged |
-| Trace | `4` | The logging level to include messages from the Warning to Error level |
-| All | `7` | All Log level events (Error, Warning, Trace) will be included into the logging |
+| None | `0` | Nothing is logged. |
+| Error | `1` | Errors: an operation failed. |
+| Warning | `2` | Warnings: an operation succeeded, but its result may not be what you expect. |
+| Trace | `4` | Traces: the steps of an operation, such as its start and its end. |
+| All | `7` | Errors, warnings and traces. This is the default. |
 
 ### See Also
 

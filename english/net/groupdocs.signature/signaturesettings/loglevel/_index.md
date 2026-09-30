@@ -1,14 +1,14 @@
 ---
 title: LogLevel
 second_title: GroupDocs.Signature for .NET API Reference
-description: The level of the logging to limit the messages All Traces Warnings Errors. LogLevelgroupdocs.signature/signaturesettings/loglevel. BY default the All level type is set.
+description: Gets or sets which kinds of messages are passed to Loggergroupdocs.signature/signaturesettings/logger. The value is a set of LogLevelgroupdocs.signature.logging/loglevel flags that can be combined for example LogLevel.Error  LogLevel.Warning. LogLevel.None logs nothing. The default is LogLevel.All errors warnings and traces.
 type: docs
 weight: 50
 url: /net/groupdocs.signature/signaturesettings/loglevel/
 ---
 ## SignatureSettings.LogLevel property
 
-The level of the logging to limit the messages (All, Traces, Warnings, Errors). `LogLevel`. BY default the All level type is set.
+Gets or sets which kinds of messages are passed to [`Logger`](../logger). The value is a set of [`LogLevel`](../../../groupdocs.signature.logging/loglevel) flags that can be combined, for example `LogLevel.Error | LogLevel.Warning`. `LogLevel.None` logs nothing. The default is `LogLevel.All`: errors, warnings and traces.
 
 ```csharp
 public LogLevel LogLevel { get; set; }

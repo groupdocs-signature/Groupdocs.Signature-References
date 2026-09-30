@@ -30,6 +30,8 @@ public class DigitalSignOptions : ImageSignOptions
 
 | Name | Description |
 | --- | --- |
+| [AllowExpired](../../groupdocs.signature.options/digitalsignoptions/allowexpired) { get; set; } | Gets or sets a flag that allows signing with a certificate whose validity period has ended. The default value is false: signing with an expired certificate throws [`GroupDocsSignatureException`](../../groupdocs.signature/groupdocssignatureexception), and the document is not signed. |
+| [AllowNotYetValid](../../groupdocs.signature.options/digitalsignoptions/allownotyetvalid) { get; set; } | Gets or sets a flag that allows signing with a certificate whose validity period has not started yet. The default value is false: signing with such a certificate throws [`GroupDocsSignatureException`](../../groupdocs.signature/groupdocssignatureexception), and the document is not signed. |
 | virtual [AllPages](../../groupdocs.signature.options/signoptions/allpages) { get; set; } | Put signature on all document pages. |
 | [Appearance](../../groupdocs.signature.options/signoptions/appearance) { get; set; } | Additional signature appearance. |
 | [Border](../../groupdocs.signature.options/imagesignoptions/border) { get; set; } | Specify border settings |

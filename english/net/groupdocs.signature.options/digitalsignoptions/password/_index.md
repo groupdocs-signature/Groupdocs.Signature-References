@@ -3,7 +3,7 @@ title: Password
 second_title: GroupDocs.Signature for .NET API Reference
 description: Gets or sets the password of digital certificate.
 type: docs
-weight: 70
+weight: 90
 url: /net/groupdocs.signature.options/digitalsignoptions/password/
 ---
 ## DigitalSignOptions.Password property

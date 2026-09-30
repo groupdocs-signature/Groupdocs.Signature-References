@@ -3,7 +3,7 @@ title: CertificateFilePath
 second_title: GroupDocs.Signature for .NET API Reference
 description: Gets or sets the digital certificate file path. This property is used only if CertificateStream is not specified.
 type: docs
-weight: 20
+weight: 40
 url: /net/groupdocs.signature.options/digitalsignoptions/certificatefilepath/
 ---
 ## DigitalSignOptions.CertificateFilePath property

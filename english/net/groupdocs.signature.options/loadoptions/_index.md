@@ -26,9 +26,10 @@ public class LoadOptions
 | Name | Description |
 | --- | --- |
 | [FileType](../../groupdocs.signature.options/loadoptions/filetype) { get; set; } | Gets or sets the file type associated with the load options. |
-| [LoadExternalResources](../../groupdocs.signature.options/loadoptions/loadexternalresources) { get; set; } | Gets or sets options that specifies if external document resources should be loaded. This option with disabled value (false) allows to save loading time for the documents with many or large external resource links. By default value is enabled (true). |
 | [Password](../../groupdocs.signature.options/loadoptions/password) { get; set; } | Gets or sets password to open a protected document. It will be also used to save signed document as protected. |
 | [Permissions](../../groupdocs.signature.options/loadoptions/permissions) { get; } | The PDF document permissions such as printing, modification and data extraction.Only for PDF documents. |
+| [SkipExternalResources](../../groupdocs.signature.options/loadoptions/skipexternalresources) { get; set; } | Gets or sets a flag that stops the document from loading external resources. The default value is true: external resources are not loaded, except those that match [`WhitelistedResources`](./whitelistedresources). |
+| [WhitelistedResources](../../groupdocs.signature.options/loadoptions/whitelistedresources) { get; set; } | Gets or sets fragments of addresses of external resources that are loaded even when [`SkipExternalResources`](./skipexternalresources) is true. The default value is an empty list. |
 
 ### See Also
 
