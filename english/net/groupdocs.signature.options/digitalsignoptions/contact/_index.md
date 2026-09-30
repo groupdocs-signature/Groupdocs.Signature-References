@@ -3,7 +3,7 @@ title: Contact
 second_title: GroupDocs.Signature for .NET API Reference
 description: Gets or sets the signature contact.
 type: docs
-weight: 40
+weight: 60
 url: /net/groupdocs.signature.options/digitalsignoptions/contact/
 ---
 ## DigitalSignOptions.Contact property

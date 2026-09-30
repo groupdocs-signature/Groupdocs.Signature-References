@@ -31,12 +31,6 @@ public class SignatureFont
 | [Strikeout](../../groupdocs.signature.domain/signaturefont/strikeout) { get; set; } | Gets or sets font strikeout style |
 | [Underline](../../groupdocs.signature.domain/signaturefont/underline) { get; set; } | Gets or sets font underline style |
 
-## Methods
-
-| Name | Description |
-| --- | --- |
-| [implicit operator](../../groupdocs.signature.domain/signaturefont/op_implicit) | Convert System.Drawing.Font to SignatureFont. |
-
 ### See Also
 
 * namespace [GroupDocs.Signature.Domain](../../groupdocs.signature.domain)
