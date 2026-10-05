@@ -1,28 +1,22 @@
-﻿---
+---
 title: clone method
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Gets a copy of this object."
 type: docs
 url: /python-net/groupdocs.signature.domain/padding/clone/
 is_root: false
-weight: 20
+weight: 1010
 ---
 
-## clone {#}
+
+## clone
 
 Gets a copy of this object.
-
-
 
 ```python
 def clone(self):
     ...
 ```
 
-
-
-
-
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`Padding`](/signature/python-net/groupdocs.signature.domain/padding)
+* class [`Padding`](/signature/python-net/groupdocs.signature.domain/padding/)

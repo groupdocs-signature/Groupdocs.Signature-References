@@ -1,17 +1,18 @@
-﻿---
+---
 title: amount property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The amount."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/epc/amount/
 is_root: false
-weight: 30
+weight: 2010
 ---
+
 
 ## amount property
 
+The amount.
 
-Gets or sets amount.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def amount(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`EPC`](/signature/python-net/groupdocs.signature.domain.extensions/epc)
+* class [`EPC`](/signature/python-net/groupdocs.signature.domain.extensions/epc/)

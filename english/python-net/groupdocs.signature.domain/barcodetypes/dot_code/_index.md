@@ -1,19 +1,17 @@
-﻿---
-title: DOT_CODE property
+---
+title: DOT_CODE field
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "DotCode Barcode Type object."
 type: docs
 url: /python-net/groupdocs.signature.domain/barcodetypes/dot_code/
 is_root: false
-weight: 270
+weight: 3230
 ---
 
-## DOT_CODE property
 
+## DOT_CODE field
 
 DotCode Barcode Type object.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`BarcodeType`](/signature/python-net/groupdocs.signature.domain/barcodetype)
-* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes)
+* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes/)

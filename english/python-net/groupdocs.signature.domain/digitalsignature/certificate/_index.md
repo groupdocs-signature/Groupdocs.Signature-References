@@ -1,17 +1,18 @@
-﻿---
+---
 title: certificate property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The X509 certificate associated with the digital signature."
 type: docs
 url: /python-net/groupdocs.signature.domain/digitalsignature/certificate/
 is_root: false
-weight: 50
+weight: 2010
 ---
+
 
 ## certificate property
 
+The X509 certificate associated with the digital signature.
 
-Gets or sets the X509 certificate.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def certificate(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`DigitalSignature`](/signature/python-net/groupdocs.signature.domain/digitalsignature)
+* class [`DigitalSignature`](/signature/python-net/groupdocs.signature.domain/digitalsignature/)

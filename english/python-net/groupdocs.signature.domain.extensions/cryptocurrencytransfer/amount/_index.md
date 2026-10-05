@@ -1,17 +1,18 @@
-﻿---
+---
 title: amount property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The transfer amount."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/cryptocurrencytransfer/amount/
 is_root: false
-weight: 40
+weight: 2020
 ---
+
 
 ## amount property
 
+The transfer amount.
 
-Gets or sets transfer amount.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def amount(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`CryptoCurrencyTransfer`](/signature/python-net/groupdocs.signature.domain.extensions/cryptocurrencytransfer)
+* class [`CryptoCurrencyTransfer`](/signature/python-net/groupdocs.signature.domain.extensions/cryptocurrencytransfer/)

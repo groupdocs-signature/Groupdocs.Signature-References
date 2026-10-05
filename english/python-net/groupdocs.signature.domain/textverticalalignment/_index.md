@@ -1,29 +1,24 @@
-﻿---
-title: TextVerticalAlignment enumeration
+---
+title: TextVerticalAlignment class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "TextVerticalAlignment enum — GroupDocs.Signature for Python via .NET API reference."
 type: docs
 url: /python-net/groupdocs.signature.domain/textverticalalignment/
 is_root: false
-weight: 820
+weight: 790
 ---
 
-## TextVerticalAlignment enumeration
 
-Specifies text vertical alignment inside a signature.
-
-
+## TextVerticalAlignment class
 
 The TextVerticalAlignment type exposes the following members:
 
 ### Fields
 | Field | Description |
 | :- | :- |
-| TOP | Specifies that the text is top aligned to the vertical alignment base. |
-| CENTER | Specifies that the text is centered to the vertical alignment base. |
-| BOTTOM | Specifies that the text is bottom aligned to the vertical alignment base. |
-
-
+| [TOP](/signature/python-net/groupdocs.signature.domain/textverticalalignment/top/) | Specifies that the text is top aligned to the vertical alignment base. |
+| [CENTER](/signature/python-net/groupdocs.signature.domain/textverticalalignment/center/) | Specifies that the text is centered to the vertical alignment base. |
+| [BOTTOM](/signature/python-net/groupdocs.signature.domain/textverticalalignment/bottom/) | Specifies that the text is bottom aligned to the vertical alignment base. |
 
 ### See Also
-* module [`groupdocs.signature.domain`](..)
+* module [`groupdocs.signature.domain`](/signature/python-net/groupdocs.signature.domain/)

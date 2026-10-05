@@ -1,17 +1,18 @@
-﻿---
+---
 title: fore_color property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The fore color of the signature."
 type: docs
 url: /python-net/groupdocs.signature.options/textsignoptions/fore_color/
 is_root: false
-weight: 100
+weight: 2040
 ---
+
 
 ## fore_color property
 
+The fore color of the signature.
 
-Gets or sets the fore color of signature.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def fore_color(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`TextSignOptions`](/signature/python-net/groupdocs.signature.options/textsignoptions)
+* class [`TextSignOptions`](/signature/python-net/groupdocs.signature.options/textsignoptions/)

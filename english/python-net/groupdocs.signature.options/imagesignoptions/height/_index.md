@@ -1,18 +1,18 @@
-﻿---
+---
 title: height property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The height of the signature on the document page in measure values (pixels, percents, or millimeters; see MeasureType SizeMeasureType)."
 type: docs
 url: /python-net/groupdocs.signature.options/imagesignoptions/height/
 is_root: false
-weight: 100
+weight: 2020
 ---
+
 
 ## height property
 
+The height of the signature on the document page in measure values (pixels, percents, or millimeters; see `MeasureType` SizeMeasureType).
 
-Height of Signature on Document Page in Measure values 
-(pixels, percents or millimeters see [`MeasureType`](/signature/python-net/groupdocs.signature.domain/measuretype) SizeMeasureType).
 ### Definition:
 ```python
 @property
@@ -24,6 +24,4 @@ def height(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`ImageSignOptions`](/signature/python-net/groupdocs.signature.options/imagesignoptions)
-* class [`MeasureType`](/signature/python-net/groupdocs.signature.domain/measuretype)
+* class [`ImageSignOptions`](/signature/python-net/groupdocs.signature.options/imagesignoptions/)

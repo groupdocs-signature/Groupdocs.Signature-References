@@ -1,17 +1,18 @@
-﻿---
+---
 title: title property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The title displayed in the title bar of the annotation object."
 type: docs
 url: /python-net/groupdocs.signature.options.appearances/pdftextannotationappearance/title/
 is_root: false
-weight: 90
+weight: 2070
 ---
+
 
 ## title property
 
+The title displayed in the title bar of the annotation object.
 
-Gets or sets a Title that will be displayed in title bar of annotation object.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def title(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options.appearances`](../../)
-* class [`PdfTextAnnotationAppearance`](/signature/python-net/groupdocs.signature.options.appearances/pdftextannotationappearance)
+* class [`PdfTextAnnotationAppearance`](/signature/python-net/groupdocs.signature.options.appearances/pdftextannotationappearance/)

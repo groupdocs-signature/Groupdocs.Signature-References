@@ -1,21 +1,20 @@
-﻿---
+---
 title: return_content_type property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The file type of the returned image content when the returncontent property is enabled."
 type: docs
 url: /python-net/groupdocs.signature.options/imagesearchoptions/return_content_type/
 is_root: false
-weight: 90
+weight: 2040
 ---
+
 
 ## return_content_type property
 
+The file type of the returned image content when the `return_content` property is enabled.
 
-Specifies file type of returned content of the image signature when ReturnContent property is enabled.
-By default it set to Null. That means to return image content in original format. 
-This image format is specified at [`ImageSignature.format`](/signature/python-net/groupdocs.signature.domain/imagesignature#format)
-Possible supported values are: FileType.JPEG, FileType.PNG, FileType.BMP. 
-If provided format is not supported than image content in original format will be returned.
+If not set (default `None`), the image content is returned in its original format as defined by [`ImageSignature.Format`](/signature/python-net/groupdocs.signature.domain/imagesignature/format/). Supported values are [`FileType.JPEG`](/signature/python-net/groupdocs.signature.domain/filetype/jpeg/), [`FileType.PNG`](/signature/python-net/groupdocs.signature.domain/filetype/png/), and [`FileType.BMP`](/signature/python-net/groupdocs.signature.domain/filetype/bmp/). If an unsupported format is provided, the original format is returned.
+
 ### Definition:
 ```python
 @property
@@ -27,6 +26,4 @@ def return_content_type(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype)
-* class [`ImageSearchOptions`](/signature/python-net/groupdocs.signature.options/imagesearchoptions)
+* class [`ImageSearchOptions`](/signature/python-net/groupdocs.signature.options/imagesearchoptions/)

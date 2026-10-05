@@ -1,17 +1,18 @@
-﻿---
+---
 title: bill_information property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The additional structured bill information."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/swissqr/bill_information/
 is_root: false
-weight: 50
+weight: 2030
 ---
+
 
 ## bill_information property
 
+The additional structured bill information. The structured bill information.
 
-Gets or sets the additional structured bill information.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def bill_information(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`SwissQR`](/signature/python-net/groupdocs.signature.domain.extensions/swissqr)
+* class [`SwissQR`](/signature/python-net/groupdocs.signature.domain.extensions/swissqr/)

@@ -1,18 +1,18 @@
-﻿---
+---
 title: image_file_path property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The texture image file path, used only if ImageStream is not specified."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/texturebrush/image_file_path/
 is_root: false
-weight: 30
+weight: 2010
 ---
+
 
 ## image_file_path property
 
+The texture image file path, used only if `ImageStream` is not specified.
 
-Gets or sets the texture image file path.
-This property is used only if ImageStream is not specified.
 ### Definition:
 ```python
 @property
@@ -24,5 +24,4 @@ def image_file_path(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`TextureBrush`](/signature/python-net/groupdocs.signature.domain.extensions/texturebrush)
+* class [`TextureBrush`](/signature/python-net/groupdocs.signature.domain.extensions/texturebrush/)

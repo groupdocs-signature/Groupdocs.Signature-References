@@ -1,19 +1,17 @@
-﻿---
-title: HIBCPAS_AZTEC property
+---
+title: HIBCPAS_AZTEC field
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "HIBC PAS Aztec QR-Code Type object."
 type: docs
 url: /python-net/groupdocs.signature.domain/qrcodetypes/hibcpas_aztec/
 is_root: false
-weight: 150
+weight: 3120
 ---
 
-## HIBCPAS_AZTEC property
 
+## HIBCPAS_AZTEC field
 
 HIBC PAS Aztec QR-Code Type object.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`QrCodeType`](/signature/python-net/groupdocs.signature.domain/qrcodetype)
-* class [`QrCodeTypes`](/signature/python-net/groupdocs.signature.domain/qrcodetypes)
+* class [`QrCodeTypes`](/signature/python-net/groupdocs.signature.domain/qrcodetypes/)

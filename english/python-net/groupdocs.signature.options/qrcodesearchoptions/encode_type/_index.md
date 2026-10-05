@@ -1,18 +1,20 @@
-﻿---
+---
 title: encode_type property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The encode type to search for QR codes."
 type: docs
 url: /python-net/groupdocs.signature.options/qrcodesearchoptions/encode_type/
 is_root: false
-weight: 50
+weight: 2020
 ---
+
 
 ## encode_type property
 
+The encode type to search for QR codes.
 
-Specifies Encode Type property to search QR-Codes.
-If this value is not set, search is processed for all supported QR-Code Types.
+If this value is not set, the search processes all supported QR code types.
+
 ### Definition:
 ```python
 @property
@@ -24,6 +26,4 @@ def encode_type(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`QrCodeSearchOptions`](/signature/python-net/groupdocs.signature.options/qrcodesearchoptions)
-* class [`QrCodeType`](/signature/python-net/groupdocs.signature.domain/qrcodetype)
+* class [`QrCodeSearchOptions`](/signature/python-net/groupdocs.signature.options/qrcodesearchoptions/)

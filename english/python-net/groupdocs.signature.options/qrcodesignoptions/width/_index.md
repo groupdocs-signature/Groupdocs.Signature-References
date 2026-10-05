@@ -1,20 +1,27 @@
-﻿---
+---
 title: width property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The width of the signature area on the document page in measure values (pixels, percent, or millimeters as defined by MeasureType)."
 type: docs
 url: /python-net/groupdocs.signature.options/qrcodesignoptions/width/
 is_root: false
-weight: 460
+weight: 2230
 ---
+
 
 ## width property
 
+The width of the signature area on the document page in measure values (pixels, percent, or millimeters as defined by `MeasureType`).
 
-Width of Signature on Document Page in Measure values 
-(pixels, percents or millimeters see [`MeasureType`](/signature/python-net/groupdocs.signature.domain/measuretype) SizeMeasureType property).
+### Definition:
+```python
+@property
+def width(self):
+    ...
+@width.setter
+def width(self, value):
+    ...
+```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`MeasureType`](/signature/python-net/groupdocs.signature.domain/measuretype)
-* class [`QrCodeSignOptions`](/signature/python-net/groupdocs.signature.options/qrcodesignoptions)
+* class [`QrCodeSignOptions`](/signature/python-net/groupdocs.signature.options/qrcodesignoptions/)

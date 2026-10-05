@@ -1,19 +1,18 @@
-﻿---
+---
 title: brush property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The background brush, which defaults to None and expects an instance of a Brush implementation."
 type: docs
 url: /python-net/groupdocs.signature.domain/background/brush/
 is_root: false
-weight: 40
+weight: 2010
 ---
+
 
 ## brush property
 
+The background brush, which defaults to None and expects an instance of a Brush implementation.
 
-Gets or sets the background brush. Value by default is null. 
-This property expects instance of Brush objects implementations
-See different Brush classes
 ### Definition:
 ```python
 @property
@@ -25,6 +24,4 @@ def brush(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`Background`](/signature/python-net/groupdocs.signature.domain/background)
-* class [`Brush`](/signature/python-net/groupdocs.signature.domain.extensions/brush)
+* class [`Background`](/signature/python-net/groupdocs.signature.domain/background/)

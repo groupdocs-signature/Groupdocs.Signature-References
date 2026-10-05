@@ -1,28 +1,20 @@
-﻿---
-title: Background constructor
+---
+title: __init__ constructor
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Constructor for the Background class — GroupDocs.Signature for Python via .NET."
 type: docs
 url: /python-net/groupdocs.signature.domain/background/__init__/
 is_root: false
 weight: 10
 ---
 
-## __init__ {#}
 
-Constructs a new instance of Background
-
-
+## __init__
 
 ```python
 def __init__(self):
     ...
 ```
 
-
-
-
-
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`Background`](/signature/python-net/groupdocs.signature.domain/background)
+* class [`Background`](/signature/python-net/groupdocs.signature.domain/background/)

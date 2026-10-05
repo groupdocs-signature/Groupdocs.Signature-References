@@ -1,17 +1,18 @@
-﻿---
+---
 title: is_palette_sorted property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The value indicating whether palette entries are sorted."
 type: docs
 url: /python-net/groupdocs.signature.options/gifsaveoptions/is_palette_sorted/
 is_root: false
-weight: 100
+weight: 2060
 ---
+
 
 ## is_palette_sorted property
 
+The value indicating whether palette entries are sorted.
 
-Gets or sets a value indicating whether palette entries are sorted.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def is_palette_sorted(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`GifSaveOptions`](/signature/python-net/groupdocs.signature.options/gifsaveoptions)
+* class [`GifSaveOptions`](/signature/python-net/groupdocs.signature.options/gifsaveoptions/)

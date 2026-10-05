@@ -1,37 +1,28 @@
-﻿---
+---
 title: parse method
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Returns the stamp type matching the specified parsing type name."
 type: docs
 url: /python-net/groupdocs.signature.domain/stamptypes/parse/
 is_root: false
-weight: 20
+weight: 1010
 ---
 
-## parse {#System.String}
 
-Returns stamp type with pasringType name. When name of stamp is unknown - exception is thrown.
+## parse {#parsing_type}
 
-
-### Returns 
-
-
-StampType instance.
-
+Returns the stamp type matching the specified parsing type name.
 
 ```python
-def parse(self, parsing_type):
+def parse(cls, parsing_type):
     ...
 ```
 
-
 | Parameter | Type | Description |
 | :- | :- | :- |
-| parsing_type | System.String | Source string of stamp type name. |
+| parsing_type | `str` | Source string of stamp type name. |
 
-
+**Returns:** StampType: StampType instance.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`StampType`](/signature/python-net/groupdocs.signature.domain/stamptype)
-* class [`StampTypes`](/signature/python-net/groupdocs.signature.domain/stamptypes)
+* class [`StampTypes`](/signature/python-net/groupdocs.signature.domain/stamptypes/)

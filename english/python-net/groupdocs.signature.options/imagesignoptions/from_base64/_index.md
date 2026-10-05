@@ -1,36 +1,28 @@
-﻿---
+---
 title: from_base64 method
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Creates a new ImageSignOptions instance with a predefined image from a Base64 string."
 type: docs
 url: /python-net/groupdocs.signature.options/imagesignoptions/from_base64/
 is_root: false
-weight: 20
+weight: 1020
 ---
 
-## from_base64 {#System.String}
 
-Creates a new instance of the ImageSignOptions class with predefined Image from Base64.
+## from_base64 {#base_64_content}
 
-
-### Returns 
-
-
-
-
+Creates a new ImageSignOptions instance with a predefined image from a Base64 string.
 
 ```python
-def from_base64(self, base_64_content):
+def from_base64(cls, base_64_content):
     ...
 ```
 
-
 | Parameter | Type | Description |
 | :- | :- | :- |
-| base_64_content | System.String | Image content in Base64 string format |
+| base_64_content | `str` |  |
 
-
+**Returns:** ImageSignOptions: The configured ImageSignOptions instance.
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`ImageSignOptions`](/signature/python-net/groupdocs.signature.options/imagesignoptions)
+* class [`ImageSignOptions`](/signature/python-net/groupdocs.signature.options/imagesignoptions/)

@@ -1,17 +1,20 @@
-﻿---
+---
 title: xmp_entries property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The XMP data for DICOM."
 type: docs
 url: /python-net/groupdocs.signature.options/dicomsaveoptions/xmp_entries/
 is_root: false
-weight: 80
+weight: 2010
 ---
+
 
 ## xmp_entries property
 
+The XMP data for DICOM.
 
-XMP data for DICOM. Use it for setting image metadata.
+Use it for setting image metadata.
+
 ### Definition:
 ```python
 @property
@@ -23,5 +26,4 @@ def xmp_entries(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`DicomSaveOptions`](/signature/python-net/groupdocs.signature.options/dicomsaveoptions)
+* class [`DicomSaveOptions`](/signature/python-net/groupdocs.signature.options/dicomsaveoptions/)

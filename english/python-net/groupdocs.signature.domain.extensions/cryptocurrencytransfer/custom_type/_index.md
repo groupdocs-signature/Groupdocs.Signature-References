@@ -1,17 +1,18 @@
-﻿---
+---
 title: custom_type property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The optional transfer message."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/cryptocurrencytransfer/custom_type/
 is_root: false
-weight: 50
+weight: 2030
 ---
+
 
 ## custom_type property
 
+The optional transfer message.
 
-Gets or sets optional transfer message.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def custom_type(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`CryptoCurrencyTransfer`](/signature/python-net/groupdocs.signature.domain.extensions/cryptocurrencytransfer)
+* class [`CryptoCurrencyTransfer`](/signature/python-net/groupdocs.signature.domain.extensions/cryptocurrencytransfer/)

@@ -1,42 +1,45 @@
-﻿---
+---
 title: from_extension method
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Maps file extension to file type."
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/from_extension/
 is_root: false
-weight: 30
+weight: 1040
 ---
 
-## from_extension {#System.String}
+
+## from_extension {#extension}
 
 Maps file extension to file type.
 
-
-### Returns 
-
-
-When file type is supported returns it, otherwise returns default [`FileType.Unknown`](/signature/python-net/groupdocs.signature.domain/filetype) file type.
-
-
 ```python
-def from_extension(self, extension):
+def from_extension(cls, extension):
     ...
 ```
 
-
 | Parameter | Type | Description |
 | :- | :- | :- |
-| extension | System.String | File extension (including the period "."). |
-### Exceptions
-| Exception | Description |
+| extension | `str` | File extension (including the period "."). |
+
+**Returns:** FileType: When file type is supported returns it, otherwise returns default `FileType.unknown` file type.
+
+| Raises | Description |
 | :- | :- |
-| ArgumentException | Thrown when `extension` is null or empty string. |
+| `ValueError` | Raised when `extension` is null or empty string. |
 
+### Example
 
+```python
+import os
+from groupdocs.signature.domain import FileType
 
-
+extension = os.path.splitext("contract.pdf")[1]
+if FileType.from_extension(extension) == FileType.UNKNOWN:
+    print(f"{extension} files are not supported")
+else:
+    print(f"{extension} files are supported")
+```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype)
+* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype/)

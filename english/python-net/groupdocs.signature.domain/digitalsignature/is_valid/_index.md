@@ -1,17 +1,18 @@
-﻿---
+---
 title: is_valid property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The digital signature is valid and the document has not been tampered with."
 type: docs
 url: /python-net/groupdocs.signature.domain/digitalsignature/is_valid/
 is_root: false
-weight: 120
+weight: 2060
 ---
+
 
 ## is_valid property
 
+The digital signature is valid and the document has not been tampered with.
 
-Keeps true if this digital signature is valid and the document has not been tampered with.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def is_valid(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`DigitalSignature`](/signature/python-net/groupdocs.signature.domain/digitalsignature)
+* class [`DigitalSignature`](/signature/python-net/groupdocs.signature.domain/digitalsignature/)

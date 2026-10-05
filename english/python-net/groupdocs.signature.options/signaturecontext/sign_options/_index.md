@@ -1,17 +1,18 @@
-﻿---
+---
 title: sign_options property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The options used for signing a document."
 type: docs
 url: /python-net/groupdocs.signature.options/signaturecontext/sign_options/
 is_root: false
-weight: 30
+weight: 2010
 ---
+
 
 ## sign_options property
 
+The options used for signing a document.
 
-Gets or sets the options used for signing a document.
 ### Definition:
 ```python
 @property
@@ -23,6 +24,4 @@ def sign_options(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions)
-* class [`SignatureContext`](/signature/python-net/groupdocs.signature.options/signaturecontext)
+* class [`SignatureContext`](/signature/python-net/groupdocs.signature.options/signaturecontext/)

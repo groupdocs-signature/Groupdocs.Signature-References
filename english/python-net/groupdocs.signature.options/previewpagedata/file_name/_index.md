@@ -1,18 +1,20 @@
-﻿---
+---
 title: file_name property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The name of a file which is being processed in order to get page previews."
 type: docs
 url: /python-net/groupdocs.signature.options/previewpagedata/file_name/
 is_root: false
-weight: 30
+weight: 2010
 ---
+
 
 ## file_name property
 
+The name of a file which is being processed in order to get page previews.
 
-Name of a file which is being processed in order to get page previews.
 In case of nameless stream processing it equals 'fromstream'.
+
 ### Definition:
 ```python
 @property
@@ -21,5 +23,4 @@ def file_name(self):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`PreviewPageData`](/signature/python-net/groupdocs.signature.options/previewpagedata)
+* class [`PreviewPageData`](/signature/python-net/groupdocs.signature.options/previewpagedata/)

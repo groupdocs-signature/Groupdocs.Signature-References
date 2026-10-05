@@ -1,0 +1,162 @@
+---
+title: eSign Document with Multiple Signatures
+linkTitle: "✍️ Multiple Types eSign"
+second_title: GroupDocs.Signature for Python via .NET API References
+description: "This article explains how to sign a document with multiple signatures of various types by GroupDocs.Signature for Python via .NET API"
+type: docs
+url: /python-net/guides/esign-document-with-multiple-signatures/
+is_root: false
+weight: 80
+---
+
+
+[**GroupDocs.Signature for Python via .NET**](https://products.groupdocs.com/signature/python-net) allows signing a document with several signatures simultaneously and even apply signatures of different types to the same document.
+
+Doing this is as simple as:
+
+* Create a new instance of the [Signature](https://reference.groupdocs.com/signature/python-net/groupdocs.signature/signature) class and pass the source document path or stream as a constructor parameter.
+* Instantiate all required sign options objects depending on signature type:
+    * [BarcodeSignOptions](https://reference.groupdocs.com/signature/python-net/groupdocs.signature.options/barcodesignoptions) - for Barcode signatures;
+    * [DigitalSignOptions](https://reference.groupdocs.com/signature/python-net/groupdocs.signature.options/digitalsignoptions/) - for Digital signatures;
+    * [FormFieldSignOptions](https://reference.groupdocs.com/signature/python-net/groupdocs.signature.options/formfieldsignoptions) - for Form-field signatures;
+    * [ImageSignOptions](https://reference.groupdocs.com/signature/python-net/groupdocs.signature.options/imagesignoptions) - for Image signatures;
+    * [MetadataSignOptions](https://reference.groupdocs.com/signature/python-net/groupdocs.signature.options/metadatasignoptions) - for Metadata signatures;
+    * [QrCodeSignOptions](https://reference.groupdocs.com/signature/python-net/groupdocs.signature.options/qrcodesignoptions) - for QR-code signatures
+    * [StampSignOptions](https://reference.groupdocs.com/signature/python-net/groupdocs.signature.options/stampsignoptions) - for Stamp signatures;
+    * [TextSignOptions](https://reference.groupdocs.com/signature/python-net/groupdocs.signature.options/textsignoptions) - for Text signatures.
+* Fill the collection with sign options from the previous step.  
+* Call the [Sign](https://reference.groupdocs.com/signature/python-net/groupdocs.signature/signature/sign/) method of the [Signature](https://reference.groupdocs.com/signature/python-net/groupdocs.signature/signature) class instance and pass the collection of sign options to it.
+
+This code snippet below demonstrates how to eSign a PDF document with multiple signatures at the same time using Python:
+
+{{< tabs "example-1" >}}
+{{< tab "Python" >}}
+
+```python
+import groupdocs.signature as signature
+from groupdocs.signature.options import TextSignOptions, BarcodeSignOptions, QrCodeSignOptions, DigitalSignOptions
+from groupdocs.signature.domain import BarcodeTypes, QrCodeTypes
+import groupdocs.signature.domain as gsd
+import sys 
+import os
+
+def run():
+    with signature.Signature("./sample.pdf") as sign:
+        # Define text signature options
+        text_options = TextSignOptions("This is test message")
+        text_options.vertical_alignment = gsd.VerticalAlignment.TOP
+        text_options.horizontal_alignment = gsd.HorizontalAlignment.LEFT
+        
+        # Define barcode signature options
+        barcode_options = BarcodeSignOptions("123456")
+        barcode_options.encode_type = BarcodeTypes.CODE_128
+        barcode_options.left = 100
+        barcode_options.top = 100
+        
+        # Define QR code signature options
+        qrcode_options = QrCodeSignOptions("JohnSmith")
+        qrcode_options.encode_type = QrCodeTypes.QR
+        qrcode_options.left = 100
+        qrcode_options.top = 200
+        
+        # Define digital signature options
+        digital_options = DigitalSignOptions("./certificate.pfx")
+        digital_options.image_file_path = "./signature.jpg"
+        digital_options.vertical_alignment = gsd.VerticalAlignment.CENTER
+        digital_options.horizontal_alignment = gsd.HorizontalAlignment.CENTER
+        digital_options.password = "1234567890"
+        
+        # Define list of signature options
+        list_options = [text_options, barcode_options, qrcode_options, digital_options]
+        
+        # Sign document
+        sign.sign("./signed.pdf", list_options)
+```
+
+{{< /tab >}}
+{{< tab "sample.pdf" >}}
+
+The following sample file is used in this example: [sample.pdf](https://docs.groupdocs.com/signature/python-net/_sample_files/developer-guide/basic-usage/electronic-signature-types/esign-document-with-multiple-signatures/sample.pdf)
+
+{{< /tab >}}
+{{< tab "signature.jpg" >}}
+
+The following sample file is used in this example: [signature.jpg](https://docs.groupdocs.com/signature/python-net/_sample_files/developer-guide/basic-usage/electronic-signature-types/esign-document-with-multiple-signatures/signature.jpg)
+
+{{< /tab >}}
+{{< /tabs >}}
+
+### Advanced Multiple Signatures Example
+
+Here's a more advanced example showing how to add multiple signatures with different styles and positions:
+
+{{< tabs "example-2" >}}
+{{< tab "Python" >}}
+
+```python
+import groupdocs.signature as signature
+from groupdocs.signature.options import TextSignOptions, ImageSignOptions, QrCodeSignOptions
+from groupdocs.signature.domain import QrCodeTypes
+import groupdocs.signature.domain as gsd
+import sys 
+import os
+
+def run():
+    with signature.Signature("./sample.pdf") as sign:
+        # Create text signature options
+        text_options = TextSignOptions("Approved by John Smith")
+        text_options.font = gsd.SignatureFont()
+        text_options.font.bold = True 
+        text_options.font.size = 20.0
+        text_options.font.family_name = "Arial"
+        text_options.vertical_alignment = gsd.VerticalAlignment.TOP
+        text_options.horizontal_alignment = gsd.HorizontalAlignment.RIGHT
+        text_options.margin = gsd.Padding(10, 10, 0, 0)
+        
+        # Create image signature options
+        image_options = ImageSignOptions("./stamp.png")
+        image_options.width = 200
+        image_options.height = 100
+        image_options.vertical_alignment = gsd.VerticalAlignment.BOTTOM
+        image_options.horizontal_alignment = gsd.HorizontalAlignment.LEFT
+        image_options.margin = gsd.Padding(0, 0, 10, 10)
+        
+        # Create QR code signature options
+        qrcode_options = QrCodeSignOptions("https://www.example.com/verify")
+        qrcode_options.encode_type = QrCodeTypes.QR
+        qrcode_options.width = 100
+        qrcode_options.height = 100
+        qrcode_options.vertical_alignment = gsd.VerticalAlignment.CENTER
+        qrcode_options.horizontal_alignment = gsd.HorizontalAlignment.CENTER
+        
+        # Define list of signature options
+        list_options = [text_options, image_options, qrcode_options]
+        
+        # Sign document
+        sign.sign("./signed.pdf", list_options)
+```
+
+{{< /tab >}}
+{{< tab "sample.pdf" >}}
+
+The following sample file is used in this example: [sample.pdf](https://docs.groupdocs.com/signature/python-net/_sample_files/developer-guide/basic-usage/electronic-signature-types/esign-document-with-multiple-signatures/sample.pdf)
+
+{{< /tab >}}
+{{< /tabs >}}
+
+### Summary
+This guide demonstrates how to apply multiple types of electronic signatures (e.g., text, barcode, image) to a document using [**GroupDocs.Signature for Python via .NET**](https://products.groupdocs.com/signature/python-net). It explains how to combine different signature types, configure each one, and save the signed document with multiple signature styles.
+
+## More Resources
+
+### GitHub Examples
+
+You may easily run the code above and see the feature in action in our GitHub examples:
+
+* [GroupDocs.Signature for Python via .NET examples](https://github.com/groupdocs-signature/GroupDocs.Signature-for-Python-via-.NET)
+
+### Free Online Apps
+
+Along with the full-featured Python library, we provide simple but powerful free online apps.
+
+To sign PDF, Word, Excel, PowerPoint, and other documents you can use the online apps from the **[GroupDocs.Signature App Product Family](https://products.groupdocs.app/signature/family)**.

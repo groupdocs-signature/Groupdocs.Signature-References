@@ -1,17 +1,18 @@
-﻿---
+---
 title: odd_pages property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The flag indicating whether to use odd pages of the document."
 type: docs
 url: /python-net/groupdocs.signature.options/pagessetup/odd_pages/
 is_root: false
-weight: 60
+weight: 2040
 ---
+
 
 ## odd_pages property
 
+The flag indicating whether to use odd pages of the document.
 
-Gets or sets flag to use odd pages of document.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def odd_pages(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`PagesSetup`](/signature/python-net/groupdocs.signature.options/pagessetup)
+* class [`PagesSetup`](/signature/python-net/groupdocs.signature.options/pagessetup/)

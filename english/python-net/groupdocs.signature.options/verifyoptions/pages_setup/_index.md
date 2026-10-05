@@ -1,17 +1,18 @@
-﻿---
+---
 title: pages_setup property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The page options to specify pages to be verified."
 type: docs
 url: /python-net/groupdocs.signature.options/verifyoptions/pages_setup/
 is_root: false
-weight: 70
+weight: 2050
 ---
+
 
 ## pages_setup property
 
+The page options to specify pages to be verified.
 
-Page Options to specify pages to be verified.
 ### Definition:
 ```python
 @property
@@ -23,6 +24,4 @@ def pages_setup(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`PagesSetup`](/signature/python-net/groupdocs.signature.options/pagessetup)
-* class [`VerifyOptions`](/signature/python-net/groupdocs.signature.options/verifyoptions)
+* class [`VerifyOptions`](/signature/python-net/groupdocs.signature.options/verifyoptions/)

@@ -1,17 +1,18 @@
-﻿---
+---
 title: border property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The border settings."
 type: docs
 url: /python-net/groupdocs.signature.options/textsignoptions/border/
 is_root: false
-weight: 60
+weight: 2020
 ---
+
 
 ## border property
 
+The border settings.
 
-Specify border settings
 ### Definition:
 ```python
 @property
@@ -23,6 +24,4 @@ def border(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`Border`](/signature/python-net/groupdocs.signature.domain/border)
-* class [`TextSignOptions`](/signature/python-net/groupdocs.signature.options/textsignoptions)
+* class [`TextSignOptions`](/signature/python-net/groupdocs.signature.options/textsignoptions/)

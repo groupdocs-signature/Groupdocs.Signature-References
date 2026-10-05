@@ -1,17 +1,20 @@
-﻿---
+---
 title: succeeded property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The list of found signatures (BaseSignature)."
 type: docs
 url: /python-net/groupdocs.signature.domain/searchresult/succeeded/
 is_root: false
-weight: 80
+weight: 2060
 ---
+
 
 ## succeeded property
 
+The list of found signatures ([`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)).
 
-List of found signatures [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature). This list will be always equal to [`SearchResult.signatures`](/signature/python-net/groupdocs.signature.domain/searchresult#signatures) property.
+This list is always equal to the [`SearchResult.Signatures`](/signature/python-net/groupdocs.signature.domain/searchresult/signatures/) property.
+
 ### Definition:
 ```python
 @property
@@ -20,6 +23,4 @@ def succeeded(self):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature)
-* class [`SearchResult`](/signature/python-net/groupdocs.signature.domain/searchresult)
+* class [`SearchResult`](/signature/python-net/groupdocs.signature.domain/searchresult/)

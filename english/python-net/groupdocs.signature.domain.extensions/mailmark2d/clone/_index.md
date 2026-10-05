@@ -1,28 +1,24 @@
-﻿---
+---
 title: clone method
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Returns a copy of this object."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/mailmark2d/clone/
 is_root: false
-weight: 20
+weight: 1010
 ---
 
-## clone {#}
 
-Gets a copy of this object.
+## clone
 
-
+Returns a copy of this object.
 
 ```python
 def clone(self):
     ...
 ```
 
-
-
-
+**Returns:** Mailmark2D: A copy of this Mailmark2D object.
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`Mailmark2D`](/signature/python-net/groupdocs.signature.domain.extensions/mailmark2d)
+* class [`Mailmark2D`](/signature/python-net/groupdocs.signature.domain.extensions/mailmark2d/)

@@ -1,36 +1,28 @@
-﻿---
+---
 title: encode method
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Encodes a string."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/idataencryption/encode/
 is_root: false
-weight: 30
+weight: 1040
 ---
 
-## encode {#System.String}
 
-Encode method to encrypt string.
+## encode {#source}
 
-
-### Returns 
-
-
-Returns encrypted string
-
+Encodes a string.
 
 ```python
 def encode(self, source):
     ...
 ```
 
-
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source | System.String | Source string to encode. |
+| source | `str` | Source string to encode. |
 
-
+**Returns:** str: Encrypted string.
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`IDataEncryption`](/signature/python-net/groupdocs.signature.domain.extensions/idataencryption)
+* class [`IDataEncryption`](/signature/python-net/groupdocs.signature.domain.extensions/idataencryption/)

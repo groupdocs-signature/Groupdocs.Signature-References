@@ -1,17 +1,18 @@
-﻿---
+---
 title: interlaced property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The image is interlaced when set to True."
 type: docs
 url: /python-net/groupdocs.signature.options/gifsaveoptions/interlaced/
 is_root: false
-weight: 90
+weight: 2050
 ---
+
 
 ## interlaced property
 
+The image is interlaced when set to True.
 
-True if image should be interlaced.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def interlaced(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`GifSaveOptions`](/signature/python-net/groupdocs.signature.options/gifsaveoptions)
+* class [`GifSaveOptions`](/signature/python-net/groupdocs.signature.options/gifsaveoptions/)

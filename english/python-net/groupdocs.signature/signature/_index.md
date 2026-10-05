@@ -1,75 +1,110 @@
-﻿---
+---
 title: Signature class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Represents main class that controls document signing process."
 type: docs
 url: /python-net/groupdocs.signature/signature/
 is_root: false
-weight: 100
+weight: 130
 ---
+
 
 ## Signature class
 
 Represents main class that controls document signing process.
 
-
+Learn more about GroupDocs.Signature features:
+- https://docs.groupdocs.com/display/signaturenet/Developer+Guide
 
 The Signature type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature/signature/__init__/#io.RawIOBase) | Initializes new instance of [`Signature`](/signature/python-net/groupdocs.signature/signature) class with document provided by stream. |
-| [__init__](/signature/python-net/groupdocs.signature/signature/__init__/#io.RawIOBase-groupdocs.signature.options.LoadOptions) | Initializes new instance of [`Signature`](/signature/python-net/groupdocs.signature/signature) class with document provided by stream and load options [`Signature.LoadOptions`](/signature/python-net/groupdocs.signature/signature). |
-| [__init__](/signature/python-net/groupdocs.signature/signature/__init__/#io.RawIOBase-groupdocs.signature.SignatureSettings) | Initializes new instance of [`Signature`](/signature/python-net/groupdocs.signature/signature) class instance with document provided by stream and [`SignatureSettings`](/signature/python-net/groupdocs.signature/signaturesettings). |
-| [__init__](/signature/python-net/groupdocs.signature/signature/__init__/#io.RawIOBase-groupdocs.signature.options.LoadOptions-groupdocs.signature.SignatureSettings) | Initializes new instance of [`Signature`](/signature/python-net/groupdocs.signature/signature) class instance with document provided by stream, load options [`Signature.LoadOptions`](/signature/python-net/groupdocs.signature/signature) and settings [`SignatureSettings`](/signature/python-net/groupdocs.signature/signaturesettings). |
-| [__init__](/signature/python-net/groupdocs.signature/signature/__init__/#System.String) | Initializes new instance of [`Signature`](/signature/python-net/groupdocs.signature/signature) class instance with document provided by file path. |
-| [__init__](/signature/python-net/groupdocs.signature/signature/__init__/#System.String-groupdocs.signature.options.LoadOptions) | Initializes new instance of [`Signature`](/signature/python-net/groupdocs.signature/signature) class instance with document provided by file path and [`Signature.LoadOptions`](/signature/python-net/groupdocs.signature/signature). |
-| [__init__](/signature/python-net/groupdocs.signature/signature/__init__/#System.String-groupdocs.signature.SignatureSettings) | Initializes new instance of [`Signature`](/signature/python-net/groupdocs.signature/signature) class instance with document provided by file path and [`SignatureSettings`](/signature/python-net/groupdocs.signature/signaturesettings). |
-| [__init__](/signature/python-net/groupdocs.signature/signature/__init__/#System.String-groupdocs.signature.options.LoadOptions-groupdocs.signature.SignatureSettings) | Initializes new instance of [`Signature`](/signature/python-net/groupdocs.signature/signature) class instance with document provided by file path, [`Signature.LoadOptions`](/signature/python-net/groupdocs.signature/signature) and [`SignatureSettings`](/signature/python-net/groupdocs.signature/signaturesettings). |
-
+| [__init__](/signature/python-net/groupdocs.signature/signature/__init__/#document) | Initializes a new Signature instance with a document provided as a stream. |
+| [__init__](/signature/python-net/groupdocs.signature/signature/__init__/#document-load_options) | Initializes a new [`Signature`](/signature/python-net/groupdocs.signature/signature/) instance with a document stream and load options. |
+| [__init__](/signature/python-net/groupdocs.signature/signature/__init__/#document-settings) | Initializes a new [`Signature`](/signature/python-net/groupdocs.signature/signature/) instance with a document provided by a stream and optional [`SignatureSettings`](/signature/python-net/groupdocs.signature/signaturesettings/). |
+| [__init__](/signature/python-net/groupdocs.signature/signature/__init__/#document-load_options-settings) | Initializes a new instance of [`Signature`](/signature/python-net/groupdocs.signature/signature/) with a document stream, load options, and signature settings. |
+| [__init__](/signature/python-net/groupdocs.signature/signature/__init__/#file_path) | Initializes a new instance of [`Signature`](/signature/python-net/groupdocs.signature/signature/) with a document provided by file path. |
+| [__init__](/signature/python-net/groupdocs.signature/signature/__init__/#file_path-load_options) | Initializes a new Signature instance with the document provided by file path and load options. |
+| [__init__](/signature/python-net/groupdocs.signature/signature/__init__/#file_path-settings) | Initializes a new [`Signature`](/signature/python-net/groupdocs.signature/signature/) instance with the document provided by a file path and optional [`SignatureSettings`](/signature/python-net/groupdocs.signature/signaturesettings/). |
+| [__init__](/signature/python-net/groupdocs.signature/signature/__init__/#file_path-load_options-settings) | Initializes a new instance of [`Signature`](/signature/python-net/groupdocs.signature/signature/) with a document provided by file path, load options, and signature settings. |
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [sign](/signature/python-net/groupdocs.signature/signature/sign/#io.RawIOBase-groupdocs.signature.options.SignOptions) | Signs document with [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions) and saves result to a stream. |
-| [sign](/signature/python-net/groupdocs.signature/signature/sign/#io.RawIOBase-groupdocs.signature.options.SignOptions-groupdocs.signature.options.SaveOptions) | Signs document with [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions) and saves result to a stream with predefined [`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions). |
-| [sign](/signature/python-net/groupdocs.signature/signature/sign/#io.RawIOBase-System.Collections.Generic.List`1[[GroupDocs.Signature.Options.SignOptions]]) |  |
-| [sign](/signature/python-net/groupdocs.signature/signature/sign/#io.RawIOBase-System.Collections.Generic.List`1[[GroupDocs.Signature.Options.SignOptions]]-groupdocs.signature.options.SaveOptions) |  |
-| [sign](/signature/python-net/groupdocs.signature/signature/sign/#System.String-groupdocs.signature.options.SignOptions) | Signs document with [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions) and saves result to specified file path. |
-| [sign](/signature/python-net/groupdocs.signature/signature/sign/#System.String-groupdocs.signature.options.SignOptions-groupdocs.signature.options.SaveOptions) | Signs document with [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions) and saves result to specified file path with predefined [`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions). |
-| [sign](/signature/python-net/groupdocs.signature/signature/sign/#System.String-System.Collections.Generic.List`1[[GroupDocs.Signature.Options.SignOptions]]) |  |
-| [sign](/signature/python-net/groupdocs.signature/signature/sign/#System.String-System.Collections.Generic.List`1[[GroupDocs.Signature.Options.SignOptions]]-groupdocs.signature.options.SaveOptions) |  |
-| [verify](/signature/python-net/groupdocs.signature/signature/verify/#groupdocs.signature.options.VerifyOptions) | Verifies the document signatures with given VerifyOptions data. |
-| [verify](/signature/python-net/groupdocs.signature/signature/verify/#System.Collections.Generic.List`1[[GroupDocs.Signature.Options.VerifyOptions]]) |  |
-| [search](/signature/python-net/groupdocs.signature/signature/search/#System.Collections.Generic.List`1[[GroupDocs.Signature.Options.SearchOptions]]) |  |
-| [search](/signature/python-net/groupdocs.signature/signature/search/#list) | Searches for specified signature types in the document by [`SignatureType`](/signature/python-net/groupdocs.signature.domain/signaturetype) value. |
-| [update](/signature/python-net/groupdocs.signature/signature/update/#groupdocs.signature.domain.BaseSignature) | Updates passed signature [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature) in the document. |
-| [update](/signature/python-net/groupdocs.signature/signature/update/#System.Collections.Generic.List`1[[GroupDocs.Signature.Domain.BaseSignature]]) |  |
-| [delete](/signature/python-net/groupdocs.signature/signature/delete/#groupdocs.signature.domain.BaseSignature) | Deletes passed signature [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature) from the document. |
-| [delete](/signature/python-net/groupdocs.signature/signature/delete/#System.Collections.Generic.List`1[[GroupDocs.Signature.Domain.BaseSignature]]) |  |
-| [delete](/signature/python-net/groupdocs.signature/signature/delete/#groupdocs.signature.domain.SignatureType) | Deletes signatures of the certain type [`SignatureType`](/signature/python-net/groupdocs.signature.domain/signaturetype) from the document. Only signatures that were added by Sign method and marked as Signatures [`BaseSignature.is_signature`](/signature/python-net/groupdocs.signature.domain/basesignature#is_signature)  will be removed. Following signature types are supported: Text, Image, Digital, Barcode, QR-Code |
-| [delete](/signature/python-net/groupdocs.signature/signature/delete/#System.Collections.Generic.List`1[[GroupDocs.Signature.Domain.SignatureType]]) |  |
-| [delete](/signature/python-net/groupdocs.signature/signature/delete/#System.String) | Deletes signature by its specific signature Id from the document. |
-| [delete](/signature/python-net/groupdocs.signature/signature/delete/#System.Collections.Generic.List`1[[System.String]]) |  |
-| [get_document_info](/signature/python-net/groupdocs.signature/signature/get_document_info/#) | Gets information about document pages: their sizes, maximum page height, the width of a page with the maximum height. |
-| [generate_preview](/signature/python-net/groupdocs.signature/signature/generate_preview/#groupdocs.signature.options.PreviewOptions) | Generates document pages preview. |
-| [generate_signature_preview](/signature/python-net/groupdocs.signature/signature/generate_signature_preview/#groupdocs.signature.options.PreviewSignatureOptions) | Generates Signature preview based on given SignOptions. [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions) |
+| [delete](/signature/python-net/groupdocs.signature/signature/delete/#signature) | Deletes the specified [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/) from the document. |
+| [delete](/signature/python-net/groupdocs.signature/signature/delete/#signatures) | Deletes the provided list of signatures from the document. |
+| [delete](/signature/python-net/groupdocs.signature/signature/delete/#signature_type) | Deletes signatures of the specified type from the document. |
+| [delete](/signature/python-net/groupdocs.signature/signature/delete/#signature_types) | Deletes signatures of the specified `SignatureType` list from the document. |
+| [delete](/signature/python-net/groupdocs.signature/signature/delete/#signature_id) | Deletes a signature by its specific signature Id from the document. |
+| [delete](/signature/python-net/groupdocs.signature/signature/delete/#signature_ids) | Deletes the specified signatures from the document. |
+| [delete_base_signature](/signature/python-net/groupdocs.signature/signature/delete_base_signature/) |  |
+| [delete_file](/signature/python-net/groupdocs.signature/signature/delete_file/) |  |
+| [delete_files](/signature/python-net/groupdocs.signature/signature/delete_files/) |  |
+| [delete_list](/signature/python-net/groupdocs.signature/signature/delete_list/) |  |
+| [delete_signature_type](/signature/python-net/groupdocs.signature/signature/delete_signature_type/) |  |
+| [delete_string](/signature/python-net/groupdocs.signature/signature/delete_string/) |  |
+| [delete_strings](/signature/python-net/groupdocs.signature/signature/delete_strings/) |  |
+| [dispose](/signature/python-net/groupdocs.signature/signature/dispose/) | Cleans up internal resources used by the signature object. |
+| [generate_preview](/signature/python-net/groupdocs.signature/signature/generate_preview/#preview_options) | Generates document pages preview. |
+| [generate_preview_preview_options](/signature/python-net/groupdocs.signature/signature/generate_preview_preview_options/) |  |
+| [generate_signature_preview](/signature/python-net/groupdocs.signature/signature/generate_signature_preview/#preview_options) | Generates a signature preview based on the given SignOptions. |
+| [get_document_info](/signature/python-net/groupdocs.signature/signature/get_document_info/) | Gets information about document pages: their sizes, maximum page height, the width of a page with the maximum height. |
+| [search](/signature/python-net/groupdocs.signature/signature/search/#search_options_list) | Searches for signatures in a document using a list of [`SearchOptions`](/signature/python-net/groupdocs.signature.options/searchoptions/). |
+| [search](/signature/python-net/groupdocs.signature/signature/search/#search_options_list-predicate) | Searches for signatures in the document using the provided search options and filters the results based on the specified predicate. |
+| [search](/signature/python-net/groupdocs.signature/signature/search/#search_options) |  |
+| [search](/signature/python-net/groupdocs.signature/signature/search/#signature_type) |  |
+| [search](/signature/python-net/groupdocs.signature/signature/search/#signature_types) | Searches for specified signature types in the document by `SignatureType` value. |
+| [search](/signature/python-net/groupdocs.signature/signature/search/#predicate) | Searches for signatures in the document using all available search options and filters the results based on the specified predicate. |
+| [search_func](/signature/python-net/groupdocs.signature/signature/search_func/) |  |
+| [search_list](/signature/python-net/groupdocs.signature/signature/search_list/) |  |
+| [search_search_options](/signature/python-net/groupdocs.signature/signature/search_search_options/) |  |
+| [search_signature_type](/signature/python-net/groupdocs.signature/signature/search_signature_type/) |  |
+| [sign](/signature/python-net/groupdocs.signature/signature/sign/#document-sign_options) | Signs document with [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/) and saves result to a stream. |
+| [sign](/signature/python-net/groupdocs.signature/signature/sign/#document-sign_options-save_options) | Signs a document with [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/) and saves the result to a stream using predefined [`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions/). |
+| [sign](/signature/python-net/groupdocs.signature/signature/sign/#document-sign_options_list) | Signs document with a collection of [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/) and saves the result to a stream. |
+| [sign](/signature/python-net/groupdocs.signature/signature/sign/#document-sign_options_list-save_options) | Signs document with a collection of [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/) and saves the result to a stream using predefined [`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions/). |
+| [sign](/signature/python-net/groupdocs.signature/signature/sign/#file_path-sign_options) | Signs document with SignOptions and saves result to specified file path. |
+| [sign](/signature/python-net/groupdocs.signature/signature/sign/#file_path-sign_options-save_options) | Signs document with [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/) and saves result to specified file path with predefined [`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions/). |
+| [sign](/signature/python-net/groupdocs.signature/signature/sign/#file_path-sign_options_list) | Signs document with collection of [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/) and saves result to specified file path. |
+| [sign](/signature/python-net/groupdocs.signature/signature/sign/#file_path-sign_options_list-save_options) | Signs the document with a collection of [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/) and saves the result to the specified file path using predefined [`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions/). |
+| [sign_file](/signature/python-net/groupdocs.signature/signature/sign_file/) |  |
+| [sign_stream](/signature/python-net/groupdocs.signature/signature/sign_stream/) |  |
+| [sign_streams](/signature/python-net/groupdocs.signature/signature/sign_streams/) |  |
+| [sign_string](/signature/python-net/groupdocs.signature/signature/sign_string/) |  |
+| [update](/signature/python-net/groupdocs.signature/signature/update/#signature) | Updates passed signature BaseSignature in the document. |
+| [update](/signature/python-net/groupdocs.signature/signature/update/#signatures) | Updates passed signatures [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/) in the document. |
+| [update_base_signature](/signature/python-net/groupdocs.signature/signature/update_base_signature/) |  |
+| [update_list](/signature/python-net/groupdocs.signature/signature/update_list/) |  |
+| [verify](/signature/python-net/groupdocs.signature/signature/verify/#verify_options) | Verifies the document signatures with given VerifyOptions data. |
+| [verify](/signature/python-net/groupdocs.signature/signature/verify/#verify_options-predicate) | Verifies the document signatures using the provided verification options and filters the results based on the specified predicate. |
+| [verify](/signature/python-net/groupdocs.signature/signature/verify/#verify_options_list) | Verifies the document signatures with a list of VerifyOptions data. |
+| [verify](/signature/python-net/groupdocs.signature/signature/verify/#verify_options_list-predicate) | Verifies document signatures using the provided verification options and filters the results with the given predicate. |
+| [verify_list](/signature/python-net/groupdocs.signature/signature/verify_list/) |  |
+| [verify_verify_options](/signature/python-net/groupdocs.signature/signature/verify_verify_options/) |  |
 
+### Example
 
+```python
+from groupdocs.signature import Signature
+from groupdocs.signature.options import TextSignOptions
 
-### Remarks 
+def sign_pdf():
+    with Signature("sample.pdf") as signature:
+        options = TextSignOptions("John Smith")
+        options.left = 100
+        options.top = 100
+        result = signature.sign("signed_sample.pdf", options)
+        print(f"Signatures added: {len(result.succeeded)}")
+```
 
+### Guides
+Task guides that use `Signature`:
 
-**Learn more** |
-|
- |
+* [Installation](/signature/python-net/guides/installation/)
+* [Search for Barcode e-Signatures](/signature/python-net/guides/search-for-barcode-e-signatures/)
+* [Delete signatures of the certain type](/signature/python-net/guides/delete-signatures-of-the-certain-type/)
 
 ### See Also
-* module [`groupdocs.signature`](..)
-* class [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature)
-* class [`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions)
-* class [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions)
-* class [`Signature`](/signature/python-net/groupdocs.signature/signature)
-* class [`SignatureSettings`](/signature/python-net/groupdocs.signature/signaturesettings)
-* class [`SignatureType`](/signature/python-net/groupdocs.signature.domain/signaturetype)
+* module [`groupdocs.signature`](/signature/python-net/groupdocs.signature/)

@@ -1,17 +1,18 @@
-﻿---
+---
 title: height property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The height of the signature."
 type: docs
 url: /python-net/groupdocs.signature.domain/basesignature/height/
 is_root: false
-weight: 60
+weight: 2030
 ---
+
 
 ## height property
 
+The height of the signature.
 
-Specifies height of signature.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def height(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature)
+* class [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)

@@ -1,17 +1,18 @@
-﻿---
+---
 title: zip property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The address ZIP."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/address/zip/
 is_root: false
-weight: 70
+weight: 2050
 ---
+
 
 ## zip property
 
+The address ZIP.
 
-Gets or sets address ZIP.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def zip(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`Address`](/signature/python-net/groupdocs.signature.domain.extensions/address)
+* class [`Address`](/signature/python-net/groupdocs.signature.domain.extensions/address/)

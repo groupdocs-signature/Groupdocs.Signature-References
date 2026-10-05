@@ -1,17 +1,18 @@
-﻿---
+---
 title: items property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The list of radio button options."
 type: docs
 url: /python-net/groupdocs.signature.domain/radiobuttonformfieldsignature/items/
 is_root: false
-weight: 80
+weight: 2010
 ---
+
 
 ## items property
 
+The list of radio button options.
 
-Get or set Radio buttons options list.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def items(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`RadioButtonFormFieldSignature`](/signature/python-net/groupdocs.signature.domain/radiobuttonformfieldsignature)
+* class [`RadioButtonFormFieldSignature`](/signature/python-net/groupdocs.signature.domain/radiobuttonformfieldsignature/)

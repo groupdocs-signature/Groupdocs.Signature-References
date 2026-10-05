@@ -1,21 +1,22 @@
-﻿---
+---
 title: return_content_type property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The file type of the returned image content for a Barcode signature when the returncontent property is enabled."
 type: docs
 url: /python-net/groupdocs.signature.options/barcodesearchoptions/return_content_type/
 is_root: false
-weight: 90
+weight: 2040
 ---
+
 
 ## return_content_type property
 
+The file type of the returned image content for a Barcode signature when the `return_content` property is enabled.
 
-Specifies file type of returned image content of the Barcode signature when ReturnContent property is enabled.
-By default it set to Null. That means to return Barcode image content in original format. 
-This image format is specified at [`BarcodeSignature.format`](/signature/python-net/groupdocs.signature.domain/barcodesignature#format)
-Possible supported values are: FileType.JPEG, FileType.PNG, FileType.BMP. 
-If provided format is not supported than Barcode image content in .png format will be returned.
+By default it is None, which returns the barcode image in its original format as specified by [`BarcodeSignature.format`](/signature/python-net/groupdocs.signature.domain/barcodesignature/format/).
+
+Supported values are [`FileType.JPEG`](/signature/python-net/groupdocs.signature.domain/filetype/jpeg/), [`FileType.PNG`](/signature/python-net/groupdocs.signature.domain/filetype/png/), and [`FileType.BMP`](/signature/python-net/groupdocs.signature.domain/filetype/bmp/). If a value other than these is provided, the image will be returned in PNG format.
+
 ### Definition:
 ```python
 @property
@@ -27,6 +28,4 @@ def return_content_type(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`BarcodeSearchOptions`](/signature/python-net/groupdocs.signature.options/barcodesearchoptions)
-* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype)
+* class [`BarcodeSearchOptions`](/signature/python-net/groupdocs.signature.options/barcodesearchoptions/)

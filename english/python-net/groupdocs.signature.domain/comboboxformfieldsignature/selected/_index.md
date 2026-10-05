@@ -1,17 +1,18 @@
-﻿---
+---
 title: selected property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The selected value."
 type: docs
 url: /python-net/groupdocs.signature.domain/comboboxformfieldsignature/selected/
 is_root: false
-weight: 130
+weight: 2020
 ---
+
 
 ## selected property
 
+The selected value.
 
-Get or set selected value.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def selected(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`ComboboxFormFieldSignature`](/signature/python-net/groupdocs.signature.domain/comboboxformfieldsignature)
+* class [`ComboboxFormFieldSignature`](/signature/python-net/groupdocs.signature.domain/comboboxformfieldsignature/)

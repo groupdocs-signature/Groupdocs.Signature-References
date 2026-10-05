@@ -1,36 +1,44 @@
-﻿---
+---
 title: to_string method
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Converts the metadata signature value to a string using the overridden ToString method."
 type: docs
 url: /python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/to_string/
 is_root: false
-weight: 90
+weight: 1030
 ---
 
-## to_string {#System.String}
 
-Converts to String with specified format
+## to_string
 
+Converts the metadata signature value to a string using the overridden `ToString` method.
 
-### Returns 
-
-
-Returns the Metadata Signature value as String.
-
+Converts a boolean property into `True` or `False`. For other data types, the default data format provider is used.
 
 ```python
-def to_string(self, format):
+def to_string(self):
     ...
 ```
 
+**Returns:** str: The metadata signature value as a string.
+
+## to_string {#format-provider}
+
+Converts the metadata signature to a string using the specified format.
+
+Converts a boolean property into "True" or "False".
+
+```python
+def to_string(self, format, provider):
+    ...
+```
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| format | System.String | Data format string. |
+| format | `str` | Data format string. |
+| provider | `System.IFormatProvider` | Format data provider to use with data conversion operations. |
 
-
+**Returns:** str: The metadata signature value as a string.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`SpreadsheetMetadataSignature`](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature)
+* class [`SpreadsheetMetadataSignature`](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/)

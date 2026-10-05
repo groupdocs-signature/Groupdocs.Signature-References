@@ -1,17 +1,18 @@
-﻿---
+---
 title: comments property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The comments of the digital signature to validate."
 type: docs
 url: /python-net/groupdocs.signature.options/digitalverifyoptions/comments/
 is_root: false
-weight: 70
+weight: 2040
 ---
+
 
 ## comments property
 
+The comments of the digital signature to validate.
 
-Comments of Digital Signature to validate.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def comments(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`DigitalVerifyOptions`](/signature/python-net/groupdocs.signature.options/digitalverifyoptions)
+* class [`DigitalVerifyOptions`](/signature/python-net/groupdocs.signature.options/digitalverifyoptions/)

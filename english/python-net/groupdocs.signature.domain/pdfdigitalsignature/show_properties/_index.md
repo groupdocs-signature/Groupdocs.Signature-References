@@ -1,21 +1,18 @@
-﻿---
+---
 title: show_properties property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The flag that forces the signature properties to be shown or hidden; when true, the signature field uses a predefined appearance format (e.g., Digitally signed by {PdfDigitalSignature.contactinfo}…"
 type: docs
 url: /python-net/groupdocs.signature.domain/pdfdigitalsignature/show_properties/
 is_root: false
-weight: 190
+weight: 2040
 ---
+
 
 ## show_properties property
 
+The flag that forces the signature properties to be shown or hidden; when true, the signature field uses a predefined appearance format (e.g., `Digitally signed by {PdfDigitalSignature.contact_info} Date: {Date} Reason: {PdfDigitalSignature.reason} Location: {PdfDigitalSignature.location}`) and defaults to True.
 
-Force to show/hide signature properties. In case ShowProperties is true signature
-field has predefined format of appearance 
-Digitally signed by {[`PdfDigitalSignature.contact_info`](/signature/python-net/groupdocs.signature.domain/pdfdigitalsignature#contact_info)} Date: {Date} Reason: {[`PdfDigitalSignature.reason`](/signature/python-net/groupdocs.signature.domain/pdfdigitalsignature#reason)}
-Location: {[`PdfDigitalSignature.location`](/signature/python-net/groupdocs.signature.domain/pdfdigitalsignature#location)}
-ShowProperties is true by default.
 ### Definition:
 ```python
 @property
@@ -27,5 +24,4 @@ def show_properties(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`PdfDigitalSignature`](/signature/python-net/groupdocs.signature.domain/pdfdigitalsignature)
+* class [`PdfDigitalSignature`](/signature/python-net/groupdocs.signature.domain/pdfdigitalsignature/)

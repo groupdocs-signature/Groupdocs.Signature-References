@@ -1,38 +1,32 @@
-﻿---
+---
 title: trace method
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Writes trace message to the console."
 type: docs
 url: /python-net/groupdocs.signature.logging/filelogger/trace/
 is_root: false
-weight: 20
+weight: 1040
 ---
 
-## trace {#System.String}
+
+## trace {#message}
 
 Writes trace message to the console.
+
 Trace log messages provide generally useful information about application flow.
-
-
 
 ```python
 def trace(self, message):
     ...
 ```
 
-
 | Parameter | Type | Description |
 | :- | :- | :- |
-| message | System.String | The trace message. |
-### Exceptions
-| Exception | Description |
+| message | `str` | The trace message. |
+
+| Raises | Description |
 | :- | :- |
-| ArgumentNullException | Thrown when `message` is null. |
-
-
-
-
+| `ValueError` | Raised when `message` is None. |
 
 ### See Also
-* module [`groupdocs.signature.logging`](../../)
-* class [`FileLogger`](/signature/python-net/groupdocs.signature.logging/filelogger)
+* class [`FileLogger`](/signature/python-net/groupdocs.signature.logging/filelogger/)

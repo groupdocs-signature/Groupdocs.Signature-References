@@ -1,36 +1,26 @@
-﻿---
+---
 title: remove method
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Removes a metadata signature with the specified name from the collection."
 type: docs
 url: /python-net/groupdocs.signature.domain/metadatasignaturecollection/remove/
 is_root: false
-weight: 80
+weight: 1190
 ---
 
-## remove {#System.String}
 
-Removes a Metadata Signature with the specified name from the collection.
+## remove {#name}
 
-
-### Returns 
-
-
-
-
+Removes a metadata signature with the specified name from the collection.
 
 ```python
 def remove(self, name):
     ...
 ```
 
-
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | System.String | The case-insensitive name of the Metadata Signature. |
-
-
+| name | `str` | The case-insensitive name of the metadata signature. |
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`MetadataSignatureCollection`](/signature/python-net/groupdocs.signature.domain/metadatasignaturecollection)
+* class [`MetadataSignatureCollection`](/signature/python-net/groupdocs.signature.domain/metadatasignaturecollection/)

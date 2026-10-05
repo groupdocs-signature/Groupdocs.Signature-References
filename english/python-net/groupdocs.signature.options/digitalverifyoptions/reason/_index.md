@@ -1,17 +1,18 @@
-﻿---
+---
 title: reason property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The reason of the digital signature to validate."
 type: docs
 url: /python-net/groupdocs.signature.options/digitalverifyoptions/reason/
 is_root: false
-weight: 160
+weight: 2090
 ---
+
 
 ## reason property
 
+The reason of the digital signature to validate.
 
-Reason of Digital Signature to validate.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def reason(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`DigitalVerifyOptions`](/signature/python-net/groupdocs.signature.options/digitalverifyoptions)
+* class [`DigitalVerifyOptions`](/signature/python-net/groupdocs.signature.options/digitalverifyoptions/)

@@ -1,17 +1,18 @@
-﻿---
+---
 title: contents property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The contents of the pop-up window."
 type: docs
 url: /python-net/groupdocs.signature.options.appearances/pdftextstickerappearance/contents/
 is_root: false
-weight: 40
+weight: 2010
 ---
+
 
 ## contents property
 
+The contents of the pop-up window.
 
-Gets or sets the contents of pop-up window.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def contents(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options.appearances`](../../)
-* class [`PdfTextStickerAppearance`](/signature/python-net/groupdocs.signature.options.appearances/pdftextstickerappearance)
+* class [`PdfTextStickerAppearance`](/signature/python-net/groupdocs.signature.options.appearances/pdftextstickerappearance/)

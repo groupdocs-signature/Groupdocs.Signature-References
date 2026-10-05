@@ -1,18 +1,18 @@
-﻿---
+---
 title: height property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The height of the signature area on a document page in measure units (pixels, percents, or millimeters; see MeasureType SizeMeasureType)."
 type: docs
 url: /python-net/groupdocs.signature.domain/irectangle/height/
 is_root: false
-weight: 30
+weight: 2010
 ---
+
 
 ## height property
 
+The height of the signature area on a document page in measure units (pixels, percents, or millimeters; see `MeasureType` SizeMeasureType).
 
-Height of Signature area on Document Page in Measure units 
-(pixels, percents or millimeters see [`MeasureType`](/signature/python-net/groupdocs.signature.domain/measuretype) SizeMeasureType).
 ### Definition:
 ```python
 @property
@@ -24,6 +24,4 @@ def height(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`IRectangle`](/signature/python-net/groupdocs.signature.domain/irectangle)
-* class [`MeasureType`](/signature/python-net/groupdocs.signature.domain/measuretype)
+* class [`IRectangle`](/signature/python-net/groupdocs.signature.domain/irectangle/)

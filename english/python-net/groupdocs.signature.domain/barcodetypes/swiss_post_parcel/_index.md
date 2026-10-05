@@ -1,19 +1,17 @@
-﻿---
-title: SWISS_POST_PARCEL property
+---
+title: SWISS_POST_PARCEL field
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "SwissPostParcel Barcode Type object."
 type: docs
 url: /python-net/groupdocs.signature.domain/barcodetypes/swiss_post_parcel/
 is_root: false
-weight: 690
+weight: 3580
 ---
 
-## SWISS_POST_PARCEL property
 
+## SWISS_POST_PARCEL field
 
 SwissPostParcel Barcode Type object.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`BarcodeType`](/signature/python-net/groupdocs.signature.domain/barcodetype)
-* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes)
+* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes/)

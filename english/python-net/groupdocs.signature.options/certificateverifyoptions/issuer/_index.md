@@ -1,17 +1,18 @@
-﻿---
+---
 title: issuer property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The certificate issuer to verify."
 type: docs
 url: /python-net/groupdocs.signature.options/certificateverifyoptions/issuer/
 is_root: false
-weight: 70
+weight: 2020
 ---
+
 
 ## issuer property
 
+The certificate issuer to verify.
 
-Specify Certificate Issuer if it should be verified.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def issuer(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`CertificateVerifyOptions`](/signature/python-net/groupdocs.signature.options/certificateverifyoptions)
+* class [`CertificateVerifyOptions`](/signature/python-net/groupdocs.signature.options/certificateverifyoptions/)

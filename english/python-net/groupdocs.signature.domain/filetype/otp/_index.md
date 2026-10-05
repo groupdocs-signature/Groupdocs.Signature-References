@@ -1,19 +1,17 @@
-﻿---
-title: OTP property
+---
+title: OTP field
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "OpenDocument Presentation Template (.otp) represents presentation template files created by applications in OASIS OpenDocument standard format."
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/otp/
 is_root: false
-weight: 320
+weight: 3360
 ---
 
-## OTP property
 
+## OTP field
 
-OpenDocument Presentation Template (.otp) represents presentation template files created by applications in OASIS OpenDocument standard format.
-Learn more about this file format [here](https://wiki.fileformat.com/presentation/otp).
+OpenDocument Presentation Template (.otp) represents presentation template files created by applications in OASIS OpenDocument standard format. Learn more about this file format here.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype)
+* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype/)

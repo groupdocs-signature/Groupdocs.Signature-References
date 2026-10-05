@@ -1,32 +1,27 @@
-﻿---
-title: DicomXmpEntry constructor
+---
+title: __init__ constructor
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Initializes an XMP entry for a DICOM image."
 type: docs
 url: /python-net/groupdocs.signature.options/dicomxmpentry/__init__/
 is_root: false
 weight: 10
 ---
 
-## __init__ {#groupdocs.signature.options.DicomXmpType-System.String}
 
-Creates Xmp entry for DICOM image.
+## __init__ {#type-value}
 
-
+Initializes an XMP entry for a DICOM image.
 
 ```python
 def __init__(self, type, value):
     ...
 ```
 
-
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | groupdocs.signature.options.DicomXmpType | Entry type |
-| value | System.String | Entry value |
-
-
+| type | `DicomXmpType` | Entry type |
+| value | `str` | Entry value |
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`DicomXmpEntry`](/signature/python-net/groupdocs.signature.options/dicomxmpentry)
+* class [`DicomXmpEntry`](/signature/python-net/groupdocs.signature.options/dicomxmpentry/)

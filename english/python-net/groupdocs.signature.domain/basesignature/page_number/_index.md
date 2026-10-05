@@ -1,17 +1,18 @@
-﻿---
+---
 title: page_number property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The page number where the signature was found."
 type: docs
 url: /python-net/groupdocs.signature.domain/basesignature/page_number/
 is_root: false
-weight: 100
+weight: 2070
 ---
+
 
 ## page_number property
 
+The page number where the signature was found.
 
-Specifies the page signature was found on.
 ### Definition:
 ```python
 @property
@@ -20,5 +21,4 @@ def page_number(self):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature)
+* class [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)

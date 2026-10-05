@@ -1,17 +1,18 @@
-﻿---
+---
 title: max_page_height property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The maximum page height."
 type: docs
 url: /python-net/groupdocs.signature.domain/documentinfo/max_page_height/
 is_root: false
-weight: 100
+weight: 2080
 ---
+
 
 ## max_page_height property
 
+The maximum page height.
 
-Specifies max page height.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def max_page_height(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`DocumentInfo`](/signature/python-net/groupdocs.signature.domain/documentinfo)
+* class [`DocumentInfo`](/signature/python-net/groupdocs.signature.domain/documentinfo/)

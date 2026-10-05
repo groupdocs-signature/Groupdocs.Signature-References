@@ -1,18 +1,18 @@
-﻿---
+---
 title: encode_type property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The encode type used to filter barcode search; if not set, the search includes all supported barcode types."
 type: docs
 url: /python-net/groupdocs.signature.options/barcodesearchoptions/encode_type/
 is_root: false
-weight: 40
+weight: 2010
 ---
+
 
 ## encode_type property
 
+The encode type used to filter barcode search; if not set, the search includes all supported barcode types.
 
-Specifies Encode Type property to search Barcodes.
-If this value is not set, search is processed for all supported Barcode Types
 ### Definition:
 ```python
 @property
@@ -24,6 +24,4 @@ def encode_type(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`BarcodeSearchOptions`](/signature/python-net/groupdocs.signature.options/barcodesearchoptions)
-* class [`BarcodeType`](/signature/python-net/groupdocs.signature.domain/barcodetype)
+* class [`BarcodeSearchOptions`](/signature/python-net/groupdocs.signature.options/barcodesearchoptions/)

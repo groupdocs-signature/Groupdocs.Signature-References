@@ -1,70 +1,77 @@
-﻿---
+---
 title: MetadataSignOptions class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Represents Metadata signature options."
 type: docs
 url: /python-net/groupdocs.signature.options/metadatasignoptions/
 is_root: false
-weight: 250
+weight: 320
 ---
+
 
 ## MetadataSignOptions class
 
 Represents Metadata signature options.
 
+Learn more
 
-
-**Inheritance:** [`MetadataSignOptions`](/signature/python-net/groupdocs.signature.options/metadatasignoptions) → 
-[`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions)
-
-
+- Basic usage of creating Metadata electronic signature by GroupDocs.Signature: https://docs.groupdocs.com/display/signaturenet/eSign+document+with+Metadata+signature
+- Advanced usage of settings of Metadata electronic signature with GroupDocs.Signature: https://docs.groupdocs.com/display/signaturenet/Sign+document+with+Metadata+signature+-+advanced
 
 The MetadataSignOptions type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.options/metadatasignoptions/__init__/#) | Initializes a new instance of the MetadataSignOptions class with default values. |
-| [__init__](/signature/python-net/groupdocs.signature.options/metadatasignoptions/__init__/#list) | Constructs a new instance of MetadataSignOptions |
-
-
-### Properties
-| Property | Description |
-| :- | :- |
-| [page_number](/signature/python-net/groupdocs.signature.options/metadatasignoptions/page_number) | Gets or sets document page number for signing.<br/>Minimal and default value is 1. |
-| [all_pages](/signature/python-net/groupdocs.signature.options/metadatasignoptions/all_pages) | Put signature on all document pages. |
-| [appearance](/signature/python-net/groupdocs.signature.options/metadatasignoptions/appearance) | Additional signature appearance. |
-| [extensions](/signature/python-net/groupdocs.signature.options/metadatasignoptions/extensions) | Signature Extensions. |
-| [pages_setup](/signature/python-net/groupdocs.signature.options/metadatasignoptions/pages_setup) | Options to specify pages to be signed. |
-| [signature_type](/signature/python-net/groupdocs.signature.options/metadatasignoptions/signature_type) | Get the Signature Type [`SignatureType`](/signature/python-net/groupdocs.signature.domain/signaturetype) |
-| [document_type](/signature/python-net/groupdocs.signature.options/metadatasignoptions/document_type) | Get or set the Document Type of the Signature Options [`DocumentType`](/signature/python-net/groupdocs.signature.domain/documenttype) |
-| [z_order](/signature/python-net/groupdocs.signature.options/metadatasignoptions/z_order) | Gets or sets the Z-order position of text signature.        <br/>Determines the display order of overlapping signatures. |
-| [hash_algorithm](/signature/python-net/groupdocs.signature.options/metadatasignoptions/hash_algorithm) | Gets or sets the hash algorithm to be used for cryptographic operations.<br/>Supported exclusively for digital signatures in PDF files. |
-| [signatures](/signature/python-net/groupdocs.signature.options/metadatasignoptions/signatures) | Gets or sets the Metadata of signature. |
-| [data_encryption](/signature/python-net/groupdocs.signature.options/metadatasignoptions/data_encryption) | Gets or sets implementation of [`IDataEncryption`](/signature/python-net/groupdocs.signature.domain.extensions/idataencryption) interface to encrypt all Metadata signatures withing this options collection.<br/>If this value is set all added signatures will use this encryption by default or its own DataEncryption if it was assigned. |
-
+| [__init__](/signature/python-net/groupdocs.signature.options/metadatasignoptions/__init__/) | Initializes a new instance of the MetadataSignOptions class with default values. |
+| [__init__](/signature/python-net/groupdocs.signature.options/metadatasignoptions/__init__/#signatures) | Initializes a new instance of [`MetadataSignOptions`](/signature/python-net/groupdocs.signature.options/metadatasignoptions/) with metadata. |
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [add_pdf_signature](/signature/python-net/groupdocs.signature.options/metadatasignoptions/add_pdf_signature/#System.String-System.Object-System.String) | Creates new PdfMetadataSignature with passed arguments and adds it to collection. |
-| [add_image_signature](/signature/python-net/groupdocs.signature.options/metadatasignoptions/add_image_signature/#int-System.Object) | Creates new ImageMetadataSignature with passed arguments and adds it to collection. |
-| [add](/signature/python-net/groupdocs.signature.options/metadatasignoptions/add/#groupdocs.signature.domain.MetadataSignature) | Add existing  MetadataSignature instance to collection. |
+| [add](/signature/python-net/groupdocs.signature.options/metadatasignoptions/add/#metadata_signature) | Add existing MetadataSignature instance to collection. |
+| [add_image_signature](/signature/python-net/groupdocs.signature.options/metadatasignoptions/add_image_signature/#id-value) | Creates a new ImageMetadataSignature with the given arguments and adds it to the collection. |
+| [add_image_signature_uint16](/signature/python-net/groupdocs.signature.options/metadatasignoptions/add_image_signature_uint16/) |  |
+| [add_metadata_signature](/signature/python-net/groupdocs.signature.options/metadatasignoptions/add_metadata_signature/) |  |
+| [add_pdf_signature](/signature/python-net/groupdocs.signature.options/metadatasignoptions/add_pdf_signature/#name-value-tag) | Creates a new PdfMetadataSignature with the given arguments and adds it to the collection. |
+| [add_pdf_signature_file](/signature/python-net/groupdocs.signature.options/metadatasignoptions/add_pdf_signature_file/) |  |
+| [add_pdf_signature_string](/signature/python-net/groupdocs.signature.options/metadatasignoptions/add_pdf_signature_string/) |  |
 
+### Properties
+| Property | Description |
+| :- | :- |
+| [data_encryption](/signature/python-net/groupdocs.signature.options/metadatasignoptions/data_encryption/) | The implementation of [`IDataEncryption`](/signature/python-net/groupdocs.signature.domain.extensions/idataencryption/) used to encrypt all metadata signatures in this options collection. |
+| [signatures](/signature/python-net/groupdocs.signature.options/metadatasignoptions/signatures/) | The metadata signatures associated with the signature. |
+| [all_pages](/signature/python-net/groupdocs.signature.options/signoptions/all_pages/) | The signature will be placed on all document pages. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [appearance](/signature/python-net/groupdocs.signature.options/signoptions/appearance/) | The additional signature appearance. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [document_type](/signature/python-net/groupdocs.signature.options/signoptions/document_type/) | The document type of the signature options (`DocumentType`). (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [extensions](/signature/python-net/groupdocs.signature.options/signoptions/extensions/) | The signature extensions. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [hash_algorithm](/signature/python-net/groupdocs.signature.options/signoptions/hash_algorithm/) | The hash algorithm to be used for cryptographic operations. Supported exclusively for digital signatures in PDF files. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [page_number](/signature/python-net/groupdocs.signature.options/signoptions/page_number/) | The document page number for signing. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [pages_setup](/signature/python-net/groupdocs.signature.options/signoptions/pages_setup/) | The options to specify pages to be signed. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [signature_type](/signature/python-net/groupdocs.signature.options/signoptions/signature_type/) | The signature type (`SignatureType`). (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [zorder](/signature/python-net/groupdocs.signature.options/signoptions/zorder/) | The Z-order position of the text signature, which determines the display order of overlapping signatures. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
 
+### Example
 
-### Remarks 
+```python
+from datetime import datetime
+from groupdocs.signature import Signature
+from groupdocs.signature.options import MetadataSignOptions
+from groupdocs.signature.domain import WordProcessingMetadataSignature
 
-
-**Learn more** |
-|
- |
- |
+with Signature("sample.docx") as signature:
+    options = MetadataSignOptions()
+    signatures = [
+        WordProcessingMetadataSignature("Author", "Mr.Scherlock Holmes"),
+        WordProcessingMetadataSignature("DateCreated", datetime.now()),
+        WordProcessingMetadataSignature("DocumentId", 123456),
+        WordProcessingMetadataSignature("SignatureId", 123.456),
+    ]
+    options.signatures.add_range(signatures)
+    result = signature.sign("signed.docx", options)
+    print(f"Signed with {len(result.succeeded)} metadata signature(s).")
+```
 
 ### See Also
-* module [`groupdocs.signature.options`](..)
-* class [`DocumentType`](/signature/python-net/groupdocs.signature.domain/documenttype)
-* class [`IDataEncryption`](/signature/python-net/groupdocs.signature.domain.extensions/idataencryption)
-* class [`MetadataSignOptions`](/signature/python-net/groupdocs.signature.options/metadatasignoptions)
-* class [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions)
-* class [`SignatureType`](/signature/python-net/groupdocs.signature.domain/signaturetype)
+* module [`groupdocs.signature.options`](/signature/python-net/groupdocs.signature.options/)

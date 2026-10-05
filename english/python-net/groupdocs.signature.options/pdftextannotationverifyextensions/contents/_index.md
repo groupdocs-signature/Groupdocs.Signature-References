@@ -1,18 +1,18 @@
-﻿---
+---
 title: contents property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The contents of the text annotation to be verified; verification is skipped if the value is an empty string or None."
 type: docs
 url: /python-net/groupdocs.signature.options/pdftextannotationverifyextensions/contents/
 is_root: false
-weight: 30
+weight: 2010
 ---
+
 
 ## contents property
 
+The contents of the text annotation to be verified; verification is skipped if the value is an empty string or None.
 
-Contents of text annotation to be verified.
-Not be verified if equals empty string or null.
 ### Definition:
 ```python
 @property
@@ -24,5 +24,4 @@ def contents(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`PdfTextAnnotationVerifyExtensions`](/signature/python-net/groupdocs.signature.options/pdftextannotationverifyextensions)
+* class [`PdfTextAnnotationVerifyExtensions`](/signature/python-net/groupdocs.signature.options/pdftextannotationverifyextensions/)

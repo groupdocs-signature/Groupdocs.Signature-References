@@ -1,18 +1,20 @@
-﻿---
+---
 title: native property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The native attribute."
 type: docs
 url: /python-net/groupdocs.signature.options/textsignoptions/native/
 is_root: false
-weight: 200
+weight: 2130
 ---
+
 
 ## native property
 
+The native attribute.
 
-Gets or sets the native attribute. If it is set document specific signatures could be used.
-Native text watermark for WordProcessing documents is different than regular, for example.
+If set, document-specific signatures can be used. Native text watermark for WordProcessing documents differs from regular watermarks, for example.
+
 ### Definition:
 ```python
 @property
@@ -24,5 +26,4 @@ def native(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`TextSignOptions`](/signature/python-net/groupdocs.signature.options/textsignoptions)
+* class [`TextSignOptions`](/signature/python-net/groupdocs.signature.options/textsignoptions/)

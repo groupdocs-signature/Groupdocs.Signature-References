@@ -1,37 +1,27 @@
-﻿---
+---
 title: set_metered_key method
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Activate metered billing with the given public/private key pair."
 type: docs
 url: /python-net/groupdocs.signature/metered/set_metered_key/
 is_root: false
-weight: 40
+weight: 1030
 ---
 
-## set_metered_key {#System.String-System.String}
 
-Activates product with Metered keys.
+## set_metered_key {#public_key-private_key}
 
-
+Activate metered billing with the given public/private key pair.
 
 ```python
 def set_metered_key(self, public_key, private_key):
     ...
 ```
 
-
 | Parameter | Type | Description |
 | :- | :- | :- |
-| public_key | System.String | The public key. |
-| private_key | System.String | The private key. |
-
-### Example 
-
-
-Following example demonstrates how to activate product with Metered keys.
-
-
+| public_key |  | The public key half of the metered credentials. |
+| private_key |  | The private key half of the metered credentials. |
 
 ### See Also
-* module [`groupdocs.signature`](../../)
-* class [`Metered`](/signature/python-net/groupdocs.signature/metered)
+* class [`Metered`](/signature/python-net/groupdocs.signature/metered/)

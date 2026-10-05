@@ -1,17 +1,18 @@
-﻿---
+---
 title: italic property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The font italic style."
 type: docs
 url: /python-net/groupdocs.signature.domain/signaturefont/italic/
 is_root: false
-weight: 50
+weight: 2030
 ---
+
 
 ## italic property
 
+The font italic style.
 
-Gets or sets font italic style
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def italic(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`SignatureFont`](/signature/python-net/groupdocs.signature.domain/signaturefont)
+* class [`SignatureFont`](/signature/python-net/groupdocs.signature.domain/signaturefont/)

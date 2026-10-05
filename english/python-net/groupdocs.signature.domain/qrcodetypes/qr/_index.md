@@ -1,19 +1,17 @@
-﻿---
-title: QR property
+---
+title: QR field
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "QR QR-Code Type object."
 type: docs
 url: /python-net/groupdocs.signature.domain/qrcodetypes/qr/
 is_root: false
-weight: 180
+weight: 3040
 ---
 
-## QR property
 
+## QR field
 
 QR QR-Code Type object.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`QrCodeType`](/signature/python-net/groupdocs.signature.domain/qrcodetype)
-* class [`QrCodeTypes`](/signature/python-net/groupdocs.signature.domain/qrcodetypes)
+* class [`QrCodeTypes`](/signature/python-net/groupdocs.signature.domain/qrcodetypes/)

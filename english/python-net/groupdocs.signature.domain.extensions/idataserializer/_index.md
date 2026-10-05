@@ -1,28 +1,28 @@
-﻿---
+---
 title: IDataSerializer class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Represents a serialization interface that provides object serialization and deserialization methods."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/idataserializer/
 is_root: false
-weight: 150
+weight: 200
 ---
+
 
 ## IDataSerializer class
 
-Serialization interface to provide object serialization and deserialization methods.
-
-
+Represents a serialization interface that provides object serialization and deserialization methods.
 
 The IDataSerializer type exposes the following members:
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [serialize](/signature/python-net/groupdocs.signature.domain.extensions/idataserializer/serialize/#System.Object) | Serialize method to format object to string representing. |
-| [deserialize](/signature/python-net/groupdocs.signature.domain.extensions/idataserializer/deserialize/#System.String) | Deserialize method to obtain required object from string. |
-
-
+| [deserialize](/signature/python-net/groupdocs.signature.domain.extensions/idataserializer/deserialize/#source) |  |
+| [deserialize_file](/signature/python-net/groupdocs.signature.domain.extensions/idataserializer/deserialize_file/) |  |
+| [deserialize_string](/signature/python-net/groupdocs.signature.domain.extensions/idataserializer/deserialize_string/) |  |
+| [serialize](/signature/python-net/groupdocs.signature.domain.extensions/idataserializer/serialize/#data) | Serializes the provided object to a string representation. |
+| [serialize_object](/signature/python-net/groupdocs.signature.domain.extensions/idataserializer/serialize_object/) |  |
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](..)
+* module [`groupdocs.signature.domain.extensions`](/signature/python-net/groupdocs.signature.domain.extensions/)

@@ -1,17 +1,18 @@
-﻿---
+---
 title: inner_border property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The internal border of the stamp line."
 type: docs
 url: /python-net/groupdocs.signature.domain/stampline/inner_border/
 is_root: false
-weight: 60
+weight: 2040
 ---
+
 
 ## inner_border property
 
+The internal border of the stamp line.
 
-Setup Internal Border.
 ### Definition:
 ```python
 @property
@@ -23,6 +24,4 @@ def inner_border(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`Border`](/signature/python-net/groupdocs.signature.domain/border)
-* class [`StampLine`](/signature/python-net/groupdocs.signature.domain/stampline)
+* class [`StampLine`](/signature/python-net/groupdocs.signature.domain/stampline/)

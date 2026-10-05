@@ -1,17 +1,18 @@
-﻿---
+---
 title: phone property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The phone number."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/mecard/phone/
 is_root: false
-weight: 100
+weight: 2080
 ---
+
 
 ## phone property
 
+The phone number.
 
-Gets or sets phone number.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def phone(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`MeCard`](/signature/python-net/groupdocs.signature.domain.extensions/mecard)
+* class [`MeCard`](/signature/python-net/groupdocs.signature.domain.extensions/mecard/)

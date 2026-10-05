@@ -1,18 +1,18 @@
-﻿---
+---
 title: title property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The title of the sticker to be verified."
 type: docs
 url: /python-net/groupdocs.signature.options/pdftextstickerverifyextensions/title/
 is_root: false
-weight: 60
+weight: 2040
 ---
+
 
 ## title property
 
+The title of the sticker to be verified. The value is ignored during verification if it is an empty string or None.
 
-Title of sticker to be verified.
-Value will not be verified if equals empty string or null.
 ### Definition:
 ```python
 @property
@@ -24,5 +24,4 @@ def title(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`PdfTextStickerVerifyExtensions`](/signature/python-net/groupdocs.signature.options/pdftextstickerverifyextensions)
+* class [`PdfTextStickerVerifyExtensions`](/signature/python-net/groupdocs.signature.options/pdftextstickerverifyextensions/)

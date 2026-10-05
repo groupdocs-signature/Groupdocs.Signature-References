@@ -1,51 +1,42 @@
-﻿---
-title: SymmetricEncryptionAttribute constructor
+---
+title: __init__ constructor
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Initializes a symmetric algorithm with the specified parameters."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/symmetricencryptionattribute/__init__/
 is_root: false
 weight: 10
 ---
 
-## __init__ {#groupdocs.signature.domain.extensions.SymmetricAlgorithmType-System.String}
 
-Creates symmetric algorithm with parameters and default passphrase.
+## __init__ {#algorithm_type-key-salt}
 
-
-
-```python
-def __init__(self, algorithm_type, key):
-    ...
-```
-
-
-| Parameter | Type | Description |
-| :- | :- | :- |
-| algorithm_type | groupdocs.signature.domain.extensions.SymmetricAlgorithmType | Encryption algorithm type |
-| key | System.String | Encryption key |
-
-
-## __init__ {#groupdocs.signature.domain.extensions.SymmetricAlgorithmType-System.String-System.String}
-
-Creates symmetric algorithm with parameters.
-
-
+Initializes a symmetric algorithm with the specified parameters.
 
 ```python
 def __init__(self, algorithm_type, key, salt):
     ...
 ```
 
+| Parameter | Type | Description |
+| :- | :- | :- |
+| algorithm_type | `SymmetricAlgorithmType` | Specify symmetric algorithm type |
+| key | `str` | Encryption key |
+| salt | `str` | Passphrase for encryption |
+
+## __init__ {#algorithm_type-key}
+
+Initializes a symmetric algorithm with parameters and a default passphrase.
+
+```python
+def __init__(self, algorithm_type, key):
+    ...
+```
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| algorithm_type | groupdocs.signature.domain.extensions.SymmetricAlgorithmType | Specify symmetric algorithm type |
-| key | System.String | Encryption key |
-| salt | System.String | Passphrase for encryption |
-
-
+| algorithm_type | `SymmetricAlgorithmType` | Encryption algorithm type |
+| key | `str` | Encryption key |
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`SymmetricEncryptionAttribute`](/signature/python-net/groupdocs.signature.domain.extensions/symmetricencryptionattribute)
+* class [`SymmetricEncryptionAttribute`](/signature/python-net/groupdocs.signature.domain.extensions/symmetricencryptionattribute/)

@@ -1,17 +1,18 @@
-﻿---
+---
 title: serial_number property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The certificate serial number to verify."
 type: docs
 url: /python-net/groupdocs.signature.options/certificateverifyoptions/serial_number/
 is_root: false
-weight: 120
+weight: 2050
 ---
+
 
 ## serial_number property
 
+The certificate serial number to verify.
 
-Specify Certificate Serial Number if it should be verified.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def serial_number(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`CertificateVerifyOptions`](/signature/python-net/groupdocs.signature.options/certificateverifyoptions)
+* class [`CertificateVerifyOptions`](/signature/python-net/groupdocs.signature.options/certificateverifyoptions/)

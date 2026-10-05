@@ -1,80 +1,73 @@
-﻿---
-title: BarcodeVerifyOptions constructor
+---
+title: __init__ constructor
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Initializes default verification option for barcode signature."
 type: docs
 url: /python-net/groupdocs.signature.options/barcodeverifyoptions/__init__/
 is_root: false
 weight: 10
 ---
 
-## __init__ {#}
 
-Creates default Verification Option for Barcode Signature.
+## __init__
 
-
+Initializes default verification option for barcode signature.
 
 ```python
 def __init__(self):
     ...
 ```
 
+### Example
 
+```python
+from groupdocs.signature.options import BarcodeVerifyOptions
+from groupdocs.signature.domain import TextMatchType
 
+options = BarcodeVerifyOptions()
+options.text = "12345"
+options.match_type = TextMatchType.CONTAINS
+```
 
-## __init__ {#System.String}
+## __init__ {#text}
 
-Creates default Verification Option with verification text
-
-
+Initializes a default verification option with verification text.
 
 ```python
 def __init__(self, text):
     ...
 ```
 
-
 | Parameter | Type | Description |
 | :- | :- | :- |
-| text | System.String | Barcode text to verify |
+| text | `str` | Barcode text to verify. |
 
+## __init__ {#encode_type}
 
-## __init__ {#groupdocs.signature.domain.BarcodeType}
-
-Creates default Verification Option with Barcode Type verification
-
-
+Initializes a default verification option with barcode type verification.
 
 ```python
 def __init__(self, encode_type):
     ...
 ```
 
-
 | Parameter | Type | Description |
 | :- | :- | :- |
-| encode_type | groupdocs.signature.domain.BarcodeType | Barcode Type verification |
+| encode_type | `BarcodeType` | Barcode type verification. |
 
+## __init__ {#text-encode_type}
 
-## __init__ {#System.String-groupdocs.signature.domain.BarcodeType}
-
-Creates default Verification Option with Barcode Type verification and text
-
-
+Initializes a default verification option with barcode type verification and text.
 
 ```python
 def __init__(self, text, encode_type):
     ...
 ```
 
-
 | Parameter | Type | Description |
 | :- | :- | :- |
-| text | System.String | Barcode text to verify |
-| encode_type | groupdocs.signature.domain.BarcodeType | Barcode Type verification |
-
-
+| text | `str` | Barcode text to verify. |
+| encode_type | `BarcodeType` | Barcode type verification. |
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`BarcodeVerifyOptions`](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions)
+* class [`BarcodeVerifyOptions`](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions/)

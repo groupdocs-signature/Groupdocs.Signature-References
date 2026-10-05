@@ -1,17 +1,18 @@
-﻿---
+---
 title: link_character property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The link character identified in the output string."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/hibclicsecondaryadditionaldata/link_character/
 is_root: false
-weight: 70
+weight: 2040
 ---
+
 
 ## link_character property
 
+The link character identified in the output string.
 
-Identifies link character in output string.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def link_character(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`HIBCLICSecondaryAdditionalData`](/signature/python-net/groupdocs.signature.domain.extensions/hibclicsecondaryadditionaldata)
+* class [`HIBCLICSecondaryAdditionalData`](/signature/python-net/groupdocs.signature.domain.extensions/hibclicsecondaryadditionaldata/)

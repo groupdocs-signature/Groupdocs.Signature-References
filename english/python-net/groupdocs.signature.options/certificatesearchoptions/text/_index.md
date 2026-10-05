@@ -1,17 +1,18 @@
-﻿---
+---
 title: text property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The certificate property text to match on searching."
 type: docs
 url: /python-net/groupdocs.signature.options/certificatesearchoptions/text/
 is_root: false
-weight: 90
+weight: 2020
 ---
+
 
 ## text property
 
+The certificate property text to match on searching.
 
-Specifies certificate property text to match on searching.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def text(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`CertificateSearchOptions`](/signature/python-net/groupdocs.signature.options/certificatesearchoptions)
+* class [`CertificateSearchOptions`](/signature/python-net/groupdocs.signature.options/certificatesearchoptions/)

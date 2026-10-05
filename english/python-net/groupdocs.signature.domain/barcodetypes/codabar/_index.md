@@ -1,19 +1,17 @@
-﻿---
-title: CODABAR property
+---
+title: CODABAR field
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Codabar Barcode Type object."
 type: docs
 url: /python-net/groupdocs.signature.domain/barcodetypes/codabar/
 is_root: false
-weight: 70
+weight: 3040
 ---
 
-## CODABAR property
 
+## CODABAR field
 
 Codabar Barcode Type object.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`BarcodeType`](/signature/python-net/groupdocs.signature.domain/barcodetype)
-* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes)
+* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes/)

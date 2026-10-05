@@ -1,19 +1,17 @@
-﻿---
-title: GS1_AZTEC property
+---
+title: GS1_AZTEC field
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "GS1Aztec Barcode Type object."
 type: docs
 url: /python-net/groupdocs.signature.domain/barcodetypes/gs1_aztec/
 is_root: false
-weight: 320
+weight: 3690
 ---
 
-## GS1_AZTEC property
 
+## GS1_AZTEC field
 
 GS1Aztec Barcode Type object.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`BarcodeType`](/signature/python-net/groupdocs.signature.domain/barcodetype)
-* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes)
+* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes/)

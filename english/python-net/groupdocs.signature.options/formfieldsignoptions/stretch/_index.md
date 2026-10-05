@@ -1,18 +1,27 @@
-﻿---
+---
 title: stretch property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The stretch mode on document page."
 type: docs
 url: /python-net/groupdocs.signature.options/formfieldsignoptions/stretch/
 is_root: false
-weight: 310
+weight: 2100
 ---
+
 
 ## stretch property
 
+The stretch mode on document page.
 
-Stretch mode on Document Page.
+### Definition:
+```python
+@property
+def stretch(self):
+    ...
+@stretch.setter
+def stretch(self, value):
+    ...
+```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`FormFieldSignOptions`](/signature/python-net/groupdocs.signature.options/formfieldsignoptions)
+* class [`FormFieldSignOptions`](/signature/python-net/groupdocs.signature.options/formfieldsignoptions/)

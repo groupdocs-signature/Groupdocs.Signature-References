@@ -1,17 +1,18 @@
-﻿---
+---
 title: documents property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The collection of all existing documents within the archive files."
 type: docs
 url: /python-net/groupdocs.signature.domain/documentinfo/documents/
 is_root: false
-weight: 50
+weight: 2030
 ---
+
 
 ## documents property
 
+The collection of all existing documents within the archive files. This property is supported only for Archive document types.
 
-Collection of all existing documents within the archive files. This property is supported only for Archive document types.
 ### Definition:
 ```python
 @property
@@ -20,5 +21,4 @@ def documents(self):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`DocumentInfo`](/signature/python-net/groupdocs.signature.domain/documentinfo)
+* class [`DocumentInfo`](/signature/python-net/groupdocs.signature.domain/documentinfo/)

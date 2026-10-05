@@ -1,17 +1,18 @@
-﻿---
+---
 title: ticks property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The time in milliseconds spent since process Start event."
 type: docs
 url: /python-net/groupdocs.signature/processcompleteeventargs/ticks/
 is_root: false
-weight: 60
+weight: 2030
 ---
+
 
 ## ticks property
 
+The time in milliseconds spent since process Start event.
 
-Represents the time in milliseconds spent since process Start event.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def ticks(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature`](../../)
-* class [`ProcessCompleteEventArgs`](/signature/python-net/groupdocs.signature/processcompleteeventargs)
+* class [`ProcessCompleteEventArgs`](/signature/python-net/groupdocs.signature/processcompleteeventargs/)

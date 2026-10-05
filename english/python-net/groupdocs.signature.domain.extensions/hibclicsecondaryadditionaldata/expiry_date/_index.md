@@ -1,17 +1,18 @@
-﻿---
+---
 title: expiry_date property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The expiry date, used if ExpiryDateFormat is not set to None."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/hibclicsecondaryadditionaldata/expiry_date/
 is_root: false
-weight: 50
+weight: 2020
 ---
+
 
 ## expiry_date property
 
+The expiry date, used if ExpiryDateFormat is not set to None.
 
-Identifies expiry date. Will be used if ExpiryDateFormat is not set to None.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def expiry_date(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`HIBCLICSecondaryAdditionalData`](/signature/python-net/groupdocs.signature.domain.extensions/hibclicsecondaryadditionaldata)
+* class [`HIBCLICSecondaryAdditionalData`](/signature/python-net/groupdocs.signature.domain.extensions/hibclicsecondaryadditionaldata/)

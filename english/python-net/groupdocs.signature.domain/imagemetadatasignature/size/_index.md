@@ -1,17 +1,18 @@
-﻿---
+---
 title: size property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The size of the metadata value."
 type: docs
 url: /python-net/groupdocs.signature.domain/imagemetadatasignature/size/
 is_root: false
-weight: 250
+weight: 2030
 ---
+
 
 ## size property
 
+The size of the metadata value.
 
-Read-only value to get size of Metadata value
 ### Definition:
 ```python
 @property
@@ -20,5 +21,4 @@ def size(self):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`ImageMetadataSignature`](/signature/python-net/groupdocs.signature.domain/imagemetadatasignature)
+* class [`ImageMetadataSignature`](/signature/python-net/groupdocs.signature.domain/imagemetadatasignature/)

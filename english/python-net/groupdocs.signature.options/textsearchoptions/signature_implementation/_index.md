@@ -1,17 +1,18 @@
-﻿---
+---
 title: signature_implementation property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The text signature implementation to search."
 type: docs
 url: /python-net/groupdocs.signature.options/textsearchoptions/signature_implementation/
 is_root: false
-weight: 80
+weight: 2020
 ---
+
 
 ## signature_implementation property
 
+The text signature implementation to search.
 
-Specifies text signature implementation to search.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def signature_implementation(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`TextSearchOptions`](/signature/python-net/groupdocs.signature.options/textsearchoptions)
+* class [`TextSearchOptions`](/signature/python-net/groupdocs.signature.options/textsearchoptions/)

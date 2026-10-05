@@ -1,17 +1,18 @@
-﻿---
+---
 title: top_right property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The top right corner value."
 type: docs
 url: /python-net/groupdocs.signature.domain/corners/top_right/
 is_root: false
-weight: 90
+weight: 2050
 ---
+
 
 ## top_right property
 
+The top right corner value.
 
-Gets or sets top right corner value.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def top_right(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`Corners`](/signature/python-net/groupdocs.signature.domain/corners)
+* class [`Corners`](/signature/python-net/groupdocs.signature.domain/corners/)

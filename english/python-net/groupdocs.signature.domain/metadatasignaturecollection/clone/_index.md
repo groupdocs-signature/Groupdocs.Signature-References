@@ -1,33 +1,24 @@
-﻿---
+---
 title: clone method
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Clones Metadata Signature Collection class with Metadata Signature Items."
 type: docs
 url: /python-net/groupdocs.signature.domain/metadatasignaturecollection/clone/
 is_root: false
-weight: 50
+weight: 1070
 ---
 
-## clone {#}
 
-Clone Metadata Signature Collection class with Metadata Signature Items.
+## clone
 
-
-### Returns 
-
-
-Returns copied instance with cloned Signature Items
-
+Clones Metadata Signature Collection class with Metadata Signature Items.
 
 ```python
 def clone(self):
     ...
 ```
 
-
-
-
+**Returns:** Returns a copied instance with cloned Signature Items.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`MetadataSignatureCollection`](/signature/python-net/groupdocs.signature.domain/metadatasignaturecollection)
+* class [`MetadataSignatureCollection`](/signature/python-net/groupdocs.signature.domain/metadatasignaturecollection/)

@@ -1,31 +1,26 @@
-﻿---
+---
 title: warning method
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Writes a warning log message."
 type: docs
 url: /python-net/groupdocs.signature.logging/ilogger/warning/
 is_root: false
-weight: 30
+weight: 1070
 ---
 
-## warning {#System.String}
 
-Writes warning log message; Warning log messages provides information about unexpected and recoverable event in application flow.
+## warning {#message}
 
-
+Writes a warning log message. Warning messages provide information about unexpected and recoverable events in the application flow.
 
 ```python
 def warning(self, message):
     ...
 ```
 
-
 | Parameter | Type | Description |
 | :- | :- | :- |
-| message | System.String | The warning message. |
-
-
+| message | `str` | The warning message. |
 
 ### See Also
-* module [`groupdocs.signature.logging`](../../)
-* class [`ILogger`](/signature/python-net/groupdocs.signature.logging/ilogger)
+* class [`ILogger`](/signature/python-net/groupdocs.signature.logging/ilogger/)

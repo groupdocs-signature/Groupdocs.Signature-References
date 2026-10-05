@@ -1,48 +1,59 @@
-﻿---
+---
 title: Padding class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Represents padding or margin information associated with element."
 type: docs
 url: /python-net/groupdocs.signature.domain/padding/
 is_root: false
-weight: 290
+weight: 400
 ---
+
 
 ## Padding class
 
 Represents padding or margin information associated with element.
-
-
 
 The Padding type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.domain/padding/__init__/#) | Initializes a new instance of Padding class using zero values. |
-| [__init__](/signature/python-net/groupdocs.signature.domain/padding/__init__/#int) | Initializes a new instance of the Padding class using the supplied padding size for all edges. |
-| [__init__](/signature/python-net/groupdocs.signature.domain/padding/__init__/#int-int-int-int) | Initializes a new instance of the Padding class using the supplied padding sizes. |
-
-
-### Properties
-| Property | Description |
-| :- | :- |
-| [all](/signature/python-net/groupdocs.signature.domain/padding/all) | Gets or sets the padding value for all the edges.<br/>Changing of any partial edge like left or top makes this property equal 0; |
-| [left](/signature/python-net/groupdocs.signature.domain/padding/left) | Gets or sets the padding value for the left edge. |
-| [right](/signature/python-net/groupdocs.signature.domain/padding/right) | Gets or sets the padding value for the right edge. |
-| [top](/signature/python-net/groupdocs.signature.domain/padding/top) | Gets or sets the padding value for the top edge. |
-| [bottom](/signature/python-net/groupdocs.signature.domain/padding/bottom) | Gets or sets the padding value for the bottom edge. |
-| [horizontal](/signature/python-net/groupdocs.signature.domain/padding/horizontal) | Gets the combined padding for the right and left edges. |
-| [vertical](/signature/python-net/groupdocs.signature.domain/padding/vertical) | Gets the combined padding for the top and bottom edges. |
-| [EMPTY](/signature/python-net/groupdocs.signature.domain/padding/empty) | Provides a Padding object with no padding. |
-
+| [__init__](/signature/python-net/groupdocs.signature.domain/padding/__init__/) | Initializes a new instance of the Padding class with zero values. |
+| [__init__](/signature/python-net/groupdocs.signature.domain/padding/__init__/#all) | Initializes a new instance of the Padding class using the supplied padding size for all edges. |
+| [__init__](/signature/python-net/groupdocs.signature.domain/padding/__init__/#left-right-top-bottom) | Initializes a new instance of the Padding class using the supplied padding sizes. |
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [clone](/signature/python-net/groupdocs.signature.domain/padding/clone/#) | Gets a copy of this object. |
+| [clone](/signature/python-net/groupdocs.signature.domain/padding/clone/) | Gets a copy of this object. |
 
+### Properties
+| Property | Description |
+| :- | :- |
+| [all](/signature/python-net/groupdocs.signature.domain/padding/all/) | The padding value for all edges. |
+| [bottom](/signature/python-net/groupdocs.signature.domain/padding/bottom/) | The padding value for the bottom edge. |
+| [horizontal](/signature/python-net/groupdocs.signature.domain/padding/horizontal/) | The combined padding for the right and left edges. |
+| [left](/signature/python-net/groupdocs.signature.domain/padding/left/) | The padding value for the left edge. |
+| [right](/signature/python-net/groupdocs.signature.domain/padding/right/) | The padding value for the right edge. |
+| [top](/signature/python-net/groupdocs.signature.domain/padding/top/) | The padding value for the top edge. |
+| [vertical](/signature/python-net/groupdocs.signature.domain/padding/vertical/) | The combined padding for the top and bottom edges. |
 
+### Fields
+| Field | Description |
+| :- | :- |
+| [EMPTY](/signature/python-net/groupdocs.signature.domain/padding/empty/) | Provides a Padding object with no padding. |
+
+### Example
+
+```python
+from groupdocs.signature.domain import Padding
+
+# Uniform padding of 5 units on all sides
+uniform = Padding(5)
+
+# Specific padding on right and bottom
+custom = Padding(right=40, bottom=60)
+```
 
 ### See Also
-* module [`groupdocs.signature.domain`](..)
+* module [`groupdocs.signature.domain`](/signature/python-net/groupdocs.signature.domain/)

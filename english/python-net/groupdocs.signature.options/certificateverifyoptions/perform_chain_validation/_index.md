@@ -1,18 +1,20 @@
-﻿---
+---
 title: perform_chain_validation property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The verification process should provide X.509 chain validation using the basic validation policy."
 type: docs
 url: /python-net/groupdocs.signature.options/certificateverifyoptions/perform_chain_validation/
 is_root: false
-weight: 110
+weight: 2040
 ---
+
 
 ## perform_chain_validation property
 
+The verification process should provide X.509 chain validation using the basic validation policy.
 
-Get or set if verification process should provide X.509 chain validation using basic validation policy.
-By default this value is true.
+Default is True.
+
 ### Definition:
 ```python
 @property
@@ -24,5 +26,4 @@ def perform_chain_validation(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`CertificateVerifyOptions`](/signature/python-net/groupdocs.signature.options/certificateverifyoptions)
+* class [`CertificateVerifyOptions`](/signature/python-net/groupdocs.signature.options/certificateverifyoptions/)

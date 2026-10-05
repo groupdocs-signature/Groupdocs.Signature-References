@@ -1,33 +1,24 @@
-﻿---
+---
 title: clone method
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Clones Barcode Signature instance."
 type: docs
 url: /python-net/groupdocs.signature.domain/barcodesignature/clone/
 is_root: false
-weight: 20
+weight: 1010
 ---
 
-## clone {#}
 
-Clone Barcode Signature instance.
+## clone
 
-
-### Returns 
-
-
-Returns cloned Barcode Signature instance.
-
+Clones Barcode Signature instance.
 
 ```python
 def clone(self):
     ...
 ```
 
-
-
-
+**Returns:** BarcodeSignature: Cloned Barcode Signature instance.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`BarcodeSignature`](/signature/python-net/groupdocs.signature.domain/barcodesignature)
+* class [`BarcodeSignature`](/signature/python-net/groupdocs.signature.domain/barcodesignature/)

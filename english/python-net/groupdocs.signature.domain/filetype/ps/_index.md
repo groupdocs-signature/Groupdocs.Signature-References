@@ -1,18 +1,17 @@
-﻿---
-title: PS property
+---
+title: PS field
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "PostScript File (.ps)"
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/ps/
 is_root: false
-weight: 480
+weight: 3210
 ---
 
-## PS property
 
+## PS field
 
 PostScript File (.ps)
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype)
+* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype/)

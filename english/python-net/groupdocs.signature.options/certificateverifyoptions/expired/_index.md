@@ -1,18 +1,20 @@
-﻿---
+---
 title: expired property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The property indicates whether the certificate is expired based on the validation result."
 type: docs
 url: /python-net/groupdocs.signature.options/certificateverifyoptions/expired/
 is_root: false
-weight: 40
+weight: 2010
 ---
+
 
 ## expired property
 
+The property indicates whether the certificate is expired based on the validation result.
 
-Indicates if certificate is expired date due validation result.
-Property is read-only.
+Read‑only.
+
 ### Definition:
 ```python
 @property
@@ -21,5 +23,4 @@ def expired(self):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`CertificateVerifyOptions`](/signature/python-net/groupdocs.signature.options/certificateverifyoptions)
+* class [`CertificateVerifyOptions`](/signature/python-net/groupdocs.signature.options/certificateverifyoptions/)

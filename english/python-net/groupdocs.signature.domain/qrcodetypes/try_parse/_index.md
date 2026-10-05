@@ -1,38 +1,28 @@
-﻿---
+---
 title: try_parse method
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Returns the QRCode type matching the given parsing type name, or None if the name is unknown."
 type: docs
 url: /python-net/groupdocs.signature.domain/qrcodetypes/try_parse/
 is_root: false
-weight: 30
+weight: 1020
 ---
 
-## try_parse {#System.String}
 
-Returns QRCode type with pasringType name. 
-If name of QRCode is unknown - no Exception will be throw but method will return null value.
+## try_parse {#parsing_type}
 
-
-### Returns 
-
-
-QRCodeType instance.
-
+Returns the QRCode type matching the given parsing type name, or None if the name is unknown.
 
 ```python
-def try_parse(self, parsing_type):
+def try_parse(cls, parsing_type):
     ...
 ```
 
-
 | Parameter | Type | Description |
 | :- | :- | :- |
-| parsing_type | System.String | Source string of QRCode type name. |
+| parsing_type | `str` | Source string of QRCode type name. |
 
-
+**Returns:** QrCodeTypes or None: QRCode type instance, or None when the name is not recognized.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`QrCodeType`](/signature/python-net/groupdocs.signature.domain/qrcodetype)
-* class [`QrCodeTypes`](/signature/python-net/groupdocs.signature.domain/qrcodetypes)
+* class [`QrCodeTypes`](/signature/python-net/groupdocs.signature.domain/qrcodetypes/)

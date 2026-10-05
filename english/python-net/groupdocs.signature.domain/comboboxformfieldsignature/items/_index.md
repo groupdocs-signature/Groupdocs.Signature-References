@@ -1,17 +1,18 @@
-﻿---
+---
 title: items property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The combo-box options list."
 type: docs
 url: /python-net/groupdocs.signature.domain/comboboxformfieldsignature/items/
 is_root: false
-weight: 80
+weight: 2010
 ---
+
 
 ## items property
 
+The combo-box options list.
 
-Get or set combo-box options list.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def items(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`ComboboxFormFieldSignature`](/signature/python-net/groupdocs.signature.domain/comboboxformfieldsignature)
+* class [`ComboboxFormFieldSignature`](/signature/python-net/groupdocs.signature.domain/comboboxformfieldsignature/)

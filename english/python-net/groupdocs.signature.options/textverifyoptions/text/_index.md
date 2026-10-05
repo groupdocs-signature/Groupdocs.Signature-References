@@ -1,17 +1,18 @@
-﻿---
+---
 title: text property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The signature text to verify."
 type: docs
 url: /python-net/groupdocs.signature.options/textverifyoptions/text/
 is_root: false
-weight: 140
+weight: 2060
 ---
+
 
 ## text property
 
+The signature text to verify.
 
-Specify Signature Text if it should be verified.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def text(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`TextVerifyOptions`](/signature/python-net/groupdocs.signature.options/textverifyoptions)
+* class [`TextVerifyOptions`](/signature/python-net/groupdocs.signature.options/textverifyoptions/)

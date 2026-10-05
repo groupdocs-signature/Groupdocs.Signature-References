@@ -1,17 +1,18 @@
-﻿---
+---
 title: background property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The signature background settings."
 type: docs
 url: /python-net/groupdocs.signature.options/textsignoptions/background/
 is_root: false
-weight: 50
+weight: 2010
 ---
+
 
 ## background property
 
+The signature background settings.
 
-Gets or sets the signature background settings.
 ### Definition:
 ```python
 @property
@@ -23,6 +24,4 @@ def background(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`Background`](/signature/python-net/groupdocs.signature.domain/background)
-* class [`TextSignOptions`](/signature/python-net/groupdocs.signature.options/textsignoptions)
+* class [`TextSignOptions`](/signature/python-net/groupdocs.signature.options/textsignoptions/)

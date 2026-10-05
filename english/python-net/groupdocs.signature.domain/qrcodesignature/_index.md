@@ -1,60 +1,67 @@
-﻿---
+---
 title: QrCodeSignature class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Represents QR-code signature properties."
 type: docs
 url: /python-net/groupdocs.signature.domain/qrcodesignature/
 is_root: false
-weight: 360
+weight: 550
 ---
+
 
 ## QrCodeSignature class
 
-Contains QR-code signature properties.
-
-
-
-**Inheritance:** [`QrCodeSignature`](/signature/python-net/groupdocs.signature.domain/qrcodesignature) → 
-[`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature)
-
-
+Represents QR-code signature properties.
 
 The QrCodeSignature type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.domain/qrcodesignature/__init__/#System.String) | Initialize QrCodeSignature object with signature identifier that was obtained after search process.<br/>This unique identifier is used to find additional properties for this signature from document signature information layer. |
-
-
-### Properties
-| Property | Description |
-| :- | :- |
-| [signature_type](/signature/python-net/groupdocs.signature.domain/qrcodesignature/signature_type) | Specifies the type of signature. |
-| [page_number](/signature/python-net/groupdocs.signature.domain/qrcodesignature/page_number) | Specifies the page signature was found on. |
-| [signature_id](/signature/python-net/groupdocs.signature.domain/qrcodesignature/signature_id) | Unique signature identifier to modify signature in the document over Update or Delete methods.<br/>This property will be set automatically after Sign or Search method being called.<br/>If this property was saved before it can be set manually to manipulate the signature. |
-| [is_signature](/signature/python-net/groupdocs.signature.domain/qrcodesignature/is_signature) | Get or set flag to indicate if this component is Signature or document content.<br/>This property is being used with Update method to set element as signature (true) or document element (false). |
-| [deleted](/signature/python-net/groupdocs.signature.domain/qrcodesignature/deleted) | Get the flag that indicates if this signature was deleted from the document.<br/>This property is being used only for document history log records to keep the list of deleted signatures. |
-| [created_on](/signature/python-net/groupdocs.signature.domain/qrcodesignature/created_on) | Get or set the signature creation date. |
-| [modified_on](/signature/python-net/groupdocs.signature.domain/qrcodesignature/modified_on) | Get or set the signature modification date. |
-| [top](/signature/python-net/groupdocs.signature.domain/qrcodesignature/top) | Specifies top position of signature. |
-| [left](/signature/python-net/groupdocs.signature.domain/qrcodesignature/left) | Specifies left position of signature. |
-| [width](/signature/python-net/groupdocs.signature.domain/qrcodesignature/width) | Specifies width of signature. |
-| [height](/signature/python-net/groupdocs.signature.domain/qrcodesignature/height) | Specifies height of signature. |
-| [encode_type](/signature/python-net/groupdocs.signature.domain/qrcodesignature/encode_type) | Specifies the QR-code Encode Type. |
-| [text](/signature/python-net/groupdocs.signature.domain/qrcodesignature/text) | Specifies text of QR-code. |
-| [format](/signature/python-net/groupdocs.signature.domain/qrcodesignature/format) | Specifies the format of QR-code signature image. |
-| [content](/signature/python-net/groupdocs.signature.domain/qrcodesignature/content) | Specifies QR-code binary data image content of type [`QrCodeSignature.format`](/signature/python-net/groupdocs.signature.domain/qrcodesignature#format).<br/>By default this property will not be set.<br/>Use property [`QrCodeSearchOptions.return_content`](/signature/python-net/groupdocs.signature.options/qrcodesearchoptions#return_content) to enable this feature. |
-
+| [__init__](/signature/python-net/groupdocs.signature.domain/qrcodesignature/__init__/#signature_id) | Initializes a QrCodeSignature object with a signature identifier obtained after a search process. |
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [clone](/signature/python-net/groupdocs.signature.domain/qrcodesignature/clone/#) | Clone QR-Code Signature instance. |
+| [clone](/signature/python-net/groupdocs.signature.domain/qrcodesignature/clone/) | Clones QR-Code Signature instance. |
+| [equals](/signature/python-net/groupdocs.signature.domain/qrcodesignature/equals/#obj) | Determines whether the given signature object is equal to this instance. |
+| [equals_object](/signature/python-net/groupdocs.signature.domain/qrcodesignature/equals_object/) |  |
+| [get_data](/signature/python-net/groupdocs.signature.domain/qrcodesignature/get_data/) |  |
+| [get_data](/signature/python-net/groupdocs.signature.domain/qrcodesignature/get_data/#data_encryption) |  |
+| [get_data_idata_encryption](/signature/python-net/groupdocs.signature.domain/qrcodesignature/get_data_idata_encryption/) |  |
+| [get_hash_code](/signature/python-net/groupdocs.signature.domain/qrcodesignature/get_hash_code/) | Overrides the GetHashCode method. |
 
+### Properties
+| Property | Description |
+| :- | :- |
+| [content](/signature/python-net/groupdocs.signature.domain/qrcodesignature/content/) | The QR-code binary data image content of type [`QrCodeSignature.format`](/signature/python-net/groupdocs.signature.domain/qrcodesignature/format/). |
+| [encode_type](/signature/python-net/groupdocs.signature.domain/qrcodesignature/encode_type/) | The QR-code encode type. |
+| [format](/signature/python-net/groupdocs.signature.domain/qrcodesignature/format/) | The format of the QR-code signature image. |
+| [text](/signature/python-net/groupdocs.signature.domain/qrcodesignature/text/) | The text of the QR-code. |
+| [created_on](/signature/python-net/groupdocs.signature.domain/basesignature/created_on/) | The signature creation date. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [deleted](/signature/python-net/groupdocs.signature.domain/basesignature/deleted/) | The flag indicating whether this signature was deleted from the document. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [height](/signature/python-net/groupdocs.signature.domain/basesignature/height/) | The height of the signature. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [is_signature](/signature/python-net/groupdocs.signature.domain/basesignature/is_signature/) | The flag indicating whether this component represents a signature (`True`) or document content (`False`). (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [left](/signature/python-net/groupdocs.signature.domain/basesignature/left/) | The left position of the signature. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [modified_on](/signature/python-net/groupdocs.signature.domain/basesignature/modified_on/) | The signature modification date. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [page_number](/signature/python-net/groupdocs.signature.domain/basesignature/page_number/) | The page number where the signature was found. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [signature_id](/signature/python-net/groupdocs.signature.domain/basesignature/signature_id/) | The unique identifier of the signature, used to modify the signature in the document via update or delete operations. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [signature_type](/signature/python-net/groupdocs.signature.domain/basesignature/signature_type/) | The type of signature. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [top](/signature/python-net/groupdocs.signature.domain/basesignature/top/) | The top position of the signature. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [width](/signature/python-net/groupdocs.signature.domain/basesignature/width/) | The width of the signature. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
 
+### Example
+
+```python
+from groupdocs.signature import Signature
+from groupdocs.signature.options import QrCodeSearchOptions
+
+with Signature("signed.pdf") as signature:
+    result = signature.search([QrCodeSearchOptions()])
+    if result.signatures:
+        qr = result.signatures[0]
+        print(qr.text, qr.encode_type.type_name, qr.left, qr.top)
+```
 
 ### See Also
-* module [`groupdocs.signature.domain`](..)
-* class [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature)
-* class [`QrCodeSignature`](/signature/python-net/groupdocs.signature.domain/qrcodesignature)
+* module [`groupdocs.signature.domain`](/signature/python-net/groupdocs.signature.domain/)

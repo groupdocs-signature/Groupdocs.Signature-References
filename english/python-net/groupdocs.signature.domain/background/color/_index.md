@@ -1,17 +1,18 @@
-﻿---
+---
 title: color property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The background color of the signature."
 type: docs
 url: /python-net/groupdocs.signature.domain/background/color/
 is_root: false
-weight: 50
+weight: 2020
 ---
+
 
 ## color property
 
+The background color of the signature.
 
-Gets or sets the background color of signature.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def color(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`Background`](/signature/python-net/groupdocs.signature.domain/background)
+* class [`Background`](/signature/python-net/groupdocs.signature.domain/background/)

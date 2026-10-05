@@ -1,17 +1,18 @@
-﻿---
+---
 title: ssid property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The WiFi SSID name."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/wifi/ssid/
 is_root: false
-weight: 60
+weight: 2040
 ---
+
 
 ## ssid property
 
+The WiFi SSID name.
 
-Gets or sets WiFi SSID Name.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def ssid(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`WiFi`](/signature/python-net/groupdocs.signature.domain.extensions/wifi)
+* class [`WiFi`](/signature/python-net/groupdocs.signature.domain.extensions/wifi/)

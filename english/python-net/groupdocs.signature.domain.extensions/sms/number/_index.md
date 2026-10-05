@@ -1,17 +1,18 @@
-﻿---
+---
 title: number property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The SMS recipient phone number."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/sms/number/
 is_root: false
-weight: 40
+weight: 2020
 ---
+
 
 ## number property
 
+The SMS recipient phone number.
 
-Gets or sets SMS recipient phone number.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def number(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`SMS`](/signature/python-net/groupdocs.signature.domain.extensions/sms)
+* class [`SMS`](/signature/python-net/groupdocs.signature.domain.extensions/sms/)

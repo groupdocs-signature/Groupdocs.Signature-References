@@ -1,19 +1,17 @@
-﻿---
-title: SQUARE property
+---
+title: SQUARE field
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Square stamp type object."
 type: docs
 url: /python-net/groupdocs.signature.domain/stamptypes/square/
 is_root: false
-weight: 60
+weight: 3030
 ---
 
-## SQUARE property
 
+## SQUARE field
 
 Square stamp type object.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`StampType`](/signature/python-net/groupdocs.signature.domain/stamptype)
-* class [`StampTypes`](/signature/python-net/groupdocs.signature.domain/stamptypes)
+* class [`StampTypes`](/signature/python-net/groupdocs.signature.domain/stamptypes/)

@@ -1,17 +1,18 @@
-﻿---
+---
 title: processing_time property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The execution time of the process in milliseconds."
 type: docs
 url: /python-net/groupdocs.signature.domain/verificationresult/processing_time/
 is_root: false
-weight: 60
+weight: 2040
 ---
+
 
 ## processing_time property
 
+The execution time of the process in milliseconds.
 
-Returns the execution time of the process in milliseconds.
 ### Definition:
 ```python
 @property
@@ -20,5 +21,4 @@ def processing_time(self):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`VerificationResult`](/signature/python-net/groupdocs.signature.domain/verificationresult)
+* class [`VerificationResult`](/signature/python-net/groupdocs.signature.domain/verificationresult/)

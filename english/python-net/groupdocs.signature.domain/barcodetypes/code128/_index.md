@@ -1,19 +1,17 @@
-﻿---
-title: CODE128 property
+---
+title: CODE128 field
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Code128 Barcode Type object."
 type: docs
 url: /python-net/groupdocs.signature.domain/barcodetypes/code128/
 is_root: false
-weight: 100
+weight: 3070
 ---
 
-## CODE128 property
 
+## CODE128 field
 
 Code128 Barcode Type object.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`BarcodeType`](/signature/python-net/groupdocs.signature.domain/barcodetype)
-* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes)
+* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes/)

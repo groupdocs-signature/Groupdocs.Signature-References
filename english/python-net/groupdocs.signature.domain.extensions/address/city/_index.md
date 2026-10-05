@@ -1,17 +1,18 @@
-﻿---
+---
 title: city property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The city of the address."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/address/city/
 is_root: false
-weight: 30
+weight: 2010
 ---
+
 
 ## city property
 
+The city of the address.
 
-Gets or sets address city.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def city(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`Address`](/signature/python-net/groupdocs.signature.domain.extensions/address)
+* class [`Address`](/signature/python-net/groupdocs.signature.domain.extensions/address/)

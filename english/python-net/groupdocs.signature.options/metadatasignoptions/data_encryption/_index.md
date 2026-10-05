@@ -1,18 +1,20 @@
-﻿---
+---
 title: data_encryption property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The implementation of IDataEncryption used to encrypt all metadata signatures in this options collection."
 type: docs
 url: /python-net/groupdocs.signature.options/metadatasignoptions/data_encryption/
 is_root: false
-weight: 80
+weight: 2010
 ---
+
 
 ## data_encryption property
 
+The implementation of [`IDataEncryption`](/signature/python-net/groupdocs.signature.domain.extensions/idataencryption/) used to encrypt all metadata signatures in this options collection.
 
-Gets or sets implementation of [`IDataEncryption`](/signature/python-net/groupdocs.signature.domain.extensions/idataencryption) interface to encrypt all Metadata signatures withing this options collection.
-If this value is set all added signatures will use this encryption by default or its own DataEncryption if it was assigned.
+If set, all added signatures will use this encryption by default unless they have their own DataEncryption assigned.
+
 ### Definition:
 ```python
 @property
@@ -24,6 +26,4 @@ def data_encryption(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`IDataEncryption`](/signature/python-net/groupdocs.signature.domain.extensions/idataencryption)
-* class [`MetadataSignOptions`](/signature/python-net/groupdocs.signature.options/metadatasignoptions)
+* class [`MetadataSignOptions`](/signature/python-net/groupdocs.signature.options/metadatasignoptions/)

@@ -1,19 +1,20 @@
-﻿---
+---
 title: save_document_on_empty_delete property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The flag that determines whether the source document is re-saved when the Delete method has no affected signatures to remove."
 type: docs
 url: /python-net/groupdocs.signature/signaturesettings/save_document_on_empty_delete/
 is_root: false
-weight: 60
+weight: 2050
 ---
+
 
 ## save_document_on_empty_delete property
 
+The flag that determines whether the source document is re-saved when the Delete method has no affected signatures to remove.
 
-Gets or sets flag to re-save source document when Delete method has no affected signatures to remove.
-If this flag is set to true (by default) document will be saving with corresponding history process log (date and operation type) even if Delete method has no signatures to remove.
-When this flat is set to false source document will not be modified at all.
+When True (default), the document is saved with a history log (date and operation type) even if no signatures were removed; when False, the source document is left unchanged.
+
 ### Definition:
 ```python
 @property
@@ -25,5 +26,4 @@ def save_document_on_empty_delete(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature`](../../)
-* class [`SignatureSettings`](/signature/python-net/groupdocs.signature/signaturesettings)
+* class [`SignatureSettings`](/signature/python-net/groupdocs.signature/signaturesettings/)

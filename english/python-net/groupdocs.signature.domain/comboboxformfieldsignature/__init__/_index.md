@@ -1,68 +1,55 @@
-﻿---
-title: ComboboxFormFieldSignature constructor
+---
+title: __init__ constructor
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Initializes a ComboboxFormFieldSignature with a predefined name."
 type: docs
 url: /python-net/groupdocs.signature.domain/comboboxformfieldsignature/__init__/
 is_root: false
 weight: 10
 ---
 
-## __init__ {#System.String}
 
-Creates ComboboxFormFieldSignature with predefined name.
+## __init__ {#name}
 
-
+Initializes a ComboboxFormFieldSignature with a predefined name.
 
 ```python
 def __init__(self, name):
     ...
 ```
 
-
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | System.String | Name of form field object. |
+| name | `str` | Name of form field object. |
 
+## __init__ {#name-items}
 
-## __init__ {#System.String-System.Collections.Generic.List`1[[System.String]]}
-
-Constructs a new instance of ComboboxFormFieldSignature
-
-
+Initializes a ComboboxFormFieldSignature with a predefined name and options list.
 
 ```python
 def __init__(self, name, items):
     ...
 ```
 
-
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | System.String |  |
-| items | System.Collections.Generic.List`1[[System.String]] |  |
+| name | `str` | Name of the form field object. |
+| items | `List[str]` | Values of the combo-box list. |
 
+## __init__ {#name-items-selected}
 
-## __init__ {#System.String-System.Collections.Generic.List`1[[System.String]]-System.Object}
-
-Constructs a new instance of ComboboxFormFieldSignature
-
-
+Initializes a ComboboxFormFieldSignature with a predefined name, options list, and selected value.
 
 ```python
 def __init__(self, name, items, selected):
     ...
 ```
 
-
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | System.String |  |
-| items | System.Collections.Generic.List`1[[System.String]] |  |
-| selected | System.Object |  |
-
-
+| name | `str` | Name of form field object. |
+| items | `List[str]` | Values of combo-box list. |
+| selected | `Any` | Selected value. |
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`ComboboxFormFieldSignature`](/signature/python-net/groupdocs.signature.domain/comboboxformfieldsignature)
+* class [`ComboboxFormFieldSignature`](/signature/python-net/groupdocs.signature.domain/comboboxformfieldsignature/)

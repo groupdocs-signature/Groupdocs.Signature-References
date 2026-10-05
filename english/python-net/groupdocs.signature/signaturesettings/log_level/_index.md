@@ -1,18 +1,20 @@
-﻿---
+---
 title: log_level property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The log level flags that determine which kinds of messages are passed to SignatureSettings.Logger."
 type: docs
 url: /python-net/groupdocs.signature/signaturesettings/log_level/
 is_root: false
-weight: 40
+weight: 2030
 ---
+
 
 ## log_level property
 
+The log level flags that determine which kinds of messages are passed to [`SignatureSettings.Logger`](/signature/python-net/groupdocs.signature/signaturesettings/logger/).
 
-The level of the logging to limit the messages (All, Traces, Warnings, Errors). [`SignatureSettings.log_level`](/signature/python-net/groupdocs.signature/signaturesettings#log_level).
-BY default the All level type is set.
+The value is a set of `LogLevel` flags that can be combined, for example `LogLevel.Error | LogLevel.Warning`. `LogLevel.None` logs nothing. The default is `LogLevel.All`: errors, warnings and traces.
+
 ### Definition:
 ```python
 @property
@@ -24,6 +26,4 @@ def log_level(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature`](../../)
-* class [`LogLevel`](/signature/python-net/groupdocs.signature.logging/loglevel)
-* class [`SignatureSettings`](/signature/python-net/groupdocs.signature/signaturesettings)
+* class [`SignatureSettings`](/signature/python-net/groupdocs.signature/signaturesettings/)

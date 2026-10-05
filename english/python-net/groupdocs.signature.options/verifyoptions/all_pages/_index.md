@@ -1,17 +1,18 @@
-﻿---
+---
 title: all_pages property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The flag indicating whether each document page should be verified."
 type: docs
 url: /python-net/groupdocs.signature.options/verifyoptions/all_pages/
 is_root: false
-weight: 30
+weight: 2010
 ---
+
 
 ## all_pages property
 
+The flag indicating whether each document page should be verified. By default the value is True.
 
-Flag to verify each document page. By default value is true.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def all_pages(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`VerifyOptions`](/signature/python-net/groupdocs.signature.options/verifyoptions)
+* class [`VerifyOptions`](/signature/python-net/groupdocs.signature.options/verifyoptions/)

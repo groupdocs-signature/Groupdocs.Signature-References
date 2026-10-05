@@ -1,42 +1,28 @@
-﻿---
+---
 title: License class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Manages GroupDocs.Signature licensing."
 type: docs
 url: /python-net/groupdocs.signature/license/
 is_root: false
 weight: 30
 ---
 
+
 ## License class
 
-Provides methods to license the component. Learn more about licensing [here](https://purchase.groupdocs.com/faqs/licensing).
+Manages GroupDocs.Signature licensing.
 
-
+Licensed builds unlock the full feature set of the wrapper at
+runtime. Unlicensed builds run in evaluation mode with the same API
+surface but with limits on output size and watermarked content.
 
 The License type exposes the following members:
-
-### Constructors
-| Constructor | Description |
-| :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature/license/__init__/#) | Instantiate the License |
-
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_license](/signature/python-net/groupdocs.signature/license/set_license/#System.String) | Licenses the component. |
-| [set_license](/signature/python-net/groupdocs.signature/license/set_license/#io.RawIOBase) | Licenses the component. |
-
-
-
-### Remarks 
-
-
-**Learn more** |
-|
- |
- |
+| [set_license](/signature/python-net/groupdocs.signature/license/set_license/#license_source) | Apply a license to the current process. |
 
 ### See Also
-* module [`groupdocs.signature`](..)
+* module [`groupdocs.signature`](/signature/python-net/groupdocs.signature/)

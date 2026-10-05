@@ -1,18 +1,18 @@
-﻿---
+---
 title: page_number property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The document page number for searching (optional)."
 type: docs
 url: /python-net/groupdocs.signature.options/searchoptions/page_number/
 is_root: false
-weight: 40
+weight: 2020
 ---
+
 
 ## page_number property
 
+The document page number for searching (optional).
 
-Gets or sets Document page number for searching.
-Value is optional.
 ### Definition:
 ```python
 @property
@@ -24,5 +24,4 @@ def page_number(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`SearchOptions`](/signature/python-net/groupdocs.signature.options/searchoptions)
+* class [`SearchOptions`](/signature/python-net/groupdocs.signature.options/searchoptions/)

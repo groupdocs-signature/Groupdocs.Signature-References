@@ -1,18 +1,18 @@
-﻿---
+---
 title: stamp_type property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The stamp type."
 type: docs
 url: /python-net/groupdocs.signature.options/stampsignoptions/stamp_type/
 is_root: false
-weight: 300
+weight: 2140
 ---
+
 
 ## stamp_type property
 
+The stamp type. Default is `Round`.
 
-Gets or sets stamp type.
-Value by default is Round.
 ### Definition:
 ```python
 @property
@@ -24,6 +24,4 @@ def stamp_type(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`StampSignOptions`](/signature/python-net/groupdocs.signature.options/stampsignoptions)
-* class [`StampType`](/signature/python-net/groupdocs.signature.domain/stamptype)
+* class [`StampSignOptions`](/signature/python-net/groupdocs.signature.options/stampsignoptions/)

@@ -1,17 +1,18 @@
-﻿---
+---
 title: encode_type property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The QR-code type verification."
 type: docs
 url: /python-net/groupdocs.signature.options/qrcodeverifyoptions/encode_type/
 is_root: false
-weight: 50
+weight: 2020
 ---
+
 
 ## encode_type property
 
+The QR-code type verification. This property is optional.
 
-Gets or sets QR-code Type verification. This property is optional.
 ### Definition:
 ```python
 @property
@@ -23,6 +24,4 @@ def encode_type(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`QrCodeType`](/signature/python-net/groupdocs.signature.domain/qrcodetype)
-* class [`QrCodeVerifyOptions`](/signature/python-net/groupdocs.signature.options/qrcodeverifyoptions)
+* class [`QrCodeVerifyOptions`](/signature/python-net/groupdocs.signature.options/qrcodeverifyoptions/)

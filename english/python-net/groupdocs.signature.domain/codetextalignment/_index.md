@@ -1,29 +1,24 @@
-﻿---
-title: CodeTextAlignment enumeration
+---
+title: CodeTextAlignment class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "CodeTextAlignment enum — GroupDocs.Signature for Python via .NET API reference."
 type: docs
 url: /python-net/groupdocs.signature.domain/codetextalignment/
 is_root: false
-weight: 540
+weight: 90
 ---
 
-## CodeTextAlignment enumeration
 
-Alignment of code text for Barcodes and QR-codes.
-
-
+## CodeTextAlignment class
 
 The CodeTextAlignment type exposes the following members:
 
 ### Fields
 | Field | Description |
 | :- | :- |
-| NONE | Text is not visible. |
-| ABOVE | Text is above the code. |
-| BELOW | Text is below the code. |
-
-
+| [NONE](/signature/python-net/groupdocs.signature.domain/codetextalignment/none/) | Text is not visible. |
+| [ABOVE](/signature/python-net/groupdocs.signature.domain/codetextalignment/above/) | Text is above the code. |
+| [BELOW](/signature/python-net/groupdocs.signature.domain/codetextalignment/below/) | Text is below the code. |
 
 ### See Also
-* module [`groupdocs.signature.domain`](..)
+* module [`groupdocs.signature.domain`](/signature/python-net/groupdocs.signature.domain/)

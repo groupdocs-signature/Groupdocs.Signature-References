@@ -1,17 +1,18 @@
-﻿---
+---
 title: value property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The entry value."
 type: docs
 url: /python-net/groupdocs.signature.options/dicomxmpentry/value/
 is_root: false
-weight: 40
+weight: 2020
 ---
+
 
 ## value property
 
+The entry value.
 
-Entry value.
 ### Definition:
 ```python
 @property
@@ -20,5 +21,4 @@ def value(self):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`DicomXmpEntry`](/signature/python-net/groupdocs.signature.options/dicomxmpentry)
+* class [`DicomXmpEntry`](/signature/python-net/groupdocs.signature.options/dicomxmpentry/)

@@ -1,17 +1,18 @@
-﻿---
+---
 title: progress property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The progress in percents, ranging from 0 to 100."
 type: docs
 url: /python-net/groupdocs.signature/processprogresseventargs/progress/
 is_root: false
-weight: 50
+weight: 2030
 ---
+
 
 ## progress property
 
+The progress in percents, ranging from 0 to 100.
 
-Represents the progress in percents. Value range is from 0 to 100.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def progress(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature`](../../)
-* class [`ProcessProgressEventArgs`](/signature/python-net/groupdocs.signature/processprogresseventargs)
+* class [`ProcessProgressEventArgs`](/signature/python-net/groupdocs.signature/processprogresseventargs/)

@@ -1,17 +1,18 @@
-﻿---
+---
 title: signatures property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The metadata signatures associated with the signature."
 type: docs
 url: /python-net/groupdocs.signature.options/metadatasignoptions/signatures/
 is_root: false
-weight: 150
+weight: 2020
 ---
+
 
 ## signatures property
 
+The metadata signatures associated with the signature.
 
-Gets or sets the Metadata of signature.
 ### Definition:
 ```python
 @property
@@ -23,6 +24,4 @@ def signatures(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`MetadataSignOptions`](/signature/python-net/groupdocs.signature.options/metadatasignoptions)
-* class [`MetadataSignatureCollection`](/signature/python-net/groupdocs.signature.domain/metadatasignaturecollection)
+* class [`MetadataSignOptions`](/signature/python-net/groupdocs.signature.options/metadatasignoptions/)

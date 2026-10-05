@@ -1,0 +1,27 @@
+---
+title: certificate_store_name property
+second_title: GroupDocs.Signature for Python via .NET API References
+description: "The store name of the certificate."
+type: docs
+url: /python-net/groupdocs.signature.domain/digitalsignature/certificate_store_name/
+is_root: false
+weight: 2040
+---
+
+
+## certificate_store_name property
+
+The store name of the certificate.
+
+### Definition:
+```python
+@property
+def certificate_store_name(self):
+    ...
+@certificate_store_name.setter
+def certificate_store_name(self, value):
+    ...
+```
+
+### See Also
+* class [`DigitalSignature`](/signature/python-net/groupdocs.signature.domain/digitalsignature/)

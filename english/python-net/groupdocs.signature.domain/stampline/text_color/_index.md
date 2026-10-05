@@ -1,17 +1,18 @@
-﻿---
+---
 title: text_color property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The text color of the signature."
 type: docs
 url: /python-net/groupdocs.signature.domain/stampline/text_color/
 is_root: false
-weight: 100
+weight: 2080
 ---
+
 
 ## text_color property
 
+The text color of the signature.
 
-Gets or sets the text color of signature.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def text_color(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`StampLine`](/signature/python-net/groupdocs.signature.domain/stampline)
+* class [`StampLine`](/signature/python-net/groupdocs.signature.domain/stampline/)

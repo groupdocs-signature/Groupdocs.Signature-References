@@ -1,17 +1,20 @@
-﻿---
+---
 title: match_type property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The QR-Code text match type used during search."
 type: docs
 url: /python-net/groupdocs.signature.options/qrcodesearchoptions/match_type/
 is_root: false
-weight: 60
+weight: 2030
 ---
+
 
 ## match_type property
 
+The QR-Code text match type used during search.
 
-Gets or sets QR-Code Text Match Type search. It is used only when Text property is set.
+It is used only when the `text` property is set.
+
 ### Definition:
 ```python
 @property
@@ -23,6 +26,4 @@ def match_type(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`QrCodeSearchOptions`](/signature/python-net/groupdocs.signature.options/qrcodesearchoptions)
-* class [`TextMatchType`](/signature/python-net/groupdocs.signature.domain/textmatchtype)
+* class [`QrCodeSearchOptions`](/signature/python-net/groupdocs.signature.options/qrcodesearchoptions/)

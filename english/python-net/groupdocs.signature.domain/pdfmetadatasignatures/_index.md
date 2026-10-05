@@ -1,38 +1,52 @@
-﻿---
+---
 title: PdfMetadataSignatures class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Contains standard metadata signatures for PDF document metadata signature options."
 type: docs
 url: /python-net/groupdocs.signature.domain/pdfmetadatasignatures/
 is_root: false
-weight: 330
+weight: 450
 ---
+
 
 ## PdfMetadataSignatures class
 
-Contains standard Metadata signatures to be used for Pdf document Metadata Signature Options.
-
-
+Contains standard metadata signatures for PDF document metadata signature options.
 
 The PdfMetadataSignatures type exposes the following members:
 
-### Properties
-| Property | Description |
-| :- | :- |
-| [author](/signature/python-net/groupdocs.signature.domain/pdfmetadatasignatures/author) | Pdf Document Author metadata. |
-| [create_date](/signature/python-net/groupdocs.signature.domain/pdfmetadatasignatures/create_date) | Pdf Document creation date metadata signature. |
-| [metadata_date](/signature/python-net/groupdocs.signature.domain/pdfmetadatasignatures/metadata_date) | Pdf Document metadata date information. |
-| [creator_tool](/signature/python-net/groupdocs.signature.domain/pdfmetadatasignatures/creator_tool) | Pdf Document creation tool metadata signature. |
-| [modify_date](/signature/python-net/groupdocs.signature.domain/pdfmetadatasignatures/modify_date) | Pdf Document modified date metadata property. |
-| [producer](/signature/python-net/groupdocs.signature.domain/pdfmetadatasignatures/producer) | Pdf Document Producer metadata property. |
-| [entry](/signature/python-net/groupdocs.signature.domain/pdfmetadatasignatures/entry) | Pdf Document Entry metadata property. |
-| [keywords](/signature/python-net/groupdocs.signature.domain/pdfmetadatasignatures/keywords) | Pdf Document creator metadata property |
-| [title](/signature/python-net/groupdocs.signature.domain/pdfmetadatasignatures/title) | Pdf Document Title metadata property |
-| [subject](/signature/python-net/groupdocs.signature.domain/pdfmetadatasignatures/subject) | Pdf Document Subject metadata property. |
-| [description](/signature/python-net/groupdocs.signature.domain/pdfmetadatasignatures/description) | Pdf Document Description metadata property. |
-| [creator](/signature/python-net/groupdocs.signature.domain/pdfmetadatasignatures/creator) | Pdf Document creator metadata property. |
+### Example
+
+```python
+from datetime import datetime, timedelta
+
+from groupdocs.signature import Signature
+from groupdocs.signature.options import MetadataSignOptions
+from groupdocs.signature.domain import PdfMetadataSignatures
 
 
+def sign_pdf_standard():
+    with Signature("sample.pdf") as signature:
+        options = MetadataSignOptions()
+
+        now = datetime.now()
+        signatures = [
+            PdfMetadataSignatures.AUTHOR.clone("Mr.Scherlock Holmes"),
+            PdfMetadataSignatures.CREATE_DATE.clone(now - timedelta(days=1)),
+            PdfMetadataSignatures.METADATA_DATE.clone(now - timedelta(days=2)),
+            PdfMetadataSignatures.CREATOR_TOOL.clone("GD.Signature-Test"),
+            PdfMetadataSignatures.MODIFY_DATE.clone(now - timedelta(days=13)),
+            PdfMetadataSignatures.PRODUCER.clone("GroupDocs-Producer"),
+            PdfMetadataSignatures.ENTRY.clone("Signature"),
+            PdfMetadataSignatures.KEYWORDS.clone("GroupDocs, Signature, Metadata, Creation Tool"),
+            PdfMetadataSignatures.TITLE.clone("Metadata Example"),
+            PdfMetadataSignatures.SUBJECT.clone("Metadata Test Example"),
+            PdfMetadataSignatures.DESCRIPTION.clone("Metadata Test example description"),
+            PdfMetadataSignatures.CREATOR.clone("GroupDocs.Signature"),
+        ]
+
+        options.signatures.add_range(signatures)
+```
 
 ### See Also
-* module [`groupdocs.signature.domain`](..)
+* module [`groupdocs.signature.domain`](/signature/python-net/groupdocs.signature.domain/)

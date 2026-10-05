@@ -1,28 +1,22 @@
-﻿---
-title: TextShadow constructor
+---
+title: __init__ constructor
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Initializes TextShadow with default options."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/textshadow/__init__/
 is_root: false
 weight: 10
 ---
 
-## __init__ {#}
 
-Creates TextShadow with default options.
+## __init__
 
-
+Initializes TextShadow with default options.
 
 ```python
 def __init__(self):
     ...
 ```
 
-
-
-
-
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`TextShadow`](/signature/python-net/groupdocs.signature.domain.extensions/textshadow)
+* class [`TextShadow`](/signature/python-net/groupdocs.signature.domain.extensions/textshadow/)

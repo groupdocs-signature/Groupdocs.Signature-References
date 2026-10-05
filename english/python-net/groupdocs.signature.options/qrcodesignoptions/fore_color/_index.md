@@ -1,18 +1,18 @@
-﻿---
+---
 title: fore_color property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The foreground color of QR code bars; using this property could cause verification problems, so use it carefully."
 type: docs
 url: /python-net/groupdocs.signature.options/qrcodesignoptions/fore_color/
 is_root: false
-weight: 140
+weight: 2050
 ---
+
 
 ## fore_color property
 
+The foreground color of QR code bars; using this property could cause verification problems, so use it carefully.
 
-Gets or sets the Fore color of QR-Code bars
-Using of this property could cause problems with verification. Use it carefully.
 ### Definition:
 ```python
 @property
@@ -24,5 +24,4 @@ def fore_color(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`QrCodeSignOptions`](/signature/python-net/groupdocs.signature.options/qrcodesignoptions)
+* class [`QrCodeSignOptions`](/signature/python-net/groupdocs.signature.options/qrcodesignoptions/)

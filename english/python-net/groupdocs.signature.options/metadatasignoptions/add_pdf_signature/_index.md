@@ -1,39 +1,30 @@
-﻿---
+---
 title: add_pdf_signature method
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Creates a new PdfMetadataSignature with the given arguments and adds it to the collection."
 type: docs
 url: /python-net/groupdocs.signature.options/metadatasignoptions/add_pdf_signature/
 is_root: false
-weight: 40
+weight: 1050
 ---
 
-## add_pdf_signature {#System.String-System.Object-System.String}
 
-Creates new PdfMetadataSignature with passed arguments and adds it to collection.
+## add_pdf_signature {#name-value-tag}
 
-
-### Returns 
-
-
-Newly created signature that was added to MetadataSignatures collection
-
+Creates a new PdfMetadataSignature with the given arguments and adds it to the collection.
 
 ```python
 def add_pdf_signature(self, name, value, tag):
     ...
 ```
 
-
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | System.String | Name of Metadata signature object |
-| value | System.Object | Value of Metadata signature |
-| tag | System.String | Prefix tag of Metadata signature |
+| name | `str` | Name of the metadata signature object. |
+| value | `Any` | Value of the metadata signature. |
+| tag | `str` | Prefix tag of the metadata signature. |
 
-
+**Returns:** Newly created signature that was added to the MetadataSignatures collection.
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`MetadataSignOptions`](/signature/python-net/groupdocs.signature.options/metadatasignoptions)
-* class [`PdfMetadataSignature`](/signature/python-net/groupdocs.signature.domain/pdfmetadatasignature)
+* class [`MetadataSignOptions`](/signature/python-net/groupdocs.signature.options/metadatasignoptions/)

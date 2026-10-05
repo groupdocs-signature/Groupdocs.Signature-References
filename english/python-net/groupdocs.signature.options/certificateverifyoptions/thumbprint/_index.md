@@ -1,17 +1,18 @@
-﻿---
+---
 title: thumbprint property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The certificate thumbprint to verify."
 type: docs
 url: /python-net/groupdocs.signature.options/certificateverifyoptions/thumbprint/
 is_root: false
-weight: 150
+weight: 2070
 ---
+
 
 ## thumbprint property
 
+The certificate thumbprint to verify.
 
-Specify Certificate Thumbprint if it should be verified.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def thumbprint(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`CertificateVerifyOptions`](/signature/python-net/groupdocs.signature.options/certificateverifyoptions)
+* class [`CertificateVerifyOptions`](/signature/python-net/groupdocs.signature.options/certificateverifyoptions/)

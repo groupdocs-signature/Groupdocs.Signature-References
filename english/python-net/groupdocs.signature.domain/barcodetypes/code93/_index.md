@@ -1,19 +1,17 @@
-﻿---
-title: CODE93 property
+---
+title: CODE93 field
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Code93 Barcode Type object."
 type: docs
 url: /python-net/groupdocs.signature.domain/barcodetypes/code93/
 is_root: false
-weight: 130
+weight: 3710
 ---
 
-## CODE93 property
 
+## CODE93 field
 
 Code93 Barcode Type object.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`BarcodeType`](/signature/python-net/groupdocs.signature.domain/barcodetype)
-* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes)
+* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes/)

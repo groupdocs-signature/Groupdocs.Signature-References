@@ -1,17 +1,18 @@
-﻿---
+---
 title: password property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The password of the digital certificate."
 type: docs
 url: /python-net/groupdocs.signature.options/digitalsignoptions/password/
 is_root: false
-weight: 250
+weight: 2140
 ---
+
 
 ## password property
 
+The password of the digital certificate.
 
-Gets or sets the password of digital certificate.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def password(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`DigitalSignOptions`](/signature/python-net/groupdocs.signature.options/digitalsignoptions)
+* class [`DigitalSignOptions`](/signature/python-net/groupdocs.signature.options/digitalsignoptions/)

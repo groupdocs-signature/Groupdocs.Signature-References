@@ -1,17 +1,18 @@
-﻿---
+---
 title: type property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The Form field type."
 type: docs
 url: /python-net/groupdocs.signature.domain/formfieldsignature/type/
 is_root: false
-weight: 150
+weight: 2020
 ---
+
 
 ## type property
 
+The Form field type.
 
-Specifies Form field type.
 ### Definition:
 ```python
 @property
@@ -20,6 +21,4 @@ def type(self):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`FormFieldSignature`](/signature/python-net/groupdocs.signature.domain/formfieldsignature)
-* class [`FormFieldType`](/signature/python-net/groupdocs.signature.domain/formfieldtype)
+* class [`FormFieldSignature`](/signature/python-net/groupdocs.signature.domain/formfieldsignature/)

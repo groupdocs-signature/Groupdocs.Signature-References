@@ -1,17 +1,18 @@
-﻿---
+---
 title: text property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The text of the barcode."
 type: docs
 url: /python-net/groupdocs.signature.domain/barcodesignature/text/
 is_root: false
-weight: 160
+weight: 2040
 ---
+
 
 ## text property
 
+The text of the barcode.
 
-Specifies text of Barcode.
 ### Definition:
 ```python
 @property
@@ -20,5 +21,4 @@ def text(self):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`BarcodeSignature`](/signature/python-net/groupdocs.signature.domain/barcodesignature)
+* class [`BarcodeSignature`](/signature/python-net/groupdocs.signature.domain/barcodesignature/)

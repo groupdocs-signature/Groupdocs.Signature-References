@@ -1,17 +1,18 @@
-﻿---
+---
 title: data_encryption property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The implementation of IDataEncryption used to encode and decode QR-Code signature text or data properties."
 type: docs
 url: /python-net/groupdocs.signature.options/qrcodesearchoptions/data_encryption/
 is_root: false
-weight: 40
+weight: 2010
 ---
+
 
 ## data_encryption property
 
+The implementation of [`IDataEncryption`](/signature/python-net/groupdocs.signature.domain.extensions/idataencryption/) used to encode and decode QR-Code signature text or data properties.
 
-Gets or sets implementation of [`IDataEncryption`](/signature/python-net/groupdocs.signature.domain.extensions/idataencryption) interface to encode and decode QR-Code Signature Text or Data properties.
 ### Definition:
 ```python
 @property
@@ -23,6 +24,4 @@ def data_encryption(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`IDataEncryption`](/signature/python-net/groupdocs.signature.domain.extensions/idataencryption)
-* class [`QrCodeSearchOptions`](/signature/python-net/groupdocs.signature.options/qrcodesearchoptions)
+* class [`QrCodeSearchOptions`](/signature/python-net/groupdocs.signature.options/qrcodesearchoptions/)

@@ -1,19 +1,17 @@
-﻿---
-title: DEUTSCHE_POST_LEITCODE property
+---
+title: DEUTSCHE_POST_LEITCODE field
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "DeutschePostLeitcode Barcode Type object."
 type: docs
 url: /python-net/groupdocs.signature.domain/barcodetypes/deutsche_post_leitcode/
 is_root: false
-weight: 260
+weight: 3220
 ---
 
-## DEUTSCHE_POST_LEITCODE property
 
+## DEUTSCHE_POST_LEITCODE field
 
 DeutschePostLeitcode Barcode Type object.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`BarcodeType`](/signature/python-net/groupdocs.signature.domain/barcodetype)
-* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes)
+* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes/)

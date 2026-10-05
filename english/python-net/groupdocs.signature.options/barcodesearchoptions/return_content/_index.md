@@ -1,19 +1,20 @@
-﻿---
+---
 title: return_content property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The flag indicating whether to retrieve the barcode image content of a signature on a document page."
 type: docs
 url: /python-net/groupdocs.signature.options/barcodesearchoptions/return_content/
 is_root: false
-weight: 80
+weight: 2030
 ---
+
 
 ## return_content property
 
+The flag indicating whether to retrieve the barcode image content of a signature on a document page.
 
-Gets or sets flag to grab Barcode image content of signature on document page.
-If this flag is set true, Barcode signature image content will keep raw image data by required format [`BarcodeSearchOptions.return_content_type`](/signature/python-net/groupdocs.signature.options/barcodesearchoptions#return_content_type).
-By default this option is disabled.
+If set to `True`, the barcode signature image content is kept as raw image data in the format specified by `return_content_type`. Disabled by default.
+
 ### Definition:
 ```python
 @property
@@ -25,5 +26,4 @@ def return_content(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`BarcodeSearchOptions`](/signature/python-net/groupdocs.signature.options/barcodesearchoptions)
+* class [`BarcodeSearchOptions`](/signature/python-net/groupdocs.signature.options/barcodesearchoptions/)

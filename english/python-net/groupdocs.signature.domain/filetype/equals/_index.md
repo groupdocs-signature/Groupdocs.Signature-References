@@ -1,36 +1,43 @@
-﻿---
+---
 title: equals method
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Determines whether the current FileType is the same as the specified FileType object."
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/equals/
 is_root: false
-weight: 20
+weight: 1010
 ---
 
-## equals {#groupdocs.signature.domain.FileType}
 
-Determines whether the current [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype) is the same as specified [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype) object.
+## equals {#other}
 
-
-### Returns 
-
-
-if both [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype) objects are the same; otherwise,
-
+Determines whether the current FileType is the same as the specified FileType object.
 
 ```python
 def equals(self, other):
     ...
 ```
 
+| Parameter | Type | Description |
+| :- | :- | :- |
+| other | `FileType` | The object to compare with the current FileType object. |
+
+**Returns:** bool: True if both FileType objects are the same; otherwise, False.
+
+## equals {#obj}
+
+Determines whether the current [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype/) is the same as the specified object.
+
+```python
+def equals(self, obj):
+    ...
+```
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| other | groupdocs.signature.domain.FileType | The object to compare with the current [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype) object. |
+| obj | `Any` | The object to compare with the current `FileType` object. |
 
-
+**Returns:** True if `obj` is a `FileType` and is the same as the current `FileType` object; otherwise, False.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype)
+* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype/)

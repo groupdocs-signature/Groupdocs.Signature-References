@@ -1,18 +1,27 @@
-﻿---
+---
 title: stretch property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The stretch mode on the document page."
 type: docs
 url: /python-net/groupdocs.signature.options/digitalsignoptions/stretch/
 is_root: false
-weight: 330
+weight: 2190
 ---
+
 
 ## stretch property
 
+The stretch mode on the document page.
 
-Stretch mode on Document Page.
+### Definition:
+```python
+@property
+def stretch(self):
+    ...
+@stretch.setter
+def stretch(self, value):
+    ...
+```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`DigitalSignOptions`](/signature/python-net/groupdocs.signature.options/digitalsignoptions)
+* class [`DigitalSignOptions`](/signature/python-net/groupdocs.signature.options/digitalsignoptions/)

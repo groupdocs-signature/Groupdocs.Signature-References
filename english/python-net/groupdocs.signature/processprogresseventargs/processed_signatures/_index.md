@@ -1,17 +1,18 @@
-﻿---
+---
 title: processed_signatures property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The quantity of processed signatures."
 type: docs
 url: /python-net/groupdocs.signature/processprogresseventargs/processed_signatures/
 is_root: false
-weight: 40
+weight: 2020
 ---
+
 
 ## processed_signatures property
 
+The quantity of processed signatures.
 
-Represents the quantity of processed signatures.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def processed_signatures(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature`](../../)
-* class [`ProcessProgressEventArgs`](/signature/python-net/groupdocs.signature/processprogresseventargs)
+* class [`ProcessProgressEventArgs`](/signature/python-net/groupdocs.signature/processprogresseventargs/)

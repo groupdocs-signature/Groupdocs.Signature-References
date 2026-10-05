@@ -1,62 +1,71 @@
-﻿---
-title: DigitalVerifyOptions constructor
+---
+title: __init__ constructor
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Initializes a DigitalVerifyOptions instance with default values."
 type: docs
 url: /python-net/groupdocs.signature.options/digitalverifyoptions/__init__/
 is_root: false
 weight: 10
 ---
 
-## __init__ {#}
 
-Creates Digital Verification Option with default values.
+## __init__
 
-
+Initializes a DigitalVerifyOptions instance with default values.
 
 ```python
 def __init__(self):
     ...
 ```
 
+### Example
 
+```python
+from groupdocs.signature import Signature
+from groupdocs.signature.options import DigitalVerifyOptions
 
+with Signature("signed.pdf") as signature:
+    options = DigitalVerifyOptions("certificate.pfx")
+    options.password = "1234567890"
+    result = signature.verify(options)
+    print(f"Verification result: {result.is_valid}")
+```
 
-## __init__ {#System.String}
+## __init__ {#certificate_file_path}
 
-Creates Digital Verification Option with given digital certificate file path.
-
-
+Initializes a DigitalVerifyOptions instance with the given digital certificate file path.
 
 ```python
 def __init__(self, certificate_file_path):
     ...
 ```
 
-
 | Parameter | Type | Description |
 | :- | :- | :- |
-| certificate_file_path | System.String | File path to digital certificate. |
+| certificate_file_path | `str` | File path to digital certificate. |
 
+### Example
 
-## __init__ {#io.RawIOBase}
+```python
+from groupdocs.signature import Signature
+from groupdocs.signature.options import DigitalVerifyOptions
 
-Creates Digital Verification Option with given certificate stream.
+options = DigitalVerifyOptions("certificate.pfx")
+options.password = "1234567890"
+```
 
+## __init__ {#certificate_stream}
 
+Initializes a DigitalVerifyOptions instance with the given certificate stream.
 
 ```python
 def __init__(self, certificate_stream):
     ...
 ```
 
-
 | Parameter | Type | Description |
 | :- | :- | :- |
-| certificate_stream | io.RawIOBase | Certificate's stream. |
-
-
+| certificate_stream | `io.RawIOBase` | Certificate's stream. |
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`DigitalVerifyOptions`](/signature/python-net/groupdocs.signature.options/digitalverifyoptions)
+* class [`DigitalVerifyOptions`](/signature/python-net/groupdocs.signature.options/digitalverifyoptions/)

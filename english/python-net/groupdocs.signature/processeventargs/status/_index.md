@@ -1,17 +1,18 @@
-﻿---
+---
 title: status property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The current process state."
 type: docs
 url: /python-net/groupdocs.signature/processeventargs/status/
 is_root: false
-weight: 30
+weight: 2010
 ---
+
 
 ## status property
 
+The current process state.
 
-Indicates current process state.
 ### Definition:
 ```python
 @property
@@ -23,6 +24,4 @@ def status(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature`](../../)
-* class [`ProcessEventArgs`](/signature/python-net/groupdocs.signature/processeventargs)
-* class [`ProcessStatus`](/signature/python-net/groupdocs.signature.domain/processstatus)
+* class [`ProcessEventArgs`](/signature/python-net/groupdocs.signature/processeventargs/)

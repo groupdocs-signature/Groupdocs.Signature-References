@@ -1,19 +1,17 @@
-﻿---
-title: PNG property
+---
+title: PNG field
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Portable Network Graphic (.png) is a type of raster image file format that use lossless compression."
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/png/
 is_root: false
-weight: 380
+weight: 3060
 ---
 
-## PNG property
 
+## PNG field
 
-Portable Network Graphic (.png) is a type of raster image file format that use lossless compression. This file format was created as a replacement of Graphics Interchange Format (GIF) and has no copyright limitations.
-Learn more about this file format [here](https://wiki.fileformat.com/image/png).
+Portable Network Graphic (.png) is a type of raster image file format that use lossless compression. This file format was created as a replacement of Graphics Interchange Format (GIF) and has no copyright limitations. Learn more about this file format here.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype)
+* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype/)

@@ -1,19 +1,17 @@
-﻿---
-title: EPS property
+---
+title: EPS field
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Encapsulated PostScript File (.eps) describes an Encapsulated PostScript language program that describes the appearance of a single page."
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/eps/
 is_root: false
-weight: 220
+weight: 3220
 ---
 
-## EPS property
 
+## EPS field
 
-Encapsulated PostScript File (.eps) describes an Encapsulated PostScript language program that describes the appearance of a single page. 
-Learn more about this file format [here](https://wiki.fileformat.com/page-description-language/eps).
+Encapsulated PostScript File (.eps) describes an Encapsulated PostScript language program that describes the appearance of a single page. Learn more about this file format here.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype)
+* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype/)

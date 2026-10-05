@@ -1,18 +1,18 @@
-﻿---
+---
 title: width property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The width of the signature on the document page in measure values (pixels, percents, or millimeters; see MeasureType SizeMeasureType property)."
 type: docs
 url: /python-net/groupdocs.signature.options/textsignoptions/width/
 is_root: false
-weight: 370
+weight: 2270
 ---
+
 
 ## width property
 
+The width of the signature on the document page in measure values (pixels, percents, or millimeters; see `MeasureType` `SizeMeasureType` property).
 
-Width of Signature on Document Page in Measure values 
-(pixels, percents or millimeters see [`MeasureType`](/signature/python-net/groupdocs.signature.domain/measuretype) SizeMeasureType property).
 ### Definition:
 ```python
 @property
@@ -24,6 +24,4 @@ def width(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`MeasureType`](/signature/python-net/groupdocs.signature.domain/measuretype)
-* class [`TextSignOptions`](/signature/python-net/groupdocs.signature.options/textsignoptions)
+* class [`TextSignOptions`](/signature/python-net/groupdocs.signature.options/textsignoptions/)

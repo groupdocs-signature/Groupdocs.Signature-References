@@ -1,53 +1,40 @@
-﻿---
+---
 title: GifSaveOptions class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Represents GIF format save options for image documents."
 type: docs
 url: /python-net/groupdocs.signature.options/gifsaveoptions/
 is_root: false
-weight: 150
+weight: 190
 ---
+
 
 ## GifSaveOptions class
 
-Gif format save options for image documents.
-
-
-
-**Inheritance:** [`GifSaveOptions`](/signature/python-net/groupdocs.signature.options/gifsaveoptions) → 
-[`ImageSaveOptions`](/signature/python-net/groupdocs.signature.options/imagesaveoptions) → 
-[`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions)
-
-
+Represents GIF format save options for image documents.
 
 The GifSaveOptions type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.options/gifsaveoptions/__init__/#) | Creates GifSaveOptions with default values. |
-
+| [__init__](/signature/python-net/groupdocs.signature.options/gifsaveoptions/__init__/) | Initializes GifSaveOptions with default values. |
 
 ### Properties
 | Property | Description |
 | :- | :- |
-| [overwrite_existing_files](/signature/python-net/groupdocs.signature.options/gifsaveoptions/overwrite_existing_files) | Gets or sets whether to overwrite existing file with new output file. <br/>Otherwise new file will be created with number as suffix.<br/>By default this value set to true that means file will be overwritten. |
-| [password](/signature/python-net/groupdocs.signature.options/gifsaveoptions/password) | Gets or sets password to save signed document with password protection.<br/>This property is not supported for Image documents. |
-| [use_original_password](/signature/python-net/groupdocs.signature.options/gifsaveoptions/use_original_password) | Gets or sets whether to use password from LoadOptions to save signed document as protected.<br/>Default value is true.<br/>This property is not supported for Image documents. |
-| [add_missing_extenstion](/signature/python-net/groupdocs.signature.options/gifsaveoptions/add_missing_extenstion) | Gets or sets flag to automatically add extension when it was missing in output file path<br/>Default value is false. |
-| [file_format](/signature/python-net/groupdocs.signature.options/gifsaveoptions/file_format) | Gets or sets file format of signed document. |
-| [background_color_index](/signature/python-net/groupdocs.signature.options/gifsaveoptions/background_color_index) | Gets or sets the GIF background color index. |
-| [color_resolution](/signature/python-net/groupdocs.signature.options/gifsaveoptions/color_resolution) | Gets or sets the GIF color resolution. |
-| [do_palette_correction](/signature/python-net/groupdocs.signature.options/gifsaveoptions/do_palette_correction) | Gets or sets a value indicating whether palette correction is applied. |
-| [has_trailer](/signature/python-net/groupdocs.signature.options/gifsaveoptions/has_trailer) | Gets or sets a value indicating whether GIF has trailer. |
-| [interlaced](/signature/python-net/groupdocs.signature.options/gifsaveoptions/interlaced) | True if image should be interlaced. |
-| [is_palette_sorted](/signature/python-net/groupdocs.signature.options/gifsaveoptions/is_palette_sorted) | Gets or sets a value indicating whether palette entries are sorted. |
-| [pixel_aspect_ratio](/signature/python-net/groupdocs.signature.options/gifsaveoptions/pixel_aspect_ratio) | Gets or sets the GIF pixel aspect ratio. |
-
-
+| [background_color_index](/signature/python-net/groupdocs.signature.options/gifsaveoptions/background_color_index/) | The GIF background color index. |
+| [color_resolution](/signature/python-net/groupdocs.signature.options/gifsaveoptions/color_resolution/) | The GIF color resolution. |
+| [do_palette_correction](/signature/python-net/groupdocs.signature.options/gifsaveoptions/do_palette_correction/) | The flag indicating whether palette correction is applied. |
+| [has_trailer](/signature/python-net/groupdocs.signature.options/gifsaveoptions/has_trailer/) | The flag indicating whether the GIF includes a trailer. |
+| [interlaced](/signature/python-net/groupdocs.signature.options/gifsaveoptions/interlaced/) | The image is interlaced when set to True. |
+| [is_palette_sorted](/signature/python-net/groupdocs.signature.options/gifsaveoptions/is_palette_sorted/) | The value indicating whether palette entries are sorted. |
+| [pixel_aspect_ratio](/signature/python-net/groupdocs.signature.options/gifsaveoptions/pixel_aspect_ratio/) | The GIF pixel aspect ratio. |
+| [add_missing_extenstion](/signature/python-net/groupdocs.signature.options/saveoptions/add_missing_extenstion/) | The flag that determines whether to automatically add an extension when it is missing in the output file path. Default value is False. (inherited from [`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions/)) |
+| [file_format](/signature/python-net/groupdocs.signature.options/imagesaveoptions/file_format/) | The file format of the signed document. (inherited from [`ImageSaveOptions`](/signature/python-net/groupdocs.signature.options/imagesaveoptions/)) |
+| [overwrite_existing_files](/signature/python-net/groupdocs.signature.options/saveoptions/overwrite_existing_files/) | The flag indicating whether to overwrite an existing file with the new output file. (inherited from [`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions/)) |
+| [password](/signature/python-net/groupdocs.signature.options/saveoptions/password/) | The password used to protect the saved signed document. Not supported for Image documents. (inherited from [`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions/)) |
+| [use_original_password](/signature/python-net/groupdocs.signature.options/saveoptions/use_original_password/) | The flag indicating whether to use the password from [`LoadOptions`](/signature/python-net/groupdocs.signature.options/loadoptions/) when saving the signed document as protected. The default value is True. Not supported for Image documents. (inherited from [`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions/)) |
 
 ### See Also
-* module [`groupdocs.signature.options`](..)
-* class [`GifSaveOptions`](/signature/python-net/groupdocs.signature.options/gifsaveoptions)
-* class [`ImageSaveOptions`](/signature/python-net/groupdocs.signature.options/imagesaveoptions)
-* class [`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions)
+* module [`groupdocs.signature.options`](/signature/python-net/groupdocs.signature.options/)

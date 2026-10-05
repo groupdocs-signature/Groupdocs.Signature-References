@@ -1,17 +1,18 @@
-﻿---
+---
 title: home_phone property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The home phone number."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/vcard/home_phone/
 is_root: false
-weight: 90
+weight: 2070
 ---
+
 
 ## home_phone property
 
+The home phone number.
 
-Gets or sets home phone number.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def home_phone(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`VCard`](/signature/python-net/groupdocs.signature.domain.extensions/vcard)
+* class [`VCard`](/signature/python-net/groupdocs.signature.domain.extensions/vcard/)

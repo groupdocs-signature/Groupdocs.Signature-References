@@ -1,33 +1,41 @@
-﻿---
+---
 title: to_single method
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Converts the metadata signature value to a float."
 type: docs
 url: /python-net/groupdocs.signature.domain/metadatasignature/to_single/
 is_root: false
-weight: 80
+weight: 1160
 ---
 
-## to_single {#}
 
-Converts to float.
+## to_single
 
+Converts the metadata signature value to a float.
 
-### Returns 
-
-
-Returns the Metadata Signature value as float.
-
+Raises an exception if the metadata value cannot be converted. If the original value is string‑based, the default culture from [`SignatureSettings.default_culture`](/signature/python-net/groupdocs.signature/signaturesettings/default_culture/) is used.
 
 ```python
 def to_single(self):
     ...
 ```
 
+**Returns:** float: The metadata signature value as a float.
 
+## to_single {#provider}
 
+Converts to float.
 
+```python
+def to_single(self, provider):
+    ...
+```
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| provider | `System.IFormatProvider` | Format data provider to use with data conversion operations. |
+
+**Returns:** float: The Metadata Signature value as float.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`MetadataSignature`](/signature/python-net/groupdocs.signature.domain/metadatasignature)
+* class [`MetadataSignature`](/signature/python-net/groupdocs.signature.domain/metadatasignature/)

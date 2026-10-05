@@ -1,17 +1,18 @@
-﻿---
+---
 title: location property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The signature location."
 type: docs
 url: /python-net/groupdocs.signature.options/digitalsignoptions/location/
 is_root: false
-weight: 190
+weight: 2100
 ---
+
 
 ## location property
 
+The signature location.
 
-Gets or sets the signature location.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def location(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`DigitalSignOptions`](/signature/python-net/groupdocs.signature.options/digitalsignoptions)
+* class [`DigitalSignOptions`](/signature/python-net/groupdocs.signature.options/digitalsignoptions/)

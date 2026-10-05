@@ -1,17 +1,18 @@
-﻿---
+---
 title: primary_data property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The HIBC LIC primary data structure."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/hibcliccombineddata/primary_data/
 is_root: false
-weight: 40
+weight: 2010
 ---
+
 
 ## primary_data property
 
+The HIBC LIC primary data structure.
 
-HIBC LIC primary data structure
 ### Definition:
 ```python
 @property
@@ -23,6 +24,4 @@ def primary_data(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`HIBCLICCombinedData`](/signature/python-net/groupdocs.signature.domain.extensions/hibcliccombineddata)
-* class [`HIBCLICPrimaryData`](/signature/python-net/groupdocs.signature.domain.extensions/hibclicprimarydata)
+* class [`HIBCLICCombinedData`](/signature/python-net/groupdocs.signature.domain.extensions/hibcliccombineddata/)

@@ -1,38 +1,50 @@
-﻿---
+---
 title: SignatureFont class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The SignatureFont class specifies font properties for a text signature."
 type: docs
 url: /python-net/groupdocs.signature.domain/signaturefont/
 is_root: false
-weight: 420
+weight: 620
 ---
+
 
 ## SignatureFont class
 
-Creates instance of SignatureFont class to specify Font properties.
-
-
+The SignatureFont class specifies font properties for a text signature.
 
 The SignatureFont type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.domain/signaturefont/__init__/#) | Create SignatureFont with default values. |
-
+| [__init__](/signature/python-net/groupdocs.signature.domain/signaturefont/__init__/) | Initializes a SignatureFont with default values. |
 
 ### Properties
 | Property | Description |
 | :- | :- |
-| [family_name](/signature/python-net/groupdocs.signature.domain/signaturefont/family_name) | Gets or sets font family name |
-| [size](/signature/python-net/groupdocs.signature.domain/signaturefont/size) | Gets or sets font size |
-| [bold](/signature/python-net/groupdocs.signature.domain/signaturefont/bold) | Gets or sets font bold style |
-| [italic](/signature/python-net/groupdocs.signature.domain/signaturefont/italic) | Gets or sets font italic style |
-| [underline](/signature/python-net/groupdocs.signature.domain/signaturefont/underline) | Gets or sets font underline style |
-| [strikeout](/signature/python-net/groupdocs.signature.domain/signaturefont/strikeout) | Gets or sets font strikeout style |
+| [bold](/signature/python-net/groupdocs.signature.domain/signaturefont/bold/) | The font bold style. |
+| [family_name](/signature/python-net/groupdocs.signature.domain/signaturefont/family_name/) | The font family name. |
+| [italic](/signature/python-net/groupdocs.signature.domain/signaturefont/italic/) | The font italic style. |
+| [size](/signature/python-net/groupdocs.signature.domain/signaturefont/size/) | The font size. |
+| [strikeout](/signature/python-net/groupdocs.signature.domain/signaturefont/strikeout/) | The font strikeout style. |
+| [underline](/signature/python-net/groupdocs.signature.domain/signaturefont/underline/) | The underline style of the font. |
 
+### Example
 
+```python
+from groupdocs.signature.domain import SignatureFont
+
+font = SignatureFont()
+font.family_name = "Arial"
+font.size = 20
+font.bold = True
+```
+
+### Guides
+Task guides that use `SignatureFont`:
+
+* [eSign Document with Text Signature](/signature/python-net/guides/esign-document-with-text-signature/)
 
 ### See Also
-* module [`groupdocs.signature.domain`](..)
+* module [`groupdocs.signature.domain`](/signature/python-net/groupdocs.signature.domain/)

@@ -1,17 +1,18 @@
-﻿---
+---
 title: visible property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The visibility of the signature."
 type: docs
 url: /python-net/groupdocs.signature.options/digitalsignoptions/visible/
 is_root: false
-weight: 380
+weight: 2240
 ---
+
 
 ## visible property
 
+The visibility of the signature.
 
-Gets or sets the visibility of signature.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def visible(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`DigitalSignOptions`](/signature/python-net/groupdocs.signature.options/digitalsignoptions)
+* class [`DigitalSignOptions`](/signature/python-net/groupdocs.signature.options/digitalsignoptions/)

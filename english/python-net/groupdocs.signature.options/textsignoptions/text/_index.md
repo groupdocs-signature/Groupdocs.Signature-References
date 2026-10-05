@@ -1,17 +1,18 @@
-﻿---
+---
 title: text property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The text of the signature."
 type: docs
 url: /python-net/groupdocs.signature.options/textsignoptions/text/
 is_root: false
-weight: 310
+weight: 2210
 ---
+
 
 ## text property
 
+The text of the signature.
 
-Gets or sets the text of signature.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def text(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`TextSignOptions`](/signature/python-net/groupdocs.signature.options/textsignoptions)
+* class [`TextSignOptions`](/signature/python-net/groupdocs.signature.options/textsignoptions/)

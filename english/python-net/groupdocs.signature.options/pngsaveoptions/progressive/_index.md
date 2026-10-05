@@ -1,17 +1,18 @@
-﻿---
+---
 title: progressive property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The progressive flag indicating whether the PNG is saved progressively."
 type: docs
 url: /python-net/groupdocs.signature.options/pngsaveoptions/progressive/
 is_root: false
-weight: 110
+weight: 2050
 ---
+
 
 ## progressive property
 
+The progressive flag indicating whether the PNG is saved progressively.
 
-Gets or sets a value indicating whether this PngSaveOptions is progressive.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def progressive(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`PngSaveOptions`](/signature/python-net/groupdocs.signature.options/pngsaveoptions)
+* class [`PngSaveOptions`](/signature/python-net/groupdocs.signature.options/pngsaveoptions/)

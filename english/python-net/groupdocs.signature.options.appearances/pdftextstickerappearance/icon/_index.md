@@ -1,17 +1,18 @@
-﻿---
+---
 title: icon property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The icon of the sticker."
 type: docs
 url: /python-net/groupdocs.signature.options.appearances/pdftextstickerappearance/icon/
 is_root: false
-weight: 60
+weight: 2020
 ---
+
 
 ## icon property
 
+The icon of the sticker.
 
-Gets or sets the icon of sticker.
 ### Definition:
 ```python
 @property
@@ -23,6 +24,4 @@ def icon(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options.appearances`](../../)
-* class [`PdfTextStickerAppearance`](/signature/python-net/groupdocs.signature.options.appearances/pdftextstickerappearance)
-* class [`PdfTextStickerIcon`](/signature/python-net/groupdocs.signature.domain/pdftextstickericon)
+* class [`PdfTextStickerAppearance`](/signature/python-net/groupdocs.signature.options.appearances/pdftextstickerappearance/)

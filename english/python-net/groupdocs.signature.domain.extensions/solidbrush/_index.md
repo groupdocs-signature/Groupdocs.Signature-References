@@ -1,42 +1,32 @@
-﻿---
+---
 title: SolidBrush class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Represents a solid brush."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/solidbrush/
 is_root: false
-weight: 250
+weight: 310
 ---
+
 
 ## SolidBrush class
 
-Represents solid brush.
-It could be used instead background color property.
+Represents a solid brush.
 
-
-
-**Inheritance:** [`SolidBrush`](/signature/python-net/groupdocs.signature.domain.extensions/solidbrush) → 
-[`Brush`](/signature/python-net/groupdocs.signature.domain.extensions/brush)
-
-
+It can be used instead of a background color property.
 
 The SolidBrush type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.domain.extensions/solidbrush/__init__/#) | Initializes a new instance of the SolidBrush class with default values. |
-| [__init__](/signature/python-net/groupdocs.signature.domain.extensions/solidbrush/__init__/#aspose.pydrawing.Color) | Initializes a new instance of the SolidBrush class. |
-
+| [__init__](/signature/python-net/groupdocs.signature.domain.extensions/solidbrush/__init__/) | Initializes a new instance of the SolidBrush class with default values. |
+| [__init__](/signature/python-net/groupdocs.signature.domain.extensions/solidbrush/__init__/#color) | Initializes a new SolidBrush. |
 
 ### Properties
 | Property | Description |
 | :- | :- |
-| [color](/signature/python-net/groupdocs.signature.domain.extensions/solidbrush/color) | Gets or sets color of solid brush. |
-
-
+| [color](/signature/python-net/groupdocs.signature.domain.extensions/solidbrush/color/) | The color of the solid brush. |
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](..)
-* class [`Brush`](/signature/python-net/groupdocs.signature.domain.extensions/brush)
-* class [`SolidBrush`](/signature/python-net/groupdocs.signature.domain.extensions/solidbrush)
+* module [`groupdocs.signature.domain.extensions`](/signature/python-net/groupdocs.signature.domain.extensions/)

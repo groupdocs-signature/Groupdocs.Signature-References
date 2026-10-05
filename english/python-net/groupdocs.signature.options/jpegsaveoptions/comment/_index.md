@@ -1,17 +1,18 @@
-﻿---
+---
 title: comment property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The JPEG file comment."
 type: docs
 url: /python-net/groupdocs.signature.options/jpegsaveoptions/comment/
 is_root: false
-weight: 60
+weight: 2030
 ---
+
 
 ## comment property
 
+The JPEG file comment.
 
-Gets or sets the jpeg file comment.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def comment(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`JpegSaveOptions`](/signature/python-net/groupdocs.signature.options/jpegsaveoptions)
+* class [`JpegSaveOptions`](/signature/python-net/groupdocs.signature.options/jpegsaveoptions/)

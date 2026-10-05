@@ -1,18 +1,17 @@
-﻿---
-title: PCL property
+---
+title: PCL field
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Printer Command Language Document (.pcl)"
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/pcl/
 is_root: false
-weight: 350
+weight: 3180
 ---
 
-## PCL property
 
+## PCL field
 
 Printer Command Language Document (.pcl)
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype)
+* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype/)

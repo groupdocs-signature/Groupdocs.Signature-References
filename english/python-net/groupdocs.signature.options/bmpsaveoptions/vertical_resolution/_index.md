@@ -1,18 +1,18 @@
-﻿---
+---
 title: vertical_resolution property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The vertical resolution; note that due to rounding the resulting resolution may slightly differ from the value set."
 type: docs
 url: /python-net/groupdocs.signature.options/bmpsaveoptions/vertical_resolution/
 is_root: false
-weight: 110
+weight: 2040
 ---
+
 
 ## vertical_resolution property
 
+The vertical resolution; note that due to rounding the resulting resolution may slightly differ from the value set.
 
-Gets or sets the vertical resolution. Note due to the rounding the resulting
-resolution may slightly differ from the passed.
 ### Definition:
 ```python
 @property
@@ -24,5 +24,4 @@ def vertical_resolution(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`BmpSaveOptions`](/signature/python-net/groupdocs.signature.options/bmpsaveoptions)
+* class [`BmpSaveOptions`](/signature/python-net/groupdocs.signature.options/bmpsaveoptions/)

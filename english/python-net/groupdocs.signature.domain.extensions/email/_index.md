@@ -1,35 +1,38 @@
-﻿---
+---
 title: Email class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Represents Email format for QR-Code."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/email/
 is_root: false
-weight: 60
+weight: 80
 ---
+
 
 ## Email class
 
 Represents Email format for QR-Code.
-
-
 
 The Email type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.domain.extensions/email/__init__/#) | Constructs a new instance of Email |
+| [__init__](/signature/python-net/groupdocs.signature.domain.extensions/email/__init__/) |  |
 
+### Methods
+| Method | Description |
+| :- | :- |
+| [equals](/signature/python-net/groupdocs.signature.domain.extensions/email/equals/#obj) | Determines whether the given Email object is equal to this instance. |
+| [equals_object](/signature/python-net/groupdocs.signature.domain.extensions/email/equals_object/) |  |
+| [get_hash_code](/signature/python-net/groupdocs.signature.domain.extensions/email/get_hash_code/) | Overrides GetHashCode method. |
 
 ### Properties
 | Property | Description |
 | :- | :- |
-| [address](/signature/python-net/groupdocs.signature.domain.extensions/email/address) | Gets or sets Email address. |
-| [subject](/signature/python-net/groupdocs.signature.domain.extensions/email/subject) | Gets or sets email Subject. |
-| [body](/signature/python-net/groupdocs.signature.domain.extensions/email/body) | Gets or sets Body of email message. |
-
-
+| [address](/signature/python-net/groupdocs.signature.domain.extensions/email/address/) | The email address. |
+| [body](/signature/python-net/groupdocs.signature.domain.extensions/email/body/) | The body of the email message. |
+| [subject](/signature/python-net/groupdocs.signature.domain.extensions/email/subject/) | The email subject. |
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](..)
+* module [`groupdocs.signature.domain.extensions`](/signature/python-net/groupdocs.signature.domain.extensions/)

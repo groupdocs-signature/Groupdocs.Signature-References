@@ -1,19 +1,27 @@
-﻿---
+---
 title: margin property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The default space between the image and document edges (applies when horizontal or vertical alignment is set)."
 type: docs
 url: /python-net/groupdocs.signature.options/formfieldsignoptions/margin/
 is_root: false
-weight: 180
+weight: 2050
 ---
+
 
 ## margin property
 
+The default space between the image and document edges (applies when horizontal or vertical alignment is set).
 
-Gets or sets the space between Sign and Document edges.
-(works ONLY if horizontal or vertical alignment are specified).
+### Definition:
+```python
+@property
+def margin(self):
+    ...
+@margin.setter
+def margin(self, value):
+    ...
+```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`FormFieldSignOptions`](/signature/python-net/groupdocs.signature.options/formfieldsignoptions)
+* class [`FormFieldSignOptions`](/signature/python-net/groupdocs.signature.options/formfieldsignoptions/)

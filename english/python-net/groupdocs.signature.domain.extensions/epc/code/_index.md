@@ -1,17 +1,18 @@
-﻿---
+---
 title: code property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The business code, up to 4 characters."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/epc/code/
 is_root: false
-weight: 60
+weight: 2040
 ---
+
 
 ## code property
 
+The business code, up to 4 characters.
 
-Gets or sets Business Code up to 4 characters.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def code(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`EPC`](/signature/python-net/groupdocs.signature.domain.extensions/epc)
+* class [`EPC`](/signature/python-net/groupdocs.signature.domain.extensions/epc/)

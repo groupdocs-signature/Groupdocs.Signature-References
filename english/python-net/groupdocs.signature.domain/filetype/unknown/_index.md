@@ -1,18 +1,17 @@
-﻿---
-title: UNKNOWN property
+---
+title: UNKNOWN field
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Represents unknown file type."
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/unknown/
 is_root: false
-weight: 590
+weight: 3010
 ---
 
-## UNKNOWN property
 
+## UNKNOWN field
 
 Represents unknown file type.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype)
+* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype/)

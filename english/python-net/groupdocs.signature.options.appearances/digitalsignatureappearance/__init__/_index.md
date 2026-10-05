@@ -1,47 +1,37 @@
-﻿---
-title: DigitalSignatureAppearance constructor
+---
+title: __init__ constructor
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Initializes a signature line appearance object."
 type: docs
 url: /python-net/groupdocs.signature.options.appearances/digitalsignatureappearance/__init__/
 is_root: false
 weight: 10
 ---
 
-## __init__ {#}
 
-Creates Signature Line Appearance object.
+## __init__
 
-
+Initializes a signature line appearance object.
 
 ```python
 def __init__(self):
     ...
 ```
 
+## __init__ {#signer-title-email}
 
-
-
-## __init__ {#System.String-System.String-System.String}
-
-Creates Signature Line Appearance with specified values (signer, title, email).
-
-
+Initializes a signature line appearance with the specified signer, title, and email.
 
 ```python
 def __init__(self, signer, title, email):
     ...
 ```
 
-
 | Parameter | Type | Description |
 | :- | :- | :- |
-| signer | System.String | Signer name. |
-| title | System.String | Signature title. |
-| email | System.String | Author' email. |
-
-
+| signer | `str` | Signer name. |
+| title | `str` | Signature title. |
+| email | `str` | Author's email. |
 
 ### See Also
-* module [`groupdocs.signature.options.appearances`](../../)
-* class [`DigitalSignatureAppearance`](/signature/python-net/groupdocs.signature.options.appearances/digitalsignatureappearance)
+* class [`DigitalSignatureAppearance`](/signature/python-net/groupdocs.signature.options.appearances/digitalsignatureappearance/)

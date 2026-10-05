@@ -1,17 +1,20 @@
-﻿---
+---
 title: reference property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The payment reference (maximum 35 characters)."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/epc/reference/
 is_root: false
-weight: 110
+weight: 2090
 ---
+
 
 ## reference property
 
+The payment reference (maximum 35 characters).
 
-Gets or sets Payment Reference (maximum 35 characters). This field and the Remittance Information field are mutually exclusive.
+This field and the Remittance Information field are mutually exclusive.
+
 ### Definition:
 ```python
 @property
@@ -23,5 +26,4 @@ def reference(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`EPC`](/signature/python-net/groupdocs.signature.domain.extensions/epc)
+* class [`EPC`](/signature/python-net/groupdocs.signature.domain.extensions/epc/)

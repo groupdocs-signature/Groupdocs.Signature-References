@@ -1,52 +1,40 @@
-﻿---
+---
 title: SquareBorder class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Represents a border line configuration for a square stamp."
 type: docs
 url: /python-net/groupdocs.signature.domain/squareborder/
 is_root: false
-weight: 440
+weight: 660
 ---
+
 
 ## SquareBorder class
 
-Instance to keep Border line properties for square stamp line.
-
-
-
-**Inheritance:** [`SquareBorder`](/signature/python-net/groupdocs.signature.domain/squareborder) → 
-[`Border`](/signature/python-net/groupdocs.signature.domain/border)
-
-
+Represents a border line configuration for a square stamp.
 
 The SquareBorder type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.domain/squareborder/__init__/#float) | Creates SquareBorderLine with rounded corner radius. |
-| [__init__](/signature/python-net/groupdocs.signature.domain/squareborder/__init__/#groupdocs.signature.domain.Corners) | Creates SquareBorderLine with corner radius values. |
-
-
-### Properties
-| Property | Description |
-| :- | :- |
-| [dash_style](/signature/python-net/groupdocs.signature.domain/squareborder/dash_style) | Gets or sets the signature border style. |
-| [transparency](/signature/python-net/groupdocs.signature.domain/squareborder/transparency) | Gets or sets the signature border transparency (value from 0.0 (opaque) through 1.0 (clear)). Default value is 0 (opaque). |
-| [weight](/signature/python-net/groupdocs.signature.domain/squareborder/weight) | Gets or sets the weight of the signature border. |
-| [color](/signature/python-net/groupdocs.signature.domain/squareborder/color) | Gets or sets the border color of signature. |
-| [visible](/signature/python-net/groupdocs.signature.domain/squareborder/visible) | Gets or sets the border visibility. |
-| [radius](/signature/python-net/groupdocs.signature.domain/squareborder/radius) | Gets or sets the radius of square corners. |
-
+| [__init__](/signature/python-net/groupdocs.signature.domain/squareborder/__init__/#radius) | Initializes a SquareBorderLine with a rounded corner radius. |
+| [__init__](/signature/python-net/groupdocs.signature.domain/squareborder/__init__/#corners) | Initializes a SquareBorder with corner radius values. |
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [clone](/signature/python-net/groupdocs.signature.domain/squareborder/clone/#) | Implement IClonable interface |
+| [clone](/signature/python-net/groupdocs.signature.domain/border/clone/) | Implements IClonable interface. (inherited from [`Border`](/signature/python-net/groupdocs.signature.domain/border/)) |
 
-
+### Properties
+| Property | Description |
+| :- | :- |
+| [radius](/signature/python-net/groupdocs.signature.domain/squareborder/radius/) | The radius of square corners. |
+| [transparency](/signature/python-net/groupdocs.signature.domain/squareborder/transparency/) | The transparency of the square border, ranging from 0.0 to 1.0 with a default of 0. |
+| [color](/signature/python-net/groupdocs.signature.domain/border/color/) | The border color of the signature. (inherited from [`Border`](/signature/python-net/groupdocs.signature.domain/border/)) |
+| [dash_style](/signature/python-net/groupdocs.signature.domain/border/dash_style/) | The signature border style. (inherited from [`Border`](/signature/python-net/groupdocs.signature.domain/border/)) |
+| [visible](/signature/python-net/groupdocs.signature.domain/border/visible/) | The visibility of the border. (inherited from [`Border`](/signature/python-net/groupdocs.signature.domain/border/)) |
+| [weight](/signature/python-net/groupdocs.signature.domain/border/weight/) | The weight of the signature border. (inherited from [`Border`](/signature/python-net/groupdocs.signature.domain/border/)) |
 
 ### See Also
-* module [`groupdocs.signature.domain`](..)
-* class [`Border`](/signature/python-net/groupdocs.signature.domain/border)
-* class [`SquareBorder`](/signature/python-net/groupdocs.signature.domain/squareborder)
+* module [`groupdocs.signature.domain`](/signature/python-net/groupdocs.signature.domain/)

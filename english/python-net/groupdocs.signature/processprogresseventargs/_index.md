@@ -1,44 +1,33 @@
-﻿---
+---
 title: ProcessProgressEventArgs class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Provides data for OnProgress event of signing, verification and search processes."
 type: docs
 url: /python-net/groupdocs.signature/processprogresseventargs/
 is_root: false
-weight: 80
+weight: 90
 ---
+
 
 ## ProcessProgressEventArgs class
 
 Provides data for OnProgress event of signing, verification and search processes.
-
-
-
-**Inheritance:** [`ProcessProgressEventArgs`](/signature/python-net/groupdocs.signature/processprogresseventargs) → 
-[`ProcessEventArgs`](/signature/python-net/groupdocs.signature/processeventargs)
-
-
 
 The ProcessProgressEventArgs type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature/processprogresseventargs/__init__/#) | Constructs a new instance of ProcessProgressEventArgs |
-
+| [__init__](/signature/python-net/groupdocs.signature/processprogresseventargs/__init__/) |  |
 
 ### Properties
 | Property | Description |
 | :- | :- |
-| [status](/signature/python-net/groupdocs.signature/processprogresseventargs/status) | Indicates current process state. |
-| [progress](/signature/python-net/groupdocs.signature/processprogresseventargs/progress) | Represents the progress in percents. Value range is from 0 to 100. |
-| [ticks](/signature/python-net/groupdocs.signature/processprogresseventargs/ticks) | Represents the time spent in milliseconds since process Start event. |
-| [processed_signatures](/signature/python-net/groupdocs.signature/processprogresseventargs/processed_signatures) | Represents the quantity of processed signatures. |
-| [cancel](/signature/python-net/groupdocs.signature/processprogresseventargs/cancel) | Indicates whether process should be canceled. |
-
-
+| [cancel](/signature/python-net/groupdocs.signature/processprogresseventargs/cancel/) | The flag indicating whether the process should be canceled. |
+| [processed_signatures](/signature/python-net/groupdocs.signature/processprogresseventargs/processed_signatures/) | The quantity of processed signatures. |
+| [progress](/signature/python-net/groupdocs.signature/processprogresseventargs/progress/) | The progress in percents, ranging from 0 to 100. |
+| [ticks](/signature/python-net/groupdocs.signature/processprogresseventargs/ticks/) | The time spent in milliseconds since process start event. |
+| [status](/signature/python-net/groupdocs.signature/processeventargs/status/) | The current process state. (inherited from [`ProcessEventArgs`](/signature/python-net/groupdocs.signature/processeventargs/)) |
 
 ### See Also
-* module [`groupdocs.signature`](..)
-* class [`ProcessEventArgs`](/signature/python-net/groupdocs.signature/processeventargs)
-* class [`ProcessProgressEventArgs`](/signature/python-net/groupdocs.signature/processprogresseventargs)
+* module [`groupdocs.signature`](/signature/python-net/groupdocs.signature/)

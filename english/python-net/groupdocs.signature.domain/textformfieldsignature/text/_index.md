@@ -1,17 +1,18 @@
-﻿---
+---
 title: text property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The text of the form field input."
 type: docs
 url: /python-net/groupdocs.signature.domain/textformfieldsignature/text/
 is_root: false
-weight: 140
+weight: 2010
 ---
+
 
 ## text property
 
+The text of the form field input.
 
-Gets or sets text of form field text input.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def text(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`TextFormFieldSignature`](/signature/python-net/groupdocs.signature.domain/textformfieldsignature)
+* class [`TextFormFieldSignature`](/signature/python-net/groupdocs.signature.domain/textformfieldsignature/)

@@ -1,17 +1,18 @@
-﻿---
+---
 title: file_format property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The file format of the signed document."
 type: docs
 url: /python-net/groupdocs.signature.options/wordprocessingsaveoptions/file_format/
 is_root: false
-weight: 40
+weight: 2010
 ---
+
 
 ## file_format property
 
+The file format of the signed document.
 
-Gets or sets file format of signed document.
 ### Definition:
 ```python
 @property
@@ -23,6 +24,4 @@ def file_format(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`WordProcessingSaveFileFormat`](/signature/python-net/groupdocs.signature.domain/wordprocessingsavefileformat)
-* class [`WordProcessingSaveOptions`](/signature/python-net/groupdocs.signature.options/wordprocessingsaveoptions)
+* class [`WordProcessingSaveOptions`](/signature/python-net/groupdocs.signature.options/wordprocessingsaveoptions/)

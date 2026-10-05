@@ -1,17 +1,18 @@
-﻿---
+---
 title: border property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The border settings for the PDF text annotation."
 type: docs
 url: /python-net/groupdocs.signature.options.appearances/pdftextannotationappearance/border/
 is_root: false
-weight: 30
+weight: 2010
 ---
+
 
 ## border property
 
+The border settings for the PDF text annotation.
 
-Gets or sets different border settings
 ### Definition:
 ```python
 @property
@@ -23,6 +24,4 @@ def border(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options.appearances`](../../)
-* class [`Border`](/signature/python-net/groupdocs.signature.domain/border)
-* class [`PdfTextAnnotationAppearance`](/signature/python-net/groupdocs.signature.options.appearances/pdftextannotationappearance)
+* class [`PdfTextAnnotationAppearance`](/signature/python-net/groupdocs.signature.options.appearances/pdftextannotationappearance/)

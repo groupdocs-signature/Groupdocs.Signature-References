@@ -1,35 +1,47 @@
-﻿---
+---
 title: SearchResult class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Represents the result of searching for signatures in a specified document."
 type: docs
 url: /python-net/groupdocs.signature.domain/searchresult/
 is_root: false
-weight: 400
+weight: 590
 ---
+
 
 ## SearchResult class
 
-Result of searching for signatures in specified document.
-
-
+Represents the result of searching for signatures in a specified document.
 
 The SearchResult type exposes the following members:
+
+### Methods
+| Method | Description |
+| :- | :- |
+| [get_enumerator](/signature/python-net/groupdocs.signature.domain/searchresult/get_enumerator/) | Returns an iterator over the search results. |
+| [to_list](/signature/python-net/groupdocs.signature.domain/searchresult/to_list/) |  |
 
 ### Properties
 | Property | Description |
 | :- | :- |
-| [processing_time](/signature/python-net/groupdocs.signature.domain/searchresult/processing_time) | Returns the execution time of the search process in milliseconds. |
-| [total_signatures](/signature/python-net/groupdocs.signature.domain/searchresult/total_signatures) | Returns the total processed signatures by the search process |
-| [source_document_size](/signature/python-net/groupdocs.signature.domain/searchresult/source_document_size) | Returns source document size |
-| [destin_document_size](/signature/python-net/groupdocs.signature.domain/searchresult/destin_document_size) | Returns destination document size. For Search method it always returns 0. |
-| [succeeded](/signature/python-net/groupdocs.signature.domain/searchresult/succeeded) | List of found signatures [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature). This list will be always equal to [`SearchResult.signatures`](/signature/python-net/groupdocs.signature.domain/searchresult#signatures) property. |
-| [failed](/signature/python-net/groupdocs.signature.domain/searchresult/failed) | List of signatures [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature) that failed Search process by search criteria.<br/>Supported only for failed Archive documents on Search method. |
-| [signatures](/signature/python-net/groupdocs.signature.domain/searchresult/signatures) | List of found signatures [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature). |
+| [destin_document_size](/signature/python-net/groupdocs.signature.domain/searchresult/destin_document_size/) | The destination document size, which is always 0 for the Search method. |
+| [failed](/signature/python-net/groupdocs.signature.domain/searchresult/failed/) | The list of signatures [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/) that failed the search process by search criteria. |
+| [processing_time](/signature/python-net/groupdocs.signature.domain/searchresult/processing_time/) | The execution time of the search process in milliseconds. |
+| [signatures](/signature/python-net/groupdocs.signature.domain/searchresult/signatures/) | The list of found signatures [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/). |
+| [source_document_size](/signature/python-net/groupdocs.signature.domain/searchresult/source_document_size/) | The source document size. |
+| [succeeded](/signature/python-net/groupdocs.signature.domain/searchresult/succeeded/) | The list of found signatures ([`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)). |
+| [total_signatures](/signature/python-net/groupdocs.signature.domain/searchresult/total_signatures/) | The total number of processed signatures returned by the search process. |
 
+### Example
 
+```python
+from groupdocs.signature import Signature
+from groupdocs.signature.options import FormFieldSearchOptions
+
+with Signature("signed.pdf") as signature:
+    result = signature.search([FormFieldSearchOptions()])
+    print(f"Found {len(result.signatures)} form field signature(s)")
+```
 
 ### See Also
-* module [`groupdocs.signature.domain`](..)
-* class [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature)
-* class [`IResult`](/signature/python-net/groupdocs.signature.domain/iresult)
+* module [`groupdocs.signature.domain`](/signature/python-net/groupdocs.signature.domain/)

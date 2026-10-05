@@ -1,28 +1,20 @@
-﻿---
-title: Border constructor
+---
+title: __init__ constructor
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Constructor for the Border class — GroupDocs.Signature for Python via .NET."
 type: docs
 url: /python-net/groupdocs.signature.domain/border/__init__/
 is_root: false
 weight: 10
 ---
 
-## __init__ {#}
 
-Constructs a new instance of Border
-
-
+## __init__
 
 ```python
 def __init__(self):
     ...
 ```
 
-
-
-
-
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`Border`](/signature/python-net/groupdocs.signature.domain/border)
+* class [`Border`](/signature/python-net/groupdocs.signature.domain/border/)

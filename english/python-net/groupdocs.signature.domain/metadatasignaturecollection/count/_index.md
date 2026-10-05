@@ -1,17 +1,18 @@
-﻿---
+---
 title: count property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The number of items in the collection."
 type: docs
 url: /python-net/groupdocs.signature.domain/metadatasignaturecollection/count/
 is_root: false
-weight: 110
+weight: 2010
 ---
+
 
 ## count property
 
+The number of items in the collection.
 
-Gets number of items in the collection.
 ### Definition:
 ```python
 @property
@@ -20,5 +21,4 @@ def count(self):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`MetadataSignatureCollection`](/signature/python-net/groupdocs.signature.domain/metadatasignaturecollection)
+* class [`MetadataSignatureCollection`](/signature/python-net/groupdocs.signature.domain/metadatasignaturecollection/)

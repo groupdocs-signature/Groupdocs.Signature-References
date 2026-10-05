@@ -1,17 +1,18 @@
-﻿---
+---
 title: text property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The text of the QR-code."
 type: docs
 url: /python-net/groupdocs.signature.domain/qrcodesignature/text/
 is_root: false
-weight: 160
+weight: 2040
 ---
+
 
 ## text property
 
+The text of the QR-code.
 
-Specifies text of QR-code.
 ### Definition:
 ```python
 @property
@@ -20,5 +21,4 @@ def text(self):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`QrCodeSignature`](/signature/python-net/groupdocs.signature.domain/qrcodesignature)
+* class [`QrCodeSignature`](/signature/python-net/groupdocs.signature.domain/qrcodesignature/)

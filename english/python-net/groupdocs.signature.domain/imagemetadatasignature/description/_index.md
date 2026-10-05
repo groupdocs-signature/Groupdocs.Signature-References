@@ -1,17 +1,18 @@
-﻿---
+---
 title: description property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The description of the standard Image Metadata signature."
 type: docs
 url: /python-net/groupdocs.signature.domain/imagemetadatasignature/description/
 is_root: false
-weight: 150
+weight: 2010
 ---
+
 
 ## description property
 
+The description of the standard Image Metadata signature.
 
-Read-only value to get description for standard Image Metadata signature
 ### Definition:
 ```python
 @property
@@ -20,5 +21,4 @@ def description(self):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`ImageMetadataSignature`](/signature/python-net/groupdocs.signature.domain/imagemetadatasignature)
+* class [`ImageMetadataSignature`](/signature/python-net/groupdocs.signature.domain/imagemetadatasignature/)

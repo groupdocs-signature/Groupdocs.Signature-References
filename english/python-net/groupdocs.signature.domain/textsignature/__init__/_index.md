@@ -1,32 +1,26 @@
-﻿---
-title: TextSignature constructor
+---
+title: __init__ constructor
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Initializes a TextSignature object with the unique signature identifier obtained from a sign or search operation."
 type: docs
 url: /python-net/groupdocs.signature.domain/textsignature/__init__/
 is_root: false
 weight: 10
 ---
 
-## __init__ {#System.String}
 
-Initialize TextSignature object with signature identifier that was obtained after search process.
-This unique identifier is used to find additional properties for this signature from document signature information layer.
+## __init__ {#signature_id}
 
-
+Initializes a TextSignature object with the unique signature identifier obtained from a sign or search operation.
 
 ```python
 def __init__(self, signature_id):
     ...
 ```
 
-
 | Parameter | Type | Description |
 | :- | :- | :- |
-| signature_id | System.String | Unique signature identifier obtained by sign or search method. |
-
-
+| signature_id | `str` | Unique signature identifier obtained by sign or search method. |
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`TextSignature`](/signature/python-net/groupdocs.signature.domain/textsignature)
+* class [`TextSignature`](/signature/python-net/groupdocs.signature.domain/textsignature/)

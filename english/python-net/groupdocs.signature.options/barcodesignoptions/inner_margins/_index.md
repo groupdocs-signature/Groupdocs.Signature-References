@@ -1,17 +1,18 @@
-﻿---
+---
 title: inner_margins property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The space between barcode elements and result image borders."
 type: docs
 url: /python-net/groupdocs.signature.options/barcodesignoptions/inner_margins/
 is_root: false
-weight: 180
+weight: 2060
 ---
+
 
 ## inner_margins property
 
+The space between barcode elements and result image borders.
 
-Gets or sets the space between Barcode elements and result image borders.
 ### Definition:
 ```python
 @property
@@ -23,6 +24,4 @@ def inner_margins(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`BarcodeSignOptions`](/signature/python-net/groupdocs.signature.options/barcodesignoptions)
-* class [`Padding`](/signature/python-net/groupdocs.signature.domain/padding)
+* class [`BarcodeSignOptions`](/signature/python-net/groupdocs.signature.options/barcodesignoptions/)

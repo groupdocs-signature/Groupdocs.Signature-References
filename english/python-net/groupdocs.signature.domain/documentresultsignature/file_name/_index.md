@@ -1,17 +1,18 @@
-﻿---
+---
 title: file_name property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The document file name."
 type: docs
 url: /python-net/groupdocs.signature.domain/documentresultsignature/file_name/
 is_root: false
-weight: 90
+weight: 2040
 ---
+
 
 ## file_name property
 
+The document file name.
 
-Document file name
 ### Definition:
 ```python
 @property
@@ -20,5 +21,4 @@ def file_name(self):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`DocumentResultSignature`](/signature/python-net/groupdocs.signature.domain/documentresultsignature)
+* class [`DocumentResultSignature`](/signature/python-net/groupdocs.signature.domain/documentresultsignature/)

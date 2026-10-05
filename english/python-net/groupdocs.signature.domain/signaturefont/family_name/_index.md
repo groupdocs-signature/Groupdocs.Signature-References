@@ -1,17 +1,18 @@
-﻿---
+---
 title: family_name property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The font family name."
 type: docs
 url: /python-net/groupdocs.signature.domain/signaturefont/family_name/
 is_root: false
-weight: 40
+weight: 2020
 ---
+
 
 ## family_name property
 
+The font family name.
 
-Gets or sets font family name
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def family_name(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`SignatureFont`](/signature/python-net/groupdocs.signature.domain/signaturefont)
+* class [`SignatureFont`](/signature/python-net/groupdocs.signature.domain/signaturefont/)

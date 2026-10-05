@@ -1,36 +1,28 @@
-﻿---
+---
 title: encode method
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Encrypts string based on provided algorithm type, key and salt parameters."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/symmetricencryptionattribute/encode/
 is_root: false
-weight: 30
+weight: 1040
 ---
 
-## encode {#System.String}
 
-Encrypts string based on provided algorithm type, key and salt parameters
+## encode {#source}
 
-
-### Returns 
-
-
-Returns encoded string.
-
+Encrypts string based on provided algorithm type, key and salt parameters.
 
 ```python
 def encode(self, source):
     ...
 ```
 
-
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source | System.String | Source string to encode |
+| source | `str` | Source string to encode. |
 
-
+**Returns:** str: Encoded string.
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`SymmetricEncryptionAttribute`](/signature/python-net/groupdocs.signature.domain.extensions/symmetricencryptionattribute)
+* class [`SymmetricEncryptionAttribute`](/signature/python-net/groupdocs.signature.domain.extensions/symmetricencryptionattribute/)

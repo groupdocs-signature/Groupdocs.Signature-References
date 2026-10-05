@@ -1,18 +1,18 @@
-﻿---
+---
 title: town property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The town or city, used only for structured addresses and mandatory for this type."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/swissaddress/town/
 is_root: false
-weight: 100
+weight: 2080
 ---
+
 
 ## town property
 
+The town or city, used only for structured addresses and mandatory for this type.
 
-Gets or sets the town or city.
-This field is only used for structured addresses. For this type, it's mandatory.
 ### Definition:
 ```python
 @property
@@ -24,5 +24,4 @@ def town(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`SwissAddress`](/signature/python-net/groupdocs.signature.domain.extensions/swissaddress)
+* class [`SwissAddress`](/signature/python-net/groupdocs.signature.domain.extensions/swissaddress/)

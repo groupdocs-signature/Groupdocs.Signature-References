@@ -1,19 +1,17 @@
-﻿---
-title: UPCE property
+---
+title: UPCE field
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "UPCE Barcode Type object."
 type: docs
 url: /python-net/groupdocs.signature.domain/barcodetypes/upce/
 is_root: false
-weight: 730
+weight: 3620
 ---
 
-## UPCE property
 
+## UPCE field
 
 UPCE Barcode Type object.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`BarcodeType`](/signature/python-net/groupdocs.signature.domain/barcodetype)
-* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes)
+* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes/)

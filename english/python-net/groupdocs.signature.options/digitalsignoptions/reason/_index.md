@@ -1,17 +1,18 @@
-﻿---
+---
 title: reason property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The reason of the signature."
 type: docs
 url: /python-net/groupdocs.signature.options/digitalsignoptions/reason/
 is_root: false
-weight: 260
+weight: 2150
 ---
+
 
 ## reason property
 
+The reason of the signature.
 
-Gets or sets the reason of signature.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def reason(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`DigitalSignOptions`](/signature/python-net/groupdocs.signature.options/digitalsignoptions)
+* class [`DigitalSignOptions`](/signature/python-net/groupdocs.signature.options/digitalsignoptions/)

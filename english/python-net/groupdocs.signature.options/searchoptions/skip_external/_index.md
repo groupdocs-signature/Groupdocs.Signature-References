@@ -1,17 +1,18 @@
-﻿---
+---
 title: skip_external property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The flag to return only signatures marked as IsSignature."
 type: docs
 url: /python-net/groupdocs.signature.options/searchoptions/skip_external/
 is_root: false
-weight: 70
+weight: 2050
 ---
+
 
 ## skip_external property
 
+The flag to return only signatures marked as `IsSignature`. By default the value is `False`, which indicates that all signatures matching the specified criteria are returned.
 
-Flag to return only signatures marked as IsSignature. By default value is false that indicates to return all signatures that match specified criteria.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def skip_external(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`SearchOptions`](/signature/python-net/groupdocs.signature.options/searchoptions)
+* class [`SearchOptions`](/signature/python-net/groupdocs.signature.options/searchoptions/)

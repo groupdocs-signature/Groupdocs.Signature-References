@@ -1,18 +1,18 @@
-﻿---
+---
 title: password property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The password used to open a protected document and to save a signed document as protected."
 type: docs
 url: /python-net/groupdocs.signature.options/loadoptions/password/
 is_root: false
-weight: 50
+weight: 2030
 ---
+
 
 ## password property
 
+The password used to open a protected document and to save a signed document as protected.
 
-Gets or sets password to open a protected document.
-It will be also used to save signed document as protected.
 ### Definition:
 ```python
 @property
@@ -24,5 +24,4 @@ def password(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`LoadOptions`](/signature/python-net/groupdocs.signature.options/loadoptions)
+* class [`LoadOptions`](/signature/python-net/groupdocs.signature.options/loadoptions/)

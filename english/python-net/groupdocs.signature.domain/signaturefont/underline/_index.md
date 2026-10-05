@@ -1,17 +1,18 @@
-﻿---
+---
 title: underline property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The underline style of the font."
 type: docs
 url: /python-net/groupdocs.signature.domain/signaturefont/underline/
 is_root: false
-weight: 80
+weight: 2060
 ---
+
 
 ## underline property
 
+The underline style of the font.
 
-Gets or sets font underline style
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def underline(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`SignatureFont`](/signature/python-net/groupdocs.signature.domain/signaturefont)
+* class [`SignatureFont`](/signature/python-net/groupdocs.signature.domain/signaturefont/)

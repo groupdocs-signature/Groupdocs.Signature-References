@@ -1,65 +1,71 @@
-﻿---
+---
 title: BarcodeVerifyOptions class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Represents the Barcode verify options."
 type: docs
 url: /python-net/groupdocs.signature.options/barcodeverifyoptions/
 is_root: false
 weight: 30
 ---
 
+
 ## BarcodeVerifyOptions class
 
 Represents the Barcode verify options.
 
-
-
-**Inheritance:** [`BarcodeVerifyOptions`](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions) → 
-[`TextVerifyOptions`](/signature/python-net/groupdocs.signature.options/textverifyoptions) → 
-[`VerifyOptions`](/signature/python-net/groupdocs.signature.options/verifyoptions)
-
-
+Learn more
+- Basic usage of verification for Barcode electronic signature by GroupDocs.Signature: https://docs.groupdocs.com/display/signaturenet/Verify+Barcode+signatures+in+the+document
+- Advanced usage of settings of verification for Barcode electronic signature with GroupDocs.Signature: Advanced usage of eVerification Barcode signatures in a document and additional settings
 
 The BarcodeVerifyOptions type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions/__init__/#) | Creates default Verification Option for Barcode Signature. |
-| [__init__](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions/__init__/#System.String) | Creates default Verification Option with verification text |
-| [__init__](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions/__init__/#groupdocs.signature.domain.BarcodeType) | Creates default Verification Option with Barcode Type verification |
-| [__init__](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions/__init__/#System.String-groupdocs.signature.domain.BarcodeType) | Creates default Verification Option with Barcode Type verification and text |
-
+| [__init__](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions/__init__/) | Initializes default verification option for barcode signature. |
+| [__init__](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions/__init__/#text) | Initializes a default verification option with verification text. |
+| [__init__](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions/__init__/#encode_type) | Initializes a default verification option with barcode type verification. |
+| [__init__](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions/__init__/#text-encode_type) | Initializes a default verification option with barcode type verification and text. |
 
 ### Properties
 | Property | Description |
 | :- | :- |
-| [is_valid](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions/is_valid) | Valid property flag. |
-| [page_number](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions/page_number) | Document Page Number to be verified. If property is not set - all Pages of <br/>Document will be verified for first occurrence.<br/>Minimal value is 1. |
-| [pages_setup](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions/pages_setup) | Page Options to specify pages to be verified. |
-| [all_pages](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions/all_pages) | Flag to verify each document page. By default value is true. |
-| [shape_position](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions/shape_position) | Specifies shape position in the document layout. For verifing signatures in headers/footers |
-| [extensions](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions/extensions) | Additional extensions for alternative signature options verification. |
-| [text](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions/text) | Specify Signature Text if it should be verified. |
-| [match_type](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions/match_type) | Gets or sets Text Match Type verification. |
-| [signature_implementation](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions/signature_implementation) | Type of Signature to be verified. |
-| [form_text_field_title](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions/form_text_field_title) | Gets or sets the title of form field to verify it.<br/>If this property set text will be found only in text form fields. |
-| [form_text_field_type](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions/form_text_field_type) | Gets or sets the type of form field to verify it.<br/>If this property set text will be found only in text form fields. |
-| [signature_id](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions/signature_id) | Specify Text Signature ID more than zero if it should be verified. This property is supported only for Pdf documents |
-| [encode_type](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions/encode_type) | Gets or sets Barcode Type verification. |
+| [encode_type](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions/encode_type/) | The barcode type used for verification. |
+| [all_pages](/signature/python-net/groupdocs.signature.options/verifyoptions/all_pages/) | The flag indicating whether each document page should be verified. By default the value is True. (inherited from [`VerifyOptions`](/signature/python-net/groupdocs.signature.options/verifyoptions/)) |
+| [extensions](/signature/python-net/groupdocs.signature.options/verifyoptions/extensions/) | The additional extensions for alternative signature options verification. (inherited from [`VerifyOptions`](/signature/python-net/groupdocs.signature.options/verifyoptions/)) |
+| [form_text_field_title](/signature/python-net/groupdocs.signature.options/textverifyoptions/form_text_field_title/) | The title of the form field to verify. If set, the text will be found only in text form fields. (inherited from [`TextVerifyOptions`](/signature/python-net/groupdocs.signature.options/textverifyoptions/)) |
+| [form_text_field_type](/signature/python-net/groupdocs.signature.options/textverifyoptions/form_text_field_type/) | The type of form field to verify; if set, text will be found only in text form fields. (inherited from [`TextVerifyOptions`](/signature/python-net/groupdocs.signature.options/textverifyoptions/)) |
+| [is_valid](/signature/python-net/groupdocs.signature.options/verifyoptions/is_valid/) | The valid property flag. (inherited from [`VerifyOptions`](/signature/python-net/groupdocs.signature.options/verifyoptions/)) |
+| [match_type](/signature/python-net/groupdocs.signature.options/textverifyoptions/match_type/) | The text match type verification. (inherited from [`TextVerifyOptions`](/signature/python-net/groupdocs.signature.options/textverifyoptions/)) |
+| [page_number](/signature/python-net/groupdocs.signature.options/verifyoptions/page_number/) | The document page number to be verified; if not set, all pages of the document are verified for the first occurrence (minimum value is 1). (inherited from [`VerifyOptions`](/signature/python-net/groupdocs.signature.options/verifyoptions/)) |
+| [pages_setup](/signature/python-net/groupdocs.signature.options/verifyoptions/pages_setup/) | The page options to specify pages to be verified. (inherited from [`VerifyOptions`](/signature/python-net/groupdocs.signature.options/verifyoptions/)) |
+| [shape_position](/signature/python-net/groupdocs.signature.options/verifyoptions/shape_position/) | The shape position in the document layout used for verifying signatures in headers/footers. (inherited from [`VerifyOptions`](/signature/python-net/groupdocs.signature.options/verifyoptions/)) |
+| [signature_id](/signature/python-net/groupdocs.signature.options/textverifyoptions/signature_id/) | The Text Signature ID to verify. Must be greater than zero; supported only for PDF documents. (inherited from [`TextVerifyOptions`](/signature/python-net/groupdocs.signature.options/textverifyoptions/)) |
+| [signature_implementation](/signature/python-net/groupdocs.signature.options/textverifyoptions/signature_implementation/) | The type of signature to be verified. (inherited from [`TextVerifyOptions`](/signature/python-net/groupdocs.signature.options/textverifyoptions/)) |
+| [text](/signature/python-net/groupdocs.signature.options/textverifyoptions/text/) | The signature text to verify. (inherited from [`TextVerifyOptions`](/signature/python-net/groupdocs.signature.options/textverifyoptions/)) |
+
+### Example
+
+```python
+from groupdocs.signature import Signature
+from groupdocs.signature.domain import TextMatchType
+from groupdocs.signature.options import BarcodeVerifyOptions
 
 
+def verify_barcode_signatures():
+    with Signature("signed.pdf") as signature:
+        options = BarcodeVerifyOptions()
+        options.all_pages = True
+        options.text = "12345"
+        options.match_type = TextMatchType.CONTAINS
 
-### Remarks 
+        result = signature.verify(options)
 
-
-**Learn more** |
-|
- |
- |
+        if result.is_valid:
+            print(f"Document was verified successfully: {len(result.succeeded)} matching barcode signature(s).")
+        else:
+            print("Document failed verification process.")
+```
 
 ### See Also
-* module [`groupdocs.signature.options`](..)
-* class [`BarcodeVerifyOptions`](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions)
-* class [`TextVerifyOptions`](/signature/python-net/groupdocs.signature.options/textverifyoptions)
-* class [`VerifyOptions`](/signature/python-net/groupdocs.signature.options/verifyoptions)
+* module [`groupdocs.signature.options`](/signature/python-net/groupdocs.signature.options/)

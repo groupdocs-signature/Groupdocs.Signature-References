@@ -1,28 +1,23 @@
-﻿---
-title: XAdESType enumeration
+---
+title: XAdESType class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "XAdESType enum — GroupDocs.Signature for Python via .NET API reference."
 type: docs
 url: /python-net/groupdocs.signature.domain/xadestype/
 is_root: false
-weight: 860
+weight: 870
 ---
 
-## XAdESType enumeration
 
-Type of XML Advanced Electronic Signature (XAdES).
-
-
+## XAdESType class
 
 The XAdESType type exposes the following members:
 
 ### Fields
 | Field | Description |
 | :- | :- |
-| NONE | XAdES is off. |
-| X_AD_ES | Basic XAdES. |
-
-
+| [NONE](/signature/python-net/groupdocs.signature.domain/xadestype/none/) | XAdES is off. |
+| [XAD_ES](/signature/python-net/groupdocs.signature.domain/xadestype/xad_es/) | Basic XAdES. |
 
 ### See Also
-* module [`groupdocs.signature.domain`](..)
+* module [`groupdocs.signature.domain`](/signature/python-net/groupdocs.signature.domain/)

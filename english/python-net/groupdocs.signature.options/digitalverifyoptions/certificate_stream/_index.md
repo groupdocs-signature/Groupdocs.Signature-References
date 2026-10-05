@@ -1,17 +1,18 @@
-﻿---
+---
 title: certificate_stream property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The stream of the digital certificate."
 type: docs
 url: /python-net/groupdocs.signature.options/digitalverifyoptions/certificate_stream/
 is_root: false
-weight: 60
+weight: 2030
 ---
+
 
 ## certificate_stream property
 
+The stream of the digital certificate.
 
-Stream of Digital Certificate.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def certificate_stream(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`DigitalVerifyOptions`](/signature/python-net/groupdocs.signature.options/digitalverifyoptions)
+* class [`DigitalVerifyOptions`](/signature/python-net/groupdocs.signature.options/digitalverifyoptions/)

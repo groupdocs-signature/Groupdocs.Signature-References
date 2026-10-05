@@ -1,17 +1,18 @@
-﻿---
+---
 title: name property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The metadata signature name to search for and match."
 type: docs
 url: /python-net/groupdocs.signature.options/metadatasearchoptions/name/
 is_root: false
-weight: 60
+weight: 2030
 ---
+
 
 ## name property
 
+The metadata signature name to search for and match.
 
-Specifies Metadata Signature name if it should be searched and matched.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def name(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`MetadataSearchOptions`](/signature/python-net/groupdocs.signature.options/metadatasearchoptions)
+* class [`MetadataSearchOptions`](/signature/python-net/groupdocs.signature.options/metadatasearchoptions/)

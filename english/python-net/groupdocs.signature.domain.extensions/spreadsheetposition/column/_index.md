@@ -1,17 +1,18 @@
-﻿---
+---
 title: column property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The left column number of the signature (minimum value is 0)."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/spreadsheetposition/column/
 is_root: false
-weight: 40
+weight: 2010
 ---
+
 
 ## column property
 
+The left column number of the signature (minimum value is 0).
 
-Gets or sets the left column number of signature (min value is 0).
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def column(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`SpreadsheetPosition`](/signature/python-net/groupdocs.signature.domain.extensions/spreadsheetposition)
+* class [`SpreadsheetPosition`](/signature/python-net/groupdocs.signature.domain.extensions/spreadsheetposition/)

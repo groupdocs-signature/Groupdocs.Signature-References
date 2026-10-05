@@ -1,19 +1,17 @@
-﻿---
-title: OPC property
+---
+title: OPC field
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "OPC Barcode Type object."
 type: docs
 url: /python-net/groupdocs.signature.domain/barcodetypes/opc/
 is_root: false
-weight: 570
+weight: 3460
 ---
 
-## OPC property
 
+## OPC field
 
 OPC Barcode Type object.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`BarcodeType`](/signature/python-net/groupdocs.signature.domain/barcodetype)
-* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes)
+* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes/)

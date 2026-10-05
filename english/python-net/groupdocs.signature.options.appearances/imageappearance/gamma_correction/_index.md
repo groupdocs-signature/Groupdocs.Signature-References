@@ -1,18 +1,20 @@
-﻿---
+---
 title: gamma_correction property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The image gamma."
 type: docs
 url: /python-net/groupdocs.signature.options.appearances/imageappearance/gamma_correction/
 is_root: false
-weight: 50
+weight: 2030
 ---
+
 
 ## gamma_correction property
 
+The image gamma.
 
-Gets or sets image gamma.
-Default value is 1 it corresponds to original gamma of image.
+Default value is 1, which corresponds to the original gamma of the image.
+
 ### Definition:
 ```python
 @property
@@ -24,5 +26,4 @@ def gamma_correction(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options.appearances`](../../)
-* class [`ImageAppearance`](/signature/python-net/groupdocs.signature.options.appearances/imageappearance)
+* class [`ImageAppearance`](/signature/python-net/groupdocs.signature.options.appearances/imageappearance/)

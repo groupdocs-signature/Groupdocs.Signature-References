@@ -1,17 +1,18 @@
-﻿---
+---
 title: outer_color property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The outer gradient color."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/radialgradientbrush/outer_color/
 is_root: false
-weight: 40
+weight: 2020
 ---
+
 
 ## outer_color property
 
+The outer gradient color.
 
-Gets or sets outer gradient color.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def outer_color(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`RadialGradientBrush`](/signature/python-net/groupdocs.signature.domain.extensions/radialgradientbrush)
+* class [`RadialGradientBrush`](/signature/python-net/groupdocs.signature.domain.extensions/radialgradientbrush/)

@@ -1,59 +1,68 @@
-﻿---
+---
 title: BarcodeSearchOptions class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Represents search options for Barcode signatures."
 type: docs
 url: /python-net/groupdocs.signature.options/barcodesearchoptions/
 is_root: false
 weight: 10
 ---
 
+
 ## BarcodeSearchOptions class
 
 Represents search options for Barcode signatures.
 
-
-
-**Inheritance:** [`BarcodeSearchOptions`](/signature/python-net/groupdocs.signature.options/barcodesearchoptions) → 
-[`SearchOptions`](/signature/python-net/groupdocs.signature.options/searchoptions)
-
-
+Learn more:
+- Basic usage of search for Barcode electronic signature by GroupDocs.Signature: https://docs.groupdocs.com/display/signaturenet/Search+for+Barcode+e-signatures
+- Advanced usage of settings of search for Barcode electronic signature with GroupDocs.Signature: https://docs.groupdocs.com/display/signaturenet/Advanced+search+for+Barcode+signatures
 
 The BarcodeSearchOptions type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.options/barcodesearchoptions/__init__/#) | Initializes a new instance of the BarcodeSearchOptions class with default values. |
-| [__init__](/signature/python-net/groupdocs.signature.options/barcodesearchoptions/__init__/#groupdocs.signature.domain.BarcodeType) | Initializes a new instance of the BarcodeSearchOptions class with encode type value. |
-| [__init__](/signature/python-net/groupdocs.signature.options/barcodesearchoptions/__init__/#groupdocs.signature.domain.BarcodeType-System.String) | Initializes a new instance of the BarcodeSearchOptions class with encode type and text values. |
-
+| [__init__](/signature/python-net/groupdocs.signature.options/barcodesearchoptions/__init__/) | Initializes a new instance of the BarcodeSearchOptions class with default values. |
+| [__init__](/signature/python-net/groupdocs.signature.options/barcodesearchoptions/__init__/#encode_type) | Initializes a new instance of the BarcodeSearchOptions class with encode type value. |
+| [__init__](/signature/python-net/groupdocs.signature.options/barcodesearchoptions/__init__/#encode_type-text) | Initializes a new instance of the BarcodeSearchOptions class with encode type and text values. |
 
 ### Properties
 | Property | Description |
 | :- | :- |
-| [page_number](/signature/python-net/groupdocs.signature.options/barcodesearchoptions/page_number) | Gets or sets Document page number for searching.<br/>Value is optional. |
-| [pages_setup](/signature/python-net/groupdocs.signature.options/barcodesearchoptions/pages_setup) | Options to specify pages for Signature searching. |
-| [all_pages](/signature/python-net/groupdocs.signature.options/barcodesearchoptions/all_pages) | Flag to search on each Document page. By default this value is set to true. |
-| [skip_external](/signature/python-net/groupdocs.signature.options/barcodesearchoptions/skip_external) | Flag to return only signatures marked as IsSignature. By default value is false that indicates to return all signatures that match specified criteria. |
-| [shape_position](/signature/python-net/groupdocs.signature.options/barcodesearchoptions/shape_position) | Flag to return specify shape position in the document layout. Avaliable only for Word documents |
-| [encode_type](/signature/python-net/groupdocs.signature.options/barcodesearchoptions/encode_type) | Specifies Encode Type property to search Barcodes.<br/>If this value is not set, search is processed for all supported Barcode Types |
-| [text](/signature/python-net/groupdocs.signature.options/barcodesearchoptions/text) | Specifies Barcode Signature text if it should be searched and matched. |
-| [match_type](/signature/python-net/groupdocs.signature.options/barcodesearchoptions/match_type) | Gets or sets Barcode text Match Type search. It is used only when Text property is set. |
-| [return_content](/signature/python-net/groupdocs.signature.options/barcodesearchoptions/return_content) | Gets or sets flag to grab Barcode image content of signature on document page.<br/>If this flag is set true, Barcode signature image content will keep raw image data by required format [`BarcodeSearchOptions.return_content_type`](/signature/python-net/groupdocs.signature.options/barcodesearchoptions#return_content_type).<br/>By default this option is disabled. |
-| [return_content_type](/signature/python-net/groupdocs.signature.options/barcodesearchoptions/return_content_type) | Specifies file type of returned image content of the Barcode signature when ReturnContent property is enabled.<br/>By default it set to Null. That means to return Barcode image content in original format. <br/>This image format is specified at [`BarcodeSignature.format`](/signature/python-net/groupdocs.signature.domain/barcodesignature#format)<br/>Possible supported values are: FileType.JPEG, FileType.PNG, FileType.BMP. <br/>If provided format is not supported than Barcode image content in .png format will be returned. |
+| [encode_type](/signature/python-net/groupdocs.signature.options/barcodesearchoptions/encode_type/) | The encode type used to filter barcode search; if not set, the search includes all supported barcode types. |
+| [match_type](/signature/python-net/groupdocs.signature.options/barcodesearchoptions/match_type/) | The barcode text match type used for searching. It is used only when the `text` property is set. |
+| [return_content](/signature/python-net/groupdocs.signature.options/barcodesearchoptions/return_content/) | The flag indicating whether to retrieve the barcode image content of a signature on a document page. |
+| [return_content_type](/signature/python-net/groupdocs.signature.options/barcodesearchoptions/return_content_type/) | The file type of the returned image content for a Barcode signature when the `return_content` property is enabled. |
+| [text](/signature/python-net/groupdocs.signature.options/barcodesearchoptions/text/) | The text of the barcode signature to search for and match. |
+| [all_pages](/signature/python-net/groupdocs.signature.options/searchoptions/all_pages/) | The flag indicating whether to search on each document page. By default this value is True. (inherited from [`SearchOptions`](/signature/python-net/groupdocs.signature.options/searchoptions/)) |
+| [page_number](/signature/python-net/groupdocs.signature.options/searchoptions/page_number/) | The document page number for searching (optional). (inherited from [`SearchOptions`](/signature/python-net/groupdocs.signature.options/searchoptions/)) |
+| [pages_setup](/signature/python-net/groupdocs.signature.options/searchoptions/pages_setup/) | The options to specify pages for signature searching. (inherited from [`SearchOptions`](/signature/python-net/groupdocs.signature.options/searchoptions/)) |
+| [shape_position](/signature/python-net/groupdocs.signature.options/searchoptions/shape_position/) | The flag indicating whether to return the shape position in the document layout. Available only for Word documents. (inherited from [`SearchOptions`](/signature/python-net/groupdocs.signature.options/searchoptions/)) |
+| [skip_external](/signature/python-net/groupdocs.signature.options/searchoptions/skip_external/) | The flag to return only signatures marked as `IsSignature`. By default the value is `False`, which indicates that all signatures matching the specified criteria are returned. (inherited from [`SearchOptions`](/signature/python-net/groupdocs.signature.options/searchoptions/)) |
 
+### Example
 
+```python
+from groupdocs.signature import Signature
+from groupdocs.signature.domain import BarcodeTypes, TextMatchType
+from groupdocs.signature.options import BarcodeSearchOptions
 
-### Remarks 
+with Signature("signed.pdf") as signature:
+    options = BarcodeSearchOptions()
+    options.all_pages = False
+    options.page_number = 1
+    options.encode_type = BarcodeTypes.CODE128
+    options.text = "1234"
+    options.match_type = TextMatchType.STARTS_WITH
 
+    result = signature.search([options])
+    print(f"Found {len(result.signatures)} matching barcode signature(s)")
+```
 
-**Learn more** |
-|
- |
- |
+### Guides
+Task guides that use `BarcodeSearchOptions`:
+
+* [Search for Barcode e-Signatures](/signature/python-net/guides/search-for-barcode-e-signatures/)
 
 ### See Also
-* module [`groupdocs.signature.options`](..)
-* class [`BarcodeSearchOptions`](/signature/python-net/groupdocs.signature.options/barcodesearchoptions)
-* class [`SearchOptions`](/signature/python-net/groupdocs.signature.options/searchoptions)
+* module [`groupdocs.signature.options`](/signature/python-net/groupdocs.signature.options/)

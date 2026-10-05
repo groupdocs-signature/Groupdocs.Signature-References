@@ -1,17 +1,18 @@
-﻿---
+---
 title: transparency property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The signature border transparency, ranging from 0.0 (opaque) to 1.0 (clear), defaults to 0 (opaque)."
 type: docs
 url: /python-net/groupdocs.signature.domain/border/transparency/
 is_root: false
-weight: 60
+weight: 2030
 ---
+
 
 ## transparency property
 
+The signature border transparency, ranging from 0.0 (opaque) to 1.0 (clear), defaults to 0 (opaque).
 
-Gets or sets the signature border transparency (value from 0.0 (opaque) through 1.0 (clear)). Default value is 0 (opaque).
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def transparency(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`Border`](/signature/python-net/groupdocs.signature.domain/border)
+* class [`Border`](/signature/python-net/groupdocs.signature.domain/border/)

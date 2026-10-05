@@ -1,67 +1,86 @@
-﻿---
+---
 title: DigitalSignature class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The class contains digital signature properties."
 type: docs
 url: /python-net/groupdocs.signature.domain/digitalsignature/
 is_root: false
-weight: 130
+weight: 150
 ---
+
 
 ## DigitalSignature class
 
-Contains Digital signature properties.
-
-
-
-**Inheritance:** [`DigitalSignature`](/signature/python-net/groupdocs.signature.domain/digitalsignature) → 
-[`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature)
-
-
+The class contains digital signature properties.
 
 The DigitalSignature type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.domain/digitalsignature/__init__/#) | Initialize Digital signature with default parameters. |
-| [__init__](/signature/python-net/groupdocs.signature.domain/digitalsignature/__init__/#System.String) | Initialize Digital signature with known SignatureId. |
-| [__init__](/signature/python-net/groupdocs.signature.domain/digitalsignature/__init__/#System.Security.Cryptography.X509Certificates.X509Certificate2) | Create Digital signature with specified certificate. |
-
-
-### Properties
-| Property | Description |
-| :- | :- |
-| [signature_type](/signature/python-net/groupdocs.signature.domain/digitalsignature/signature_type) | Specifies the type of signature. |
-| [page_number](/signature/python-net/groupdocs.signature.domain/digitalsignature/page_number) | Specifies the page signature was found on. |
-| [signature_id](/signature/python-net/groupdocs.signature.domain/digitalsignature/signature_id) | Unique signature identifier to modify signature in the document over Update or Delete methods.<br/>This property will be set automatically after Sign or Search method being called.<br/>If this property was saved before it can be set manually to manipulate the signature. |
-| [is_signature](/signature/python-net/groupdocs.signature.domain/digitalsignature/is_signature) | Get or set flag to indicate if this component is Signature or document content.<br/>This property is being used with Update method to set element as signature (true) or document element (false). |
-| [deleted](/signature/python-net/groupdocs.signature.domain/digitalsignature/deleted) | Get the flag that indicates if this signature was deleted from the document.<br/>This property is being used only for document history log records to keep the list of deleted signatures. |
-| [created_on](/signature/python-net/groupdocs.signature.domain/digitalsignature/created_on) | Get or set the signature creation date. |
-| [modified_on](/signature/python-net/groupdocs.signature.domain/digitalsignature/modified_on) | Get or set the signature modification date. |
-| [top](/signature/python-net/groupdocs.signature.domain/digitalsignature/top) | Specifies top position of signature. |
-| [left](/signature/python-net/groupdocs.signature.domain/digitalsignature/left) | Specifies left position of signature. |
-| [width](/signature/python-net/groupdocs.signature.domain/digitalsignature/width) | Specifies width of signature. |
-| [height](/signature/python-net/groupdocs.signature.domain/digitalsignature/height) | Specifies height of signature. |
-| [certificate](/signature/python-net/groupdocs.signature.domain/digitalsignature/certificate) | Gets or sets the X509 certificate. |
-| [comments](/signature/python-net/groupdocs.signature.domain/digitalsignature/comments) | Gets or sets the signing purpose comment. |
-| [is_valid](/signature/python-net/groupdocs.signature.domain/digitalsignature/is_valid) | Keeps true if this digital signature is valid and the document has not been tampered with. |
-| [sign_time](/signature/python-net/groupdocs.signature.domain/digitalsignature/sign_time) | Gets or sets the time the document was signed. |
-| [certificate_custom_store_name](/signature/python-net/groupdocs.signature.domain/digitalsignature/certificate_custom_store_name) | Specifies the custom store name of the certificate. |
-| [x_ad_es_type](/signature/python-net/groupdocs.signature.domain/digitalsignature/x_ad_es_type) | XAdES type [`DigitalSignature.x_ad_es_type`](/signature/python-net/groupdocs.signature.domain/digitalsignature#x_ad_es_type). Default value is None (XAdES is off).<br/>At this moment XAdES signature type is supported only for Spreadsheet documents. |
-| [thumbprint](/signature/python-net/groupdocs.signature.domain/digitalsignature/thumbprint) | Gets the thumbprint of a certificate. |
-
+| [__init__](/signature/python-net/groupdocs.signature.domain/digitalsignature/__init__/) | Initializes a digital signature with default parameters. |
+| [__init__](/signature/python-net/groupdocs.signature.domain/digitalsignature/__init__/#signature_id) | Initializes a digital signature with a known signature identifier. |
+| [__init__](/signature/python-net/groupdocs.signature.domain/digitalsignature/__init__/#store) | Initializes a DigitalSignature using the first certificate from the specified X509 store. |
+| [__init__](/signature/python-net/groupdocs.signature.domain/digitalsignature/__init__/#store-index) | Initializes a DigitalSignature based on the specified X509 store and certificate index. |
+| [__init__](/signature/python-net/groupdocs.signature.domain/digitalsignature/__init__/#certificate) | Initializes a digital signature with the specified certificate. |
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [load_digital_signatures](/signature/python-net/groupdocs.signature.domain/digitalsignature/load_digital_signatures/#) | Load Digital signatures from all system X509 Certificates Stores. |
-| [load_digital_signatures](/signature/python-net/groupdocs.signature.domain/digitalsignature/load_digital_signatures/#System.String) | Load Digital signatures from a certificate storage. |
-| [clone](/signature/python-net/groupdocs.signature.domain/digitalsignature/clone/#) | Clone Barcode Signature instance. |
+| [clone](/signature/python-net/groupdocs.signature.domain/digitalsignature/clone/) | Clones the barcode signature instance. |
+| [equals](/signature/python-net/groupdocs.signature.domain/digitalsignature/equals/#obj) | Compares this signature with another signature for equality. |
+| [equals_object](/signature/python-net/groupdocs.signature.domain/digitalsignature/equals_object/) |  |
+| [get_hash_code](/signature/python-net/groupdocs.signature.domain/digitalsignature/get_hash_code/) | Returns the hash code for the digital signature. |
+| [load_digital_signatures](/signature/python-net/groupdocs.signature.domain/digitalsignature/load_digital_signatures/) | Load digital signatures from all system X509 certificate stores. |
+| [load_digital_signatures](/signature/python-net/groupdocs.signature.domain/digitalsignature/load_digital_signatures/#store_name) | Load digital signatures from a certificate storage. |
+| [load_digital_signatures](/signature/python-net/groupdocs.signature.domain/digitalsignature/load_digital_signatures/#store_name) | Load digital signatures from a certificate storage. |
+| [load_digital_signatures](/signature/python-net/groupdocs.signature.domain/digitalsignature/load_digital_signatures/#store_name-store_location) | Load digital signatures from a digital certificate storage placed in a specific location. |
+| [load_digital_signatures](/signature/python-net/groupdocs.signature.domain/digitalsignature/load_digital_signatures/#store_name-store_location) | Loads digital signatures from a digital certificate storage placed at a specific location. |
+| [load_digital_signatures_file](/signature/python-net/groupdocs.signature.domain/digitalsignature/load_digital_signatures_file/) |  |
+| [load_digital_signatures_store_name](/signature/python-net/groupdocs.signature.domain/digitalsignature/load_digital_signatures_store_name/) |  |
+| [load_digital_signatures_string](/signature/python-net/groupdocs.signature.domain/digitalsignature/load_digital_signatures_string/) |  |
 
+### Properties
+| Property | Description |
+| :- | :- |
+| [certificate](/signature/python-net/groupdocs.signature.domain/digitalsignature/certificate/) | The X509 certificate associated with the digital signature. |
+| [certificate_custom_store_name](/signature/python-net/groupdocs.signature.domain/digitalsignature/certificate_custom_store_name/) | The custom store name of the certificate. |
+| [certificate_store_location](/signature/python-net/groupdocs.signature.domain/digitalsignature/certificate_store_location/) | The store location of the certificate. |
+| [certificate_store_name](/signature/python-net/groupdocs.signature.domain/digitalsignature/certificate_store_name/) | The store name of the certificate. |
+| [comments](/signature/python-net/groupdocs.signature.domain/digitalsignature/comments/) | The signing purpose comment. |
+| [is_valid](/signature/python-net/groupdocs.signature.domain/digitalsignature/is_valid/) | The digital signature is valid and the document has not been tampered with. |
+| [sign_time](/signature/python-net/groupdocs.signature.domain/digitalsignature/sign_time/) | The time the document was signed. |
+| [thumbprint](/signature/python-net/groupdocs.signature.domain/digitalsignature/thumbprint/) | The thumbprint of a certificate. |
+| [xad_es_type](/signature/python-net/groupdocs.signature.domain/digitalsignature/xad_es_type/) | The XAdES type ([`DigitalSignature.x_ad_es_type`](/signature/python-net/groupdocs.signature.domain/digitalsignature/)). |
+| [created_on](/signature/python-net/groupdocs.signature.domain/basesignature/created_on/) | The signature creation date. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [deleted](/signature/python-net/groupdocs.signature.domain/basesignature/deleted/) | The flag indicating whether this signature was deleted from the document. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [height](/signature/python-net/groupdocs.signature.domain/basesignature/height/) | The height of the signature. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [is_signature](/signature/python-net/groupdocs.signature.domain/basesignature/is_signature/) | The flag indicating whether this component represents a signature (`True`) or document content (`False`). (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [left](/signature/python-net/groupdocs.signature.domain/basesignature/left/) | The left position of the signature. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [modified_on](/signature/python-net/groupdocs.signature.domain/basesignature/modified_on/) | The signature modification date. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [page_number](/signature/python-net/groupdocs.signature.domain/basesignature/page_number/) | The page number where the signature was found. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [signature_id](/signature/python-net/groupdocs.signature.domain/basesignature/signature_id/) | The unique identifier of the signature, used to modify the signature in the document via update or delete operations. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [signature_type](/signature/python-net/groupdocs.signature.domain/basesignature/signature_type/) | The type of signature. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [top](/signature/python-net/groupdocs.signature.domain/basesignature/top/) | The top position of the signature. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [width](/signature/python-net/groupdocs.signature.domain/basesignature/width/) | The width of the signature. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
 
+### Example
+
+```python
+from groupdocs.signature import Signature
+from groupdocs.signature.options import DigitalSearchOptions
+
+def list_digital_signatures():
+    with Signature("signed.pdf") as signature:
+        result = signature.search([DigitalSearchOptions()])
+        for digital in result.signatures:
+            print(f"Signed on {digital.sign_time}")
+            print(f"Certificate subject: {digital.certificate.subject}")
+            print(f"Valid: {digital.is_valid}")
+
+if __name__ == "__main__":
+    list_digital_signatures()
+```
 
 ### See Also
-* module [`groupdocs.signature.domain`](..)
-* class [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature)
-* class [`DigitalSignature`](/signature/python-net/groupdocs.signature.domain/digitalsignature)
+* module [`groupdocs.signature.domain`](/signature/python-net/groupdocs.signature.domain/)

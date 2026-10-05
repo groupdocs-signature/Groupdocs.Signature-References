@@ -1,32 +1,27 @@
-﻿---
-title: MetadataType enumeration
+---
+title: MetadataType class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "MetadataType enum — GroupDocs.Signature for Python via .NET API reference."
 type: docs
 url: /python-net/groupdocs.signature.domain/metadatatype/
 is_root: false
-weight: 630
+weight: 380
 ---
 
-## MetadataType enumeration
 
-Specifies the supported Metadata signature data type of the value.
-
-
+## MetadataType class
 
 The MetadataType type exposes the following members:
 
 ### Fields
 | Field | Description |
 | :- | :- |
-| UNDEFINED | Value type is undefined. |
-| BOOLEAN | Value is Boolean type. |
-| INTEGER | Value is integer type. |
-| DOUBLE | Value is Double type. |
-| DATE_TIME | Value is DateTime type. |
-| STRING | Value is string type. |
-
-
+| [UNDEFINED](/signature/python-net/groupdocs.signature.domain/metadatatype/undefined/) | Value type is undefined. |
+| [BOOLEAN](/signature/python-net/groupdocs.signature.domain/metadatatype/boolean/) | Value is Boolean type. |
+| [INTEGER](/signature/python-net/groupdocs.signature.domain/metadatatype/integer/) | Value is integer type. |
+| [DOUBLE](/signature/python-net/groupdocs.signature.domain/metadatatype/double/) | Value is Double type. |
+| [DATE_TIME](/signature/python-net/groupdocs.signature.domain/metadatatype/date_time/) | Value is DateTime type. |
+| [STRING](/signature/python-net/groupdocs.signature.domain/metadatatype/string/) | Value is string type. |
 
 ### See Also
-* module [`groupdocs.signature.domain`](..)
+* module [`groupdocs.signature.domain`](/signature/python-net/groupdocs.signature.domain/)

@@ -1,17 +1,18 @@
-﻿---
+---
 title: body property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The body of the email message."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/email/body/
 is_root: false
-weight: 40
+weight: 2020
 ---
+
 
 ## body property
 
+The body of the email message.
 
-Gets or sets Body of email message.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def body(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`Email`](/signature/python-net/groupdocs.signature.domain.extensions/email)
+* class [`Email`](/signature/python-net/groupdocs.signature.domain.extensions/email/)

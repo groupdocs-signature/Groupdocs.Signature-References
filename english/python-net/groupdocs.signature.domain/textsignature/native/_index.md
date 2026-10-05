@@ -1,17 +1,20 @@
-﻿---
+---
 title: native property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The native attribute indicating whether the signature is document‑specific."
 type: docs
 url: /python-net/groupdocs.signature.domain/textsignature/native/
 is_root: false
-weight: 100
+weight: 2010
 ---
+
 
 ## native property
 
+The native attribute indicating whether the signature is document‑specific.
 
-Specifies the native attribute. It is true if signature is document-specific.
+True if the signature is document‑specific; otherwise False.
+
 ### Definition:
 ```python
 @property
@@ -23,5 +26,4 @@ def native(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`TextSignature`](/signature/python-net/groupdocs.signature.domain/textsignature)
+* class [`TextSignature`](/signature/python-net/groupdocs.signature.domain/textsignature/)

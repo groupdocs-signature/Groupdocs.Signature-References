@@ -1,17 +1,18 @@
-﻿---
+---
 title: text property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The QR-Code signature text to search and match."
 type: docs
 url: /python-net/groupdocs.signature.options/qrcodesearchoptions/text/
 is_root: false
-weight: 130
+weight: 2060
 ---
+
 
 ## text property
 
+The QR-Code signature text to search and match.
 
-Specifies QR-Code Signature Text if it should be searched and matched.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def text(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`QrCodeSearchOptions`](/signature/python-net/groupdocs.signature.options/qrcodesearchoptions)
+* class [`QrCodeSearchOptions`](/signature/python-net/groupdocs.signature.options/qrcodesearchoptions/)

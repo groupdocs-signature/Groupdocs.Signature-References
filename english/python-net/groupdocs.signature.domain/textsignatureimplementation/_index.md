@@ -1,32 +1,27 @@
-﻿---
-title: TextSignatureImplementation enumeration
+---
+title: TextSignatureImplementation class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "TextSignatureImplementation enum — GroupDocs.Signature for Python via .NET API reference."
 type: docs
 url: /python-net/groupdocs.signature.domain/textsignatureimplementation/
 is_root: false
-weight: 810
+weight: 780
 ---
 
-## TextSignatureImplementation enumeration
 
-Specifies type of implementation for PDF text signature.
-
-
+## TextSignatureImplementation class
 
 The TextSignatureImplementation type exposes the following members:
 
 ### Fields
 | Field | Description |
 | :- | :- |
-| NATIVE | Text Signature as native text object on document page. |
-| IMAGE | Text Signature as Image object on document page. |
-| ANNOTATION | Text Signature as Text Annotation object on PDF page.<br/>Annotations are visible only for Licensed version. |
-| STICKER | Text Signature as Sticker object on PDF page. |
-| FORM_FIELD | Text Signature as text in specified form field.<br/>With this type of implementation could be used only TextSignOptions.Text, <br/>TextSignOptions.FormTextFieldType and TextSignOptions.FormTextFieldTitle options. |
-| WATERMARK | Text Signature as watermark on document page. |
-
-
+| [NATIVE](/signature/python-net/groupdocs.signature.domain/textsignatureimplementation/native/) | Text Signature as native text object on document page. |
+| [IMAGE](/signature/python-net/groupdocs.signature.domain/textsignatureimplementation/image/) | Text Signature as Image object on document page. |
+| [ANNOTATION](/signature/python-net/groupdocs.signature.domain/textsignatureimplementation/annotation/) | Text Signature as Text Annotation object on PDF page. Annotations are visible only for Licensed version. |
+| [STICKER](/signature/python-net/groupdocs.signature.domain/textsignatureimplementation/sticker/) | Text Signature as Sticker object on PDF page. |
+| [FORM_FIELD](/signature/python-net/groupdocs.signature.domain/textsignatureimplementation/form_field/) | Text Signature as text in specified form field. With this type of implementation could be used only TextSignOptions.Text, TextSignOptions.FormTextFieldType and TextSignOptions.FormTextFieldTitle options. |
+| [WATERMARK](/signature/python-net/groupdocs.signature.domain/textsignatureimplementation/watermark/) | Text Signature as watermark on document page. |
 
 ### See Also
-* module [`groupdocs.signature.domain`](..)
+* module [`groupdocs.signature.domain`](/signature/python-net/groupdocs.signature.domain/)

@@ -1,17 +1,18 @@
-﻿---
+---
 title: metadata_signatures property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The collection of document metadata signatures."
 type: docs
 url: /python-net/groupdocs.signature.domain/idocumentinfo/metadata_signatures/
 is_root: false
-weight: 110
+weight: 2090
 ---
+
 
 ## metadata_signatures property
 
+The collection of document metadata signatures.
 
-Collection of document Metadata signatures.
 ### Definition:
 ```python
 @property
@@ -20,5 +21,4 @@ def metadata_signatures(self):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`IDocumentInfo`](/signature/python-net/groupdocs.signature.domain/idocumentinfo)
+* class [`IDocumentInfo`](/signature/python-net/groupdocs.signature.domain/idocumentinfo/)

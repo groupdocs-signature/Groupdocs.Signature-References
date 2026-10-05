@@ -1,21 +1,20 @@
-﻿---
+---
 title: return_content_type property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The file type of the returned image content of the Barcode signature when the returncontent property is enabled."
 type: docs
 url: /python-net/groupdocs.signature.options/barcodesignoptions/return_content_type/
 is_root: false
-weight: 270
+weight: 2120
 ---
+
 
 ## return_content_type property
 
+The file type of the returned image content of the Barcode signature when the `return_content` property is enabled.
 
-Specifies file type of returned image content of the Barcode signature when ReturnContent property is enabled.
-By default it set to Null. That means to return Barcode image content in original format. 
-This image format is specified at [`BarcodeSignature.format`](/signature/python-net/groupdocs.signature.domain/barcodesignature#format)
-Possible supported values are: FileType.JPEG, FileType.PNG, FileType.BMP. 
-If provided format is not supported than Barcode image content in .png format will be returned.
+By default it is set to `None`, which means the Barcode image content is returned in its original format. The image format is specified by [`BarcodeSignature.format`](/signature/python-net/groupdocs.signature.domain/barcodesignature/format/). Supported values are [`FileType.JPEG`](/signature/python-net/groupdocs.signature.domain/filetype/jpeg/), [`FileType.PNG`](/signature/python-net/groupdocs.signature.domain/filetype/png/), and [`FileType.BMP`](/signature/python-net/groupdocs.signature.domain/filetype/bmp/). If a format that is not supported is provided, the Barcode image content will be returned in PNG format.
+
 ### Definition:
 ```python
 @property
@@ -27,6 +26,4 @@ def return_content_type(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`BarcodeSignOptions`](/signature/python-net/groupdocs.signature.options/barcodesignoptions)
-* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype)
+* class [`BarcodeSignOptions`](/signature/python-net/groupdocs.signature.options/barcodesignoptions/)

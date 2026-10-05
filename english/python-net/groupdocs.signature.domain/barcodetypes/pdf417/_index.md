@@ -1,19 +1,17 @@
-﻿---
-title: PDF417 property
+---
+title: PDF417 field
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Pdf417 Barcode Type object."
 type: docs
 url: /python-net/groupdocs.signature.domain/barcodetypes/pdf417/
 is_root: false
-weight: 590
+weight: 3480
 ---
 
-## PDF417 property
 
+## PDF417 field
 
 Pdf417 Barcode Type object.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`BarcodeType`](/signature/python-net/groupdocs.signature.domain/barcodetype)
-* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes)
+* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes/)

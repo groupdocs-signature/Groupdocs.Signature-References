@@ -1,17 +1,18 @@
-﻿---
+---
 title: url property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The URL of a third-party site."
 type: docs
 url: /python-net/groupdocs.signature.domain/timestamp/url/
 is_root: false
-weight: 40
+weight: 2020
 ---
+
 
 ## url property
 
+The URL of a third-party site.
 
-Url of third-party site.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def url(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`TimeStamp`](/signature/python-net/groupdocs.signature.domain/timestamp)
+* class [`TimeStamp`](/signature/python-net/groupdocs.signature.domain/timestamp/)

@@ -1,17 +1,18 @@
-﻿---
+---
 title: total_signatures property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The total number of processed signatures."
 type: docs
 url: /python-net/groupdocs.signature.domain/deleteresult/total_signatures/
 is_root: false
-weight: 80
+weight: 2060
 ---
+
 
 ## total_signatures property
 
+The total number of processed signatures.
 
-Returns the total processed signatures.
 ### Definition:
 ```python
 @property
@@ -20,5 +21,4 @@ def total_signatures(self):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`DeleteResult`](/signature/python-net/groupdocs.signature.domain/deleteresult)
+* class [`DeleteResult`](/signature/python-net/groupdocs.signature.domain/deleteresult/)

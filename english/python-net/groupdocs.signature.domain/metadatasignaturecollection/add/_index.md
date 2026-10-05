@@ -1,31 +1,28 @@
-﻿---
+---
 title: add method
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Add a metadata signature object to the collection."
 type: docs
 url: /python-net/groupdocs.signature.domain/metadatasignaturecollection/add/
 is_root: false
-weight: 20
+weight: 1010
 ---
 
-## add {#groupdocs.signature.domain.MetadataSignature}
 
-Add Metadata Signature object to collection.
+## add {#signature}
 
+Add a metadata signature object to the collection.
 
+Raises an exception if the name value is not unique within the existing collection.
 
 ```python
 def add(self, signature):
     ...
 ```
 
-
 | Parameter | Type | Description |
 | :- | :- | :- |
-| signature | groupdocs.signature.domain.MetadataSignature | Metadata signature to be added to collection. |
-
-
+| signature | `MetadataSignature` | Metadata signature to be added to collection. |
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`MetadataSignatureCollection`](/signature/python-net/groupdocs.signature.domain/metadatasignaturecollection)
+* class [`MetadataSignatureCollection`](/signature/python-net/groupdocs.signature.domain/metadatasignaturecollection/)

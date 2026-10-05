@@ -1,19 +1,17 @@
-﻿---
-title: SINGAPORE_POST property
+---
+title: SINGAPORE_POST field
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "SingaporePost Barcode Type object."
 type: docs
 url: /python-net/groupdocs.signature.domain/barcodetypes/singapore_post/
 is_root: false
-weight: 660
+weight: 3550
 ---
 
-## SINGAPORE_POST property
 
+## SINGAPORE_POST field
 
 SingaporePost Barcode Type object.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`BarcodeType`](/signature/python-net/groupdocs.signature.domain/barcodetype)
-* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes)
+* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes/)

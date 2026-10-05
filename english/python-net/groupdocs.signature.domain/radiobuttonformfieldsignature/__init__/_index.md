@@ -1,68 +1,55 @@
-﻿---
-title: RadioButtonFormFieldSignature constructor
+---
+title: __init__ constructor
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Initializes a RadioButtonFormFieldSignature with a predefined name."
 type: docs
 url: /python-net/groupdocs.signature.domain/radiobuttonformfieldsignature/__init__/
 is_root: false
 weight: 10
 ---
 
-## __init__ {#System.String}
 
-Creates RadioButtonFieldSignature with predefined name.
+## __init__ {#name}
 
-
+Initializes a RadioButtonFormFieldSignature with a predefined name.
 
 ```python
 def __init__(self, name):
     ...
 ```
 
-
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | System.String | Name of form field object. |
+| name | `str` | Name of form field object. |
 
+## __init__ {#name-items}
 
-## __init__ {#System.String-System.Collections.Generic.List`1[[System.String]]}
-
-Constructs a new instance of RadioButtonFormFieldSignature
-
-
+Initializes a RadioButtonFormFieldSignature with a predefined name and items list.
 
 ```python
 def __init__(self, name, items):
     ...
 ```
 
-
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | System.String |  |
-| items | System.Collections.Generic.List`1[[System.String]] |  |
+| name | `str` | Name of form field object. |
+| items | `List[str]` | Values of radio-button list. |
 
+## __init__ {#name-items-selected}
 
-## __init__ {#System.String-System.Collections.Generic.List`1[[System.String]]-System.Object}
-
-Constructs a new instance of RadioButtonFormFieldSignature
-
-
+Initializes a RadioButtonFormFieldSignature with a predefined name, items list, and selected value.
 
 ```python
 def __init__(self, name, items, selected):
     ...
 ```
 
-
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | System.String |  |
-| items | System.Collections.Generic.List`1[[System.String]] |  |
-| selected | System.Object |  |
-
-
+| name | `str` | Name of form field object. |
+| items | `List[str]` | Values of radio-button list. |
+| selected | `Any` | Selected value. |
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`RadioButtonFormFieldSignature`](/signature/python-net/groupdocs.signature.domain/radiobuttonformfieldsignature)
+* class [`RadioButtonFormFieldSignature`](/signature/python-net/groupdocs.signature.domain/radiobuttonformfieldsignature/)

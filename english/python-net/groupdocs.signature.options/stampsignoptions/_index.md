@@ -1,92 +1,88 @@
-﻿---
+---
 title: StampSignOptions class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Represents the Stamp signature options."
 type: docs
 url: /python-net/groupdocs.signature.options/stampsignoptions/
 is_root: false
-weight: 430
+weight: 570
 ---
+
 
 ## StampSignOptions class
 
 Represents the Stamp signature options.
 
-
-
-**Inheritance:** [`StampSignOptions`](/signature/python-net/groupdocs.signature.options/stampsignoptions) → 
-[`ImageSignOptions`](/signature/python-net/groupdocs.signature.options/imagesignoptions) → 
-[`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions)
-
-
+Learn more:
+- Basic usage of creating Stamp electronic signature by GroupDocs.Signature: How to eSign document with Stamp signature (https://docs.groupdocs.com/display/signaturenet/eSign+document+with+Stamp+signature)
+- Advanced usage of settings of Stamp electronic signature with GroupDocs.Signature: Advanced usage to eSign document with Stamp signature and additional settings (https://docs.groupdocs.com/display/signaturenet/Sign+document+with+Stamp+signature+-+advanced)
 
 The StampSignOptions type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.options/stampsignoptions/__init__/#) | Initializes a new instance of the StampSignOptions class with default values. |
-| [__init__](/signature/python-net/groupdocs.signature.options/stampsignoptions/__init__/#int-int-int-int) | Initializes a new instance of the StampSignOptions class with alignment options. |
-
-
-### Properties
-| Property | Description |
-| :- | :- |
-| [page_number](/signature/python-net/groupdocs.signature.options/stampsignoptions/page_number) | Gets or sets document page number for signing.<br/>Minimal and default value is 1. |
-| [all_pages](/signature/python-net/groupdocs.signature.options/stampsignoptions/all_pages) | Put signature on all document pages. |
-| [appearance](/signature/python-net/groupdocs.signature.options/stampsignoptions/appearance) | Additional signature appearance. |
-| [extensions](/signature/python-net/groupdocs.signature.options/stampsignoptions/extensions) | Signature Extensions. |
-| [pages_setup](/signature/python-net/groupdocs.signature.options/stampsignoptions/pages_setup) | Options to specify pages to be signed. |
-| [signature_type](/signature/python-net/groupdocs.signature.options/stampsignoptions/signature_type) | Get the Signature Type [`SignatureType`](/signature/python-net/groupdocs.signature.domain/signaturetype) |
-| [document_type](/signature/python-net/groupdocs.signature.options/stampsignoptions/document_type) | Get or set the Document Type of the Signature Options [`DocumentType`](/signature/python-net/groupdocs.signature.domain/documenttype) |
-| [z_order](/signature/python-net/groupdocs.signature.options/stampsignoptions/z_order) | Gets or sets the Z-order position of text signature.        <br/>Determines the display order of overlapping signatures. |
-| [hash_algorithm](/signature/python-net/groupdocs.signature.options/stampsignoptions/hash_algorithm) | Gets or sets the hash algorithm to be used for cryptographic operations.<br/>Supported exclusively for digital signatures in PDF files. |
-| [image_file_path](/signature/python-net/groupdocs.signature.options/stampsignoptions/image_file_path) | Gets or sets the signature image file path.<br/>This property is used only if ImageStream is not specified. |
-| [image_stream](/signature/python-net/groupdocs.signature.options/stampsignoptions/image_stream) | Gets or sets the signature image stream.<br/>If this property is specified it is always used instead ImageFilePath. |
-| [left](/signature/python-net/groupdocs.signature.options/stampsignoptions/left) | Left X position of Signature on Document Page in Measure values <br/>(pixels, percents or millimeters see [`MeasureType`](/signature/python-net/groupdocs.signature.domain/measuretype) LocationMeasureType).<br/>(works if horizontal alignment is not specified). |
-| [top](/signature/python-net/groupdocs.signature.options/stampsignoptions/top) | Top Y Position of Signature on Document Page in Measure values <br/>(pixels, percents or millimeters see [`MeasureType`](/signature/python-net/groupdocs.signature.domain/measuretype) LocationMeasureType).<br/>(works if vertical alignment is not specified). |
-| [width](/signature/python-net/groupdocs.signature.options/stampsignoptions/width) | Width of Signature on Document Page in Measure values <br/>(pixels, percents or millimeters [`MeasureType`](/signature/python-net/groupdocs.signature.domain/measuretype) SizeMeasureType). |
-| [height](/signature/python-net/groupdocs.signature.options/stampsignoptions/height) | Height of Signature on Document Page in Measure values <br/>(pixels, percents or millimeters see [`MeasureType`](/signature/python-net/groupdocs.signature.domain/measuretype) SizeMeasureType). |
-| [location_measure_type](/signature/python-net/groupdocs.signature.options/stampsignoptions/location_measure_type) | Measure type (pixels, percents or millimeters) for Left and Top properties. |
-| [size_measure_type](/signature/python-net/groupdocs.signature.options/stampsignoptions/size_measure_type) | Measure type (pixels, percents or millimeters) for Width and Height properties. |
-| [stretch](/signature/python-net/groupdocs.signature.options/stampsignoptions/stretch) | Stretch mode on Document Page. |
-| [rotation_angle](/signature/python-net/groupdocs.signature.options/stampsignoptions/rotation_angle) | Rotation angle of signature on document page (clockwise). |
-| [horizontal_alignment](/signature/python-net/groupdocs.signature.options/stampsignoptions/horizontal_alignment) | Horizontal alignment of signature on document page. |
-| [vertical_alignment](/signature/python-net/groupdocs.signature.options/stampsignoptions/vertical_alignment) | Vertical alignment of signature on document page. |
-| [margin](/signature/python-net/groupdocs.signature.options/stampsignoptions/margin) | Gets or sets the space between Sign and Document edges.<br/>(works ONLY if horizontal or vertical alignment are specified). |
-| [margin_measure_type](/signature/python-net/groupdocs.signature.options/stampsignoptions/margin_measure_type) | Gets or sets the measure type (pixels, percents or millimeters) for Margin. |
-| [transparency](/signature/python-net/groupdocs.signature.options/stampsignoptions/transparency) | Gets or sets the signature transparency (value from 0.0 (opaque) through 1.0 (clear)). Default value is 0 (opaque). |
-| [shape_position](/signature/python-net/groupdocs.signature.options/stampsignoptions/shape_position) | Defines where shape should be presented in the document layout. Avaliable only for Word documents |
-| [rectangle](/signature/python-net/groupdocs.signature.options/stampsignoptions/rectangle) | Rectangle of area to put the image on document. |
-| [border](/signature/python-net/groupdocs.signature.options/stampsignoptions/border) | Specify border settings |
-| [stamp_type](/signature/python-net/groupdocs.signature.options/stampsignoptions/stamp_type) | Gets or sets stamp type.<br/>Value by default is Round. |
-| [outer_lines](/signature/python-net/groupdocs.signature.options/stampsignoptions/outer_lines) | List of Outer Lines rendered as concentric circles. |
-| [inner_lines](/signature/python-net/groupdocs.signature.options/stampsignoptions/inner_lines) | List of Inner Lines rendered as set of rectangles. |
-| [background](/signature/python-net/groupdocs.signature.options/stampsignoptions/background) | Gets or sets the Stamp background. |
-| [background_color_crop_type](/signature/python-net/groupdocs.signature.options/stampsignoptions/background_color_crop_type) | Gets or sets the background color crop type of signature. |
-| [background_image_crop_type](/signature/python-net/groupdocs.signature.options/stampsignoptions/background_image_crop_type) | Gets or sets the background image crop type of signature. |
-
+| [__init__](/signature/python-net/groupdocs.signature.options/stampsignoptions/__init__/) | Initializes a new instance of the StampSignOptions class with default values. |
+| [__init__](/signature/python-net/groupdocs.signature.options/stampsignoptions/__init__/#left-top-width-height) | Initializes a new instance of the StampSignOptions class with alignment options. |
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [from_base64](/signature/python-net/groupdocs.signature.options/stampsignoptions/from_base64/#System.String) | Creates a new instance of the ImageSignOptions class with predefined Image from Base64. |
+| [dispose](/signature/python-net/groupdocs.signature.options/imagesignoptions/dispose/) | Clears internal resources. (inherited from [`ImageSignOptions`](/signature/python-net/groupdocs.signature.options/imagesignoptions/)) |
+| [from_base64](/signature/python-net/groupdocs.signature.options/imagesignoptions/from_base64/) | Creates a new ImageSignOptions instance with a predefined image from a Base64 string. (inherited from [`ImageSignOptions`](/signature/python-net/groupdocs.signature.options/imagesignoptions/)) |
 
+### Properties
+| Property | Description |
+| :- | :- |
+| [background](/signature/python-net/groupdocs.signature.options/stampsignoptions/background/) | The background of the stamp. |
+| [background_color_crop_type](/signature/python-net/groupdocs.signature.options/stampsignoptions/background_color_crop_type/) | The background color crop type of the signature. |
+| [background_image_crop_type](/signature/python-net/groupdocs.signature.options/stampsignoptions/background_image_crop_type/) | The background image crop type of the signature. |
+| [height](/signature/python-net/groupdocs.signature.options/stampsignoptions/height/) | The height of the signature area on the document page in measure units (pixels, percents, or millimeters). |
+| [horizontal_alignment](/signature/python-net/groupdocs.signature.options/stampsignoptions/horizontal_alignment/) | The horizontal alignment of the image on a document page. |
+| [inner_lines](/signature/python-net/groupdocs.signature.options/stampsignoptions/inner_lines/) | The list of inner lines rendered as a set of rectangles. |
+| [left](/signature/python-net/groupdocs.signature.options/stampsignoptions/left/) | The left X position of the signature area on the document page in measure units (pixels, percents, or millimeters). See `MeasureType` `LocationMeasureType`. |
+| [location_measure_type](/signature/python-net/groupdocs.signature.options/stampsignoptions/location_measure_type/) | The measure type (pixels, percents or millimeters) for the left and top properties. |
+| [margin](/signature/python-net/groupdocs.signature.options/stampsignoptions/margin/) | The space that is specified by default between the image and document edges (works if horizontal or vertical alignment is specified). |
+| [margin_measure_type](/signature/python-net/groupdocs.signature.options/stampsignoptions/margin_measure_type/) | The margin measurement type (pixels, percents or millimeters). |
+| [outer_lines](/signature/python-net/groupdocs.signature.options/stampsignoptions/outer_lines/) | The list of outer lines rendered as concentric circles. |
+| [rotation_angle](/signature/python-net/groupdocs.signature.options/stampsignoptions/rotation_angle/) | The rotation angle clockwise. |
+| [size_measure_type](/signature/python-net/groupdocs.signature.options/stampsignoptions/size_measure_type/) | The measure type (pixels, percents or millimeters) for Width and Height properties. |
+| [stamp_type](/signature/python-net/groupdocs.signature.options/stampsignoptions/stamp_type/) | The stamp type. Default is `Round`. |
+| [stretch](/signature/python-net/groupdocs.signature.options/stampsignoptions/stretch/) | The stretch mode on the document page. |
+| [top](/signature/python-net/groupdocs.signature.options/stampsignoptions/top/) | The top Y position of the signature area on the document page in measure units (pixels, percents, or millimeters). See `MeasureType` `LocationMeasureType`. |
+| [transparency](/signature/python-net/groupdocs.signature.options/stampsignoptions/transparency/) | The transparency of the stamp signature. The value ranges from 0.0 to 1.0, with a default of 0. |
+| [vertical_alignment](/signature/python-net/groupdocs.signature.options/stampsignoptions/vertical_alignment/) | The vertical alignment of the stamp on a document page. |
+| [width](/signature/python-net/groupdocs.signature.options/stampsignoptions/width/) | The width of the signature area on the document page in measure values (pixels, percents, or millimeters). The measurement unit is defined by `MeasureType` SizeMeasureType. |
+| [all_pages](/signature/python-net/groupdocs.signature.options/signoptions/all_pages/) | The signature will be placed on all document pages. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [appearance](/signature/python-net/groupdocs.signature.options/signoptions/appearance/) | The additional signature appearance. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [border](/signature/python-net/groupdocs.signature.options/imagesignoptions/border/) | The border settings for the image signature. (inherited from [`ImageSignOptions`](/signature/python-net/groupdocs.signature.options/imagesignoptions/)) |
+| [document_type](/signature/python-net/groupdocs.signature.options/signoptions/document_type/) | The document type of the signature options (`DocumentType`). (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [extensions](/signature/python-net/groupdocs.signature.options/signoptions/extensions/) | The signature extensions. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [hash_algorithm](/signature/python-net/groupdocs.signature.options/signoptions/hash_algorithm/) | The hash algorithm to be used for cryptographic operations. Supported exclusively for digital signatures in PDF files. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [image_file_path](/signature/python-net/groupdocs.signature.options/imagesignoptions/image_file_path/) | The file path of the signature image, used only if `image_stream` is not specified. (inherited from [`ImageSignOptions`](/signature/python-net/groupdocs.signature.options/imagesignoptions/)) |
+| [image_stream](/signature/python-net/groupdocs.signature.options/imagesignoptions/image_stream/) | The signature image stream. If specified, it is always used instead of ImageFilePath. (inherited from [`ImageSignOptions`](/signature/python-net/groupdocs.signature.options/imagesignoptions/)) |
+| [page_number](/signature/python-net/groupdocs.signature.options/signoptions/page_number/) | The document page number for signing. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [pages_setup](/signature/python-net/groupdocs.signature.options/signoptions/pages_setup/) | The options to specify pages to be signed. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [rectangle](/signature/python-net/groupdocs.signature.options/imagesignoptions/rectangle/) | The rectangle of area to put the image on document. (inherited from [`ImageSignOptions`](/signature/python-net/groupdocs.signature.options/imagesignoptions/)) |
+| [shape_position](/signature/python-net/groupdocs.signature.options/imagesignoptions/shape_position/) | The shape position defines where the shape should be presented in the document layout. Available only for Word documents. (inherited from [`ImageSignOptions`](/signature/python-net/groupdocs.signature.options/imagesignoptions/)) |
+| [signature_type](/signature/python-net/groupdocs.signature.options/signoptions/signature_type/) | The signature type (`SignatureType`). (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [zorder](/signature/python-net/groupdocs.signature.options/signoptions/zorder/) | The Z-order position of the text signature, which determines the display order of overlapping signatures. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
 
+### Example
 
-### Remarks 
+```python
+from groupdocs.signature import Signature
+from groupdocs.signature.options import StampSignOptions
 
-
-**Learn more** |
-|
- |
- |
+with Signature("sample.docx") as signature:
+    options = StampSignOptions()
+    options.left = 380
+    options.top = 520
+    options.width = 160
+    options.height = 160
+    # configure additional stamp options as needed
+    signature.sign(options)
+```
 
 ### See Also
-* module [`groupdocs.signature.options`](..)
-* class [`DocumentType`](/signature/python-net/groupdocs.signature.domain/documenttype)
-* class [`ImageSignOptions`](/signature/python-net/groupdocs.signature.options/imagesignoptions)
-* class [`MeasureType`](/signature/python-net/groupdocs.signature.domain/measuretype)
-* class [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions)
-* class [`SignatureType`](/signature/python-net/groupdocs.signature.domain/signaturetype)
-* class [`StampSignOptions`](/signature/python-net/groupdocs.signature.options/stampsignoptions)
+* module [`groupdocs.signature.options`](/signature/python-net/groupdocs.signature.options/)

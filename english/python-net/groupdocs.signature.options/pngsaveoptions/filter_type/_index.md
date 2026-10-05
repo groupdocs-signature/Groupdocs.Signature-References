@@ -1,17 +1,18 @@
-﻿---
+---
 title: filter_type property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The filter type PngFilterType used during PNG file save process."
 type: docs
 url: /python-net/groupdocs.signature.options/pngsaveoptions/filter_type/
 is_root: false
-weight: 80
+weight: 2040
 ---
+
 
 ## filter_type property
 
+The filter type `PngFilterType` used during PNG file save process.
 
-Gets or sets the filter type [`PngFilterType`](/signature/python-net/groupdocs.signature.options/pngfiltertype) used during png file save process.
 ### Definition:
 ```python
 @property
@@ -23,6 +24,4 @@ def filter_type(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`PngFilterType`](/signature/python-net/groupdocs.signature.options/pngfiltertype)
-* class [`PngSaveOptions`](/signature/python-net/groupdocs.signature.options/pngsaveoptions)
+* class [`PngSaveOptions`](/signature/python-net/groupdocs.signature.options/pngsaveoptions/)

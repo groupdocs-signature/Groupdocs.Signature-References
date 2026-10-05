@@ -1,17 +1,18 @@
-﻿---
+---
 title: detection_threshold_percent property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The detection threshold percentage for partial extraction (0-100)."
 type: docs
 url: /python-net/groupdocs.signature.options/imagedigitalverifyoptions/detection_threshold_percent/
 is_root: false
-weight: 50
+weight: 2020
 ---
+
 
 ## detection_threshold_percent property
 
+The detection threshold percentage for partial extraction (0-100). Default is 75.
 
-Detection threshold percentage for partial extraction (0-100). Default is 75.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def detection_threshold_percent(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`ImageDigitalVerifyOptions`](/signature/python-net/groupdocs.signature.options/imagedigitalverifyoptions)
+* class [`ImageDigitalVerifyOptions`](/signature/python-net/groupdocs.signature.options/imagedigitalverifyoptions/)

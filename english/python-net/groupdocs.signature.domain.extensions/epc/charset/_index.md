@@ -1,17 +1,18 @@
-﻿---
+---
 title: charset property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The EPC / SEPA QR-Code char set implementation; by default this value is set to 1."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/epc/charset/
 is_root: false
-weight: 50
+weight: 2030
 ---
+
 
 ## charset property
 
+The EPC / SEPA QR-Code char set implementation; by default this value is set to 1.
 
-EPC / SEPA QR-Code char set implementation. By default this value set to 1
 ### Definition:
 ```python
 @property
@@ -20,5 +21,4 @@ def charset(self):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`EPC`](/signature/python-net/groupdocs.signature.domain.extensions/epc)
+* class [`EPC`](/signature/python-net/groupdocs.signature.domain.extensions/epc/)

@@ -1,17 +1,18 @@
-﻿---
+---
 title: shape_position property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The shape position in the document layout used for verifying signatures in headers/footers."
 type: docs
 url: /python-net/groupdocs.signature.options/verifyoptions/shape_position/
 is_root: false
-weight: 80
+weight: 2060
 ---
+
 
 ## shape_position property
 
+The shape position in the document layout used for verifying signatures in headers/footers.
 
-Specifies shape position in the document layout. For verifing signatures in headers/footers
 ### Definition:
 ```python
 @property
@@ -23,6 +24,4 @@ def shape_position(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`ShapePosition`](/signature/python-net/groupdocs.signature.domain/shapeposition)
-* class [`VerifyOptions`](/signature/python-net/groupdocs.signature.options/verifyoptions)
+* class [`VerifyOptions`](/signature/python-net/groupdocs.signature.options/verifyoptions/)

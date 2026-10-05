@@ -1,18 +1,20 @@
-﻿---
+---
 title: transparency property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The transparency of the shadow."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/textshadow/transparency/
 is_root: false
-weight: 80
+weight: 2050
 ---
+
 
 ## transparency property
 
+The transparency of the shadow.
 
-Gets or sets transparency of the shadow.
-Default value is 0.
+The default value is 0.
+
 ### Definition:
 ```python
 @property
@@ -24,5 +26,4 @@ def transparency(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`TextShadow`](/signature/python-net/groupdocs.signature.domain.extensions/textshadow)
+* class [`TextShadow`](/signature/python-net/groupdocs.signature.domain.extensions/textshadow/)

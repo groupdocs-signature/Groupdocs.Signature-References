@@ -1,17 +1,18 @@
-﻿---
+---
 title: extension property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The filename suffix (including the period \".\") e.g."
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/extension/
 is_root: false
-weight: 710
+weight: 2010
 ---
+
 
 ## extension property
 
+The filename suffix (including the period ".") e.g. ".doc".
 
-Filename suffix (including the period ".") e.g. ".doc".
 ### Definition:
 ```python
 @property
@@ -20,5 +21,4 @@ def extension(self):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype)
+* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype/)

@@ -1,96 +1,114 @@
-﻿---
+---
 title: BarcodeSignOptions class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Represents the barcode signature options."
 type: docs
 url: /python-net/groupdocs.signature.options/barcodesignoptions/
 is_root: false
 weight: 20
 ---
 
+
 ## BarcodeSignOptions class
 
-Represents the Barcode signature options.
+Represents the barcode signature options.
 
+Learn more
 
-
-**Inheritance:** [`BarcodeSignOptions`](/signature/python-net/groupdocs.signature.options/barcodesignoptions) → 
-[`TextSignOptions`](/signature/python-net/groupdocs.signature.options/textsignoptions) → 
-[`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions)
-
-
+- Basic usage of creating Barcode electronic signature by GroupDocs.Signature: https://docs.groupdocs.com/display/signaturenet/eSign+document+with+Barcode+signature
+- Advanced usage of settings of Barcode electronic signature with GroupDocs.Signature: https://docs.groupdocs.com/display/signaturenet/Sign+document+with+Barcode+signature+and+additional+settings
 
 The BarcodeSignOptions type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.options/barcodesignoptions/__init__/#) | Initializes a new instance of the BarcodeSignOptions class with default values. |
-| [__init__](/signature/python-net/groupdocs.signature.options/barcodesignoptions/__init__/#System.String) | Initializes a new instance of the BarcodeSignOptions class with text. |
-| [__init__](/signature/python-net/groupdocs.signature.options/barcodesignoptions/__init__/#System.String-groupdocs.signature.domain.BarcodeType) | Initializes a new instance of the BarcodeSignOptions class with text. |
-
+| [__init__](/signature/python-net/groupdocs.signature.options/barcodesignoptions/__init__/) | Initializes a new instance of the BarcodeSignOptions class with default values. |
+| [__init__](/signature/python-net/groupdocs.signature.options/barcodesignoptions/__init__/#text) | Initializes a new instance of the BarcodeSignOptions class with text. |
+| [__init__](/signature/python-net/groupdocs.signature.options/barcodesignoptions/__init__/#text-encode_type) | Initializes a new instance of the BarcodeSignOptions class with text. |
 
 ### Properties
 | Property | Description |
 | :- | :- |
-| [page_number](/signature/python-net/groupdocs.signature.options/barcodesignoptions/page_number) | Gets or sets document page number for signing.<br/>Minimal and default value is 1. |
-| [all_pages](/signature/python-net/groupdocs.signature.options/barcodesignoptions/all_pages) | Put signature on all document pages. |
-| [appearance](/signature/python-net/groupdocs.signature.options/barcodesignoptions/appearance) | Additional signature appearance. |
-| [extensions](/signature/python-net/groupdocs.signature.options/barcodesignoptions/extensions) | Signature Extensions. |
-| [pages_setup](/signature/python-net/groupdocs.signature.options/barcodesignoptions/pages_setup) | Options to specify pages to be signed. |
-| [signature_type](/signature/python-net/groupdocs.signature.options/barcodesignoptions/signature_type) | Get the Signature Type [`SignatureType`](/signature/python-net/groupdocs.signature.domain/signaturetype) |
-| [document_type](/signature/python-net/groupdocs.signature.options/barcodesignoptions/document_type) | Get or set the Document Type of the Signature Options [`DocumentType`](/signature/python-net/groupdocs.signature.domain/documenttype) |
-| [z_order](/signature/python-net/groupdocs.signature.options/barcodesignoptions/z_order) | Gets or sets the Z-order position of text signature.        <br/>Determines the display order of overlapping signatures. |
-| [hash_algorithm](/signature/python-net/groupdocs.signature.options/barcodesignoptions/hash_algorithm) | Gets or sets the hash algorithm to be used for cryptographic operations.<br/>Supported exclusively for digital signatures in PDF files. |
-| [left](/signature/python-net/groupdocs.signature.options/barcodesignoptions/left) | Left X position of Signature on Document Page in Measure values <br/>(pixels, percents or millimeters see [`MeasureType`](/signature/python-net/groupdocs.signature.domain/measuretype) LocationMeasureType property).<br/>(works if horizontal alignment is not specified). |
-| [top](/signature/python-net/groupdocs.signature.options/barcodesignoptions/top) | Top Y Position of Signature on Document Page in Measure values <br/>(pixels, percents or millimeters see [`MeasureType`](/signature/python-net/groupdocs.signature.domain/measuretype) LocationMeasureType property).<br/>(works if vertical alignment is not specified). |
-| [width](/signature/python-net/groupdocs.signature.options/barcodesignoptions/width) | Width of Signature on Document Page in Measure values <br/>(pixels, percents or millimeters see [`MeasureType`](/signature/python-net/groupdocs.signature.domain/measuretype) SizeMeasureType property). |
-| [height](/signature/python-net/groupdocs.signature.options/barcodesignoptions/height) | Height of Signature on Document Page in Measure values <br/>(pixels, percents or millimeters see [`MeasureType`](/signature/python-net/groupdocs.signature.domain/measuretype) SizeMeasureType property). |
-| [location_measure_type](/signature/python-net/groupdocs.signature.options/barcodesignoptions/location_measure_type) | Measure type (pixels, percents or millimeters) for Left and Top properties. |
-| [size_measure_type](/signature/python-net/groupdocs.signature.options/barcodesignoptions/size_measure_type) | Measure type (pixels, percents or millimeters) for Width and Height properties. |
-| [stretch](/signature/python-net/groupdocs.signature.options/barcodesignoptions/stretch) | Stretch mode on Document Page. |
-| [rotation_angle](/signature/python-net/groupdocs.signature.options/barcodesignoptions/rotation_angle) | Rotation angle of signature on document page (clockwise). |
-| [horizontal_alignment](/signature/python-net/groupdocs.signature.options/barcodesignoptions/horizontal_alignment) | Horizontal alignment of signature on document page. |
-| [vertical_alignment](/signature/python-net/groupdocs.signature.options/barcodesignoptions/vertical_alignment) | Vertical alignment of signature on document page. |
-| [margin](/signature/python-net/groupdocs.signature.options/barcodesignoptions/margin) | Gets or sets the space between Sign and Document edges.<br/>(works ONLY if horizontal or vertical alignment are specified). |
-| [margin_measure_type](/signature/python-net/groupdocs.signature.options/barcodesignoptions/margin_measure_type) | Gets or sets the measure type (pixels, percents or millimeters) for Margin. |
-| [transparency](/signature/python-net/groupdocs.signature.options/barcodesignoptions/transparency) | Gets or sets the signature transparency (value from 0.0 (opaque) through 1.0 (clear)). Default value is 0 (opaque). |
-| [text](/signature/python-net/groupdocs.signature.options/barcodesignoptions/text) | Gets or sets the text of signature. |
-| [font](/signature/python-net/groupdocs.signature.options/barcodesignoptions/font) | Gets or sets the font of signature. |
-| [fore_color](/signature/python-net/groupdocs.signature.options/barcodesignoptions/fore_color) | Gets or sets the Fore color of Barcode bars<br/>Using of this property could cause problems with verification. Use it carefully. |
-| [signature_implementation](/signature/python-net/groupdocs.signature.options/barcodesignoptions/signature_implementation) | Gets or sets the type of text signature implementation. |
-| [text_horizontal_alignment](/signature/python-net/groupdocs.signature.options/barcodesignoptions/text_horizontal_alignment) | Horizontal alignment of text inside a signature.<br/>This feature is supported only for Image and Annotation signature implementations <br/>(see [`TextSignatureImplementation`](/signature/python-net/groupdocs.signature.domain/textsignatureimplementation) SignatureImplementation property). |
-| [text_vertical_alignment](/signature/python-net/groupdocs.signature.options/barcodesignoptions/text_vertical_alignment) | Vertical alignment of text inside a signature.<br/>This feature is supported only for Image signature implementation <br/>(see [`TextSignatureImplementation`](/signature/python-net/groupdocs.signature.domain/textsignatureimplementation) SignatureImplementation property). |
-| [form_text_field_title](/signature/python-net/groupdocs.signature.options/barcodesignoptions/form_text_field_title) | Gets or sets the title of text form field to put text signature into it.<br/>This property could be used only with SignatureImplementation = TextToFormField. |
-| [form_text_field_type](/signature/python-net/groupdocs.signature.options/barcodesignoptions/form_text_field_type) | Gets or sets the type of form field to put text signature into it.<br/>This property could be used only with SignatureImplementation = TextToFormField.<br/>Value by default is AllTextTypes. |
-| [shape_type](/signature/python-net/groupdocs.signature.options/barcodesignoptions/shape_type) | Gets or sets the type of shape to put text.<br/>This property could be used only with SignatureImplementation = TextStamp.<br/>Value by default is Rectangle. |
-| [signature_id](/signature/python-net/groupdocs.signature.options/barcodesignoptions/signature_id) | Gets or sets the unique ID of signature. It can be used in signature verification options. <br/>Property is supported for Pdf documents only. |
-| [border](/signature/python-net/groupdocs.signature.options/barcodesignoptions/border) | Specify border settings |
-| [background](/signature/python-net/groupdocs.signature.options/barcodesignoptions/background) | Gets or sets the signature background settings. |
-| [native](/signature/python-net/groupdocs.signature.options/barcodesignoptions/native) | Gets or sets the native attribute. If it is set document specific signatures could be used.<br/>Native text watermark for WordProcessing documents is different than regular, for example. |
-| [shape_position](/signature/python-net/groupdocs.signature.options/barcodesignoptions/shape_position) | Defines where shape should be presented in the document layout. Avaliable only for Word documents |
-| [encode_type](/signature/python-net/groupdocs.signature.options/barcodesignoptions/encode_type) | Gets or sets Barcode type. |
-| [inner_margins](/signature/python-net/groupdocs.signature.options/barcodesignoptions/inner_margins) | Gets or sets the space between Barcode elements and result image borders. |
-| [code_text_alignment](/signature/python-net/groupdocs.signature.options/barcodesignoptions/code_text_alignment) | Gets or sets the alignment of text in the result Barcode image.<br/>Default value is None. |
-| [return_content](/signature/python-net/groupdocs.signature.options/barcodesignoptions/return_content) | Gets or sets flag to get Barcode image content of a signature which was put on document page.<br/>If this flag is set true, Barcode signature image content will keep raw image data by required format [`BarcodeSignOptions.return_content_type`](/signature/python-net/groupdocs.signature.options/barcodesignoptions#return_content_type).<br/>By default this option is disabled. |
-| [return_content_type](/signature/python-net/groupdocs.signature.options/barcodesignoptions/return_content_type) | Specifies file type of returned image content of the Barcode signature when ReturnContent property is enabled.<br/>By default it set to Null. That means to return Barcode image content in original format. <br/>This image format is specified at [`BarcodeSignature.format`](/signature/python-net/groupdocs.signature.domain/barcodesignature#format)<br/>Possible supported values are: FileType.JPEG, FileType.PNG, FileType.BMP. <br/>If provided format is not supported than Barcode image content in .png format will be returned. |
+| [code_text_alignment](/signature/python-net/groupdocs.signature.options/barcodesignoptions/code_text_alignment/) | The alignment of text in the resulting barcode image. Default value is None. |
+| [encode_type](/signature/python-net/groupdocs.signature.options/barcodesignoptions/encode_type/) | The barcode type. |
+| [fore_color](/signature/python-net/groupdocs.signature.options/barcodesignoptions/fore_color/) | The foreground color of the barcode bars; using it may cause verification problems, so use it carefully. |
+| [height](/signature/python-net/groupdocs.signature.options/barcodesignoptions/height/) | The height of the signature area on the document page in measure units (pixels, percents, or millimeters). See `MeasureType` for size measure type. |
+| [horizontal_alignment](/signature/python-net/groupdocs.signature.options/barcodesignoptions/horizontal_alignment/) | The horizontal alignment of the image on a document page. |
+| [inner_margins](/signature/python-net/groupdocs.signature.options/barcodesignoptions/inner_margins/) | The space between barcode elements and result image borders. |
+| [left](/signature/python-net/groupdocs.signature.options/barcodesignoptions/left/) | The left X position of the signature area on the document page, expressed in measurement units (pixels, percents, or millimeters). See `MeasureType`. |
+| [location_measure_type](/signature/python-net/groupdocs.signature.options/barcodesignoptions/location_measure_type/) | The measure type (pixels, percents or millimeters) for left and top properties. |
+| [margin](/signature/python-net/groupdocs.signature.options/barcodesignoptions/margin/) | The space that is specified by default between the image and document edges (applies when horizontal or vertical alignment is set). |
+| [margin_measure_type](/signature/python-net/groupdocs.signature.options/barcodesignoptions/margin_measure_type/) | The margin measurement type (pixels, percents or millimeters). |
+| [return_content](/signature/python-net/groupdocs.signature.options/barcodesignoptions/return_content/) | The flag indicating whether to retrieve the barcode image content of a signature placed on a document page. |
+| [return_content_type](/signature/python-net/groupdocs.signature.options/barcodesignoptions/return_content_type/) | The file type of the returned image content of the Barcode signature when the `return_content` property is enabled. |
+| [rotation_angle](/signature/python-net/groupdocs.signature.options/barcodesignoptions/rotation_angle/) | The rotation angle clockwise. |
+| [size_measure_type](/signature/python-net/groupdocs.signature.options/barcodesignoptions/size_measure_type/) | The measure type (pixels, percents or millimeters) for Width and Height properties. |
+| [stretch](/signature/python-net/groupdocs.signature.options/barcodesignoptions/stretch/) | The stretch mode on the document page. |
+| [top](/signature/python-net/groupdocs.signature.options/barcodesignoptions/top/) | The top Y position of the signature area on the document page in measure units (pixels, percents, or millimeters). See `MeasureType` LocationMeasureType. |
+| [transparency](/signature/python-net/groupdocs.signature.options/barcodesignoptions/transparency/) | The transparency of the barcode signature, ranging from 0.0 (fully opaque) to 1.0 (fully transparent); default is 0. |
+| [vertical_alignment](/signature/python-net/groupdocs.signature.options/barcodesignoptions/vertical_alignment/) | The vertical alignment of the barcode image on a document page. |
+| [width](/signature/python-net/groupdocs.signature.options/barcodesignoptions/width/) | The width of the signature area on the document page in measure values (pixels, percents, or millimeters) as defined by `MeasureType`. |
+| [all_pages](/signature/python-net/groupdocs.signature.options/signoptions/all_pages/) | The signature will be placed on all document pages. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [appearance](/signature/python-net/groupdocs.signature.options/signoptions/appearance/) | The additional signature appearance. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [background](/signature/python-net/groupdocs.signature.options/textsignoptions/background/) | The signature background settings. (inherited from [`TextSignOptions`](/signature/python-net/groupdocs.signature.options/textsignoptions/)) |
+| [border](/signature/python-net/groupdocs.signature.options/textsignoptions/border/) | The border settings. (inherited from [`TextSignOptions`](/signature/python-net/groupdocs.signature.options/textsignoptions/)) |
+| [document_type](/signature/python-net/groupdocs.signature.options/signoptions/document_type/) | The document type of the signature options (`DocumentType`). (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [extensions](/signature/python-net/groupdocs.signature.options/signoptions/extensions/) | The signature extensions. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [font](/signature/python-net/groupdocs.signature.options/textsignoptions/font/) | The font of the signature. (inherited from [`TextSignOptions`](/signature/python-net/groupdocs.signature.options/textsignoptions/)) |
+| [form_text_field_title](/signature/python-net/groupdocs.signature.options/textsignoptions/form_text_field_title/) | The title of the text form field to place the text signature into. Can be used only when `signature_implementation` is set to `TextSignatureImplementation.FORM_FIELD`. (inherited from [`TextSignOptions`](/signature/python-net/groupdocs.signature.options/textsignoptions/)) |
+| [form_text_field_type](/signature/python-net/groupdocs.signature.options/textsignoptions/form_text_field_type/) | The type of form field to place the text signature into. This property is applicable only when `signature_implementation` is set to `TextSignatureImplementation.FORM_FIELD` (i.e., TextToFormField). The default value is `FormTextFieldType.ALL_TEXT_TYPES`. (inherited from [`TextSignOptions`](/signature/python-net/groupdocs.signature.options/textsignoptions/)) |
+| [hash_algorithm](/signature/python-net/groupdocs.signature.options/signoptions/hash_algorithm/) | The hash algorithm to be used for cryptographic operations. Supported exclusively for digital signatures in PDF files. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [native](/signature/python-net/groupdocs.signature.options/textsignoptions/native/) | The native attribute. (inherited from [`TextSignOptions`](/signature/python-net/groupdocs.signature.options/textsignoptions/)) |
+| [page_number](/signature/python-net/groupdocs.signature.options/signoptions/page_number/) | The document page number for signing. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [pages_setup](/signature/python-net/groupdocs.signature.options/signoptions/pages_setup/) | The options to specify pages to be signed. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [shape_position](/signature/python-net/groupdocs.signature.options/textsignoptions/shape_position/) | The shape position defines where the shape should be presented in the document layout. Available only for Word documents. (inherited from [`TextSignOptions`](/signature/python-net/groupdocs.signature.options/textsignoptions/)) |
+| [shape_type](/signature/python-net/groupdocs.signature.options/textsignoptions/shape_type/) | The type of shape to put text. (inherited from [`TextSignOptions`](/signature/python-net/groupdocs.signature.options/textsignoptions/)) |
+| [signature_id](/signature/python-net/groupdocs.signature.options/textsignoptions/signature_id/) | The unique ID of the signature, usable in verification options and supported only for PDF documents. (inherited from [`TextSignOptions`](/signature/python-net/groupdocs.signature.options/textsignoptions/)) |
+| [signature_implementation](/signature/python-net/groupdocs.signature.options/textsignoptions/signature_implementation/) | The type of text signature implementation. (inherited from [`TextSignOptions`](/signature/python-net/groupdocs.signature.options/textsignoptions/)) |
+| [signature_type](/signature/python-net/groupdocs.signature.options/signoptions/signature_type/) | The signature type (`SignatureType`). (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [text](/signature/python-net/groupdocs.signature.options/textsignoptions/text/) | The text of the signature. (inherited from [`TextSignOptions`](/signature/python-net/groupdocs.signature.options/textsignoptions/)) |
+| [text_horizontal_alignment](/signature/python-net/groupdocs.signature.options/textsignoptions/text_horizontal_alignment/) | The horizontal alignment of text inside a signature, supported only for Image and Annotation signature implementations (see `TextSignatureImplementation` SignatureImplementation property). (inherited from [`TextSignOptions`](/signature/python-net/groupdocs.signature.options/textsignoptions/)) |
+| [text_vertical_alignment](/signature/python-net/groupdocs.signature.options/textsignoptions/text_vertical_alignment/) | The vertical alignment of text inside a signature. (inherited from [`TextSignOptions`](/signature/python-net/groupdocs.signature.options/textsignoptions/)) |
+| [zorder](/signature/python-net/groupdocs.signature.options/signoptions/zorder/) | The Z-order position of the text signature, which determines the display order of overlapping signatures. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
 
+### Example
 
+```python
+from groupdocs.signature import Signature
+from groupdocs.signature.options import BarcodeSignOptions
+from groupdocs.signature.domain import (
+    Background, BarcodeTypes, Border, CodeTextAlignment,
+    HorizontalAlignment, Padding, VerticalAlignment)
+from groupdocs.pydrawing import Color
 
-### Remarks 
+def sign_with_barcode():
+    with Signature("sample.pdf") as signature:
+        options = BarcodeSignOptions("JohnSmith", BarcodeTypes.CODE128)
+        options.width = 220
+        options.height = 80
+        options.horizontal_alignment = HorizontalAlignment.RIGHT
+        options.vertical_alignment = VerticalAlignment.BOTTOM
+        options.margin = Padding(right=40, bottom=60)
+        options.fore_color = Color.dark_blue
+        options.code_text_alignment = CodeTextAlignment.BELOW
+        options.inner_margins = Padding(5)
 
+        background = Background()
+        background.color = Color.light_yellow
+        options.background = background
 
-**Learn more** |
-|
- |
- |
+        border = Border()
+        options.border = border
+
+        signature.sign("signed.pdf", options)
+```
+
+### Guides
+Task guides that use `BarcodeSignOptions`:
+
+* [eSign Document with Barcode Signature](/signature/python-net/guides/esign-document-with-barcode-signature/)
+* [eSign Document with Multiple Signatures](/signature/python-net/guides/esign-document-with-multiple-signatures/)
 
 ### See Also
-* module [`groupdocs.signature.options`](..)
-* class [`BarcodeSignOptions`](/signature/python-net/groupdocs.signature.options/barcodesignoptions)
-* class [`DocumentType`](/signature/python-net/groupdocs.signature.domain/documenttype)
-* class [`MeasureType`](/signature/python-net/groupdocs.signature.domain/measuretype)
-* class [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions)
-* class [`SignatureType`](/signature/python-net/groupdocs.signature.domain/signaturetype)
-* class [`TextSignOptions`](/signature/python-net/groupdocs.signature.options/textsignoptions)
-* class [`TextSignatureImplementation`](/signature/python-net/groupdocs.signature.domain/textsignatureimplementation)
+* module [`groupdocs.signature.options`](/signature/python-net/groupdocs.signature.options/)

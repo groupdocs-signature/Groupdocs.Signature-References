@@ -1,18 +1,18 @@
-﻿---
+---
 title: fore_color property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The foreground color of the barcode bars; using it may cause verification problems, so use it carefully."
 type: docs
 url: /python-net/groupdocs.signature.options/barcodesignoptions/fore_color/
 is_root: false
-weight: 120
+weight: 2030
 ---
+
 
 ## fore_color property
 
+The foreground color of the barcode bars; using it may cause verification problems, so use it carefully.
 
-Gets or sets the Fore color of Barcode bars
-Using of this property could cause problems with verification. Use it carefully.
 ### Definition:
 ```python
 @property
@@ -24,5 +24,4 @@ def fore_color(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`BarcodeSignOptions`](/signature/python-net/groupdocs.signature.options/barcodesignoptions)
+* class [`BarcodeSignOptions`](/signature/python-net/groupdocs.signature.options/barcodesignoptions/)

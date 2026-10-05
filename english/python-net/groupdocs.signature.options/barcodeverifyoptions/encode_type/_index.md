@@ -1,17 +1,18 @@
-﻿---
+---
 title: encode_type property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The barcode type used for verification."
 type: docs
 url: /python-net/groupdocs.signature.options/barcodeverifyoptions/encode_type/
 is_root: false
-weight: 40
+weight: 2010
 ---
+
 
 ## encode_type property
 
+The barcode type used for verification.
 
-Gets or sets Barcode Type verification.
 ### Definition:
 ```python
 @property
@@ -23,6 +24,4 @@ def encode_type(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`BarcodeType`](/signature/python-net/groupdocs.signature.domain/barcodetype)
-* class [`BarcodeVerifyOptions`](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions)
+* class [`BarcodeVerifyOptions`](/signature/python-net/groupdocs.signature.options/barcodeverifyoptions/)

@@ -1,43 +1,41 @@
-﻿---
+---
 title: HIBCPASData class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Encodes and decodes the text embedded in the HIBC PAS code."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/hibcpasdata/
 is_root: false
-weight: 120
+weight: 150
 ---
+
 
 ## HIBCPASData class
 
-Class for encoding and decoding the text embedded in the HIBC PAS code.
-
-
+Encodes and decodes the text embedded in the HIBC PAS code.
 
 The HIBCPASData type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.domain.extensions/hibcpasdata/__init__/#) | Default ctor(). |
-
-
-### Properties
-| Property | Description |
-| :- | :- |
-| [data_location](/signature/python-net/groupdocs.signature.domain.extensions/hibcpasdata/data_location) | Identifies data location. |
-| [records](/signature/python-net/groupdocs.signature.domain.extensions/hibcpasdata/records) | List of HIBCPASRecord records |
-
+| [__init__](/signature/python-net/groupdocs.signature.domain.extensions/hibcpasdata/__init__/) | Initializes a new HIBCPASData instance with default values. |
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [add_record](/signature/python-net/groupdocs.signature.domain.extensions/hibcpasdata/add_record/#groupdocs.signature.domain.extensions.HIBCPASDataType-System.String) | Adds new record [`HIBCPASRecord`](/signature/python-net/groupdocs.signature.domain.extensions/hibcpasrecord) with given data type and data |
-| [add_record](/signature/python-net/groupdocs.signature.domain.extensions/hibcpasdata/add_record/#groupdocs.signature.domain.extensions.HIBCPASRecord) | Adds new record |
-| [clear](/signature/python-net/groupdocs.signature.domain.extensions/hibcpasdata/clear/#) | Clears records list |
+| [add_record](/signature/python-net/groupdocs.signature.domain.extensions/hibcpasdata/add_record/#data_type-data) | Adds a new [`HIBCPASRecord`](/signature/python-net/groupdocs.signature.domain.extensions/hibcpasrecord/) with the given data type and data. |
+| [add_record](/signature/python-net/groupdocs.signature.domain.extensions/hibcpasdata/add_record/#record) | Adds a new record. |
+| [add_record_file](/signature/python-net/groupdocs.signature.domain.extensions/hibcpasdata/add_record_file/) |  |
+| [add_record_hibcpas_data_type](/signature/python-net/groupdocs.signature.domain.extensions/hibcpasdata/add_record_hibcpas_data_type/) |  |
+| [add_record_hibcpas_record](/signature/python-net/groupdocs.signature.domain.extensions/hibcpasdata/add_record_hibcpas_record/) |  |
+| [add_record_string](/signature/python-net/groupdocs.signature.domain.extensions/hibcpasdata/add_record_string/) |  |
+| [clear](/signature/python-net/groupdocs.signature.domain.extensions/hibcpasdata/clear/) | Clears records list. |
 
-
+### Properties
+| Property | Description |
+| :- | :- |
+| [data_location](/signature/python-net/groupdocs.signature.domain.extensions/hibcpasdata/data_location/) | The data location identifier. |
+| [records](/signature/python-net/groupdocs.signature.domain.extensions/hibcpasdata/records/) | The list of HIBCPASRecord records. |
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](..)
-* class [`HIBCPASRecord`](/signature/python-net/groupdocs.signature.domain.extensions/hibcpasrecord)
+* module [`groupdocs.signature.domain.extensions`](/signature/python-net/groupdocs.signature.domain.extensions/)

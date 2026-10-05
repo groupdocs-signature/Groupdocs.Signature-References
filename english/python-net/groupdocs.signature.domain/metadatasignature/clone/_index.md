@@ -1,55 +1,57 @@
-﻿---
+---
 title: clone method
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Clones a Metadata Signature instance."
 type: docs
 url: /python-net/groupdocs.signature.domain/metadatasignature/clone/
 is_root: false
-weight: 20
+weight: 1010
 ---
 
-## clone {#}
 
-Clone Metadata Signature instance.
+## clone
 
-
-### Returns 
-
-
-Returns cloned Metadata Signature instance
-
+Clones a Metadata Signature instance.
 
 ```python
 def clone(self):
     ...
 ```
 
+**Returns:** Returns cloned Metadata Signature instance.
 
+### Example
 
+```python
+from groupdocs.signature.domain import PdfMetadataSignatures
 
-## clone {#System.Object}
+# Create a new metadata signature based on the predefined AUTHOR signature
+author_sig = PdfMetadataSignatures.AUTHOR.clone("Mr. Sherlock Holmes")
+```
+
+## clone {#value}
 
 Clone Metadata Signature instance with given value.
-
-
-### Returns 
-
-
-Returns cloned Metadata Signature instance with given value.
-
 
 ```python
 def clone(self, value):
     ...
 ```
 
-
 | Parameter | Type | Description |
 | :- | :- | :- |
-| value | System.Object | Value for new cloned object. |
+| value | `Any` | Value for new cloned object. |
 
+**Returns:** MetadataSignature: Cloned Metadata Signature instance with given value.
 
+### Example
+
+```python
+from groupdocs.signature.domain import PdfMetadataSignatures
+
+# Clone an existing metadata signature with a new value
+author_sig = PdfMetadataSignatures.AUTHOR.clone("Mr. Sherlock Holmes")
+```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`MetadataSignature`](/signature/python-net/groupdocs.signature.domain/metadatasignature)
+* class [`MetadataSignature`](/signature/python-net/groupdocs.signature.domain/metadatasignature/)

@@ -1,17 +1,18 @@
-﻿---
+---
 title: color property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The border color of the signature."
 type: docs
 url: /python-net/groupdocs.signature.domain/border/color/
 is_root: false
-weight: 40
+weight: 2010
 ---
+
 
 ## color property
 
+The border color of the signature.
 
-Gets or sets the border color of signature.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def color(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`Border`](/signature/python-net/groupdocs.signature.domain/border)
+* class [`Border`](/signature/python-net/groupdocs.signature.domain/border/)

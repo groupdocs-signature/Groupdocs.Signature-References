@@ -1,18 +1,27 @@
-﻿---
+---
 title: margin_measure_type property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The margin measurement type (pixels, percents or millimeters)."
 type: docs
 url: /python-net/groupdocs.signature.options/qrcodesignoptions/margin_measure_type/
 is_root: false
-weight: 260
+weight: 2140
 ---
+
 
 ## margin_measure_type property
 
+The margin measurement type (pixels, percents or millimeters).
 
-Gets or sets the measure type (pixels, percents or millimeters) for Margin.
+### Definition:
+```python
+@property
+def margin_measure_type(self):
+    ...
+@margin_measure_type.setter
+def margin_measure_type(self, value):
+    ...
+```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`QrCodeSignOptions`](/signature/python-net/groupdocs.signature.options/qrcodesignoptions)
+* class [`QrCodeSignOptions`](/signature/python-net/groupdocs.signature.options/qrcodesignoptions/)

@@ -1,18 +1,20 @@
-﻿---
+---
 title: reason_label property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The reason label displayed on the digital signature area."
 type: docs
 url: /python-net/groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/reason_label/
 is_root: false
-weight: 120
+weight: 2100
 ---
+
 
 ## reason_label property
 
+The reason label displayed on the digital signature area.
 
-Gets or sets reason label. Default value: "Reason".
-if this value is empty then no reason label will appear on digital signature area.
+Default value: "Reason". If this value is empty then no reason label will appear on the digital signature area.
+
 ### Definition:
 ```python
 @property
@@ -24,5 +26,4 @@ def reason_label(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options.appearances`](../../)
-* class [`PdfDigitalSignatureAppearance`](/signature/python-net/groupdocs.signature.options.appearances/pdfdigitalsignatureappearance)
+* class [`PdfDigitalSignatureAppearance`](/signature/python-net/groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/)

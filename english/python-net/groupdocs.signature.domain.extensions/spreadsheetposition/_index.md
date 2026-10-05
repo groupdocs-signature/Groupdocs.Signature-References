@@ -1,47 +1,35 @@
-﻿---
+---
 title: SpreadsheetPosition class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Defines signature position for Spreadsheet documents."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/spreadsheetposition/
 is_root: false
-weight: 260
+weight: 320
 ---
+
 
 ## SpreadsheetPosition class
 
 Defines signature position for Spreadsheet documents.
-
-
-
-**Inheritance:** [`SpreadsheetPosition`](/signature/python-net/groupdocs.signature.domain.extensions/spreadsheetposition) → 
-[`SignatureExtension`](/signature/python-net/groupdocs.signature.domain.extensions/signatureextension)
-
-
 
 The SpreadsheetPosition type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.domain.extensions/spreadsheetposition/__init__/#int-int) | Creates Spreadsheet signature position with predefined row and column. |
-
-
-### Properties
-| Property | Description |
-| :- | :- |
-| [row](/signature/python-net/groupdocs.signature.domain.extensions/spreadsheetposition/row) | Gets or sets the top row number of signature (min value is 0). |
-| [column](/signature/python-net/groupdocs.signature.domain.extensions/spreadsheetposition/column) | Gets or sets the left column number of signature (min value is 0). |
-
+| [__init__](/signature/python-net/groupdocs.signature.domain.extensions/spreadsheetposition/__init__/#row-column) | Initializes a spreadsheet signature position with predefined row and column. |
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [clone](/signature/python-net/groupdocs.signature.domain.extensions/spreadsheetposition/clone/#) | Gets a copy of this object. |
+| [clone](/signature/python-net/groupdocs.signature.domain.extensions/signatureextension/clone/) | Gets a copy of this object. (inherited from [`SignatureExtension`](/signature/python-net/groupdocs.signature.domain.extensions/signatureextension/)) |
 
-
+### Properties
+| Property | Description |
+| :- | :- |
+| [column](/signature/python-net/groupdocs.signature.domain.extensions/spreadsheetposition/column/) | The left column number of the signature (minimum value is 0). |
+| [row](/signature/python-net/groupdocs.signature.domain.extensions/spreadsheetposition/row/) | The top row number of the signature (minimum value is 0). |
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](..)
-* class [`SignatureExtension`](/signature/python-net/groupdocs.signature.domain.extensions/signatureextension)
-* class [`SpreadsheetPosition`](/signature/python-net/groupdocs.signature.domain.extensions/spreadsheetposition)
+* module [`groupdocs.signature.domain.extensions`](/signature/python-net/groupdocs.signature.domain.extensions/)

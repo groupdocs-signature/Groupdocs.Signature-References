@@ -1,17 +1,18 @@
-﻿---
+---
 title: initials property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The contact initials."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/vcard/initials/
 is_root: false
-weight: 100
+weight: 2080
 ---
+
 
 ## initials property
 
+The contact initials.
 
-Gets or sets contact initials.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def initials(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`VCard`](/signature/python-net/groupdocs.signature.domain.extensions/vcard)
+* class [`VCard`](/signature/python-net/groupdocs.signature.domain.extensions/vcard/)

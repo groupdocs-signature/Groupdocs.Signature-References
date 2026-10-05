@@ -1,38 +1,30 @@
-﻿---
+---
 title: warning method
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Writes warning message to the console."
 type: docs
 url: /python-net/groupdocs.signature.logging/filelogger/warning/
 is_root: false
-weight: 30
+weight: 1070
 ---
 
-## warning {#System.String}
 
-Writes warning message to the console;
-Warning log messages provide information about the unexpected and recoverable event in application flow.
+## warning {#message}
 
-
+Writes warning message to the console.
 
 ```python
 def warning(self, message):
     ...
 ```
 
-
 | Parameter | Type | Description |
 | :- | :- | :- |
-| message | System.String | The warning message. |
-### Exceptions
-| Exception | Description |
+| message | `str` | The warning message. |
+
+| Raises | Description |
 | :- | :- |
-| ArgumentNullException | Thrown when `message` is null. |
-
-
-
-
+| `ValueError` | Thrown when `message` is None. |
 
 ### See Also
-* module [`groupdocs.signature.logging`](../../)
-* class [`FileLogger`](/signature/python-net/groupdocs.signature.logging/filelogger)
+* class [`FileLogger`](/signature/python-net/groupdocs.signature.logging/filelogger/)

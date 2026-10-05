@@ -1,19 +1,17 @@
-﻿---
-title: SEVEN_ZIP property
+---
+title: SEVEN_ZIP field
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "High compressed archive (.7z) compressing files and folders with a high compression ratio."
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/seven_zip/
 is_root: false
-weight: 510
+weight: 3630
 ---
 
-## SEVEN_ZIP property
 
+## SEVEN_ZIP field
 
-High compressed archive (.7z) compressing files and folders with a high compression ratio. 
-Learn more about this file format [here](https://wiki.fileformat.com/page-description-language/7z).
+High compressed archive (.7z) compressing files and folders with a high compression ratio. Learn more about this file format here.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype)
+* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype/)

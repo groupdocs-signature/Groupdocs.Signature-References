@@ -1,17 +1,18 @@
-﻿---
+---
 title: height property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The line height on the stamp."
 type: docs
 url: /python-net/groupdocs.signature.domain/stampline/height/
 is_root: false
-weight: 50
+weight: 2030
 ---
+
 
 ## height property
 
+The line height on the stamp.
 
-Gets or sets the line height on Stamp.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def height(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`StampLine`](/signature/python-net/groupdocs.signature.domain/stampline)
+* class [`StampLine`](/signature/python-net/groupdocs.signature.domain/stampline/)

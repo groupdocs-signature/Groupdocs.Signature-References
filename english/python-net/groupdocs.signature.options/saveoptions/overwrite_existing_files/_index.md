@@ -1,19 +1,20 @@
-﻿---
+---
 title: overwrite_existing_files property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The flag indicating whether to overwrite an existing file with the new output file."
 type: docs
 url: /python-net/groupdocs.signature.options/saveoptions/overwrite_existing_files/
 is_root: false
-weight: 40
+weight: 2020
 ---
+
 
 ## overwrite_existing_files property
 
+The flag indicating whether to overwrite an existing file with the new output file.
 
-Gets or sets whether to overwrite existing file with new output file. 
-Otherwise new file will be created with number as suffix.
-By default this value set to true that means file will be overwritten.
+If False, a new file will be created with a numeric suffix. The default value is True, meaning the file will be overwritten.
+
 ### Definition:
 ```python
 @property
@@ -25,5 +26,4 @@ def overwrite_existing_files(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions)
+* class [`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions/)

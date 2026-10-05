@@ -1,88 +1,91 @@
-﻿---
+---
 title: TextSignOptions class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Represents the Text signature options."
 type: docs
 url: /python-net/groupdocs.signature.options/textsignoptions/
 is_root: false
-weight: 450
+weight: 590
 ---
+
 
 ## TextSignOptions class
 
 Represents the Text signature options.
 
+Learn more
 
-
-**Inheritance:** [`TextSignOptions`](/signature/python-net/groupdocs.signature.options/textsignoptions) → 
-[`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions)
-
-
+- Basic usage of creating Text electronic signature by GroupDocs.Signature: [How to eSign document with Text signature](https://docs.groupdocs.com/display/signaturenet/eSign+document+with+Text+signature)
+- Advanced usage of settings of Text electronic signature with GroupDocs.Signature: [Advanced usage to eSign document with Text signature and additional settings](https://docs.groupdocs.com/display/signaturenet/Sign+document+with+Text+signature+-+advanced)
 
 The TextSignOptions type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.options/textsignoptions/__init__/#) | Initializes a new instance of the TextSignOptions class with default values. |
-| [__init__](/signature/python-net/groupdocs.signature.options/textsignoptions/__init__/#System.String) | Initializes a new instance of the TextSignOptions class with text. |
-
+| [__init__](/signature/python-net/groupdocs.signature.options/textsignoptions/__init__/) | Initializes a new instance of the TextSignOptions class with default values. |
+| [__init__](/signature/python-net/groupdocs.signature.options/textsignoptions/__init__/#text) | Initializes a new instance of the TextSignOptions class with text. |
 
 ### Properties
 | Property | Description |
 | :- | :- |
-| [page_number](/signature/python-net/groupdocs.signature.options/textsignoptions/page_number) | Gets or sets document page number for signing.<br/>Minimal and default value is 1. |
-| [all_pages](/signature/python-net/groupdocs.signature.options/textsignoptions/all_pages) | Put signature on all document pages. |
-| [appearance](/signature/python-net/groupdocs.signature.options/textsignoptions/appearance) | Additional signature appearance. |
-| [extensions](/signature/python-net/groupdocs.signature.options/textsignoptions/extensions) | Signature Extensions. |
-| [pages_setup](/signature/python-net/groupdocs.signature.options/textsignoptions/pages_setup) | Options to specify pages to be signed. |
-| [signature_type](/signature/python-net/groupdocs.signature.options/textsignoptions/signature_type) | Get the Signature Type [`SignatureType`](/signature/python-net/groupdocs.signature.domain/signaturetype) |
-| [document_type](/signature/python-net/groupdocs.signature.options/textsignoptions/document_type) | Get or set the Document Type of the Signature Options [`DocumentType`](/signature/python-net/groupdocs.signature.domain/documenttype) |
-| [z_order](/signature/python-net/groupdocs.signature.options/textsignoptions/z_order) | Gets or sets the Z-order position of text signature.        <br/>Determines the display order of overlapping signatures. |
-| [hash_algorithm](/signature/python-net/groupdocs.signature.options/textsignoptions/hash_algorithm) | Gets or sets the hash algorithm to be used for cryptographic operations.<br/>Supported exclusively for digital signatures in PDF files. |
-| [left](/signature/python-net/groupdocs.signature.options/textsignoptions/left) | Left X position of Signature on Document Page in Measure values <br/>(pixels, percents or millimeters see [`MeasureType`](/signature/python-net/groupdocs.signature.domain/measuretype) LocationMeasureType property).<br/>(works if horizontal alignment is not specified). |
-| [top](/signature/python-net/groupdocs.signature.options/textsignoptions/top) | Top Y Position of Signature on Document Page in Measure values <br/>(pixels, percents or millimeters see [`MeasureType`](/signature/python-net/groupdocs.signature.domain/measuretype) LocationMeasureType property).<br/>(works if vertical alignment is not specified). |
-| [width](/signature/python-net/groupdocs.signature.options/textsignoptions/width) | Width of Signature on Document Page in Measure values <br/>(pixels, percents or millimeters see [`MeasureType`](/signature/python-net/groupdocs.signature.domain/measuretype) SizeMeasureType property). |
-| [height](/signature/python-net/groupdocs.signature.options/textsignoptions/height) | Height of Signature on Document Page in Measure values <br/>(pixels, percents or millimeters see [`MeasureType`](/signature/python-net/groupdocs.signature.domain/measuretype) SizeMeasureType property). |
-| [location_measure_type](/signature/python-net/groupdocs.signature.options/textsignoptions/location_measure_type) | Measure type (pixels, percents or millimeters) for Left and Top properties. |
-| [size_measure_type](/signature/python-net/groupdocs.signature.options/textsignoptions/size_measure_type) | Measure type (pixels, percents or millimeters) for Width and Height properties. |
-| [stretch](/signature/python-net/groupdocs.signature.options/textsignoptions/stretch) | Stretch mode on Document Page. |
-| [rotation_angle](/signature/python-net/groupdocs.signature.options/textsignoptions/rotation_angle) | Rotation angle of signature on document page (clockwise). |
-| [horizontal_alignment](/signature/python-net/groupdocs.signature.options/textsignoptions/horizontal_alignment) | Horizontal alignment of signature on document page. |
-| [vertical_alignment](/signature/python-net/groupdocs.signature.options/textsignoptions/vertical_alignment) | Vertical alignment of signature on document page. |
-| [margin](/signature/python-net/groupdocs.signature.options/textsignoptions/margin) | Gets or sets the space between Sign and Document edges.<br/>(works ONLY if horizontal or vertical alignment are specified). |
-| [margin_measure_type](/signature/python-net/groupdocs.signature.options/textsignoptions/margin_measure_type) | Gets or sets the measure type (pixels, percents or millimeters) for Margin. |
-| [transparency](/signature/python-net/groupdocs.signature.options/textsignoptions/transparency) | Gets or sets the signature transparency (value from 0.0 (opaque) through 1.0 (clear)). Default value is 0 (opaque). |
-| [text](/signature/python-net/groupdocs.signature.options/textsignoptions/text) | Gets or sets the text of signature. |
-| [font](/signature/python-net/groupdocs.signature.options/textsignoptions/font) | Gets or sets the font of signature. |
-| [fore_color](/signature/python-net/groupdocs.signature.options/textsignoptions/fore_color) | Gets or sets the fore color of signature. |
-| [signature_implementation](/signature/python-net/groupdocs.signature.options/textsignoptions/signature_implementation) | Gets or sets the type of text signature implementation. |
-| [text_horizontal_alignment](/signature/python-net/groupdocs.signature.options/textsignoptions/text_horizontal_alignment) | Horizontal alignment of text inside a signature.<br/>This feature is supported only for Image and Annotation signature implementations <br/>(see [`TextSignatureImplementation`](/signature/python-net/groupdocs.signature.domain/textsignatureimplementation) SignatureImplementation property). |
-| [text_vertical_alignment](/signature/python-net/groupdocs.signature.options/textsignoptions/text_vertical_alignment) | Vertical alignment of text inside a signature.<br/>This feature is supported only for Image signature implementation <br/>(see [`TextSignatureImplementation`](/signature/python-net/groupdocs.signature.domain/textsignatureimplementation) SignatureImplementation property). |
-| [form_text_field_title](/signature/python-net/groupdocs.signature.options/textsignoptions/form_text_field_title) | Gets or sets the title of text form field to put text signature into it.<br/>This property could be used only with SignatureImplementation = TextToFormField. |
-| [form_text_field_type](/signature/python-net/groupdocs.signature.options/textsignoptions/form_text_field_type) | Gets or sets the type of form field to put text signature into it.<br/>This property could be used only with SignatureImplementation = TextToFormField.<br/>Value by default is AllTextTypes. |
-| [shape_type](/signature/python-net/groupdocs.signature.options/textsignoptions/shape_type) | Gets or sets the type of shape to put text.<br/>This property could be used only with SignatureImplementation = TextStamp.<br/>Value by default is Rectangle. |
-| [signature_id](/signature/python-net/groupdocs.signature.options/textsignoptions/signature_id) | Gets or sets the unique ID of signature. It can be used in signature verification options. <br/>Property is supported for Pdf documents only. |
-| [border](/signature/python-net/groupdocs.signature.options/textsignoptions/border) | Specify border settings |
-| [background](/signature/python-net/groupdocs.signature.options/textsignoptions/background) | Gets or sets the signature background settings. |
-| [native](/signature/python-net/groupdocs.signature.options/textsignoptions/native) | Gets or sets the native attribute. If it is set document specific signatures could be used.<br/>Native text watermark for WordProcessing documents is different than regular, for example. |
-| [shape_position](/signature/python-net/groupdocs.signature.options/textsignoptions/shape_position) | Defines where shape should be presented in the document layout. Avaliable only for Word documents |
+| [background](/signature/python-net/groupdocs.signature.options/textsignoptions/background/) | The signature background settings. |
+| [border](/signature/python-net/groupdocs.signature.options/textsignoptions/border/) | The border settings. |
+| [font](/signature/python-net/groupdocs.signature.options/textsignoptions/font/) | The font of the signature. |
+| [fore_color](/signature/python-net/groupdocs.signature.options/textsignoptions/fore_color/) | The fore color of the signature. |
+| [form_text_field_title](/signature/python-net/groupdocs.signature.options/textsignoptions/form_text_field_title/) | The title of the text form field to place the text signature into. Can be used only when `signature_implementation` is set to `TextSignatureImplementation.FORM_FIELD`. |
+| [form_text_field_type](/signature/python-net/groupdocs.signature.options/textsignoptions/form_text_field_type/) | The type of form field to place the text signature into. This property is applicable only when `signature_implementation` is set to `TextSignatureImplementation.FORM_FIELD` (i.e., TextToFormField). The default value is `FormTextFieldType.ALL_TEXT_TYPES`. |
+| [height](/signature/python-net/groupdocs.signature.options/textsignoptions/height/) | The height of the signature on the document page in measure values (pixels, percents, or millimeters). The unit is determined by the `SizeMeasureType` property. |
+| [horizontal_alignment](/signature/python-net/groupdocs.signature.options/textsignoptions/horizontal_alignment/) | The horizontal alignment of the signature on the document page. |
+| [left](/signature/python-net/groupdocs.signature.options/textsignoptions/left/) | The left X position of the signature on the document page in measure values (pixels, percents, or millimeters as defined by `MeasureType` LocationMeasureType property). Works if horizontal alignment is not specified. |
+| [location_measure_type](/signature/python-net/groupdocs.signature.options/textsignoptions/location_measure_type/) | The measure type (pixels, percents or millimeters) for `left` and `top` properties. |
+| [margin](/signature/python-net/groupdocs.signature.options/textsignoptions/margin/) | The space between the signature and the document edges. Applies only when horizontal or vertical alignment is specified. |
+| [margin_measure_type](/signature/python-net/groupdocs.signature.options/textsignoptions/margin_measure_type/) | The measure type (pixels, percents or millimeters) for the margin. |
+| [native](/signature/python-net/groupdocs.signature.options/textsignoptions/native/) | The native attribute. |
+| [rotation_angle](/signature/python-net/groupdocs.signature.options/textsignoptions/rotation_angle/) | The rotation angle of the signature on the document page (clockwise). |
+| [shape_position](/signature/python-net/groupdocs.signature.options/textsignoptions/shape_position/) | The shape position defines where the shape should be presented in the document layout. Available only for Word documents. |
+| [shape_type](/signature/python-net/groupdocs.signature.options/textsignoptions/shape_type/) | The type of shape to put text. |
+| [signature_id](/signature/python-net/groupdocs.signature.options/textsignoptions/signature_id/) | The unique ID of the signature, usable in verification options and supported only for PDF documents. |
+| [signature_implementation](/signature/python-net/groupdocs.signature.options/textsignoptions/signature_implementation/) | The type of text signature implementation. |
+| [size_measure_type](/signature/python-net/groupdocs.signature.options/textsignoptions/size_measure_type/) | The measure type (pixels, percents or millimeters) for Width and Height properties. |
+| [stretch](/signature/python-net/groupdocs.signature.options/textsignoptions/stretch/) | The stretch mode on document page. |
+| [text](/signature/python-net/groupdocs.signature.options/textsignoptions/text/) | The text of the signature. |
+| [text_horizontal_alignment](/signature/python-net/groupdocs.signature.options/textsignoptions/text_horizontal_alignment/) | The horizontal alignment of text inside a signature, supported only for Image and Annotation signature implementations (see `TextSignatureImplementation` SignatureImplementation property). |
+| [text_vertical_alignment](/signature/python-net/groupdocs.signature.options/textsignoptions/text_vertical_alignment/) | The vertical alignment of text inside a signature. |
+| [top](/signature/python-net/groupdocs.signature.options/textsignoptions/top/) | The top Y position of the signature on the document page, expressed in measurement units (pixels, percent, or millimeters). |
+| [transparency](/signature/python-net/groupdocs.signature.options/textsignoptions/transparency/) | The signature transparency, a float between 0.0 (opaque) and 1.0 (clear). Default is 0.0 (opaque). |
+| [vertical_alignment](/signature/python-net/groupdocs.signature.options/textsignoptions/vertical_alignment/) | The vertical alignment of the signature on the document page. |
+| [width](/signature/python-net/groupdocs.signature.options/textsignoptions/width/) | The width of the signature on the document page in measure values (pixels, percents, or millimeters; see `MeasureType` `SizeMeasureType` property). |
+| [all_pages](/signature/python-net/groupdocs.signature.options/signoptions/all_pages/) | The signature will be placed on all document pages. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [appearance](/signature/python-net/groupdocs.signature.options/signoptions/appearance/) | The additional signature appearance. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [document_type](/signature/python-net/groupdocs.signature.options/signoptions/document_type/) | The document type of the signature options (`DocumentType`). (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [extensions](/signature/python-net/groupdocs.signature.options/signoptions/extensions/) | The signature extensions. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [hash_algorithm](/signature/python-net/groupdocs.signature.options/signoptions/hash_algorithm/) | The hash algorithm to be used for cryptographic operations. Supported exclusively for digital signatures in PDF files. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [page_number](/signature/python-net/groupdocs.signature.options/signoptions/page_number/) | The document page number for signing. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [pages_setup](/signature/python-net/groupdocs.signature.options/signoptions/pages_setup/) | The options to specify pages to be signed. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [signature_type](/signature/python-net/groupdocs.signature.options/signoptions/signature_type/) | The signature type (`SignatureType`). (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [zorder](/signature/python-net/groupdocs.signature.options/signoptions/zorder/) | The Z-order position of the text signature, which determines the display order of overlapping signatures. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
 
+### Example
 
+```python
+from groupdocs.signature import Signature
+from groupdocs.signature.options import TextSignOptions
 
-### Remarks 
+def sign_pdf_with_text_signature():
+    with Signature("sample.pdf") as signature:
+        options = TextSignOptions("John Smith")
+        options.left = 100
+        options.top = 100
+        result = signature.sign("signed_sample.pdf", options)
+        print(f"Signatures added: {len(result.succeeded)}")
+```
 
+### Guides
+Task guides that use `TextSignOptions`:
 
-**Learn more** |
-|
- |
- |
+* [eSign Document with Text Signature](/signature/python-net/guides/esign-document-with-text-signature/)
+* [eSign Document with Multiple Signatures](/signature/python-net/guides/esign-document-with-multiple-signatures/)
 
 ### See Also
-* module [`groupdocs.signature.options`](..)
-* class [`DocumentType`](/signature/python-net/groupdocs.signature.domain/documenttype)
-* class [`MeasureType`](/signature/python-net/groupdocs.signature.domain/measuretype)
-* class [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions)
-* class [`SignatureType`](/signature/python-net/groupdocs.signature.domain/signaturetype)
-* class [`TextSignOptions`](/signature/python-net/groupdocs.signature.options/textsignoptions)
-* class [`TextSignatureImplementation`](/signature/python-net/groupdocs.signature.domain/textsignatureimplementation)
+* module [`groupdocs.signature.options`](/signature/python-net/groupdocs.signature.options/)

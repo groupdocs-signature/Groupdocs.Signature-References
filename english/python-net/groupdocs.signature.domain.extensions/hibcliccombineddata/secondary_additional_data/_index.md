@@ -1,17 +1,18 @@
-﻿---
+---
 title: secondary_additional_data property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The HIBC LIC secondary data structure."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/hibcliccombineddata/secondary_additional_data/
 is_root: false
-weight: 50
+weight: 2020
 ---
+
 
 ## secondary_additional_data property
 
+The HIBC LIC secondary data structure.
 
-HIBC LIC secondary data structure
 ### Definition:
 ```python
 @property
@@ -23,6 +24,4 @@ def secondary_additional_data(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`HIBCLICCombinedData`](/signature/python-net/groupdocs.signature.domain.extensions/hibcliccombineddata)
-* class [`HIBCLICSecondaryAdditionalData`](/signature/python-net/groupdocs.signature.domain.extensions/hibclicsecondaryadditionaldata)
+* class [`HIBCLICCombinedData`](/signature/python-net/groupdocs.signature.domain.extensions/hibcliccombineddata/)

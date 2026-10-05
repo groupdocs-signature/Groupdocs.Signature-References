@@ -1,29 +1,24 @@
-﻿---
-title: ShapePosition enumeration
+---
+title: ShapePosition class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "ShapePosition enum — GroupDocs.Signature for Python via .NET API reference."
 type: docs
 url: /python-net/groupdocs.signature.domain/shapeposition/
 is_root: false
-weight: 720
+weight: 600
 ---
 
-## ShapePosition enumeration
 
-Specifies shape position in the document layout
-
-
+## ShapePosition class
 
 The ShapePosition type exposes the following members:
 
 ### Fields
 | Field | Description |
 | :- | :- |
-| DEFAULT | Shape presents in the document body |
-| HEADER | Shape presents in the document header |
-| FOOTER | Shape presents in the document footer |
-
-
+| [DEFAULT](/signature/python-net/groupdocs.signature.domain/shapeposition/default/) | Shape presents in the document body |
+| [HEADER](/signature/python-net/groupdocs.signature.domain/shapeposition/header/) | Shape presents in the document header |
+| [FOOTER](/signature/python-net/groupdocs.signature.domain/shapeposition/footer/) | Shape presents in the document footer |
 
 ### See Also
-* module [`groupdocs.signature.domain`](..)
+* module [`groupdocs.signature.domain`](/signature/python-net/groupdocs.signature.domain/)

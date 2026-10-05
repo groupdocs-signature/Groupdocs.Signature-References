@@ -1,17 +1,18 @@
-﻿---
+---
 title: subject property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The subject."
 type: docs
 url: /python-net/groupdocs.signature.options.appearances/pdftextstickerappearance/subject/
 is_root: false
-weight: 80
+weight: 2040
 ---
+
 
 ## subject property
 
+The subject.
 
-Gets or sets subject.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def subject(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options.appearances`](../../)
-* class [`PdfTextStickerAppearance`](/signature/python-net/groupdocs.signature.options.appearances/pdftextstickerappearance)
+* class [`PdfTextStickerAppearance`](/signature/python-net/groupdocs.signature.options.appearances/pdftextstickerappearance/)

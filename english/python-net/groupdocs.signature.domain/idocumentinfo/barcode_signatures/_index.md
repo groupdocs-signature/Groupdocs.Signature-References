@@ -1,17 +1,18 @@
-﻿---
+---
 title: barcode_signatures property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The collection of document barcode signatures added or updated by Signature methods."
 type: docs
 url: /python-net/groupdocs.signature.domain/idocumentinfo/barcode_signatures/
 is_root: false
-weight: 30
+weight: 2010
 ---
+
 
 ## barcode_signatures property
 
+The collection of document barcode signatures added or updated by [`Signature`](/signature/python-net/groupdocs.signature/signature/) methods.
 
-Collection of document barcode signatures added or updated by [`Signature`](/signature/python-net/groupdocs.signature/signature) methods.
 ### Definition:
 ```python
 @property
@@ -20,6 +21,4 @@ def barcode_signatures(self):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`IDocumentInfo`](/signature/python-net/groupdocs.signature.domain/idocumentinfo)
-* class [`Signature`](/signature/python-net/groupdocs.signature/signature)
+* class [`IDocumentInfo`](/signature/python-net/groupdocs.signature.domain/idocumentinfo/)

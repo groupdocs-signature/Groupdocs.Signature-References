@@ -1,19 +1,20 @@
-﻿---
+---
 title: include_standard_metadata_signatures property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The flag indicating whether standard document metadata signatures such as Author, Owner, creation date, and modified date are included in the metadata list."
 type: docs
 url: /python-net/groupdocs.signature/signaturesettings/include_standard_metadata_signatures/
 is_root: false
-weight: 30
+weight: 2020
 ---
+
 
 ## include_standard_metadata_signatures property
 
+The flag indicating whether standard document metadata signatures such as Author, Owner, creation date, and modified date are included in the metadata list.
 
-Gets or sets flag to include into the Metadata List the embedded standard document metadata signatures like Author, Owner, document creation date, modified date, etc.
-If this flag is set to false (by default) the GetDocumentInfo will not include these metadata signatures.
-When this flag is set to true the document information will include these standard metadata signatures.
+If set to False (default), GetDocumentInfo will not include these metadata signatures. When set to True, the document information will include the standard metadata signatures.
+
 ### Definition:
 ```python
 @property
@@ -25,5 +26,4 @@ def include_standard_metadata_signatures(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature`](../../)
-* class [`SignatureSettings`](/signature/python-net/groupdocs.signature/signaturesettings)
+* class [`SignatureSettings`](/signature/python-net/groupdocs.signature/signaturesettings/)

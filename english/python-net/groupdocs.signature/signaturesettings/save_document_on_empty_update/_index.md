@@ -1,19 +1,20 @@
-﻿---
+---
 title: save_document_on_empty_update property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The flag that determines whether the source document is re‑saved when the Update method has no signatures to update."
 type: docs
 url: /python-net/groupdocs.signature/signaturesettings/save_document_on_empty_update/
 is_root: false
-weight: 70
+weight: 2060
 ---
+
 
 ## save_document_on_empty_update property
 
+The flag that determines whether the source document is re‑saved when the `Update` method has no signatures to update.
 
-Gets or sets flag to re-save source document when Update method has no signatures to update.
-If this flag is set to true (by default) document will be saving with corresponding history process log (date and operation type) even if Update method has no signatures to update.
-When this flat is set to false source document will not be modified at all.
+If set to `True` (default), the document is saved with a corresponding history process log (date and operation type) even when no signatures are updated. When set to `False`, the source document is not modified at all.
+
 ### Definition:
 ```python
 @property
@@ -25,5 +26,4 @@ def save_document_on_empty_update(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature`](../../)
-* class [`SignatureSettings`](/signature/python-net/groupdocs.signature/signaturesettings)
+* class [`SignatureSettings`](/signature/python-net/groupdocs.signature/signaturesettings/)

@@ -1,18 +1,20 @@
-﻿---
+---
 title: labeler_identification_code property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The labeler identification code, which identifies the date of the labeler."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/hibclicprimarydata/labeler_identification_code/
 is_root: false
-weight: 40
+weight: 2010
 ---
+
 
 ## labeler_identification_code property
 
+The labeler identification code, which identifies the date of the labeler.
 
-Identifies date of labeler identification code. Labeler identification code must 
-be 4 symbols alphanumeric string, with first character always being alphabetic.
+Must be a 4‑character alphanumeric string with the first character alphabetic.
+
 ### Definition:
 ```python
 @property
@@ -24,5 +26,4 @@ def labeler_identification_code(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`HIBCLICPrimaryData`](/signature/python-net/groupdocs.signature.domain.extensions/hibclicprimarydata)
+* class [`HIBCLICPrimaryData`](/signature/python-net/groupdocs.signature.domain.extensions/hibclicprimarydata/)

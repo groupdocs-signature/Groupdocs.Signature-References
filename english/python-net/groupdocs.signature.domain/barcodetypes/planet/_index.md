@@ -1,19 +1,17 @@
-﻿---
-title: PLANET property
+---
+title: PLANET field
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Planet Barcode Type object."
 type: docs
 url: /python-net/groupdocs.signature.domain/barcodetypes/planet/
 is_root: false
-weight: 610
+weight: 3500
 ---
 
-## PLANET property
 
+## PLANET field
 
 Planet Barcode Type object.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`BarcodeType`](/signature/python-net/groupdocs.signature.domain/barcodetype)
-* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes)
+* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes/)

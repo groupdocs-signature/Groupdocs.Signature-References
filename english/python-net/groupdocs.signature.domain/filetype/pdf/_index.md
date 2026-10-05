@@ -1,19 +1,17 @@
-﻿---
-title: PDF property
+---
+title: PDF field
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Portable Document Format File (.pdf) is a type of document created by Adobe back in 1990s."
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/pdf/
 is_root: false
-weight: 360
+weight: 3250
 ---
 
-## PDF property
 
+## PDF field
 
-Portable Document Format File (.pdf) is a type of document created by Adobe back in 1990s. The purpose of this file format was to introduce a standard for representation of documents and other reference material in a format that is independent of application software, hardware as well as Operating System. 
-Learn more about this file format [here](https://wiki.fileformat.com/view/pdf).
+Portable Document Format File (.pdf) is a type of document created by Adobe back in 1990s. The purpose of this file format was to introduce a standard for representation of documents and other reference material in a format that is independent of application software, hardware as well as Operating System. Learn more about this file format here.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype)
+* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype/)

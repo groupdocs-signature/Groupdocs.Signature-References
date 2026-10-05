@@ -1,29 +1,24 @@
-﻿---
-title: MeasureType enumeration
+---
+title: MeasureType class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "MeasureType enum — GroupDocs.Signature for Python via .NET API reference."
 type: docs
 url: /python-net/groupdocs.signature.domain/measuretype/
 is_root: false
-weight: 620
+weight: 350
 ---
 
-## MeasureType enumeration
 
-Specifies measure units of signature on a document page.
-
-
+## MeasureType class
 
 The MeasureType type exposes the following members:
 
 ### Fields
 | Field | Description |
 | :- | :- |
-| PIXELS | Pixels. |
-| PERCENTS | Percents of page size. |
-| MILLIMETERS | Millimeters. |
-
-
+| [PIXELS](/signature/python-net/groupdocs.signature.domain/measuretype/pixels/) | Pixels. |
+| [PERCENTS](/signature/python-net/groupdocs.signature.domain/measuretype/percents/) | Percents of page size. |
+| [MILLIMETERS](/signature/python-net/groupdocs.signature.domain/measuretype/millimeters/) | Millimeters. |
 
 ### See Also
-* module [`groupdocs.signature.domain`](..)
+* module [`groupdocs.signature.domain`](/signature/python-net/groupdocs.signature.domain/)

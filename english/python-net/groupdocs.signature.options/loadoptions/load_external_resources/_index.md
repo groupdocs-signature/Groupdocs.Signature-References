@@ -1,19 +1,20 @@
-﻿---
+---
 title: load_external_resources property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The flag that determines whether the document loads external resources."
 type: docs
 url: /python-net/groupdocs.signature.options/loadoptions/load_external_resources/
 is_root: false
-weight: 40
+weight: 2020
 ---
+
 
 ## load_external_resources property
 
+The flag that determines whether the document loads external resources. This property is obsolete; use [`LoadOptions.SkipExternalResources`](/signature/python-net/groupdocs.signature.options/loadoptions/skip_external_resources/) instead, which has the opposite meaning.
 
-Gets or sets options that specifies if external document resources should be loaded.
-This option with disabled value (false) allows to save loading time for the documents with many or large external resource links.
-By default value is enabled (true).
+LoadExternalResources = True is equivalent to `SkipExternalResources` = False, and LoadExternalResources = False is equivalent to `SkipExternalResources` = True. The default value is False, meaning external resources are not loaded unless explicitly allowed.
+
 ### Definition:
 ```python
 @property
@@ -25,5 +26,4 @@ def load_external_resources(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`LoadOptions`](/signature/python-net/groupdocs.signature.options/loadoptions)
+* class [`LoadOptions`](/signature/python-net/groupdocs.signature.options/loadoptions/)

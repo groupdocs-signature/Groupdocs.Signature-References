@@ -1,17 +1,18 @@
-﻿---
+---
 title: first_page property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The flag indicating whether to use the first document page."
 type: docs
 url: /python-net/groupdocs.signature.options/pagessetup/first_page/
 is_root: false
-weight: 40
+weight: 2020
 ---
+
 
 ## first_page property
 
+The flag indicating whether to use the first document page.
 
-Gets or sets flag to use first document page.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def first_page(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`PagesSetup`](/signature/python-net/groupdocs.signature.options/pagessetup)
+* class [`PagesSetup`](/signature/python-net/groupdocs.signature.options/pagessetup/)

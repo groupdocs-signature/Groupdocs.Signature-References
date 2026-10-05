@@ -1,17 +1,18 @@
-﻿---
+---
 title: value property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The metadata object."
 type: docs
 url: /python-net/groupdocs.signature.domain/metadatasignature/value/
 is_root: false
-weight: 240
+weight: 2040
 ---
+
 
 ## value property
 
+The metadata object.
 
-Specifies metadata object.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def value(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`MetadataSignature`](/signature/python-net/groupdocs.signature.domain/metadatasignature)
+* class [`MetadataSignature`](/signature/python-net/groupdocs.signature.domain/metadatasignature/)

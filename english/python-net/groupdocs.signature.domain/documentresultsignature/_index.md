@@ -1,65 +1,54 @@
-﻿---
+---
 title: DocumentResultSignature class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Represents the result of processing an archive document signing process for a document with newly created signatures."
 type: docs
 url: /python-net/groupdocs.signature.domain/documentresultsignature/
 is_root: false
-weight: 150
+weight: 170
 ---
+
 
 ## DocumentResultSignature class
 
-Result of processing archive document signing process for document with newly created signatures.
+Represents the result of processing an archive document signing process for a document with newly created signatures.
 
+Learn more
 
-
-**Inheritance:** [`DocumentResultSignature`](/signature/python-net/groupdocs.signature.domain/documentresultsignature) → 
-[`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature)
-
-
+- More about signing documents withing archives using GroupDocs.Signature: https://docs.groupdocs.com/signature/net/signing-archive-documents/
 
 The DocumentResultSignature type exposes the following members:
-
-### Properties
-| Property | Description |
-| :- | :- |
-| [signature_type](/signature/python-net/groupdocs.signature.domain/documentresultsignature/signature_type) | Specifies the type of signature. |
-| [page_number](/signature/python-net/groupdocs.signature.domain/documentresultsignature/page_number) | Specifies the page signature was found on. |
-| [signature_id](/signature/python-net/groupdocs.signature.domain/documentresultsignature/signature_id) | Unique signature identifier to modify signature in the document over Update or Delete methods.<br/>This property will be set automatically after Sign or Search method being called.<br/>If this property was saved before it can be set manually to manipulate the signature. |
-| [is_signature](/signature/python-net/groupdocs.signature.domain/documentresultsignature/is_signature) | Get or set flag to indicate if this component is Signature or document content.<br/>This property is being used with Update method to set element as signature (true) or document element (false). |
-| [deleted](/signature/python-net/groupdocs.signature.domain/documentresultsignature/deleted) | Get the flag that indicates if this signature was deleted from the document.<br/>This property is being used only for document history log records to keep the list of deleted signatures. |
-| [created_on](/signature/python-net/groupdocs.signature.domain/documentresultsignature/created_on) | Get or set the signature creation date. |
-| [modified_on](/signature/python-net/groupdocs.signature.domain/documentresultsignature/modified_on) | Get or set the signature modification date. |
-| [top](/signature/python-net/groupdocs.signature.domain/documentresultsignature/top) | Specifies top position of signature. |
-| [left](/signature/python-net/groupdocs.signature.domain/documentresultsignature/left) | Specifies left position of signature. |
-| [width](/signature/python-net/groupdocs.signature.domain/documentresultsignature/width) | Specifies width of signature. |
-| [height](/signature/python-net/groupdocs.signature.domain/documentresultsignature/height) | Specifies height of signature. |
-| [file_name](/signature/python-net/groupdocs.signature.domain/documentresultsignature/file_name) | Document file name |
-| [processing_time](/signature/python-net/groupdocs.signature.domain/documentresultsignature/processing_time) | Returns the execution time of the process in milliseconds |
-| [total_signatures](/signature/python-net/groupdocs.signature.domain/documentresultsignature/total_signatures) | Returns the total processed signatures |
-| [source_document_size](/signature/python-net/groupdocs.signature.domain/documentresultsignature/source_document_size) | Returns source document size |
-| [destin_document_size](/signature/python-net/groupdocs.signature.domain/documentresultsignature/destin_document_size) | Returns destination document size |
-| [succeeded](/signature/python-net/groupdocs.signature.domain/documentresultsignature/succeeded) | List of successfully processed signatures [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature). |
-| [failed](/signature/python-net/groupdocs.signature.domain/documentresultsignature/failed) | List of the signatures that failed during the process [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature). |
-| [error_message](/signature/python-net/groupdocs.signature.domain/documentresultsignature/error_message) | if document was processed with error this property will contain the error message |
-
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [clone](/signature/python-net/groupdocs.signature.domain/documentresultsignature/clone/#) | Clone signature instance. |
+| [clone](/signature/python-net/groupdocs.signature.domain/basesignature/clone/) | Clone signature instance. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [equals](/signature/python-net/groupdocs.signature.domain/basesignature/equals/) | Compares the given signature object with this instance for equality. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [equals_object](/signature/python-net/groupdocs.signature.domain/basesignature/equals_object/) |  (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [get_hash_code](/signature/python-net/groupdocs.signature.domain/basesignature/get_hash_code/) | Provides an overridden implementation of GetHashCode. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
 
-
-
-### Remarks 
-
-
-**Learn more** |
-|
- |
+### Properties
+| Property | Description |
+| :- | :- |
+| [destin_document_size](/signature/python-net/groupdocs.signature.domain/documentresultsignature/destin_document_size/) | The destination document size. |
+| [error_message](/signature/python-net/groupdocs.signature.domain/documentresultsignature/error_message/) | The error message when the document was processed with an error. |
+| [failed](/signature/python-net/groupdocs.signature.domain/documentresultsignature/failed/) | The list of signatures that failed during the process [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/). |
+| [file_name](/signature/python-net/groupdocs.signature.domain/documentresultsignature/file_name/) | The document file name. |
+| [processing_time](/signature/python-net/groupdocs.signature.domain/documentresultsignature/processing_time/) | The execution time of the process in milliseconds. |
+| [source_document_size](/signature/python-net/groupdocs.signature.domain/documentresultsignature/source_document_size/) | The source document size. |
+| [succeeded](/signature/python-net/groupdocs.signature.domain/documentresultsignature/succeeded/) | The list of successfully processed signatures [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/). |
+| [total_signatures](/signature/python-net/groupdocs.signature.domain/documentresultsignature/total_signatures/) | The total number of processed signatures. |
+| [created_on](/signature/python-net/groupdocs.signature.domain/basesignature/created_on/) | The signature creation date. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [deleted](/signature/python-net/groupdocs.signature.domain/basesignature/deleted/) | The flag indicating whether this signature was deleted from the document. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [height](/signature/python-net/groupdocs.signature.domain/basesignature/height/) | The height of the signature. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [is_signature](/signature/python-net/groupdocs.signature.domain/basesignature/is_signature/) | The flag indicating whether this component represents a signature (`True`) or document content (`False`). (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [left](/signature/python-net/groupdocs.signature.domain/basesignature/left/) | The left position of the signature. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [modified_on](/signature/python-net/groupdocs.signature.domain/basesignature/modified_on/) | The signature modification date. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [page_number](/signature/python-net/groupdocs.signature.domain/basesignature/page_number/) | The page number where the signature was found. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [signature_id](/signature/python-net/groupdocs.signature.domain/basesignature/signature_id/) | The unique identifier of the signature, used to modify the signature in the document via update or delete operations. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [signature_type](/signature/python-net/groupdocs.signature.domain/basesignature/signature_type/) | The type of signature. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [top](/signature/python-net/groupdocs.signature.domain/basesignature/top/) | The top position of the signature. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [width](/signature/python-net/groupdocs.signature.domain/basesignature/width/) | The width of the signature. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
 
 ### See Also
-* module [`groupdocs.signature.domain`](..)
-* class [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature)
-* class [`DocumentResultSignature`](/signature/python-net/groupdocs.signature.domain/documentresultsignature)
+* module [`groupdocs.signature.domain`](/signature/python-net/groupdocs.signature.domain/)

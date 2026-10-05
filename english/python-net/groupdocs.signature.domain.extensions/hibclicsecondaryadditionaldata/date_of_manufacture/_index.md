@@ -1,19 +1,20 @@
-﻿---
+---
 title: date_of_manufacture property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The date of manufacture."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/hibclicsecondaryadditionaldata/date_of_manufacture/
 is_root: false
-weight: 40
+weight: 2010
 ---
+
 
 ## date_of_manufacture property
 
+The date of manufacture.
 
-Identifies date of manufacture. 
-Date of manufacture can be set to DateTime.MinValue in order not to use this field.
-Default value: DateTime.MinValue
+It can be set to `datetime.datetime.min` to indicate the field is not used. Default value is `datetime.datetime.min`.
+
 ### Definition:
 ```python
 @property
@@ -25,5 +26,4 @@ def date_of_manufacture(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`HIBCLICSecondaryAdditionalData`](/signature/python-net/groupdocs.signature.domain.extensions/hibclicsecondaryadditionaldata)
+* class [`HIBCLICSecondaryAdditionalData`](/signature/python-net/groupdocs.signature.domain.extensions/hibclicsecondaryadditionaldata/)

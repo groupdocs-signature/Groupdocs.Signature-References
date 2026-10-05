@@ -1,19 +1,17 @@
-﻿---
-title: XLSX property
+---
+title: XLSX field
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Microsoft Excel Open XML Spreadsheet (.xlsx) is a well-known format for Microsoft Excel documents that was introduced by Microsoft with the release of Microsoft Office 2007."
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/xlsx/
 is_root: false
-weight: 670
+weight: 3380
 ---
 
-## XLSX property
 
+## XLSX field
 
-Microsoft Excel Open XML Spreadsheet (.xlsx) is a well-known format for Microsoft Excel documents that was introduced by Microsoft with the release of Microsoft Office 2007. 
-Learn more about this file format [here](https://wiki.fileformat.com/spreadsheet/xlsx).
+Microsoft Excel Open XML Spreadsheet (.xlsx) is a well-known format for Microsoft Excel documents that was introduced by Microsoft with the release of Microsoft Office 2007. Learn more about this file format here.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype)
+* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype/)

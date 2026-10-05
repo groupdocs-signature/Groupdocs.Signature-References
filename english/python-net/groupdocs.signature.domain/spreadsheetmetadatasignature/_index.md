@@ -1,72 +1,106 @@
-﻿---
+---
 title: SpreadsheetMetadataSignature class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The class contains Spreadsheet Metadata Signature properties."
 type: docs
 url: /python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/
 is_root: false
-weight: 430
+weight: 640
 ---
+
 
 ## SpreadsheetMetadataSignature class
 
-Contains Spreadsheet Metadata Signature properties.
-
-
-
-**Inheritance:** [`SpreadsheetMetadataSignature`](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature) → 
-[`MetadataSignature`](/signature/python-net/groupdocs.signature.domain/metadatasignature) → 
-[`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature)
-
-
+The class contains Spreadsheet Metadata Signature properties.
 
 The SpreadsheetMetadataSignature type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/__init__/#System.String) | Creates Spreadsheet Metadata Signature with predefined name and empty value. |
-| [__init__](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/__init__/#System.String-System.Object) | Creates Spreadsheet Metadata Signature with predefined values. |
-
-
-### Properties
-| Property | Description |
-| :- | :- |
-| [signature_type](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/signature_type) | Specifies the type of signature. |
-| [page_number](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/page_number) | Specifies the page signature was found on. |
-| [signature_id](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/signature_id) | Unique signature identifier to modify signature in the document over Update or Delete methods.<br/>This property will be set automatically after Sign or Search method being called.<br/>If this property was saved before it can be set manually to manipulate the signature. |
-| [is_signature](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/is_signature) | Get or set flag to indicate if this component is Signature or document content.<br/>This property is being used with Update method to set element as signature (true) or document element (false). |
-| [deleted](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/deleted) | Get the flag that indicates if this signature was deleted from the document.<br/>This property is being used only for document history log records to keep the list of deleted signatures. |
-| [created_on](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/created_on) | Get or set the signature creation date. |
-| [modified_on](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/modified_on) | Get or set the signature modification date. |
-| [top](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/top) | Specifies top position of signature. |
-| [left](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/left) | Specifies left position of signature. |
-| [width](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/width) | Specifies width of signature. |
-| [height](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/height) | Specifies height of signature. |
-| [name](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/name) | Specifies unique metadata name. |
-| [value](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/value) | Specifies metadata object. |
-| [type](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/type) | Specifies metadata value type. |
-| [data_encryption](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/data_encryption) | Gets or sets implementation of [`IDataEncryption`](/signature/python-net/groupdocs.signature.domain.extensions/idataencryption) interface to encode and decode signature Value properties. |
-
+| [__init__](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/__init__/#name) | Initializes Spreadsheet Metadata Signature with predefined name and empty value. |
+| [__init__](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/__init__/#name-value) | Initializes a Spreadsheet Metadata Signature with predefined values. |
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [clone](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/clone/#) | Clone Metadata Signature instance. |
-| [clone](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/clone/#System.Object) | Clone Spreadsheet Metadata Signature instance with given value. |
-| [to_boolean](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/to_boolean/#) | Converts to boolean. |
-| [to_integer](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/to_integer/#) | Converts to integer. |
-| [to_decimal](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/to_decimal/#) | Converts to Decimal. |
-| [to_double](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/to_double/#) | Converts to Double. |
-| [to_single](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/to_single/#) | Converts to float. |
-| [to_date_time](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/to_date_time/#) | Converts to DateTime. |
-| [to_string](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/to_string/#System.String) | Converts to String with specified format |
+| [clone](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/clone/) | Clone Metadata Signature instance. |
+| [clone](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/clone/#value) | Clones a SpreadsheetMetadataSignature instance with the specified value. |
+| [clone_object](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/clone_object/) |  |
+| [to_string](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/to_string/) | Converts the metadata signature value to a string using the overridden `ToString` method. |
+| [to_string](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/to_string/#format-provider) | Converts the metadata signature to a string using the specified format. |
+| [to_string_file](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/to_string_file/) |  |
+| [to_string_string](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature/to_string_string/) |  |
+| [equals](/signature/python-net/groupdocs.signature.domain/metadatasignature/equals/) | Determines whether the specified signature is equal to this instance. (inherited from [`MetadataSignature`](/signature/python-net/groupdocs.signature.domain/metadatasignature/)) |
+| [equals_object](/signature/python-net/groupdocs.signature.domain/metadatasignature/equals_object/) |  (inherited from [`MetadataSignature`](/signature/python-net/groupdocs.signature.domain/metadatasignature/)) |
+| [get_data](/signature/python-net/groupdocs.signature.domain/metadatasignature/get_data/) |  (inherited from [`MetadataSignature`](/signature/python-net/groupdocs.signature.domain/metadatasignature/)) |
+| [get_data_idata_encryption](/signature/python-net/groupdocs.signature.domain/metadatasignature/get_data_idata_encryption/) |  (inherited from [`MetadataSignature`](/signature/python-net/groupdocs.signature.domain/metadatasignature/)) |
+| [get_hash_code](/signature/python-net/groupdocs.signature.domain/metadatasignature/get_hash_code/) | Returns the hash code for the metadata signature. (inherited from [`MetadataSignature`](/signature/python-net/groupdocs.signature.domain/metadatasignature/)) |
+| [to_boolean](/signature/python-net/groupdocs.signature.domain/metadatasignature/to_boolean/) | Converts to boolean. (inherited from [`MetadataSignature`](/signature/python-net/groupdocs.signature.domain/metadatasignature/)) |
+| [to_date_time](/signature/python-net/groupdocs.signature.domain/metadatasignature/to_date_time/) | Converts the metadata signature value to a datetime. (inherited from [`MetadataSignature`](/signature/python-net/groupdocs.signature.domain/metadatasignature/)) |
+| [to_date_time_iformat_provider](/signature/python-net/groupdocs.signature.domain/metadatasignature/to_date_time_iformat_provider/) |  (inherited from [`MetadataSignature`](/signature/python-net/groupdocs.signature.domain/metadatasignature/)) |
+| [to_decimal](/signature/python-net/groupdocs.signature.domain/metadatasignature/to_decimal/) | Converts the metadata signature value to Decimal. (inherited from [`MetadataSignature`](/signature/python-net/groupdocs.signature.domain/metadatasignature/)) |
+| [to_decimal_iformat_provider](/signature/python-net/groupdocs.signature.domain/metadatasignature/to_decimal_iformat_provider/) |  (inherited from [`MetadataSignature`](/signature/python-net/groupdocs.signature.domain/metadatasignature/)) |
+| [to_double](/signature/python-net/groupdocs.signature.domain/metadatasignature/to_double/) | Converts the metadata signature value to a float. (inherited from [`MetadataSignature`](/signature/python-net/groupdocs.signature.domain/metadatasignature/)) |
+| [to_double_iformat_provider](/signature/python-net/groupdocs.signature.domain/metadatasignature/to_double_iformat_provider/) |  (inherited from [`MetadataSignature`](/signature/python-net/groupdocs.signature.domain/metadatasignature/)) |
+| [to_integer](/signature/python-net/groupdocs.signature.domain/metadatasignature/to_integer/) | Converts the metadata signature value to an integer. (inherited from [`MetadataSignature`](/signature/python-net/groupdocs.signature.domain/metadatasignature/)) |
+| [to_single](/signature/python-net/groupdocs.signature.domain/metadatasignature/to_single/) | Converts the metadata signature value to a float. (inherited from [`MetadataSignature`](/signature/python-net/groupdocs.signature.domain/metadatasignature/)) |
+| [to_single_iformat_provider](/signature/python-net/groupdocs.signature.domain/metadatasignature/to_single_iformat_provider/) |  (inherited from [`MetadataSignature`](/signature/python-net/groupdocs.signature.domain/metadatasignature/)) |
+
+### Properties
+| Property | Description |
+| :- | :- |
+| [created_on](/signature/python-net/groupdocs.signature.domain/basesignature/created_on/) | The signature creation date. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [data_encryption](/signature/python-net/groupdocs.signature.domain/metadatasignature/data_encryption/) | The implementation of [`IDataEncryption`](/signature/python-net/groupdocs.signature.domain.extensions/idataencryption/) used to encode and decode signature value properties. (inherited from [`MetadataSignature`](/signature/python-net/groupdocs.signature.domain/metadatasignature/)) |
+| [deleted](/signature/python-net/groupdocs.signature.domain/basesignature/deleted/) | The flag indicating whether this signature was deleted from the document. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [height](/signature/python-net/groupdocs.signature.domain/basesignature/height/) | The height of the signature. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [is_signature](/signature/python-net/groupdocs.signature.domain/basesignature/is_signature/) | The flag indicating whether this component represents a signature (`True`) or document content (`False`). (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [left](/signature/python-net/groupdocs.signature.domain/basesignature/left/) | The left position of the signature. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [modified_on](/signature/python-net/groupdocs.signature.domain/basesignature/modified_on/) | The signature modification date. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [name](/signature/python-net/groupdocs.signature.domain/metadatasignature/name/) | The unique metadata name. (inherited from [`MetadataSignature`](/signature/python-net/groupdocs.signature.domain/metadatasignature/)) |
+| [page_number](/signature/python-net/groupdocs.signature.domain/basesignature/page_number/) | The page number where the signature was found. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [signature_id](/signature/python-net/groupdocs.signature.domain/basesignature/signature_id/) | The unique identifier of the signature, used to modify the signature in the document via update or delete operations. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [signature_type](/signature/python-net/groupdocs.signature.domain/basesignature/signature_type/) | The type of signature. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [top](/signature/python-net/groupdocs.signature.domain/basesignature/top/) | The top position of the signature. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+| [type](/signature/python-net/groupdocs.signature.domain/metadatasignature/type/) | The metadata value type. (inherited from [`MetadataSignature`](/signature/python-net/groupdocs.signature.domain/metadatasignature/)) |
+| [value](/signature/python-net/groupdocs.signature.domain/metadatasignature/value/) | The metadata object. (inherited from [`MetadataSignature`](/signature/python-net/groupdocs.signature.domain/metadatasignature/)) |
+| [width](/signature/python-net/groupdocs.signature.domain/basesignature/width/) | The width of the signature. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
+
+### Example
+
+```python
+from datetime import datetime
+
+from groupdocs.signature import Signature
+from groupdocs.signature.options import MetadataSignOptions
+from groupdocs.signature.domain import SpreadsheetMetadataSignature
 
 
+def sign_xlsx():
+    with Signature("sample.xlsx") as signature:
+        options = MetadataSignOptions()
+
+        # Create a few Spreadsheet Metadata signatures
+        signatures = [
+            SpreadsheetMetadataSignature("Author", "Mr.Scherlock Holmes"),
+            SpreadsheetMetadataSignature("DateCreated", datetime.now()),
+            SpreadsheetMetadataSignature("DocumentId", 123456),
+            SpreadsheetMetadataSignature("SignatureId", 123.456),
+        ]
+
+        # Add them to the options
+        options.signatures.add_range(signatures)
+
+        # Sign the spreadsheet and save the result
+        result = signature.sign("signed.xlsx", options)
+        print(f"Signed with {len(result.succeeded)} metadata signature(s):")
+        for item in result.succeeded:
+            print(f"  {item.name}")
+
+
+if __name__ == "__main__":
+    sign_xlsx()
+```
 
 ### See Also
-* module [`groupdocs.signature.domain`](..)
-* class [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature)
-* class [`IDataEncryption`](/signature/python-net/groupdocs.signature.domain.extensions/idataencryption)
-* class [`MetadataSignature`](/signature/python-net/groupdocs.signature.domain/metadatasignature)
-* class [`SpreadsheetMetadataSignature`](/signature/python-net/groupdocs.signature.domain/spreadsheetmetadatasignature)
+* module [`groupdocs.signature.domain`](/signature/python-net/groupdocs.signature.domain/)

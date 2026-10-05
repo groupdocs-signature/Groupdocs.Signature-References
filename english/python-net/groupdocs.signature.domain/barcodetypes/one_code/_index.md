@@ -1,19 +1,17 @@
-﻿---
-title: ONE_CODE property
+---
+title: ONE_CODE field
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "OneCode Barcode Type object."
 type: docs
 url: /python-net/groupdocs.signature.domain/barcodetypes/one_code/
 is_root: false
-weight: 560
+weight: 3450
 ---
 
-## ONE_CODE property
 
+## ONE_CODE field
 
 OneCode Barcode Type object.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`BarcodeType`](/signature/python-net/groupdocs.signature.domain/barcodetype)
-* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes)
+* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes/)

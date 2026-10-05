@@ -1,33 +1,24 @@
-﻿---
+---
 title: clear method
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Clears records list."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/hibcpasdata/clear/
 is_root: false
-weight: 30
+weight: 1060
 ---
 
-## clear {#}
 
-Clears records list
+## clear
 
-
-### Returns 
-
-
-Returns reference on itself
-
+Clears records list.
 
 ```python
 def clear(self):
     ...
 ```
 
-
-
-
+**Returns:** Reference to the same `HIBCPASData` instance.
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`HIBCPASData`](/signature/python-net/groupdocs.signature.domain.extensions/hibcpasdata)
+* class [`HIBCPASData`](/signature/python-net/groupdocs.signature.domain.extensions/hibcpasdata/)

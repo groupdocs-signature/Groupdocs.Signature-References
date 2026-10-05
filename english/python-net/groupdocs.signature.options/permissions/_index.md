@@ -1,32 +1,26 @@
-﻿---
-title: Permissions enumeration
+---
+title: Permissions class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Permissions enum — GroupDocs.Signature for Python via .NET API reference."
 type: docs
 url: /python-net/groupdocs.signature.options/permissions/
 is_root: false
-weight: 560
+weight: 370
 ---
 
-## Permissions enumeration
 
-Specifies configurable permissions for PDF documents, such as printing, content modification, and data extraction.
-These settings are applicable to PDF format only and control user access and interaction capabilities.
-
-
+## Permissions class
 
 The Permissions type exposes the following members:
 
 ### Fields
 | Field | Description |
 | :- | :- |
-| NONE | Allow all actions, including printing, modification, and data extraction. |
-| DENY_PRINTING | Deny printing of the document. |
-| DENY_MODIFICATION | Deny content modification, including filling forms and adding or modifying annotations. |
-| DENY_DATA_EXTRACTION | Deny extraction of text and graphics from the document. |
-| DENY_ALL | Deny all actions, including printing, modification, and data extraction. |
-
-
+| [NONE](/signature/python-net/groupdocs.signature.options/permissions/none/) | Allow all actions, including printing, modification, and data extraction. |
+| [DENY_PRINTING](/signature/python-net/groupdocs.signature.options/permissions/deny_printing/) | Deny printing of the document. |
+| [DENY_MODIFICATION](/signature/python-net/groupdocs.signature.options/permissions/deny_modification/) | Deny content modification, including filling forms and adding or modifying annotations. |
+| [DENY_DATA_EXTRACTION](/signature/python-net/groupdocs.signature.options/permissions/deny_data_extraction/) | Deny extraction of text and graphics from the document. |
+| [DENY_ALL](/signature/python-net/groupdocs.signature.options/permissions/deny_all/) | Deny all actions, including printing, modification, and data extraction. |
 
 ### See Also
-* module [`groupdocs.signature.options`](..)
+* module [`groupdocs.signature.options`](/signature/python-net/groupdocs.signature.options/)

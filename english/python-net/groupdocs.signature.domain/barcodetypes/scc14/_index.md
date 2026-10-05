@@ -1,19 +1,17 @@
-﻿---
-title: SCC14 property
+---
+title: SCC14 field
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "SCC14 Barcode Type object."
 type: docs
 url: /python-net/groupdocs.signature.domain/barcodetypes/scc14/
 is_root: false
-weight: 650
+weight: 3540
 ---
 
-## SCC14 property
 
+## SCC14 field
 
 SCC14 Barcode Type object.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`BarcodeType`](/signature/python-net/groupdocs.signature.domain/barcodetype)
-* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes)
+* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes/)

@@ -1,17 +1,18 @@
-﻿---
+---
 title: name_match_type property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The metadata name match type used for searching."
 type: docs
 url: /python-net/groupdocs.signature.options/metadatasearchoptions/name_match_type/
 is_root: false
-weight: 70
+weight: 2040
 ---
+
 
 ## name_match_type property
 
+The metadata name match type used for searching. It is applied only when the `name` property is set.
 
-Gets or sets Metadata name Match Type search. It is used only when Name property is set.
 ### Definition:
 ```python
 @property
@@ -23,6 +24,4 @@ def name_match_type(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`MetadataSearchOptions`](/signature/python-net/groupdocs.signature.options/metadatasearchoptions)
-* class [`TextMatchType`](/signature/python-net/groupdocs.signature.domain/textmatchtype)
+* class [`MetadataSearchOptions`](/signature/python-net/groupdocs.signature.options/metadatasearchoptions/)

@@ -1,19 +1,17 @@
-﻿---
-title: ITALIAN_POST25 property
+---
+title: ITALIAN_POST25 field
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "ItalianPost25 Barcode Type object."
 type: docs
 url: /python-net/groupdocs.signature.domain/barcodetypes/italian_post25/
 is_root: false
-weight: 470
+weight: 3360
 ---
 
-## ITALIAN_POST25 property
 
+## ITALIAN_POST25 field
 
 ItalianPost25 Barcode Type object.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`BarcodeType`](/signature/python-net/groupdocs.signature.domain/barcodetype)
-* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes)
+* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes/)

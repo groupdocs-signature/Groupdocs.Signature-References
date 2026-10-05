@@ -1,17 +1,18 @@
-﻿---
+---
 title: text property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The text of the stamp line."
 type: docs
 url: /python-net/groupdocs.signature.domain/stampline/text/
 is_root: false
-weight: 80
+weight: 2060
 ---
+
 
 ## text property
 
+The text of the stamp line.
 
-Gets or sets the text of stamp line.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def text(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`StampLine`](/signature/python-net/groupdocs.signature.domain/stampline)
+* class [`StampLine`](/signature/python-net/groupdocs.signature.domain/stampline/)

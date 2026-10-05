@@ -1,17 +1,18 @@
-﻿---
+---
 title: data property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The data identifies data."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/hibcpasrecord/data/
 is_root: false
-weight: 30
+weight: 2010
 ---
+
 
 ## data property
 
+The data identifies data.
 
-Identifies data.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def data(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`HIBCPASRecord`](/signature/python-net/groupdocs.signature.domain.extensions/hibcpasrecord)
+* class [`HIBCPASRecord`](/signature/python-net/groupdocs.signature.domain.extensions/hibcpasrecord/)

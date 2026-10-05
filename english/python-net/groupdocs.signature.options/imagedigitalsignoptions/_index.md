@@ -1,51 +1,38 @@
-﻿---
+---
 title: ImageDigitalSignOptions class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Represents options to embed Aspose.Imaging digital (steganography) signature into raster images."
 type: docs
 url: /python-net/groupdocs.signature.options/imagedigitalsignoptions/
 is_root: false
-weight: 170
+weight: 210
 ---
+
 
 ## ImageDigitalSignOptions class
 
 Represents options to embed Aspose.Imaging digital (steganography) signature into raster images.
-
-
-
-**Inheritance:** [`ImageDigitalSignOptions`](/signature/python-net/groupdocs.signature.options/imagedigitalsignoptions) → 
-[`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions)
-
-
 
 The ImageDigitalSignOptions type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.options/imagedigitalsignoptions/__init__/#) | Initializes a new instance of the ImageDigitalSignOptions class with default values. |
-
+| [__init__](/signature/python-net/groupdocs.signature.options/imagedigitalsignoptions/__init__/) | Initializes a new instance of the ImageDigitalSignOptions class with default values. |
 
 ### Properties
 | Property | Description |
 | :- | :- |
-| [page_number](/signature/python-net/groupdocs.signature.options/imagedigitalsignoptions/page_number) | Gets or sets document page number for signing.<br/>Minimal and default value is 1. |
-| [all_pages](/signature/python-net/groupdocs.signature.options/imagedigitalsignoptions/all_pages) | Put signature on all document pages. |
-| [appearance](/signature/python-net/groupdocs.signature.options/imagedigitalsignoptions/appearance) | Additional signature appearance. |
-| [extensions](/signature/python-net/groupdocs.signature.options/imagedigitalsignoptions/extensions) | Signature Extensions. |
-| [pages_setup](/signature/python-net/groupdocs.signature.options/imagedigitalsignoptions/pages_setup) | Options to specify pages to be signed. |
-| [signature_type](/signature/python-net/groupdocs.signature.options/imagedigitalsignoptions/signature_type) | Get the Signature Type [`SignatureType`](/signature/python-net/groupdocs.signature.domain/signaturetype) |
-| [document_type](/signature/python-net/groupdocs.signature.options/imagedigitalsignoptions/document_type) | Get or set the Document Type of the Signature Options [`DocumentType`](/signature/python-net/groupdocs.signature.domain/documenttype) |
-| [z_order](/signature/python-net/groupdocs.signature.options/imagedigitalsignoptions/z_order) | Gets or sets the Z-order position of text signature.        <br/>Determines the display order of overlapping signatures. |
-| [hash_algorithm](/signature/python-net/groupdocs.signature.options/imagedigitalsignoptions/hash_algorithm) | Gets or sets the hash algorithm to be used for cryptographic operations.<br/>Supported exclusively for digital signatures in PDF files. |
-| [password](/signature/python-net/groupdocs.signature.options/imagedigitalsignoptions/password) | Password used for embedding the digital signature. |
-
-
+| [password](/signature/python-net/groupdocs.signature.options/imagedigitalsignoptions/password/) | The password used for embedding the digital signature. |
+| [all_pages](/signature/python-net/groupdocs.signature.options/signoptions/all_pages/) | The signature will be placed on all document pages. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [appearance](/signature/python-net/groupdocs.signature.options/signoptions/appearance/) | The additional signature appearance. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [document_type](/signature/python-net/groupdocs.signature.options/signoptions/document_type/) | The document type of the signature options (`DocumentType`). (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [extensions](/signature/python-net/groupdocs.signature.options/signoptions/extensions/) | The signature extensions. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [hash_algorithm](/signature/python-net/groupdocs.signature.options/signoptions/hash_algorithm/) | The hash algorithm to be used for cryptographic operations. Supported exclusively for digital signatures in PDF files. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [page_number](/signature/python-net/groupdocs.signature.options/signoptions/page_number/) | The document page number for signing. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [pages_setup](/signature/python-net/groupdocs.signature.options/signoptions/pages_setup/) | The options to specify pages to be signed. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [signature_type](/signature/python-net/groupdocs.signature.options/signoptions/signature_type/) | The signature type (`SignatureType`). (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
+| [zorder](/signature/python-net/groupdocs.signature.options/signoptions/zorder/) | The Z-order position of the text signature, which determines the display order of overlapping signatures. (inherited from [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions/)) |
 
 ### See Also
-* module [`groupdocs.signature.options`](..)
-* class [`DocumentType`](/signature/python-net/groupdocs.signature.domain/documenttype)
-* class [`ImageDigitalSignOptions`](/signature/python-net/groupdocs.signature.options/imagedigitalsignoptions)
-* class [`SignOptions`](/signature/python-net/groupdocs.signature.options/signoptions)
-* class [`SignatureType`](/signature/python-net/groupdocs.signature.domain/signaturetype)
+* module [`groupdocs.signature.options`](/signature/python-net/groupdocs.signature.options/)

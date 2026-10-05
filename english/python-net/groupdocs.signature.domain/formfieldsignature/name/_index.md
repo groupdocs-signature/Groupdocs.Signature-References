@@ -1,17 +1,18 @@
-﻿---
+---
 title: name property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The unique form field name."
 type: docs
 url: /python-net/groupdocs.signature.domain/formfieldsignature/name/
 is_root: false
-weight: 100
+weight: 2010
 ---
+
 
 ## name property
 
+The unique form field name.
 
-Specifies unique form field name.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def name(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`FormFieldSignature`](/signature/python-net/groupdocs.signature.domain/formfieldsignature)
+* class [`FormFieldSignature`](/signature/python-net/groupdocs.signature.domain/formfieldsignature/)

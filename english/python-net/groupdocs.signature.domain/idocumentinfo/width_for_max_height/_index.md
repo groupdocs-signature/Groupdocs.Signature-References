@@ -1,17 +1,18 @@
-﻿---
+---
 title: width_for_max_height property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The width for max page height."
 type: docs
 url: /python-net/groupdocs.signature.domain/idocumentinfo/width_for_max_height/
 is_root: false
-weight: 190
+weight: 2170
 ---
+
 
 ## width_for_max_height property
 
+The width for max page height.
 
-Specifies width for max page height.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def width_for_max_height(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`IDocumentInfo`](/signature/python-net/groupdocs.signature.domain/idocumentinfo)
+* class [`IDocumentInfo`](/signature/python-net/groupdocs.signature.domain/idocumentinfo/)

@@ -1,17 +1,18 @@
-﻿---
+---
 title: file_type property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The file format type."
 type: docs
 url: /python-net/groupdocs.signature.domain/documentinfo/file_type/
 is_root: false
-weight: 60
+weight: 2040
 ---
+
 
 ## file_type property
 
+The file format type.
 
-File format type.
 ### Definition:
 ```python
 @property
@@ -23,6 +24,4 @@ def file_type(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`DocumentInfo`](/signature/python-net/groupdocs.signature.domain/documentinfo)
-* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype)
+* class [`DocumentInfo`](/signature/python-net/groupdocs.signature.domain/documentinfo/)

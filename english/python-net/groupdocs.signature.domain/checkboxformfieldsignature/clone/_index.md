@@ -1,33 +1,24 @@
-﻿---
+---
 title: clone method
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Clones the FormField signature instance."
 type: docs
 url: /python-net/groupdocs.signature.domain/checkboxformfieldsignature/clone/
 is_root: false
-weight: 20
+weight: 1010
 ---
 
-## clone {#}
 
-Clone FormField Signature instance.
+## clone
 
-
-### Returns 
-
-
-Returns cloned FormField Signature instance.
-
+Clones the FormField signature instance.
 
 ```python
 def clone(self):
     ...
 ```
 
-
-
-
+**Returns:** Cloned FormField signature instance.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`CheckboxFormFieldSignature`](/signature/python-net/groupdocs.signature.domain/checkboxformfieldsignature)
+* class [`CheckboxFormFieldSignature`](/signature/python-net/groupdocs.signature.domain/checkboxformfieldsignature/)

@@ -1,18 +1,20 @@
-﻿---
+---
 title: include_builtin_properties property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The flag indicating whether built‑in document properties such as document statistics and information are included in the search result."
 type: docs
 url: /python-net/groupdocs.signature.options/metadatasearchoptions/include_builtin_properties/
 is_root: false
-weight: 50
+weight: 2020
 ---
+
 
 ## include_builtin_properties property
 
+The flag indicating whether built‑in document properties such as document statistics and information are included in the search result.
 
-Indicates if Built-in document properties like Document statistic, information etc should be included into Search result.
-This flag has sense for Presentation, Spreadsheet and Word Processing document file types.
+Applicable to presentation, spreadsheet, and word‑processing document file types.
+
 ### Definition:
 ```python
 @property
@@ -24,5 +26,4 @@ def include_builtin_properties(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`MetadataSearchOptions`](/signature/python-net/groupdocs.signature.options/metadatasearchoptions)
+* class [`MetadataSearchOptions`](/signature/python-net/groupdocs.signature.options/metadatasearchoptions/)

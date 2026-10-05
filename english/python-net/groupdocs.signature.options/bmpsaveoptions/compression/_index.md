@@ -1,17 +1,18 @@
-﻿---
+---
 title: compression property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The compression."
 type: docs
 url: /python-net/groupdocs.signature.options/bmpsaveoptions/compression/
 is_root: false
-weight: 50
+weight: 2020
 ---
+
 
 ## compression property
 
+The compression. See `BitmapCompression`.
 
-Gets or sets the compression. See [`BitmapCompression`](/signature/python-net/groupdocs.signature.options/bitmapcompression).
 ### Definition:
 ```python
 @property
@@ -23,6 +24,4 @@ def compression(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`BitmapCompression`](/signature/python-net/groupdocs.signature.options/bitmapcompression)
-* class [`BmpSaveOptions`](/signature/python-net/groupdocs.signature.options/bmpsaveoptions)
+* class [`BmpSaveOptions`](/signature/python-net/groupdocs.signature.options/bmpsaveoptions/)

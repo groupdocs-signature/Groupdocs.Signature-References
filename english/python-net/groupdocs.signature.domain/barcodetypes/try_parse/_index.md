@@ -1,38 +1,30 @@
-﻿---
+---
 title: try_parse method
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Returns the Barcode type matching the given parsing type name."
 type: docs
 url: /python-net/groupdocs.signature.domain/barcodetypes/try_parse/
 is_root: false
-weight: 30
+weight: 1020
 ---
 
-## try_parse {#System.String}
 
-Returns Barcode type with pasringType name. If name of Barcode is unknown - 
-no Exception will be thrown but method will return null value.
+## try_parse {#parsing_type}
 
+Returns the Barcode type matching the given parsing type name.
 
-### Returns 
-
-
-BarcodeType instance.
-
+If the name is unknown, the method returns None instead of raising an exception.
 
 ```python
-def try_parse(self, parsing_type):
+def try_parse(cls, parsing_type):
     ...
 ```
 
-
 | Parameter | Type | Description |
 | :- | :- | :- |
-| parsing_type | System.String | Source string of barcode type name. |
+| parsing_type | `str` | Source string of barcode type name. |
 
-
+**Returns:** BarcodeType: The matching BarcodeType instance, or None if not found.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`BarcodeType`](/signature/python-net/groupdocs.signature.domain/barcodetype)
-* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes)
+* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes/)

@@ -1,17 +1,18 @@
-﻿---
+---
 title: country property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The address country."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/address/country/
 is_root: false
-weight: 40
+weight: 2020
 ---
+
 
 ## country property
 
+The address country.
 
-Gets or sets address country.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def country(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`Address`](/signature/python-net/groupdocs.signature.domain.extensions/address)
+* class [`Address`](/signature/python-net/groupdocs.signature.domain.extensions/address/)

@@ -1,17 +1,18 @@
-﻿---
+---
 title: subject property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The certificate subject to verify."
 type: docs
 url: /python-net/groupdocs.signature.options/certificateverifyoptions/subject/
 is_root: false
-weight: 140
+weight: 2060
 ---
+
 
 ## subject property
 
+The certificate subject to verify.
 
-Specify Certificate subject if it should be verified.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def subject(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`CertificateVerifyOptions`](/signature/python-net/groupdocs.signature.options/certificateverifyoptions)
+* class [`CertificateVerifyOptions`](/signature/python-net/groupdocs.signature.options/certificateverifyoptions/)

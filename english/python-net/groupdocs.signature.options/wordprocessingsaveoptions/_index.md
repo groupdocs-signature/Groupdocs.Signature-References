@@ -1,47 +1,37 @@
-﻿---
+---
 title: WordProcessingSaveOptions class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Represents save options for WordProcessing documents."
 type: docs
 url: /python-net/groupdocs.signature.options/wordprocessingsaveoptions/
 is_root: false
-weight: 500
+weight: 650
 ---
+
 
 ## WordProcessingSaveOptions class
 
-Save options for WordProcessing documents.
-
-
-
-**Inheritance:** [`WordProcessingSaveOptions`](/signature/python-net/groupdocs.signature.options/wordprocessingsaveoptions) → 
-[`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions)
-
-
+Represents save options for WordProcessing documents.
 
 The WordProcessingSaveOptions type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.options/wordprocessingsaveoptions/__init__/#) | Initializes a new instance of WordProcessingSaveOptions class with default values. |
-| [__init__](/signature/python-net/groupdocs.signature.options/wordprocessingsaveoptions/__init__/#groupdocs.signature.domain.WordProcessingSaveFileFormat) | Initializes a new instance of WordProcessingSaveOptions class with specified output file format. |
-| [__init__](/signature/python-net/groupdocs.signature.options/wordprocessingsaveoptions/__init__/#bool) | Initializes a new instance of WordProcessingSaveOptions class with specified output type and overwrite flag. |
-| [__init__](/signature/python-net/groupdocs.signature.options/wordprocessingsaveoptions/__init__/#groupdocs.signature.domain.WordProcessingSaveFileFormat-bool) | Initializes a new instance of WordProcessingSaveOptions class with specified output file format and overwrite flag. |
-
+| [__init__](/signature/python-net/groupdocs.signature.options/wordprocessingsaveoptions/__init__/) | Initializes a new instance of WordProcessingSaveOptions class with default values. |
+| [__init__](/signature/python-net/groupdocs.signature.options/wordprocessingsaveoptions/__init__/#file_format) | Initializes a new instance of WordProcessingSaveOptions with the specified output file format. |
+| [__init__](/signature/python-net/groupdocs.signature.options/wordprocessingsaveoptions/__init__/#overwrite_existing_file) | Initializes a new instance of WordProcessingSaveOptions with specified output type and overwrite flag. |
+| [__init__](/signature/python-net/groupdocs.signature.options/wordprocessingsaveoptions/__init__/#file_format-overwrite_existing_file) | Initializes a new instance of WordProcessingSaveOptions with the specified output file format and overwrite flag. |
 
 ### Properties
 | Property | Description |
 | :- | :- |
-| [overwrite_existing_files](/signature/python-net/groupdocs.signature.options/wordprocessingsaveoptions/overwrite_existing_files) | Gets or sets whether to overwrite existing file with new output file. <br/>Otherwise new file will be created with number as suffix.<br/>By default this value set to true that means file will be overwritten. |
-| [password](/signature/python-net/groupdocs.signature.options/wordprocessingsaveoptions/password) | Gets or sets password to save signed document with password protection.<br/>This property is not supported for Image documents. |
-| [use_original_password](/signature/python-net/groupdocs.signature.options/wordprocessingsaveoptions/use_original_password) | Gets or sets whether to use password from LoadOptions to save signed document as protected.<br/>Default value is true.<br/>This property is not supported for Image documents. |
-| [add_missing_extenstion](/signature/python-net/groupdocs.signature.options/wordprocessingsaveoptions/add_missing_extenstion) | Gets or sets flag to automatically add extension when it was missing in output file path<br/>Default value is false. |
-| [file_format](/signature/python-net/groupdocs.signature.options/wordprocessingsaveoptions/file_format) | Gets or sets file format of signed document. |
-
-
+| [file_format](/signature/python-net/groupdocs.signature.options/wordprocessingsaveoptions/file_format/) | The file format of the signed document. |
+| [ooxml_compliance](/signature/python-net/groupdocs.signature.options/wordprocessingsaveoptions/ooxml_compliance/) | The optional OOXML compliance level for the signed document. |
+| [add_missing_extenstion](/signature/python-net/groupdocs.signature.options/saveoptions/add_missing_extenstion/) | The flag that determines whether to automatically add an extension when it is missing in the output file path. Default value is False. (inherited from [`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions/)) |
+| [overwrite_existing_files](/signature/python-net/groupdocs.signature.options/saveoptions/overwrite_existing_files/) | The flag indicating whether to overwrite an existing file with the new output file. (inherited from [`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions/)) |
+| [password](/signature/python-net/groupdocs.signature.options/saveoptions/password/) | The password used to protect the saved signed document. Not supported for Image documents. (inherited from [`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions/)) |
+| [use_original_password](/signature/python-net/groupdocs.signature.options/saveoptions/use_original_password/) | The flag indicating whether to use the password from [`LoadOptions`](/signature/python-net/groupdocs.signature.options/loadoptions/) when saving the signed document as protected. The default value is True. Not supported for Image documents. (inherited from [`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions/)) |
 
 ### See Also
-* module [`groupdocs.signature.options`](..)
-* class [`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions)
-* class [`WordProcessingSaveOptions`](/signature/python-net/groupdocs.signature.options/wordprocessingsaveoptions)
+* module [`groupdocs.signature.options`](/signature/python-net/groupdocs.signature.options/)

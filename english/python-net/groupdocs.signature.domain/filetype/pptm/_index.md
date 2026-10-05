@@ -1,19 +1,17 @@
-﻿---
-title: PPTM property
+---
+title: PPTM field
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "PowerPoint Open XML Macro-Enabled Presentation are Macro-enabled Presentation files that are created with Microsoft PowerPoint 2007 or higher versions."
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/pptm/
 is_root: false
-weight: 460
+weight: 3320
 ---
 
-## PPTM property
 
+## PPTM field
 
-PowerPoint Open XML Macro-Enabled Presentation are Macro-enabled Presentation files that are created with Microsoft PowerPoint 2007 or higher versions.
-Learn more about this file format [here](https://wiki.fileformat.com/presentation/pptm).
+PowerPoint Open XML Macro-Enabled Presentation are Macro-enabled Presentation files that are created with Microsoft PowerPoint 2007 or higher versions. Learn more about this file format here.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype)
+* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype/)

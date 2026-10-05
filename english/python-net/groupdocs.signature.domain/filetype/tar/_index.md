@@ -1,19 +1,17 @@
-﻿---
-title: TAR property
+---
+title: TAR field
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Unix-based utility for collecting one or more files (.tar) is a archive that can hold one or more files or directories."
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/tar/
 is_root: false
-weight: 530
+weight: 3620
 ---
 
-## TAR property
 
+## TAR field
 
-Unix-based utility for collecting one or more files (.tar) is a archive that can hold one or more files or directories. 
-Learn more about this file format [here](https://docs.fileformat.com/compression/tar/).
+Unix-based utility for collecting one or more files (.tar) is a archive that can hold one or more files or directories. Learn more about this file format here.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype)
+* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype/)

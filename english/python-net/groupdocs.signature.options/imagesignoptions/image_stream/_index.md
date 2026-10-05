@@ -1,18 +1,18 @@
-﻿---
+---
 title: image_stream property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The signature image stream."
 type: docs
 url: /python-net/groupdocs.signature.options/imagesignoptions/image_stream/
 is_root: false
-weight: 130
+weight: 2050
 ---
+
 
 ## image_stream property
 
+The signature image stream. If specified, it is always used instead of ImageFilePath.
 
-Gets or sets the signature image stream.
-If this property is specified it is always used instead ImageFilePath.
 ### Definition:
 ```python
 @property
@@ -24,5 +24,4 @@ def image_stream(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`ImageSignOptions`](/signature/python-net/groupdocs.signature.options/imagesignoptions)
+* class [`ImageSignOptions`](/signature/python-net/groupdocs.signature.options/imagesignoptions/)

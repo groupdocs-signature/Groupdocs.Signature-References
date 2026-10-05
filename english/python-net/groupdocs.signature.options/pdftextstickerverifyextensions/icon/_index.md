@@ -1,18 +1,18 @@
-﻿---
+---
 title: icon property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The icon of the sticker to be verified."
 type: docs
 url: /python-net/groupdocs.signature.options/pdftextstickerverifyextensions/icon/
 is_root: false
-weight: 40
+weight: 2020
 ---
+
 
 ## icon property
 
+The icon of the sticker to be verified. The value will not be verified if it equals None.
 
-Icon of sticker to be verified.
-Value will not be verified if equals null.
 ### Definition:
 ```python
 @property
@@ -24,5 +24,4 @@ def icon(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`PdfTextStickerVerifyExtensions`](/signature/python-net/groupdocs.signature.options/pdftextstickerverifyextensions)
+* class [`PdfTextStickerVerifyExtensions`](/signature/python-net/groupdocs.signature.options/pdftextstickerverifyextensions/)

@@ -1,17 +1,18 @@
-﻿---
+---
 title: note property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The note (company) of the contact."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/mecard/note/
 is_root: false
-weight: 90
+weight: 2070
 ---
+
 
 ## note property
 
+The note (company) of the contact.
 
-Gets or sets Note (Company) of contact.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def note(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`MeCard`](/signature/python-net/groupdocs.signature.domain.extensions/mecard)
+* class [`MeCard`](/signature/python-net/groupdocs.signature.domain.extensions/mecard/)

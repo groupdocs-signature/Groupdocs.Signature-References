@@ -1,17 +1,18 @@
-﻿---
+---
 title: type property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The type of PDF digital signature."
 type: docs
 url: /python-net/groupdocs.signature.domain/pdfdigitalsignature/type/
 is_root: false
-weight: 260
+weight: 2060
 ---
+
 
 ## type property
 
+The type of PDF digital signature.
 
-Type of Pdf digital signature.
 ### Definition:
 ```python
 @property
@@ -23,6 +24,4 @@ def type(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`PdfDigitalSignature`](/signature/python-net/groupdocs.signature.domain/pdfdigitalsignature)
-* class [`PdfDigitalSignatureType`](/signature/python-net/groupdocs.signature.domain/pdfdigitalsignaturetype)
+* class [`PdfDigitalSignature`](/signature/python-net/groupdocs.signature.domain/pdfdigitalsignature/)

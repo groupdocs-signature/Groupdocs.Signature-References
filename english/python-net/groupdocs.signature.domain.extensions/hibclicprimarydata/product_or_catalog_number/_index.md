@@ -1,18 +1,18 @@
-﻿---
+---
 title: product_or_catalog_number property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The product or catalog number identifies the product or catalog and must be an alphanumeric string up to 18 characters long."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/hibclicprimarydata/product_or_catalog_number/
 is_root: false
-weight: 50
+weight: 2020
 ---
+
 
 ## product_or_catalog_number property
 
+The product or catalog number identifies the product or catalog and must be an alphanumeric string up to 18 characters long.
 
-Identifies product or catalog number. Product or catalog number must be alphanumeric 
-string up to 18 symbols length.
 ### Definition:
 ```python
 @property
@@ -24,5 +24,4 @@ def product_or_catalog_number(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`HIBCLICPrimaryData`](/signature/python-net/groupdocs.signature.domain.extensions/hibclicprimarydata)
+* class [`HIBCLICPrimaryData`](/signature/python-net/groupdocs.signature.domain.extensions/hibclicprimarydata/)

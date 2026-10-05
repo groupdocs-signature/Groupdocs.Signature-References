@@ -1,18 +1,20 @@
-﻿---
+---
 title: is_foreground_image property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The flag indicating whether the image in the signature appearance is drawn as a foreground image."
 type: docs
 url: /python-net/groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/is_foreground_image/
 is_root: false
-weight: 100
+weight: 2080
 ---
+
 
 ## is_foreground_image property
 
+The flag indicating whether the image in the signature appearance is drawn as a foreground image.
 
-Gets or sets a value indicating whether the image in the signature appearance is drawn as a foreground image.
-Default value: false.
+Default value: False.
+
 ### Definition:
 ```python
 @property
@@ -24,5 +26,4 @@ def is_foreground_image(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options.appearances`](../../)
-* class [`PdfDigitalSignatureAppearance`](/signature/python-net/groupdocs.signature.options.appearances/pdfdigitalsignatureappearance)
+* class [`PdfDigitalSignatureAppearance`](/signature/python-net/groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/)

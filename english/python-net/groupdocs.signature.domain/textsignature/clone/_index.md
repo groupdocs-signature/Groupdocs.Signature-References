@@ -1,33 +1,24 @@
-﻿---
+---
 title: clone method
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Clones Text Signature instance."
 type: docs
 url: /python-net/groupdocs.signature.domain/textsignature/clone/
 is_root: false
-weight: 20
+weight: 1010
 ---
 
-## clone {#}
 
-Clone Text Signature instance.
+## clone
 
-
-### Returns 
-
-
-Returns cloned Text Signature instance.
-
+Clones Text Signature instance.
 
 ```python
 def clone(self):
     ...
 ```
 
-
-
-
+**Returns:** TextSignature: Returns cloned Text Signature instance.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`TextSignature`](/signature/python-net/groupdocs.signature.domain/textsignature)
+* class [`TextSignature`](/signature/python-net/groupdocs.signature.domain/textsignature/)

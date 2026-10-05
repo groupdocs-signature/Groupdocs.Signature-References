@@ -1,19 +1,17 @@
-﻿---
-title: CODE_16K property
+---
+title: CODE_16K field
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Code16K Barcode Type object."
 type: docs
 url: /python-net/groupdocs.signature.domain/barcodetypes/code_16k/
 is_root: false
-weight: 140
+weight: 3080
 ---
 
-## CODE_16K property
 
+## CODE_16K field
 
 Code16K Barcode Type object.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`BarcodeType`](/signature/python-net/groupdocs.signature.domain/barcodetype)
-* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes)
+* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes/)

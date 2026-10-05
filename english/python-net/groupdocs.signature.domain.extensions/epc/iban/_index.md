@@ -1,17 +1,20 @@
-﻿---
+---
 title: iban property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The beneficiary's account (IBAN)."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/epc/iban/
 is_root: false
-weight: 70
+weight: 2050
 ---
+
 
 ## iban property
 
+The beneficiary's account (IBAN).
 
-Gets or sets Beneficiary's Account (IBAN). The IBAN consists of up to 34 alphanumeric characters.
+The IBAN consists of up to 34 alphanumeric characters.
+
 ### Definition:
 ```python
 @property
@@ -23,5 +26,4 @@ def iban(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`EPC`](/signature/python-net/groupdocs.signature.domain.extensions/epc)
+* class [`EPC`](/signature/python-net/groupdocs.signature.domain.extensions/epc/)

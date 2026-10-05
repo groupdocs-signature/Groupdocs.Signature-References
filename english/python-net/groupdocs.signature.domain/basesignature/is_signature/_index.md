@@ -1,18 +1,20 @@
-﻿---
+---
 title: is_signature property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The flag indicating whether this component represents a signature (True) or document content (False)."
 type: docs
 url: /python-net/groupdocs.signature.domain/basesignature/is_signature/
 is_root: false
-weight: 70
+weight: 2040
 ---
+
 
 ## is_signature property
 
+The flag indicating whether this component represents a signature (`True`) or document content (`False`).
 
-Get or set flag to indicate if this component is Signature or document content.
-This property is being used with Update method to set element as signature (true) or document element (false).
+Used with the `Update` method to set the element as a signature or as a document element.
+
 ### Definition:
 ```python
 @property
@@ -24,5 +26,4 @@ def is_signature(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature)
+* class [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)

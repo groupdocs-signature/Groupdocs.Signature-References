@@ -1,18 +1,18 @@
-﻿---
+---
 title: image_stream property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The texture image stream; if specified, it is always used instead of ImageFilePath."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/texturebrush/image_stream/
 is_root: false
-weight: 40
+weight: 2020
 ---
+
 
 ## image_stream property
 
+The texture image stream; if specified, it is always used instead of ImageFilePath.
 
-Gets or sets the texture image stream.
-If this property is specified it is always used instead ImageFilePath.
 ### Definition:
 ```python
 @property
@@ -24,5 +24,4 @@ def image_stream(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`TextureBrush`](/signature/python-net/groupdocs.signature.domain.extensions/texturebrush)
+* class [`TextureBrush`](/signature/python-net/groupdocs.signature.domain.extensions/texturebrush/)

@@ -1,17 +1,18 @@
-﻿---
+---
 title: height property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The page height."
 type: docs
 url: /python-net/groupdocs.signature.domain/pageinfo/height/
 is_root: false
-weight: 30
+weight: 2010
 ---
+
 
 ## height property
 
+The page height.
 
-Specifies page height
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def height(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`PageInfo`](/signature/python-net/groupdocs.signature.domain/pageinfo)
+* class [`PageInfo`](/signature/python-net/groupdocs.signature.domain/pageinfo/)

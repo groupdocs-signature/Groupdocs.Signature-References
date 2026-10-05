@@ -1,18 +1,18 @@
-﻿---
+---
 title: width property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The width of the signature area on a document page in measure values (pixels, percents, or millimeters)."
 type: docs
 url: /python-net/groupdocs.signature.domain/irectangle/width/
 is_root: false
-weight: 90
+weight: 2070
 ---
+
 
 ## width property
 
+The width of the signature area on a document page in measure values (pixels, percents, or millimeters). See `MeasureType` SizeMeasureType.
 
-Width of Signature area on Document Page in Measure values 
-(pixels, percents or millimeters see [`MeasureType`](/signature/python-net/groupdocs.signature.domain/measuretype) SizeMeasureType).
 ### Definition:
 ```python
 @property
@@ -24,6 +24,4 @@ def width(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`IRectangle`](/signature/python-net/groupdocs.signature.domain/irectangle)
-* class [`MeasureType`](/signature/python-net/groupdocs.signature.domain/measuretype)
+* class [`IRectangle`](/signature/python-net/groupdocs.signature.domain/irectangle/)

@@ -1,53 +1,38 @@
-﻿---
+---
 title: PngSaveOptions class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The PNG save options for image documents."
 type: docs
 url: /python-net/groupdocs.signature.options/pngsaveoptions/
 is_root: false
-weight: 300
+weight: 400
 ---
+
 
 ## PngSaveOptions class
 
-Png Save options for image documents.
-
-
-
-**Inheritance:** [`PngSaveOptions`](/signature/python-net/groupdocs.signature.options/pngsaveoptions) → 
-[`ImageSaveOptions`](/signature/python-net/groupdocs.signature.options/imagesaveoptions) → 
-[`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions)
-
-
+The PNG save options for image documents.
 
 The PngSaveOptions type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/signature/python-net/groupdocs.signature.options/pngsaveoptions/__init__/#) | Creates PngSaveOptions with default values. |
-
+| [__init__](/signature/python-net/groupdocs.signature.options/pngsaveoptions/__init__/) | Initializes PngSaveOptions with default values. |
 
 ### Properties
 | Property | Description |
 | :- | :- |
-| [overwrite_existing_files](/signature/python-net/groupdocs.signature.options/pngsaveoptions/overwrite_existing_files) | Gets or sets whether to overwrite existing file with new output file. <br/>Otherwise new file will be created with number as suffix.<br/>By default this value set to true that means file will be overwritten. |
-| [password](/signature/python-net/groupdocs.signature.options/pngsaveoptions/password) | Gets or sets password to save signed document with password protection.<br/>This property is not supported for Image documents. |
-| [use_original_password](/signature/python-net/groupdocs.signature.options/pngsaveoptions/use_original_password) | Gets or sets whether to use password from LoadOptions to save signed document as protected.<br/>Default value is true.<br/>This property is not supported for Image documents. |
-| [add_missing_extenstion](/signature/python-net/groupdocs.signature.options/pngsaveoptions/add_missing_extenstion) | Gets or sets flag to automatically add extension when it was missing in output file path<br/>Default value is false. |
-| [file_format](/signature/python-net/groupdocs.signature.options/pngsaveoptions/file_format) | Gets or sets file format of signed document. |
-| [bit_depth](/signature/python-net/groupdocs.signature.options/pngsaveoptions/bit_depth) | The bit depth. |
-| [color_type](/signature/python-net/groupdocs.signature.options/pngsaveoptions/color_type) | Gets or sets the type of the [`PngColorType`](/signature/python-net/groupdocs.signature.options/pngcolortype). |
-| [compression_level](/signature/python-net/groupdocs.signature.options/pngsaveoptions/compression_level) | The png image compression level in the 0-9 range, where 9 is maximum compression<br/>and 0 is store mode. |
-| [filter_type](/signature/python-net/groupdocs.signature.options/pngsaveoptions/filter_type) | Gets or sets the filter type [`PngFilterType`](/signature/python-net/groupdocs.signature.options/pngfiltertype) used during png file save process. |
-| [progressive](/signature/python-net/groupdocs.signature.options/pngsaveoptions/progressive) | Gets or sets a value indicating whether this PngSaveOptions is progressive. |
-
-
+| [bit_depth](/signature/python-net/groupdocs.signature.options/pngsaveoptions/bit_depth/) | The bit depth. |
+| [color_type](/signature/python-net/groupdocs.signature.options/pngsaveoptions/color_type/) | The type of the `PngColorType`. |
+| [compression_level](/signature/python-net/groupdocs.signature.options/pngsaveoptions/compression_level/) | The png image compression level in the 0-9 range, where 9 is maximum compression and 0 is store mode. |
+| [filter_type](/signature/python-net/groupdocs.signature.options/pngsaveoptions/filter_type/) | The filter type `PngFilterType` used during PNG file save process. |
+| [progressive](/signature/python-net/groupdocs.signature.options/pngsaveoptions/progressive/) | The progressive flag indicating whether the PNG is saved progressively. |
+| [add_missing_extenstion](/signature/python-net/groupdocs.signature.options/saveoptions/add_missing_extenstion/) | The flag that determines whether to automatically add an extension when it is missing in the output file path. Default value is False. (inherited from [`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions/)) |
+| [file_format](/signature/python-net/groupdocs.signature.options/imagesaveoptions/file_format/) | The file format of the signed document. (inherited from [`ImageSaveOptions`](/signature/python-net/groupdocs.signature.options/imagesaveoptions/)) |
+| [overwrite_existing_files](/signature/python-net/groupdocs.signature.options/saveoptions/overwrite_existing_files/) | The flag indicating whether to overwrite an existing file with the new output file. (inherited from [`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions/)) |
+| [password](/signature/python-net/groupdocs.signature.options/saveoptions/password/) | The password used to protect the saved signed document. Not supported for Image documents. (inherited from [`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions/)) |
+| [use_original_password](/signature/python-net/groupdocs.signature.options/saveoptions/use_original_password/) | The flag indicating whether to use the password from [`LoadOptions`](/signature/python-net/groupdocs.signature.options/loadoptions/) when saving the signed document as protected. The default value is True. Not supported for Image documents. (inherited from [`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions/)) |
 
 ### See Also
-* module [`groupdocs.signature.options`](..)
-* class [`ImageSaveOptions`](/signature/python-net/groupdocs.signature.options/imagesaveoptions)
-* class [`PngColorType`](/signature/python-net/groupdocs.signature.options/pngcolortype)
-* class [`PngFilterType`](/signature/python-net/groupdocs.signature.options/pngfiltertype)
-* class [`PngSaveOptions`](/signature/python-net/groupdocs.signature.options/pngsaveoptions)
-* class [`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions)
+* module [`groupdocs.signature.options`](/signature/python-net/groupdocs.signature.options/)

@@ -1,17 +1,18 @@
-﻿---
+---
 title: value property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The value of the form field signature to search for."
 type: docs
 url: /python-net/groupdocs.signature.options/formfieldsearchoptions/value/
 is_root: false
-weight: 100
+weight: 2030
 ---
+
 
 ## value property
 
+The value of the form field signature to search for. Default is None.
 
-Specifies value of form field signature if it should be searched. Default value is null.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def value(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`FormFieldSearchOptions`](/signature/python-net/groupdocs.signature.options/formfieldsearchoptions)
+* class [`FormFieldSearchOptions`](/signature/python-net/groupdocs.signature.options/formfieldsearchoptions/)

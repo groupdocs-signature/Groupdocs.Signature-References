@@ -1,19 +1,17 @@
-﻿---
-title: DATABAR_LIMITED property
+---
+title: DATABAR_LIMITED field
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "DatabarLimited Barcode Type object."
 type: docs
 url: /python-net/groupdocs.signature.domain/barcodetypes/databar_limited/
 is_root: false
-weight: 190
+weight: 3150
 ---
 
-## DATABAR_LIMITED property
 
+## DATABAR_LIMITED field
 
 DatabarLimited Barcode Type object.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`BarcodeType`](/signature/python-net/groupdocs.signature.domain/barcodetype)
-* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes)
+* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes/)

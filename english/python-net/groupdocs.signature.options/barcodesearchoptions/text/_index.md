@@ -1,17 +1,18 @@
-﻿---
+---
 title: text property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The text of the barcode signature to search for and match."
 type: docs
 url: /python-net/groupdocs.signature.options/barcodesearchoptions/text/
 is_root: false
-weight: 120
+weight: 2050
 ---
+
 
 ## text property
 
+The text of the barcode signature to search for and match.
 
-Specifies Barcode Signature text if it should be searched and matched.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def text(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`BarcodeSearchOptions`](/signature/python-net/groupdocs.signature.options/barcodesearchoptions)
+* class [`BarcodeSearchOptions`](/signature/python-net/groupdocs.signature.options/barcodesearchoptions/)

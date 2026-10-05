@@ -1,32 +1,27 @@
-﻿---
-title: CryptoCurrencyType enumeration
+---
+title: CryptoCurrencyType class
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "CryptoCurrencyType enum — GroupDocs.Signature for Python via .NET API reference."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/cryptocurrencytype/
 is_root: false
-weight: 350
+weight: 40
 ---
 
-## CryptoCurrencyType enumeration
 
-Represents Cryptocurrency type.
-
-
+## CryptoCurrencyType class
 
 The CryptoCurrencyType type exposes the following members:
 
 ### Fields
 | Field | Description |
 | :- | :- |
-| CUSTOM | Represents custom cryptocurrency type. |
-| BITCOIN | Represents Bitcoin cryptocurrency type. |
-| BITCOIN_CASH | Represents Bitcoin Cash cryptocurrency type. |
-| LITECOIN | Represents Litecoin cryptocurrency type. |
-| ETHEREUM | Represents Ethereum cryptocurrency type. |
-| DASH | Represents Dash cryptocurrency type. |
-
-
+| [CUSTOM](/signature/python-net/groupdocs.signature.domain.extensions/cryptocurrencytype/custom/) | Represents custom cryptocurrency type. |
+| [BITCOIN](/signature/python-net/groupdocs.signature.domain.extensions/cryptocurrencytype/bitcoin/) | Represents Bitcoin cryptocurrency type. |
+| [BITCOIN_CASH](/signature/python-net/groupdocs.signature.domain.extensions/cryptocurrencytype/bitcoin_cash/) | Represents Bitcoin Cash cryptocurrency type. |
+| [LITECOIN](/signature/python-net/groupdocs.signature.domain.extensions/cryptocurrencytype/litecoin/) | Represents Litecoin cryptocurrency type. |
+| [ETHEREUM](/signature/python-net/groupdocs.signature.domain.extensions/cryptocurrencytype/ethereum/) | Represents Ethereum cryptocurrency type. |
+| [DASH](/signature/python-net/groupdocs.signature.domain.extensions/cryptocurrencytype/dash/) | Represents Dash cryptocurrency type. |
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](..)
+* module [`groupdocs.signature.domain.extensions`](/signature/python-net/groupdocs.signature.domain.extensions/)

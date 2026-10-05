@@ -1,33 +1,24 @@
-﻿---
+---
 title: clone method
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Implements IClonable interface."
 type: docs
 url: /python-net/groupdocs.signature.domain/border/clone/
 is_root: false
-weight: 20
+weight: 1010
 ---
 
-## clone {#}
 
-Implement IClonable interface
+## clone
 
-
-### Returns 
-
-
-Newly created Border instance with same properties
-
+Implements IClonable interface.
 
 ```python
 def clone(self):
     ...
 ```
 
-
-
-
+**Returns:** Border: Newly created Border instance with same properties.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`Border`](/signature/python-net/groupdocs.signature.domain/border)
+* class [`Border`](/signature/python-net/groupdocs.signature.domain/border/)

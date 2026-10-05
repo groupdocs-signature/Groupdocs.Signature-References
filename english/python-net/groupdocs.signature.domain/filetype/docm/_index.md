@@ -1,19 +1,17 @@
-﻿---
-title: DOCM property
+---
+title: DOCM field
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Word Open XML Macro-Enabled Document (.docm) is a Microsoft Word 2007 or higher generated documents with the ability to run macros."
 type: docs
 url: /python-net/groupdocs.signature.domain/filetype/docm/
 is_root: false
-weight: 160
+weight: 3490
 ---
 
-## DOCM property
 
+## DOCM field
 
-Word Open XML Macro-Enabled Document (.docm) is a Microsoft Word 2007 or higher generated documents with the ability to run macros.
-Learn more about this file format [here](https://wiki.fileformat.com/word-processing/docm).
+Word Open XML Macro-Enabled Document (.docm) is a Microsoft Word 2007 or higher generated documents with the ability to run macros. Learn more about this file format here.
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype)
+* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype/)

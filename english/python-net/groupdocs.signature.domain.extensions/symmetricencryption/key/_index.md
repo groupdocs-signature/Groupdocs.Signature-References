@@ -1,17 +1,18 @@
-﻿---
+---
 title: key property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The key of the encryption algorithm."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/symmetricencryption/key/
 is_root: false
-weight: 60
+weight: 2020
 ---
+
 
 ## key property
 
+The key of the encryption algorithm.
 
-Gets or sets key of encryption algorithm.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def key(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`SymmetricEncryption`](/signature/python-net/groupdocs.signature.domain.extensions/symmetricencryption)
+* class [`SymmetricEncryption`](/signature/python-net/groupdocs.signature.domain.extensions/symmetricencryption/)

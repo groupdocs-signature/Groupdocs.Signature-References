@@ -1,45 +1,35 @@
-﻿---
-title: ExportImageSaveOptions constructor
+---
+title: __init__ constructor
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "Initializes a new instance of ExportAsImageSaveOptions class with default values."
 type: docs
 url: /python-net/groupdocs.signature.options/exportimagesaveoptions/__init__/
 is_root: false
 weight: 10
 ---
 
-## __init__ {#}
+
+## __init__
 
 Initializes a new instance of ExportAsImageSaveOptions class with default values.
-
-
 
 ```python
 def __init__(self):
     ...
 ```
 
+## __init__ {#file_format}
 
-
-
-## __init__ {#groupdocs.signature.domain.ImageSaveFileFormat}
-
-Initializes a new instance of ExportAsImageSaveOptions class with specified file format.
-
-
+Initializes a new instance of ExportAsImageSaveOptions with the specified file format.
 
 ```python
 def __init__(self, file_format):
     ...
 ```
 
-
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_format | groupdocs.signature.domain.ImageSaveFileFormat | Output image file format. |
-
-
+| file_format | `ImageSaveFileFormat` | Output image file format. |
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`ExportImageSaveOptions`](/signature/python-net/groupdocs.signature.options/exportimagesaveoptions)
+* class [`ExportImageSaveOptions`](/signature/python-net/groupdocs.signature.options/exportimagesaveoptions/)

@@ -1,17 +1,18 @@
-﻿---
+---
 title: background_color property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The background color of the signature."
 type: docs
 url: /python-net/groupdocs.signature.domain/stampline/background_color/
 is_root: false
-weight: 30
+weight: 2010
 ---
+
 
 ## background_color property
 
+The background color of the signature.
 
-Gets or sets the background color of signature.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def background_color(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain`](../../)
-* class [`StampLine`](/signature/python-net/groupdocs.signature.domain/stampline)
+* class [`StampLine`](/signature/python-net/groupdocs.signature.domain/stampline/)

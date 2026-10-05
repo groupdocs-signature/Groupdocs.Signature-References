@@ -1,17 +1,18 @@
-﻿---
+---
 title: location property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The location of the event."
 type: docs
 url: /python-net/groupdocs.signature.domain.extensions/event/location/
 is_root: false
-weight: 50
+weight: 2030
 ---
+
 
 ## location property
 
+The location of the event.
 
-Gets or sets event location.
 ### Definition:
 ```python
 @property
@@ -23,5 +24,4 @@ def location(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.domain.extensions`](../../)
-* class [`Event`](/signature/python-net/groupdocs.signature.domain.extensions/event)
+* class [`Event`](/signature/python-net/groupdocs.signature.domain.extensions/event/)

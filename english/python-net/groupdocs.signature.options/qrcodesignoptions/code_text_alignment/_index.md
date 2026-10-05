@@ -1,18 +1,18 @@
-﻿---
+---
 title: code_text_alignment property
 second_title: GroupDocs.Signature for Python via .NET API References
-description: 
+description: "The alignment of text in the resulting QR-code image, default value is None."
 type: docs
 url: /python-net/groupdocs.signature.options/qrcodesignoptions/code_text_alignment/
 is_root: false
-weight: 70
+weight: 2010
 ---
+
 
 ## code_text_alignment property
 
+The alignment of text in the resulting QR-code image, default value is None.
 
-Gets or sets the alignment of text in the result QR-code image.
-Default value is None.
 ### Definition:
 ```python
 @property
@@ -24,6 +24,4 @@ def code_text_alignment(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.signature.options`](../../)
-* class [`CodeTextAlignment`](/signature/python-net/groupdocs.signature.domain/codetextalignment)
-* class [`QrCodeSignOptions`](/signature/python-net/groupdocs.signature.options/qrcodesignoptions)
+* class [`QrCodeSignOptions`](/signature/python-net/groupdocs.signature.options/qrcodesignoptions/)
