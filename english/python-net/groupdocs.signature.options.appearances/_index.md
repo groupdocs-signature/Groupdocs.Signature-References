@@ -19,8 +19,4 @@ Types under `groupdocs.signature.options.appearances`.
 | [`PdfDigitalSignatureAppearance`](/signature/python-net/groupdocs.signature.options.appearances/pdfdigitalsignatureappearance/) | Describes the appearance of digital signatures on PDF documents. |
 | [`PdfTextAnnotationAppearance`](/signature/python-net/groupdocs.signature.options.appearances/pdftextannotationappearance/) | The appearance of a PDF text annotation object (Title, Subject, Content). |
 | [`PdfTextStickerAppearance`](/signature/python-net/groupdocs.signature.options.appearances/pdftextstickerappearance/) | Describes the appearance of a PDF text annotation sticker object and its pop-up window. |
-
-### Enumerations
-| Enum | Description |
-| :- | :- |
 | [`SignatureAppearance`](/signature/python-net/groupdocs.signature.options.appearances/signatureappearance/) | Represents the signature appearance - additional options for alternative implementations of sign on document page. |

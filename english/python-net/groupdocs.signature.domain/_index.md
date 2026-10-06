@@ -46,6 +46,7 @@ Types under `groupdocs.signature.domain`.
 | [`PageInfo`](/signature/python-net/groupdocs.signature.domain/pageinfo/) | Represents a document page description. |
 | [`PdfDigitalSignature`](/signature/python-net/groupdocs.signature.domain/pdfdigitalsignature/) | Represents PDF digital signature properties. |
 | [`PdfMetadataSignature`](/signature/python-net/groupdocs.signature.domain/pdfmetadatasignature/) | Represents a PDF metadata signature. |
+| [`PdfMetadataSignatures`](/signature/python-net/groupdocs.signature.domain/pdfmetadatasignatures/) | Contains standard metadata signatures for PDF document metadata signature options. |
 | [`PresentationMetadataSignature`](/signature/python-net/groupdocs.signature.domain/presentationmetadatasignature/) | Represents a Presentation metadata signature. |
 | [`ProcessLog`](/signature/python-net/groupdocs.signature.domain/processlog/) | Represents document process details. |
 | [`QrCodeSignature`](/signature/python-net/groupdocs.signature.domain/qrcodesignature/) | Represents QR-code signature properties. |
@@ -82,7 +83,6 @@ Types under `groupdocs.signature.domain`.
 | [`MetadataType`](/signature/python-net/groupdocs.signature.domain/metadatatype/) |  |
 | [`OoxmlCompliance`](/signature/python-net/groupdocs.signature.domain/ooxmlcompliance/) |  |
 | [`PdfDigitalSignatureType`](/signature/python-net/groupdocs.signature.domain/pdfdigitalsignaturetype/) |  |
-| [`PdfMetadataSignatures`](/signature/python-net/groupdocs.signature.domain/pdfmetadatasignatures/) | Contains standard metadata signatures for PDF document metadata signature options. |
 | [`PdfSaveFileFormat`](/signature/python-net/groupdocs.signature.domain/pdfsavefileformat/) |  |
 | [`PdfTextAnnotationBorderEffect`](/signature/python-net/groupdocs.signature.domain/pdftextannotationbordereffect/) |  |
 | [`PdfTextStickerIcon`](/signature/python-net/groupdocs.signature.domain/pdftextstickericon/) |  |

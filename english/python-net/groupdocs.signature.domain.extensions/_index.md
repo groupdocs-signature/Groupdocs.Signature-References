@@ -15,6 +15,7 @@ Types under `groupdocs.signature.domain.extensions`.
 | Class | Description |
 | :- | :- |
 | [`Address`](/signature/python-net/groupdocs.signature.domain.extensions/address/) | Represents address for contact. |
+| [`Brush`](/signature/python-net/groupdocs.signature.domain.extensions/brush/) | Represents base class for various brushes. |
 | [`CryptoCurrencyTransfer`](/signature/python-net/groupdocs.signature.domain.extensions/cryptocurrencytransfer/) | Represents Cryptocurrency transfer (receive or send) for QR-Code. |
 | [`DigitalVBA`](/signature/python-net/groupdocs.signature.domain.extensions/digitalvba/) | Represents digital signature for Spreadsheets VBA projects. |
 | [`EPC`](/signature/python-net/groupdocs.signature.domain.extensions/epc/) | Represents European Payments Council Quick Response Code. |
@@ -51,7 +52,6 @@ Types under `groupdocs.signature.domain.extensions`.
 ### Enumerations
 | Enum | Description |
 | :- | :- |
-| [`Brush`](/signature/python-net/groupdocs.signature.domain.extensions/brush/) | Represents base class for various brushes. |
 | [`CryptoCurrencyType`](/signature/python-net/groupdocs.signature.domain.extensions/cryptocurrencytype/) |  |
 | [`DataMatrixEncodeMode`](/signature/python-net/groupdocs.signature.domain.extensions/datamatrixencodemode/) |  |
 | [`HIBCLICDateFormat`](/signature/python-net/groupdocs.signature.domain.extensions/hibclicdateformat/) |  |

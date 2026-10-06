@@ -65,6 +65,7 @@ Option classes for configuring conversions and operations.
 | [`TextSignOptions`](/signature/python-net/groupdocs.signature.options/textsignoptions/) | Represents the Text signature options. |
 | [`TextVerifyOptions`](/signature/python-net/groupdocs.signature.options/textverifyoptions/) | Keeps options to verify document Text signature. |
 | [`TiffSaveOptions`](/signature/python-net/groupdocs.signature.options/tiffsaveoptions/) | Represents Tiff save options for image documents. |
+| [`VerifyExtensions`](/signature/python-net/groupdocs.signature.options/verifyextensions/) | Keeps additional verification options for alternative implementations of signature on a document page. |
 | [`VerifyOptions`](/signature/python-net/groupdocs.signature.options/verifyoptions/) | Keeps options to verify a document. |
 | [`WordProcessingSaveOptions`](/signature/python-net/groupdocs.signature.options/wordprocessingsaveoptions/) | Represents save options for WordProcessing documents. |
 
@@ -82,4 +83,3 @@ Option classes for configuring conversions and operations.
 | [`PreviewFormats`](/signature/python-net/groupdocs.signature.options/previewformats/) |  |
 | [`PreviewSignatureOptions_PreviewFormats`](/signature/python-net/groupdocs.signature.options/previewsignatureoptions_previewformats/) |  |
 | [`TiffFormat`](/signature/python-net/groupdocs.signature.options/tiffformat/) |  |
-| [`VerifyExtensions`](/signature/python-net/groupdocs.signature.options/verifyextensions/) | Keeps additional verification options for alternative implementations of signature on a document page. |
