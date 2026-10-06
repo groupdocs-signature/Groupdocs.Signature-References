@@ -24,5 +24,10 @@ The License type exposes the following members:
 | :- | :- |
 | [set_license](/signature/python-net/groupdocs.signature/license/set_license/#license_source) | Apply a license to the current process. |
 
+### Guides
+Task guides that use `License`:
+
+* [Quick Start Guide](/signature/python-net/guides/quick-start-guide/)
+
 ### See Also
 * module [`groupdocs.signature`](/signature/python-net/groupdocs.signature/)

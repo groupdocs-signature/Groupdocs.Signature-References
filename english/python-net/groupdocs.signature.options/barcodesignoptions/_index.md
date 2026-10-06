@@ -109,6 +109,7 @@ Task guides that use `BarcodeSignOptions`:
 
 * [eSign Document with Barcode Signature](/signature/python-net/guides/esign-document-with-barcode-signature/)
 * [eSign Document with Multiple Signatures](/signature/python-net/guides/esign-document-with-multiple-signatures/)
+* [Generate signatures preview](/signature/python-net/guides/generate-signatures-preview/)
 
 ### See Also
 * module [`groupdocs.signature.options`](/signature/python-net/groupdocs.signature.options/)

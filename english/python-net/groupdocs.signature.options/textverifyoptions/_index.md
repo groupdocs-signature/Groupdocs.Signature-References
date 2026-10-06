@@ -58,5 +58,10 @@ if __name__ == "__main__":
     verify_text_signature()
 ```
 
+### Guides
+Task guides that use `TextVerifyOptions`:
+
+* [Quick Start Guide](/signature/python-net/guides/quick-start-guide/)
+
 ### See Also
 * module [`groupdocs.signature.options`](/signature/python-net/groupdocs.signature.options/)

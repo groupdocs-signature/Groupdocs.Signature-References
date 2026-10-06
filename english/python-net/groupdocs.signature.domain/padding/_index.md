@@ -55,5 +55,14 @@ uniform = Padding(5)
 custom = Padding(right=40, bottom=60)
 ```
 
+### Guides
+Task guides that use `Padding`:
+
+* [eSign Document with Text Signature](/signature/python-net/guides/esign-document-with-text-signature/)
+* [eSign Document with Image Signature](/signature/python-net/guides/esign-document-with-image-signature/)
+* [eSign Document with Barcode Signature](/signature/python-net/guides/esign-document-with-barcode-signature/)
+* [eSign Document with QR Code Signature](/signature/python-net/guides/esign-document-with-qr-code-signature/)
+* [eSign Document with Multiple Signatures](/signature/python-net/guides/esign-document-with-multiple-signatures/)
+
 ### See Also
 * module [`groupdocs.signature.domain`](/signature/python-net/groupdocs.signature.domain/)

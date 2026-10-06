@@ -45,6 +45,8 @@ font.bold = True
 Task guides that use `SignatureFont`:
 
 * [eSign Document with Text Signature](/signature/python-net/guides/esign-document-with-text-signature/)
+* [eSign Document with Multiple Signatures](/signature/python-net/guides/esign-document-with-multiple-signatures/)
+* [Generate signatures preview](/signature/python-net/guides/generate-signatures-preview/)
 
 ### See Also
 * module [`groupdocs.signature.domain`](/signature/python-net/groupdocs.signature.domain/)

@@ -58,10 +58,5 @@ with Signature("signed.pdf") as signature:
         print(f"Text: {text_sig.text}, Position: ({text_sig.left}, {text_sig.top}), Size: {text_sig.width}x{text_sig.height}")
 ```
 
-### Guides
-Task guides that use `TextSignature`:
-
-* [eSign Document with Text Signature](/signature/python-net/guides/esign-document-with-text-signature/)
-
 ### See Also
 * module [`groupdocs.signature.domain`](/signature/python-net/groupdocs.signature.domain/)

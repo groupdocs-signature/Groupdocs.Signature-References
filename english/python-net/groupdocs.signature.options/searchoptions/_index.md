@@ -29,10 +29,5 @@ The SearchOptions type exposes the following members:
 | [shape_position](/signature/python-net/groupdocs.signature.options/searchoptions/shape_position/) | The flag indicating whether to return the shape position in the document layout. Available only for Word documents. |
 | [skip_external](/signature/python-net/groupdocs.signature.options/searchoptions/skip_external/) | The flag to return only signatures marked as `IsSignature`. By default the value is `False`, which indicates that all signatures matching the specified criteria are returned. |
 
-### Guides
-Task guides that use `SearchOptions`:
-
-* [Delete signatures of the certain type](/signature/python-net/guides/delete-signatures-of-the-certain-type/)
-
 ### See Also
 * module [`groupdocs.signature.options`](/signature/python-net/groupdocs.signature.options/)

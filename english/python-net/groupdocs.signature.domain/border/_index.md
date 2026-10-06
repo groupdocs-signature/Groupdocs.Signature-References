@@ -47,5 +47,13 @@ border.weight = 2
 border.visible = True
 ```
 
+### Guides
+Task guides that use `Border`:
+
+* [eSign Document with Text Signature](/signature/python-net/guides/esign-document-with-text-signature/)
+* [eSign Document with Image Signature](/signature/python-net/guides/esign-document-with-image-signature/)
+* [eSign Document with Barcode Signature](/signature/python-net/guides/esign-document-with-barcode-signature/)
+* [eSign Document with QR Code Signature](/signature/python-net/guides/esign-document-with-qr-code-signature/)
+
 ### See Also
 * module [`groupdocs.signature.domain`](/signature/python-net/groupdocs.signature.domain/)

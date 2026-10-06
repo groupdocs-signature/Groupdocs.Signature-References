@@ -111,6 +111,8 @@ Task guides that use `BarcodeTypes`:
 
 * [eSign Document with Barcode Signature](/signature/python-net/guides/esign-document-with-barcode-signature/)
 * [eSign Document with Multiple Signatures](/signature/python-net/guides/esign-document-with-multiple-signatures/)
+* [Search for Barcode e-Signatures](/signature/python-net/guides/search-for-barcode-e-signatures/)
+* [Generate signatures preview](/signature/python-net/guides/generate-signatures-preview/)
 
 ### See Also
 * module [`groupdocs.signature.domain`](/signature/python-net/groupdocs.signature.domain/)

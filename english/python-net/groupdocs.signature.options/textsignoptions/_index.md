@@ -84,8 +84,10 @@ def sign_pdf_with_text_signature():
 ### Guides
 Task guides that use `TextSignOptions`:
 
+* [Quick Start Guide](/signature/python-net/guides/quick-start-guide/)
 * [eSign Document with Text Signature](/signature/python-net/guides/esign-document-with-text-signature/)
 * [eSign Document with Multiple Signatures](/signature/python-net/guides/esign-document-with-multiple-signatures/)
+* [Generate signatures preview](/signature/python-net/guides/generate-signatures-preview/)
 
 ### See Also
 * module [`groupdocs.signature.options`](/signature/python-net/groupdocs.signature.options/)

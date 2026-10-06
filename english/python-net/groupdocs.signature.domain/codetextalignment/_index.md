@@ -20,5 +20,10 @@ The CodeTextAlignment type exposes the following members:
 | [ABOVE](/signature/python-net/groupdocs.signature.domain/codetextalignment/above/) | Text is above the code. |
 | [BELOW](/signature/python-net/groupdocs.signature.domain/codetextalignment/below/) | Text is below the code. |
 
+### Guides
+Task guides that use `CodeTextAlignment`:
+
+* [eSign Document with Barcode Signature](/signature/python-net/guides/esign-document-with-barcode-signature/)
+
 ### See Also
 * module [`groupdocs.signature.domain`](/signature/python-net/groupdocs.signature.domain/)

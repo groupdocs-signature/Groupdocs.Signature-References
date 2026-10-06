@@ -26,5 +26,10 @@ The SignatureType type exposes the following members:
 | [FORM_FIELD](/signature/python-net/groupdocs.signature.domain/signaturetype/form_field/) | The FormField Signature type |
 | [DIGITAL](/signature/python-net/groupdocs.signature.domain/signaturetype/digital/) | The Digital Signature type |
 
+### Guides
+Task guides that use `SignatureType`:
+
+* [Delete signatures of the certain type](/signature/python-net/guides/delete-signatures-of-the-certain-type/)
+
 ### See Also
 * module [`groupdocs.signature.domain`](/signature/python-net/groupdocs.signature.domain/)

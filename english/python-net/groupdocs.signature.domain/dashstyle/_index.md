@@ -33,5 +33,13 @@ The DashStyle type exposes the following members:
 | [DASH_LONG_DASH](/signature/python-net/groupdocs.signature.domain/dashstyle/dash_long_dash/) | Represents a long dash-short dash line. |
 | [DASH_LONG_DASH_DOT](/signature/python-net/groupdocs.signature.domain/dashstyle/dash_long_dash_dot/) | Represents a long dash-short dash-dot line. |
 
+### Guides
+Task guides that use `DashStyle`:
+
+* [eSign Document with Text Signature](/signature/python-net/guides/esign-document-with-text-signature/)
+* [eSign Document with Image Signature](/signature/python-net/guides/esign-document-with-image-signature/)
+* [eSign Document with Barcode Signature](/signature/python-net/guides/esign-document-with-barcode-signature/)
+* [eSign Document with QR Code Signature](/signature/python-net/guides/esign-document-with-qr-code-signature/)
+
 ### See Also
 * module [`groupdocs.signature.domain`](/signature/python-net/groupdocs.signature.domain/)

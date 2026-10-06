@@ -25,6 +25,7 @@ The TextMatchType type exposes the following members:
 Task guides that use `TextMatchType`:
 
 * [Search for Text e-Signatures](/signature/python-net/guides/search-for-text-e-signatures/)
+* [Search for Barcode e-Signatures](/signature/python-net/guides/search-for-barcode-e-signatures/)
 
 ### See Also
 * module [`groupdocs.signature.domain`](/signature/python-net/groupdocs.signature.domain/)

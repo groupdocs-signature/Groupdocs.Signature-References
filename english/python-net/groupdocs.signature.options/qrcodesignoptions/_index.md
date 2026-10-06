@@ -115,6 +115,7 @@ Task guides that use `QrCodeSignOptions`:
 
 * [eSign Document with QR Code Signature](/signature/python-net/guides/esign-document-with-qr-code-signature/)
 * [eSign Document with Multiple Signatures](/signature/python-net/guides/esign-document-with-multiple-signatures/)
+* [Generate signatures preview](/signature/python-net/guides/generate-signatures-preview/)
 
 ### See Also
 * module [`groupdocs.signature.options`](/signature/python-net/groupdocs.signature.options/)

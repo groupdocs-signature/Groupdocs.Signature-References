@@ -48,5 +48,10 @@ with Signature("sample.pdf") as signature:
     signature.generate_preview(preview_options)
 ```
 
+### Guides
+Task guides that use `PreviewOptions`:
+
+* [Generate document pages preview](/signature/python-net/guides/generate-document-pages-preview/)
+
 ### See Also
 * module [`groupdocs.signature.options`](/signature/python-net/groupdocs.signature.options/)

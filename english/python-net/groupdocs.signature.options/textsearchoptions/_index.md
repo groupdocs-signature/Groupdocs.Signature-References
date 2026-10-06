@@ -61,6 +61,7 @@ with Signature("signed.pdf") as signature:
 ### Guides
 Task guides that use `TextSearchOptions`:
 
+* [Quick Start Guide](/signature/python-net/guides/quick-start-guide/)
 * [Search for Text e-Signatures](/signature/python-net/guides/search-for-text-e-signatures/)
 
 ### See Also

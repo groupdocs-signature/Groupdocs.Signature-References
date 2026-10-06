@@ -47,10 +47,5 @@ The BarcodeSignature type exposes the following members:
 | [top](/signature/python-net/groupdocs.signature.domain/basesignature/top/) | The top position of the signature. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
 | [width](/signature/python-net/groupdocs.signature.domain/basesignature/width/) | The width of the signature. (inherited from [`BaseSignature`](/signature/python-net/groupdocs.signature.domain/basesignature/)) |
 
-### Guides
-Task guides that use `BarcodeSignature`:
-
-* [Search for Barcode e-Signatures](/signature/python-net/guides/search-for-barcode-e-signatures/)
-
 ### See Also
 * module [`groupdocs.signature.domain`](/signature/python-net/groupdocs.signature.domain/)

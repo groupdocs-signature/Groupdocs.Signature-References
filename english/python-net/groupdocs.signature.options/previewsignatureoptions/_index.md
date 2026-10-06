@@ -54,5 +54,10 @@ def generate_signature_preview_to_memory():
     print(f"QR code preview: {len(data)} bytes, PNG image: {data.startswith(b'\\x89PNG')}")
 ```
 
+### Guides
+Task guides that use `PreviewSignatureOptions`:
+
+* [Generate signatures preview](/signature/python-net/guides/generate-signatures-preview/)
+
 ### See Also
 * module [`groupdocs.signature.options`](/signature/python-net/groupdocs.signature.options/)
