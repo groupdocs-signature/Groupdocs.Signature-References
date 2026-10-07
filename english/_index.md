@@ -12,8 +12,8 @@ lead: "Sign and verify with digital, barcode, QR-code, text, image, and stamp si
 
 platforms:
   - name: ".NET"
-    version: "26.2.0"
-    versionUrl: "https://www.nuget.org/packages/groupdocs.signature/26.2.0"
+    version: "26.9.0"
+    versionUrl: "https://www.nuget.org/packages/groupdocs.signature/26.9.0"
     key: net
     ref: "/net/"
     install: "dotnet add package GroupDocs.Signature"
@@ -29,8 +29,8 @@ platforms:
     key: nodejs
     ref: "/nodejs-java/"
   - name: "Python via .NET"
-    version: "26.1.0"
-    versionUrl: "https://pypi.org/project/groupdocs-signature-net/26.1/"
+    version: "26.10.0"
+    versionUrl: "https://pypi.org/project/groupdocs-signature-net/26.10.0/"
     key: python
     ref: "/python-net/"
     install: "pip install groupdocs-signature-net"
