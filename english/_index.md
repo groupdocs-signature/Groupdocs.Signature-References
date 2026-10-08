@@ -2,7 +2,7 @@
 title: "GroupDocs.Signature"
 linktitle: "GroupDocs.Signature"
 description: "GroupDocs.Signature API reference for .NET, Java, Node.js, and Python — Sign and verify with digital, barcode, QR-code, text, image, and stamp signatures."
-keywords: "GroupDocs.Signature, signature API, API reference, .NET, Java, Python, document processing"
+keywords: "GroupDocs.Signature, signature API, API reference, .NET, Java, Node.js, Python, document processing"
 additionalTitle: "GroupDocs API References"
 type: docs
 layout: family
@@ -36,8 +36,8 @@ platforms:
     install: "pip install groupdocs-signature-net"
 
 formats: ["PDF", "Word", "Excel", "PowerPoint", "Images"]
-formatsCount: "60+"
-formatsNote: "…and 50+ more document and image formats."
+formatsCount: "40+"
+formatsNote: "...plus OpenDocument, Photoshop, CorelDraw and more image formats."
 
 capabilities:
   - "Digital, barcode & QR-code signatures"
