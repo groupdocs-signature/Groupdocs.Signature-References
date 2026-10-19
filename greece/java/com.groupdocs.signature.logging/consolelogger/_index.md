@@ -1,0 +1,95 @@
+---
+title: "ConsoleLogger"
+second_title: "Αναφορά API του GroupDocs.Signature για Java"
+description: "Γράφει μηνύματα καταγραφής στο αρχείο."
+type: docs
+weight: 10
+url: /el/java/com.groupdocs.signature.logging/consolelogger/
+---
+**Inheritance:**
+java.lang.Object
+
+**All Implemented Interfaces:**
+[com.groupdocs.signature.logging.ILogger](../../com.groupdocs.signature.logging/ilogger)
+```
+public class ConsoleLogger implements ILogger
+```
+
+Γράφει μηνύματα καταγραφής στο αρχείο.
+
+## Κατασκευαστές
+
+| Κατασκευαστής | Περιγραφή |
+| --- | --- |
+|  | [ConsoleLogger()](#ConsoleLogger--) | Δημιουργήστε καταγραφέα στην κονσόλα. |
+|
+## Μέθοδοι
+
+| Μέθοδος | Περιγραφή |
+| --- | --- |
+|  | [error(String message, Exception exception)](#error-java.lang.String-java.lang.Exception-) | Γράφει ένα μήνυμα σφάλματος στην κονσόλα. |
+|
+|  | [trace(String message)](#trace-java.lang.String-) | Γράφει μήνυμα εντοπισμού στην κονσόλα. |
+|
+|  | [warning(String message)](#warning-java.lang.String-) | Γράφει μήνυμα προειδοποίησης στην κονσόλα; |
+Τα μηνύματα καταγραφής προειδοποίησης παρέχουν πληροφορίες για το απρόσμενο και ανακτήσιμο γεγονός στη ροή της εφαρμογής.
+|
+### ConsoleLogger() {#ConsoleLogger--}
+```
+public ConsoleLogger()
+```
+
+
+Δημιουργήστε καταγραφέα στην κονσόλα.
+
+
+### error(String message, Exception exception) {#error-java.lang.String-java.lang.Exception-}
+```
+public final void error(String message, Exception exception)
+```
+
+
+Γράφει ένα μήνυμα σφάλματος στην κονσόλα.
+Τα μηνύματα καταγραφής σφάλματος παρέχουν πληροφορίες για μη ανακτήσιμα γεγονότα στη ροή της εφαρμογής.
+
+
+**Parameters:**
+| Παράμετρος | Τύπος | Περιγραφή |
+| --- | --- | --- |
+|  | message | java.lang.String | Το μήνυμα σφάλματος. |
+|
+|  | exception | java.lang.Exception | Η εξαίρεση. |
+|
+
+### trace(String message) {#trace-java.lang.String-}
+```
+public final void trace(String message)
+```
+
+
+Γράφει μήνυμα εντοπισμού στην κονσόλα.
+Τα μηνύματα καταγραφής εντοπισμού παρέχουν γενικά χρήσιμες πληροφορίες για τη ροή της εφαρμογής.
+
+
+**Parameters:**
+| Παράμετρος | Τύπος | Περιγραφή |
+| --- | --- | --- |
+|  | message | java.lang.String | Το μήνυμα εντοπισμού. |
+|
+
+### warning(String message) {#warning-java.lang.String-}
+```
+public final void warning(String message)
+```
+
+
+Γράφει μήνυμα προειδοποίησης στην κονσόλα;
+Τα μηνύματα καταγραφής προειδοποίησης παρέχουν πληροφορίες για το απρόσμενο και ανακτήσιμο γεγονός στη ροή της εφαρμογής.
+
+
+**Parameters:**
+| Παράμετρος | Τύπος | Περιγραφή |
+| --- | --- | --- |
+|  | message | java.lang.String | Το μήνυμα προειδοποίησης. |
+|
+
