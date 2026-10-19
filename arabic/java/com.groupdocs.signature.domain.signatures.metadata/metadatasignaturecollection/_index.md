@@ -1,0 +1,206 @@
+---
+title: "MetadataSignatureCollection"
+second_title: "مرجع API لـ GroupDocs.Signature للغة Java"
+description: "مجموعة من كائنات توقيع بيانات التعريف."
+type: docs
+weight: 13
+url: /ar/java/com.groupdocs.signature.domain.signatures.metadata/metadatasignaturecollection/
+---
+**Inheritance:**
+java.lang.Object
+
+**All Implemented Interfaces:**
+java.lang.Iterable
+```
+public class MetadataSignatureCollection implements Iterable<MetadataSignature>
+```
+
+مجموعة من كائنات توقيع بيانات التعريف.
+
+## البناؤون
+
+| منشئ | الوصف |
+| --- | --- |
+|  | [MetadataSignatureCollection()](#MetadataSignatureCollection--) | ينشئ مجموعة من Metadata signature. |
+|
+## الطرق
+
+| طريقة | الوصف |
+| --- | --- |
+|  | [getCount()](#getCount--) | يحصل على عدد العناصر في المجموعة. |
+|
+|  | [clear()](#clear--) | يزيل جميع العناصر من المجموعة. |
+|
+|  | [contains(String name)](#contains-java.lang.String-) | يُرجِع true إذا كان هناك Metadata بالاسم المحدد موجودًا في المجموعة. |
+|
+|  | [indexOf(String name)](#indexOf-java.lang.String-) | يحصل على فهرس الخاصية بالاسم. |
+|
+|  | [remove(String name)](#remove-java.lang.String-) | يزيل Metadata Signature بالاسم المحدد من المجموعة. |
+|
+|  | [removeAt(int index)](#removeAt-int-) | يزيل Metadata Signature في الفهرس المحدد. |
+|
+|  | [add(MetadataSignature signature)](#add-com.groupdocs.signature.domain.signatures.metadata.MetadataSignature-) | أضف كائن Metadata Signature إلى المجموعة. |
+|
+|  | [addRange(MetadataSignature[] signatures)](#addRange-com.groupdocs.signature.domain.signatures.metadata.MetadataSignature---) | أضف مجموعة Metadata Signature. |
+|
+|  | [deepClone()](#deepClone--) | استنساخ فئة Metadata Signature Collection مع عناصر Metadata Signature. |
+|
+### MetadataSignatureCollection() {#MetadataSignatureCollection--}
+```
+public MetadataSignatureCollection()
+```
+
+
+ينشئ مجموعة من Metadata signature.
+
+
+### getCount() {#getCount--}
+```
+public final int getCount()
+```
+
+
+يحصل على عدد العناصر في المجموعة.
+
+
+**Returns:**
+int
+### clear() {#clear--}
+```
+public final void clear()
+```
+
+
+يزيل جميع العناصر من المجموعة.
+
+
+### contains(String name) {#contains-java.lang.String-}
+```
+public final boolean contains(String name)
+```
+
+
+يُرجِع true إذا كان هناك Metadata بالاسم المحدد موجودًا في المجموعة.
+
+
+**Parameters:**
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+|  | الاسم | java.lang.String | الاسم غير حساس لحالة الأحرف للخاصية. |
+|
+
+**Returns:**
+boolean - True إذا كان Metadata موجودًا في المجموعة؛ false خلاف ذلك.
+
+### indexOf(String name) {#indexOf-java.lang.String-}
+```
+public final int indexOf(String name)
+```
+
+
+يحصل على فهرس الخاصية بالاسم.
+
+
+**Parameters:**
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+|  | الاسم | java.lang.String | الاسم غير حساس لحالة الأحرف لـ MetadataSignature. |
+|
+
+**Returns:**
+int - الفهرس المستند إلى الصفر. قيمة سلبية إذا لم يُعثر عليه.
+
+### remove(String name) {#remove-java.lang.String-}
+```
+public final boolean remove(String name)
+```
+
+
+يزيل Metadata Signature بالاسم المحدد من المجموعة.
+
+
+**Parameters:**
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+|  | الاسم | java.lang.String | الاسم غير حساس لحالة الأحرف لـ Metadata Signature. |
+|
+
+**Returns:**
+boolean -
+### removeAt(int index) {#removeAt-int-}
+```
+public final boolean removeAt(int index)
+```
+
+
+يزيل Metadata Signature في الفهرس المحدد.
+
+
+**Parameters:**
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+|  | فهرس | int | الفهرس المستند إلى الصفر. |
+|
+
+**Returns:**
+boolean
+### add(MetadataSignature signature) {#add-com.groupdocs.signature.domain.signatures.metadata.MetadataSignature-}
+```
+public final void add(MetadataSignature signature)
+```
+
+
+أضف كائن Metadata Signature إلى المجموعة.
+
+
+**Parameters:**
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+|  | signature | [MetadataSignature](../../com.groupdocs.signature.domain.signatures.metadata/metadatasignature) | Metadata signature ليُضاف إلى المجموعة. |
+
+<br />
+
+*** ** * ** ***
+
+يرمي استثناءً إذا لم تكن قيمة الاسم فريدة في المجموعة الحالية بأكملها.
+
+<br />
+
+|
+
+### addRange(MetadataSignature[] signatures) {#addRange-com.groupdocs.signature.domain.signatures.metadata.MetadataSignature---}
+```
+public final void addRange(MetadataSignature[] signatures)
+```
+
+
+أضف مجموعة Metadata Signature.
+
+
+**Parameters:**
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+|  | signatures | [MetadataSignature\[\]](../../com.groupdocs.signature.domain.signatures.metadata/metadatasignature) | مجموعة من التواقيع للإضافة. |
+
+<br />
+
+*** ** * ** ***
+
+يرمي استثناءً إذا لم تكن قيمة الاسم فريدة في المجموعة الحالية بأكملها.
+
+<br />
+
+|
+
+### deepClone() {#deepClone--}
+```
+public final Object deepClone()
+```
+
+
+استنساخ فئة Metadata Signature Collection مع عناصر Metadata Signature.
+
+
+**Returns:**
+java.lang.Object - يُرجِع نسخة منقولة مع عناصر Signature المستنسخة
+

@@ -1,0 +1,214 @@
+---
+title: "حدث"
+second_title: "مرجع API لـ GroupDocs.Signature للغة Java"
+description: "يمثل تفاصيل حدث QR-Code القياسية."
+type: docs
+weight: 16
+url: /ar/java/com.groupdocs.signature.domain.extensions.serialization/event/
+---
+**Inheritance:**
+java.lang.Object
+```
+public final class Event
+```
+
+يمثل تفاصيل حدث QR-Code القياسية.
+
+## البناؤون
+
+| منشئ | الوصف |
+| --- | --- |
+|  | [Event()](#Event--) | ينشئ كائن Event بقيم افتراضية. |
+|
+## الطرق
+
+| طريقة | الوصف |
+| --- | --- |
+|  | [getTitle()](#getTitle--) | يحصل أو يعيّن عنوان الحدث. |
+|
+|  | [setTitle(String value)](#setTitle-java.lang.String-) | يحصل أو يعيّن عنوان الحدث. |
+|
+|  | [getDescription()](#getDescription--) | يحصل أو يعيّن الوصف. |
+|
+|  | [setDescription(String value)](#setDescription-java.lang.String-) | يحصل أو يعيّن الوصف. |
+|
+|  | [getLocation()](#getLocation--) | يحصل أو يعيّن موقع الحدث. |
+|
+|  | [setLocation(String value)](#setLocation-java.lang.String-) | يحصل أو يعيّن موقع الحدث. |
+|
+|  | [getStartDate()](#getStartDate--) | يحصل أو يعيّن تاريخ ووقت بدء الحدث. |
+|
+|  | [setStartDate(Date value)](#setStartDate-java.util.Date-) | يحصل أو يعيّن تاريخ ووقت بدء الحدث. |
+|
+|  | [getEndDate()](#getEndDate--) | يحصل أو يعيّن تاريخ ووقت انتهاء الحدث. |
+|
+|  | [setEndDate(Date value)](#setEndDate-java.util.Date-) | يحصل أو يعيّن تاريخ ووقت انتهاء الحدث. |
+|
+|  | [equals(Object source)](#equals-java.lang.Object-) | يعيد كتابة طريقة Equals لمقارنة خصائص Event |
+|
+|  | [hashCode()](#hashCode--) | يستبدل طريقة GetHashCode |
+|
+### Event() {#Event--}
+```
+public Event()
+```
+
+
+ينشئ كائن Event بقيم افتراضية.
+
+
+### getTitle() {#getTitle--}
+```
+public final String getTitle()
+```
+
+
+يحصل أو يعيّن عنوان الحدث.
+
+
+**Returns:**
+java.lang.String
+### setTitle(String value) {#setTitle-java.lang.String-}
+```
+public final void setTitle(String value)
+```
+
+
+يحصل أو يعيّن عنوان الحدث.
+
+
+**Parameters:**
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| قيمة | java.lang.String |  |
+
+### getDescription() {#getDescription--}
+```
+public final String getDescription()
+```
+
+
+يحصل أو يعيّن الوصف.
+
+
+**Returns:**
+java.lang.String
+### setDescription(String value) {#setDescription-java.lang.String-}
+```
+public final void setDescription(String value)
+```
+
+
+يحصل أو يعيّن الوصف.
+
+
+**Parameters:**
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| قيمة | java.lang.String |  |
+
+### getLocation() {#getLocation--}
+```
+public final String getLocation()
+```
+
+
+يحصل أو يعيّن موقع الحدث.
+
+
+**Returns:**
+java.lang.String
+### setLocation(String value) {#setLocation-java.lang.String-}
+```
+public final void setLocation(String value)
+```
+
+
+يحصل أو يعيّن موقع الحدث.
+
+
+**Parameters:**
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| قيمة | java.lang.String |  |
+
+### getStartDate() {#getStartDate--}
+```
+public final Date getStartDate()
+```
+
+
+يحصل أو يعيّن تاريخ ووقت بدء الحدث.
+
+
+**Returns:**
+java.util.Date
+### setStartDate(Date value) {#setStartDate-java.util.Date-}
+```
+public final void setStartDate(Date value)
+```
+
+
+يحصل أو يعيّن تاريخ ووقت بدء الحدث.
+
+
+**Parameters:**
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| قيمة | java.util.Date |  |
+
+### getEndDate() {#getEndDate--}
+```
+public final Date getEndDate()
+```
+
+
+يحصل أو يعيّن تاريخ ووقت انتهاء الحدث.
+
+
+**Returns:**
+java.util.Date
+### setEndDate(Date value) {#setEndDate-java.util.Date-}
+```
+public final void setEndDate(Date value)
+```
+
+
+يحصل أو يعيّن تاريخ ووقت انتهاء الحدث.
+
+
+**Parameters:**
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| قيمة | java.util.Date |  |
+
+### equals(Object source) {#equals-java.lang.Object-}
+```
+public boolean equals(Object source)
+```
+
+
+يعيد كتابة طريقة Equals لمقارنة خصائص Event
+
+
+**Parameters:**
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+|  | المصدر | java.lang.Object | كائن Event للمقارنة معه. |
+|
+
+**Returns:**
+boolean - يرجع true إذا كان كائن Event الممرّر من نفس النوع وجميع خصائصه مساوية لخصائص هذه العينة.
+
+### hashCode() {#hashCode--}
+```
+public int hashCode()
+```
+
+
+يستبدل طريقة GetHashCode
+
+
+**Returns:**
+int - رمز التجزئة للحدث
+
