@@ -1,0 +1,106 @@
+---
+title: "PreviewSignatureFormats"
+second_title: "GroupDocs.Signature för Java API-referens"
+description: 
+type: docs
+weight: 11
+url: /sv/java/com.groupdocs.signature.options/previewsignatureformats/
+---
+**Inheritance:**
+java.lang.Object
+```
+public class PreviewSignatureFormats
+```
+## Konstruktörer
+
+| Konstruktör | Beskrivning |
+| --- | --- |
+| [PreviewSignatureFormats()](#PreviewSignatureFormats--) |  |
+## Fält
+
+| Fält | Beskrivning |
+| --- | --- |
+|  | [PNG](#PNG) | PNG |
+|
+|  | [JPEG](#JPEG) | JPEG |
+|
+|  | [BMP](#BMP) | BMP |
+|
+|  | [GIF](#GIF) | GIF |
+|
+|  | [SVG](#SVG) | SVG |
+|
+## Metoder
+
+| Metod | Beskrivning |
+| --- | --- |
+|  | [toExtension(int id)](#toExtension-int-) | Till filändelsestring. |
+|
+### PreviewSignatureFormats() {#PreviewSignatureFormats--}
+```
+public PreviewSignatureFormats()
+```
+
+
+### PNG {#PNG}
+```
+public static final int PNG
+```
+
+
+PNG
+
+
+### JPEG {#JPEG}
+```
+public static final int JPEG
+```
+
+
+JPEG
+
+
+### BMP {#BMP}
+```
+public static final int BMP
+```
+
+
+BMP
+
+
+### GIF {#GIF}
+```
+public static final int GIF
+```
+
+
+GIF
+
+
+### SVG {#SVG}
+```
+public static final int SVG
+```
+
+
+SVG
+
+
+### toExtension(int id) {#toExtension-int-}
+```
+public static String toExtension(int id)
+```
+
+
+Till filändelsestring.
+
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| id | int |  |
+
+**Returns:**
+java.lang.String - strängen
+
