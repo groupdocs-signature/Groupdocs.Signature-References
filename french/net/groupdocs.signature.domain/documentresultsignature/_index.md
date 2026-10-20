@@ -1,0 +1,62 @@
+---
+title: "DocumentResultSignature"
+second_title: "Référence API de GroupDocs.Signature pour .NET"
+description: "Résultat du traitement du processus de signature du document d'archive pour le document avec des signatures nouvellement créées."
+type: docs
+weight: 170
+url: /fr/net/groupdocs.signature.domain/documentresultsignature/
+---
+## DocumentResultSignature class
+
+Résultat du traitement du processus de signature du document d'archive pour le document avec des signatures nouvellement créées.
+
+```csharp
+public class DocumentResultSignature : BaseSignature, IResult
+```
+
+## Propriétés
+
+| Nom | Description |
+| --- | --- |
+| [CreatedOn](../../groupdocs.signature.domain/basesignature/createdon) { get; set; } | Obtient ou définit la date de création de la signature. |
+| [Deleted](../../groupdocs.signature.domain/basesignature/deleted) { get; } | Obtient le drapeau indiquant si cette signature a été supprimée du document. Cette propriété n'est utilisée que pour les enregistrements du journal d'historique du document afin de conserver la liste des signatures supprimées. |
+| [DestinDocumentSize](../../groupdocs.signature.domain/documentresultsignature/destindocumentsize) { get; } | Renvoie la taille du document de destination |
+| [ErrorMessage](../../groupdocs.signature.domain/documentresultsignature/errormessage) { get; } | si le document a été traité avec une erreur, cette propriété contiendra le message d'erreur |
+| [Failed](../../groupdocs.signature.domain/documentresultsignature/failed) { get; } | Liste des signatures qui ont échoué pendant le processus [`BaseSignature`](../basesignature). |
+| [FileName](../../groupdocs.signature.domain/documentresultsignature/filename) { get; } | Nom de fichier du document |
+| [Height](../../groupdocs.signature.domain/basesignature/height) { get; set; } | Spécifie la hauteur de la signature. |
+| [IsSignature](../../groupdocs.signature.domain/basesignature/issignature) { get; set; } | Obtient ou définit le drapeau indiquant si ce composant est une Signature ou du contenu de document. Cette propriété est utilisée avec la méthode Update pour définir l'élément comme signature (true) ou élément de document (false). |
+| [Left](../../groupdocs.signature.domain/basesignature/left) { get; set; } | Spécifie la position gauche de la signature. |
+| [ModifiedOn](../../groupdocs.signature.domain/basesignature/modifiedon) { get; set; } | Obtient ou définit la date de modification de la signature. |
+| [PageNumber](../../groupdocs.signature.domain/basesignature/pagenumber) { get; } | Spécifie la page sur laquelle la signature a été trouvée. |
+| [ProcessingTime](../../groupdocs.signature.domain/documentresultsignature/processingtime) { get; } | Renvoie le temps d'exécution du processus en millisecondes |
+| [SignatureId](../../groupdocs.signature.domain/basesignature/signatureid) { get; } | Identifiant unique de la signature pour modifier la signature dans le document via les méthodes Update ou Delete. Cette propriété sera définie automatiquement après l'appel des méthodes Sign ou Search. Si cette propriété a été enregistrée auparavant, elle peut être définie manuellement pour manipuler la signature. |
+| [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | Spécifie le type de signature. |
+| [SourceDocumentSize](../../groupdocs.signature.domain/documentresultsignature/sourcedocumentsize) { get; } | Renvoie la taille du document source |
+| [Succeeded](../../groupdocs.signature.domain/documentresultsignature/succeeded) { get; } | Liste des signatures traitées avec succès [`BaseSignature`](../basesignature). |
+| [Top](../../groupdocs.signature.domain/basesignature/top) { get; set; } | Spécifie la position supérieure de la signature. |
+| [TotalSignatures](../../groupdocs.signature.domain/documentresultsignature/totalsignatures) { get; } | Renvoie le nombre total de signatures traitées |
+| [Width](../../groupdocs.signature.domain/basesignature/width) { get; set; } | Spécifie la largeur de la signature. |
+
+## Méthodes
+
+| Nom | Description |
+| --- | --- |
+| virtual [Clone](../../groupdocs.signature.domain/basesignature/clone)() | Cloner l'instance de signature. |
+| override [Equals](../../groupdocs.signature.domain/basesignature/equals)(object) | Écrase la méthode Equals pour comparer les propriétés de la signature |
+| override [GetHashCode](../../groupdocs.signature.domain/basesignature/gethashcode)() | Remplace la méthode GetHashCode |
+
+### Remarques
+
+**Learn more**
+
+* More about signing documents withing archives using GroupDocs.Signature: [How to sign documents withing archives using C#](https://docs.groupdocs.com/signature/net/signing-archive-documents/)
+
+### Voir aussi
+
+* class [BaseSignature](../basesignature)
+* interface [IResult](../iresult)
+* namespace [GroupDocs.Signature.Domain](../../groupdocs.signature.domain)
+* assembly [GroupDocs.Signature](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.signature.dll -->
