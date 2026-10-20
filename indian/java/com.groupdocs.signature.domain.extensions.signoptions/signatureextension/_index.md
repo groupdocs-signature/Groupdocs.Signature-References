@@ -1,0 +1,58 @@
+---
+title: "SignatureExtension"
+second_title: "GroupDocs.Signature for Java API संदर्भ"
+description: "हस्ताक्षर एक्सटेंशन के लिए बेस क्लास का प्रतिनिधित्व करता है।"
+type: docs
+weight: 11
+url: /hi/java/com.groupdocs.signature.domain.extensions.signoptions/signatureextension/
+---
+**Inheritance:**
+java.lang.Object
+
+**All Implemented Interfaces:**
+java.lang.Cloneable
+```
+public abstract class SignatureExtension implements Cloneable
+```
+
+हस्ताक्षर एक्सटेंशन के लिए बेस क्लास का प्रतिनिधित्व करता है।
+
+## कंस्ट्रक्टर्स
+
+| कंस्ट्रक्टर | विवरण |
+| --- | --- |
+| [SignatureExtension()](#SignatureExtension--) |  |
+## मेथड्स
+
+| मेथड | विवरण |
+| --- | --- |
+|  | [deepClone()](#deepClone--) | इस वस्तु की एक प्रति प्राप्त करता है। |
+|
+|  | [release()](#release--) | संसाधनों को मुक्त किया जा रहा है। |
+|
+### SignatureExtension() {#SignatureExtension--}
+```
+public SignatureExtension()
+```
+
+
+### deepClone() {#deepClone--}
+```
+public Object deepClone()
+```
+
+
+इस वस्तु की एक प्रति प्राप्त करता है।
+
+
+**Returns:**
+java.lang.Object
+### release() {#release--}
+```
+public void release()
+```
+
+
+संसाधनों को मुक्त किया जा रहा है।
+
+
