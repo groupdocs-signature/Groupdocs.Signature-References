@@ -1,0 +1,82 @@
+---
+title: "ImageSignOptions"
+second_title: "GroupDocs.Signature لـ .NET مرجع API"
+description: "يمثل خيارات توقيع الصورة."
+type: docs
+weight: 1670
+url: /ar/net/groupdocs.signature.options/imagesignoptions/
+---
+## ImageSignOptions class
+
+يمثل خيارات توقيع الصورة.
+
+```csharp
+public class ImageSignOptions : SignOptions, IAlignment, IDisposable, IRectangle, IRotation, 
+    ITransparency
+```
+
+## المُنشئات
+
+| الاسم | الوصف |
+| --- | --- |
+| [ImageSignOptions](imagesignoptions#constructor)() | يُهيئ نسخة جديدة من فئة ImageSignOptions بالقيم الافتراضية. |
+| [ImageSignOptions](imagesignoptions#constructor_1)(Stream) | يُهيئ نسخة جديدة من فئة ImageSignOptions باستخدام تدفق الصورة. |
+| [ImageSignOptions](imagesignoptions#constructor_2)(string) | يُهيئ نسخة جديدة من فئة ImageSignOptions باستخدام ملف الصورة. |
+
+## الخصائص
+
+| الاسم | الوصف |
+| --- | --- |
+| virtual [AllPages](../../groupdocs.signature.options/signoptions/allpages) { get; set; } | ضع التوقيع على جميع صفحات المستند. |
+| [Appearance](../../groupdocs.signature.options/signoptions/appearance) { get; set; } | مظهر توقيع إضافي. |
+| [Border](../../groupdocs.signature.options/imagesignoptions/border) { get; set; } | حدد إعدادات الحدود |
+| [DocumentType](../../groupdocs.signature.options/signoptions/documenttype) { get; set; } | احصل أو عيّن نوع المستند لخيارات التوقيع [`DocumentType`](../../groupdocs.signature.domain/documenttype) |
+| [Extensions](../../groupdocs.signature.options/signoptions/extensions) { get; } | ملحقات التوقيع. |
+| [HashAlgorithm](../../groupdocs.signature.options/signoptions/hashalgorithm) { get; set; } | يحصل أو يعيّن خوارزمية التجزئة التي ستُستخدم للعمليات التشفيرية. مدعومة حصريًا للتوقيعات الرقمية في ملفات PDF. |
+| [Height](../../groupdocs.signature.options/imagesignoptions/height) { get; set; } | ارتفاع التوقيع على صفحة المستند بوحدات القياس (بكسل، نسب مئوية أو مليمترات؛ راجع [`MeasureType`](../../groupdocs.signature.domain/measuretype) SizeMeasureType). |
+| [HorizontalAlignment](../../groupdocs.signature.options/imagesignoptions/horizontalalignment) { get; set; } | محاذاة أفقية للتوقيع على صفحة المستند. |
+| [ImageFilePath](../../groupdocs.signature.options/imagesignoptions/imagefilepath) { get; set; } | يحصل أو يعيّن مسار ملف صورة التوقيع. تُستخدم هذه الخاصية فقط إذا لم يتم تحديد ImageStream. |
+| [ImageStream](../../groupdocs.signature.options/imagesignoptions/imagestream) { get; set; } | يحصل أو يعيّن تدفق صورة التوقيع. إذا تم تحديد هذه الخاصية فستُستَخدم دائمًا بدلاً من ImageFilePath. |
+| virtual [Left](../../groupdocs.signature.options/imagesignoptions/left) { get; set; } | الموضع X الأيسر للتوقيع على صفحة المستند بقيم قياس (بكسل، نسب مئوية أو مليمترات انظر [`MeasureType`](../../groupdocs.signature.domain/measuretype) LocationMeasureType). (يعمل إذا لم يتم تحديد المحاذاة الأفقية). |
+| virtual [LocationMeasureType](../../groupdocs.signature.options/imagesignoptions/locationmeasuretype) { get; set; } | نوع القياس (بكسل، نسب مئوية أو مليمترات) للخصائص Left و Top. |
+| virtual [Margin](../../groupdocs.signature.options/imagesignoptions/margin) { get; set; } | يحصل أو يعيّن المسافة بين التوقيع وحواف المستند. (يعمل فقط إذا تم تحديد المحاذاة الأفقية أو العمودية). |
+| virtual [MarginMeasureType](../../groupdocs.signature.options/imagesignoptions/marginmeasuretype) { get; set; } | يحصل أو يعيّن نوع القياس (بكسل، نسب مئوية أو مليمترات) للهوامش. |
+| virtual [PageNumber](../../groupdocs.signature.options/signoptions/pagenumber) { get; set; } | يحصل أو يعيّن رقم صفحة المستند للتوقيع. الحد الأدنى والقيمة الافتراضية هي 1. |
+| virtual [PagesSetup](../../groupdocs.signature.options/signoptions/pagessetup) { get; set; } | خيارات لتحديد الصفحات التي سيتم توقيعها. |
+| [Rectangle](../../groupdocs.signature.options/imagesignoptions/rectangle) { get; } | مستطيل المنطقة لوضع الصورة على المستند. |
+| [RotationAngle](../../groupdocs.signature.options/imagesignoptions/rotationangle) { get; set; } | زاوية دوران التوقيع على صفحة المستند (مع اتجاه عقارب الساعة). |
+| [ShapePosition](../../groupdocs.signature.options/imagesignoptions/shapeposition) { get; set; } | يحدد مكان عرض الشكل في تخطيط المستند. متاح فقط لمستندات Word. |
+| [SignatureType](../../groupdocs.signature.options/signoptions/signaturetype) { get; } | احصل على نوع التوقيع [`SignatureType`](../../groupdocs.signature.domain/signaturetype) |
+| virtual [SizeMeasureType](../../groupdocs.signature.options/imagesignoptions/sizemeasuretype) { get; set; } | نوع القياس (بكسل، نسب مئوية أو ملليمترات) لخصائص Width و Height. |
+| [Stretch](../../groupdocs.signature.options/imagesignoptions/stretch) { get; set; } | وضع التمدد على Document Page. |
+| virtual [Top](../../groupdocs.signature.options/imagesignoptions/top) { get; set; } | الموضع Y العلوي للتوقيع على صفحة المستند بقيم قياس (بكسل، نسب مئوية أو مليمترات انظر [`MeasureType`](../../groupdocs.signature.domain/measuretype) LocationMeasureType). (يعمل إذا لم يتم تحديد المحاذاة العمودية). |
+| [Transparency](../../groupdocs.signature.options/imagesignoptions/transparency) { get; set; } | يحصل أو يعيّن شفافية التوقيع (قيمة من 0.0 (معتم) إلى 1.0 (شفاف)). القيمة الافتراضية هي 0 (معتم). |
+| [VerticalAlignment](../../groupdocs.signature.options/imagesignoptions/verticalalignment) { get; set; } | محاذاة عمودية للتوقيع على صفحة المستند. |
+| [Width](../../groupdocs.signature.options/imagesignoptions/width) { get; set; } | عرض التوقيع على صفحة المستند بقيم قياس (بكسل، نسب مئوية أو مليمترات [`MeasureType`](../../groupdocs.signature.domain/measuretype) SizeMeasureType). |
+| [ZOrder](../../groupdocs.signature.options/signoptions/zorder) { get; set; } | يحصل أو يعيّن موضع Z-order لتوقيع النص. يحدد ترتيب عرض التواقيع المتداخلة. |
+
+## الطرق
+
+| الاسم | الوصف |
+| --- | --- |
+| static [FromBase64](../../groupdocs.signature.options/imagesignoptions/frombase64)(string) | ينشئ نسخة جديدة من الفئة ImageSignOptions مع صورة معرفة مسبقًا من Base64. |
+| [Dispose](../../groupdocs.signature.options/imagesignoptions/dispose)() | يمسح الموارد الداخلية |
+
+### ملاحظات
+
+**Learn more**
+
+* Basic usage of creating Image electronic signature by GroupDocs.Signature: [How to eSign document with Image signature](https://docs.groupdocs.com/display/signaturenet/eSign+document+with+Image+signature)
+* Advanced usage of settings of Image electronic signature with GroupDocs.Signature: [Advanced usage to eSign document with Image signature and additional settings](https://docs.groupdocs.com/display/signaturenet/Sign+document+with+Image+signature+-+advanced)
+
+### انظر أيضًا
+
+* class [SignOptions](../signoptions)
+* interface [IAlignment](../../groupdocs.signature.domain/ialignment)
+* interface [IRectangle](../../groupdocs.signature.domain/irectangle)
+* interface [IRotation](../../groupdocs.signature.domain/irotation)
+* interface [ITransparency](../../groupdocs.signature.domain/itransparency)
+* namespace [GroupDocs.Signature.Options](../../groupdocs.signature.options)
+* assembly [GroupDocs.Signature](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.signature.dll -->
