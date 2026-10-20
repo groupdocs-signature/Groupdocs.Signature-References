@@ -1,0 +1,64 @@
+---
+title: "Mailmark2DType"
+second_title: "Riferimento API di GroupDocs.Signature per Java"
+description: "Il tipo 2D Mailmark definisce la dimensione del codice a barre Data Matrix."
+type: docs
+weight: 11
+url: /it/java/com.groupdocs.signature.domain.extensions.mailmark2d/mailmark2dtype/
+---
+**Inheritance:**
+java.lang.Object
+```
+public final class Mailmark2DType
+```
+
+Il tipo 2D Mailmark definisce la dimensione del codice a barre Data Matrix.
+
+## Campi
+
+| Campo | Descrizione |
+| --- | --- |
+|  | [Auto](#Auto) | Determinazione automatica |
+|
+|  | [Type_7](#Type-7) | 24 x 24 moduli |
+|
+|  | [Type_9](#Type-9) | 32 x 32 moduli |
+|
+|  | [Type_29](#Type-29) | 16 x 48 moduli |
+|
+### Auto {#Auto}
+```
+public static final int Auto
+```
+
+
+Determinazione automatica
+
+
+### Type_7 {#Type-7}
+```
+public static final int Type_7
+```
+
+
+24 x 24 moduli
+
+
+### Type_9 {#Type-9}
+```
+public static final int Type_9
+```
+
+
+32 x 32 moduli
+
+
+### Type_29 {#Type-29}
+```
+public static final int Type_29
+```
+
+
+16 x 48 moduli
+
+
