@@ -34,6 +34,10 @@ Save options for WordProcessing documents.
  |
 | [setFileFormat(int value)](#setFileFormat-int-) | Gets or sets file format of signed document.
  |
+| [getOoxmlCompliance()](#getOoxmlCompliance--) | Optional OOXML compliance level for the signed document.
+ |
+| [setOoxmlCompliance(Integer value)](#setOoxmlCompliance-java.lang.Integer-) | Optional OOXML compliance level for the signed document.
+ |
 | [toString()](#toString--) | Override string conversion
  |
 ### WordProcessingSaveOptions() {#WordProcessingSaveOptions--}
@@ -116,6 +120,47 @@ Gets or sets file format of signed document.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | int |  |
+
+### getOoxmlCompliance() {#getOoxmlCompliance--}
+```
+public final Integer getOoxmlCompliance()
+```
+
+
+Optional OOXML compliance level for the signed document. When set, overrides the
+original document's compliance. When 
+null
+ (default), the loaded document's
+compliance is preserved. Only honoured for OOXML formats
+(Docx, Docm, Dotx, Dotm, FlatOpc and FlatOpc variants).
+
+
+The value is one of [OoxmlCompliance](../../com.groupdocs.signature.domain.enums/ooxmlcompliance).
+
+
+**Returns:**
+java.lang.Integer
+### setOoxmlCompliance(Integer value) {#setOoxmlCompliance-java.lang.Integer-}
+```
+public final void setOoxmlCompliance(Integer value)
+```
+
+
+Optional OOXML compliance level for the signed document. When set, overrides the
+original document's compliance. When 
+null
+ (default), the loaded document's
+compliance is preserved. Only honoured for OOXML formats
+(Docx, Docm, Dotx, Dotm, FlatOpc and FlatOpc variants).
+
+
+The value is one of [OoxmlCompliance](../../com.groupdocs.signature.domain.enums/ooxmlcompliance).
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.Integer |  |
 
 ### toString() {#toString--}
 ```

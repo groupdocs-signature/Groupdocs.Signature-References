@@ -1,7 +1,7 @@
 ---
 title: LogLevel
 second_title: GroupDocs.Signature for Java API Reference
-description: Specifies the available Log Level types.
+description: Specifies which kinds of messages are passed to the logger set in SignatureSettings.
 type: docs
 weight: 12
 url: /java/com.groupdocs.signature.logging/loglevel/
@@ -12,23 +12,26 @@ java.lang.Object
 public final class LogLevel
 ```
 
-Specifies the available Log Level types.
-This enumeration can be used as flags to set several possible values as enabled bits
-Example: LogLevel.Error \| LogLevel.Warning or LogLevel.Error \| LogLevel.Trace
+Specifies which kinds of messages are passed to the logger set in 
+SignatureSettings
+.
+The values are flags and can be combined, for example 
+LogLevel.Error \| LogLevel.Warning
+.
 
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [None](#None) | No logging limitation all information will be logged from trace, warning to errors
+| [None](#None) | Nothing is logged.
  |
-| [Error](#Error) | No logging limitation all information will be logged from trace, warning to errors
+| [Error](#Error) | Errors: an operation failed.
  |
-| [Warning](#Warning) | Same as All level, all messages including the Trace level will be logged
+| [Warning](#Warning) | Warnings: an operation succeeded, but its result may not be what you expect.
  |
-| [Trace](#Trace) | The logging level to include messages from the Warning to Error level
+| [Trace](#Trace) | Traces: the steps of an operation, such as its start and its end.
  |
-| [All](#All) | All Log level events (Error, Warning, Trace) will be included into the logging
+| [All](#All) | Errors, warnings and traces.
  |
 ### None {#None}
 ```
@@ -36,7 +39,7 @@ public static final int None
 ```
 
 
-No logging limitation all information will be logged from trace, warning to errors
+Nothing is logged.
 
 
 ### Error {#Error}
@@ -45,7 +48,7 @@ public static final int Error
 ```
 
 
-No logging limitation all information will be logged from trace, warning to errors
+Errors: an operation failed.
 
 
 ### Warning {#Warning}
@@ -54,7 +57,7 @@ public static final int Warning
 ```
 
 
-Same as All level, all messages including the Trace level will be logged
+Warnings: an operation succeeded, but its result may not be what you expect.
 
 
 ### Trace {#Trace}
@@ -63,7 +66,7 @@ public static final int Trace
 ```
 
 
-The logging level to include messages from the Warning to Error level
+Traces: the steps of an operation, such as its start and its end.
 
 
 ### All {#All}
@@ -72,6 +75,6 @@ public static final int All
 ```
 
 
-All Log level events (Error, Warning, Trace) will be included into the logging
+Errors, warnings and traces. This is the default.
 
 

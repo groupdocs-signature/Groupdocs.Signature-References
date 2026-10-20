@@ -92,6 +92,9 @@ maximum page height, the width of a page with the maximum height.
  |
 | [search(List<SearchOptions> searchOptionsList, Predicate<BaseSignature> predicate)](#search-java.util.List-com.groupdocs.signature.options.search.SearchOptions--java.util.function.Predicate-com.groupdocs.signature.domain.signatures.BaseSignature--) | Searches for signatures by a list of options and filters the result by a predicate.
  |
+| [search(Predicate<BaseSignature> predicate)](#search-java.util.function.Predicate-com.groupdocs.signature.domain.signatures.BaseSignature--) | Searches the document for signatures of all types (text, image, digital, barcode, QR-code and metadata)
+and filters them by a predicate.
+ |
 | [<T>search(Class<T> typeOfT, SearchOptions searchOptions)](#-T-search-java.lang.Class-T--com.groupdocs.signature.options.search.SearchOptions-) | Searches for signatures in a document by [SearchOptions](../../com.groupdocs.signature.options.search/searchoptions) options.
  |
 | [<T>search(Class<T> typeOfT, SearchOptions searchOptions, Predicate<T> predicate)](#-T-search-java.lang.Class-T--com.groupdocs.signature.options.search.SearchOptions-java.util.function.Predicate-T--) | Searches for signatures of the specified type in the document, optionally filtered by a predicate.
@@ -841,6 +844,25 @@ Searches for signatures by a list of options and filters the result by a predica
 
 **Returns:**
 [SearchResult](../../com.groupdocs.signature.domain/searchresult) - SearchResult containing only signatures that match the predicate.
+
+### search(Predicate<BaseSignature> predicate) {#search-java.util.function.Predicate-com.groupdocs.signature.domain.signatures.BaseSignature--}
+```
+public final List<BaseSignature> search(Predicate<BaseSignature> predicate)
+```
+
+
+Searches the document for signatures of all types (text, image, digital, barcode, QR-code and metadata)
+and filters them by a predicate.
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| predicate | java.util.function.Predicate<com.groupdocs.signature.domain.signatures.BaseSignature> | The filter predicate to apply on the list of found signatures.
+ |
+
+**Returns:**
+java.util.List<com.groupdocs.signature.domain.signatures.BaseSignature> - Returns a list of [BaseSignature](../../com.groupdocs.signature.domain.signatures/basesignature) instances that satisfy the provided predicate.
 
 ### <T>search(Class<T> typeOfT, SearchOptions searchOptions) {#-T-search-java.lang.Class-T--com.groupdocs.signature.options.search.SearchOptions-}
 ```

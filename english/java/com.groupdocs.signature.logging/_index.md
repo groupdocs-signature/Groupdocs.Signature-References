@@ -17,7 +17,7 @@ The **GroupDocs.Signature.Logging** namespace provides classes for logging purpo
 | --- | --- |
 | [ConsoleLogger](../com.groupdocs.signature.logging/consolelogger) | Writes log messages to the file. |
 | [FileLogger](../com.groupdocs.signature.logging/filelogger) | Writes log messages to the file. |
-| [LogLevel](../com.groupdocs.signature.logging/loglevel) | Specifies the available Log Level types. |
+| [LogLevel](../com.groupdocs.signature.logging/loglevel) | Specifies which kinds of messages are passed to the logger set in SignatureSettings. |
 
 ## Interfaces
 
