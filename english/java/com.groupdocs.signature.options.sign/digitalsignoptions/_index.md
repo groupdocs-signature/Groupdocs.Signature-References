@@ -72,6 +72,14 @@ Represents the Digital signature options.
  |
 | [setUseLtv(boolean value)](#setUseLtv-boolean-) | Gets/sets LTV (Long Term Validation) validation flag.
  |
+| [getAllowExpired()](#getAllowExpired--) | Gets or sets a flag that allows signing with a certificate whose validity period has ended.
+ |
+| [setAllowExpired(boolean value)](#setAllowExpired-boolean-) | Gets or sets a flag that allows signing with a certificate whose validity period has ended.
+ |
+| [getAllowNotYetValid()](#getAllowNotYetValid--) | Gets or sets a flag that allows signing with a certificate whose validity period has not started yet.
+ |
+| [setAllowNotYetValid(boolean value)](#setAllowNotYetValid-boolean-) | Gets or sets a flag that allows signing with a certificate whose validity period has not started yet.
+ |
 | [getCustomSignHash()](#getCustomSignHash--) | Gets or sets a custom hash-signing implementation, allowing callers to plug in their own
 digital signing logic (HSM, remote signer, software keystore, etc.).
  |
@@ -419,6 +427,105 @@ public final void setUseLtv(boolean value)
 
 
 Gets/sets LTV (Long Term Validation) validation flag.
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean |  |
+
+### getAllowExpired() {#getAllowExpired--}
+```
+public final boolean getAllowExpired()
+```
+
+
+Gets or sets a flag that allows signing with a certificate whose validity period has ended.
+The default value is false: signing with an expired certificate throws 
+GroupDocsSignatureException
+,
+and the document is not signed.
+
+
+Validators report a signature made with an expired certificate as not valid. Set this property to true only when
+you need such a signature anyway, for example to test with an old certificate. The document is then signed, and a
+warning is written to the logger set in 
+SignatureSettings
+.
+
+
+The certificate is compared with the current time in UTC, not with 
+DigitalSignature.SignTime
+. The flag
+applies to the certificate given by 
+CertificateFilePath
+, 
+CertificateStream
+ or 
+Signature
+,
+and, when a spreadsheet is signed, to the certificate of the first 
+DigitalVBA
+ extension. Digital
+signatures of images do not use a certificate and are not checked. A certificate whose validity period has not
+started yet is controlled by 
+AllowNotYetValid
+.
+
+
+**Returns:**
+boolean
+### setAllowExpired(boolean value) {#setAllowExpired-boolean-}
+```
+public final void setAllowExpired(boolean value)
+```
+
+
+Gets or sets a flag that allows signing with a certificate whose validity period has ended.
+The default value is false. See #getAllowExpired().getAllowExpired().
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean |  |
+
+### getAllowNotYetValid() {#getAllowNotYetValid--}
+```
+public final boolean getAllowNotYetValid()
+```
+
+
+Gets or sets a flag that allows signing with a certificate whose validity period has not started yet.
+The default value is false: signing with such a certificate throws 
+GroupDocsSignatureException
+,
+and the document is not signed.
+
+
+Validators report a signature made before the certificate becomes valid as not valid. Such a certificate was
+usually issued for a later date, or the computer's clock is wrong. When this property is true, the document is
+signed, and a warning is written to the logger set in 
+SignatureSettings
+.
+
+
+The certificate is compared with the current time in UTC. The flag applies to the same certificates as
+
+AllowExpired
+, which controls certificates whose validity period has ended.
+
+
+**Returns:**
+boolean
+### setAllowNotYetValid(boolean value) {#setAllowNotYetValid-boolean-}
+```
+public final void setAllowNotYetValid(boolean value)
+```
+
+
+Gets or sets a flag that allows signing with a certificate whose validity period has not started yet.
+The default value is false. See #getAllowNotYetValid().getAllowNotYetValid().
 
 
 **Parameters:**

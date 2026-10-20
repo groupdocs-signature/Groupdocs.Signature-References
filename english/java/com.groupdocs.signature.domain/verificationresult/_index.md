@@ -28,6 +28,8 @@ Instance to keep results of verification process.
  |
 | [getSucceeded()](#getSucceeded--) | List of successfully verified signatures [BaseSignature](../../com.groupdocs.signature.domain.signatures/basesignature).
  |
+| [getFailed()](#getFailed--) | List of signatures that failed verification process.
+ |
 | [isValid()](#isValid--) | Returns true if Verification process was successful otherwise false.
  |
 | [setValid(boolean value)](#setValid-boolean-) | Returns true if Verification process was successful otherwise false.
@@ -83,6 +85,18 @@ public final List<BaseSignature> getSucceeded()
 
 
 List of successfully verified signatures [BaseSignature](../../com.groupdocs.signature.domain.signatures/basesignature).
+Currently this property is not supported.
+
+
+**Returns:**
+java.util.List<com.groupdocs.signature.domain.signatures.BaseSignature>
+### getFailed() {#getFailed--}
+```
+public final List<BaseSignature> getFailed()
+```
+
+
+List of signatures that failed verification process.
 Currently this property is not supported.
 
 

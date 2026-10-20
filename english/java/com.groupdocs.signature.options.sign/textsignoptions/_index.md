@@ -102,6 +102,8 @@ Represents the Text signature options.
  |
 | [setFont(SignatureFont value)](#setFont-com.groupdocs.signature.domain.SignatureFont-) | Gets or sets the font of signature.
  |
+| [getFontOrDefault()](#getFontOrDefault--) | Internal: the font this instance had when it was created, or the default font.
+ |
 | [getForeColor()](#getForeColor--) | Gets or sets the fore color of signature.
  |
 | [setForeColor(Color value)](#setForeColor-java.awt.Color-) | Gets or sets the fore color of signature.
@@ -573,6 +575,17 @@ Gets or sets the font of signature.
 | --- | --- | --- |
 | value | [SignatureFont](../../com.groupdocs.signature.domain/signaturefont) |  |
 
+### getFontOrDefault() {#getFontOrDefault--}
+```
+public final SignatureFont getFontOrDefault()
+```
+
+
+Internal: the font this instance had when it was created, or the default font.
+
+
+**Returns:**
+[SignatureFont](../../com.groupdocs.signature.domain/signaturefont)
 ### getForeColor() {#getForeColor--}
 ```
 public Color getForeColor()

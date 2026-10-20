@@ -39,13 +39,11 @@ Barcode Types container.
  |
 | [Code32](#Code32) | Code32 Barcode Type object.
  |
-| [Code39Extended](#Code39Extended) | Code39Extended Barcode Type object.
+| [Code39](#Code39) | Code39 Barcode Type object.
  |
-| [Code39Standard](#Code39Standard) | Code39Standard Barcode Type object.
+| [Code39FullASCII](#Code39FullASCII) | Code39FullASCII Barcode Type object.
  |
-| [Code93Extended](#Code93Extended) | Code93Extended Barcode Type object.
- |
-| [Code93Standard](#Code93Standard) | Code93Standard Barcode Type object.
+| [Code93](#Code93) | Code93 Barcode Type object.
  |
 | [DatabarExpanded](#DatabarExpanded) | DatabarExpanded Barcode Type object.
  |
@@ -251,40 +249,31 @@ public static final BarcodeType Code32
 Code32 Barcode Type object.
 
 
-### Code39Extended {#Code39Extended}
+### Code39 {#Code39}
 ```
-public static final BarcodeType Code39Extended
-```
-
-
-Code39Extended Barcode Type object.
-
-
-### Code39Standard {#Code39Standard}
-```
-public static final BarcodeType Code39Standard
+public static final BarcodeType Code39
 ```
 
 
-Code39Standard Barcode Type object.
+Code39 Barcode Type object.
 
 
-### Code93Extended {#Code93Extended}
+### Code39FullASCII {#Code39FullASCII}
 ```
-public static final BarcodeType Code93Extended
-```
-
-
-Code93Extended Barcode Type object.
-
-
-### Code93Standard {#Code93Standard}
-```
-public static final BarcodeType Code93Standard
+public static final BarcodeType Code39FullASCII
 ```
 
 
-Code93Standard Barcode Type object.
+Code39FullASCII Barcode Type object.
+
+
+### Code93 {#Code93}
+```
+public static final BarcodeType Code93
+```
+
+
+Code93 Barcode Type object.
 
 
 ### DatabarExpanded {#DatabarExpanded}

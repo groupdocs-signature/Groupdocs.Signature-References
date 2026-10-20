@@ -48,9 +48,9 @@ Defines settings for customizing [Signature](../../com.groupdocs.signature/signa
  |
 | [getLogger()](#getLogger--) | The logger implementation used for logging (Errors, Warnings, Traces).
  |
-| [getLogLevel()](#getLogLevel--) | The level of the logging to limit the messages (All, Traces, Warnings, Errors).
+| [getLogLevel()](#getLogLevel--) | Gets or sets which kinds of messages are passed to the logger.
  |
-| [setLogLevel(int value)](#setLogLevel-int-) | The level of the logging to limit the messages (All, Traces, Warnings, Errors).
+| [setLogLevel(int value)](#setLogLevel-int-) | Gets or sets which kinds of messages are passed to the logger.
  |
 ### SignatureSettings() {#SignatureSettings--}
 ```
@@ -235,10 +235,16 @@ public final int getLogLevel()
 ```
 
 
-The level of the logging to limit the messages (All, Traces, Warnings, Errors). 
-LogLevel
-.
-BY default the All level type is set.
+Gets or sets which kinds of messages are passed to the logger.
+The value is a set of [LogLevel](../../com.groupdocs.signature.logging/loglevel) flags that can be combined, for example
+
+LogLevel.Error \| LogLevel.Warning
+. 
+LogLevel.None
+ logs nothing.
+The default is 
+LogLevel.All
+: errors, warnings and traces.
 
 
 **Returns:**
@@ -249,10 +255,16 @@ public final void setLogLevel(int value)
 ```
 
 
-The level of the logging to limit the messages (All, Traces, Warnings, Errors). 
-LogLevel
-.
-BY default the All level type is set.
+Gets or sets which kinds of messages are passed to the logger.
+The value is a set of [LogLevel](../../com.groupdocs.signature.logging/loglevel) flags that can be combined, for example
+
+LogLevel.Error \| LogLevel.Warning
+. 
+LogLevel.None
+ logs nothing.
+The default is 
+LogLevel.All
+: errors, warnings and traces.
 
 
 **Parameters:**
