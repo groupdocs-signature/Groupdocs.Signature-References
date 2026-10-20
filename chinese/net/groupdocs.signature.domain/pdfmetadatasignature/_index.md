@@ -1,0 +1,76 @@
+---
+title: "PdfMetadataSignature"
+second_title: "GroupDocs.Signature for .NET API 参考"
+description: "包含 PDF 元数据签名属性。"
+type: docs
+weight: 860
+url: /zh/net/groupdocs.signature.domain/pdfmetadatasignature/
+---
+## PdfMetadataSignature class
+
+包含 PDF 元数据签名属性。
+
+```csharp
+public sealed class PdfMetadataSignature : MetadataSignature
+```
+
+## 构造函数
+
+| 名称 | 描述 |
+| --- | --- |
+| [PdfMetadataSignature](pdfmetadatasignature#constructor)(string) | 创建具有预定义名称和空值的 Pdf Metadata 签名 |
+| [PdfMetadataSignature](pdfmetadatasignature#constructor_1)(string, object) | 创建具有预定义值的 Pdf Metadata 签名 |
+| [PdfMetadataSignature](pdfmetadatasignature#constructor_2)(string, object, string) | 创建具有预定义值的 Pdf Metadata 签名 |
+
+## 属性
+
+| 名称 | 描述 |
+| --- | --- |
+| [CreatedOn](../../groupdocs.signature.domain/basesignature/createdon) { get; set; } | 获取或设置签名创建日期。 |
+| [DataEncryption](../../groupdocs.signature.domain/metadatasignature/dataencryption) { get; set; } | 获取或设置 [`IDataEncryption`](../../groupdocs.signature.domain.extensions/idataencryption) 接口的实现，以编码和解码签名 Value 属性。 |
+| [Deleted](../../groupdocs.signature.domain/basesignature/deleted) { get; } | 获取指示此签名是否已从文档中删除的标志。此属性仅用于文档历史日志记录，以保留已删除签名的列表。 |
+| [Height](../../groupdocs.signature.domain/basesignature/height) { get; set; } | 指定签名的高度。 |
+| [IsSignature](../../groupdocs.signature.domain/basesignature/issignature) { get; set; } | 获取或设置标志，以指示此组件是签名还是文档内容。此属性与 Update 方法一起使用，以将元素设置为签名（true）或文档元素（false）。 |
+| [Left](../../groupdocs.signature.domain/basesignature/left) { get; set; } | 指定签名的左侧位置。 |
+| [ModifiedOn](../../groupdocs.signature.domain/basesignature/modifiedon) { get; set; } | 获取或设置签名修改日期。 |
+| [Name](../../groupdocs.signature.domain/metadatasignature/name) { get; set; } | 指定唯一的元数据名称。 |
+| [PageNumber](../../groupdocs.signature.domain/basesignature/pagenumber) { get; } | 指定发现签名的页面。 |
+| [SignatureId](../../groupdocs.signature.domain/basesignature/signatureid) { get; } | 唯一的签名标识符，用于通过 Update 或 Delete 方法修改文档中的签名。调用 Sign 或 Search 方法后，此属性会自动设置。如果此属性之前已保存，则可以手动设置以操作签名。 |
+| [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | 指定签名的类型。 |
+| [TagPrefix](../../groupdocs.signature.domain/pdfmetadatasignature/tagprefix) { get; set; } | Pdf Metadata 签名名称的前缀标签。默认情况下，此属性设置为 "xmp"。可能的取值有 |
+| [Top](../../groupdocs.signature.domain/basesignature/top) { get; set; } | 指定签名的顶部位置。 |
+| [Type](../../groupdocs.signature.domain/metadatasignature/type) { get; } | 指定元数据值类型。 |
+| [Value](../../groupdocs.signature.domain/metadatasignature/value) { get; set; } | 指定元数据对象。 |
+| [Width](../../groupdocs.signature.domain/basesignature/width) { get; set; } | 指定签名的宽度。 |
+
+## 方法
+
+| 名称 | 描述 |
+| --- | --- |
+| override [Clone](../../groupdocs.signature.domain/pdfmetadatasignature/clone#clone_1)() | 克隆 Metadata Signature 实例。 |
+| override [Clone](../../groupdocs.signature.domain/pdfmetadatasignature/clone#clone)(object) | 克隆具有给定值的 Pdf Metadata Signature 实例。 |
+| override [Equals](../../groupdocs.signature.domain/pdfmetadatasignature/equals)(object) | 覆盖 Equals 方法以比较签名属性 |
+| [GetData&lt;T&gt;](../../groupdocs.signature.domain/metadatasignature/getdata)() | 在反序列化后从 Metadata Signature Value 获取对象。 |
+| [GetData&lt;T&gt;](../../groupdocs.signature.domain/metadatasignature/getdata)(IDataEncryption) | 在反序列化后从 Metadata Signature Text 获取对象。 |
+| override [GetHashCode](../../groupdocs.signature.domain/pdfmetadatasignature/gethashcode)() | 覆盖 GetHashCode 方法 |
+| virtual [ToBoolean](../../groupdocs.signature.domain/metadatasignature/toboolean)() | 转换为布尔值。 |
+| virtual [ToDateTime](../../groupdocs.signature.domain/metadatasignature/todatetime)() | 转换为 DateTime。 |
+| virtual [ToDateTime](../../groupdocs.signature.domain/metadatasignature/todatetime)(IFormatProvider) | 转换为 DateTime。 |
+| virtual [ToDecimal](../../groupdocs.signature.domain/metadatasignature/todecimal)() | 转换为 Decimal。 |
+| virtual [ToDecimal](../../groupdocs.signature.domain/metadatasignature/todecimal)(IFormatProvider) | 转换为 Decimal。 |
+| virtual [ToDouble](../../groupdocs.signature.domain/metadatasignature/todouble)() | 转换为 Double。 |
+| virtual [ToDouble](../../groupdocs.signature.domain/metadatasignature/todouble)(IFormatProvider) | 转换为 Double。 |
+| virtual [ToInteger](../../groupdocs.signature.domain/metadatasignature/tointeger)() | 转换为 integer。 |
+| virtual [ToSingle](../../groupdocs.signature.domain/metadatasignature/tosingle)() | 转换为 float。 |
+| virtual [ToSingle](../../groupdocs.signature.domain/metadatasignature/tosingle)(IFormatProvider) | 转换为 float。 |
+| override [ToString](../../groupdocs.signature.domain/metadatasignature/tostring)() | 使用覆盖的 ToString() 方法转换为 String |
+| virtual [ToString](../../groupdocs.signature.domain/metadatasignature/tostring)(string) | 使用指定格式转换为 String |
+| virtual [ToString](../../groupdocs.signature.domain/metadatasignature/tostring)(string, IFormatProvider) | 使用指定格式转换为 String |
+
+### 另请参见
+
+* class [MetadataSignature](../metadatasignature)
+* namespace [GroupDocs.Signature.Domain](../../groupdocs.signature.domain)
+* assembly [GroupDocs.Signature](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.signature.dll -->
