@@ -1,0 +1,61 @@
+---
+title: "DigitalVerifyOptions"
+second_title: "GroupDocs.Signature für .NET API-Referenz"
+description: "Enthält Optionen zum Verifizieren der digitalen Signatur eines Dokuments."
+type: docs
+weight: 1570
+url: /de/net/groupdocs.signature.options/digitalverifyoptions/
+---
+## DigitalVerifyOptions class
+
+Enthält Optionen zum Verifizieren der digitalen Signatur eines Dokuments.
+
+```csharp
+public class DigitalVerifyOptions : VerifyOptions
+```
+
+## Konstruktoren
+
+| Name | Beschreibung |
+| --- | --- |
+| [DigitalVerifyOptions](digitalverifyoptions#constructor)() | Erstellt Digital Verification Option mit Standardwerten. |
+| [DigitalVerifyOptions](digitalverifyoptions#constructor_1)(Stream) | Erstellt Digital Verification Option mit dem angegebenen Zertifikats‑Stream. |
+| [DigitalVerifyOptions](digitalverifyoptions#constructor_2)(string) | Erstellt Digital Verification Option mit dem angegebenen Pfad zur digitalen Zertifikatsdatei. |
+
+## Eigenschaften
+
+| Name | Beschreibung |
+| --- | --- |
+| [AllPages](../../groupdocs.signature.options/verifyoptions/allpages) { get; set; } | Flag zum Verifizieren jeder Dokumentseite. Standardwert ist true. |
+| [Certificate](../../groupdocs.signature.options/digitalverifyoptions/certificate) { get; } | Liest X509Certificate2‑Zertifikat aus dem Zertifikat‑Dateipfad oder -Stream. |
+| [CertificateFilePath](../../groupdocs.signature.options/digitalverifyoptions/certificatefilepath) { get; set; } | Dateipfad des digitalen Zertifikats. |
+| [CertificateStream](../../groupdocs.signature.options/digitalverifyoptions/certificatestream) { get; set; } | Stream des digitalen Zertifikats. |
+| [Comments](../../groupdocs.signature.options/digitalverifyoptions/comments) { get; set; } | Kommentare der digitalen Signatur zur Validierung. |
+| [Contact](../../groupdocs.signature.options/digitalverifyoptions/contact) { get; set; } | Signaturkontakt zur Validierung. |
+| [Extensions](../../groupdocs.signature.options/verifyoptions/extensions) { get; set; } | Zusätzliche Erweiterungen zur Verifizierung alternativer Signaturoptionen. |
+| [IssuerName](../../groupdocs.signature.options/digitalverifyoptions/issuername) { get; set; } | Ausstellername des zu validierenden Zertifikats. Der Wert ist case‑sensitive. Wenn diese Eigenschaft gesetzt ist, prüft die Verifizierung, ob der Ausstellername der Signatur den übergebenen Wert enthält oder ihm entspricht. |
+| [IsValid](../../groupdocs.signature.options/verifyoptions/isvalid) { get; } | Gültiges Eigenschafts‑Flag. |
+| [Location](../../groupdocs.signature.options/digitalverifyoptions/location) { get; set; } | Signaturort zur Validierung. |
+| virtual [PageNumber](../../groupdocs.signature.options/verifyoptions/pagenumber) { get; set; } | Dokumentseiten‑Nummer, die verifiziert werden soll. Wenn die Eigenschaft nicht gesetzt ist – werden alle Seiten des Dokuments für das erste Vorkommen verifiziert. Minimaler Wert ist 1. |
+| virtual [PagesSetup](../../groupdocs.signature.options/verifyoptions/pagessetup) { get; set; } | Seitenoptionen zur Angabe der zu verifizierenden Seiten. |
+| [Password](../../groupdocs.signature.options/digitalverifyoptions/password) { get; set; } | Passwort des digitalen Zertifikats, falls erforderlich. |
+| [Reason](../../groupdocs.signature.options/digitalverifyoptions/reason) { get; set; } | Grund der digitalen Signatur zur Validierung. |
+| [ShapePosition](../../groupdocs.signature.options/verifyoptions/shapeposition) { get; set; } | Gibt die Position der Form im Dokumentlayout an. Zum Verifizieren von Signaturen in Kopf‑/Fußzeilen |
+| [SignDateTimeFrom](../../groupdocs.signature.options/digitalverifyoptions/signdatetimefrom) { get; set; } | Datums‑ und Zeitbereich der digitalen Signatur zur Validierung. Null‑Werte werden ignoriert. |
+| [SignDateTimeTo](../../groupdocs.signature.options/digitalverifyoptions/signdatetimeto) { get; set; } | Datums‑ und Zeitbereich der digitalen Signatur zur Validierung. Null‑Werte werden ignoriert. |
+| [SubjectName](../../groupdocs.signature.options/digitalverifyoptions/subjectname) { get; set; } | Subject Distinguished Name des zu validierenden Zertifikats. Der Wert ist case‑sensitive. Wenn diese Eigenschaft gesetzt ist, prüft die Verifizierung, ob der Subject‑Name der Signatur den übergebenen Wert enthält oder ihm entspricht. |
+
+### Hinweise
+
+**Learn more**
+
+* Basic usage of verification for Digital electronic signature by GroupDocs.Signature: [How to eVerification Digital signatures in a document ](https://docs.groupdocs.com/display/signaturenet/Verify+Digital+signatures+in+the+document)
+* Advanced usage of settings of verification for Digital electronic signature with GroupDocs.Signature: [Advanced usage of eVerification Digital signatures in a document and additional settings]()
+
+### Siehe auch
+
+* class [VerifyOptions](../verifyoptions)
+* namespace [GroupDocs.Signature.Options](../../groupdocs.signature.options)
+* assembly [GroupDocs.Signature](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.signature.dll -->
