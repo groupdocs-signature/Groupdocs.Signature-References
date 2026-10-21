@@ -1,0 +1,61 @@
+---
+title: "DigitalVerifyOptions"
+second_title: "Referensi API GroupDocs.Signature untuk .NET"
+description: "Menyimpan opsi untuk memverifikasi tanda tangan Digital dokumen."
+type: docs
+weight: 1570
+url: /id/net/groupdocs.signature.options/digitalverifyoptions/
+---
+## DigitalVerifyOptions class
+
+Menyimpan opsi untuk memverifikasi tanda tangan Digital dokumen.
+
+```csharp
+public class DigitalVerifyOptions : VerifyOptions
+```
+
+## Konstruktor
+
+| Nama | Deskripsi |
+| --- | --- |
+| [DigitalVerifyOptions](digitalverifyoptions#constructor)() | Membuat Digital Verification Option dengan nilai default. |
+| [DigitalVerifyOptions](digitalverifyoptions#constructor_1)(Stream) | Membuat Digital Verification Option dengan aliran sertifikat yang diberikan. |
+| [DigitalVerifyOptions](digitalverifyoptions#constructor_2)(string) | Membuat Digital Verification Option dengan jalur file sertifikat digital yang diberikan. |
+
+## Properti
+
+| Nama | Deskripsi |
+| --- | --- |
+| [AllPages](../../groupdocs.signature.options/verifyoptions/allpages) { get; set; } | Bendera untuk memverifikasi setiap halaman dokumen. Secara default nilainya true. |
+| [Certificate](../../groupdocs.signature.options/digitalverifyoptions/certificate) { get; } | Dapatkan Sertifikat X509Certificate2 dari FilePath atau Stream Sertifikat. |
+| [CertificateFilePath](../../groupdocs.signature.options/digitalverifyoptions/certificatefilepath) { get; set; } | Jalur file Sertifikat Digital. |
+| [CertificateStream](../../groupdocs.signature.options/digitalverifyoptions/certificatestream) { get; set; } | Stream Sertifikat Digital. |
+| [Comments](../../groupdocs.signature.options/digitalverifyoptions/comments) { get; set; } | Komentar Digital Signature untuk divalidasi. |
+| [Contact](../../groupdocs.signature.options/digitalverifyoptions/contact) { get; set; } | Kontak Tanda Tangan untuk divalidasi. |
+| [Extensions](../../groupdocs.signature.options/verifyoptions/extensions) { get; set; } | Ekstensi tambahan untuk verifikasi opsi tanda tangan alternatif. |
+| [IssuerName](../../groupdocs.signature.options/digitalverifyoptions/issuername) { get; set; } | Nama penerbit sertifikat untuk divalidasi. Nilai bersifat case sensitive. Jika properti ini diatur, verifikasi akan memeriksa apakah nama penerbit Signature mengandung atau sama dengan nilai yang diberikan. |
+| [IsValid](../../groupdocs.signature.options/verifyoptions/isvalid) { get; } | Bendera properti yang valid. |
+| [Location](../../groupdocs.signature.options/digitalverifyoptions/location) { get; set; } | Lokasi Tanda Tangan untuk divalidasi. |
+| virtual [PageNumber](../../groupdocs.signature.options/verifyoptions/pagenumber) { get; set; } | Nomor Halaman Dokumen yang akan diverifikasi. Jika properti tidak diatur - semua Halaman Dokumen akan diverifikasi untuk kemunculan pertama. Nilai minimum adalah 1. |
+| virtual [PagesSetup](../../groupdocs.signature.options/verifyoptions/pagessetup) { get; set; } | Opsi Halaman untuk menentukan halaman yang akan diverifikasi. |
+| [Password](../../groupdocs.signature.options/digitalverifyoptions/password) { get; set; } | Password Sertifikat Digital jika diperlukan. |
+| [Reason](../../groupdocs.signature.options/digitalverifyoptions/reason) { get; set; } | Alasan Digital Signature untuk divalidasi. |
+| [ShapePosition](../../groupdocs.signature.options/verifyoptions/shapeposition) { get; set; } | Menentukan posisi bentuk dalam tata letak dokumen. Untuk memverifikasi tanda tangan di header/footer |
+| [SignDateTimeFrom](../../groupdocs.signature.options/digitalverifyoptions/signdatetimefrom) { get; set; } | Rentang tanggal dan waktu Tanda Tangan Digital untuk divalidasi. Nilai yang dapat bernilai null akan diabaikan. |
+| [SignDateTimeTo](../../groupdocs.signature.options/digitalverifyoptions/signdatetimeto) { get; set; } | Rentang tanggal dan waktu Tanda Tangan Digital untuk divalidasi. Nilai yang dapat bernilai null akan diabaikan. |
+| [SubjectName](../../groupdocs.signature.options/digitalverifyoptions/subjectname) { get; set; } | Nama subjek yang dibedakan dari sertifikat untuk divalidasi. Nilai bersifat case-sensitive. Jika properti ini diatur, verifikasi akan memeriksa apakah nama subjek Tanda Tangan mengandung atau sama dengan nilai yang diberikan. |
+
+### Catatan
+
+**Learn more**
+
+* Basic usage of verification for Digital electronic signature by GroupDocs.Signature: [How to eVerification Digital signatures in a document ](https://docs.groupdocs.com/display/signaturenet/Verify+Digital+signatures+in+the+document)
+* Advanced usage of settings of verification for Digital electronic signature with GroupDocs.Signature: [Advanced usage of eVerification Digital signatures in a document and additional settings]()
+
+### Lihat Juga
+
+* class [VerifyOptions](../verifyoptions)
+* namespace [GroupDocs.Signature.Options](../../groupdocs.signature.options)
+* assembly [GroupDocs.Signature](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.signature.dll -->
