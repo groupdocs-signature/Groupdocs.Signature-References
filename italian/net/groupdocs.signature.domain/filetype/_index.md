@@ -1,0 +1,119 @@
+---
+title: "FileType"
+second_title: "GroupDocs.Signature per .NET Riferimento API"
+description: "Rappresenta il tipo di file."
+type: docs
+weight: 610
+url: /it/net/groupdocs.signature.domain/filetype/
+---
+## FileType class
+
+Rappresenta il tipo di file.
+
+```csharp
+public sealed class FileType : IEquatable<FileType>
+```
+
+## Proprietà
+
+| Nome | Descrizione |
+| --- | --- |
+| [Extension](../../groupdocs.signature.domain/filetype/extension) { get; } | Suffisso del nome file (incluso il punto ".") es. ".doc". |
+| [FileFormat](../../groupdocs.signature.domain/filetype/fileformat) { get; } | Nome del tipo di file es. "Microsoft Word Document". |
+
+## Metodi
+
+| Nome | Descrizione |
+| --- | --- |
+| static [FromExtension](../../groupdocs.signature.domain/filetype/fromextension)(string) | Mappa l'estensione del file al tipo di file. |
+| [Equals](../../groupdocs.signature.domain/filetype/equals#equals)(FileType) | Determina se il corrente [`FileType`](../filetype) è lo stesso dell'oggetto [`FileType`](../filetype) specificato. |
+| override [Equals](../../groupdocs.signature.domain/filetype/equals#equals_1)(object) | Determina se il corrente [`FileType`](../filetype) è lo stesso dell'oggetto specificato. |
+| override [GetHashCode](../../groupdocs.signature.domain/filetype/gethashcode)() | Restituisce il codice hash per l'oggetto [`FileType`](../filetype) corrente. |
+| override [ToString](../../groupdocs.signature.domain/filetype/tostring)() | Restituisce una stringa che rappresenta l'oggetto corrente. |
+| static [GetSupportedFileTypes](../../groupdocs.signature.domain/filetype/getsupportedfiletypes)() | Recupera i tipi di file supportati |
+| [operator ==](../../groupdocs.signature.domain/filetype/op_equality) | Determina se due oggetti [`FileType`](../filetype) sono gli stessi. |
+| [operator !=](../../groupdocs.signature.domain/filetype/op_inequality) | Determina se due oggetti [`FileType`](../filetype) non sono gli stessi. |
+
+## Fields
+
+| Nome | Descrizione |
+| --- | --- |
+| static readonly [APNG](../../groupdocs.signature.domain/filetype/apng) | Animated Portable Network Graphics (.png) è un formato di file immagine raster che utilizza compressione senza perdita. È stato sviluppato come estensione di PNG per supportare l'animazione, fungendo da alternativa al formato GIF senza limitazioni di copyright. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/image/apng). |
+| static readonly [AZW3](../../groupdocs.signature.domain/filetype/azw3) | Documento WordPerfect (.wpd) |
+| static readonly [BMP](../../groupdocs.signature.domain/filetype/bmp) | Bitmap Image File (.bmp) è usato per memorizzare immagini digitali bitmap. Queste immagini sono indipendenti dall'adattatore grafico e sono anche chiamate formato file bitmap indipendente dal dispositivo (DIB). Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/image/bmp). |
+| static readonly [CDR](../../groupdocs.signature.domain/filetype/cdr) | CorelDraw Vector Graphic Drawing (.cdr) è un file immagine di disegno vettoriale creato nativamente con CorelDRAW per memorizzare immagini digitali codificate e compresse. Un tale file di disegno contiene testo, linee, forme, immagini, colori ed effetti per la rappresentazione vettoriale del contenuto dell'immagine. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/image/cdr). |
+| static readonly [CGM](../../groupdocs.signature.domain/filetype/cgm) | Computer Graphics Metafile (.cgm) è un formato metafile gratuito, indipendente dalla piattaforma, standard internazionale per l'archiviazione e lo scambio di grafica vettoriale (2D), grafica raster e testo. CGM utilizza un approccio orientato agli oggetti e molte funzioni per la produzione di immagini. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/page-description-language/cgm). |
+| static readonly [CMX](../../groupdocs.signature.domain/filetype/cmx) | File immagine CorelDRAW Metafile Exchange (.cmx) |
+| static readonly [CSV](../../groupdocs.signature.domain/filetype/csv) | Comma Separated Values File (.csv) rappresenta file di testo semplice che contengono record di dati con valori separati da virgola. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/spreadsheet/csv). |
+| static readonly [DCM](../../groupdocs.signature.domain/filetype/dcm) | DICOM Image (.dcm) rappresenta un'immagine digitale che memorizza informazioni mediche dei pazienti, come risonanze magnetiche (MRI), scansioni TC e immagini ecografiche. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/image/dcm). |
+| static readonly [DJVU](../../groupdocs.signature.domain/filetype/djvu) | DjVu Image (.djvu) è un formato di file grafico destinato a documenti e libri scansionati, soprattutto quelli che contengono una combinazione di testo, disegni, immagini e fotografie. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/image/djvu). |
+| static readonly [DOC](../../groupdocs.signature.domain/filetype/doc) | Microsoft Word Document (.doc) rappresenta documenti generati da Microsoft Word o altri programmi di elaborazione testi in formato file binario. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/word-processing/doc). |
+| static readonly [DOCM](../../groupdocs.signature.domain/filetype/docm) | Word Open XML Macro-Enabled Document (.docm) è un documento generato da Microsoft Word 2007 o versioni successive con la capacità di eseguire macro. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/word-processing/docm). |
+| static readonly [DOCX](../../groupdocs.signature.domain/filetype/docx) | Microsoft Word Open XML Document (.docx) è un formato noto per i documenti Microsoft Word. Introdotto dal 2007 con il rilascio di Microsoft Office 2007, la struttura di questo nuovo formato di documento è stata modificata da puro binario a una combinazione di file XML e binari. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/word-processing/docx). |
+| static readonly [DOT](../../groupdocs.signature.domain/filetype/dot) | Word Document Template (.dot) sono file modello creati da Microsoft Word per avere impostazioni preformattate per la generazione di ulteriori file DOC o DOCX. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/word-processing/dot). |
+| static readonly [DOTM](../../groupdocs.signature.domain/filetype/dotm) | Word Open XML Macro-Enabled Document Template (.dotm) rappresenta un file modello creato con Microsoft Word 2007 o versioni successive. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/word-processing/dotm). |
+| static readonly [DOTX](../../groupdocs.signature.domain/filetype/dotx) | Word Open XML Document Template (.dotx) sono file modello creati da Microsoft Word per avere impostazioni preformattate per la generazione di ulteriori file DOCX. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/word-processing/dotx). |
+| static readonly [EMF](../../groupdocs.signature.domain/filetype/emf) | Enhanced Windows Metafile (.emf) rappresenta immagini grafiche in modo indipendente dal dispositivo. I meta-file EMF comprendono record di lunghezza variabile in ordine cronologico che possono renderizzare l'immagine memorizzata dopo l'analisi su qualsiasi dispositivo di output. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/image/emf). |
+| static readonly [EPS](../../groupdocs.signature.domain/filetype/eps) | Il file Encapsulated PostScript (.eps) descrive un programma di linguaggio Encapsulated PostScript che descrive l'aspetto di una singola pagina. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/page-description-language/eps). |
+| static readonly [GIF](../../groupdocs.signature.domain/filetype/gif) | Il file Graphical Interchange Format (.gif) è un tipo di immagine altamente compressa. Per ogni immagine GIF consente tipicamente fino a 8 bit per pixel e fino a 256 colori sono consentiti nell'immagine. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/image/gif). |
+| static readonly [GZip](../../groupdocs.signature.domain/filetype/gzip) | L'archivio compresso GZip (.gz) comprime file con un alto rapporto di compressione. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/compression/gz). |
+| static readonly [JPEG](../../groupdocs.signature.domain/filetype/jpeg) | L'immagine JPEG (.jpeg) è un tipo di formato immagine che viene salvato usando il metodo di compressione con perdita. L'immagine risultante, come risultato della compressione, è un compromesso tra dimensione di archiviazione e qualità dell'immagine. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/image/jpeg). |
+| static readonly [JPG](../../groupdocs.signature.domain/filetype/jpg) | L'immagine JPEG (.jpg) è un tipo di formato immagine che viene salvato usando il metodo di compressione con perdita. L'immagine risultante, come risultato della compressione, è un compromesso tra dimensione di archiviazione e qualità dell'immagine. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/image/jpeg). |
+| static readonly [LZip](../../groupdocs.signature.domain/filetype/lzip) | L'archivio compresso LZip (.lz) comprime file con un alto rapporto di compressione. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/compression/lz). |
+| static readonly [ODG](../../groupdocs.signature.domain/filetype/odg) | Il file OpenDocument Graphic (.odg) è usato dall'applicazione Draw di Apache OpenOffice per memorizzare gli elementi di disegno come immagine vettoriale. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/image/odg). |
+| static readonly [ODP](../../groupdocs.signature.domain/filetype/odp) | OpenDocument Presentation (.odp) rappresenta il formato di file di presentazione usato da OpenOffice.org nello standard OASISOpen. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/presentation/odp). |
+| static readonly [ODS](../../groupdocs.signature.domain/filetype/ods) | OpenDocument Spreadsheet (.ods) indica il formato di documento OpenDocument Spreadsheet che è modificabile dall'utente. I dati sono memorizzati all'interno del file ODF in righe e colonne. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/spreadsheet/ods). |
+| static readonly [ODT](../../groupdocs.signature.domain/filetype/odt) | OpenDocument Text Document (.odt) è un tipo di documento creato con applicazioni di elaborazione testi basate sul formato OpenDocument Text File. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/word-processing/odt). |
+| static readonly [OTP](../../groupdocs.signature.domain/filetype/otp) | OpenDocument Presentation Template (.otp) rappresenta i file modello di presentazione creati da applicazioni nel formato standard OASIS OpenDocument. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/presentation/otp). |
+| static readonly [OTS](../../groupdocs.signature.domain/filetype/ots) | OpenDocument Spreadsheet Template (.ots) |
+| static readonly [OTT](../../groupdocs.signature.domain/filetype/ott) | OpenDocument Document Template (.ott) rappresenta i documenti modello generati da applicazioni in conformità con il formato standard OASIS' OpenDocument. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/word-processing/ott). |
+| static readonly [PCL](../../groupdocs.signature.domain/filetype/pcl) | Documento Printer Command Language (.pcl) |
+| static readonly [PDF](../../groupdocs.signature.domain/filetype/pdf) | Il file Portable Document Format (.pdf) è un tipo di documento creato da Adobe negli anni '90. Lo scopo di questo formato di file era introdurre uno standard per la rappresentazione di documenti e altri materiali di riferimento in un formato indipendente dal software applicativo, dall'hardware e dal sistema operativo. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/view/pdf). |
+| static readonly [PFX](../../groupdocs.signature.domain/filetype/pfx) | Il file Personal Information Exchange (.pfx) è un certificato protetto da password comunemente usato per la firma del codice della tua applicazione. Scopri di più su questo formato di file [qui](https://fileinfo.com/extension/pfx). |
+| static readonly [PNG](../../groupdocs.signature.domain/filetype/png) | Portable Network Graphic (.png) è un tipo di formato di file immagine raster che utilizza compressione senza perdita. Questo formato di file è stato creato come sostituto del Graphics Interchange Format (GIF) e non ha limitazioni di copyright. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/image/png). |
+| static readonly [POT](../../groupdocs.signature.domain/filetype/pot) | PowerPoint Template (.pot) rappresenta i file modello di Microsoft PowerPoint creati dalle versioni PowerPoint 97-2003. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/presentation/pot). |
+| static readonly [POTM](../../groupdocs.signature.domain/filetype/potm) | PowerPoint Open XML Macro-Enabled Presentation Template (.potm) sono file modello di Microsoft PowerPoint con supporto per le macro. I file POTM sono creati con PowerPoint 2007 o versioni successive e contengono impostazioni predefinite che possono essere usate per creare altri file di presentazione. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/presentation/potm). |
+| static readonly [POTX](../../groupdocs.signature.domain/filetype/potx) | PowerPoint Open XML Presentation Template (.potx) rappresenta le presentazioni modello di Microsoft PowerPoint create con Microsoft PowerPoint 2007 e versioni successive. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/presentation/potx). |
+| static readonly [PPS](../../groupdocs.signature.domain/filetype/pps) | PowerPoint Slide Show (.pps) è creato usando Microsoft PowerPoint per scopi di presentazione. La lettura e la creazione di file PPS è supportata da Microsoft PowerPoint 97-2003. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/presentation/pps). |
+| static readonly [PPSM](../../groupdocs.signature.domain/filetype/ppsm) | PowerPoint Open XML Macro-Enabled Slide (.ppsm) rappresenta il formato di file di presentazione con macro creato con Microsoft PowerPoint 2007 o versioni successive. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/presentation/ppsm). |
+| static readonly [PPSX](../../groupdocs.signature.domain/filetype/ppsx) | I file PowerPoint Open XML Slide Show (.ppsx) sono creati usando Microsoft PowerPoint 2007 e versioni successive per scopi di presentazione. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/presentation/ppsx). |
+| static readonly [PPT](../../groupdocs.signature.domain/filetype/ppt) | PowerPoint Presentation (.ppt) rappresenta un file PowerPoint che consiste in una raccolta di diapositive per la visualizzazione come presentazione. Specifica il formato binario utilizzato da Microsoft PowerPoint 97-2003. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/presentation/ppt). |
+| static readonly [PPTM](../../groupdocs.signature.domain/filetype/pptm) | PowerPoint Open XML Macro-Enabled Presentation sono file di presentazione con macro creati con Microsoft PowerPoint 2007 o versioni successive. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/presentation/pptm). |
+| static readonly [PPTX](../../groupdocs.signature.domain/filetype/pptx) | PowerPoint Open XML Presentation (.pptx) sono file di presentazione creati con la popolare applicazione Microsoft PowerPoint. A differenza della versione precedente del formato di file di presentazione PPT, che era binario, il formato PPTX si basa sul formato di presentazione open XML di Microsoft PowerPoint. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/presentation/pptx). |
+| static readonly [PS](../../groupdocs.signature.domain/filetype/ps) | File PostScript (.ps) |
+| static readonly [PSD](../../groupdocs.signature.domain/filetype/psd) | Adobe Photoshop Document (.psd) rappresenta il formato di file nativo di Adobe Photoshop utilizzato per la progettazione e lo sviluppo grafico. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/image/psd). |
+| static readonly [RTF](../../groupdocs.signature.domain/filetype/rtf) | Rich Text Format File (.rtf) rappresenta un metodo di codifica di testo formattato e grafica per l'uso nelle applicazioni. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/word-processing/rtf). |
+| static readonly [SevenZip](../../groupdocs.signature.domain/filetype/sevenzip) | Archivio ad alta compressione (.7z) comprime file e cartelle con un alto rapporto di compressione. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/page-description-language/7z). |
+| static readonly [SVG](../../groupdocs.signature.domain/filetype/svg) | Scalable Vector Graphics File (.svg) è un file Scalar Vector Graphics che utilizza un formato di testo basato su XML per descrivere l'aspetto di un'immagine. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/page-description-language/svg). |
+| static readonly [TAR](../../groupdocs.signature.domain/filetype/tar) | Utility basata su Unix per raccogliere uno o più file (.tar) è un archivio che può contenere uno o più file o directory. Scopri di più su questo formato di file [qui](https://docs.fileformat.com/compression/tar/). |
+| static readonly [TGA](../../groupdocs.signature.domain/filetype/tga) | Truevision TGA (.tga), noto anche come TARGA, è un formato di file immagine raster sviluppato da Truevision Inc. Supporta varie profondità di colore e compressione RLE opzionale. I file TGA sono comunemente usati nei videogiochi, nelle pipeline di animazione e nelle applicazioni grafiche per il rendering di immagini ad alta qualità con supporto opzionale del canale alfa. Scopri di più su questo formato di file [qui](https://wiki.fileformat.com/image/tga). |
+| static readonly [TIF](../../groupdocs.signature.domain/filetype/tif) | Il file Tagged Image (.tif) rappresenta immagini raster destinate all'uso su una varietà di dispositivi che rispettano questo standard di formato file. È in grado di descrivere dati immagine bi-livello, in scala di grigi, a colori palette e a colori completi in diversi spazi colore. Scopri di più su questo formato file [qui](https://wiki.fileformat.com/image/tiff). |
+| static readonly [TIFF](../../groupdocs.signature.domain/filetype/tiff) | Il formato Tagged Image File (.tiff) rappresenta immagini raster destinate all'uso su una varietà di dispositivi che rispettano questo standard di formato file. È in grado di descrivere dati immagine bi-livello, in scala di grigi, a colori palette e a colori completi in diversi spazi colore. Scopri di più su questo formato file [qui](https://wiki.fileformat.com/image/tiff). |
+| static readonly [TSV](../../groupdocs.signature.domain/filetype/tsv) | Il file Tab Separated Values (.tsv) rappresenta dati separati da tabulazioni in formato di testo semplice. Scopri di più su questo formato file [qui](https://wiki.fileformat.com/spreadsheet/tsv). |
+| static readonly [TXT](../../groupdocs.signature.domain/filetype/txt) | Il file Plain Text (.txt) rappresenta un documento di testo che contiene testo semplice sotto forma di righe. Scopri di più su questo formato file [qui](https://wiki.fileformat.com/word-processing/txt). |
+| static readonly [Unknown](../../groupdocs.signature.domain/filetype/unknown) | Rappresenta un tipo di file sconosciuto. |
+| static readonly [VCF](../../groupdocs.signature.domain/filetype/vcf) | Il file vCard (.vcf) è un formato di file digitale per memorizzare informazioni di contatto. Il formato è ampiamente utilizzato per lo scambio di dati tra le popolari applicazioni di scambio informazioni. Scopri di più su questo formato file [qui](https://wiki.fileformat.com/email/vcf). |
+| static readonly [WEBP](../../groupdocs.signature.domain/filetype/webp) | L'immagine WebP (.webp) è un moderno formato di file immagine raster per il web basato su compressione senza perdita e con perdita. Offre la stessa qualità dell'immagine riducendo notevolmente le dimensioni del file. Scopri di più su questo formato file [qui](https://wiki.fileformat.com/image/webp). |
+| static readonly [WMF](../../groupdocs.signature.domain/filetype/wmf) | Il Windows Metafile (.wmf) rappresenta il Microsoft Windows Metafile (WMF) per la memorizzazione di dati immagine sia vettoriali che bitmap. Scopri di più su questo formato file [qui](https://wiki.fileformat.com/image/wmf). |
+| static readonly [WPD](../../groupdocs.signature.domain/filetype/wpd) | Documento WordPerfect (.wpd) |
+| static readonly [XLS](../../groupdocs.signature.domain/filetype/xls) | Il foglio di calcolo Excel (.xls) rappresenta il formato di file binario di Excel. Tali file possono essere creati da Microsoft Excel così come da altri programmi di fogli di calcolo simili, come OpenOffice Calc o Apple Numbers. Scopri di più su questo formato file [qui](https://wiki.fileformat.com/spreadsheet/xls). |
+| static readonly [XLSB](../../groupdocs.signature.domain/filetype/xlsb) | Il foglio di calcolo binario Excel (.xlsb) specifica il formato di file binario di Excel, che è una raccolta di record e strutture che definiscono il contenuto della cartella di lavoro Excel. Scopri di più su questo formato file [qui](https://wiki.fileformat.com/spreadsheet/xlsb). |
+| static readonly [XLSM](../../groupdocs.signature.domain/filetype/xlsm) | Il foglio di calcolo Excel Open XML con macro abilitati (.xlsm) è un tipo di file di foglio di calcolo che supporta le macro. Scopri di più su questo formato file [qui](https://wiki.fileformat.com/spreadsheet/xlsm). |
+| static readonly [XLSX](../../groupdocs.signature.domain/filetype/xlsx) | Il foglio di calcolo Microsoft Excel Open XML (.xlsx) è un formato noto per i documenti Microsoft Excel, introdotto da Microsoft con il rilascio di Microsoft Office 2007. Scopri di più su questo formato file [qui](https://wiki.fileformat.com/spreadsheet/xlsx). |
+| static readonly [XLT](../../groupdocs.signature.domain/filetype/xlt) | Il modello binario Excel (.xlt) rappresenta il formato di file modello di Excel. Scopri di più su questo formato file [qui](https://wiki.fileformat.com/spreadsheet/xlt). |
+| static readonly [XLTM](../../groupdocs.signature.domain/filetype/xltm) | Il modello di file Excel Office OpenXML (.xltm) rappresenta il formato di file modello di Excel. Scopri di più su questo formato file [qui](https://wiki.fileformat.com/spreadsheet/xltm). |
+| static readonly [ZIP](../../groupdocs.signature.domain/filetype/zip) | L'archivio ZIP di documento (.zip) è un formato di file archivio che supporta la compressione dati senza perdita. Può contenere uno o più file o directory. Scopri di più su questo formato file [qui](https://docs.fileformat.com/compression/zip/). |
+
+### Osservazioni
+
+**Learn more**
+
+* More about file types supported by GroupDocs.Signature: [Document formats supported by GroupDocs.Signature](https://docs.groupdocs.com/display/signaturenet/Supported+Document+Formats)
+* More about how to get supported formats list in C#: [How to get supported file formats in C# code](https://docs.groupdocs.com/display/signaturenet/Get+supported+file+formats)
+
+### Vedi anche
+
+* namespace [GroupDocs.Signature.Domain](../../groupdocs.signature.domain)
+* assembly [GroupDocs.Signature](../../)
+
+<!-- NON MODIFICARE: generato da xmldocmd per GroupDocs.signature.dll -->
