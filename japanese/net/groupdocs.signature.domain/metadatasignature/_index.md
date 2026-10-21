@@ -1,0 +1,67 @@
+---
+title: "MetadataSignature"
+second_title: "GroupDocs.Signature for .NET API リファレンス"
+description: "メタデータ署名プロパティを含みます。"
+type: docs
+weight: 780
+url: /ja/net/groupdocs.signature.domain/metadatasignature/
+---
+## MetadataSignature class
+
+メタデータ署名プロパティを含みます。
+
+```csharp
+public abstract class MetadataSignature : BaseSignature
+```
+
+## プロパティ
+
+| 名前 | 説明 |
+| --- | --- |
+| [CreatedOn](../../groupdocs.signature.domain/basesignature/createdon) { get; set; } | 署名の作成日を取得または設定します。 |
+| [DataEncryption](../../groupdocs.signature.domain/metadatasignature/dataencryption) { get; set; } | 署名の Value プロパティをエンコードおよびデコードするための [`IDataEncryption`](../../groupdocs.signature.domain.extensions/idataencryption) インターフェイスの実装を取得または設定します。 |
+| [Deleted](../../groupdocs.signature.domain/basesignature/deleted) { get; } | この署名が文書から削除されたかどうかを示すフラグを取得します。このプロパティは、削除された署名のリストを保持するための文書履歴ログレコードでのみ使用されます。 |
+| [Height](../../groupdocs.signature.domain/basesignature/height) { get; set; } | 署名の高さを指定します。 |
+| [IsSignature](../../groupdocs.signature.domain/basesignature/issignature) { get; set; } | このコンポーネントが署名か文書コンテンツかを示すフラグを取得または設定します。このプロパティは Update メソッドと共に使用され、要素を署名 (true) または文書要素 (false) として設定します。 |
+| [Left](../../groupdocs.signature.domain/basesignature/left) { get; set; } | 署名の左位置を指定します。 |
+| [ModifiedOn](../../groupdocs.signature.domain/basesignature/modifiedon) { get; set; } | 署名の変更日を取得または設定します。 |
+| [Name](../../groupdocs.signature.domain/metadatasignature/name) { get; set; } | 一意のメタデータ名を指定します。 |
+| [PageNumber](../../groupdocs.signature.domain/basesignature/pagenumber) { get; } | 署名が見つかったページを指定します。 |
+| [SignatureId](../../groupdocs.signature.domain/basesignature/signatureid) { get; } | 文書内の署名を Update または Delete メソッドで変更するための一意の署名識別子です。このプロパティは Sign または Search メソッドが呼び出された後に自動的に設定されます。以前に保存されていた場合は、署名を操作するために手動で設定することができます。 |
+| [SignatureType](../../groupdocs.signature.domain/basesignature/signaturetype) { get; } | 署名のタイプを指定します。 |
+| [Top](../../groupdocs.signature.domain/basesignature/top) { get; set; } | 署名の上位置を指定します。 |
+| [Type](../../groupdocs.signature.domain/metadatasignature/type) { get; } | メタデータの値タイプを指定します。 |
+| [Value](../../groupdocs.signature.domain/metadatasignature/value) { get; set; } | メタデータオブジェクトを指定します。 |
+| [Width](../../groupdocs.signature.domain/basesignature/width) { get; set; } | 署名の幅を指定します。 |
+
+## メソッド
+
+| 名前 | 説明 |
+| --- | --- |
+| override [Clone](../../groupdocs.signature.domain/metadatasignature/clone#clone_1)() | Metadata Signature インスタンスをクローンします。 |
+| virtual [Clone](../../groupdocs.signature.domain/metadatasignature/clone#clone)(object) | 指定された値でメタデータ署名インスタンスをクローンします。 |
+| override [Equals](../../groupdocs.signature.domain/metadatasignature/equals)(object) | 署名プロパティを比較するために Equals メソッドを上書きします |
+| [GetData&lt;T&gt;](../../groupdocs.signature.domain/metadatasignature/getdata#getdata)() | デシリアライズ時に Metadata Signature Value からオブジェクトを取得します。 |
+| [GetData&lt;T&gt;](../../groupdocs.signature.domain/metadatasignature/getdata#getdata_1)(IDataEncryption) | デシリアライズ時に Metadata Signature Text からオブジェクトを取得します。 |
+| override [GetHashCode](../../groupdocs.signature.domain/metadatasignature/gethashcode)() | GetHashCode メソッドをオーバーライドします |
+| virtual [ToBoolean](../../groupdocs.signature.domain/metadatasignature/toboolean)() | ブール値に変換します。 |
+| virtual [ToDateTime](../../groupdocs.signature.domain/metadatasignature/todatetime#todatetime)() | DateTime に変換します。 |
+| virtual [ToDateTime](../../groupdocs.signature.domain/metadatasignature/todatetime#todatetime_1)(IFormatProvider) | DateTime に変換します。 |
+| virtual [ToDecimal](../../groupdocs.signature.domain/metadatasignature/todecimal#todecimal)() | Decimal に変換します。 |
+| virtual [ToDecimal](../../groupdocs.signature.domain/metadatasignature/todecimal#todecimal_1)(IFormatProvider) | Decimal に変換します。 |
+| virtual [ToDouble](../../groupdocs.signature.domain/metadatasignature/todouble#todouble)() | Double に変換します。 |
+| virtual [ToDouble](../../groupdocs.signature.domain/metadatasignature/todouble#todouble_1)(IFormatProvider) | Double に変換します。 |
+| virtual [ToInteger](../../groupdocs.signature.domain/metadatasignature/tointeger)() | 整数に変換します。 |
+| virtual [ToSingle](../../groupdocs.signature.domain/metadatasignature/tosingle#tosingle)() | float に変換します。 |
+| virtual [ToSingle](../../groupdocs.signature.domain/metadatasignature/tosingle#tosingle_1)(IFormatProvider) | float に変換します。 |
+| override [ToString](../../groupdocs.signature.domain/metadatasignature/tostring#tostring)() | String に変換します（ToString() メソッドをオーバーライド）。 |
+| virtual [ToString](../../groupdocs.signature.domain/metadatasignature/tostring#tostring_1)(string) | 指定されたフォーマットで String に変換します。 |
+| virtual [ToString](../../groupdocs.signature.domain/metadatasignature/tostring#tostring_2)(string, IFormatProvider) | 指定されたフォーマットで String に変換します。 |
+
+### 関連項目
+
+* class [BaseSignature](../basesignature)
+* namespace [GroupDocs.Signature.Domain](../../groupdocs.signature.domain)
+* assembly [GroupDocs.Signature](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.signature.dll -->
