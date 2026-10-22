@@ -1,0 +1,132 @@
+---
+title: "MetadataSearchOptions"
+second_title: "GroupDocs.Signature لـ Node.js عبر مرجع API لجافا"
+description: "يمثل خيارات البحث المجردة لتوقيعات البيانات الوصفية."
+type: docs
+weight: 15
+url: /ar/nodejs-java/com.groupdocs.signature.options.search/metadatasearchoptions/
+---
+**Inheritance:**
+java.lang.Object, [com.groupdocs.signature.options.OptionsExtensions](../../com.groupdocs.signature.options/optionsextensions), [com.groupdocs.signature.options.search.SearchOptions](../../com.groupdocs.signature.options.search/searchoptions)
+```
+public class MetadataSearchOptions extends SearchOptions
+```
+
+يمثل خيارات البحث المجردة لتوقيعات البيانات الوصفية.
+## المنشئات
+
+| المنشئ | الوصف |
+| --- | --- |
+| [MetadataSearchOptions()](#MetadataSearchOptions--) | ينشئ مثيلاً جديداً من الفئة SearchMetadataOptions بالقيم الافتراضية. |
+## الطرق
+
+| الطريقة | الوصف |
+| --- | --- |
+| [getName()](#getName--) | يحدد اسم توقيع البيانات الوصفية إذا كان يجب البحث عنه ومطابقته. |
+| [setName(String value)](#setName-java.lang.String-) | يحدد اسم توقيع البيانات الوصفية إذا كان يجب البحث عنه ومطابقته. |
+| [getNameMatchType()](#getNameMatchType--) | يحصل أو يعيّن نوع مطابقة اسم البيانات الوصفية للبحث. |
+| [setNameMatchType(int value)](#setNameMatchType-int-) | يحصل أو يعيّن نوع مطابقة اسم البيانات الوصفية للبحث. |
+| [getIncludeBuiltinProperties()](#getIncludeBuiltinProperties--) | يشير إلى ما إذا كان يجب تضمين خصائص المستند المدمجة مثل إحصائيات المستند، المعلومات، إلخ في نتيجة البحث. |
+| [setIncludeBuiltinProperties(boolean value)](#setIncludeBuiltinProperties-boolean-) | يشير إلى ما إذا كان يجب تضمين خصائص المستند المدمجة مثل إحصائيات المستند، المعلومات، إلخ في نتيجة البحث. |
+| [getDataEncryption()](#getDataEncryption--) | الحصول أو تعيين تنفيذ واجهة [IDataEncryption](../../com.groupdocs.signature.domain.extensions.encryption/idataencryption) لتشفير وفك تشفير خصائص نص أو بيانات توقيع QR-Code. |
+| [setDataEncryption(IDataEncryption value)](#setDataEncryption-com.groupdocs.signature.domain.extensions.encryption.IDataEncryption-) | الحصول أو تعيين تنفيذ واجهة [IDataEncryption](../../com.groupdocs.signature.domain.extensions.encryption/idataencryption) لتشفير وفك تشفير خصائص نص أو بيانات توقيع QR-Code. |
+### MetadataSearchOptions() {#MetadataSearchOptions--}
+```
+public MetadataSearchOptions()
+```
+
+
+ينشئ مثيلاً جديداً من الفئة SearchMetadataOptions بالقيم الافتراضية.
+
+### getName() {#getName--}
+```
+public final String getName()
+```
+
+
+يحدد اسم توقيع البيانات الوصفية إذا كان يجب البحث عنه ومطابقته.
+
+**Returns:**
+java.lang.String
+### setName(String value) {#setName-java.lang.String-}
+```
+public final void setName(String value)
+```
+
+
+يحدد اسم توقيع البيانات الوصفية إذا كان يجب البحث عنه ومطابقته.
+
+**Parameters:**
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| قيمة | java.lang.String |  |
+
+### getNameMatchType() {#getNameMatchType--}
+```
+public final int getNameMatchType()
+```
+
+
+يحصل أو يعيّن نوع مطابقة اسم البيانات الوصفية للبحث. يُستخدم فقط عندما يتم تعيين خاصية Name.
+
+**Returns:**
+int
+### setNameMatchType(int value) {#setNameMatchType-int-}
+```
+public final void setNameMatchType(int value)
+```
+
+
+يحصل أو يعيّن نوع مطابقة اسم البيانات الوصفية للبحث. يُستخدم فقط عندما يتم تعيين خاصية Name.
+
+**Parameters:**
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| قيمة | int |  |
+
+### getIncludeBuiltinProperties() {#getIncludeBuiltinProperties--}
+```
+public final boolean getIncludeBuiltinProperties()
+```
+
+
+يشير إلى ما إذا كان يجب تضمين خصائص المستند المدمجة مثل إحصائيات المستند، المعلومات، إلخ في نتيجة البحث. هذه العلامة ذات معنى لأنواع ملفات العروض التقديمية، جداول البيانات ومعالجة النصوص.
+
+**Returns:**
+boolean
+### setIncludeBuiltinProperties(boolean value) {#setIncludeBuiltinProperties-boolean-}
+```
+public final void setIncludeBuiltinProperties(boolean value)
+```
+
+
+يشير إلى ما إذا كان يجب تضمين خصائص المستند المدمجة مثل إحصائيات المستند، المعلومات، إلخ في نتيجة البحث. هذه العلامة ذات معنى لأنواع ملفات العروض التقديمية، جداول البيانات ومعالجة النصوص.
+
+**Parameters:**
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| قيمة | boolean |  |
+
+### getDataEncryption() {#getDataEncryption--}
+```
+public final IDataEncryption getDataEncryption()
+```
+
+
+الحصول أو تعيين تنفيذ واجهة [IDataEncryption](../../com.groupdocs.signature.domain.extensions.encryption/idataencryption) لتشفير وفك تشفير خصائص نص أو بيانات توقيع QR-Code.
+
+**Returns:**
+[IDataEncryption](../../com.groupdocs.signature.domain.extensions.encryption/idataencryption)
+### setDataEncryption(IDataEncryption value) {#setDataEncryption-com.groupdocs.signature.domain.extensions.encryption.IDataEncryption-}
+```
+public final void setDataEncryption(IDataEncryption value)
+```
+
+
+الحصول أو تعيين تنفيذ واجهة [IDataEncryption](../../com.groupdocs.signature.domain.extensions.encryption/idataencryption) لتشفير وفك تشفير خصائص نص أو بيانات توقيع QR-Code.
+
+**Parameters:**
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| value | [IDataEncryption](../../com.groupdocs.signature.domain.extensions.encryption/idataencryption) |  |
+
