@@ -1,0 +1,118 @@
+---
+title: "PdfTextAnnotationVerifyExtensions"
+second_title: "Node.js के लिए GroupDocs.Signature जावा API रेफ़रेंस के माध्यम से"
+description: "PDF टेक्स्ट एनोटेशन ऑब्जेक्ट की सत्यापन एक्सटेंशन का वर्णन करता है।"
+type: docs
+weight: 10
+url: /hi/nodejs-java/com.groupdocs.signature.options.verifyextensions/pdftextannotationverifyextensions/
+---
+**Inheritance:**
+java.lang.Object, [com.groupdocs.signature.options.verifyextensions.VerifyExtensions](../../com.groupdocs.signature.options.verifyextensions/verifyextensions)
+```
+public class PdfTextAnnotationVerifyExtensions extends VerifyExtensions
+```
+
+PDF टेक्स्ट एनोटेशन ऑब्जेक्ट की सत्यापन एक्सटेंशन का वर्णन करता है।
+## कंस्ट्रक्टर्स
+
+| कंस्ट्रक्टर | विवरण |
+| --- | --- |
+| [PdfTextAnnotationVerifyExtensions()](#PdfTextAnnotationVerifyExtensions--) | खाली मानों के साथ PDF टेक्स्ट एनोटेशन सिग्नेचर वेरिफिकेशन एक्सटेंशन बनाता है। |
+## मेथड्स
+
+| मेथड | विवरण |
+| --- | --- |
+| [getTitle()](#getTitle--) | सत्यापित किए जाने वाले टेक्स्ट एनोटेशन का शीर्षक। |
+| [setTitle(String value)](#setTitle-java.lang.String-) | सत्यापित किए जाने वाले टेक्स्ट एनोटेशन का शीर्षक। |
+| [getSubject()](#getSubject--) | सत्यापित किए जाने वाले टेक्स्ट एनोटेशन का विषय। |
+| [setSubject(String value)](#setSubject-java.lang.String-) | सत्यापित किए जाने वाले टेक्स्ट एनोटेशन का विषय। |
+| [getContents()](#getContents--) | सत्यापित किए जाने वाले टेक्स्ट annotationn की सामग्री। |
+| [setContents(String value)](#setContents-java.lang.String-) | सत्यापित किए जाने वाले टेक्स्ट annotationn की सामग्री। |
+| [toString()](#toString--) | स्ट्रिंग रूपांतरण को ओवरराइड करें। |
+### PdfTextAnnotationVerifyExtensions() {#PdfTextAnnotationVerifyExtensions--}
+```
+public PdfTextAnnotationVerifyExtensions()
+```
+
+
+खाली मानों के साथ PDF टेक्स्ट एनोटेशन सिग्नेचर वेरिफिकेशन एक्सटेंशन बनाता है।
+
+### getTitle() {#getTitle--}
+```
+public final String getTitle()
+```
+
+
+सत्यापित किए जाने वाले टेक्स्ट एनोटेशन का शीर्षक। यदि खाली स्ट्रिंग या null के बराबर है तो सत्यापित नहीं होगा।
+
+**Returns:**
+java.lang.String
+### setTitle(String value) {#setTitle-java.lang.String-}
+```
+public final void setTitle(String value)
+```
+
+
+सत्यापित किए जाने वाले टेक्स्ट एनोटेशन का शीर्षक। यदि खाली स्ट्रिंग या null के बराबर है तो सत्यापित नहीं होगा।
+
+**Parameters:**
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| मान | java.lang.String |  |
+
+### getSubject() {#getSubject--}
+```
+public final String getSubject()
+```
+
+
+सत्यापित किए जाने वाले टेक्स्ट एनोटेशन का विषय। यदि खाली स्ट्रिंग या null के बराबर है तो सत्यापित नहीं होगा।
+
+**Returns:**
+java.lang.String
+### setSubject(String value) {#setSubject-java.lang.String-}
+```
+public final void setSubject(String value)
+```
+
+
+सत्यापित किए जाने वाले टेक्स्ट एनोटेशन का विषय। यदि खाली स्ट्रिंग या null के बराबर है तो सत्यापित नहीं होगा।
+
+**Parameters:**
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| मान | java.lang.String |  |
+
+### getContents() {#getContents--}
+```
+public final String getContents()
+```
+
+
+सत्यापित किए जाने वाले टेक्स्ट annotationn की सामग्री। यदि खाली स्ट्रिंग या null के बराबर है तो सत्यापित नहीं होगा।
+
+**Returns:**
+java.lang.String
+### setContents(String value) {#setContents-java.lang.String-}
+```
+public final void setContents(String value)
+```
+
+
+सत्यापित किए जाने वाले टेक्स्ट annotationn की सामग्री। यदि खाली स्ट्रिंग या null के बराबर है तो सत्यापित नहीं होगा।
+
+**Parameters:**
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| मान | java.lang.String |  |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+स्ट्रिंग रूपांतरण को ओवरराइड करें।
+
+**Returns:**
+java.lang.String -
