@@ -1,0 +1,188 @@
+---
+title: "PdfTextStickerAppearance"
+second_title: "Node.js के लिए GroupDocs.Signature जावा API रेफ़रेंस के माध्यम से"
+description: "PDF टेक्स्ट एनोटेशन स्टिकर ऑब्जेक्ट और स्टिकर की पॉप-अप विंडो की उपस्थिति का वर्णन करता है।"
+type: docs
+weight: 14
+url: /hi/nodejs-java/com.groupdocs.signature.options.appearances/pdftextstickerappearance/
+---
+**Inheritance:**
+java.lang.Object, [com.groupdocs.signature.options.appearances.SignatureAppearance](../../com.groupdocs.signature.options.appearances/signatureappearance)
+```
+public final class PdfTextStickerAppearance extends SignatureAppearance
+```
+
+PDF टेक्स्ट एनोटेशन स्टिकर ऑब्जेक्ट और स्टिकर की पॉप-अप विंडो की उपस्थिति का वर्णन करता है।
+## कंस्ट्रक्टर्स
+
+| कंस्ट्रक्टर | विवरण |
+| --- | --- |
+| [PdfTextStickerAppearance()](#PdfTextStickerAppearance--) | PDF सिग्नेचर टेक्स्ट एनोटेशन अपीयरेंस ऑब्जेक्ट बनाता है। |
+## मेथड्स
+
+| मेथड | विवरण |
+| --- | --- |
+| [getTitle()](#getTitle--) | पॉप-अप विंडो का शीर्षक प्राप्त करता है या सेट करता है। |
+| [setTitle(String value)](#setTitle-java.lang.String-) | पॉप-अप विंडो का शीर्षक प्राप्त करता है या सेट करता है। |
+| [getSubject()](#getSubject--) | विषय प्राप्त करता है या सेट करता है। |
+| [setSubject(String value)](#setSubject-java.lang.String-) | विषय प्राप्त करता है या सेट करता है। |
+| [getContents()](#getContents--) | पॉप-अप विंडो की सामग्री प्राप्त करता है या सेट करता है। |
+| [setContents(String value)](#setContents-java.lang.String-) | पॉप-अप विंडो की सामग्री प्राप्त करता है या सेट करता है। |
+| [getOpened()](#getOpened--) | यदि स्टिकर पॉप-अप विंडो डिफ़ॉल्ट रूप से खुलनी चाहिए तो सेट करें। |
+| [setOpened(boolean value)](#setOpened-boolean-) | यदि स्टिकर पॉप-अप विंडो डिफ़ॉल्ट रूप से खुलनी चाहिए तो सेट करें। |
+| [getIcon()](#getIcon--) | स्टिकर का आइकन प्राप्त करता है या सेट करता है। |
+| [setIcon(int value)](#setIcon-int-) | स्टिकर का आइकन प्राप्त करता है या सेट करता है। |
+| [getDefaultAppearance()](#getDefaultAppearance--) | स्टिकर के लिए डिफ़ॉल्ट अपीयरेंस प्राप्त करता है। |
+| [resetDefaultAppearance()](#resetDefaultAppearance--) | स्टिकर के डिफ़ॉल्ट अपीयरेंस के मानों को साफ़ करता है। |
+| [toString()](#toString--) | स्ट्रिंग रूपांतरण को ओवरराइड करें। |
+### PdfTextStickerAppearance() {#PdfTextStickerAppearance--}
+```
+public PdfTextStickerAppearance()
+```
+
+
+PDF सिग्नेचर टेक्स्ट एनोटेशन अपीयरेंस ऑब्जेक्ट बनाता है।
+
+### getTitle() {#getTitle--}
+```
+public final String getTitle()
+```
+
+
+पॉप-अप विंडो का शीर्षक प्राप्त करता है या सेट करता है।
+
+**Returns:**
+java.lang.String
+### setTitle(String value) {#setTitle-java.lang.String-}
+```
+public final void setTitle(String value)
+```
+
+
+पॉप-अप विंडो का शीर्षक प्राप्त करता है या सेट करता है।
+
+**Parameters:**
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| मान | java.lang.String |  |
+
+### getSubject() {#getSubject--}
+```
+public final String getSubject()
+```
+
+
+विषय प्राप्त करता है या सेट करता है।
+
+**Returns:**
+java.lang.String
+### setSubject(String value) {#setSubject-java.lang.String-}
+```
+public final void setSubject(String value)
+```
+
+
+विषय प्राप्त करता है या सेट करता है।
+
+**Parameters:**
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| मान | java.lang.String |  |
+
+### getContents() {#getContents--}
+```
+public final String getContents()
+```
+
+
+पॉप-अप विंडो की सामग्री प्राप्त करता है या सेट करता है।
+
+**Returns:**
+java.lang.String
+### setContents(String value) {#setContents-java.lang.String-}
+```
+public final void setContents(String value)
+```
+
+
+पॉप-अप विंडो की सामग्री प्राप्त करता है या सेट करता है।
+
+**Parameters:**
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| मान | java.lang.String |  |
+
+### getOpened() {#getOpened--}
+```
+public final boolean getOpened()
+```
+
+
+यदि स्टिकर पॉप-अप विंडो डिफ़ॉल्ट रूप से खुलनी चाहिए तो सेट करें।
+
+**Returns:**
+boolean
+### setOpened(boolean value) {#setOpened-boolean-}
+```
+public final void setOpened(boolean value)
+```
+
+
+यदि स्टिकर पॉप-अप विंडो डिफ़ॉल्ट रूप से खुलनी चाहिए तो सेट करें।
+
+**Parameters:**
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| मान | boolean |  |
+
+### getIcon() {#getIcon--}
+```
+public final int getIcon()
+```
+
+
+स्टिकर का आइकन प्राप्त करता है या सेट करता है।
+
+**Returns:**
+int
+### setIcon(int value) {#setIcon-int-}
+```
+public final void setIcon(int value)
+```
+
+
+स्टिकर का आइकन प्राप्त करता है या सेट करता है।
+
+**Parameters:**
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| मान | int |  |
+
+### getDefaultAppearance() {#getDefaultAppearance--}
+```
+public static PdfTextStickerAppearance getDefaultAppearance()
+```
+
+
+स्टिकर के लिए डिफ़ॉल्ट अपीयरेंस प्राप्त करता है। यदि Options.SignatureAppearance प्रॉपर्टी निर्दिष्ट नहीं की गई है तो ये प्रॉपर्टी डिफ़ॉल्ट रूप से लागू होती हैं। उपयोगकर्ता कभी भी इन प्रॉपर्टी को बदल सकता है।
+
+**Returns:**
+[PdfTextStickerAppearance](../../com.groupdocs.signature.options.appearances/pdftextstickerappearance)
+### resetDefaultAppearance() {#resetDefaultAppearance--}
+```
+public static void resetDefaultAppearance()
+```
+
+
+स्टिकर के डिफ़ॉल्ट अपीयरेंस के मानों को साफ़ करता है।
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+स्ट्रिंग रूपांतरण को ओवरराइड करें।
+
+**Returns:**
+java.lang.String -
