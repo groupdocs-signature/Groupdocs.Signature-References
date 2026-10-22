@@ -1,0 +1,86 @@
+---
+title: "DigitalFormFieldSignature"
+second_title: "GroupDocs.Signature για Node.js μέσω αναφοράς Java API"
+description: "Περιέχει ιδιότητες πεδίου φόρμας εισόδου ψηφιακής υπογραφής για έγγραφα PDF."
+type: docs
+weight: 12
+url: /el/nodejs-java/com.groupdocs.signature.domain.signatures.formfield/digitalformfieldsignature/
+---
+**Inheritance:**
+java.lang.Object, [com.groupdocs.signature.domain.signatures.BaseSignature](../../com.groupdocs.signature.domain.signatures/basesignature), [com.groupdocs.signature.domain.signatures.formfield.FormFieldSignature](../../com.groupdocs.signature.domain.signatures/formfieldsignature)
+```
+public final class DigitalFormFieldSignature extends FormFieldSignature
+```
+
+Περιέχει ιδιότητες πεδίου φόρμας εισόδου ψηφιακής υπογραφής για έγγραφα PDF.
+## Κατασκευαστές
+
+| Κατασκευαστής | Περιγραφή |
+| --- | --- |
+| [DigitalFormFieldSignature(String name)](#DigitalFormFieldSignature-java.lang.String-) | Δημιουργεί PdfDigitalFormFieldSignature με προκαθορισμένο όνομα. |
+## Μέθοδοι
+
+| Μέθοδος | Περιγραφή |
+| --- | --- |
+| [getSigned()](#getSigned--) | Ιδιότητα μόνο για ανάγνωση που δείχνει αν η υπογραφή Form-field υπογράφηκε με ψηφιακό πιστοποιητικό. |
+| [equals(Object signature)](#equals-java.lang.Object-) | Αντικαθιστά τη μέθοδο Equals για τη σύγκριση των ιδιοτήτων της υπογραφής. |
+| [hashCode()](#hashCode--) | Αντικαθιστά τη μέθοδο GetHashCode |
+| [deepClone()](#deepClone--) | Κλωνοποιεί το αντίγραφο της FormField Signature. |
+### DigitalFormFieldSignature(String name) {#DigitalFormFieldSignature-java.lang.String-}
+```
+public DigitalFormFieldSignature(String name)
+```
+
+
+Δημιουργεί PdfDigitalFormFieldSignature με προκαθορισμένο όνομα.
+
+**Parameters:**
+| Παράμετρος | Τύπος | Περιγραφή |
+| --- | --- | --- |
+| name | java.lang.String | Όνομα του αντικειμένου πεδίου φόρμας. |
+
+### getSigned() {#getSigned--}
+```
+public final boolean getSigned()
+```
+
+
+Ιδιότητα μόνο για ανάγνωση που δείχνει αν η υπογραφή Form-field υπογράφηκε με ψηφιακό πιστοποιητικό.
+
+**Returns:**
+boolean
+### equals(Object signature) {#equals-java.lang.Object-}
+```
+public boolean equals(Object signature)
+```
+
+
+Αντικαθιστά τη μέθοδο Equals για τη σύγκριση των ιδιοτήτων της υπογραφής.
+
+**Parameters:**
+| Παράμετρος | Τύπος | Περιγραφή |
+| --- | --- | --- |
+| υπογραφή | java.lang.Object | Αντικείμενο υπογραφής για σύγκριση. |
+
+**Returns:**
+boolean - Επιστρέφει true εάν το δοσμένο αντικείμενο υπογραφής έχει τον ίδιο τύπο και όλες οι ιδιότητές του είναι ίσες με τις ιδιότητες αυτού του αντικειμένου.
+### hashCode() {#hashCode--}
+```
+public int hashCode()
+```
+
+
+Αντικαθιστά τη μέθοδο GetHashCode
+
+**Returns:**
+int - Κώδικας κατακερματισμού υπογραφής
+### deepClone() {#deepClone--}
+```
+public Object deepClone()
+```
+
+
+Κλωνοποιεί το αντίγραφο της FormField Signature.
+
+**Returns:**
+java.lang.Object - Επιστρέφει κλωνοποιημένη παρουσία υπογραφής FormField.
