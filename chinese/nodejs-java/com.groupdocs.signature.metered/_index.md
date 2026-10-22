@@ -1,0 +1,17 @@
+---
+title: "com.groupdocs.signature.metered"
+second_title: "GroupDocs.Signature 的 Node.js 通过 Java API 参考"
+description: "提供设置计量密钥的方法。"
+type: docs
+weight: 33
+url: /zh/nodejs-java/com.groupdocs.signature.metered/
+---
+
+提供设置计量密钥的方法。
+
+
+## 类
+
+| 类 | 描述 |
+| --- | --- |
+| [Metered](../com.groupdocs.signature.metered/metered) | 提供应用  [Metered][]  许可证的方法。[Metered]： https://purchase.groupdocs.com/faqs/licensing/metered |

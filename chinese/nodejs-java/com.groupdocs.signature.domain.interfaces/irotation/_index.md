@@ -1,0 +1,41 @@
+---
+title: "IRotation"
+second_title: "GroupDocs.Signature 的 Node.js 通过 Java API 参考"
+description: "接口定义签名旋转的属性。"
+type: docs
+weight: 12
+url: /zh/nodejs-java/com.groupdocs.signature.domain.interfaces/irotation/
+---```
+public interface IRotation
+```
+
+Interface defines properties for Signature Rotation.
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [getRotationAngle()](#getRotationAngle--) | Rotation angle clockwise. |
+| [setRotationAngle(int value)](#setRotationAngle-int-) | Rotation angle clockwise. |
+### getRotationAngle() {#getRotationAngle--}
+```
+public abstract int getRotationAngle()
+```
+
+
+Rotation angle clockwise.
+
+**Returns:**
+int
+### setRotationAngle(int value) {#setRotationAngle-int-}
+```
+public abstract void setRotationAngle(int value)
+```
+
+
+Rotation angle clockwise.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
+
