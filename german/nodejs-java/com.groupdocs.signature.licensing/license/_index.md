@@ -1,0 +1,87 @@
+---
+title: "Lizenz"
+second_title: "GroupDocs.Signature für Node.js über Java API-Referenz"
+description: "Stellt Methoden zum Lizenzieren der Komponente bereit."
+type: docs
+weight: 10
+url: /de/nodejs-java/com.groupdocs.signature.licensing/license/
+---
+**Inheritance:**
+java.lang.Object
+```
+public final class License
+```
+
+Stellt Methoden zur Lizenzierung der Komponente bereit. Erfahren Sie mehr über die Lizenzierung [hier][].
+
+
+[here]: https://purchase.groupdocs.com/faqs/licensing
+## Konstruktoren
+
+| Konstruktor | Beschreibung |
+| --- | --- |
+| [License()](#License--) | Instanziieren Sie die Lizenz |
+## Methoden
+
+| Methode | Beschreibung |
+| --- | --- |
+| [setLicense(String licensePath)](#setLicense-java.lang.String-) | Lizenziert die Komponente. |
+| [setLicense(InputStream licenseStream)](#setLicense-java.io.InputStream-) | Lizenziert die Komponente. |
+### License() {#License--}
+```
+public License()
+```
+
+
+Instanziieren Sie die Lizenz
+
+### setLicense(String licensePath) {#setLicense-java.lang.String-}
+```
+public final void setLicense(String licensePath)
+```
+
+
+Lizenziert die Komponente.
+
+--------------------
+
+> ```
+> The following example demonstrates how to set a license
+>  passing a path to the license file.
+>  
+>  string licensePath = "GroupDocs.Signature.lic";
+>  GroupDocs.Signature.License lic = new GroupDocs.Signature.License();
+>  lic.SetLicense(licensePath);
+> ```
+
+**Parameters:**
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| licensePath | java.lang.String | Der Lizenzpfad. |
+
+### setLicense(InputStream licenseStream) {#setLicense-java.io.InputStream-}
+```
+public final void setLicense(InputStream licenseStream)
+```
+
+
+Lizenziert die Komponente.
+
+--------------------
+
+> ```
+> The following example demonstrates how to set a license
+>  passing Stream of the license file.
+>  
+>  using (FileStream licenseStream = new FileStream("GroupDocs.Signature.lic", FileMode.Open))
+>  {
+>      GroupDocs.Signature.License lic = new GroupDocs.Signature.License();
+>      lic.SetLicense(licenseStream);
+>  }
+> ```
+
+**Parameters:**
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| licenseStream | java.io.InputStream | Der Lizenz-Stream. |
+
