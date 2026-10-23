@@ -1,0 +1,20 @@
+---
+title: "PNG फ़ील्ड"
+second_title: "GroupDocs.Signature for Python via .NET API References"
+description: "दस्तावेज़ को पोर्टेबल नेटवर्क ग्राफ़िक्स फ़ॉर्मेट में सहेजता है."
+type: docs
+url: /hi/python-net/groupdocs.signature.domain/spreadsheetsavefileformat/png/
+is_root: false
+weight: 3180
+---
+
+
+## PNG field
+
+दस्तावेज़ को पोर्टेबल नेटवर्क ग्राफ़िक्स फ़ॉर्मेट में सहेजता है.
+
+### मान
+`34`
+
+### संबंधित देखें
+* class [`SpreadsheetSaveFileFormat`](/signature/python-net/groupdocs.signature.domain/spreadsheetsavefileformat/)

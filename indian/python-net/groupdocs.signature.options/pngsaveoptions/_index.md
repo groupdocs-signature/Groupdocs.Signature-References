@@ -1,0 +1,38 @@
+---
+title: "PngSaveOptions क्लास"
+second_title: "GroupDocs.Signature for Python via .NET API References"
+description: "इमेज दस्तावेज़ों के लिए PNG सहेजने विकल्प।"
+type: docs
+url: /hi/python-net/groupdocs.signature.options/pngsaveoptions/
+is_root: false
+weight: 400
+---
+
+
+## PngSaveOptions class
+
+इमेज दस्तावेज़ों के लिए PNG सहेजने विकल्प।
+
+PngSaveOptions प्रकार निम्नलिखित सदस्यों को उजागर करता है:
+
+### कंस्ट्रक्टर
+| कंस्ट्रक्टर | विवरण |
+| :- | :- |
+| [__init__](/signature/python-net/groupdocs.signature.options/pngsaveoptions/__init__/) | डिफ़ॉल्ट मानों के साथ PngSaveOptions को आरंभ करता है। |
+
+### गुण
+| गुण | विवरण |
+| :- | :- |
+| [bit_depth](/signature/python-net/groupdocs.signature.options/pngsaveoptions/bit_depth/) | बिट गहराई। |
+| [color_type](/signature/python-net/groupdocs.signature.options/pngsaveoptions/color_type/) | `PngColorType` का प्रकार। |
+| [compression_level](/signature/python-net/groupdocs.signature.options/pngsaveoptions/compression_level/) | 0-9 सीमा में PNG छवि संपीड़न स्तर, जहाँ 9 अधिकतम संपीड़न है और 0 स्टोर मोड है। |
+| [filter_type](/signature/python-net/groupdocs.signature.options/pngsaveoptions/filter_type/) | PNG फ़ाइल सहेजने की प्रक्रिया के दौरान उपयोग किया गया फ़िल्टर प्रकार `PngFilterType`। |
+| [progressive](/signature/python-net/groupdocs.signature.options/pngsaveoptions/progressive/) | प्रोग्रेसिव फ़्लैग जो दर्शाता है कि PNG प्रोग्रेसिव रूप से सहेजा गया है या नहीं। |
+| [add_missing_extenstion](/signature/python-net/groupdocs.signature.options/saveoptions/add_missing_extenstion/) | यह फ़्लैग निर्धारित करता है कि आउटपुट फ़ाइल पाथ में यदि एक्सटेंशन गायब हो तो उसे स्वचालित रूप से जोड़ना है या नहीं। डिफ़ॉल्ट मान False है। ([`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions/) से विरासत में मिला) |
+| [file_format](/signature/python-net/groupdocs.signature.options/imagesaveoptions/file_format/) | साइन किए गए दस्तावेज़ का फ़ाइल फ़ॉर्मेट। ([`ImageSaveOptions`](/signature/python-net/groupdocs.signature.options/imagesaveoptions/) से विरासत में मिला) |
+| [overwrite_existing_files](/signature/python-net/groupdocs.signature.options/saveoptions/overwrite_existing_files/) | यह फ़्लैग दर्शाता है कि नई आउटपुट फ़ाइल से मौजूदा फ़ाइल को ओवरराइट करना है या नहीं। ([`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions/) से विरासत में मिला) |
+| [password](/signature/python-net/groupdocs.signature.options/saveoptions/password/) | सहेजे गए साइन किए गए दस्तावेज़ की सुरक्षा के लिए उपयोग किया गया पासवर्ड। इमेज दस्तावेज़ों के लिए समर्थित नहीं है। ([`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions/) से विरासत में मिला) |
+| [use_original_password](/signature/python-net/groupdocs.signature.options/saveoptions/use_original_password/) | साइन किए गए दस्तावेज़ को संरक्षित रूप में सहेजते समय [`LoadOptions`](/signature/python-net/groupdocs.signature.options/loadoptions/) से पासवर्ड उपयोग करने का फ़्लैग। डिफ़ॉल्ट मान True है। इमेज दस्तावेज़ों के लिए समर्थित नहीं है। ([`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions/) से विरासत में मिला) |
+
+### संबंधित देखें
+* module [`groupdocs.signature.options`](/signature/python-net/groupdocs.signature.options/)

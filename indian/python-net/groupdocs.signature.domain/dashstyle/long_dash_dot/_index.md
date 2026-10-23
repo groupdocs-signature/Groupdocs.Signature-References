@@ -1,0 +1,20 @@
+---
+title: "LONG_DASH_DOT फ़ील्ड"
+second_title: "GroupDocs.Signature for Python via .NET API References"
+description: "लंबा डैश छोटा डैश।"
+type: docs
+url: /hi/python-net/groupdocs.signature.domain/dashstyle/long_dash_dot/
+is_root: false
+weight: 3100
+---
+
+
+## LONG_DASH_DOT field
+
+लंबा डैश छोटा डैश।
+
+### मान
+`9`
+
+### संबंधित देखें
+* class [`DashStyle`](/signature/python-net/groupdocs.signature.domain/dashstyle/)
