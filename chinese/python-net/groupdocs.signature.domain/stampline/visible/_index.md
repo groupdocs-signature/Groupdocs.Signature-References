@@ -1,0 +1,27 @@
+---
+title: "visible 属性"
+second_title: "GroupDocs.Signature for Python via .NET API 参考"
+description: "印章线的可见性。"
+type: docs
+url: /zh/python-net/groupdocs.signature.domain/stampline/visible/
+is_root: false
+weight: 2100
+---
+
+
+## visible property
+
+印章线的可见性。
+
+### Definition:
+```python
+@property
+def visible(self):
+    ...
+@visible.setter
+def visible(self, value):
+    ...
+```
+
+### 另见
+* class [`StampLine`](/signature/python-net/groupdocs.signature.domain/stampline/)

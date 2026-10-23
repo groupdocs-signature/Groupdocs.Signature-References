@@ -1,0 +1,17 @@
+---
+title: "ONE_CODE 字段"
+second_title: "GroupDocs.Signature for Python via .NET API 参考"
+description: "OneCode 条形码类型对象。"
+type: docs
+url: /zh/python-net/groupdocs.signature.domain/barcodetypes/one_code/
+is_root: false
+weight: 3450
+---
+
+
+## ONE_CODE field
+
+OneCode 条形码类型对象。
+
+### 另见
+* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes/)

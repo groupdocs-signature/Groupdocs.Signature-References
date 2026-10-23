@@ -1,0 +1,20 @@
+---
+title: "FLOW_CHART_OFFLINE_STORAGE 字段"
+second_title: "GroupDocs.Signature for Python via .NET API 参考"
+description: "流程图离线存储。"
+type: docs
+url: /zh/python-net/groupdocs.signature.domain/textshapetype/flow_chart_offline_storage/
+is_root: false
+weight: 4280
+---
+
+
+## FLOW_CHART_OFFLINE_STORAGE field
+
+流程图离线存储。
+
+### 值
+`129`
+
+### 另见
+* class [`TextShapeType`](/signature/python-net/groupdocs.signature.domain/textshapetype/)
