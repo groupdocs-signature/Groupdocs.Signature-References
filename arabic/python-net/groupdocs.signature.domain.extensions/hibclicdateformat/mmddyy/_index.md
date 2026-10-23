@@ -1,0 +1,20 @@
+---
+title: "حقل MMDDYY"
+second_title: "مراجع API لـ GroupDocs.Signature للبايثون عبر .NET"
+description: "تنسيق MMDDYY."
+type: docs
+url: /ar/python-net/groupdocs.signature.domain.extensions/hibclicdateformat/mmddyy/
+is_root: false
+weight: 3030
+---
+
+
+## MMDDYY field
+
+تنسيق MMDDYY.
+
+### القيمة
+`2`
+
+### انظر أيضًا
+* class [`HIBCLICDateFormat`](/signature/python-net/groupdocs.signature.domain.extensions/hibclicdateformat/)

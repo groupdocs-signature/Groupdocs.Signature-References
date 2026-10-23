@@ -1,0 +1,20 @@
+---
+title: "حقل UNKNOWN"
+second_title: "مراجع API لـ GroupDocs.Signature للبايثون عبر .NET"
+description: "يشير إلى خطأ، نوع مستند غير معروف."
+type: docs
+url: /ar/python-net/groupdocs.signature.domain/documenttype/unknown/
+is_root: false
+weight: 3010
+---
+
+
+## UNKNOWN field
+
+يشير إلى خطأ، نوع مستند غير معروف.
+
+### القيمة
+`0`
+
+### انظر أيضًا
+* class [`DocumentType`](/signature/python-net/groupdocs.signature.domain/documenttype/)
