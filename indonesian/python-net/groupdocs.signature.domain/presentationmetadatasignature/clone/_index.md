@@ -1,0 +1,39 @@
+---
+title: "clone metode"
+second_title: "Referensi API GroupDocs.Signature untuk Python melalui .NET"
+description: "Menggandakan instance Tanda Tangan Metadata."
+type: docs
+url: /id/python-net/groupdocs.signature.domain/presentationmetadatasignature/clone/
+is_root: false
+weight: 1010
+---
+
+
+## clone
+
+Menggandakan instance Tanda Tangan Metadata.
+
+```python
+def clone(self):
+    ...
+```
+
+**Returns:** PresentationMetadataSignature: Cloned Metadata Signature instance.
+
+## clone {#value}
+
+Mengkloning instance tanda tangan metadata Slides dengan nilai yang diberikan.
+
+```python
+def clone(self, value):
+    ...
+```
+
+| Parameter | Tipe | Deskripsi |
+| :- | :- | :- |
+| value | `Any` | Nilai untuk objek yang digandakan baru. |
+
+**Returns:** PresentationMetadataSignature: Cloned metadata signature instance.
+
+### Lihat Juga
+* class [`PresentationMetadataSignature`](/signature/python-net/groupdocs.signature.domain/presentationmetadatasignature/)
