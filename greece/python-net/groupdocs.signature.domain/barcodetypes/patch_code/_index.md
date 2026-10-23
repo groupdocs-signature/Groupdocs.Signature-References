@@ -1,0 +1,17 @@
+---
+title: "PATCH_CODE πεδίο"
+second_title: "GroupDocs.Signature για Python μέσω .NET Αναφορές API"
+description: "Patch Code Αντικείμενο τύπου Barcode."
+type: docs
+url: /el/python-net/groupdocs.signature.domain/barcodetypes/patch_code/
+is_root: false
+weight: 3470
+---
+
+
+## PATCH_CODE field
+
+Patch Code Αντικείμενο τύπου Barcode.
+
+### Δείτε επίσης
+* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes/)

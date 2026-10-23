@@ -1,0 +1,17 @@
+---
+title: "GS1_DATA_MATRIX πεδίο"
+second_title: "GroupDocs.Signature για Python μέσω .NET Αναφορές API"
+description: "Αντικείμενο τύπου GS1 DataMatrix QR-Code."
+type: docs
+url: /el/python-net/groupdocs.signature.domain/qrcodetypes/gs1_data_matrix/
+is_root: false
+weight: 3050
+---
+
+
+## GS1_DATA_MATRIX field
+
+Αντικείμενο τύπου GS1 DataMatrix QR-Code.
+
+### Δείτε επίσης
+* class [`QrCodeTypes`](/signature/python-net/groupdocs.signature.domain/qrcodetypes/)
