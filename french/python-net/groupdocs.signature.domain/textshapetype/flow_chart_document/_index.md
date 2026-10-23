@@ -1,0 +1,20 @@
+---
+title: "champ FLOW_CHART_DOCUMENT"
+second_title: "Références API de GroupDocs.Signature pour Python via .NET"
+description: "DocumentDiagrammeFlux."
+type: docs
+url: /fr/python-net/groupdocs.signature.domain/textshapetype/flow_chart_document/
+is_root: false
+weight: 4130
+---
+
+
+## FLOW_CHART_DOCUMENT field
+
+DocumentDiagrammeFlux.
+
+### Valeur
+`114`
+
+### Voir aussi
+* class [`TextShapeType`](/signature/python-net/groupdocs.signature.domain/textshapetype/)
