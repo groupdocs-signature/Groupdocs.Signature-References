@@ -1,0 +1,24 @@
+---
+title: "طريقة get_hash_code"
+second_title: "مراجع API لـ GroupDocs.Signature للبايثون عبر .NET"
+description: "يعيد رمز التجزئة الخاص بـ Event."
+type: docs
+url: /ar/python-net/groupdocs.signature.domain.extensions/event/get_hash_code/
+is_root: false
+weight: 1030
+---
+
+
+## get_hash_code
+
+يعيد رمز التجزئة الخاص بـ Event.
+
+```python
+def get_hash_code(self):
+    ...
+```
+
+**Returns:** int: Event hash code.
+
+### انظر أيضًا
+* class [`Event`](/signature/python-net/groupdocs.signature.domain.extensions/event/)

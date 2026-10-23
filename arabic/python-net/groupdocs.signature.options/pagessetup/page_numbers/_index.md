@@ -1,0 +1,27 @@
+---
+title: "خاصية page_numbers"
+second_title: "مراجع API لـ GroupDocs.Signature للبايثون عبر .NET"
+description: "أرقام الصفحات في المستند التي سيتم استخدامها."
+type: docs
+url: /ar/python-net/groupdocs.signature.options/pagessetup/page_numbers/
+is_root: false
+weight: 2050
+---
+
+
+## page_numbers property
+
+أرقام الصفحات في المستند التي سيتم استخدامها.
+
+### Definition:
+```python
+@property
+def page_numbers(self):
+    ...
+@page_numbers.setter
+def page_numbers(self, value):
+    ...
+```
+
+### انظر أيضًا
+* class [`PagesSetup`](/signature/python-net/groupdocs.signature.options/pagessetup/)
