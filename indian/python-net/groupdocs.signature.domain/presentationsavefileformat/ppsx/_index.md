@@ -1,0 +1,20 @@
+---
+title: "PPSX फ़ील्ड"
+second_title: "GroupDocs.Signature for Python via .NET API References"
+description: "दस्तावेज़ को माइक्रोसॉफ्ट पावरपॉइंट ओपन XML स्लाइड शो फ़ॉर्मेट में सहेजता है।"
+type: docs
+url: /hi/python-net/groupdocs.signature.domain/presentationsavefileformat/ppsx/
+is_root: false
+weight: 3070
+---
+
+
+## PPSX field
+
+दस्तावेज़ को माइक्रोसॉफ्ट पावरपॉइंट ओपन XML स्लाइड शो फ़ॉर्मेट में सहेजता है।
+
+### मान
+`6`
+
+### संबंधित देखें
+* class [`PresentationSaveFileFormat`](/signature/python-net/groupdocs.signature.domain/presentationsavefileformat/)

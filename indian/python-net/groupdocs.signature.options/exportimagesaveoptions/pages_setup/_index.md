@@ -1,0 +1,27 @@
+---
+title: "pages_setup प्रॉपर्टी"
+second_title: "GroupDocs.Signature for Python via .NET API References"
+description: "हस्ताक्षर किए जाने वाले पृष्ठों को निर्दिष्ट करने के विकल्प।"
+type: docs
+url: /hi/python-net/groupdocs.signature.options/exportimagesaveoptions/pages_setup/
+is_root: false
+weight: 2050
+---
+
+
+## pages_setup property
+
+हस्ताक्षर किए जाने वाले पृष्ठों को निर्दिष्ट करने के विकल्प।
+
+### Definition:
+```python
+@property
+def pages_setup(self):
+    ...
+@pages_setup.setter
+def pages_setup(self, value):
+    ...
+```
+
+### संबंधित देखें
+* class [`ExportImageSaveOptions`](/signature/python-net/groupdocs.signature.options/exportimagesaveoptions/)
