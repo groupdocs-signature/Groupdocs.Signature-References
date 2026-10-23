@@ -1,0 +1,22 @@
+---
+title: "konstruktor __init__"
+second_title: "Referensi API GroupDocs.Signature untuk Python melalui .NET"
+description: "Menginisialisasi sebuah instance baru dari HIBCLICSecondaryAdditionalData."
+type: docs
+url: /id/python-net/groupdocs.signature.domain.extensions/hibclicsecondaryadditionaldata/__init__/
+is_root: false
+weight: 10
+---
+
+
+## __init__
+
+Menginisialisasi sebuah instance baru dari HIBCLICSecondaryAdditionalData.
+
+```python
+def __init__(self):
+    ...
+```
+
+### Lihat Juga
+* class [`HIBCLICSecondaryAdditionalData`](/signature/python-net/groupdocs.signature.domain.extensions/hibclicsecondaryadditionaldata/)
