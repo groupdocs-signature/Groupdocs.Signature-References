@@ -1,0 +1,27 @@
+---
+title: "text Eigenschaft"
+second_title: "GroupDocs.Signature für Python über .NET API-Referenzen"
+description: "Der Text der Signatur."
+type: docs
+url: /de/python-net/groupdocs.signature.domain/textsignature/text/
+is_root: false
+weight: 2030
+---
+
+
+## text property
+
+Der Text der Signatur.
+
+### Definition:
+```python
+@property
+def text(self):
+    ...
+@text.setter
+def text(self, value):
+    ...
+```
+
+### Siehe auch
+* class [`TextSignature`](/signature/python-net/groupdocs.signature.domain/textsignature/)
