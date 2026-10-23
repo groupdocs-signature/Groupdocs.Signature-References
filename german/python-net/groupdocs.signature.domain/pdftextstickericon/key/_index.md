@@ -1,0 +1,20 @@
+---
+title: "KEY-Feld"
+second_title: "GroupDocs.Signature für Python über .NET API-Referenzen"
+description: "Schlüsselsymbol."
+type: docs
+url: /de/python-net/groupdocs.signature.domain/pdftextstickericon/key/
+is_root: false
+weight: 3030
+---
+
+
+## KEY field
+
+Schlüsselsymbol.
+
+### Wert
+`2`
+
+### Siehe auch
+* class [`PdfTextStickerIcon`](/signature/python-net/groupdocs.signature.domain/pdftextstickericon/)

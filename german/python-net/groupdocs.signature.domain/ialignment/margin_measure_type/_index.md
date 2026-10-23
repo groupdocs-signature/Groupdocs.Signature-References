@@ -1,0 +1,27 @@
+---
+title: "margin_measure_type-Eigenschaft"
+second_title: "GroupDocs.Signature für Python über .NET API-Referenzen"
+description: "Der Messungstyp für den Rand (Pixel, Prozente oder Millimeter)."
+type: docs
+url: /de/python-net/groupdocs.signature.domain/ialignment/margin_measure_type/
+is_root: false
+weight: 2030
+---
+
+
+## margin_measure_type property
+
+Der Messungstyp für den Rand (Pixel, Prozente oder Millimeter).
+
+### Definition:
+```python
+@property
+def margin_measure_type(self):
+    ...
+@margin_measure_type.setter
+def margin_measure_type(self, value):
+    ...
+```
+
+### Siehe auch
+* class [`IAlignment`](/signature/python-net/groupdocs.signature.domain/ialignment/)

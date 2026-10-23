@@ -1,0 +1,237 @@
+---
+title: "Vorschau von Dokumentseiten erzeugen"
+linkTitle: "Generate document pages preview"
+second_title: "GroupDocs.Signature für Python über .NET API-Referenzen"
+description: "Dieses Thema erklärt, wie man mit GroupDocs.Signature für Python über .NET eine Vorschau von Dokumentseiten als Bilder mit verschiedenen Optionen erhält."
+type: docs
+url: /de/python-net/guides/generate-document-pages-preview/
+is_root: false
+weight: 130
+---
+
+
+## Overview
+
+[**GroupDocs.Signature**](https://products.groupdocs.com/signature/python-net) provides [PreviewOptions](https://reference.groupdocs.com/signature/python-net/groupdocs.signature.options/previewoptions/) class to specify different options to manage document pages preview generation process. The feature also supports archives previewing.
+  
+Hier sind die Schritte, um eine Dokumentvorschau mit GroupDocs.Signature zu erzeugen:
+
+* Create new instance of [Signature](https://reference.groupdocs.com/signature/python-net/groupdocs.signature/signature/) class and pass source document path or stream as a constructor parameter.
+* Instantiate the [PreviewOptions](https://reference.groupdocs.com/signature/python-net/groupdocs.signature.options/previewoptions/) object with:
+* a function that creates a stream for each page image (see [CreateDocPageStream](https://reference.groupdocs.com/signature/python-net/groupdocs.signature.options/createdocpagestream/));
+* image preview format - PNG / JPEG / BMP,
+* page numbers to process;
+* custom resolution of preview images (if needed).
+
+Der von der create‑Funktion zurückgegebene Stream wird automatisch geschlossen, sobald das Seitenbild geschrieben ist: eine Datei wird geschlossen und ein `io.BytesIO` enthält bereits das vollständige Bild. Wenn Sie jedes fertiggestellte Bild verarbeiten oder Ressourcen selbst bereinigen müssen, übergeben Sie eine Release‑Funktion als zusätzliches Argument (siehe [ReleaseDocPageStream](https://reference.groupdocs.com/signature/python-net/groupdocs.signature.options/releasedocpagestream/)).
+
+* Call `generate_preview` method of [Signature](https://reference.groupdocs.com/signature/python-net/groupdocs.signature/signature/) class instance and pass [PreviewOptions](https://reference.groupdocs.com/signature/python-net/groupdocs.signature.options/previewoptions/) to it.
+
+## CreatePageStream delegate implementation
+
+GroupDocs.Signature ruft die create‑Funktion einmal pro Seite auf und schreibt das Seitenbild in den zurückgegebenen Stream: ein beschreibbares Dateiobjekt, ein `io.BytesIO` oder ein .NET‑Stream. Das Argument `page_data` ist ein [PreviewPageData](https://reference.groupdocs.com/signature/python-net/groupdocs.signature.options/previewpagedata/)‑Objekt mit der `page_number`, dem `file_name` des Dokuments und dem `preview_format`.
+
+Seitennummern sind nullbasiert: `page_data.page_number` ist `0` für die erste Seite des Dokuments.
+
+```python
+def create_page_stream(page_data):
+    # Nullbasiert: preview_page_0.png ist die erste Seite
+    return open(f"preview_page_{page_data.page_number}.png", "wb")
+```
+
+Wenn Sie ein Archiv vorschauen, wird die Funktion für die Seiten jedes Dokuments darin aufgerufen. Seitennummern beginnen für jedes Dokument wieder bei `0`, daher sollten Sie beim Benennen der Bilder ebenfalls `page_data.file_name` verwenden.
+
+## ReleasePageStream delegate implementation
+
+The release function receives the same `page_data` and the same object the create function returned. By the time it is called, the image is complete.
+
+```python
+def release_page_stream(page_data, page_stream):
+    # page_stream is the object create_page_stream returned
+    print(f"Image file {page_stream.name} is ready for preview")
+```
+
+## Generate document preview from file on local disk
+
+{{< tabs "generate_document_preview" >}}
+{{< tab "Python" >}}
+```python
+from groupdocs.signature import Signature
+from groupdocs.signature.options import PreviewOptions
+
+def create_page_stream(page_data):
+    # Page numbers are 0-based: preview_page_0.png is the first page
+    image_name = f"preview_page_{page_data.page_number}.png"
+    print(f"Saving page {page_data.page_number + 1} to {image_name}")
+    return open(image_name, "wb")
+
+def generate_document_preview():
+    with Signature("sample.pdf") as signature:
+        # Create preview options object: one PNG image per page
+        preview_options = PreviewOptions(create_page_stream)
+        preview_options.preview_format = PreviewOptions.PreviewFormats.PNG
+        # Generate preview
+        signature.generate_preview(preview_options)
+
+if __name__ == "__main__":
+    generate_document_preview()
+```
+{{< /tab >}}
+{{< tab "sample.pdf" >}}
+
+`sample.pdf` ist die Beispieldatei, die in diesem Beispiel verwendet wird. Klicken Sie [hier](https://docs.groupdocs.com/signature/python-net/_sample_files/developer-guide/basic-usage/generate-document-pages-preview/sample.pdf), um sie herunterzuladen.
+
+{{< /tab >}}
+{{< tab "generate-document-preview-outputs.zip" >}}
+```text
+preview_page_0.png (75 KB)
+preview_page_1.png (64 KB)
+```
+[Download full output](https://docs.groupdocs.com/signature/python-net/_output_files/developer-guide/basic-usage/generate-document-pages-preview/generate_document_preview/generate-document-preview-outputs.zip)
+{{< /tab >}}
+{{< /tabs >}}
+
+## Generate document preview from stream with custom stream releasing delegate
+
+This example reads the document from a stream and keeps the page images in memory: the create function returns an `io.BytesIO`, and the release function receives it filled with the complete image.
+
+{{< tabs "generate_document_preview_from_stream" >}}
+{{< tab "Python" >}}
+```python
+import io
+
+from groupdocs.signature import Signature
+from groupdocs.signature.options import PreviewOptions
+
+def create_page_stream(page_data):
+    # Keep each page image in memory instead of writing a file
+    return io.BytesIO()
+
+def release_page_stream(page_data, page_stream):
+    # page_stream is the BytesIO returned above, already holding the whole image
+    image = page_stream.getvalue()
+    print(f"Page {page_data.page_number}: {len(image)} bytes of JPEG")
+
+def generate_document_preview_from_stream():
+    with open("sample.pdf", "rb") as stream:
+        with Signature(stream) as signature:
+            # Create preview options object with both functions
+            preview_options = PreviewOptions(create_page_stream, release_page_stream)
+            preview_options.preview_format = PreviewOptions.PreviewFormats.JPEG
+            # Generate preview
+            signature.generate_preview(preview_options)
+
+if __name__ == "__main__":
+    generate_document_preview_from_stream()
+```
+{{< /tab >}}
+{{< tab "sample.pdf" >}}
+
+`sample.pdf` ist die Beispieldatei, die in diesem Beispiel verwendet wird. Klicken Sie [hier](https://docs.groupdocs.com/signature/python-net/_sample_files/developer-guide/basic-usage/generate-document-pages-preview/sample.pdf), um sie herunterzuladen.
+
+{{< /tab >}}
+{{< tab "generate-document-preview-from-stream.txt" >}}
+```text
+Page 0: 276044 bytes of JPEG
+Page 1: 224194 bytes of JPEG
+```
+[Download full output](https://docs.groupdocs.com/signature/python-net/_output_files/developer-guide/basic-usage/generate-document-pages-preview/generate_document_preview_from_stream/generate-document-preview-from-stream.txt)
+{{< /tab >}}
+{{< /tabs >}}
+
+## Generate preview of particular pages
+
+Set `page_numbers` to preview only some pages. The numbers are 0-based, so `[1]` selects the second page.
+
+{{< tabs "generate_document_preview_of_selected_pages" >}}
+{{< tab "Python" >}}
+```python
+from groupdocs.signature import Signature
+from groupdocs.signature.options import PreviewOptions
+
+def create_page_stream(page_data):
+    return open(f"preview_page_{page_data.page_number}.png", "wb")
+
+def release_page_stream(page_data, page_stream):
+    print(f"Image file {page_stream.name} is ready for preview")
+
+def generate_document_preview_of_selected_pages():
+    with Signature("sample.pdf") as signature:
+        preview_options = PreviewOptions(create_page_stream, release_page_stream)
+        # Page numbers are 0-based: [1] is the second page
+        preview_options.page_numbers = [1]
+        signature.generate_preview(preview_options)
+
+if __name__ == "__main__":
+    generate_document_preview_of_selected_pages()
+```
+{{< /tab >}}
+{{< tab "sample.pdf" >}}
+
+`sample.pdf` ist die Beispieldatei, die in diesem Beispiel verwendet wird. Klicken Sie [hier](https://docs.groupdocs.com/signature/python-net/_sample_files/developer-guide/basic-usage/generate-document-pages-preview/sample.pdf), um sie herunterzuladen.
+
+{{< /tab >}}
+{{< tab "preview_page_1.png" >}}
+```text
+Binary file (PNG, 64 KB)
+```
+[Download full output](https://docs.groupdocs.com/signature/python-net/_output_files/developer-guide/basic-usage/generate-document-pages-preview/generate_document_preview_of_selected_pages/preview_page_1.png)
+{{< /tab >}}
+{{< /tabs >}}
+
+## Creating a document preview with custom Resolution
+
+The default resolution is 96 DPI. Pass the resolution as the third argument of [`PreviewOptions`](/signature/python-net/groupdocs.signature.options/previewoptions/), or set the `resolution` property.
+
+{{< tabs "generate_document_preview_with_resolution" >}}
+{{< tab "Python" >}}
+```python
+from groupdocs.signature import Signature
+from groupdocs.signature.options import PreviewOptions
+
+def create_page_stream(page_data):
+    return open(f"preview_page_{page_data.page_number}_150dpi.jpg", "wb")
+
+def release_page_stream(page_data, page_stream):
+    print(f"Image file {page_stream.name} is ready for preview")
+
+def generate_document_preview_with_resolution():
+    with Signature("sample.pdf") as signature:
+        resolution = 150
+        # Create preview options object: 150 DPI instead of the default 96
+        preview_options = PreviewOptions(create_page_stream, release_page_stream, resolution)
+        preview_options.preview_format = PreviewOptions.PreviewFormats.JPEG
+        # Generate preview
+        signature.generate_preview(preview_options)
+
+if __name__ == "__main__":
+    generate_document_preview_with_resolution()
+```
+{{< /tab >}}
+{{< tab "sample.pdf" >}}
+
+`sample.pdf` ist die Beispieldatei, die in diesem Beispiel verwendet wird. Klicken Sie [hier](https://docs.groupdocs.com/signature/python-net/_sample_files/developer-guide/basic-usage/generate-document-pages-preview/sample.pdf), um sie herunterzuladen.
+
+{{< /tab >}}
+{{< tab \"generate-document-preview-with-resolution-outputs.zip\" >}}
+```text
+preview_page_0_150dpi.jpg (495 KB)
+preview_page_1_150dpi.jpg (425 KB)
+```
+[Download full output](https://docs.groupdocs.com/signature/python-net/_output_files/developer-guide/basic-usage/generate-document-pages-preview/generate_document_preview_with_resolution/generate-document-preview-with-resolution-outputs.zip)
+{{< /tab >}}
+{{< /tabs >}}
+
+## More resources
+
+### GitHub Examples
+
+Sie können den obigen Code ganz einfach ausführen und die Funktion in Aktion in unseren GitHub‑Beispielen sehen:
+
+* [GroupDocs.Signature for Python examples, plugins, and showcase](https://github.com/groupdocs-signature/GroupDocs.Signature-for-Python)
+
+### Free Online Apps
+
+Zusammen mit der voll ausgestatteten Python‑Bibliothek bieten wir einfache, aber leistungsstarke kostenlose Online‑Apps an.
+
+Um PDF-, Word-, Excel-, PowerPoint- und andere Dokumente zu signieren, können Sie die Online‑Apps der **[GroupDocs.Signature App Product Family](https://products.groupdocs.app/signature/family)** verwenden.
