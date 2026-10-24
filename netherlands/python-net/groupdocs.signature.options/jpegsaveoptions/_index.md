@@ -1,0 +1,39 @@
+---
+title: "JpegSaveOptions klasse"
+second_title: "GroupDocs.Signature for Python via .NET API-referenties"
+description: "Vertegenwoordigt JPEG-opslagopties voor afbeeldingsdocumenten."
+type: docs
+url: /nl/python-net/groupdocs.signature.options/jpegsaveoptions/
+is_root: false
+weight: 290
+---
+
+
+## JpegSaveOptions class
+
+Vertegenwoordigt JPEG-opslagopties voor afbeeldingsdocumenten.
+
+Het JpegSaveOptions-type bevat de volgende leden:
+
+### Constructors
+| Constructor | Beschrijving |
+| :- | :- |
+| [__init__](/signature/python-net/groupdocs.signature.options/jpegsaveoptions/__init__/) | Initialiseert JpegSaveOptions met standaardwaarden. |
+
+### Eigenschappen
+| Eigenschap | Beschrijving |
+| :- | :- |
+| [bits_per_channel](/signature/python-net/groupdocs.signature.options/jpegsaveoptions/bits_per_channel/) | Het aantal bits per kanaal voor een verliesloos JPEG‑beeld. Ondersteunde waarden liggen tussen 2 en 8 bits per kanaal. |
+| [color_type](/signature/python-net/groupdocs.signature.options/jpegsaveoptions/color_type/) | Het kleurtype voor JPEG‑beeld. |
+| [comment](/signature/python-net/groupdocs.signature.options/jpegsaveoptions/comment/) | De JPEG‑bestandopmerking. |
+| [compression_type](/signature/python-net/groupdocs.signature.options/jpegsaveoptions/compression_type/) | Het compressietype. |
+| [quality](/signature/python-net/groupdocs.signature.options/jpegsaveoptions/quality/) | De beeldkwaliteit. |
+| [sample_rounding_mode](/signature/python-net/groupdocs.signature.options/jpegsaveoptions/sample_rounding_mode/) | De afrondingsmodus voor monsters die wordt gebruikt om een 8‑bitwaarde aan te passen aan een n‑bitwaarde van `JpegOptions.BitsPerChannel`. |
+| [add_missing_extenstion](/signature/python-net/groupdocs.signature.options/saveoptions/add_missing_extenstion/) | De vlag die bepaalt of er automatisch een extensie wordt toegevoegd wanneer deze ontbreekt in het uitvoerbestandspad. Standaardwaarde is False. (geërfd van [`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions/)) |
+| [file_format](/signature/python-net/groupdocs.signature.options/imagesaveoptions/file_format/) | Het bestandsformaat van het ondertekende document. (geërfd van [`ImageSaveOptions`](/signature/python-net/groupdocs.signature.options/imagesaveoptions/)) |
+| [overwrite_existing_files](/signature/python-net/groupdocs.signature.options/saveoptions/overwrite_existing_files/) | De vlag die aangeeft of een bestaand bestand moet worden overschreven met het nieuwe uitvoerbestand. (geërfd van [`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions/)) |
+| [password](/signature/python-net/groupdocs.signature.options/saveoptions/password/) | Het wachtwoord dat wordt gebruikt om het opgeslagen ondertekende document te beveiligen. Niet ondersteund voor afbeeldingsdocumenten. (geërfd van [`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions/)) |
+| [use_original_password](/signature/python-net/groupdocs.signature.options/saveoptions/use_original_password/) | De vlag die aangeeft of het wachtwoord van [`LoadOptions`](/signature/python-net/groupdocs.signature.options/loadoptions/) moet worden gebruikt bij het opslaan van het ondertekende document als beschermd. De standaardwaarde is True. Niet ondersteund voor afbeeldingsdocumenten. (geërfd van [`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions/)) |
+
+### Zie ook
+* module [`groupdocs.signature.options`](/signature/python-net/groupdocs.signature.options/)

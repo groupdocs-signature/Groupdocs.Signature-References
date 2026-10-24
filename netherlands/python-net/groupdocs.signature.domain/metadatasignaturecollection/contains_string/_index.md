@@ -1,0 +1,20 @@
+---
+title: "contains_string-methode"
+second_title: "GroupDocs.Signature for Python via .NET API-referenties"
+description: "MetadataSignatureCollection.contains_string methode — GroupDocs.Signature voor Python via .NET."
+type: docs
+url: /nl/python-net/groupdocs.signature.domain/metadatasignaturecollection/contains_string/
+is_root: false
+weight: 1100
+---
+
+
+## contains_string
+
+```python
+def contains_string(self):
+    ...
+```
+
+### Zie ook
+* class [`MetadataSignatureCollection`](/signature/python-net/groupdocs.signature.domain/metadatasignaturecollection/)

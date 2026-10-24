@@ -1,0 +1,24 @@
+---
+title: "documents eigenschap"
+second_title: "GroupDocs.Signature for Python via .NET API-referenties"
+description: "De verzameling van alle bestaande documenten binnen de archiefbestanden."
+type: docs
+url: /nl/python-net/groupdocs.signature.domain/idocumentinfo/documents/
+is_root: false
+weight: 2030
+---
+
+
+## documents property
+
+De verzameling van alle bestaande documenten binnen de archiefbestanden. Deze eigenschap wordt alleen ondersteund voor archiefdocumenttypen.
+
+### Definition:
+```python
+@property
+def documents(self):
+    ...
+```
+
+### Zie ook
+* class [`IDocumentInfo`](/signature/python-net/groupdocs.signature.domain/idocumentinfo/)

@@ -1,0 +1,17 @@
+---
+title: "DUTCH_KIX veld"
+second_title: "GroupDocs.Signature for Python via .NET API-referenties"
+description: "DutchKIX barcode-type object."
+type: docs
+url: /nl/python-net/groupdocs.signature.domain/barcodetypes/dutch_kix/
+is_root: false
+weight: 3240
+---
+
+
+## DUTCH_KIX field
+
+DutchKIX barcode-type object.
+
+### Zie ook
+* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes/)
