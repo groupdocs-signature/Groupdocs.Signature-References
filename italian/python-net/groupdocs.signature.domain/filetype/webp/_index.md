@@ -1,0 +1,17 @@
+---
+title: "campo WEBP"
+second_title: "GroupDocs.Signature for Python via .NET Riferimenti API"
+description: "WebP Image (.webp) è un moderno formato di file immagine raster per il web basato su compressione senza perdita e con perdita."
+type: docs
+url: /it/python-net/groupdocs.signature.domain/filetype/webp/
+is_root: false
+weight: 3130
+---
+
+
+## WEBP field
+
+L'immagine WebP (.webp) è un moderno formato file immagine raster per il web basato su compressione senza perdita e con perdita. Fornisce la stessa qualità dell'immagine riducendo notevolmente le dimensioni del file. Scopri di più su questo formato file qui.
+
+### Vedi anche
+* class [`FileType`](/signature/python-net/groupdocs.signature.domain/filetype/)

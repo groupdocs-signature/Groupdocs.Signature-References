@@ -1,0 +1,24 @@
+---
+title: "qr_code_signatures proprietà"
+second_title: "GroupDocs.Signature for Python via .NET Riferimenti API"
+description: "La raccolta delle firme QR-code del documento aggiunte o aggiornate dai metodi Signature."
+type: docs
+url: /it/python-net/groupdocs.signature.domain/idocumentinfo/qr_code_signatures/
+is_root: false
+weight: 2130
+---
+
+
+## qr_code_signatures property
+
+La raccolta delle firme QR-code del documento aggiunte o aggiornate dai metodi [`Signature`](/signature/python-net/groupdocs.signature/signature/).
+
+### Definition:
+```python
+@property
+def qr_code_signatures(self):
+    ...
+```
+
+### Vedi anche
+* class [`IDocumentInfo`](/signature/python-net/groupdocs.signature.domain/idocumentinfo/)

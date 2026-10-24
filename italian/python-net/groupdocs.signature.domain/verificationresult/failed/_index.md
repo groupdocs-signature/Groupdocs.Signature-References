@@ -1,0 +1,26 @@
+---
+title: "proprietà failed"
+second_title: "GroupDocs.Signature for Python via .NET Riferimenti API"
+description: "L'elenco delle firme che hanno fallito il processo di verifica."
+type: docs
+url: /it/python-net/groupdocs.signature.domain/verificationresult/failed/
+is_root: false
+weight: 2020
+---
+
+
+## failed property
+
+L'elenco delle firme che hanno fallito il processo di verifica.
+
+Attualmente questa proprietà non è supportata.
+
+### Definition:
+```python
+@property
+def failed(self):
+    ...
+```
+
+### Vedi anche
+* class [`VerificationResult`](/signature/python-net/groupdocs.signature.domain/verificationresult/)
