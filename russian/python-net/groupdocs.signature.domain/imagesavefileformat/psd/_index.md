@@ -1,0 +1,20 @@
+---
+title: "поле PSD"
+second_title: "GroupDocs.Signature for Python via .NET Справочник API"
+description: "Сохраняет документ в формате Psd."
+type: docs
+url: /ru/python-net/groupdocs.signature.domain/imagesavefileformat/psd/
+is_root: false
+weight: 3060
+---
+
+
+## PSD field
+
+Сохраняет документ в формате Psd.
+
+### Значение
+`5`
+
+### См. также
+* class [`ImageSaveFileFormat`](/signature/python-net/groupdocs.signature.domain/imagesavefileformat/)
