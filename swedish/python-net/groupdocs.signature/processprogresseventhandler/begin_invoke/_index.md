@@ -1,0 +1,27 @@
+---
+title: "begin_invoke metod"
+second_title: "GroupDocs.Signature för Python via .NET API-referenser"
+description: "ProcessProgressEventHandler.begin_invoke‑metoden — GroupDocs.Signature för Python via .NET."
+type: docs
+url: /sv/python-net/groupdocs.signature/processprogresseventhandler/begin_invoke/
+is_root: false
+weight: 1010
+---
+
+
+## begin_invoke {#signature-args-callback-object}
+
+```python
+def begin_invoke(self, signature, args, callback, object):
+    ...
+```
+
+| Parameter | Typ | Beskrivning |
+| :- | :- | :- |
+| signature | `Signature` |  |
+| args | `ProcessProgressEventArgs` |  |
+| callback | `System.AsyncCallback` |  |
+| object | `Any` |  |
+
+### Se även
+* class [`ProcessProgressEventHandler`](/signature/python-net/groupdocs.signature/processprogresseventhandler/)

@@ -1,0 +1,27 @@
+---
+title: "underline‑egenskap"
+second_title: "GroupDocs.Signature för Python via .NET API-referenser"
+description: "Understrykningsstil för teckensnittet."
+type: docs
+url: /sv/python-net/groupdocs.signature.domain/signaturefont/underline/
+is_root: false
+weight: 2060
+---
+
+
+## underline property
+
+Understrykningsstil för teckensnittet.
+
+### Definition:
+```python
+@property
+def underline(self):
+    ...
+@underline.setter
+def underline(self, value):
+    ...
+```
+
+### Se även
+* class [`SignatureFont`](/signature/python-net/groupdocs.signature.domain/signaturefont/)
