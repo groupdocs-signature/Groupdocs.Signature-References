@@ -1,0 +1,17 @@
+---
+title: "campo ITF6"
+second_title: "Referencias de API de GroupDocs.Signature para Python a través de .NET"
+description: "Objeto de tipo de código de barras ITF6."
+type: docs
+url: /es/python-net/groupdocs.signature.domain/barcodetypes/itf6/
+is_root: false
+weight: 3380
+---
+
+
+## ITF6 field
+
+Objeto de tipo de código de barras ITF6.
+
+### Ver también
+* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes/)

@@ -1,0 +1,27 @@
+---
+title: "propiedad rotation_angle"
+second_title: "Referencias de API de GroupDocs.Signature para Python a través de .NET"
+description: "El ángulo de rotación de la firma en la página del documento (en sentido horario)."
+type: docs
+url: /es/python-net/groupdocs.signature.options/textsignoptions/rotation_angle/
+is_root: false
+weight: 2140
+---
+
+
+## rotation_angle property
+
+El ángulo de rotación de la firma en la página del documento (en sentido horario).
+
+### Definition:
+```python
+@property
+def rotation_angle(self):
+    ...
+@rotation_angle.setter
+def rotation_angle(self, value):
+    ...
+```
+
+### Ver también
+* class [`TextSignOptions`](/signature/python-net/groupdocs.signature.options/textsignoptions/)
