@@ -1,0 +1,20 @@
+---
+title: "ARROW 필드"
+second_title: "GroupDocs.Signature Python용 .NET을 통한 API 참조"
+description: "Arrow."
+type: docs
+url: /ko/python-net/groupdocs.signature.domain/textshapetype/arrow/
+is_root: false
+weight: 3130
+---
+
+
+## ARROW field
+
+Arrow.
+
+### 값
+`13`
+
+### 또 보기
+* class [`TextShapeType`](/signature/python-net/groupdocs.signature.domain/textshapetype/)
