@@ -1,0 +1,17 @@
+---
+title: "Campo GS1_HAN_XIN"
+second_title: "GroupDocs.Signature for Python via .NET Riferimenti API"
+description: "Oggetto tipo GS1 Han Xin QR-Code."
+type: docs
+url: /it/python-net/groupdocs.signature.domain/qrcodetypes/gs1_han_xin/
+is_root: false
+weight: 3140
+---
+
+
+## GS1_HAN_XIN field
+
+Oggetto tipo GS1 Han Xin QR-Code.
+
+### Vedi anche
+* class [`QrCodeTypes`](/signature/python-net/groupdocs.signature.domain/qrcodetypes/)
