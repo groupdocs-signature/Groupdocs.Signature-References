@@ -1,0 +1,27 @@
+---
+title: "inner_margins eigenschap"
+second_title: "GroupDocs.Signature for Python via .NET API-referenties"
+description: "De ruimte tussen barcode‑elementen en de randen van de resulterende afbeelding."
+type: docs
+url: /nl/python-net/groupdocs.signature.options/barcodesignoptions/inner_margins/
+is_root: false
+weight: 2060
+---
+
+
+## inner_margins property
+
+De ruimte tussen barcode‑elementen en de randen van de resulterende afbeelding.
+
+### Definition:
+```python
+@property
+def inner_margins(self):
+    ...
+@inner_margins.setter
+def inner_margins(self, value):
+    ...
+```
+
+### Zie ook
+* class [`BarcodeSignOptions`](/signature/python-net/groupdocs.signature.options/barcodesignoptions/)

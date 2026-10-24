@@ -1,0 +1,27 @@
+---
+title: "begin_invoke-methode"
+second_title: "GroupDocs.Signature for Python via .NET API-referenties"
+description: "ProcessCompleteEventHandler.begin_invoke methode — GroupDocs.Signature voor Python via .NET."
+type: docs
+url: /nl/python-net/groupdocs.signature/processcompleteeventhandler/begin_invoke/
+is_root: false
+weight: 1010
+---
+
+
+## begin_invoke {#signature-args-callback-object}
+
+```python
+def begin_invoke(self, signature, args, callback, object):
+    ...
+```
+
+| Parameter | Type | Beschrijving |
+| :- | :- | :- |
+| signature | `Signature` |  |
+| args | `ProcessCompleteEventArgs` |  |
+| callback | `System.AsyncCallback` |  |
+| object | `Any` |  |
+
+### Zie ook
+* class [`ProcessCompleteEventHandler`](/signature/python-net/groupdocs.signature/processcompleteeventhandler/)

@@ -1,0 +1,17 @@
+---
+title: "DATABAR_STACKED veld"
+second_title: "GroupDocs.Signature for Python via .NET API-referenties"
+description: "DatabarStacked barcode-type object."
+type: docs
+url: /nl/python-net/groupdocs.signature.domain/barcodetypes/databar_stacked/
+is_root: false
+weight: 3170
+---
+
+
+## DATABAR_STACKED field
+
+DatabarStacked barcode-type object.
+
+### Zie ook
+* class [`BarcodeTypes`](/signature/python-net/groupdocs.signature.domain/barcodetypes/)
