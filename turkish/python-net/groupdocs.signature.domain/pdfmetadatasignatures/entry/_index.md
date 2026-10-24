@@ -1,0 +1,17 @@
+---
+title: "ENTRY alan"
+second_title: "GroupDocs.Signature Python için .NET API Referansları"
+description: "Pdf Belge Giriş meta veri özelliği."
+type: docs
+url: /tr/python-net/groupdocs.signature.domain/pdfmetadatasignatures/entry/
+is_root: false
+weight: 3070
+---
+
+
+## ENTRY field
+
+Pdf Belge Giriş meta veri özelliği.
+
+### Ayrıca Bakınız
+* class [`PdfMetadataSignatures`](/signature/python-net/groupdocs.signature.domain/pdfmetadatasignatures/)
