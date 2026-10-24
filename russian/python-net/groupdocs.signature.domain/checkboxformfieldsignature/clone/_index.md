@@ -1,0 +1,24 @@
+---
+title: "метод clone"
+second_title: "GroupDocs.Signature for Python via .NET Справочник API"
+description: "Клонирует экземпляр подписи FormField."
+type: docs
+url: /ru/python-net/groupdocs.signature.domain/checkboxformfieldsignature/clone/
+is_root: false
+weight: 1010
+---
+
+
+## clone
+
+Клонирует экземпляр подписи FormField.
+
+```python
+def clone(self):
+    ...
+```
+
+**Returns:** Cloned FormField signature instance.
+
+### См. также
+* class [`CheckboxFormFieldSignature`](/signature/python-net/groupdocs.signature.domain/checkboxformfieldsignature/)
