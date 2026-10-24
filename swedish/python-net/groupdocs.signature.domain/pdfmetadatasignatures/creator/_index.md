@@ -1,0 +1,17 @@
+---
+title: "CREATOR-fält"
+second_title: "GroupDocs.Signature för Python via .NET API-referenser"
+description: "Pdf-dokumentets metadataegenskap för skapare."
+type: docs
+url: /sv/python-net/groupdocs.signature.domain/pdfmetadatasignatures/creator/
+is_root: false
+weight: 3120
+---
+
+
+## CREATOR field
+
+Pdf-dokumentets metadataegenskap för skapare.
+
+### Se även
+* class [`PdfMetadataSignatures`](/signature/python-net/groupdocs.signature.domain/pdfmetadatasignatures/)

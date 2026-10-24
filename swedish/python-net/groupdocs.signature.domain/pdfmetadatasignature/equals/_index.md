@@ -1,0 +1,28 @@
+---
+title: "equals metod"
+second_title: "GroupDocs.Signature för Python via .NET API-referenser"
+description: "Jämför den här signaturen med en annan för likhet baserat på dess egenskaper."
+type: docs
+url: /sv/python-net/groupdocs.signature.domain/pdfmetadatasignature/equals/
+is_root: false
+weight: 1030
+---
+
+
+## equals {#obj}
+
+Jämför den här signaturen med en annan för likhet baserat på dess egenskaper.
+
+```python
+def equals(self, obj):
+    ...
+```
+
+| Parameter | Typ | Beskrivning |
+| :- | :- | :- |
+| obj | `Any` | Signaturobjekt att jämföra med. |
+
+**Returns:** bool: True if the passed signature object has the same type and all its properties are equal to this instance's properties.
+
+### Se även
+* class [`PdfMetadataSignature`](/signature/python-net/groupdocs.signature.domain/pdfmetadatasignature/)
