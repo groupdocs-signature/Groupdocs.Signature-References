@@ -1,0 +1,20 @@
+---
+title: "INFO 필드"
+second_title: "GroupDocs.Signature Python용 .NET을 통한 API 참조"
+description: "문서 정보 가져오기 프로세스입니다."
+type: docs
+url: /ko/python-net/groupdocs.signature.domain/processtype/info/
+is_root: false
+weight: 3020
+---
+
+
+## INFO field
+
+문서 정보 가져오기 프로세스입니다.
+
+### 값
+`1`
+
+### 또 보기
+* class [`ProcessType`](/signature/python-net/groupdocs.signature.domain/processtype/)

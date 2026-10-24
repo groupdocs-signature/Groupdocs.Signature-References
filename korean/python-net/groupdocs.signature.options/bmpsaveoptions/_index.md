@@ -1,0 +1,37 @@
+---
+title: "BmpSaveOptions 클래스"
+second_title: "GroupDocs.Signature Python용 .NET을 통한 API 참조"
+description: "이미지 문서에 대한 BMP 저장 옵션을 나타냅니다."
+type: docs
+url: /ko/python-net/groupdocs.signature.options/bmpsaveoptions/
+is_root: false
+weight: 50
+---
+
+
+## BmpSaveOptions class
+
+이미지 문서에 대한 BMP 저장 옵션을 나타냅니다.
+
+BmpSaveOptions 형식은 다음 멤버를 노출합니다:
+
+### 생성자
+| 생성자 | 설명 |
+| :- | :- |
+| [__init__](/signature/python-net/groupdocs.signature.options/bmpsaveoptions/__init__/) | BmpSaveOptions를 기본값으로 초기화합니다. |
+
+### 속성
+| 속성 | 설명 |
+| :- | :- |
+| [bits_per_pixel](/signature/python-net/groupdocs.signature.options/bmpsaveoptions/bits_per_pixel/) | 이미지의 픽셀당 비트 수입니다. |
+| [compression](/signature/python-net/groupdocs.signature.options/bmpsaveoptions/compression/) | 압축입니다. `BitmapCompression`을 참조하십시오. |
+| [horizontal_resolution](/signature/python-net/groupdocs.signature.options/bmpsaveoptions/horizontal_resolution/) | 수평 해상도입니다. 반올림으로 인해 결과 해상도가 설정값과 약간 다를 수 있음을 유의하십시오. |
+| [vertical_resolution](/signature/python-net/groupdocs.signature.options/bmpsaveoptions/vertical_resolution/) | 수직 해상도입니다; 반올림으로 인해 결과 해상도가 설정값과 약간 다를 수 있음을 유의하십시오. |
+| [add_missing_extenstion](/signature/python-net/groupdocs.signature.options/saveoptions/add_missing_extenstion/) | 출력 파일 경로에 확장자가 없을 때 자동으로 추가할지 여부를 결정하는 플래그입니다. 기본값은 False입니다. (상속됨: [`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions/)) |
+| [file_format](/signature/python-net/groupdocs.signature.options/imagesaveoptions/file_format/) | 서명된 문서의 파일 형식입니다. (상속됨: [`ImageSaveOptions`](/signature/python-net/groupdocs.signature.options/imagesaveoptions/)) |
+| [overwrite_existing_files](/signature/python-net/groupdocs.signature.options/saveoptions/overwrite_existing_files/) | 새 출력 파일로 기존 파일을 덮어쓸지 여부를 나타내는 플래그입니다. (상속됨: [`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions/)) |
+| [password](/signature/python-net/groupdocs.signature.options/saveoptions/password/) | 저장된 서명 문서를 보호하는 데 사용되는 비밀번호입니다. 이미지 문서에서는 지원되지 않습니다. (상속됨: [`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions/)) |
+| [use_original_password](/signature/python-net/groupdocs.signature.options/saveoptions/use_original_password/) | 서명된 문서를 보호된 상태로 저장할 때 [`LoadOptions`](/signature/python-net/groupdocs.signature.options/loadoptions/)의 비밀번호를 사용할지 여부를 나타내는 플래그입니다. 기본값은 True입니다. 이미지 문서에서는 지원되지 않습니다. (상속됨: [`SaveOptions`](/signature/python-net/groupdocs.signature.options/saveoptions/)) |
+
+### 또 보기
+* module [`groupdocs.signature.options`](/signature/python-net/groupdocs.signature.options/)
